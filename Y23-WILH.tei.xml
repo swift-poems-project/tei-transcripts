@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon W<hi rend="superscript">m</hi> Tisdal. D.D.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y23-WILH">
+          <head type="note" n="1" xml:id="spp-Y23-WILH-headnote-1">
+            <lg n="1" xml:id="spp-Y23-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y23-WILH-headnote-1-line-group-1-line-1">Being in a vein of writing Epigrams I send you the following Piece upon Tisdall w<hi rend="superscript">ch</hi> I intend to send to all his acquaintance for he goes from house to house to shew his wit on me for w<hi rend="superscript">ch</hi> I think it reasonable he shou'd have something to stare him [in] the face.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y23-WILH-headnote-2">
+            <lg n="1" xml:id="spp-Y23-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y23-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y23-WILH-headnote-3">
+            <lg n="1" xml:id="spp-Y23-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y23-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y23-WILH-line-1" n="1">When a Roman was dying the next man or kin</l>
+            <l xml:id="swift-Y23-WILH-line-2" n="2">Stood over him gaping to take his breath in,</l>
+            <l xml:id="swift-Y23-WILH-line-3" n="3">Were Tisdal the same way to blow out his Breath</l>
+            <l xml:id="swift-Y23-WILH-line-4" n="4">Such a whiff to the Living were much worse than [death]</l>
+            <l xml:id="swift-Y23-WILH-line-5" n="5">Any man with a nose wou'd much rather dye,</l>
+            <l xml:id="swift-Y23-WILH-line-6" n="6">So wou'd jack, so wou'd Dan, so woud you, so wou'd I.</l>
+            <l xml:id="swift-Y23-WILH-line-7" n="7">Without a reproach to the doctor I think,</l>
+            <l xml:id="swift-Y23-WILH-line-8" n="8">When ever he dye's he must dye with a stink.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

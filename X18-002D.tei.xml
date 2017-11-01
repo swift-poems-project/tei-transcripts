@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 2AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X18-002D">
+          <head type="note" n="1" xml:id="spp-X18-002D-headnote-1">
+            <lg n="1" xml:id="spp-X18-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X18-002D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X18-002D-headnote-2">
+            <lg n="1" xml:id="spp-X18-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X18-002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X18-002D-headnote-3">
+            <lg n="1" xml:id="spp-X18-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X18-002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X18-002D-line-1" n="1">I can't but wonder M<hi rend="superscript">ṛ</hi> Dean</l>
+            <l xml:id="swift-X18-002D-line-2" n="2">To see You live so often slain.</l>
+            <l xml:id="swift-X18-002D-line-3" n="3">My Arrows fly and fly in Vain</l>
+            <l xml:id="swift-X18-002D-line-4" n="4">But still I try, and try again,</l>
+            <l xml:id="swift-X18-002D-line-5" n="5">I'm now Sir in a writing vein</l>
+            <l xml:id="swift-X18-002D-line-6" n="6">Don't think like You I squeese and strain,</l>
+            <l xml:id="swift-X18-002D-line-7" n="7">Perhaps You'll ask me what I mean;</l>
+            <l xml:id="swift-X18-002D-line-8" n="8">I will not tell because 'tis plain</l>
+            <l xml:id="swift-X18-002D-line-9" n="9">Your Muse I'm told is in the Wane</l>
+            <l xml:id="swift-X18-002D-line-10" n="10">If so from Pen and Ink refrain.</l>
+            <l xml:id="swift-X18-002D-line-11" n="11">Indeed believe me I'm in pain</l>
+            <l xml:id="swift-X18-002D-line-12" n="12">For her and You, Your Life's a scene</l>
+            <l xml:id="swift-X18-002D-line-13" n="13">Of Verse and Rhymes and Hurricane</l>
+            <l xml:id="swift-X18-002D-line-14" n="14">Enough to Crack the strongest Brain.</l>
+            <l xml:id="swift-X18-002D-line-15" n="15">Now to Conclude I do remain</l>
+            <l rend="indent(4)" xml:id="swift-X18-002D-line-16" n="16">Your honest friend<lb/>|||Tom: Sheridan.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

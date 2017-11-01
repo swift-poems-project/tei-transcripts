@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ATLAS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="160-WILH">
+          <head type="note" n="1" xml:id="spp-160-WILH-headnote-1">
+            <lg n="1" xml:id="spp-160-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-WILH-headnote-1-line-group-1-line-1">writt. 1712 TO THE EARL OF OXFORD, - - -&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-160-WILH-headnote-2">
+            <lg n="1" xml:id="spp-160-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-160-WILH-headnote-3">
+            <lg n="1" xml:id="spp-160-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-160-WILH-line-1" n="1"><hi rend="display-initial">A</hi>TLAS we read in antient Song</l>
+            <l xml:id="swift-160-WILH-line-2" n="2">Was so exceeding tall and Strong,</l>
+            <l xml:id="swift-160-WILH-line-3" n="3">He bore the Skyes upon his Back</l>
+            <l xml:id="swift-160-WILH-line-4" n="4">Just as a Porter does his Pack</l>
+            <l xml:id="swift-160-WILH-line-5" n="5">But, as a Porter overpresst</l>
+            <l xml:id="swift-160-WILH-line-6" n="6">Unloads upon a Stall to rest</l>
+            <l xml:id="swift-160-WILH-line-7" n="7">Or when he can no longer stand</l>
+            <l xml:id="swift-160-WILH-line-8" n="8">Desires some Friend to lend a Hand</l>
+            <l xml:id="swift-160-WILH-line-9" n="9">So Atlas, lest the pondrous Sphears</l>
+            <l xml:id="swift-160-WILH-line-10" n="10">Should sink and fall about his Ears</l>
+            <l xml:id="swift-160-WILH-line-11" n="11">Got Hercules to bear the Pile</l>
+            <l xml:id="swift-160-WILH-line-12" n="12">That he might take his Rest awhile,</l>
+            <l xml:id="swift-160-WILH-line-13" n="13">Yet Hercules was not so strong,</l>
+            <l xml:id="swift-160-WILH-line-14" n="14">Nor could have borne it half so long.</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-15" n="15">All Statesmen are in this Condition,</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-16" n="16">And Atlas is a Politician</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-17" n="17">A Premier Minister of State</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-18" n="18">Alcides, one of second Rate.</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-19" n="19">Suppose then Atlas ne'er so wise,</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-20" n="20">Yet when the Weight of Kingdoms lyes</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-21" n="21">Too long upon his single Shoulders</l>
+            <l rend="indent(1)" xml:id="swift-160-WILH-line-22" n="22">He must sink down, or find Up-holders</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

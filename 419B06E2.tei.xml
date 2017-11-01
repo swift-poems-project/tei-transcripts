@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-419B06E2-title-1">The P<hi rend="small-caps">OWER</hi> of T<hi rend="small-caps">IME</hi> <ref target="#spp-419B06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-419B06E2-footnote-title-1" place="foot">Scarron hath written a larger poem on the same subject</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 14JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-419B06E2-footnote-title-1 #spp-419B06E2-title-1"/>
+        </linkGrp>
+        <div n="419B06E2">
+          <head type="note" n="1" xml:id="spp-419B06E2-headnote-1">
+            <lg n="1" xml:id="spp-419B06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419B06E2-headnote-1-line-group-1-line-1">Written in the year 1730.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-419B06E2-headnote-2">
+            <lg n="1" xml:id="spp-419B06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419B06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-419B06E2-headnote-3">
+            <lg n="1" xml:id="spp-419B06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419B06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-419B06E2-line-1" n="1"><hi rend="display-initial">I</hi>F neither brass nor marble can withstand</l>
+            <l xml:id="swift-419B06E2-line-2" n="2">The mortal force of <hi rend="italics">Time</hi>'s destructive hand;</l>
+            <l xml:id="swift-419B06E2-line-3" n="3">If mountains sink to vales, if cities die,</l>
+            <l xml:id="swift-419B06E2-line-4" n="4">And less'ning rivers mourn their fountains dry:</l>
+            <l xml:id="swift-419B06E2-line-5" n="5">When my old cassock (said a Welsh divine)</l>
+            <l xml:id="swift-419B06E2-line-6" n="6">Is out at elbows, why should I repine?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

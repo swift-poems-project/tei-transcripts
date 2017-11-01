@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 16AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J01154H1">
+          <head type="note" n="1" xml:id="spp-J01154H1-headnote-1">
+            <lg n="1" xml:id="spp-J01154H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J01154H1-headnote-1-line-group-1-line-1">I'll tell you a copy of verses. When Mr. <hi rend="italics">St. John</hi> was turned out from being secretary at war, three years ago, he retired to the country: there he was talking of something he would have written over his <hi rend="italics">summer-house</hi>, and a gentleman gave him these verses;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J01154H1-headnote-2">
+            <lg n="1" xml:id="spp-J01154H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J01154H1-headnote-2-line-group-1-line-1">He swore to me he could hardly bear the jest; for he pretended to retire like a philosopher, though he was but twenty-eight years old: and I believe the thing was true; for he had been a thorough rake. I think the three grave lines do introduce the last well enough. Od so, but I'll go sleep; I sleep early now.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J01154H1-headnote-3">
+            <lg n="1" xml:id="spp-J01154H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J01154H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J01154H1-line-1" n="1">From business and the noisy world reti'd,</l>
+            <l xml:id="swift-J01154H1-line-2" n="2">Nor vex'd by love, nor by ambition fir'd;</l>
+            <l xml:id="swift-J01154H1-line-3" n="3">Gently I wait the call of <hi rend="italics">Charon</hi>'s boat,</l>
+            <l xml:id="swift-J01154H1-line-4" n="4">Still drinking like a fish, and ──── like a stoat.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

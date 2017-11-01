@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Peg Ratcliff the Hostess's Invitation<lb/>  to Dean Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X49-WILH">
+          <head type="note" n="1" xml:id="spp-X49-WILH-headnote-1">
+            <lg n="1" xml:id="spp-X49-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X49-WILH-headnote-1-line-group-1-line-1">Written with a design to be spoken by her on his arrival at Glasnevin, Doctor Delany having Complimented him with a House there.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X49-WILH-headnote-2">
+            <lg n="1" xml:id="spp-X49-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X49-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X49-WILH-headnote-3">
+            <lg n="1" xml:id="spp-X49-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X49-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X49-WILH-line-1" n="1">Tho' the name of this Place may make you to frown,</l>
+            <l xml:id="swift-X49-WILH-line-2" n="2">Your Deanship is welcome to <hi rend="italics">Glass ne vin</hi> Town;</l>
+            <l xml:id="swift-X49-WILH-line-3" n="3">A Glass and no Wine, to a Man of your Taste;</l>
+            <l xml:id="swift-X49-WILH-line-4" n="4">Alass! is enough to break it in haste:</l>
+            <l xml:id="swift-X49-WILH-line-5" n="5">Be that as it will, your presence can't fail,</l>
+            <l xml:id="swift-X49-WILH-line-6" n="6">To yield great delight in drinking our Ale;</l>
+            <l xml:id="swift-X49-WILH-line-7" n="7">Would you but vouchsafe a Mug to partake,</l>
+            <l xml:id="swift-X49-WILH-line-8" n="8">And, as we can Brew, believe we can Bake.</l>
+            <l xml:id="swift-X49-WILH-line-9" n="9">The Life, and the pleasure, we now from you hope, 3}</l>
+            <l xml:id="swift-X49-WILH-line-10" n="10">The fam'd Violante can't Show on the Rope;</l>
+            <l xml:id="swift-X49-WILH-line-11" n="11">[Your Genius and Talen]ts outdo, even Pope.</l>
+            <l xml:id="swift-X49-WILH-line-12" n="12">[Then while, Sir, you live] at Glasnevin and find,</l>
+            <l xml:id="swift-X49-WILH-line-13" n="13">The benefit wish'd you by Friends who are kind;</l>
+            <l xml:id="swift-X49-WILH-line-14" n="14">One Night in the Week your favour bestow,</l>
+            <l xml:id="swift-X49-WILH-line-15" n="15">To drink with Delany, and others you know:</l>
+            <l xml:id="swift-X49-WILH-line-16" n="16">They constantly meet, at Peg Ratcliff's, together,</l>
+            <l xml:id="swift-X49-WILH-line-17" n="17">Talk over the News of the Town, and the Weather;</l>
+            <l xml:id="swift-X49-WILH-line-18" n="18">Reflect on Mishaps, in Church and in State, 3}</l>
+            <l xml:id="swift-X49-WILH-line-19" n="19">Digest many things, as well as good Meat;</l>
+            <l xml:id="swift-X49-WILH-line-20" n="20">And Club each alike, that no one may treat.</l>
+            <l xml:id="swift-X49-WILH-line-21" n="21">This, if you will grant, without Coach, or a Chair,</l>
+            <l xml:id="swift-X49-WILH-line-22" n="22">You may in a trice, cross the way, and be there;</l>
+            <l xml:id="swift-X49-WILH-line-23" n="23">For Peg is your Neighbour, as well as Delany,</l>
+            <l xml:id="swift-X49-WILH-line-24" n="24">[An] Housewifely Woman, full pleasing to many.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

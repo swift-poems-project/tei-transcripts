@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Epigram supposed to be written<lb/>  by M<hi rend="superscript">r</hi> 08: Pope on the Hermitage at<lb/>  Richmond.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="BCMSV cataloger"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664D307B">
+          <head type="note" n="1" xml:id="spp-664D307B-headnote-1">
+            <lg n="1" xml:id="spp-664D307B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664D307B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-664D307B-headnote-2">
+            <lg n="1" xml:id="spp-664D307B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664D307B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-664D307B-headnote-3">
+            <lg n="1" xml:id="spp-664D307B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664D307B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-664D307B-line-1" n="1">Will Pult'ney &amp; Shippen do mightily rave,</l>
+            <l rend="indent(1)" xml:id="swift-664D307B-line-2" n="2">And all the wise Men of the Nation,</l>
+            <l xml:id="swift-664D307B-line-3" n="3">That four such wise Heads sh<hi rend="superscript">d</hi>:  be found for a cave,</l>
+            <l rend="indent(1)" xml:id="swift-664D307B-line-4" n="4">And not One for the Administration.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

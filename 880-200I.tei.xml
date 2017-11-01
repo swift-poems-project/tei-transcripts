@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A pastorall Dialogue<lb/>  between Dermot and Shelah</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8NO00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="880-200I">
+          <head type="note" n="1" xml:id="spp-880-200I-headnote-1">
+            <lg n="1" xml:id="spp-880-200I-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-880-200I-headnote-1-line-group-1-line-1">N<hi rend="superscript">o</hi> 30</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-880-200I-headnote-2">
+            <lg n="1" xml:id="spp-880-200I-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-880-200I-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-880-200I-headnote-3">
+            <lg n="1" xml:id="spp-880-200I-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-880-200I-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-880-200I-line-1" n="1">A Nymph and Swain Sheelah and Dermot hight</l>
+            <l xml:id="swift-880-200I-line-2" n="2">Who wont to weed the Court of Gosford Knight</l>
+            <l xml:id="swift-880-200I-line-3" n="3">While each with Stubbed knife removd the roots</l>
+            <l xml:id="swift-880-200I-line-4" n="4">that raisd between the stones their daily shoots</l>
+            <l xml:id="swift-880-200I-line-5" n="5">as at their work they sate in Counterview</l>
+            <l xml:id="swift-880-200I-line-6" n="6">with mutual beauty smit their passion grew</l>
+            <l xml:id="swift-880-200I-line-7" n="7">Sing heav'nly muse in sweetly flowing strain</l>
+            <l xml:id="swift-880-200I-line-8" n="8">the soft endearments of the Nymph and Swain</l>
+            <l rend="center" xml:id="swift-880-200I-line-9" n="9">Dermot<lb/>My Love to Sheelah is more firmly fixt</l>
+            <l xml:id="swift-880-200I-line-10" n="10">then strongest weeds that grow these stones betwixt</l>
+            <l xml:id="swift-880-200I-line-11" n="11">my spud these Nettles from the stones Can part</l>
+            <l xml:id="swift-880-200I-line-12" n="12">no knife so keen to weed thee from my heart</l>
+            <l rend="center" xml:id="swift-880-200I-line-13" n="13">Sheelah<lb/>My Love for gentle Dermot faster grows</l>
+            <l xml:id="swift-880-200I-line-14" n="14">than yon tall Dock that rises to thy nose</l>
+            <l xml:id="swift-880-200I-line-15" n="15">Cut Down the Dock t'will sprout again but O!</l>
+            <l xml:id="swift-880-200I-line-16" n="16">Love rooted out, again will never grow</l>
+            <l rend="center" xml:id="swift-880-200I-line-17" n="17">Dermot<lb/>no more that Bry'r thy tender Leg shall rake</l>
+            <l xml:id="swift-880-200I-line-18" n="18">I spare the thistle for S<hi rend="superscript">r</hi> Arthur's Sake</l>
+            <l xml:id="swift-880-200I-line-19" n="19">Sharp are the stones take thou the rushy Matt</l>
+            <l xml:id="swift-880-200I-line-20" n="20">the hardest Bum will bruise with sitting squat</l>
+            <l rend="center" xml:id="swift-880-200I-line-21" n="21">Sheelah<lb/>thy Breeches torn behind stand gaping wide</l>
+            <l xml:id="swift-880-200I-line-22" n="22">this petticoat shall save thy Dear back-side</l>
+            <l xml:id="swift-880-200I-line-23" n="23">nor need I blush although you feel it wet</l>
+            <l xml:id="swift-880-200I-line-24" n="24">Dermot I vow, 'tis nothing else but sweat</l>
+            <l rend="center" xml:id="swift-880-200I-line-25" n="25">Dermot<lb/>at an old stubborn root I Chanc'd to tugg</l>
+            <l xml:id="swift-880-200I-line-26" n="26">When the Dean threw me this Tobacco plugg</l>
+            <l xml:id="swift-880-200I-line-27" n="27">a longer half-purth never did I see</l>
+            <l xml:id="swift-880-200I-line-28" n="28">this dearest Sheelah thou shall't share with me</l>
+            <l rend="center" xml:id="swift-880-200I-line-29" n="29">Sheelah<lb/>In at the pantry-door this morn I slipt,</l>
+            <l xml:id="swift-880-200I-line-30" n="30">and from the shelf a Charming Crust I whipt</l>
+            <l xml:id="swift-880-200I-line-31" n="31">Dennis was out and I got hither safe</l>
+            <l xml:id="swift-880-200I-line-32" n="32">and thou my Dear shall't have the bigger half</l>
+            <l rend="center" xml:id="swift-880-200I-line-33" n="33">Dermot<lb/>When you saw tady at long-bullets play</l>
+            <l xml:id="swift-880-200I-line-34" n="34">You sate and lows'd him in a sun-shine day</l>
+            <l xml:id="swift-880-200I-line-35" n="35">how Cou'd you Sheelah sit and hear his tales</l>
+            <l xml:id="swift-880-200I-line-36" n="36">or Crack such Lice as his betwixt your nails</l>
+            <l rend="center" xml:id="swift-880-200I-line-37" n="37">Sheelah<lb/>When you with Oonah stood behind a Ditch</l>
+            <l xml:id="swift-880-200I-line-38" n="38">I pep't and saw you kiss the Dirty bitch</l>
+            <l xml:id="swift-880-200I-line-39" n="39">how Could you Dermot touch those nasty Sluts:?</l>
+            <l xml:id="swift-880-200I-line-40" n="40">I almost wish't my spud were in Your gutts</l>
+            <l rend="center" xml:id="swift-880-200I-line-41" n="41">Dermot<lb/>If Oonah once I kist forbear to Chide</l>
+            <l xml:id="swift-880-200I-line-42" n="42">her Aunt's my Gossip by my fathers side</l>
+            <l xml:id="swift-880-200I-line-43" n="43">but if I ever touch her Lips again</l>
+            <l xml:id="swift-880-200I-line-44" n="44">May I be doom'd for Life to weed in rain</l>
+            <l rend="center" xml:id="swift-880-200I-line-45" n="45">Sheelah<lb/>Dermot I swear though tady's Locks could hold</l>
+            <l xml:id="swift-880-200I-line-46" n="46">ten thousand Lice and ev'ry Louse was Gold</l>
+            <l xml:id="swift-880-200I-line-47" n="47">him on my lap you never \more·<hi rend="italics">inserted·with·caret</hi>\should see,</l>
+            <l xml:id="swift-880-200I-line-48" n="48">or may I lose my weeding-knife and thee.</l>
+            <l rend="center" xml:id="swift-880-200I-line-49" n="49">Dermot<lb/>O, Could I Earn for thee my Charming Lass</l>
+            <l xml:id="swift-880-200I-line-50" n="50">a pair of Brogues to bear thee dry to Mass</l>
+            <l xml:id="swift-880-200I-line-51" n="51">but see where Nora with the Sowins Comes</l>
+            <l xml:id="swift-880-200I-line-52" n="52">then let us rise and rest our weary Bums.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Nurse's Song</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 3AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G40L1">
+          <head type="note" n="1" xml:id="spp-Y43G40L1-headnote-1">
+            <lg n="1" xml:id="spp-Y43G40L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G40L1-headnote-1-line-group-1-line-1">Tune, <hi rend="italics">Yellow Stockings</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y43G40L1-headnote-2">
+            <lg n="1" xml:id="spp-Y43G40L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G40L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y43G40L1-headnote-3">
+            <lg n="1" xml:id="spp-Y43G40L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G40L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y43G40L1-line-1" n="1">I.<lb/><hi rend="display-initial">H</hi>EY! my kitten, a kitten,_Hey! my kitten, a deary;</l>
+            <l xml:id="swift-Y43G40L1-line-2" n="2">Such a sweet pett as this<lb/>Is neither far nor neary:</l>
+            <l xml:id="swift-Y43G40L1-line-3" n="3">Here we go up, up, up;<lb/>Here we go down, down, downy;</l>
+            <l xml:id="swift-Y43G40L1-line-4" n="4">Here we go backwards and forwards,<lb/>And here we go round, round, roundy.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G40L1-line-5" n="5">II.<lb/>Chicky, cockow, my lilly cock;_See, see, sic a downy;</l>
+            <l xml:id="swift-Y43G40L1-line-6" n="6">Gallop a trot, trot, trot,<lb/>And hey for <hi rend="italics">Dublin</hi> towny.</l>
+            <l xml:id="swift-Y43G40L1-line-7" n="7">This pig went to the market.<lb/>Squeek mouse, mouse, mousy;</l>
+            <l xml:id="swift-Y43G40L1-line-8" n="8">Shoe, shoe, shoe the wild colt,<lb/>And hear thy own dol dousy.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G40L1-line-9" n="9">III.<lb/>Where was a jewel and petty,_Where was a sugar and spicy;</l>
+            <l xml:id="swift-Y43G40L1-line-10" n="10">Hush a baba in a cradle,<lb/>And we'll go abroad in a tricy.</l>
+            <l xml:id="swift-Y43G40L1-line-11" n="11">Did-a papa torment it?<lb/>Did-e vex his own baby? did-e?</l>
+            <l xml:id="swift-Y43G40L1-line-12" n="12">Hush a baba in a bosie;<lb/>Take ous own sucky: did-e?</l>
+            <l rend="indent(1)" xml:id="swift-Y43G40L1-line-13" n="13">IV.<lb/>Goodmorrow, a pudding is broke;_Slavers a thread o' crystal.</l>
+            <l xml:id="swift-Y43G40L1-line-14" n="14">Now the sweet posset comes up;<lb/>Who said my child was piss'd all?</l>
+            <l xml:id="swift-Y43G40L1-line-15" n="15">Come water my chickens, come clock.<lb/>Leave off, or he'll crawl you, he'll crawl you;</l>
+            <l xml:id="swift-Y43G40L1-line-16" n="16">Come, gie me your hand, and I'll beat him:<lb/>Wha was it vexed my baby?</l>
+            <l rend="indent(1)" xml:id="swift-Y43G40L1-line-17" n="17">V.<lb/>Where was a laugh and a craw?_Where was, was, was a gigling honey?</l>
+            <l xml:id="swift-Y43G40L1-line-18" n="18">Goody, good child shall be fed,<lb/>But naughty child shall get nony.</l>
+            <l xml:id="swift-Y43G40L1-line-19" n="19">Get ye gone raw-head and bloody-bones,<lb/>Here is a child that won't fear ye.</l>
+            <l xml:id="swift-Y43G40L1-line-20" n="20">Come, pissy, pissy, my jewel,<lb/>And ik, ik ay, my deary.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

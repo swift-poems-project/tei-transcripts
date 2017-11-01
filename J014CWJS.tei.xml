@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Verses embedded in the <hi rend="italics">Journal to Stella</hi>]</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 16AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 21NO16, 22NO16, 20DE16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J014CWJS">
+          <head type="note" n="1" xml:id="spp-J014CWJS-headnote-1">
+            <lg n="1" xml:id="spp-J014CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J014CWJS-headnote-1-line-group-1-line-1">'Tis a good proverb the Devonshire people have; Walk fast in snow, In frost walk slow, And still as you go, Tread on your toe: When frost and snow are both together, Sit by the fire and spare shoe-leather.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J014CWJS-headnote-2">
+            <lg n="1" xml:id="spp-J014CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J014CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J014CWJS-headnote-3">
+            <lg n="1" xml:id="spp-J014CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J014CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J014CWJS-line-1" n="1"/>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

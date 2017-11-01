@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  Nottinghamshire Ballade,<lb/>  An Excellent<lb/>  New SONG,<lb/>  BEING<lb/>  The Intended Speech of a Famous Orator.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="E website (downloaded 26FE10)"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z925N329">
+          <head type="note" n="1" xml:id="spp-Z925N329-headnote-1">
+            <lg n="1" xml:id="spp-Z925N329-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z925N329-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z925N329-headnote-2">
+            <lg n="1" xml:id="spp-Z925N329-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z925N329-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z925N329-headnote-3">
+            <lg n="1" xml:id="spp-Z925N329-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z925N329-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z925N329-line-1" n="1"><hi rend="display-initial">A</hi>N Orator was found in <hi rend="italics">Nottinghamshire</hi>,</l>
+            <l xml:id="swift-Z925N329-line-2" n="2">Who for his great Parts was summon'd to appear</l>
+            <l xml:id="swift-Z925N329-line-3" n="3">At Court, to give the necessary assistance there;</l>
+            <l xml:id="swift-Z925N329-line-4" n="4">Whose deep Judgment and great Education then,</l>
+            <l xml:id="swift-Z925N329-line-5" n="5">Shin'd before the most expertest Men;</l>
+            <l xml:id="swift-Z925N329-line-6" n="6">His known Zeal for his Ceuntry deserv'd a Place,</l>
+            <l xml:id="swift-Z925N329-line-7" n="7">Not <hi rend="italics">vi &amp; armis</hi>, but <hi rend="italics">fir bon de grace</hi>.</l>
+            <l xml:id="swift-Z925N329-line-8" n="8">The scandalous Crew that him do defame,</l>
+            <l xml:id="swift-Z925N329-line-9" n="9">Ought to be punish'd by the great <hi rend="italics">Not in game</hi>;</l>
+            <l xml:id="swift-Z925N329-line-10" n="10">His Speeches has been always Loyal and true</l>
+            <l xml:id="swift-Z925N329-line-11" n="11">Tho' blacken'd by a hellish and diabolical Crew;</l>
+            <l xml:id="swift-Z925N329-line-12" n="12">To Vamp up a Speech, is an idle Story,</l>
+            <l xml:id="swift-Z925N329-line-13" n="13">His Oratory's Noble, and with <hi rend="italics">Prior</hi>, will glory</l>
+            <l xml:id="swift-Z925N329-line-14" n="14">To spend his Breath for England's Gain</l>
+            <l xml:id="swift-Z925N329-line-15" n="15">Wthout insipid Bribe which he doth disdain;</l>
+            <l xml:id="swift-Z925N329-line-16" n="16">And like a <hi rend="italics">Finch</hi>, will tune it o're all day,</l>
+            <l xml:id="swift-Z925N329-line-17" n="17">For his Gouotry's good, all deep Intrigues display.</l>
+            <l xml:id="swift-Z925N329-line-18" n="18"><lb/>The·SPEECH.__WHereas now I'm in no Sorrow and pain,</l>
+            <l xml:id="swift-Z925N329-line-19" n="19">Because of a Peace, and like to have Spain,</l>
+            <l xml:id="swift-Z925N329-line-20" n="20">Agreeable to my Sentiments, tho' <hi rend="italics">Not in game</hi>.</l>
+            <l xml:id="swift-Z925N329-line-21" n="21">I saw no great House, as 'twas falsly reported,</l>
+            <l xml:id="swift-Z925N329-line-22" n="22">Neither any Bags that was there hoarded;</l>
+            <l xml:id="swift-Z925N329-line-23" n="23">Then certain 'tis plain, no Pockets was cram'd</l>
+            <l xml:id="swift-Z925N329-line-24" n="24">To stand for a Peace against <hi rend="italics">Rotterdam</hi>.</l>
+            <l xml:id="swift-Z925N329-line-25" n="25">My Loyalty's true, notwith standing false Story.</l>
+            <l xml:id="swift-Z925N329-line-26" n="26">Who for my Country's good will oppose <hi rend="italics">Whig</hi> and <hi rend="italics">Tory</hi>,</l>
+            <l xml:id="swift-Z925N329-line-27" n="27">And always plead for my Queen and Country's glory;</l>
+            <l xml:id="swift-Z925N329-line-28" n="28">My Principle still shall be ever the same,</l>
+            <l xml:id="swift-Z925N329-line-29" n="29">Whilst I do remain yet <hi rend="italics">Not in game</hi>.</l>
+            <l xml:id="swift-Z925N329-line-30" n="30">If my Relations are advanc'd to Places,</l>
+            <l xml:id="swift-Z925N329-line-31" n="31">'Tis their Deserts that wins the good Graces,</l>
+            <l xml:id="swift-Z925N329-line-32" n="32">Of a generous Queen that loves honest Faces.</l>
+            <l xml:id="swift-Z925N329-line-33" n="33">'Tis not strange that I should be blam'd,</l>
+            <l xml:id="swift-Z925N329-line-34" n="34">By a rigid Crew that will not be asham'd</l>
+            <l xml:id="swift-Z925N329-line-35" n="35">Of their fordid and base Schismatical Notions,</l>
+            <l xml:id="swift-Z925N329-line-36" n="36">Enough to corrupt the Loyal with their Potions.</l>
+            <l xml:id="swift-Z925N329-line-37" n="37">No Peace, no Peace, is their <hi rend="italics">Acclamation</hi>,</l>
+            <l xml:id="swift-Z925N329-line-38" n="38">Contrary to the good of the Nation;</l>
+            <l xml:id="swift-Z925N329-line-39" n="39">What then may we think of the <hi rend="italics">Schismatical Tribe</hi>,</l>
+            <l xml:id="swift-Z925N329-line-40" n="40">To obtain their Ends, will not grudge to bribe,</l>
+            <l xml:id="swift-Z925N329-line-41" n="41">The <hi rend="italics">Devil</hi>, if possible, to gain him on their side.</l>
+            <l xml:id="swift-Z925N329-line-42" n="42">I with for a Peace, but on a firm Basis,</l>
+            <l xml:id="swift-Z925N329-line-43" n="43">That we may enjoy each Man his own Classis,</l>
+            <l xml:id="swift-Z925N329-line-44" n="44">And drink a good health with full flowing Glasses,</l>
+            <l xml:id="swift-Z925N329-line-45" n="45">To <hi rend="italics">Anne</hi> our Sovereign for a good Peace,</l>
+            <l xml:id="swift-Z925N329-line-46" n="46">That we in Riches may largely increase.</l>
+            <l xml:id="swift-Z925N329-line-47" n="47">Then may our Allies share all in the same,</l>
+            <l xml:id="swift-Z925N329-line-48" n="48">Is the hearty Wishes of, <hi rend="italics">Not in game</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

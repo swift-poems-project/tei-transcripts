@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The <hi rend="italics">W──ds──r</hi> Prophecy.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 25AU09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="147-14H1">
+          <head type="note" n="1" xml:id="spp-147-14H1-headnote-1">
+            <lg n="1" xml:id="spp-147-14H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-14H1-headnote-1-line-group-1-line-1">About three months ago at <hi rend="italics">W──ds─r</hi>, a poor knight's widow was buried in the Cloysters. In digging the grave, the sexton struck against a small leaden coffer, about half a foot in length, and four inches wide. The poor man expecting he had discovered a treasure, opened it with some difficulty; but found only a small parchment, rolled up very fast, put into a leather case; which case was tied at the top, and sealed with a St. <hi rend="italics">George</hi>, the impression on black wax, very rude and gothick. The parchment was carried to a gentleman of learning, who found in it the following lines, written in a black old <hi rend="italics">English</hi> letter, and in the orthography of the age, which seems to be about two hundred years ago. I made a shift to obtain a copy of it; but the transcriber, I find, hath in many parts altered the spelling to the modern way. The original, as I am informed, is now in the hands of the ingenious Dr. <hi rend="italics">W</hi>────, F. R. S. where, I suppose, the curious will not be refused the satisfaction of seeing it.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-147-14H1-headnote-2">
+            <lg n="1" xml:id="spp-147-14H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-14H1-headnote-2-line-group-1-line-1">The lines seem to be a sort of prophecy, and written in verse, as old prophecies usually are, but in a very hobling kind of measure. Their meaning is very dark, if it be any at all: of which the learned reader can judge better than I: however it be, several persons were of opinion, that they deserved to be published, both as they discover somewhat of the genius of a former age, and may be an amusement to the present.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-147-14H1-headnote-3">
+            <lg n="1" xml:id="spp-147-14H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-14H1-headnote-3-line-group-1-line-1">It is well known, that queen <hi rend="italics">Anne</hi> had nominated Dr. <hi rend="italics">Swift</hi> to an <hi rend="italics">English</hi> bishoprick, which was opposed by Dr. <hi rend="italics">Sharp</hi>, archbishop of <hi rend="italics">York</hi>, and the dutchess of <hi rend="italics">Somerset</hi>, who had prevailed on his grace to go with her to the queen to lay aside the nomination, which her majesty refused; but, the dutchess falling on her knees, and shewing the following prophecy to her majesty, the bishoprick was given to another. See the poem, <hi rend="italics">The Author on himself</hi>, vol. vii. p. 9.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-147-14H1-line-1" n="1"><hi rend="display-initial">W</hi>HEN a holy black <hi rend="italics">Swede</hi><note place="foot">·Dr. R<hi rend="small-caps">OBINSON</hi>, bishop of <hi rend="italics">Bristol</hi>, was one of the plenipotentiaries at the peace of <hi rend="italics">Utrecht</hi>.</note>, the son of <hi rend="italics">Bob</hi>,</l>
+            <l xml:id="swift-147-14H1-line-2" n="2">With a <hi rend="italics">saint</hi> at his chin, and a <hi rend="italics">seal</hi> at his fob:</l>
+            <l xml:id="swift-147-14H1-line-3" n="3">Shall not see one <note place="foot">·There was then eleven days difference between the Old and New style, which latter did not take place in <hi rend="italics">Great-Britain</hi> and <hi rend="italics">Ireland</hi>, until it was introduced by act of parliament, to commence <hi rend="italics">Sept</hi>. 2, 1752, when eleven days were omitted, and the next day was called <hi rend="italics">Sept</hi>. 13.</note> New-years-day in that year,</l>
+            <l xml:id="swift-147-14H1-line-4" n="4">Then let old <hi rend="italics">Englond</hi> make good chear:</l>
+            <l xml:id="swift-147-14H1-line-5" n="5"><hi rend="italics">Windsor</hi> and <hi rend="italics">Bristow</hi> then shall be</l>
+            <l xml:id="swift-147-14H1-line-6" n="6">Joined together in the <hi rend="italics">Low-Countree</hi>.</l>
+            <l xml:id="swift-147-14H1-line-7" n="7">Then shall the tall black <note place="foot">·Earl of N<hi rend="small-caps">OTTINGHAM</hi>.</note> <hi rend="italics">Deventry Bird</hi></l>
+            <l xml:id="swift-147-14H1-line-8" n="8">Speak against peace right many a word;</l>
+            <l xml:id="swift-147-14H1-line-9" n="9">And some shall admire his conyng wit,</l>
+            <l xml:id="swift-147-14H1-line-10" n="10">For many good <hi rend="italics">groats</hi> his tongue shall slit.</l>
+            <l xml:id="swift-147-14H1-line-11" n="11">But spight of the <hi rend="italics">Harpy</hi><note place="foot">·Duke of M<hi rend="small-caps">ARLBOROUGH</hi>.</note>, that <hi rend="italics">crawls on all four</hi>,</l>
+            <l xml:id="swift-147-14H1-line-12" n="12">There shall be peace, pardie, and war no more.</l>
+            <l xml:id="swift-147-14H1-line-13" n="13">But <hi rend="italics">Englond</hi>, must cry alack and well-a-day,</l>
+            <l xml:id="swift-147-14H1-line-14" n="14">If the <hi rend="italics">Stick</hi> be taken from the <hi rend="italics">dead Sea</hi>.</l>
+            <l xml:id="swift-147-14H1-line-15" n="15">And dear <hi rend="italics">Englond</hi>, if ought I understond,</l>
+            <l xml:id="swift-147-14H1-line-16" n="16">Beware of <hi rend="italics">Carrots</hi> from <hi rend="italics">Northumberlond</hi><note place="foot">·Lady E<hi rend="small-caps">LIZABETH </hi>P<hi rend="small-caps">ERCY</hi>, sole daughter and heir of J<hi rend="small-caps">OCELINE </hi>P<hi rend="small-caps">ERCY</hi>, earl of <hi rend="italics">Northumberland</hi>, was married to C<hi rend="small-caps">HARLES </hi>S<hi rend="small-caps">EYMOR</hi>, duke of <hi rend="italics">Somerset</hi>.</note>.</l>
+            <l xml:id="swift-147-14H1-line-17" n="17"><hi rend="italics">Carrots</hi> sown <hi rend="italics">Thynne</hi> <note place="foot">·T<hi rend="small-caps">HOMAS</hi> T<hi rend="small-caps">HYNNE</hi>, Esq; a gentleman of very great estate, who was courting the above lady, after the death of her first husband H<hi rend="small-caps">ENRY</hi> C<hi rend="small-caps">AVENDISH</hi>, earl of <hi rend="italics">Ogle</hi>, only son to H<hi rend="small-caps">ENRY</hi>, duke of <hi rend="italics">Newcastle</hi>, who died before he was of age to cohabit with her; being set upon in the <hi rend="italics">Hay-Market, London</hi>, was murdered by count <hi rend="italics">Coningsmark</hi>, a <hi rend="italics">Polish</hi> nobleman, (who paid his addresses to this lady, but was refused) and two ruffians, who shot Mr. T<hi rend="small-caps">HYNNE</hi> in his coach. The count made his escape, but the others were hanged. There is a monument in <hi rend="italics">Westminster-Abbey</hi>, erected to the memory of Mr. T<hi rend="small-caps">HYNNE</hi>, with some hierogliphic figures, representing the manner of his murder.</note> a deep root may get,</l>
+            <l xml:id="swift-147-14H1-line-18" n="18">If so be they are in <hi rend="italics">Sommer set</hi>:</l>
+            <l xml:id="swift-147-14H1-line-19" n="19">Their <note place="foot">·Count C<hi rend="small-caps">ONINGSMARK</hi>.</note> <hi rend="italics">Conyngs mark</hi> thou, for I have been told,</l>
+            <l xml:id="swift-147-14H1-line-20" n="20">They <hi rend="italics">assassine</hi> when young, and <hi rend="italics">poison</hi> when old.</l>
+            <l xml:id="swift-147-14H1-line-21" n="21"><hi rend="italics">Root</hi> out these <hi rend="italics">Carrots</hi>, O thou<note place="foot">·A<hi rend="small-caps">NNA</hi> Regina.</note>, whose name,</l>
+            <l xml:id="swift-147-14H1-line-22" n="22">Is backwards and forwards always the same;</l>
+            <l xml:id="swift-147-14H1-line-23" n="23">And keep close to thee always that <hi rend="italics">name</hi>,</l>
+            <l xml:id="swift-147-14H1-line-24" n="24">Which <note place="foot">·Lady M<hi rend="small-caps">ASHAM</hi>.</note> backwards and forwards is almost the same.</l>
+            <l xml:id="swift-147-14H1-line-25" n="25">And <hi rend="italics">Englond</hi> wouldst thou be happy still,</l>
+            <l xml:id="swift-147-14H1-line-26" n="26">Bury those <hi rend="italics">Carrots</hi> under a <note place="foot">·Lady M<hi rend="small-caps">ASHAM</hi>'s maiden name was H<hi rend="small-caps">ILL</hi>.</note> <hi rend="italics">Hill</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

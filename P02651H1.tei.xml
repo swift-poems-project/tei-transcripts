@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER XXIII.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7AU16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> --</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P02651H1">
+          <head type="note" n="1" xml:id="spp-P02651H1-headnote-1">
+            <lg n="1" xml:id="spp-P02651H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02651H1-headnote-1-line-group-1-line-1">Dr. SWIFT to Dr. STERNE, dean of <hi rend="italics">St. Patrick'</hi>s<hi rend="italics">, Dublin</hi>, with a proxy for his appearance as prebendary of <hi rend="italics">Dunlavin</hi>, at the archbishop's visitation.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P02651H1-headnote-2">
+            <lg n="1" xml:id="spp-P02651H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02651H1-headnote-2-line-group-1-line-1">Laracor, April 17, 1710.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P02651H1-headnote-3">
+            <lg n="1" xml:id="spp-P02651H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02651H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P02651H1-line-1" n="1">I can send you no news; only the employment of my parishioners may, for memory-sake, be reduced under these heads. Mr. <hi rend="italics">Percival</hi> is ditching, Mrs. <hi rend="italics">Percival</hi> in her kitchen; Mr. <hi rend="italics">Wesley</hi> switching; Mrs. <hi rend="italics">Wesley</hi> stitching; Sir <hi rend="italics">Arthur Langford</hi> riching, which is a new word for heaping up riches.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

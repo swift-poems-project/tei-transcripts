@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T──<hi rend="small-caps">L──ND</hi>'s Invitation to D<hi rend="small-caps">ISMAL</hi>, to dine<lb/>  with the <hi rend="italics">Calves Head Club</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 18AP12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 26JL14; ed. SK 27SE16, 12NO16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-162-55B--footnote-headnote-1"/>
+          <link target="# #spp-162-55B--footnote-headnote-2"/>
+        </linkGrp>
+        <div n="162-55B-">
+          <head type="note" n="1" xml:id="spp-162-55B--headnote-1">
+            <lg n="1" xml:id="spp-162-55B--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-55B--headnote-1-line-group-1-line-1"><hi rend="italics">Imitated from</hi> H<hi rend="small-caps">ORACE</hi>, Epist. 5. Lib. 1.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-162-55B--headnote-2">
+            <lg n="1" xml:id="spp-162-55B--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-55B--headnote-2-line-group-1-line-1">In December 1711 he writ T<hi rend="small-caps">OLAND</hi>'s invitation to D<hi rend="small-caps">ISMAL</hi> to dine with the <hi rend="italics">Calves Head Club</hi>, occasioned by his friend the Lord Treasurer O<hi rend="small-caps">XFORD</hi>'s hinting to him one evening, that he wished a ballad was made on the E. of ***. The ballad, which according to S<hi rend="small-caps">WIFT</hi>'s observation is two degrees above <hi rend="italics">Grubstreet</hi>, was written and sent to the press the next morning; and when it was brought by the printer to that famous and grand society, whereof S<hi rend="small-caps">WIFT</hi> was a member<ref target="#spp-162-55B--footnote-headnote-1">1</ref><note n="1" xml:id="spp-162-55B--footnote-headnote-1" place="foot">The members of this society were about sixteen of the greatest men in <hi rend="italics">England</hi>. They dined once a week at each other's houses, or at taverns, if more convenient, by rotation</note>, and read by one of the company, it made them laugh a dozen times<ref target="#spp-162-55B--footnote-headnote-2">2</ref><note n="2" xml:id="spp-162-55B--footnote-headnote-2" place="foot">This we are told in a letter from S<hi rend="small-caps">WIFT</hi> to Mrs. J<hi rend="small-caps">OHNSON</hi></note>. As this ballad has abundance of wit and humour, strangely adapted to the proceedings and outrage of the W<hi rend="small-caps">HIGS</hi> at that particular juncture, and is not to be found in any collection of S<hi rend="small-caps">WIFT</hi>'s works that I know of, I shall gratify the men of taste and spirit, who are all of them admirers of the Doctor, with this rapid performance.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-162-55B--headnote-3">
+            <lg n="1" xml:id="spp-162-55B--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-55B--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-162-55B--line-1" n="1">If, dearest <hi rend="italics">Dismal</hi>, you for once can dine</l>
+            <l xml:id="swift-162-55B--line-2" n="2">Upon a single dish, and tavern wine,</l>
+            <l xml:id="swift-162-55B--line-3" n="3"><hi rend="italics">T──l──nd</hi> to you this invitation sends</l>
+            <l xml:id="swift-162-55B--line-4" n="4">To eat the C<hi rend="small-caps">ALVES</hi>-H<hi rend="small-caps">EAD</hi> with your trusty friends:</l>
+            <l xml:id="swift-162-55B--line-5" n="5">Suspend a while your vain ambitious hopes,</l>
+            <l xml:id="swift-162-55B--line-6" n="6">Leave hunting after bribes, forget your tropes.</l>
+            <l xml:id="swift-162-55B--line-7" n="7">To morrow we our <hi rend="italics">mystick feast</hi> prepare,</l>
+            <l xml:id="swift-162-55B--line-8" n="8">Where thou, our latest <hi rend="italics">proselyte</hi>, shalt share:</l>
+            <l xml:id="swift-162-55B--line-9" n="9">When we, by proper signs and symbols tell,</l>
+            <l xml:id="swift-162-55B--line-10" n="10">How, by <hi rend="italics">brave hands</hi>, the <hi rend="italics">royal</hi> T<hi rend="small-caps">RAYTOR</hi> fell,</l>
+            <l xml:id="swift-162-55B--line-11" n="11">The meat shall represent the T<hi rend="small-caps">YRANT</hi>'s head,</l>
+            <l xml:id="swift-162-55B--line-12" n="12">The wine, his blood, <hi rend="italics">our predecessors</hi> shed,</l>
+            <l xml:id="swift-162-55B--line-13" n="13">Whilst an <hi rend="italics">alluding</hi> hymn some artist sings,</l>
+            <l xml:id="swift-162-55B--line-14" n="14">We toast confusion to the race of kings:</l>
+            <l xml:id="swift-162-55B--line-15" n="15">At monarchy we nobly shew our spight,</l>
+            <l xml:id="swift-162-55B--line-16" n="16">And talk <hi rend="italics">what fools call treason</hi> all the night.</l>
+            <l rend="indent(1)" xml:id="swift-162-55B--line-17" n="17">Who, by disgraces or ill fortune sunk,</l>
+            <l xml:id="swift-162-55B--line-18" n="18">Feels not his soul enliven'd when he's drunk?</l>
+            <l xml:id="swift-162-55B--line-19" n="19">Wine can clear up <hi rend="italics">G──d──lph──n</hi>'s cloudy face,</l>
+            <l xml:id="swift-162-55B--line-20" n="20">And fill <hi rend="italics">J────ck Sm──th</hi> with hopes to keep his place;</l>
+            <l xml:id="swift-162-55B--line-21" n="21">By force of wine ev'n <hi rend="italics">Sc──rb──r──gh</hi> is brave,</l>
+            <l xml:id="swift-162-55B--line-22" n="22"><hi rend="italics">Hal</hi> grows more pert, and <hi rend="italics">S--mm--rs</hi> not so grave:</l>
+            <l xml:id="swift-162-55B--line-23" n="23">Wine can give <hi rend="italics">P──rt──d</hi> wit, and <hi rend="italics">Cl--v--nd</hi> sense,</l>
+            <l xml:id="swift-162-55B--line-24" n="24"><hi rend="italics">M--t--g-e</hi> learning, <hi rend="italics">B--lt--n</hi> eloquence:</l>
+            <l xml:id="swift-162-55B--line-25" n="25"><hi rend="italics">Ch--ly</hi>, when drunk can never lose his wand,</l>
+            <l xml:id="swift-162-55B--line-26" n="26">And <hi rend="italics">L--nc--n</hi> then imagines he has land.</l>
+            <l rend="indent(1)" xml:id="swift-162-55B--line-27" n="27">My province is, to see that all be right,</l>
+            <l xml:id="swift-162-55B--line-28" n="28">Glasses and linen clean, and pewter bright;</l>
+            <l xml:id="swift-162-55B--line-29" n="29">From our <hi rend="italics">mysterious club</hi> to keep out spies,</l>
+            <l xml:id="swift-162-55B--line-30" n="30">And <hi rend="italics">Tories</hi> (dress'd like waiters) in disguise.</l>
+            <l xml:id="swift-162-55B--line-31" n="31">You shall be coupled as you best approve,</l>
+            <l xml:id="swift-162-55B--line-32" n="32">Seated at table next the men you love.</l>
+            <l xml:id="swift-162-55B--line-33" n="33"><hi rend="italics">S--nd--nd, Or--rd, B--le</hi>, and <hi rend="italics">R--ch--d</hi>'s grace</l>
+            <l xml:id="swift-162-55B--line-34" n="34">Will come; and <hi rend="italics">H--mp--n</hi> shall have <hi rend="italics">W--p--le</hi>'s place.</l>
+            <l xml:id="swift-162-55B--line-35" n="35"><hi rend="italics">W--rt--n</hi>, unless prevented by a whore</l>
+            <l xml:id="swift-162-55B--line-36" n="36">Will hardly fail, and there is room for more;</l>
+            <l xml:id="swift-162-55B--line-37" n="37">But I love elbow-room whene'er I drink,</l>
+            <l xml:id="swift-162-55B--line-38" n="38">And honest <hi rend="italics">Harry</hi> is too apt to st──k.</l>
+            <l rend="indent(1)" xml:id="swift-162-55B--line-39" n="39">Let no pretence of bus'ness make you stay,</l>
+            <l xml:id="swift-162-55B--line-40" n="40">Yet take one word of counsel by the way.</l>
+            <l xml:id="swift-162-55B--line-41" n="41">If <hi rend="italics">Gu--rn--y</hi> call, send word you're gone abroad,</l>
+            <l xml:id="swift-162-55B--line-42" n="42">He'll teaze you with king <hi rend="italics">Charles</hi> and bishop <hi rend="italics">Laud</hi>,</l>
+            <l xml:id="swift-162-55B--line-43" n="43">Or make you fast, and carry you to pray'rs;</l>
+            <l xml:id="swift-162-55B--line-44" n="44">But if he will break in, and walk up stairs,</l>
+            <l xml:id="swift-162-55B--line-45" n="45">Steal by the back-door out, and leave him there;</l>
+            <l xml:id="swift-162-55B--line-46" n="46">Then order <hi rend="italics">Squash</hi> to call a hackney chair.<space><hi rend="italics">Jan</hi>/hi&gt;. 29.</space></l>
+            <l xml:id="swift-162-55B--line-47" n="47">\NOTES\</l>
+            <l rend="indent(1)" xml:id="swift-162-55B--line-48" n="48">Si potes archaicis conviva recumbere lectis,</l>
+            <l xml:id="swift-162-55B--line-49" n="49">Nec modicâ cœnare times olus omne patella;</l>
+            <l xml:id="swift-162-55B--line-50" n="50">Supremo te sole domi, Torquate, manebo.</l>
+            <l xml:id="swift-162-55B--line-51" n="51">****************<lb/>Mitte leves spes, &amp; certamina divitiarum,</l>
+            <l xml:id="swift-162-55B--line-52" n="52">Et Moschi causam. Cras nato Cæsare festus</l>
+            <l xml:id="swift-162-55B--line-53" n="53">Dat veniam somnumque dies: impunè licebit</l>
+            <l xml:id="swift-162-55B--line-54" n="54">Æstivam sermone benigno tendere noctem.</l>
+            <l xml:id="swift-162-55B--line-55" n="55">****************<lb/>Quid non ebrietas designat? Operta recludit;</l>
+            <l xml:id="swift-162-55B--line-56" n="56">Spes jubet esse ratas; in prælia trudit inermem:</l>
+            <l xml:id="swift-162-55B--line-57" n="57">Sollicitis animis onus eximit; addocet artes.</l>
+            <l xml:id="swift-162-55B--line-58" n="58">Fœcundi calices quem non fecere disertum?</l>
+            <l xml:id="swift-162-55B--line-59" n="59">Contracta quem non in paupertate solutum?</l>
+            <l xml:id="swift-162-55B--line-60" n="60">Hæc ego procurare &amp; idoneus imperor, &amp; non</l>
+            <l xml:id="swift-162-55B--line-61" n="61">Invitus; ne turpe toral, ne sordida mappa</l>
+            <l xml:id="swift-162-55B--line-62" n="62">Corruget nares, ne non &amp; cantharus, &amp; lanx,</l>
+            <l xml:id="swift-162-55B--line-63" n="63">Ostendat tibi te; ne fidos inter amicos</l>
+            <l xml:id="swift-162-55B--line-64" n="64">Sit, qui dicta foras eliminet: ut coeat par,</l>
+            <l xml:id="swift-162-55B--line-65" n="65">Jungaturque pari. Brutum tibi, Septimiumque,</l>
+            <l xml:id="swift-162-55B--line-66" n="66">Et, nisi cœna prior, potiorque puella Sabinum</l>
+            <l xml:id="swift-162-55B--line-67" n="67">Detinet, assumam; locus est &amp; pluribus umbris:</l>
+            <l xml:id="swift-162-55B--line-68" n="68">Sed nimis arcta premunt olidæ convivia capræ.</l>
+            <l xml:id="swift-162-55B--line-69" n="69">Tu, quotus esse velis, rescribe; &amp;, rebus omissis,</l>
+            <l xml:id="swift-162-55B--line-70" n="70">Atria servantem postico falle clientem.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN<lb/>  INVITATION to DINNER,<lb/>  FROM<lb/>  D<hi rend="small-caps">OCTOR </hi>S<hi rend="small-caps">HERIDAN</hi> to D<hi rend="small-caps">OCTOR </hi>S<hi rend="small-caps">WIFT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 13JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X48-1301">
+          <head type="note" n="1" xml:id="spp-X48-1301-headnote-1">
+            <lg n="1" xml:id="spp-X48-1301-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X48-1301-headnote-1-line-group-1-line-1">Written in the Year <hi rend="small-caps">M DCC XXVII</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X48-1301-headnote-2">
+            <lg n="1" xml:id="spp-X48-1301-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X48-1301-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X48-1301-headnote-3">
+            <lg n="1" xml:id="spp-X48-1301-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X48-1301-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X48-1301-line-1" n="1"><hi rend="display-initial">I</hi>'VE sent to the ladies <note place="foot">·Mrs. Johnson [Stella] and her friend Mrs. Dingley.</note> this morning, to warn 'em</l>
+            <l xml:id="swift-X48-1301-line-2" n="2">To order their chaise, and repair to <note place="foot">·A village near Dublin, where Dr. Sheridan had a country-house.</note> Rathfarnam;</l>
+            <l xml:id="swift-X48-1301-line-3" n="3">Where you shall be welcome to dine, if your Deanship</l>
+            <l xml:id="swift-X48-1301-line-4" n="4">Can take up with me, and my friend Stella's leanship<note place="foot">·Stella was at this time in a very declining state of health. She died the January following.</note>.</l>
+            <l xml:id="swift-X48-1301-line-5" n="5">I've got you some soals, and a fresh bleeding bret,</l>
+            <l xml:id="swift-X48-1301-line-6" n="6">That's just disengag'd from the toils of a net:</l>
+            <l xml:id="swift-X48-1301-line-7" n="7">An excellent loin of fat veal to be roasted,</l>
+            <l xml:id="swift-X48-1301-line-8" n="8">With lemons, and butter, and sippets well toasted:</l>
+            <l xml:id="swift-X48-1301-line-9" n="9">Some larks that descended, mistaking the skies,</l>
+            <l xml:id="swift-X48-1301-line-10" n="10">Which Stella brought down by the light of her eyes;</l>
+            <l xml:id="swift-X48-1301-line-11" n="11">And there, like Narcissus, they gaz'd till they dy'd,</l>
+            <l xml:id="swift-X48-1301-line-12" n="12">And now they're to lie in some·some crumbs that are fry'd.</l>
+            <l xml:id="swift-X48-1301-line-13" n="13">My wine will inspire you with joy and delight.</l>
+            <l xml:id="swift-X48-1301-line-14" n="14">'Tis mellow, and old, and sparkling and bright;</l>
+            <l xml:id="swift-X48-1301-line-15" n="15">An emblem of one that you love I suppose,</l>
+            <l xml:id="swift-X48-1301-line-16" n="16">Who gathers more lovers the older she grows.<note place="foot">·He means Stella, who was certainly one of the most amiable women in the world.</note></l>
+            <l xml:id="swift-X48-1301-line-17" n="17">Let me be your Gay, and let Stella be Pope,</l>
+            <l xml:id="swift-X48-1301-line-18" n="18">We'll wean you from sighing for England, I hope:</l>
+            <l xml:id="swift-X48-1301-line-19" n="19">When we are together there's nothing that is dull,</l>
+            <l xml:id="swift-X48-1301-line-20" n="20">There's nothing like Durfey, or Smedley, or Tisdall.<note place="foot">·A Gentleman of wit and learning, who had written some very sarcastic verses upon Sheridan.</note></l>
+            <l xml:id="swift-X48-1301-line-21" n="21">We've sworn to make out an agreeable feast,</l>
+            <l xml:id="swift-X48-1301-line-22" n="22">Our dinner, our wine, and our wit to your taste.</l>
+            <l rend="indent(1)" xml:id="swift-X48-1301-line-23" n="23"><lb/>Your answer in half an hour, tho' you are at Prayers; you have a Pencil in your Pocket.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

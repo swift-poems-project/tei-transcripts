@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PASTORAL DIALOGUE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 7JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="880-06E2">
+          <head type="note" n="1" xml:id="spp-880-06E2-headnote-1">
+            <lg n="1" xml:id="spp-880-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-880-06E2-headnote-1-line-group-1-line-1">Written in the year 1728.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-880-06E2-headnote-2">
+            <lg n="1" xml:id="spp-880-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-880-06E2-headnote-2-line-group-1-line-1">DERMOT, SHEELAH.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-880-06E2-headnote-3">
+            <lg n="1" xml:id="spp-880-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-880-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-880-06E2-line-1" n="1"><hi rend="display-initial">A</hi> Nymph and swain, <hi rend="italics">Sheelah</hi> and <hi rend="italics">Dermot</hi> hight,</l>
+            <l xml:id="swift-880-06E2-line-2" n="2">Who wont to weed the court of Gosford <hi rend="italics">Knight</hi><note place="foot">·Sir Arthur Acheson, whose great-grandfather was Sir Archibald of Gosford in Scotland.</note>,</l>
+            <l xml:id="swift-880-06E2-line-3" n="3">While each with stubbed knife remov'd the roots</l>
+            <l xml:id="swift-880-06E2-line-4" n="4">That rais'd between the stones their daily shoots;</l>
+            <l xml:id="swift-880-06E2-line-5" n="5">As at their work they sat in counter·view,</l>
+            <l xml:id="swift-880-06E2-line-6" n="6">With mutual beauty smit, their passion grew.</l>
+            <l xml:id="swift-880-06E2-line-7" n="7">Sing, heavenly muse! in sweetly-flowing strain,</l>
+            <l xml:id="swift-880-06E2-line-8" n="8">The soft endearments of the nymph and swain.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-9" n="9"><lb/><hi rend="italics">Der</hi>.·My love to Sheelah is more firmly fixt,</l>
+            <l xml:id="swift-880-06E2-line-10" n="10">Than strongest weeds that grow these stones betwixt:</l>
+            <l xml:id="swift-880-06E2-line-11" n="11">My spud these nettles from the stones can part,</l>
+            <l xml:id="swift-880-06E2-line-12" n="12">No knife so keen to weed thee from my heart.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-13" n="13"><lb/><hi rend="italics">She</hi>.·My love for gentle Dermot faster grows,</l>
+            <l xml:id="swift-880-06E2-line-14" n="14">Than yon tall dock that rises to thy nose.</l>
+            <l xml:id="swift-880-06E2-line-15" n="15">Cut down the dock, 'twill sprout again; but oh!</l>
+            <l xml:id="swift-880-06E2-line-16" n="16">Love rooted out, again will never grow.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-17" n="17"><lb/><hi rend="italics">Der</hi>.·No more that brier thy tender legs shall rake;</l>
+            <l xml:id="swift-880-06E2-line-18" n="18">(I spare the thistle for Sir Arthur's <note place="foot">·Who is a great lover of Scotland.</note> sake).</l>
+            <l xml:id="swift-880-06E2-line-19" n="19">Sharp are the stones; take thou this rushy mat;</l>
+            <l xml:id="swift-880-06E2-line-20" n="20">The hardest bum will bruise with sitting squat.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-21" n="21"><lb/><hi rend="italics">She</hi>.·Thy breeches torn behind stand gaping wide;</l>
+            <l xml:id="swift-880-06E2-line-22" n="22">This petticoat shall save thy dear backside:</l>
+            <l xml:id="swift-880-06E2-line-23" n="23">Nor need I blush, although you feel it wet;</l>
+            <l xml:id="swift-880-06E2-line-24" n="24">Dermot, I vow, 'tis nothing else but sweat.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-25" n="25"><lb/><hi rend="italics">Der</hi>.·At an old stubborn root I chanc'd to tug,</l>
+            <l xml:id="swift-880-06E2-line-26" n="26">When the Dean threw me this tobacco plug;</l>
+            <l xml:id="swift-880-06E2-line-27" n="27">A longer ha'-p'orth never did I see;</l>
+            <l xml:id="swift-880-06E2-line-28" n="28">This, dearest Sheelah, thou shalt share with me.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-29" n="29"><lb/><hi rend="italics">She</hi>.·In at the pantry-door this morn I slipt,</l>
+            <l xml:id="swift-880-06E2-line-30" n="30">And from the shelf a charming crust I whipt;</l>
+            <l xml:id="swift-880-06E2-line-31" n="31">Dennis <note place="foot">·Sir Arthur's butler.</note> was out, and I got hither safe;</l>
+            <l xml:id="swift-880-06E2-line-32" n="32">And thou, my dear, shalt have the bigger half.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-33" n="33"><lb/><hi rend="italics">Der</hi>.·When you saw Tady at long-bullets play,</l>
+            <l xml:id="swift-880-06E2-line-34" n="34">You sat and lous'd him all the sun-shine day.</l>
+            <l xml:id="swift-880-06E2-line-35" n="35">How could you, Sheelah, listen to his tales,</l>
+            <l xml:id="swift-880-06E2-line-36" n="36">Or crack such lice as his between your nails?</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-37" n="37"><lb/><hi rend="italics">She</hi>.·When you with Oonah stood behind a ditch,</l>
+            <l xml:id="swift-880-06E2-line-38" n="38">I peep'd, and saw you kiss the dirty bitch.</l>
+            <l xml:id="swift-880-06E2-line-39" n="39">Dermot, how could you touch those nasty sluts!</l>
+            <l xml:id="swift-880-06E2-line-40" n="40">I almost wish'd this spud were in your guts.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-41" n="41"><lb/><hi rend="italics">Der</hi>.·If Oonah once I kiss'd, forbear to chide:</l>
+            <l xml:id="swift-880-06E2-line-42" n="42">Her aunt's my gossip by my father's side:</l>
+            <l xml:id="swift-880-06E2-line-43" n="43">But if I ever touch her lips again,</l>
+            <l xml:id="swift-880-06E2-line-44" n="44">May I be doom'd for life to weed in rain.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-45" n="45"><lb/><hi rend="italics">She</hi>.·Dermot, I swear though Tady's locks could hold</l>
+            <l xml:id="swift-880-06E2-line-46" n="46">Ten thousand lice, and ev'ry louse was gold,</l>
+            <l xml:id="swift-880-06E2-line-47" n="47">Him on my lap you never more should see;</l>
+            <l xml:id="swift-880-06E2-line-48" n="48">Or may I lose my weeding-knife──── and thee.</l>
+            <l rend="indent(1)" xml:id="swift-880-06E2-line-49" n="49"><lb/><hi rend="italics">Der</hi>.·Oh! could I earn for thee, my lovely lass,</l>
+            <l xml:id="swift-880-06E2-line-50" n="50">A pair of brogues to bear thee dry to mass!</l>
+            <l xml:id="swift-880-06E2-line-51" n="51">But see where Norah with the sowins comes────</l>
+            <l xml:id="swift-880-06E2-line-52" n="52">Then let us rise, and rest our weary bums.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

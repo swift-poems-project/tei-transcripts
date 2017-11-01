@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 22SE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> query √'d JW 11AU99; √'d JW 19JE01 agt 0853; √'d JW 23NO07 agt 0852; ed. JW 2JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="929B0851">
+          <head type="note" n="1" xml:id="spp-929B0851-headnote-1">
+            <lg n="1" xml:id="spp-929B0851-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-929B0851-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-929B0851-headnote-2">
+            <lg n="1" xml:id="spp-929B0851-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-929B0851-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-929B0851-headnote-3">
+            <lg n="1" xml:id="spp-929B0851-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-929B0851-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-929B0851-line-1" n="1"><hi rend="display-initial">I</hi> AM jet-Black, as you may see,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-2" n="2">The Son of Pitch, and gloomy Night;</l>
+            <l xml:id="swift-929B0851-line-3" n="3">Yet all that know me will agree,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-4" n="4">I'm dead except I live in Light.</l>
+            <l xml:id="swift-929B0851-line-5" n="5"><lb/>Sometimes in Panegyrick high,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-6" n="6">Like lofty <hi rend="italics">Pindar</hi> I can soar,</l>
+            <l xml:id="swift-929B0851-line-7" n="7">And raise a Virgin to the Sky,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-8" n="8">Or sink her to a pocky Whore.</l>
+            <l xml:id="swift-929B0851-line-9" n="9"><lb/>My Blood this Day is very sweet,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-10" n="10">To-morrow of a bitter Juice,</l>
+            <l xml:id="swift-929B0851-line-11" n="11">Like Milk 'tis cry'd about the Street,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-12" n="12">And so apply'd to diff'rent Use.</l>
+            <l xml:id="swift-929B0851-line-13" n="13"><lb/>Most wond'rous is my Magick Power;</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-14" n="14">For with one Colour I can paint;</l>
+            <l xml:id="swift-929B0851-line-15" n="15">I'll make the Dev'l a Saint this Hour,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-16" n="16">Next make a Devil of a Saint.</l>
+            <l xml:id="swift-929B0851-line-17" n="17"><lb/>Thro' distant Regions I can fly,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-18" n="18">Provide me but with Paper Wings,</l>
+            <l xml:id="swift-929B0851-line-19" n="19">And fairly shew a Reason, why</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-20" n="20">There shou'd be Quarrels among Kings.</l>
+            <l xml:id="swift-929B0851-line-21" n="21"><lb/>And after all you'll think it odd,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-22" n="22">When learned Doctors will dispute,</l>
+            <l xml:id="swift-929B0851-line-23" n="23">That I shou'd point the Word of G<hi rend="small-caps">OD</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-24" n="24">And shew where they can best confute.</l>
+            <l xml:id="swift-929B0851-line-25" n="25"><lb/>Let Lawyers bawl and strain their Throats,</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-26" n="26">'Tis I that must the Lands convey,</l>
+            <l xml:id="swift-929B0851-line-27" n="27">And strip the Clients to their Coats;</l>
+            <l rend="indent(1)" xml:id="swift-929B0851-line-28" n="28">Nay, give their very Souls away.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

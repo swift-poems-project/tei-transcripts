@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 20JL07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="931-0852">
+          <head type="note" n="1" xml:id="spp-931-0852-headnote-1">
+            <lg n="1" xml:id="spp-931-0852-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-931-0852-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-931-0852-headnote-2">
+            <lg n="1" xml:id="spp-931-0852-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-931-0852-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-931-0852-headnote-3">
+            <lg n="1" xml:id="spp-931-0852-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-931-0852-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-931-0852-line-1" n="1"><hi rend="display-initial">A</hi>LL of us in one you'll find,</l>
+            <l xml:id="swift-931-0852-line-2" n="2">Brethren of a wond'rous Kind,</l>
+            <l xml:id="swift-931-0852-line-3" n="3">Yet among us all, no Brother</l>
+            <l xml:id="swift-931-0852-line-4" n="4">Knows one Tittle of the other;</l>
+            <l xml:id="swift-931-0852-line-5" n="5">We in frequent Councils are,</l>
+            <l xml:id="swift-931-0852-line-6" n="6">And our Marks of Things declare,</l>
+            <l xml:id="swift-931-0852-line-7" n="7">Where, to us unknown, a Clerk</l>
+            <l xml:id="swift-931-0852-line-8" n="8">Sits, and takes them in the Dark.</l>
+            <l xml:id="swift-931-0852-line-9" n="9">He's the Register of All</l>
+            <l xml:id="swift-931-0852-line-10" n="10">In our Ken, both great and small;</l>
+            <l xml:id="swift-931-0852-line-11" n="11">By us forms his Laws and Rules,</l>
+            <l xml:id="swift-931-0852-line-12" n="12">He's our Master, we his Tools;</l>
+            <l xml:id="swift-931-0852-line-13" n="13">Yet we can, with greatest Ease.</l>
+            <l xml:id="swift-931-0852-line-14" n="14">Turn and wind him where we please.</l>
+            <l rend="indent(1)" xml:id="swift-931-0852-line-15" n="15"><lb/>One of us alone can sleep,</l>
+            <l xml:id="swift-931-0852-line-16" n="16">Yet no Watch the rest will keep,</l>
+            <l xml:id="swift-931-0852-line-17" n="17">But the Moment that he closes,</l>
+            <l xml:id="swift-931-0852-line-18" n="18">Ev'ry Brother else reposes.</l>
+            <l rend="indent(1)" xml:id="swift-931-0852-line-19" n="19"><lb/>If Wine's bought, or Victuals drest,</l>
+            <l xml:id="swift-931-0852-line-20" n="20">One enjoys them for the Rest.</l>
+            <l rend="indent(1)" xml:id="swift-931-0852-line-21" n="21"><lb/>Pierce us all with wounding Steel,</l>
+            <l xml:id="swift-931-0852-line-22" n="22">One for all of us will feel.</l>
+            <l rend="indent(1)" xml:id="swift-931-0852-line-23" n="23"><lb/>Tho' ten thousand Cannons roar,</l>
+            <l xml:id="swift-931-0852-line-24" n="24">Add to them ten thousand more,</l>
+            <l xml:id="swift-931-0852-line-25" n="25">Yet but one of us is found</l>
+            <l xml:id="swift-931-0852-line-26" n="26">Who regards the dreadful Sound.</l>
+            <l rend="indent(1)" xml:id="swift-931-0852-line-27" n="27"><lb/>Do what is not fit to tell,</l>
+            <l xml:id="swift-931-0852-line-28" n="28">There's but one of us can smell.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

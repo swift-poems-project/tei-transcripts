@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN<lb/>  INVITATION to DINNER,<lb/>  FROM<lb/>  DOCTOR SHERIDAN<lb/>  TO<lb/>  DOCTOR SWIFT,<lb/>  Written in the Year MDCCXXVII.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 7AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X48-65D1">
+          <head type="note" n="1" xml:id="spp-X48-65D1-headnote-1">
+            <lg n="1" xml:id="spp-X48-65D1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X48-65D1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X48-65D1-headnote-2">
+            <lg n="1" xml:id="spp-X48-65D1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X48-65D1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X48-65D1-headnote-3">
+            <lg n="1" xml:id="spp-X48-65D1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X48-65D1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X48-65D1-line-1" n="1"><hi rend="display-initial">I</hi>'VE sent to the Ladies, this Morning to warn 'em</l>
+            <l xml:id="swift-X48-65D1-line-2" n="2">To order their Chaise, and repair to <hi rend="italics">Rathfarnam</hi>;</l>
+            <l xml:id="swift-X48-65D1-line-3" n="3">Where you shall be welcome to dine, if your Deanship</l>
+            <l xml:id="swift-X48-65D1-line-4" n="4">Can take up with me, and my Friend <hi rend="italics">Stella</hi>'s leanship.</l>
+            <l xml:id="swift-X48-65D1-line-5" n="5">I've got you some Soals, aud a fresh bleeding Bret,</l>
+            <l xml:id="swift-X48-65D1-line-6" n="6">That's just disengag'd from the Toils of a Net:</l>
+            <l xml:id="swift-X48-65D1-line-7" n="7">An excellent Loin of fat Veal to be roasted,</l>
+            <l xml:id="swift-X48-65D1-line-8" n="8">With Lemons, and Butter, and Sippets well toasted:</l>
+            <l xml:id="swift-X48-65D1-line-9" n="9">Some Larks that descended, mistaking the Skies,</l>
+            <l xml:id="swift-X48-65D1-line-10" n="10">Which <hi rend="italics">Stella</hi> brought down by the Light of her Eyes;</l>
+            <l xml:id="swift-X48-65D1-line-11" n="11">And there, like <hi rend="italics">Narcissus</hi>, they gazed 'till they dy'd,</l>
+            <l xml:id="swift-X48-65D1-line-12" n="12">And now they're to lie in some Crumbs that are fry'd.</l>
+            <l xml:id="swift-X48-65D1-line-13" n="13">My Wine will inspire you with Joy and Delight,</l>
+            <l xml:id="swift-X48-65D1-line-14" n="14">'Tis mellow, and old, and sparkling, and bright;</l>
+            <l xml:id="swift-X48-65D1-line-15" n="15">An Emblem of one that you love I suppose,</l>
+            <l xml:id="swift-X48-65D1-line-16" n="16">Who gathers more Lovers the older she grows.</l>
+            <l xml:id="swift-X48-65D1-line-17" n="17">Let me be your <hi rend="italics">Gay</hi>, and let <hi rend="italics">Stella</hi> be <hi rend="italics">Pope</hi>,</l>
+            <l xml:id="swift-X48-65D1-line-18" n="18">We'll wean you from sighing for <hi rend="italics">England</hi> I hope:</l>
+            <l xml:id="swift-X48-65D1-line-19" n="19">When we are together there's nothing that is dull,</l>
+            <l xml:id="swift-X48-65D1-line-20" n="20">There's nothing like <hi rend="italics">Durfey</hi>, or <hi rend="italics">Smedley</hi>, or <hi rend="italics">Tisdall</hi>,</l>
+            <l xml:id="swift-X48-65D1-line-21" n="21">We've sworn to make out an agreeable Feast,</l>
+            <l xml:id="swift-X48-65D1-line-22" n="22">Our Dinner, our Wine, and our Wit to your Taste.</l>
+            <l rend="indent(1)" xml:id="swift-X48-65D1-line-23" n="23"><lb/>Your Answer in half an Hour, though you are at Prayers; you have a Pencil in your Pocket.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

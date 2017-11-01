@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-082-06E2-title-1">The D<hi rend="small-caps">ESCRIPTION</hi> of a S<hi rend="small-caps">ALAMANDER</hi> <ref target="#spp-082-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-082-06E2-footnote-title-1" place="foot">This excessive bitter <hi rend="italics">description of a salamander</hi>, was occasioned by the Duke of Marlborough's giving that appellation to Lord Cutts, after he had come off victorious, and without a wound, from an engagement with part of the French army, whose fire was so extremely brisk, and so incessantly poured in upon the English forces, that it was supposed nothing but a <hi rend="italics">salamander</hi> could have lived in the midst of it. <hi rend="italics">Swift</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 30MY01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-082-06E2-footnote-title-1 #spp-082-06E2-title-1"/>
+        </linkGrp>
+        <div n="082-06E2">
+          <head type="note" n="1" xml:id="spp-082-06E2-headnote-1">
+            <lg n="1" xml:id="spp-082-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-06E2-headnote-1-line-group-1-line-1"><hi rend="italics">Out of Pliny</hi>'s Natural History, <hi rend="italics">lib</hi>. 10. <hi rend="italics">c</hi>. 67. <hi rend="italics">and lib</hi>. 29. <hi rend="italics">c</hi>. 4.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-082-06E2-headnote-2">
+            <lg n="1" xml:id="spp-082-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-06E2-headnote-2-line-group-1-line-1">Written in the year 1706.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-082-06E2-headnote-3">
+            <lg n="1" xml:id="spp-082-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-082-06E2-line-1" n="1"><hi rend="display-initial">A</hi>S mastiff dogs in modern phrase are</l>
+            <l xml:id="swift-082-06E2-line-2" n="2">Call'd <hi rend="italics">Pompey, Scipio</hi>, and <hi rend="italics">Cæsar</hi>;</l>
+            <l xml:id="swift-082-06E2-line-3" n="3">As <hi rend="italics">pyes</hi> and <hi rend="italics">daws</hi> are often styl'd</l>
+            <l xml:id="swift-082-06E2-line-4" n="4">With Christian nicknames like a child;</l>
+            <l xml:id="swift-082-06E2-line-5" n="5">As we say <hi rend="italics">Monsieur</hi> to an <hi rend="italics">ape</hi>,</l>
+            <l xml:id="swift-082-06E2-line-6" n="6">Without offence to human shape;</l>
+            <l xml:id="swift-082-06E2-line-7" n="7">So men have got from bird and brute</l>
+            <l xml:id="swift-082-06E2-line-8" n="8">Names that would best their natures suit.</l>
+            <l xml:id="swift-082-06E2-line-9" n="9">The <hi rend="italics">lion, eagle, fox</hi>, and <hi rend="italics">boar</hi>,</l>
+            <l xml:id="swift-082-06E2-line-10" n="10">Were heroes titles heretofore,</l>
+            <l xml:id="swift-082-06E2-line-11" n="11">Bestow'd as hi'roglyphics fit</l>
+            <l xml:id="swift-082-06E2-line-12" n="12">To shew their valour, strength, or wit:</l>
+            <l xml:id="swift-082-06E2-line-13" n="13">For what is understood by <hi rend="italics">fame</hi>,</l>
+            <l xml:id="swift-082-06E2-line-14" n="14">Besides the getting of a <hi rend="italics">name</hi>?</l>
+            <l xml:id="swift-082-06E2-line-15" n="15">But, e'er since men invented guns,</l>
+            <l xml:id="swift-082-06E2-line-16" n="16">A diff'rent way their fancy runs:</l>
+            <l xml:id="swift-082-06E2-line-17" n="17">To paint a hero, we inquire</l>
+            <l xml:id="swift-082-06E2-line-18" n="18">For something that will conquer <hi rend="italics">fire</hi>.</l>
+            <l xml:id="swift-082-06E2-line-19" n="19">Would you describe Turenne <note place="foot">·The famous Mareschal Turenne, General of the French forces, said to have been the greatest commander of the age.  <hi rend="italics">H</hi>.</note> or Trump<note place="foot">·Van Trump, Admiral of the States-General in their last war with England, eminent for his courage and his victories.  <hi rend="italics">H</hi>.</note>?</l>
+            <l xml:id="swift-082-06E2-line-20" n="20">Think of a bucket or a pump.</l>
+            <l xml:id="swift-082-06E2-line-21" n="21">Are these too low?── then find out grander,</l>
+            <l xml:id="swift-082-06E2-line-22" n="22">Call my Lord Cutts a <hi rend="italics">salamander</hi><note place="foot">·Lord Cutts. <hi rend="italics">Salamander</hi> was a name given him by his flatterers, upon his having survived an engagement in which he stood an incessant fire for many hours.  He is said frequently to have lamented himself in these terms: “G──d d──n my bl──d, I'm The most unlucky dog upon earth; for I never engaged an enemy without being wounded, nor a whore without being p──x'd.” ·<hi rend="italics">Hawkes</hi>.</note>.</l>
+            <l xml:id="swift-082-06E2-line-23" n="23">'Tis well;── but since we live among</l>
+            <l xml:id="swift-082-06E2-line-24" n="24">Detractors with an evil tongue,</l>
+            <l xml:id="swift-082-06E2-line-25" n="25">Who may object against the term,</l>
+            <l xml:id="swift-082-06E2-line-26" n="26">Pliny shall prove what we affirm;</l>
+            <l xml:id="swift-082-06E2-line-27" n="27">Pliny shall prove, and we'll apply,</l>
+            <l xml:id="swift-082-06E2-line-28" n="28">And I'll be judg'd by standers-by.</l>
+            <l rend="indent(1)" xml:id="swift-082-06E2-line-29" n="29">First, then, our author has defin'd</l>
+            <l xml:id="swift-082-06E2-line-30" n="30">This reptile of the serpent kind,</l>
+            <l xml:id="swift-082-06E2-line-31" n="31">With gaudy coat, and shining train;</l>
+            <l xml:id="swift-082-06E2-line-32" n="32">But loathsome spots his body stain:</l>
+            <l xml:id="swift-082-06E2-line-33" n="33">Out from some hole obscure he flies,</l>
+            <l xml:id="swift-082-06E2-line-34" n="34">When rains descend, and tempests rise,</l>
+            <l xml:id="swift-082-06E2-line-35" n="35">Till the sun clears the air; and then</l>
+            <l xml:id="swift-082-06E2-line-36" n="36">Crawls back neglected to his den.</l>
+            <l rend="indent(1)" xml:id="swift-082-06E2-line-37" n="37">So, when the war has rais'd a storm,</l>
+            <l xml:id="swift-082-06E2-line-38" n="38">I've seen a <hi rend="italics">snake</hi> in human form,</l>
+            <l xml:id="swift-082-06E2-line-39" n="39">All stain'd with infamy and vice,</l>
+            <l xml:id="swift-082-06E2-line-40" n="40">Leap from the dunghill in a trice,</l>
+            <l xml:id="swift-082-06E2-line-41" n="41">Burnish, and make a gaudy show,</l>
+            <l xml:id="swift-082-06E2-line-42" n="42">Became a gen'ral, peer, and beau,</l>
+            <l xml:id="swift-082-06E2-line-43" n="43">Till peace hath made the sky serene;</l>
+            <l xml:id="swift-082-06E2-line-44" n="44">Then shrink into its hole again.</l>
+            <l rend="indent(1)" xml:id="swift-082-06E2-line-45" n="45">
+              <lb/>
+              <hi rend="italics">All this we grant── why then look yonder,</hi>
+            </l>
+            <l xml:id="swift-082-06E2-line-46" n="46"><hi rend="italics">Sure that must be a</hi> salamander!</l>
+            <l rend="indent(1)" xml:id="swift-082-06E2-line-47" n="47"><lb/>Farther, we are by Pliny told,</l>
+            <l xml:id="swift-082-06E2-line-48" n="48">This <hi rend="italics">serpent</hi> is extremely cold;</l>
+            <l xml:id="swift-082-06E2-line-49" n="49">So cold, that, put it in the fire,</l>
+            <l xml:id="swift-082-06E2-line-50" n="50">'Twill make the very flames expire:</l>
+            <l xml:id="swift-082-06E2-line-51" n="51">Besides, it spues a filthy froth</l>
+            <l xml:id="swift-082-06E2-line-52" n="52">(Whether through rage, or lust, or both)</l>
+            <l xml:id="swift-082-06E2-line-53" n="53">Of matter purulent and white,</l>
+            <l xml:id="swift-082-06E2-line-54" n="54">Which happening on the skin to light,</l>
+            <l xml:id="swift-082-06E2-line-55" n="55">And there corrupting to a wound,</l>
+            <l xml:id="swift-082-06E2-line-56" n="56">Spreads leprosy and baldness round.</l>
+            <l rend="indent(1)" xml:id="swift-082-06E2-line-57" n="57">So have I seen a batter'd beau,</l>
+            <l xml:id="swift-082-06E2-line-58" n="58">By age and claps grown cold as snow,</l>
+            <l xml:id="swift-082-06E2-line-59" n="59">Whose breath or touch, where-e'er he came,</l>
+            <l xml:id="swift-082-06E2-line-60" n="60">Blew out love's torch, or chill'd the flame:</l>
+            <l xml:id="swift-082-06E2-line-61" n="61">And should some nymph who ne'er was cruel,</l>
+            <l xml:id="swift-082-06E2-line-62" n="62">Like Charleton cheap, or fam'd Du-Ruel,</l>
+            <l xml:id="swift-082-06E2-line-63" n="63">Receive the filth which he ejects,</l>
+            <l xml:id="swift-082-06E2-line-64" n="64">She soon would find the same effects</l>
+            <l xml:id="swift-082-06E2-line-65" n="65">Her tainted carcase to pursue,</l>
+            <l xml:id="swift-082-06E2-line-66" n="66">As from the <hi rend="italics">salamander</hi>'s spue;</l>
+            <l xml:id="swift-082-06E2-line-67" n="67">A dismal shedding of her locks,</l>
+            <l xml:id="swift-082-06E2-line-68" n="68">And, if no leprosy, a pox.</l>
+            <l rend="indent(1)" xml:id="swift-082-06E2-line-69" n="69">
+              <lb/>
+              <hi rend="italics">Then I'll appeal to each by-stander,</hi>
+            </l>
+            <l xml:id="swift-082-06E2-line-70" n="70"><hi rend="italics">If this be not a</hi> salamander?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

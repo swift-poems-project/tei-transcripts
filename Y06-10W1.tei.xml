@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A WICKED TREASONABLE LIBEL.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 7AP11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y06-10W1">
+          <head type="note" n="1" xml:id="spp-Y06-10W1-headnote-1">
+            <lg n="1" xml:id="spp-Y06-10W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y06-10W1-headnote-1-line-group-1-line-1">So the following very remarkable verses are entitled, in a copy which exists in the Dean's hand-writing, and is now before the Editor. It bears the following characteristic memorandum on the back. “A traiterous libel, writ several years ago. It is inconsistent with itself. Copied September 9th, 1735. I wish I knew the author, that I might hang him.” And at the bottom of the paper is subjoined this postscript. “I copied out this wicked paper many years ago, in hopes to discover the traitor of an author, that I might inform against him.” For the foundation of the scandals current during the reign of George I. to which the lines allude, see Walpole's Reminiscences, chapter II. and Vol. I. of this work, p. 361.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y06-10W1-headnote-2">
+            <lg n="1" xml:id="spp-Y06-10W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y06-10W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y06-10W1-headnote-3">
+            <lg n="1" xml:id="spp-Y06-10W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y06-10W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-Y06-10W1-line-1" n="1">W<hi rend="small-caps">HILE</hi> the King and his ministers keep such a pother,</l>
+            <l xml:id="swift-Y06-10W1-line-2" n="2">And all about changing one whore for another,</l>
+            <l xml:id="swift-Y06-10W1-line-3" n="3">Think I to myself what need all this strife,</l>
+            <l xml:id="swift-Y06-10W1-line-4" n="4">His majesty first had a whore of a wife,</l>
+            <l xml:id="swift-Y06-10W1-line-5" n="5">And surely the difference mounts to no more</l>
+            <l xml:id="swift-Y06-10W1-line-6" n="6">Than, now he has gotten a wife of a whore.</l>
+            <l xml:id="swift-Y06-10W1-line-7" n="7">Now give me your judgment a very nice case on;</l>
+            <l xml:id="swift-Y06-10W1-line-8" n="8">Each Queen has a son, say which is the base one?</l>
+            <l xml:id="swift-Y06-10W1-line-9" n="9">Say which of the two is the right Prince of Wales,</l>
+            <l xml:id="swift-Y06-10W1-line-10" n="10">To succeed, when, (God bless him,) his majesty fails;</l>
+            <l xml:id="swift-Y06-10W1-line-11" n="11">Perhaps it may puzzle our loyal divines</l>
+            <l xml:id="swift-Y06-10W1-line-12" n="12">To unite these two protestant <hi rend="italics">parallel</hi> lines,</l>
+            <l xml:id="swift-Y06-10W1-line-13" n="13">From a left-handed wife, and one turned out of doors, 3}</l>
+            <l xml:id="swift-Y06-10W1-line-14" n="14">Two reputed King's sons, both true sons of whores;</l>
+            <l xml:id="swift-Y06-10W1-line-15" n="15">No law can determine it, which is first oars.</l>
+            <l xml:id="swift-Y06-10W1-line-16" n="16">But alas! poor old England, how wilt thou be master'd;</l>
+            <l xml:id="swift-Y06-10W1-line-17" n="17">For, take which you please, it must needs be a bastard.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

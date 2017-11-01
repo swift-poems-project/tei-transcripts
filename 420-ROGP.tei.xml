@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Holyhead. September 25, l727</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="420-ROGP">
+          <head type="note" n="1" xml:id="spp-420-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-420-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-420-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-420-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-420-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-420-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-420-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-420-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-420-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-420-ROGP-line-1" n="1">Lo here I sit at Holyhead</l>
+            <l xml:id="swift-420-ROGP-line-2" n="2">With muddy ale and mouldy bread:</l>
+            <l xml:id="swift-420-ROGP-line-3" n="3">All Christian victuals stink of fish,</l>
+            <l xml:id="swift-420-ROGP-line-4" n="4">I'm where my enemies would wish.</l>
+            <l xml:id="swift-420-ROGP-line-5" n="5">Convict of lies is every sign,</l>
+            <l xml:id="swift-420-ROGP-line-6" n="6">The inn has not one drop of wine.</l>
+            <l xml:id="swift-420-ROGP-line-7" n="7">I'm fastened both by wind and tide,</l>
+            <l xml:id="swift-420-ROGP-line-8" n="8">I see the ship at anchor ride.</l>
+            <l xml:id="swift-420-ROGP-line-9" n="9">The captain swears the sea's too rough,</l>
+            <l xml:id="swift-420-ROGP-line-10" n="10">He has not passengers enough.</l>
+            <l xml:id="swift-420-ROGP-line-11" n="11">And thus the Dean is forced to stay,</l>
+            <l xml:id="swift-420-ROGP-line-12" n="12">Till others come to help the pay.</l>
+            <l xml:id="swift-420-ROGP-line-13" n="13">In Dublin they'd be glad to see</l>
+            <l xml:id="swift-420-ROGP-line-14" n="14">A packet though it brings in me.</l>
+            <l xml:id="swift-420-ROGP-line-15" n="15">They cannot say the winds are cross;</l>
+            <l xml:id="swift-420-ROGP-line-16" n="16">Your politicians at a loss</l>
+            <l xml:id="swift-420-ROGP-line-17" n="17">For want of matter swears and frets,</l>
+            <l xml:id="swift-420-ROGP-line-18" n="18">Are forced to read the old gazettes.</l>
+            <l xml:id="swift-420-ROGP-line-19" n="19">I never was in haste before</l>
+            <l xml:id="swift-420-ROGP-line-20" n="20">To reach that slavish hateful shore:</l>
+            <l xml:id="swift-420-ROGP-line-21" n="21">Before, I always found the wind</l>
+            <l xml:id="swift-420-ROGP-line-22" n="22">To me was most malicious kind,</l>
+            <l xml:id="swift-420-ROGP-line-23" n="23">But now the danger of a friend</l>
+            <l xml:id="swift-420-ROGP-line-24" n="24">On whom my hopes and fears depend,</l>
+            <l xml:id="swift-420-ROGP-line-25" n="25">Absent from whom all climes are cursed,</l>
+            <l xml:id="swift-420-ROGP-line-26" n="26">With whom I'm happy in the worst,</l>
+            <l xml:id="swift-420-ROGP-line-27" n="27">With rage impatient makes me wait</l>
+            <l xml:id="swift-420-ROGP-line-28" n="28">A passage to the land I hate.</l>
+            <l xml:id="swift-420-ROGP-line-29" n="29">Else, rather on this bleaky shore</l>
+            <l xml:id="swift-420-ROGP-line-30" n="30">Where loudest winds incessant roar,</l>
+            <l xml:id="swift-420-ROGP-line-31" n="31">Where neither herb nor tree will thrive,</l>
+            <l xml:id="swift-420-ROGP-line-32" n="32">Where nature hardly seems alive,</l>
+            <l xml:id="swift-420-ROGP-line-33" n="33">I'd go in freedom to my grave,</l>
+            <l xml:id="swift-420-ROGP-line-34" n="34">Than rule yon isle and be a slave.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

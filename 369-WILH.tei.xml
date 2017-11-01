@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A SATYR.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="369-WILH">
+          <head type="note" n="1" xml:id="spp-369-WILH-headnote-1">
+            <lg n="1" xml:id="spp-369-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-369-WILH-headnote-1-line-group-1-line-1"><hi rend="italics">Canit, ante Victoriam Triumphum</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-369-WILH-headnote-2">
+            <lg n="1" xml:id="spp-369-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-369-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-369-WILH-headnote-3">
+            <lg n="1" xml:id="spp-369-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-369-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-369-WILH-line-1" n="1"><hi rend="display-initial">M</hi>Ost Reverend <hi rend="italics">Dean</hi>, pray cease to Write;</l>
+            <l xml:id="swift-369-WILH-line-2" n="2">Nor longer dwell on Things so Trite;</l>
+            <l xml:id="swift-369-WILH-line-3" n="3">Teize not unto thy Feeble Aid,</l>
+            <l xml:id="swift-369-WILH-line-4" n="4">Each <hi rend="italics">Grace</hi> and <hi rend="italics">Heliconian</hi> Maid;</l>
+            <l xml:id="swift-369-WILH-line-5" n="5"><hi rend="italics">Apollo</hi>'s tir'd, <hi rend="italics">Minerva</hi> Swears,</l>
+            <l xml:id="swift-369-WILH-line-6" n="6">She never more will hear thy Prayers;</l>
+            <l xml:id="swift-369-WILH-line-7" n="7">And, to speak Truth, I think it odd is,</l>
+            <l xml:id="swift-369-WILH-line-8" n="8">To Nauseate, thus, The God and Goddess;</l>
+            <l xml:id="swift-369-WILH-line-9" n="9">To <hi rend="italics">Ditto</hi> it, daily, through the Town,</l>
+            <l xml:id="swift-369-WILH-line-10" n="10">And Write, and Write our Spirits down.</l>
+            <l rend="indent(1)" xml:id="swift-369-WILH-line-11" n="11"><lb/><hi rend="italics">Great Sir</hi>, its own'd, you well behav'd;</l>
+            <l xml:id="swift-369-WILH-line-12" n="12">Your Skin is whole, your Country's sav'd;</l>
+            <l xml:id="swift-369-WILH-line-13" n="13">om.</l>
+            <l xml:id="swift-369-WILH-line-14" n="14">om.</l>
+            <l xml:id="swift-369-WILH-line-15" n="15">The Grand Dispute! you've made an End on't:</l>
+            <l xml:id="swift-369-WILH-line-16" n="16"><hi rend="italics">Our State and Church are Independent</hi>.</l>
+            <l xml:id="swift-369-WILH-line-17" n="17">The Weather's good, and <hi rend="italics">Phœbus</hi> Smiles,</l>
+            <l xml:id="swift-369-WILH-line-18" n="18">On This, just, as on other Isles;</l>
+            <l xml:id="swift-369-WILH-line-19" n="19">In Gold we wallow; But, nor Brass,</l>
+            <l xml:id="swift-369-WILH-line-20" n="20">Thank God, or Silver current pass;</l>
+            <l xml:id="swift-369-WILH-line-21" n="21">Priests bent, and People are, on Gains,</l>
+            <l xml:id="swift-369-WILH-line-22" n="22">No Politicks disturb our Brains.</l>
+            <l xml:id="swift-369-WILH-line-23" n="23">No Popish Plot, nor Wars Alarms</l>
+            <l xml:id="swift-369-WILH-line-24" n="24">Our Warlike Genius wakes to Arms.</l>
+            <l xml:id="swift-369-WILH-line-25" n="25">Long since, the <hi rend="italics">Muses</hi> Nine were seen,</l>
+            <l xml:id="swift-369-WILH-line-26" n="26">To take their leave of <hi rend="italics">College-Green</hi>;</l>
+            <l xml:id="swift-369-WILH-line-27" n="27">The <hi rend="italics">Graces</hi> too, are either Dead,</l>
+            <l xml:id="swift-369-WILH-line-28" n="28">Or, Opiated, are gone to Bed,</l>
+            <l xml:id="swift-369-WILH-line-29" n="29">And (unless Fame does much bely 'em,)</l>
+            <l xml:id="swift-369-WILH-line-30" n="30">Dos'd, sleeps <hi rend="italics">Præpos. Cum sociis</hi>, by 'em;</l>
+            <l xml:id="swift-369-WILH-line-31" n="31">No Midnight Hours consume the Taper;</l>
+            <l xml:id="swift-369-WILH-line-32" n="32">Cheaply are sold Pen, Ink and Paper.</l>
+            <l xml:id="swift-369-WILH-line-33" n="33">Science and Arts are at a Stand;</l>
+            <l xml:id="swift-369-WILH-line-34" n="34">Were't not for <hi rend="italics">Hel──m'</hi>s<hi rend="italics"> Slight of Hand</hi>,</l>
+            <l xml:id="swift-369-WILH-line-35" n="35">For <hi rend="italics">Sherry</hi>'s Quibles, and thy Quill,</l>
+            <l xml:id="swift-369-WILH-line-36" n="36">The Dusty Press wou'd stand, quite, still;</l>
+            <l xml:id="swift-369-WILH-line-37" n="37">A Stop to Literature be put,</l>
+            <l xml:id="swift-369-WILH-line-38" n="38">And the <hi rend="italics">Musæum</hi>' Gates be shut:</l>
+            <l xml:id="swift-369-WILH-line-39" n="39">And, as it happen'd, once at <hi rend="italics">Paris</hi>,</l>
+            <l xml:id="swift-369-WILH-line-40" n="40">(Not fetch'd, the Simile, too far is,)</l>
+            <l xml:id="swift-369-WILH-line-41" n="41">With Milk, the Maids, so <hi rend="italics">jeune et Tendre</hi>,</l>
+            <l xml:id="swift-369-WILH-line-42" n="42">Wou'd cry about, <hi rend="italics">Latin A vendre</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-369-WILH-line-43" n="43"><lb/>But pray, <hi rend="italics">Great Sir</hi>, (our Isle's <hi rend="italics">Apollo</hi>,)</l>
+            <l xml:id="swift-369-WILH-line-44" n="44">From what dull Logic, does it follow,</l>
+            <l xml:id="swift-369-WILH-line-45" n="45">That, 'cause, in Writing you have Skill,</l>
+            <l xml:id="swift-369-WILH-line-46" n="46">Can joke off Hand, have Wit at Will,</l>
+            <l xml:id="swift-369-WILH-line-47" n="47">That <hi rend="italics">a whole People</hi> you must cully,</l>
+            <l xml:id="swift-369-WILH-line-48" n="48">And feed with nought but <hi rend="italics">Chapon Bouilli</hi>:</l>
+            <l xml:id="swift-369-WILH-line-49" n="49">And make us all for Idiots pass</l>
+            <l xml:id="swift-369-WILH-line-50" n="50">With Foreign Nations: <hi rend="italics">Wood and Brass</hi></l>
+            <l xml:id="swift-369-WILH-line-51" n="51">Being all the Subjects, that you write on,</l>
+            <l xml:id="swift-369-WILH-line-52" n="52">And squander Wit, and vent your Spite on:</l>
+            <l xml:id="swift-369-WILH-line-53" n="53">Unless that, now and then, you deign</l>
+            <l xml:id="swift-369-WILH-line-54" n="54"><hi rend="italics">To praise your self</hi>, in humble Strain.</l>
+            <l rend="indent(1)" xml:id="swift-369-WILH-line-55" n="55"><lb/>Stop then thy Hand, my dear <hi rend="italics">Dean Bluff</hi>;</l>
+            <l xml:id="swift-369-WILH-line-56" n="56">Believe me Sir, you've done enuff:</l>
+            <l xml:id="swift-369-WILH-line-57" n="57">Ay, and much more, a deal, than any</l>
+            <l xml:id="swift-369-WILH-line-58" n="58">Poet before; wrote against Money.</l>
+            <l rend="indent(1)" xml:id="swift-369-WILH-line-59" n="59"><lb/>Then let us chaw, no more, your <hi rend="italics">Crambe</hi>;</l>
+            <l xml:id="swift-369-WILH-line-60" n="60">No such disgustful Thing there can be;</l>
+            <l xml:id="swift-369-WILH-line-61" n="61"><hi rend="italics">Thy Saint</hi> ordain'd not such Lent-Diet:</l>
+            <l xml:id="swift-369-WILH-line-62" n="62">His Broad-fac'd Mob's Mouth's shut and quiet:</l>
+            <l xml:id="swift-369-WILH-line-63" n="63"><hi rend="italics">Snarlerus</hi> does, no longer press</l>
+            <l xml:id="swift-369-WILH-line-64" n="64">In fervent Pray'r, for thy Success:</l>
+            <l xml:id="swift-369-WILH-line-65" n="65">No longer frown, no longer flatter;</l>
+            <l xml:id="swift-369-WILH-line-66" n="66">The Saint, again, is turn'd The Satyr.</l>
+            <l xml:id="swift-369-WILH-line-67" n="67">Ev'n <hi rend="italics">Præcox</hi>, who did, once, abhor thee,</l>
+            <l xml:id="swift-369-WILH-line-68" n="68">Has ceas'd, at length, to stutter for thee.</l>
+            <l xml:id="swift-369-WILH-line-69" n="69">And I must say (what e'er be ment)</l>
+            <l xml:id="swift-369-WILH-line-70" n="70">Thy Works are no great Complement,</l>
+            <l xml:id="swift-369-WILH-line-71" n="71">For Learned <hi rend="italics">Carteret</hi> to lay before him,</l>
+            <l xml:id="swift-369-WILH-line-72" n="72"><hi rend="italics">Et spes et Ratio Studiorum</hi>.</l>
+            <l xml:id="swift-369-WILH-line-73" n="73">Nor do I see the wondrous Glory,</l>
+            <l xml:id="swift-369-WILH-line-74" n="74">You're like to get, by all this Story;</l>
+            <l xml:id="swift-369-WILH-line-75" n="75">You Print, just as you Preach and Pray,</l>
+            <l xml:id="swift-369-WILH-line-76" n="76">No mortal ever yet said, <hi rend="italics">Nay</hi>.</l>
+            <l xml:id="swift-369-WILH-line-77" n="77">You write, a while; and then write on;</l>
+            <l xml:id="swift-369-WILH-line-78" n="78"><hi rend="italics">Sole Arbiter of Pro &amp; Con</hi>.</l>
+            <l xml:id="swift-369-WILH-line-79" n="79">No Knight attempting to oppose,</l>
+            <l xml:id="swift-369-WILH-line-80" n="80"><hi rend="italics">The Olive Dean and Black-guard Foes</hi>.</l>
+            <l xml:id="swift-369-WILH-line-81" n="81">And you'll be, fully, answer'd, when,</l>
+            <l xml:id="swift-369-WILH-line-82" n="82">For want of <hi rend="italics">Brass</hi>, your <hi rend="italics">Huzza-Men</hi>,</l>
+            <l xml:id="swift-369-WILH-line-83" n="83">Find <hi rend="italics">Butter-Milk</hi> nor Bought, nor sold here,</l>
+            <l xml:id="swift-369-WILH-line-84" n="84">Which happen may, e're, you're much Older.</l>
+            <l rend="indent(2)" xml:id="swift-369-WILH-line-85" n="85">|<hi rend="italics">And so </hi>A<hi rend="small-caps">DIEU</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PROMETHEUS,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="344-WILH">
+          <head type="note" n="1" xml:id="spp-344-WILH-headnote-1">
+            <lg n="1" xml:id="spp-344-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-WILH-headnote-1-line-group-1-line-1">A POEM&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-344-WILH-headnote-2">
+            <lg n="1" xml:id="spp-344-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-344-WILH-headnote-3">
+            <lg n="1" xml:id="spp-344-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-344-WILH-line-1" n="1"><hi rend="display-initial">W</hi>HEN first the <hi rend="italics">'Squire</hi>, and <hi rend="italics">Tinker Wood</hi></l><l xml:id="swift-344-WILH-line-2" n="2">Gravely consulting <hi rend="italics">Ireland</hi>'s Good,</l><l xml:id="swift-344-WILH-line-3" n="3">Together mingl'd in a Mass</l><l xml:id="swift-344-WILH-line-4" n="4">Smith's <hi rend="italics">Dust</hi>, and <hi rend="italics">Copper, Lead</hi> and <hi rend="italics">Brass</hi>,</l><l xml:id="swift-344-WILH-line-5" n="5">The Mixture thus by Chymick Art,</l><l xml:id="swift-344-WILH-line-6" n="6">United close in ev'ry Part.</l><l xml:id="swift-344-WILH-line-7" n="7">In Fillets roll'd, or cut in Pieces,</l><l xml:id="swift-344-WILH-line-8" n="8">Appear'd like one continu'd Spec'es,</l><l xml:id="swift-344-WILH-line-9" n="9">And by the forming Engine struck,</l><l xml:id="swift-344-WILH-line-10" n="10">On all the same IMPRESSION stuck.</l><l rend="indent(1)" xml:id="swift-344-WILH-line-11" n="11"><lb/>So to confound, this <hi rend="italics">hated Coin</hi></l><l xml:id="swift-344-WILH-line-12" n="12">All <hi rend="italics">Parties</hi> and <hi rend="italics">Religions</hi> joyn;</l><l xml:id="swift-344-WILH-line-13" n="13"><hi rend="italics">Whigs, Tories, Trimmers, Hannoverians,</hi></l><l xml:id="swift-344-WILH-line-14" n="14">Quakers, Conformists, Presbyterians,</l><l xml:id="swift-344-WILH-line-15" n="15">Quakers, Conformists, Presbyterians,Scotch, Irish, English, French</l> unite<l xml:id="swift-344-WILH-line-16" n="16">With <hi rend="italics">equal Int'rest, equal Spight</hi>,</l><l xml:id="swift-344-WILH-line-17" n="17">Together mingled in a Lump,</l><l xml:id="swift-344-WILH-line-18" n="18">Do all in <hi rend="italics">One Opinion</hi> jump;</l><l xml:id="swift-344-WILH-line-19" n="19">And ev'ry one begins to find,</l><l xml:id="swift-344-WILH-line-20" n="20">The same IMPRESSION on his Mind;</l><l xml:id="swift-344-WILH-line-21" n="21">A strange Event! whom <hi rend="italics">Gold</hi> incites,</l><l xml:id="swift-344-WILH-line-22" n="22">To Blood and Quarrels, <hi rend="italics">Brass</hi> unites:</l><l xml:id="swift-344-WILH-line-23" n="23">So Goldsmiths say, the coursest Stuff,</l><l xml:id="swift-344-WILH-line-24" n="24">Will serve for <hi rend="italics">Sodder</hi> well enuff.</l><l xml:id="swift-344-WILH-line-25" n="25">So, by the <hi rend="italics">Kettles</hi> loud Allarm,</l><l xml:id="swift-344-WILH-line-26" n="26">The <hi rend="italics">Bees</hi> are gather'd to a <hi rend="italics">Swarm</hi>:</l><l xml:id="swift-344-WILH-line-27" n="27">So by the <hi rend="italics">Brazen</hi> Trumpets Bluster,</l><l xml:id="swift-344-WILH-line-28" n="28">Troops of all Tongues and Nations Muster:</l><l xml:id="swift-344-WILH-line-29" n="29">And so the <hi rend="italics">Harp</hi> of <hi rend="italics">Ireland</hi> brings,</l><l xml:id="swift-344-WILH-line-30" n="30">Whole Crouds about its <hi rend="italics">Brazen</hi> Strings.</l><l rend="indent(1)" xml:id="swift-344-WILH-line-31" n="31"><lb/>There is a <hi rend="italics">Chain</hi> let down from <hi rend="italics">Jove</hi>,</l><l xml:id="swift-344-WILH-line-32" n="32">But fasten'd to his Throne above;</l><l xml:id="swift-344-WILH-line-33" n="33">So strong, that from the lower End,</l><l xml:id="swift-344-WILH-line-34" n="34">They say, all human Things depend:</l><l xml:id="swift-344-WILH-line-35" n="35">This <hi rend="italics">Chain</hi>, as Antient Poets hold,</l><l xml:id="swift-344-WILH-line-36" n="36">When <hi rend="italics">Jove</hi> was Young, was made of <hi rend="italics">Gold.</hi></l><l xml:id="swift-344-WILH-line-37" n="37"><hi rend="italics">Prometheus</hi> once this <hi rend="italics">Chain</hi> purloin'd,</l><l xml:id="swift-344-WILH-line-38" n="38">Dissolv'd, and into <hi rend="italics">Money</hi> Coin'd;</l><l xml:id="swift-344-WILH-line-39" n="39">Then whips me on a <hi rend="italics">Chain</hi> of <hi rend="italics">Brass</hi>,</l><l xml:id="swift-344-WILH-line-40" n="40">(<hi rend="italics">Venus</hi> was Brib'd to let it pass.)</l><l rend="indent(1)" xml:id="swift-344-WILH-line-41" n="41"><lb/>Now while this <hi rend="italics">Brazen Chain</hi> prevail'd,</l><l xml:id="swift-344-WILH-line-42" n="42"><hi rend="italics">Jove</hi> saw that all <hi rend="italics">Devotion</hi> fail'd;</l><l xml:id="swift-344-WILH-line-43" n="43">No <hi rend="italics">Temple</hi>, to his <hi rend="italics">Godship</hi> rais'd,</l><l xml:id="swift-344-WILH-line-44" n="44">No <hi rend="italics">Sacrifice</hi> on <hi rend="italics">Altars</hi> blaz'd;</l><l xml:id="swift-344-WILH-line-45" n="45">In short such <hi rend="italics">dire Confusions</hi> follow'd,</l><l xml:id="swift-344-WILH-line-46" n="46"><hi rend="italics">Earth</hi> must have been in <hi rend="italics">Chaos</hi> swallow'd.</l><l xml:id="swift-344-WILH-line-47" n="47"><hi rend="italics">Jove</hi> stood amaz'd, but looking round,</l><l xml:id="swift-344-WILH-line-48" n="48">With much ado, the <hi rend="italics">Cheat</hi> he found;</l><l xml:id="swift-344-WILH-line-49" n="49">'Twas plain he cou'd no longer hold</l><l xml:id="swift-344-WILH-line-50" n="50">The <hi rend="italics">World</hi> in any <hi rend="italics">Chain</hi> but <hi rend="italics">Gold</hi>;</l><l xml:id="swift-344-WILH-line-51" n="51">And to the <hi rend="italics">God of Wealth</hi> his <hi rend="italics">Brother</hi>,</l><l xml:id="swift-344-WILH-line-52" n="52">Sent <hi rend="italics">Mercury</hi> to get another.</l><l rend="indent(1)" xml:id="swift-344-WILH-line-53" n="53"><lb/><hi rend="italics">Prometheus</hi> on a Rock is laid,</l><l rend="indent(1)" xml:id="swift-344-WILH-line-54" n="54"><lb/>Ty'd with the <hi rend="italics">Chain</hi> himself had made;</l><l rend="indent(1)" xml:id="swift-344-WILH-line-55" n="55"><lb/>On Icy <hi rend="italics">Caucasus</hi> to shiver,</l><l rend="indent(1)" xml:id="swift-344-WILH-line-56" n="56"><lb/>While <hi rend="italics">Vultures</hi> eat his growing Liver:</l><l rend="indent(1)" xml:id="swift-344-WILH-line-57" n="57"><lb/>Ye Pow'rs of <hi rend="italics">Grub-street</hi> make me able,</l><l xml:id="swift-344-WILH-line-58" n="58">Discreetly to apply this <hi rend="italics">Fable</hi>.</l><l xml:id="swift-344-WILH-line-59" n="59">Say, who is to be understood,</l><l xml:id="swift-344-WILH-line-60" n="60">By that old Thief <hi rend="italics">Prometheus</hi>? WOOD</l><l xml:id="swift-344-WILH-line-61" n="61">For <hi rend="italics">Jove</hi>, it is not hard to guess him,</l><l xml:id="swift-344-WILH-line-62" n="62">I mean <hi rend="italics">His M──, God bless him</hi>.</l><l xml:id="swift-344-WILH-line-63" n="63">This <hi rend="italics">Thief</hi> and <hi rend="italics">Black-Smith</hi> was so bold,</l><l xml:id="swift-344-WILH-line-64" n="64">He strove to steal that <hi rend="italics">Chain</hi> of <hi rend="italics">Gold</hi>,</l><l xml:id="swift-344-WILH-line-65" n="65">Which links the <hi rend="italics">Subject</hi> to the <hi rend="italics">King</hi>:</l><l xml:id="swift-344-WILH-line-66" n="66">And change it for a <hi rend="italics">Brazen String</hi>.</l><l xml:id="swift-344-WILH-line-67" n="67">But sure if nothing else must pass,</l><l xml:id="swift-344-WILH-line-68" n="68">Between the <hi rend="italics">K</hi>── and US but <hi rend="italics">Brass</hi>,</l><l xml:id="swift-344-WILH-line-69" n="69">Altho' the <hi rend="italics">Chain</hi> will never crack,</l><l xml:id="swift-344-WILH-line-70" n="70">Yet <hi rend="italics">Our Devotion</hi> may <hi rend="italics">Grow Slack</hi>.</l><l rend="indent(1)" xml:id="swift-344-WILH-line-71" n="71"><lb/>But <hi rend="italics">Jove</hi> will soon convert I hope,</l><l xml:id="swift-344-WILH-line-72" n="72">This <hi rend="italics">Brazen Chain</hi> into a <hi rend="italics">Rope</hi>;</l><l xml:id="swift-344-WILH-line-73" n="73">With which <hi rend="italics">Prometheus</hi> shall be ty'd,</l><l xml:id="swift-344-WILH-line-74" n="74">And high in Air for ever ride;</l><l xml:id="swift-344-WILH-line-75" n="75">Where, if we find his <hi rend="italics">Liver</hi> grows,</l><l xml:id="swift-344-WILH-line-76" n="76">For want of <hi rend="italics">Vultures</hi>, we have <hi rend="italics">Crows</hi>.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

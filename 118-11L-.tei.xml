@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO<lb/>  <hi rend="italics">Mrs</hi>. B<hi rend="small-caps">IDDY</hi> F<hi rend="small-caps">LOYD</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 18FE93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="118-11L-">
+          <head type="note" n="1" xml:id="spp-118-11L--headnote-1">
+            <lg n="1" xml:id="spp-118-11L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-118-11L--headnote-1-line-group-1-line-1"><hi rend="italics">Anno</hi>. 1708.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-118-11L--headnote-2">
+            <lg n="1" xml:id="spp-118-11L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-118-11L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-118-11L--headnote-3">
+            <lg n="1" xml:id="spp-118-11L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-118-11L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-118-11L--line-1" n="1"><hi rend="display-initial">W</hi>HEN <hi rend="italics">Cupid</hi> did his Grandsire <hi rend="italics">Jove</hi> intreat,</l>
+            <l xml:id="swift-118-11L--line-2" n="2">To form some Beauty by a new Receit,</l>
+            <l xml:id="swift-118-11L--line-3" n="3"><hi rend="italics">Jove</hi> sent and found far in a Country Scene,</l>
+            <l xml:id="swift-118-11L--line-4" n="4">Truth, Innocence, Good Nature, Look serene;</l>
+            <l xml:id="swift-118-11L--line-5" n="5">From which Ingredients, First the dext'rous Boy</l>
+            <l xml:id="swift-118-11L--line-6" n="6">Pickt the Demure, the Aukward, and the Coy;</l>
+            <l xml:id="swift-118-11L--line-7" n="7">The <hi rend="italics">Graces</hi> from the Court did next provide</l>
+            <l xml:id="swift-118-11L--line-8" n="8">Breeding, and Wit, and Air, and decent Pride;</l>
+            <l xml:id="swift-118-11L--line-9" n="9">These <hi rend="italics">Venus</hi> cleans'd from ev'ry spurious Grain</l>
+            <l xml:id="swift-118-11L--line-10" n="10">Of Nice, Coquet, Affected, Pert, and Vain.</l>
+            <l xml:id="swift-118-11L--line-11" n="11"><hi rend="italics">Jove</hi> mix'd up all, and his best Clay imploy'd;</l>
+            <l xml:id="swift-118-11L--line-12" n="12">Then call'd the happy Composition, <hi rend="italics">Floyd</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

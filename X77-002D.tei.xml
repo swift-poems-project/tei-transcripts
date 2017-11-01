@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Swan Tripe-Club:<lb/>  A Satyr on the High-Flyers in<lb/>  the Year 1705.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 13AP99, JWagerle 6AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X77-002D">
+          <head type="note" n="1" xml:id="spp-X77-002D-headnote-1">
+            <lg n="1" xml:id="spp-X77-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X77-002D-headnote-1-line-group-1-line-1">Ecce iterum Crispinus!---- Juv: Sat:4.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X77-002D-headnote-2">
+            <lg n="1" xml:id="spp-X77-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X77-002D-headnote-2-line-group-1-line-1">Imaginary Dangers they Create, <lb/> And Loath the Elixir that preserv'd the State. <lb/> Garth's Dispens:</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X77-002D-headnote-3">
+            <lg n="1" xml:id="spp-X77-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X77-002D-headnote-3-line-group-1-line-1">1710</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X77-002D-line-1" n="1">How this Fantastick World is chang'd of late!</l>
+            <l xml:id="swift-X77-002D-line-2" n="2">Sure some full Moon has Work'd upon the state:</l>
+            <l xml:id="swift-X77-002D-line-3" n="3">Time was when it was Question'd much in story,</l>
+            <l xml:id="swift-X77-002D-line-4" n="4">Which best deserv'd, The Devil or a Tory?</l>
+            <l xml:id="swift-X77-002D-line-5" n="5">But now alass! those happy times are O're, 3}</l>
+            <l xml:id="swift-X77-002D-line-6" n="6">The Rampant Things are Couchant now no more,</l>
+            <l xml:id="swift-X77-002D-line-7" n="7">But Trump up Torys, who were Whigs before.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-8" n="8">There was a time when fair Britannia Lay 3}</l>
+            <l xml:id="swift-X77-002D-line-9" n="9">Dissolv'd in Ease, and with a gentle sway</l>
+            <l xml:id="swift-X77-002D-line-10" n="10">Enjoy'd the Blessings of an Halcyon day!</l>
+            <l xml:id="swift-X77-002D-line-11" n="11">Pleas'd with the Bliss, their friendly Union made, 3}</l>
+            <l xml:id="swift-X77-002D-line-12" n="12">Beneath the bending Olive's peacefull shade,</l>
+            <l xml:id="swift-X77-002D-line-13" n="13">Careless and free her happy Sons were laid.</l>
+            <l xml:id="swift-X77-002D-line-14" n="14">No feuds, no groundless Jealousys appear</l>
+            <l xml:id="swift-X77-002D-line-15" n="15">To Rouze their Rage, or Wake them into Fear:</l>
+            <l xml:id="swift-X77-002D-line-16" n="16">With pity they beheld a Neighb'ring State,</l>
+            <l xml:id="swift-X77-002D-line-17" n="17">Tost by the Tempest of a Stormy Fate;</l>
+            <l xml:id="swift-X77-002D-line-18" n="18">Wild Frenzy thro' her blasted Borders past,</l>
+            <l xml:id="swift-X77-002D-line-19" n="19">Whilst Noisy Faction drove the furious Blast;</l>
+            <l xml:id="swift-X77-002D-line-20" n="20">Calm and serene We heard the Tempest Roar</l>
+            <l xml:id="swift-X77-002D-line-21" n="21">And fearless View'd the Danger from the Shore.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-22" n="22">Thus blest, We slumber'd in a downy Trance</l>
+            <l xml:id="swift-X77-002D-line-23" n="23">Happy like Eden in mild Ignorance;</l>
+            <l xml:id="swift-X77-002D-line-24" n="24">'Till Discord, like the Wiley Serpent, found</l>
+            <l xml:id="swift-X77-002D-line-25" n="25">Th' unguarded Path to the forbidden Ground.</l>
+            <l xml:id="swift-X77-002D-line-26" n="26">Shew'd us the Tree, y<hi rend="superscript">e</hi> tempting Tree which stood</l>
+            <l xml:id="swift-X77-002D-line-27" n="27">The fairest, but most fatal of the Wood;</l>
+            <l xml:id="swift-X77-002D-line-28" n="28">And Where (as hanging on the Golden Bough)</l>
+            <l xml:id="swift-X77-002D-line-29" n="29">The glittering Fruit Look'd smiling to the View.</l>
+            <l xml:id="swift-X77-002D-line-30" n="30">Taste, and be Wise, the sly Provoker said</l>
+            <l xml:id="swift-X77-002D-line-31" n="31">And see the Platform of Your Ruin laid:</l>
+            <l xml:id="swift-X77-002D-line-32" n="32">Rouze from the Dullness You too long have shown,</l>
+            <l xml:id="swift-X77-002D-line-33" n="33">And View your Church's Danger, and Y<hi rend="superscript">ṛ</hi> own.</l>
+            <l xml:id="swift-X77-002D-line-34" n="34">Thus at superior Wit we catch'd in hast</l>
+            <l xml:id="swift-X77-002D-line-35" n="35">Which mock'd th' Approach of Our deluded Tast.</l>
+            <l xml:id="swift-X77-002D-line-36" n="36">And, now───────</l>
+            <l xml:id="swift-X77-002D-line-37" n="37">Imaginary Schemes we seem to spy,</l>
+            <l xml:id="swift-X77-002D-line-38" n="38">And search for dangers with a curious Eye;</l>
+            <l xml:id="swift-X77-002D-line-39" n="39">From Thought to thought we roul, and rack our sense,</l>
+            <l xml:id="swift-X77-002D-line-40" n="40">To Obviate Mischiefs in the Future Tense:</l>
+            <l xml:id="swift-X77-002D-line-41" n="41">Strange Plots in Embryo, from the Lords We fear,</l>
+            <l xml:id="swift-X77-002D-line-42" n="42">And dream of mighty Ills, the Lord knows Where;</l>
+            <l xml:id="swift-X77-002D-line-43" n="43">Wretchedly Wise, We curse our present store,</l>
+            <l xml:id="swift-X77-002D-line-44" n="44">And bless the Wittles Age We knew before.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-45" n="45">Near that Fam'd <note place="foot">·Lucas's Coffee house.</note> Place, where slender Wights resort,</l>
+            <l xml:id="swift-X77-002D-line-46" n="46">And gay Pulvilio keeps his scented Court;</l>
+            <l xml:id="swift-X77-002D-line-47" n="47">Where Exil'd Witt ne'er shews its hated Face,</l>
+            <l xml:id="swift-X77-002D-line-48" n="48">But happyer Nonsence fills the Thoughtless Place;</l>
+            <l xml:id="swift-X77-002D-line-49" n="49">Where sucking Beaux, our future hopes are bred 3}</l>
+            <l xml:id="swift-X77-002D-line-50" n="50">The sharping Gamester, and the Bully Red,</l>
+            <l xml:id="swift-X77-002D-line-51" n="51">O'er-stock'd with Fame, but indigent of Bread:</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-52" n="52">There stands a <note place="foot">·Swan Tavern.</note> modern Dome, of Vast Renown,</l>
+            <l xml:id="swift-X77-002D-line-53" n="53">For a Plump Cook and plumper Reck'nings known:</l>
+            <l xml:id="swift-X77-002D-line-54" n="54">Rais'd high, the Fair Jnviting Bird You see</l>
+            <l xml:id="swift-X77-002D-line-55" n="55">In all his milky Plumes, and feather'd Letchery:</l>
+            <l xml:id="swift-X77-002D-line-56" n="56">In whose soft down Immortall Jove was drest,</l>
+            <l xml:id="swift-X77-002D-line-57" n="57">When the fair Nymph the Wilely God possest:</l>
+            <l xml:id="swift-X77-002D-line-58" n="58">Still in which shape He stands to Mortal View,</l>
+            <l xml:id="swift-X77-002D-line-59" n="59">Patron of Whoreing and of Topeing too.</l>
+            <l xml:id="swift-X77-002D-line-60" n="60">Here gravely meet the Worthy sons of Zeal</l>
+            <l xml:id="swift-X77-002D-line-61" n="61">To Wett their pious Clay, and decently to Rail.</l>
+            <l xml:id="swift-X77-002D-line-62" n="62">Immortal Courage from the Claret springs,</l>
+            <l xml:id="swift-X77-002D-line-63" n="63">To Censure Heroes, and the Acts of Kings:</l>
+            <l xml:id="swift-X77-002D-line-64" n="64">Young Doctors of the Gown here shrewdly show</l>
+            <l xml:id="swift-X77-002D-line-65" n="65">How Grace Divine can Ebb, and spleen can flow;</l>
+            <l xml:id="swift-X77-002D-line-66" n="66">The Pious Red-Coat most devoutly swears,</l>
+            <l xml:id="swift-X77-002D-line-67" n="67">Drinks to the Church, but Ticks on his Arrears;</l>
+            <l xml:id="swift-X77-002D-line-68" n="68">The gentle Beau too Ioins in Wise Debate,</l>
+            <l xml:id="swift-X77-002D-line-69" n="69">Adjusts his Cravat, and Reforms the State.</l>
+            <l xml:id="swift-X77-002D-line-70" n="70">As when the sun, on a Returning Flood,</l>
+            <l xml:id="swift-X77-002D-line-71" n="71">Warms into Life the Animated Mud;</l>
+            <l xml:id="swift-X77-002D-line-72" n="72">Strange Wondrous Insects on the Shoar remain,</l>
+            <l xml:id="swift-X77-002D-line-73" n="73">And a new Race of Vermin fills the Plain:</l>
+            <l xml:id="swift-X77-002D-line-74" n="74">So from the Excrement of Zeal we find,</l>
+            <l xml:id="swift-X77-002D-line-75" n="75">A slimy Race, but of the Modish kind;</l>
+            <l xml:id="swift-X77-002D-line-76" n="76">Crawl from the filth, and kindl'd into Man,</l>
+            <l xml:id="swift-X77-002D-line-77" n="77">Make up the Members of the Sage Divan.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-78" n="78">Of these the Fam'd <note place="foot">·Doc<hi rend="superscript">tr</hi>. Higgins.</note> Borachio is the Chief,</l>
+            <l xml:id="swift-X77-002D-line-79" n="79">A Son of Pudding and Eternal Beef;</l>
+            <l xml:id="swift-X77-002D-line-80" n="80">The Iovial God, with all inspireing Grace,</l>
+            <l xml:id="swift-X77-002D-line-81" n="81">Sitts on the Scarlet Honours of his Face;</l>
+            <l xml:id="swift-X77-002D-line-82" n="82">His happy Face, from rigid Wisdom free 3}</l>
+            <l xml:id="swift-X77-002D-line-83" n="83">Securely smiles in Thoughtless Majesty,</l>
+            <l xml:id="swift-X77-002D-line-84" n="84">His own Tith-Geese not half so plump as He.</l>
+            <l xml:id="swift-X77-002D-line-85" n="85">Wild notions flow from his immoderate Head,</l>
+            <l xml:id="swift-X77-002D-line-86" n="86">And Statues quoted,── moderately read;</l>
+            <l xml:id="swift-X77-002D-line-87" n="87">Whole floods of Words his moderate Witt reveal,</l>
+            <l xml:id="swift-X77-002D-line-88" n="88">Yet the Good Man's immoderate in his Zeal.</l>
+            <l xml:id="swift-X77-002D-line-89" n="89">How can his fluent Tongue, and Thought keep touch,</l>
+            <l xml:id="swift-X77-002D-line-90" n="90">Who Thinks too Little, but who Talks too much?</l>
+            <l xml:id="swift-X77-002D-line-91" n="91">When Peacefull Tarrs With Gallick Navies meet,</l>
+            <l xml:id="swift-X77-002D-line-92" n="92">And Loose their Honour to preserve the Fleet;</l>
+            <l xml:id="swift-X77-002D-line-93" n="93">This wondrous Man alone shall Conquest Boast,</l>
+            <l xml:id="swift-X77-002D-line-94" n="94">And Win the Battles which the Heroes Lost.</l>
+            <l xml:id="swift-X77-002D-line-95" n="95">When just Esteem he would of William raise,</l>
+            <l xml:id="swift-X77-002D-line-96" n="96">He damns the Glories, which he means to Praise;</l>
+            <l xml:id="swift-X77-002D-line-97" n="97">The poor Encomium is so thinly spread,</l>
+            <l xml:id="swift-X77-002D-line-98" n="98">It shames the injur'd Ashes of the Dead;</l>
+            <l xml:id="swift-X77-002D-line-99" n="99">Tho for the Orator, 'tis said withall,</l>
+            <l xml:id="swift-X77-002D-line-100" n="100">He meant to Praise Him if he Meant at all.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-101" n="101">Egregious <note place="foot">·Arch-Deacon Percival.</note> Magpye charms the Listning Throng,</l>
+            <l xml:id="swift-X77-002D-line-102" n="102">Whilst inoffensive Satyr tips his Tongue.</l>
+            <l xml:id="swift-X77-002D-line-103" n="103">Grey Politicks adorn the Beardless Chit,</l>
+            <l xml:id="swift-X77-002D-line-104" n="104">Of Foreign Manners, but of Native Witt:</l>
+            <l xml:id="swift-X77-002D-line-105" n="105">Scarce Wain'd from Diddy of his Alma Mater,</l>
+            <l xml:id="swift-X77-002D-line-106" n="106">The Cocking Thing steps forth the Churches Erra Pater.</l>
+            <l xml:id="swift-X77-002D-line-107" n="107">High-flying Thoughts his Low-built Size supply,</l>
+            <l xml:id="swift-X77-002D-line-108" n="108">And Hoist the Towring Puppet to the sky;</l>
+            <l xml:id="swift-X77-002D-line-109" n="109">On Brazen Wings, Beat out from Native stock</l>
+            <l xml:id="swift-X77-002D-line-110" n="110">He Mounts, and rides upon the Weather-Cock;</l>
+            <l xml:id="swift-X77-002D-line-111" n="111">From Whence the stupid British Jsle he views,</l>
+            <l xml:id="swift-X77-002D-line-112" n="112">The stupid British Jsle he sees, and spews;</l>
+            <l xml:id="swift-X77-002D-line-113" n="113">Laments the Talent of his Wisdom Lost</l>
+            <l xml:id="swift-X77-002D-line-114" n="114">Upon an Isle, and a rough Northern Coast.</l>
+            <l xml:id="swift-X77-002D-line-115" n="115">Thus Daws, when Perch't upon a steeple's top,</l>
+            <l xml:id="swift-X77-002D-line-116" n="116">With Paris-strut, and Pride superiour hop;</l>
+            <l xml:id="swift-X77-002D-line-117" n="117">And whilst on Earth, They haughty Glances throw,</l>
+            <l xml:id="swift-X77-002D-line-118" n="118">Take humble Curats but for Daws below.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-119" n="119"><note place="foot">.</note>Firedrake, a Senator of Awkard Grace</l>
+            <l xml:id="swift-X77-002D-line-120" n="120">But fam'd for Matchless Modesty and Face;</l>
+            <l xml:id="swift-X77-002D-line-121" n="121">With Christian Clamour fills the deafned Room,</l>
+            <l xml:id="swift-X77-002D-line-122" n="122">And Prophecys of Wondrous Ills to Come.</l>
+            <l xml:id="swift-X77-002D-line-123" n="123">Heav'n in a hurry seems to've form'd his Paste, 3}</l>
+            <l xml:id="swift-X77-002D-line-124" n="124">Fill'd up his spleen, but left his Head-piece waste,</l>
+            <l xml:id="swift-X77-002D-line-125" n="125">He thinks, he Argues, nay he Prays in haste.</l>
+            <l xml:id="swift-X77-002D-line-126" n="126">When in soil'd sheets the Dirty Wight is spread,</l>
+            <l xml:id="swift-X77-002D-line-127" n="127">And high-flown Schemes for Curtains grace y<hi rend="superscript">e</hi> Bed;</l>
+            <l xml:id="swift-X77-002D-line-128" n="128">Wild freakish Fancy, with her Airy Train,</l>
+            <l xml:id="swift-X77-002D-line-129" n="129">Whirls thro' the Empty Region of his Brain:</l>
+            <l xml:id="swift-X77-002D-line-130" n="130">Shews him the Church, just tott'ring on his head,</l>
+            <l xml:id="swift-X77-002D-line-131" n="131">And all her mangl'd sons around her spread;</l>
+            <l xml:id="swift-X77-002D-line-132" n="132">Paints out himself, of all his hopes Beguil'd,</l>
+            <l xml:id="swift-X77-002D-line-133" n="133">And his Domestick Sicorax defil'd:</l>
+            <l xml:id="swift-X77-002D-line-134" n="134">Then kindling att the sight, he flys about</l>
+            <l xml:id="swift-X77-002D-line-135" n="135">And putts dissenting Squadrons to the Rout;</l>
+            <l xml:id="swift-X77-002D-line-136" n="136">Brim full of Wrath, he plunges into strife</l>
+            <l xml:id="swift-X77-002D-line-137" n="137">And thumps the Passive Carcase of his Wife;</l>
+            <l xml:id="swift-X77-002D-line-138" n="138">He Routs the Flying Foe, He scours the Plain,</l>
+            <l xml:id="swift-X77-002D-line-139" n="139">And boldly fights the Visionary scene.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-140" n="140">Th' Appollo of the Cause Old <note place="foot">.</note> Grimbeard stands,</l>
+            <l xml:id="swift-X77-002D-line-141" n="141">And all th'Inferiour Fry of Wit Commands;</l>
+            <l xml:id="swift-X77-002D-line-142" n="142">Nurst up in Faction, and a Foe to Peace,</l>
+            <l xml:id="swift-X77-002D-line-143" n="143">He robs his Bones of Necessary ease;</l>
+            <l xml:id="swift-X77-002D-line-144" n="144">Drunk with inveterate spleen, he scorns his Age,</l>
+            <l xml:id="swift-X77-002D-line-145" n="145">And Nature's Lowest Ebb supplys w<hi rend="superscript">tḥ</hi> sprightly Rage.</l>
+            <l xml:id="swift-X77-002D-line-146" n="146">Cold driveling Time has all his Nerves unstrung,</l>
+            <l xml:id="swift-X77-002D-line-147" n="147">But left untouch'd his Letchery of Tongue;</l>
+            <l xml:id="swift-X77-002D-line-148" n="148">His Letchery of Tongue, which still remains,</l>
+            <l xml:id="swift-X77-002D-line-149" n="149">And adds a friendly Aid to Want of Brains:</l>
+            <l xml:id="swift-X77-002D-line-150" n="150">He blames the dullness of his Party's sloth,</l>
+            <l xml:id="swift-X77-002D-line-151" n="151">And Chides the fears of their unactive Youth;</l>
+            <l xml:id="swift-X77-002D-line-152" n="152">Tells them the Time, the happy Time is come,</l>
+            <l xml:id="swift-X77-002D-line-153" n="153">When Moderation shall Behold its Doom;</l>
+            <l xml:id="swift-X77-002D-line-154" n="154">When sniveling Mercy shall no more beguile,</l>
+            <l xml:id="swift-X77-002D-line-155" n="155">But Christian Force, and Pious Rage shall smile;</l>
+            <l xml:id="swift-X77-002D-line-156" n="156">Warns them against those dangers to provide, 3}</l>
+            <l xml:id="swift-X77-002D-line-157" n="157">Those Dangers which his spectacles have spy'd,</l>
+            <l xml:id="swift-X77-002D-line-158" n="158">Dark and unknown to all the World beside.</l>
+            <l xml:id="swift-X77-002D-line-159" n="159">Hail, Venerable Man! design'd by Fate</l>
+            <l xml:id="swift-X77-002D-line-160" n="160">The saving Genius of a sinking State!</l>
+            <l xml:id="swift-X77-002D-line-161" n="161">Lo, Prostrate att thy Feet We trembling fall</l>
+            <l xml:id="swift-X77-002D-line-162" n="162">Thou great Twin-Idol of the Thund'ring Baal!</l>
+            <l xml:id="swift-X77-002D-line-163" n="163">How shall thy Votarys thy Wrath asswage,</l>
+            <l xml:id="swift-X77-002D-line-164" n="164">Unbend thy Frowns, and deprecate thy Rage?</l>
+            <l xml:id="swift-X77-002D-line-165" n="165">Millions of Victims shall thy Altars soil,</l>
+            <l xml:id="swift-X77-002D-line-166" n="166">Heroes shall Bleed, and Treasurers shall Broil:</l>
+            <l xml:id="swift-X77-002D-line-167" n="167">Thy Divine Worth shall in our Lays be sung</l>
+            <l xml:id="swift-X77-002D-line-168" n="168">O Bend thy stubborn Rage, and sheath thy dreadful Tongue.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-169" n="169"><note place="foot">·M<hi rend="superscript">r</hi> Nuttley.</note> Nut-brain, a Daggle Gown of Large Renown,</l>
+            <l xml:id="swift-X77-002D-line-170" n="170">For weak support to needy Client known;</l>
+            <l xml:id="swift-X77-002D-line-171" n="171">With painted dangers keeps his Mob in Awe,</l>
+            <l xml:id="swift-X77-002D-line-172" n="172">And shrewdly construes Faction into Law.</l>
+            <l xml:id="swift-X77-002D-line-173" n="173">When Popish Councill wav'd its fatall Wand,</l>
+            <l xml:id="swift-X77-002D-line-174" n="174">And with Hibernian Locusts curst the Land;</l>
+            <l xml:id="swift-X77-002D-line-175" n="175">Our fruitfull Egypt, with the Load Opprest,</l>
+            <l xml:id="swift-X77-002D-line-176" n="176">Beheld, with Grief, its happy fields laid waste:</l>
+            <l xml:id="swift-X77-002D-line-177" n="177">With Watry Eyes, and with a Mother's Pain,</l>
+            <l xml:id="swift-X77-002D-line-178" n="178">She heard her People groan, but heard in Vain,</l>
+            <l xml:id="swift-X77-002D-line-179" n="179">Till that bles't Change──── And then they took y<hi rend="superscript">e</hi> Wind,</l>
+            <l xml:id="swift-X77-002D-line-180" n="180">But left this stragling Vermin here behind:</l>
+            <l xml:id="swift-X77-002D-line-181" n="181">Too well he lik'd our fruitfull Egypt's Plain,</l>
+            <l xml:id="swift-X77-002D-line-182" n="182">To hungry Dublin to Return again.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-183" n="183">Say, Blind Britannia, for what Charms unknown</l>
+            <l xml:id="swift-X77-002D-line-184" n="184">Y' adopt a Man, whom You should Blush to Own:</l>
+            <l xml:id="swift-X77-002D-line-185" n="185">Beggar'd, and spoild of all Your Wealthy store,</l>
+            <l xml:id="swift-X77-002D-line-186" n="186">Yet hug the Viper, whom Yee Curst before.</l>
+            <l xml:id="swift-X77-002D-line-187" n="187">Is this the pious Champion of Your Cause</l>
+            <l xml:id="swift-X77-002D-line-188" n="188">Who Robs Your Off-spring to Protect y<hi rend="superscript">ṛ</hi> Laws?</l>
+            <l xml:id="swift-X77-002D-line-189" n="189">Slily distills his Venom to the Root,</l>
+            <l xml:id="swift-X77-002D-line-190" n="190">And Blasts the Tree from Whence he plucks y<hi rend="superscript">e</hi> fruit;</l>
+            <l xml:id="swift-X77-002D-line-191" n="191">Who sees Your Ruin, which he smiles to see,</l>
+            <l xml:id="swift-X77-002D-line-192" n="192">Whose Gain's his Heaven, and only God's a Fee?</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-193" n="193">In the first Rank fam'd <note place="foot">·Doc<hi rend="superscript">tr</hi>.  <hi rend="italics">Worth</hi></note> Sooterkin is seen 3}</l>
+            <l xml:id="swift-X77-002D-line-194" n="194">Of happy Visage, and Enchanting Mien,</l>
+            <l xml:id="swift-X77-002D-line-195" n="195">A Lazy Modish son of Melancholly spleen:</l>
+            <l xml:id="swift-X77-002D-line-196" n="196">Whose ev'ry feature flourishes in Print,</l>
+            <l xml:id="swift-X77-002D-line-197" n="197">And early Pride first Taught the Youth to squint.</l>
+            <l xml:id="swift-X77-002D-line-198" n="198">What niggard Father wou'd begrudge his Brass, 3}</l>
+            <l xml:id="swift-X77-002D-line-199" n="199">When travell'd son does home-bred Boy surpass?</l>
+            <l xml:id="swift-X77-002D-line-200" n="200">Went out a fopling and return'd an Ass.</l>
+            <l xml:id="swift-X77-002D-line-201" n="201">Of thought so dark, that no Erroneous Hit</l>
+            <l xml:id="swift-X77-002D-line-202" n="202">E'er shew'd the Lucid Beautys of his Wit.</l>
+            <l xml:id="swift-X77-002D-line-203" n="203">When scanty fee Expects a healing Pill, 3}</l>
+            <l xml:id="swift-X77-002D-line-204" n="204">With Careless Yawn he nods upon the Bill</l>
+            <l xml:id="swift-X77-002D-line-205" n="205">Secure to hit;──── who never fails to kill.</l>
+            <l xml:id="swift-X77-002D-line-206" n="206">When Costive Punk in Penitential Case, 3}</l>
+            <l xml:id="swift-X77-002D-line-207" n="207">Sits squeezing out her soul in Vile Grimace,</l>
+            <l xml:id="swift-X77-002D-line-208" n="208">To ease his Patient he prescribes──── his face.</l>
+            <l xml:id="swift-X77-002D-line-209" n="209">Well may the Wretch a Providence disown,</l>
+            <l xml:id="swift-X77-002D-line-210" n="210">Who thinks no Wisdom brighter than his own;</l>
+            <l xml:id="swift-X77-002D-line-211" n="211">Long since he left Religion in the lurch, 3}</l>
+            <l xml:id="swift-X77-002D-line-212" n="212">Who Yet wou'd raise the Glorys of the Church,</l>
+            <l xml:id="swift-X77-002D-line-213" n="213">And stickles for its Rites, who ne'er comes near y<hi rend="superscript">e</hi> Porch.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-214" n="214">Immortal Crab stands firmly to the Truth,</l>
+            <l xml:id="swift-X77-002D-line-215" n="215">And with sage Nod Commands the List'ning Youth;</l>
+            <l xml:id="swift-X77-002D-line-216" n="216">In Whom rank spleen has all his Vigour shown,</l>
+            <l xml:id="swift-X77-002D-line-217" n="217">And blended all its Curses into One;</l>
+            <l xml:id="swift-X77-002D-line-218" n="218">O'erflowing Gall has Chang'd the Crimson Blood</l>
+            <l xml:id="swift-X77-002D-line-219" n="219">And turn'd to Vinegar the Wretche's Blood.</l>
+            <l xml:id="swift-X77-002D-line-220" n="220">Nightly on bended knees, the Musty Putt,</l>
+            <l xml:id="swift-X77-002D-line-221" n="221">Still saints the spigot, and adores the Butt;</l>
+            <l xml:id="swift-X77-002D-line-222" n="222">With fervent Zeal the flowing Liquor plys,</l>
+            <l xml:id="swift-X77-002D-line-223" n="223">But Damns the moderate Bottle for its size</l>
+            <l xml:id="swift-X77-002D-line-224" n="224">His Liquid Vows cut swiftly thro' the Air</l>
+            <l xml:id="swift-X77-002D-line-225" n="225">When Glorious Red has Whetted him to prayer;</l>
+            <l xml:id="swift-X77-002D-line-226" n="226">Thrifty of Time, and frugall of his Ways,</l>
+            <l xml:id="swift-X77-002D-line-227" n="227">Fopling he Rails, and as he rails he Prays.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-228" n="228">In the sage List, Great <note place="foot">·Arch: Deacon <hi rend="italics">Neile</hi>.</note> Moon-Calf is enroll'd,</l>
+            <l xml:id="swift-X77-002D-line-229" n="229">Fam'd as the Delphick Oracle of Old.</l>
+            <l xml:id="swift-X77-002D-line-230" n="230">Propitious dullness, and a senseless Joy,</l>
+            <l xml:id="swift-X77-002D-line-231" n="231">Shone att his Birth, and Blest the hopefull Boy;</l>
+            <l xml:id="swift-X77-002D-line-232" n="232">Who utters Wonders without sense of Pain,</l>
+            <l xml:id="swift-X77-002D-line-233" n="233">And scorns the Crabbed Labour of the Brain.</l>
+            <l xml:id="swift-X77-002D-line-234" n="234">Fleeting as Air his Words out-strip the Wind,</l>
+            <l xml:id="swift-X77-002D-line-235" n="235">Whilst the sage tardy Meaning laggs behind</l>
+            <l xml:id="swift-X77-002D-line-236" n="236">No sawcy foresight dares his Will Controul,</l>
+            <l xml:id="swift-X77-002D-line-237" n="237">Or stop the impetuous Motion of his soul;</l>
+            <l xml:id="swift-X77-002D-line-238" n="238">His soul, which struggles in her dark Abode,</l>
+            <l xml:id="swift-X77-002D-line-239" n="239">Crush'd, and o'erlay'd with the unweildy Load.</l>
+            <l xml:id="swift-X77-002D-line-240" n="240">Prevailing dullness did his sense betray,</l>
+            <l xml:id="swift-X77-002D-line-241" n="241">And crampt his Reason to Extend his Clay;</l>
+            <l xml:id="swift-X77-002D-line-242" n="242">His Wit Contracted to a Narrow span,</l>
+            <l xml:id="swift-X77-002D-line-243" n="243">A Yard of Ideot, to an Inch of  Man.</l>
+            <l xml:id="swift-X77-002D-line-244" n="244">Hail, Mighty Dunce, thou largest of thy kind,</l>
+            <l xml:id="swift-X77-002D-line-245" n="245">How well thy Mein is suited to thy Mind!</l>
+            <l xml:id="swift-X77-002D-line-246" n="246">What if the Lords and Commons can't agree,</l>
+            <l xml:id="swift-X77-002D-line-247" n="247">Thou dear, dull, happy Thing, what is't to Thee?</l>
+            <l xml:id="swift-X77-002D-line-248" n="248">Sitt down contented with thy present store</l>
+            <l xml:id="swift-X77-002D-line-249" n="249">Heav'n ne'er design'd thee to be wise and poor;</l>
+            <l xml:id="swift-X77-002D-line-250" n="250">Trust to thy fate, whatever Partys Joyn,</l>
+            <l xml:id="swift-X77-002D-line-251" n="251">Thy Want of sense obstructs thy want of Coin.</l>
+            <l xml:id="swift-X77-002D-line-252" n="252">As when Imperial Rome beheld her state</l>
+            <l xml:id="swift-X77-002D-line-253" n="253">Grown faint, and strugling with impending Fate;</l>
+            <l xml:id="swift-X77-002D-line-254" n="254">When Barbarous Nations on her Ruins Trod,</l>
+            <l xml:id="swift-X77-002D-line-255" n="255">And no kind Jove appear'd her Guardian God;</l>
+            <l xml:id="swift-X77-002D-line-256" n="256">A sacred Goose could all her fears disperse,</l>
+            <l xml:id="swift-X77-002D-line-257" n="257">And save the Mistress of the Universe:</l>
+            <l xml:id="swift-X77-002D-line-258" n="258">Of equall Fame the Great Example be,</l>
+            <l xml:id="swift-X77-002D-line-259" n="259">Our Church's safety We expect from thee;</l>
+            <l xml:id="swift-X77-002D-line-260" n="260">In Thee, Great Man, the saving Brood Remains,</l>
+            <l xml:id="swift-X77-002D-line-261" n="261">Of equal Piety and Equal Brains;</l>
+            <l xml:id="swift-X77-002D-line-262" n="262">In this We differ but in point of Name</l>
+            <l xml:id="swift-X77-002D-line-263" n="263">Unlike the Romans We, but Thou, our Goose, the same.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-264" n="264">And now with solemn Grace the Council sat,</l>
+            <l xml:id="swift-X77-002D-line-265" n="265">And the Third Flasque had rais'd a Warm Debate;</l>
+            <l xml:id="swift-X77-002D-line-266" n="266">When Faction Entri'ng Walk'd the Giddy-Maze,</l>
+            <l xml:id="swift-X77-002D-line-267" n="267">Sworn Foe, and Noted Enemy to Peace;</l>
+            <l xml:id="swift-X77-002D-line-268" n="268">And Takeing Grimbeard's shape, she silence broke,</l>
+            <l xml:id="swift-X77-002D-line-269" n="269">And in shrill Voice the Eager Fury spoke.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-270" n="270">“Be Wittness, Heaven! how much I'm pleas'd to find</l>
+            <l xml:id="swift-X77-002D-line-271" n="271">“Such Gallant friends, and of so brave a Mind;</l>
+            <l xml:id="swift-X77-002D-line-272" n="272">“Soul's fitt to Rule the World, and proudly sit</l>
+            <l xml:id="swift-X77-002D-line-273" n="273">“The Noblest Sons of Piety and Wit.</l>
+            <l xml:id="swift-X77-002D-line-274" n="274">“Uncommon Vigour in Your Looks I spy,</l>
+            <l xml:id="swift-X77-002D-line-275" n="275">“Resolv'd the uttmost of Your Force to try;</l>
+            <l xml:id="swift-X77-002D-line-276" n="276">“Bravely to stickle for Your Church's Laws,</l>
+            <l xml:id="swift-X77-002D-line-277" n="277">“And shed a gen'rous Influence on her Cause.</l>
+            <l xml:id="swift-X77-002D-line-278" n="278">“See how with Grief she hangs her pensive head, 3}</l>
+            <l xml:id="swift-X77-002D-line-279" n="279">“Whilst Trickling Tears upon her Garments shed,</l>
+            <l xml:id="swift-X77-002D-line-280" n="280">“Mourn all her Lustre and her Beauty fled.</l>
+            <l xml:id="swift-X77-002D-line-281" n="281">“In Hair disshevel'd, and with Bosome bare</l>
+            <l xml:id="swift-X77-002D-line-282" n="282">“With Melancholly sounds she fills the Air.</l>
+            <l xml:id="swift-X77-002D-line-283" n="283">“Wou'd You, my Friends, the weighty Business know,</l>
+            <l xml:id="swift-X77-002D-line-284" n="284">“And Learn the Cruell Reason of her Woe?</l>
+            <l xml:id="swift-X77-002D-line-285" n="285">“The Cause she has to Grieve, the World believes</l>
+            <l xml:id="swift-X77-002D-line-286" n="286">“Is this── Hem── Hem── Why? 'tis enough she Grieves:</l>
+            <l xml:id="swift-X77-002D-line-287" n="287">“What sons from Tears their Flinty souls can keep,</l>
+            <l xml:id="swift-X77-002D-line-288" n="288">“And with drye Eys behold their Mother weep?</l>
+            <l xml:id="swift-X77-002D-line-289" n="289">“Ah! stop the Deluge of her Watry store,</l>
+            <l xml:id="swift-X77-002D-line-290" n="290">“And lett her taste those Joys she felt before.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-291" n="291">“When William (Curse upon that hated Name!</l>
+            <l xml:id="swift-X77-002D-line-292" n="292">“For ever Blotted and unknown to Fame)</l>
+            <l xml:id="swift-X77-002D-line-293" n="293">“When William in Imperial Glory shone</l>
+            <l xml:id="swift-X77-002D-line-294" n="294">“And to our Grief possest Britannia's Throne,</l>
+            <l xml:id="swift-X77-002D-line-295" n="295">“Mark with what Malice He our Church debas'd,</l>
+            <l xml:id="swift-X77-002D-line-296" n="296">“Her Songs Neglected, and her Rites defac'd:</l>
+            <l xml:id="swift-X77-002D-line-297" n="297">“To Canting Zeal design'd her Form a slave,</l>
+            <l xml:id="swift-X77-002D-line-298" n="298">“And meant to Ruin, what He came to save.</l>
+            <l xml:id="swift-X77-002D-line-299" n="299">“What tho the World be fill'd with his Alarms,</l>
+            <l xml:id="swift-X77-002D-line-300" n="300">“And fainting Gallia trembl'd at his Arms;</l>
+            <l xml:id="swift-X77-002D-line-301" n="301">“Yet still the doughty Heroe did no more</l>
+            <l xml:id="swift-X77-002D-line-302" n="302">“Than Julius once, and Ammon did before.</l>
+            <l xml:id="swift-X77-002D-line-303" n="303">“Is this the Idol of the People's Love,</l>
+            <l xml:id="swift-X77-002D-line-304" n="304">“The poor Mock-Puppet of a Ruling Jove?</l>
+            <l xml:id="swift-X77-002D-line-305" n="305">“Sorrel! We Owe his hasty fate to Thee, 3}</l>
+            <l xml:id="swift-X77-002D-line-306" n="306">“Thou Lucky Horse; Oh may thy Mem'ry be</l>
+            <l xml:id="swift-X77-002D-line-307" n="307">“Fragrant to all, as it is sweet to Me!</l>
+            <l xml:id="swift-X77-002D-line-308" n="308">“Too far, I fear, the Vile Infection's spread, 3}</l>
+            <l xml:id="swift-X77-002D-line-309" n="309">“Since Anna courts the Party which He Led,</l>
+            <l xml:id="swift-X77-002D-line-310" n="310">“And Treads the hated footsteps of the Dead.</l>
+            <l xml:id="swift-X77-002D-line-311" n="311">“If so, what now can We Expect to hear,</l>
+            <l xml:id="swift-X77-002D-line-312" n="312">“But Black Effects, of those damn'd Ills We fear?</l>
+            <l xml:id="swift-X77-002D-line-313" n="313">“Your fat Endowments shall be torn away,</l>
+            <l xml:id="swift-X77-002D-line-314" n="314">“And to Geneva Zeal become an Easy Prey!</l>
+            <l xml:id="swift-X77-002D-line-315" n="315">“Cold Element shall give Your Guts the Grip's</l>
+            <l xml:id="swift-X77-002D-line-316" n="316">“And, ah! no more You shall Indulge in Tripes!</l>
+            <l xml:id="swift-X77-002D-line-317" n="317">“No Sunday Pudding shall adorn the Board,</l>
+            <l xml:id="swift-X77-002D-line-318" n="318">“Or Burn the Chops of its too eager Lord!</l>
+            <l xml:id="swift-X77-002D-line-319" n="319">“No gentle Abigail shall Caudles make</l>
+            <l xml:id="swift-X77-002D-line-320" n="320">“Nor Cook the Jellys for the Chaplain's Back!</l>
+            <l xml:id="swift-X77-002D-line-321" n="321">“Long-Winded schismaticks shall Rule the Roast,</l>
+            <l xml:id="swift-X77-002D-line-322" n="322">“And Father Christmas mourn his Revells Lost!</l>
+            <l xml:id="swift-X77-002D-line-323" n="323">“Rouze then My friends, and all Your Forces joyn,</l>
+            <l xml:id="swift-X77-002D-line-324" n="324">“And Act with Vigour in Our great Design;</l>
+            <l xml:id="swift-X77-002D-line-325" n="325">“What! tho' our Danger is not truly great,</l>
+            <l xml:id="swift-X77-002D-line-326" n="326">“Tis brave t' oppose a Government We hate:</l>
+            <l xml:id="swift-X77-002D-line-327" n="327">“Poison the Nation with Your jealous Fears,</l>
+            <l xml:id="swift-X77-002D-line-328" n="328">“And sett the Fools together by the Ears:</l>
+            <l xml:id="swift-X77-002D-line-329" n="329">“Whilst with Malicious Ioy We calmly sit,</l>
+            <l xml:id="swift-X77-002D-line-330" n="330">“And smile to see the Triumphs of Our Wit.</l>
+            <l xml:id="swift-X77-002D-line-331" n="331">“Sound th' Universitys with Nicest Skill,</l>
+            <l xml:id="swift-X77-002D-line-332" n="332">“Inflame the Beardless Boys, &amp; bend them to y<hi rend="superscript">r</hi> Will.</l>
+            <l xml:id="swift-X77-002D-line-333" n="333">“What tho' unmov'd their learned sons have stood,</l>
+            <l xml:id="swift-X77-002D-line-334" n="334">“Nor sacrific'd to spleen their Country's Good:</l>
+            <l xml:id="swift-X77-002D-line-335" n="335">“Yet search throughly, and there will be found</l>
+            <l xml:id="swift-X77-002D-line-336" n="336">“Some Branches tainted, tho' the Trunks are sound.</l>
+            <l xml:id="swift-X77-002D-line-337" n="337">“Shew but the Lure, which never fails to hitt;</l>
+            <l xml:id="swift-X77-002D-line-338" n="338">“Approve their Briskness, and Admire their Wit:</l>
+            <l xml:id="swift-X77-002D-line-339" n="339">“Youth against Flattery has no Defence,</l>
+            <l xml:id="swift-X77-002D-line-340" n="340">“Fools still are cheated with the Bait of Sense.</l>
+            <l xml:id="swift-X77-002D-line-341" n="341">“Glean e'en the schools from Letchery and Birch,</l>
+            <l xml:id="swift-X77-002D-line-342" n="342">“And Teach the Youngsters to defend the Church.</l>
+            <l xml:id="swift-X77-002D-line-343" n="343">“Tis Fools We want, and of the Largest size,</l>
+            <l xml:id="swift-X77-002D-line-344" n="344">“'Twou'd spoil our Cause to pratise on y<hi rend="superscript">e</hi> Wise</l>
+            <l xml:id="swift-X77-002D-line-345" n="345">“The Wise are Eagles of the sharpest ken,</l>
+            <l xml:id="swift-X77-002D-line-346" n="346">“And calmly Weigh the Merits and the Men;</l>
+            <l xml:id="swift-X77-002D-line-347" n="347">“Pierce thro' the Cobweb Veil of Erring sense,</l>
+            <l xml:id="swift-X77-002D-line-348" n="348">“And know the Truth of Zeal from the Pretence:</l>
+            <l xml:id="swift-X77-002D-line-349" n="349">“Whilst Fools, like Game-Cooks, are y<hi rend="superscript">e</hi> slaves of show,</l>
+            <l xml:id="swift-X77-002D-line-350" n="350">“And never ask a Cause, but fly upon y<hi rend="superscript">e</hi> Foe.</l>
+            <l xml:id="swift-X77-002D-line-351" n="351">“Chance only guides them Wandring in the Night, 3}</l>
+            <l xml:id="swift-X77-002D-line-352" n="352">“When in an Age they stumble on the Right:</l>
+            <l xml:id="swift-X77-002D-line-353" n="353">“God never gave a Fool the Gift of Sight.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-354" n="354">He said── with Joy the pleas'd assembly rose;</l>
+            <l xml:id="swift-X77-002D-line-355" n="355">Well mov'd, they Cry'd, and murmur'd their Applause;</l>
+            <l xml:id="swift-X77-002D-line-356" n="356">When, Lo! before the Board, Confest in sight,</l>
+            <l xml:id="swift-X77-002D-line-357" n="357">Stept forth an Heav'nly Guest serenely Bright</l>
+            <l xml:id="swift-X77-002D-line-358" n="358">No Mortal Beauty cou'd with here Compare,</l>
+            <l xml:id="swift-X77-002D-line-359" n="359">Or Poet's Fancy form a Maid so fair;</l>
+            <l xml:id="swift-X77-002D-line-360" n="360">Around her Head Immortal Glorys shine</l>
+            <l xml:id="swift-X77-002D-line-361" n="361">And her Mild Air Confest the Nymph divine;</l>
+            <l xml:id="swift-X77-002D-line-362" n="362">Whilst thus She spake────────</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-363" n="363">“Ask not, my frighted son, from whence J came,</l>
+            <l xml:id="swift-X77-002D-line-364" n="364">“But mark me well, Religion is my name;</l>
+            <l xml:id="swift-X77-002D-line-365" n="365">“An Angell once, but now a Fury grown</l>
+            <l xml:id="swift-X77-002D-line-366" n="366">“Too often talk'd of, but too little known;</l>
+            <l xml:id="swift-X77-002D-line-367" n="367">“Is it for me, My sons, that You Engage,</l>
+            <l xml:id="swift-X77-002D-line-368" n="368">“And spend the fury of your Idle Rage?</l>
+            <l xml:id="swift-X77-002D-line-369" n="369">“Tis false, unmanly spleen Your Bosoms Warms,</l>
+            <l xml:id="swift-X77-002D-line-370" n="370">“And a pretended Zeal Your Fancy Charms.</l>
+            <l xml:id="swift-X77-002D-line-371" n="371">“Where have I taught You in the sacred Page,</l>
+            <l xml:id="swift-X77-002D-line-372" n="372">“To Construe Moderation into Rage;</l>
+            <l xml:id="swift-X77-002D-line-373" n="373">“T' affront the Pow'r from whence Your safety springs</l>
+            <l xml:id="swift-X77-002D-line-374" n="374">“And poorly spend Your Rage against y<hi rend="superscript">e</hi> Best of Kings?</l>
+            <l xml:id="swift-X77-002D-line-375" n="375">“Branded with Infamy, You shun the Light,</l>
+            <l xml:id="swift-X77-002D-line-376" n="376">“But Court, like Birds obscene the Covert of the Night.</l>
+            <l xml:id="swift-X77-002D-line-377" n="377">“Is then unlawfull Riot fit to be</l>
+            <l xml:id="swift-X77-002D-line-378" n="378">“The Great Supporter of My Church and me?</l>
+            <l xml:id="swift-X77-002D-line-379" n="379">“Think You, weak men, she's of her Foes affraid,</l>
+            <l xml:id="swift-X77-002D-line-380" n="380">“Or wants th'Assistance of Your feeble Aid?</l>
+            <l xml:id="swift-X77-002D-line-381" n="381">“When Round her Throne Seraphick Warriors stand,</l>
+            <l xml:id="swift-X77-002D-line-382" n="382">“And form upon her side a Heav'nly Band?</l>
+            <l xml:id="swift-X77-002D-line-383" n="383">“When fixt as Fate, her deep Foundation Lies,</l>
+            <l xml:id="swift-X77-002D-line-384" n="384">“And spreads Where e'er My <hi rend="large-writing">Anna's</hi> Glory flies?</l>
+            <l xml:id="swift-X77-002D-line-385" n="385">“Think on th'intended Ruins of the Day,</l>
+            <l xml:id="swift-X77-002D-line-386" n="386">“When to Proud Rome You were design'd a Prey:</l>
+            <l xml:id="swift-X77-002D-line-387" n="387">“With wonder read those Fatal Times again</l>
+            <l xml:id="swift-X77-002D-line-388" n="388">“And call to mind the Melancholly scene;</l>
+            <l xml:id="swift-X77-002D-line-389" n="389">“When down its Rapid stream the Torrent bore,</l>
+            <l xml:id="swift-X77-002D-line-390" n="390">“Your Country's Laws, and safety was no more;</l>
+            <l xml:id="swift-X77-002D-line-391" n="391">“Torn from Your Altars, You were forc'd to Roam</l>
+            <l xml:id="swift-X77-002D-line-392" n="392">“In needy Exile from your Native home.</l>
+            <l xml:id="swift-X77-002D-line-393" n="393">“'Twas then, My sons, Your Mighty <hi rend="large-writing">William</hi> rose,</l>
+            <l xml:id="swift-X77-002D-line-394" n="394">“And Bravely fell like Light'ning on Your Foes:</l>
+            <l xml:id="swift-X77-002D-line-395" n="395">“With Royal Pity He deplor'd Your fate,</l>
+            <l xml:id="swift-X77-002D-line-396" n="396">“And stood the Atlas of Your sinking state.</l>
+            <l xml:id="swift-X77-002D-line-397" n="397">“When sacrifice on Idol Altars slain,</l>
+            <l xml:id="swift-X77-002D-line-398" n="398">“Polluted all the Isle, and dy'd the Plain;</l>
+            <l xml:id="swift-X77-002D-line-399" n="399">“Rome's Mob of Saints did all Your Temples fill,</l>
+            <l xml:id="swift-X77-002D-line-400" n="400">“And Consecrated Groves Crown'd ev'ry Hill:</l>
+            <l xml:id="swift-X77-002D-line-401" n="401">“'Twas then, Josiah Like that He defac'd</l>
+            <l xml:id="swift-X77-002D-line-402" n="402">“Their Pagan rites, and laid their Altars Wast;</l>
+            <l xml:id="swift-X77-002D-line-403" n="403">“Drove out their Idols from their Lov'd Abodes,</l>
+            <l xml:id="swift-X77-002D-line-404" n="404">“And pounded into Dust their Molten Gods.</l>
+            <l xml:id="swift-X77-002D-line-405" n="405">“Israel's true Lord was to his Rule restor'd,</l>
+            <l xml:id="swift-X77-002D-line-406" n="406">“Again his Name was heard, and Was again ador'd.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-407" n="407">“Wondring You saw Your Great Deliv'rer come,</l>
+            <l xml:id="swift-X77-002D-line-408" n="408">“And while He War'd Abroad You rail'd at home;</l>
+            <l xml:id="swift-X77-002D-line-409" n="409">“Dreadfully Gay in Arms but scorn'd in Peace</l>
+            <l xml:id="swift-X77-002D-line-410" n="410">“The useless Buckler of Inglorious Ease:</l>
+            <l xml:id="swift-X77-002D-line-411" n="411">“O poor and short-liv'd Glory and Renown!</l>
+            <l xml:id="swift-X77-002D-line-412" n="412">“O false unenvy'd pleasures of a Crown!</l>
+            <l xml:id="swift-X77-002D-line-413" n="413">“So soon are all thy shining Honours fled,</l>
+            <l xml:id="swift-X77-002D-line-414" n="414">“Traduc'd while Living, and defam'd when dead!</l>
+            <l xml:id="swift-X77-002D-line-415" n="415">“Strange fate of Heroes, who like Comets Blaze,</l>
+            <l xml:id="swift-X77-002D-line-416" n="416">“And with a sudden Light the World Amaze!</l>
+            <l xml:id="swift-X77-002D-line-417" n="417">“But When with fading Beams they Quit y<hi rend="superscript">e</hi> skies,</l>
+            <l xml:id="swift-X77-002D-line-418" n="418">“No more to shine the Wonder of our Eyes;</l>
+            <l xml:id="swift-X77-002D-line-419" n="419">“Their Glories spent, and all their fiery store,</l>
+            <l xml:id="swift-X77-002D-line-420" n="420">“We scorn the Omens, which We fear'd before.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-421" n="421">“My Royal Anna, whom e'ery Virtue Crowns,</l>
+            <l xml:id="swift-X77-002D-line-422" n="422">“Feels Your ill govern'd Rage, nor scapes Y<hi rend="superscript">ṛ</hi> Frowns:</l>
+            <l xml:id="swift-X77-002D-line-423" n="423">“Your want of Duty You supply with spight,</l>
+            <l xml:id="swift-X77-002D-line-424" n="424">“Traduce Her Councils, and Her Heroes slight;</l>
+            <l xml:id="swift-X77-002D-line-425" n="425">“Lampoon the Mildness of her easy sway,</l>
+            <l xml:id="swift-X77-002D-line-426" n="426">“And sicken att the Light of her superior Day;</l>
+            <l xml:id="swift-X77-002D-line-427" n="427">“Poison her sweets of Life with groundless fears,</l>
+            <l xml:id="swift-X77-002D-line-428" n="428">“And fill her Royall Breast with Anxious Cares.</l>
+            <l xml:id="swift-X77-002D-line-429" n="429">“What! such a Queen, where Art and Nature join</l>
+            <l xml:id="swift-X77-002D-line-430" n="430">“To hitt the Copy of a Form Divine;</l>
+            <l xml:id="swift-X77-002D-line-431" n="431">“Unerring Wisdom purg'd the Dross away,</l>
+            <l xml:id="swift-X77-002D-line-432" n="432">“And Form'd Your Anna of a Nobler Clay.</l>
+            <l xml:id="swift-X77-002D-line-433" n="433">“Breathing a soul, in which in Glory shone</l>
+            <l xml:id="swift-X77-002D-line-434" n="434">“Goodness innate, and Virtue like its own;</l>
+            <l xml:id="swift-X77-002D-line-435" n="435">“She knows how farr Engageing sweetness Charms,</l>
+            <l xml:id="swift-X77-002D-line-436" n="436">“And Conquers more by Mildness than by Arms;</l>
+            <l xml:id="swift-X77-002D-line-437" n="437">“Like Sampson's Riddle in the sacred song</l>
+            <l xml:id="swift-X77-002D-line-438" n="438">“A springing sweet still flowing from the strong;</l>
+            <l xml:id="swift-X77-002D-line-439" n="439">“Like her hasty sparkes her slow Resentm<hi rend="superscript">ṭ</hi> dies,</l>
+            <l xml:id="swift-X77-002D-line-440" n="440">“Her Rigour Lagging but her Mercy flys.</l>
+            <l xml:id="swift-X77-002D-line-441" n="441">“Hail, Pious Princess! Mightiest of thy Name,</l>
+            <l xml:id="swift-X77-002D-line-442" n="442">“Tho last Begotten Yet the First in Fame;</l>
+            <l xml:id="swift-X77-002D-line-443" n="443">“Those Glorious Heroins We in story see</l>
+            <l xml:id="swift-X77-002D-line-444" n="444">“Were but the fainter Types of Greater Thee;</l>
+            <l xml:id="swift-X77-002D-line-445" n="445">“Let others take a Lustre from the Throne, 3}</l>
+            <l xml:id="swift-X77-002D-line-446" n="446">“You shine with Brighter Glories of Your own,</l>
+            <l xml:id="swift-X77-002D-line-447" n="447">“Add Worth to Worth and dignifye a Crown.</l>
+            <l xml:id="swift-X77-002D-line-448" n="448">“Oft have I mark'd with what a studious Care,</l>
+            <l xml:id="swift-X77-002D-line-449" n="449">“My Words You Ponder, and My Laws revere;</l>
+            <l xml:id="swift-X77-002D-line-450" n="450">“To Thee Great Queen, What Elogies are due,</l>
+            <l xml:id="swift-X77-002D-line-451" n="451">“Who both Protect the <note place="foot">·Grants to y<hi rend="superscript">e</hi> Clergy.</note> Flock, and feed y<hi rend="superscript">e</hi> shepherds too.</l>
+            <l xml:id="swift-X77-002D-line-452" n="452">“For Which I still preside O'er thy Alarms,</l>
+            <l xml:id="swift-X77-002D-line-453" n="453">“And add a shining Lustre to thy Arms;</l>
+            <l xml:id="swift-X77-002D-line-454" n="454">“I form'd the Battle, and I gave the Word,</l>
+            <l xml:id="swift-X77-002D-line-455" n="455">“And rid with Conquest on Thy Ormond's Sword,</l>
+            <l xml:id="swift-X77-002D-line-456" n="456">“When Anjou's Fleet Yielding its Indian store</l>
+            <l xml:id="swift-X77-002D-line-457" n="457">“And at thy sacred feat depos'd the silver Oar.</l>
+            <l xml:id="swift-X77-002D-line-458" n="458">“I sent the Goddess when <hi rend="large-writing">Victoria</hi> came, 3}</l>
+            <l xml:id="swift-X77-002D-line-459" n="459">“And Rais'd thy <hi rend="large-writing">Churchill</hi> to Immortal Fame,</l>
+            <l xml:id="swift-X77-002D-line-460" n="460">“And Hochstet's bloody Field advanc'd the Heroe's Name</l>
+            <l xml:id="swift-X77-002D-line-461" n="461">“By Me He yett will more Immortall grow, 3}</l>
+            <l xml:id="swift-X77-002D-line-462" n="462">“When Ramilies, and Audenard shall know,</l>
+            <l xml:id="swift-X77-002D-line-463" n="463">“His Arms Triumphant still against the Gallick Foe.</l>
+            <l xml:id="swift-X77-002D-line-464" n="464">“Nor shall thy Triumphs or thy Glories cease</l>
+            <l xml:id="swift-X77-002D-line-465" n="465">“'Till Rugged War at last shall soften into Peace.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-466" n="466">“But first You shall (for Your Repose and mine)</l>
+            <l xml:id="swift-X77-002D-line-467" n="467">“Your sister Realms in Ancient Union Joyn:</l>
+            <l xml:id="swift-X77-002D-line-468" n="468">“A Work that Heav'n has still reserv'd for You,</l>
+            <l xml:id="swift-X77-002D-line-469" n="469">“Which nor Your Fathers, Nor Great William's self cou'd do!</l>
+            <l xml:id="swift-X77-002D-line-470" n="470">“Charles then from Thee his Diadem shall receive</l>
+            <l xml:id="swift-X77-002D-line-471" n="471">“And shining Pomp which Thou alone canst Give;</l>
+            <l xml:id="swift-X77-002D-line-472" n="472">“The Gallick Lion Listning at his shore 3}</l>
+            <l xml:id="swift-X77-002D-line-473" n="473">“Shall fear to Tempt the Brittish dangers more</l>
+            <l xml:id="swift-X77-002D-line-474" n="474">“But sculk in Desarts Where he us'd to Roar:</l>
+            <l xml:id="swift-X77-002D-line-475" n="475">“Admiring Worlds before thy Throne shall stand, 3}</l>
+            <l xml:id="swift-X77-002D-line-476" n="476">“And Willing Nations bend to thy Command;</l>
+            <l xml:id="swift-X77-002D-line-477" n="477">“And thus in glorious Ease Thou long shalt Bless y<hi rend="superscript">e</hi> Land.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-478" n="478">“For You, Y'inveterate Enemies to Peace,</l>
+            <l xml:id="swift-X77-002D-line-479" n="479">“Whom Kings can ne'er oblige, nor Heav'n can please:</l>
+            <l xml:id="swift-X77-002D-line-480" n="480">“Who Blindly Zealous into Faction run,</l>
+            <l xml:id="swift-X77-002D-line-481" n="481">“And make those dangers You'd be Thought to shun;</l>
+            <l xml:id="swift-X77-002D-line-482" n="482">“For shame the Transports of Your Rage give o'er,</l>
+            <l xml:id="swift-X77-002D-line-483" n="483">“And let Your Civil Feuds be heard no more;</l>
+            <l xml:id="swift-X77-002D-line-484" n="484">“To the Wise Conduct of My Anna trust,</l>
+            <l xml:id="swift-X77-002D-line-485" n="485">“Know Your own Good and to Your selves be just.</l>
+            <l xml:id="swift-X77-002D-line-486" n="486">“And with Grief You see Your Brother stray, 3}</l>
+            <l xml:id="swift-X77-002D-line-487" n="487">“Or in a Night of Error Loose his way,</l>
+            <l xml:id="swift-X77-002D-line-488" n="488">“Direct his Wandring, and Restore the Day.</l>
+            <l xml:id="swift-X77-002D-line-489" n="489">“To Guide his steps, afford Your Kindest Aid,</l>
+            <l xml:id="swift-X77-002D-line-490" n="490">“And gently pity whom You can't persuade.</l>
+            <l xml:id="swift-X77-002D-line-491" n="491">“Leave to Avenging Heav'n his stubborn will,</l>
+            <l xml:id="swift-X77-002D-line-492" n="492">“For, o! remember He's Your Brother still:</l>
+            <l xml:id="swift-X77-002D-line-493" n="493">“Let healing Mercy thro' Your Actions shine,</l>
+            <l xml:id="swift-X77-002D-line-494" n="494">“And Let Your Lives Confess Y<hi rend="superscript">ṛ</hi> Cause Divine.</l>
+            <l rend="indent(1)" xml:id="swift-X77-002D-line-495" n="495">Frowning the Goddess spoke, &amp; strait withdrew,</l>
+            <l xml:id="swift-X77-002D-line-496" n="496">Scatt'ring Ambrosial Odours as she Flew;</l>
+            <l xml:id="swift-X77-002D-line-497" n="497">Her Trembling Sons immoderately scarr'd,</l>
+            <l xml:id="swift-X77-002D-line-498" n="498">Fled from th'uneasy Truths which suddenly they heard.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

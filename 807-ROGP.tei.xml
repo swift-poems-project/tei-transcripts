@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Advice to a Parson</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="807-ROGP">
+          <head type="note" n="1" xml:id="spp-807-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-807-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-ROGP-headnote-1-line-group-1-line-1">AN EPIGRAM&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-807-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-807-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-807-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-807-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-807-ROGP-line-1" n="1">Would you rise in the church, be stupid and dull,</l>
+            <l xml:id="swift-807-ROGP-line-2" n="2">Be empty of learning, of insolence full:</l>
+            <l xml:id="swift-807-ROGP-line-3" n="3">Though lewd and immoral, be formal and grave,</l>
+            <l xml:id="swift-807-ROGP-line-4" n="4">In flattery an artist, in fawning a slave,</l>
+            <l xml:id="swift-807-ROGP-line-5" n="5">No merit, no science, no virtue is wanting</l>
+            <l xml:id="swift-807-ROGP-line-6" n="6">In him, that's accomplished in cringing and canting:</l>
+            <l xml:id="swift-807-ROGP-line-7" n="7">Be studious to practise true meanness of spirit;</l>
+            <l xml:id="swift-807-ROGP-line-8" n="8">For who but Lord Bolton was mitred for merit?</l>
+            <l xml:id="swift-807-ROGP-line-9" n="9">Would you wish to be wrapped in a rochet── in short,</l>
+            <l xml:id="swift-807-ROGP-line-10" n="10">Be as poxed and profane as fanatical Hort.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

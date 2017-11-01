@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Horace, B. 1. ode 14</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 5MR93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="770-CWJS">
+          <head type="note" n="1" xml:id="spp-770-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-770-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-CWJS-headnote-1-line-group-1-line-1">O Navis referent in Mare&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-770-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-770-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-CWJS-headnote-2-line-group-1-line-1">Paraphrased &amp; inscribed to Ireland</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-770-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-770-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-CWJS-headnote-3-line-group-1-line-1">Novem<hi rend="superscript">r</hi> 17<hi rend="superscript">th</hi> 1724</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-770-CWJS-line-1" n="1">Poor floating Isle tosst on ill Fortunes Waves</l>
+            <l xml:id="swift-770-CWJS-line-2" n="2">Ordain'd by fate to be y<hi rend="superscript">ẹ</hi> Land of Slaves</l>
+            <l xml:id="swift-770-CWJS-line-3" n="3">Shall moveing Delos, now deep rooted Stand</l>
+            <l xml:id="swift-770-CWJS-line-4" n="4">Thou fixt of old, be now y<hi rend="superscript">ẹ</hi> moveing Land?</l>
+            <l xml:id="swift-770-CWJS-line-5" n="5">Alow me one old Simile to Steal</l>
+            <l xml:id="swift-770-CWJS-line-6" n="6">Betwixt a Ship at Sea, &amp; Common weal</l>
+            <l xml:id="swift-770-CWJS-line-7" n="7">Lett me Suppose thee for A Ship a while</l>
+            <l xml:id="swift-770-CWJS-line-8" n="8">And thus address thee, in a Saylor's Style</l>
+            <l xml:id="swift-770-CWJS-line-9" n="9">Unhappy Ship, thou art return'd in vain,</l>
+            <l xml:id="swift-770-CWJS-line-10" n="10">New waves shall drive thee to y<hi rend="superscript">ẹ</hi> deep again</l>
+            <l xml:id="swift-770-CWJS-line-11" n="11">Look to thy Self, &amp; be no more y<hi rend="superscript">e</hi>: Sport</l>
+            <l xml:id="swift-770-CWJS-line-12" n="12">Of giddy winds, but make Some friendly Port,</l>
+            <l xml:id="swift-770-CWJS-line-13" n="13">Lost are thy oars, which us'd thy Course to guide</l>
+            <l xml:id="swift-770-CWJS-line-14" n="14">Like faithfull Councellors on either Side</l>
+            <l xml:id="swift-770-CWJS-line-15" n="15">Thy mast, which like Some aged Patriot stood</l>
+            <l xml:id="swift-770-CWJS-line-16" n="16">The Single Pillar for his Country's good.</l>
+            <l xml:id="swift-770-CWJS-line-17" n="17">To Lead thee as a Staff directs y<hi rend="superscript">ẹ</hi> blind</l>
+            <l xml:id="swift-770-CWJS-line-18" n="18">Behold itt Cracks by yon rough Eastern wind</l>
+            <l xml:id="swift-770-CWJS-line-19" n="19">Your Cables Burst, and you must quickly feel</l>
+            <l xml:id="swift-770-CWJS-line-20" n="20">The waves imperious entring at Your Keel,</l>
+            <l xml:id="swift-770-CWJS-line-21" n="21">So, Commonwealths receive a foreign Yoke,</l>
+            <l xml:id="swift-770-CWJS-line-22" n="22">When the Strong Cords of union once are broke</l>
+            <l xml:id="swift-770-CWJS-line-23" n="23">Torn by A Sudden Tempest is thy Saile</l>
+            <l xml:id="swift-770-CWJS-line-24" n="24">Expanded to invite a milder Gale,</l>
+            <l xml:id="swift-770-CWJS-line-25" n="25">So, when some writer in A publick Cause</l>
+            <l xml:id="swift-770-CWJS-line-26" n="26">His pen to Save a sinking nation, draws,</l>
+            <l xml:id="swift-770-CWJS-line-27" n="27">While all is calm, his arguments prevail</l>
+            <l xml:id="swift-770-CWJS-line-28" n="28">The people's voice, fanning his paper Sail,</l>
+            <l xml:id="swift-770-CWJS-line-29" n="29">Till power discharging all her Stormy bags</l>
+            <l xml:id="swift-770-CWJS-line-30" n="30">Flutters y<hi rend="superscript">e</hi> feeble Pamphlett into rags</l>
+            <l xml:id="swift-770-CWJS-line-31" n="31">The nation scar'd y<hi rend="superscript">ẹ</hi> author doom'd to Death</l>
+            <l xml:id="swift-770-CWJS-line-32" n="32">Who fondly putt his trust in pop'lar breath</l>
+            <l xml:id="swift-770-CWJS-line-33" n="33">A larger Sacrifice in vain you vow</l>
+            <l xml:id="swift-770-CWJS-line-34" n="34">There's nott a pow'r above will help you now</l>
+            <l xml:id="swift-770-CWJS-line-35" n="35">A Nation thus who oft Heaven's Call Neglects</l>
+            <l xml:id="swift-770-CWJS-line-36" n="36">In vain from Injur'd Heaven Releif expects</l>
+            <l xml:id="swift-770-CWJS-line-37" n="37">Twill not avail, when thy Strong Sides are broke</l>
+            <l xml:id="swift-770-CWJS-line-38" n="38">That thy Descent is from y<hi rend="superscript">e</hi><hi rend="superscript">.</hi> brittish Oake</l>
+            <l xml:id="swift-770-CWJS-line-39" n="39">Or when Y<hi rend="superscript">ṛ</hi> name &amp; Family you boast</l>
+            <l xml:id="swift-770-CWJS-line-40" n="40">From Fleets triumphant o'er y<hi rend="superscript">ẹ</hi> Gallick Coast,</l>
+            <l xml:id="swift-770-CWJS-line-41" n="41">So, when Hibernia made her Claim like thine</l>
+            <l xml:id="swift-770-CWJS-line-42" n="42">Her Sons descended from y<hi rend="superscript">ẹ</hi> Brittish Line</l>
+            <l xml:id="swift-770-CWJS-line-43" n="43">Her Martial Sons whose valour still remaines</l>
+            <l xml:id="swift-770-CWJS-line-44" n="44">On French Records for twenty long Campaines</l>
+            <l xml:id="swift-770-CWJS-line-45" n="45">Led Captive to A prison from a Throne</l>
+            <l xml:id="swift-770-CWJS-line-46" n="46">Sav'd Europes Liberty, &amp; lost her own</l>
+            <l xml:id="swift-770-CWJS-line-47" n="47">In Ships decay'd no Mariner confides</l>
+            <l xml:id="swift-770-CWJS-line-48" n="48">Lur'd by y<hi rend="superscript">ẹ</hi> gilded Sterns, &amp; painted Sides</l>
+            <l xml:id="swift-770-CWJS-line-49" n="49">So Att a Ball, unthinking fools delight</l>
+            <l xml:id="swift-770-CWJS-line-50" n="50">In the gay Trappings of a birthday night</l>
+            <l xml:id="swift-770-CWJS-line-51" n="51">They on the rich Brocades &amp; Sattins rav'd</l>
+            <l xml:id="swift-770-CWJS-line-52" n="52">Nor ever thought their Country was enslav'd</l>
+            <l xml:id="swift-770-CWJS-line-53" n="53">Dear Vesell, Still be to thy Steerige Just</l>
+            <l xml:id="swift-770-CWJS-line-54" n="54">Nor Change thy Course w<hi rend="superscript">tḥ</hi> ev'ry gust</l>
+            <l xml:id="swift-770-CWJS-line-55" n="55">Like Supple Patriots of the modern Sort</l>
+            <l xml:id="swift-770-CWJS-line-56" n="56">Who turn by every gale y<hi rend="superscript">ṭ</hi> blows from Court</l>
+            <l xml:id="swift-770-CWJS-line-57" n="57">Weary and Sea Sick, when in thee Confined</l>
+            <l xml:id="swift-770-CWJS-line-58" n="58">Now for thy Safety, Cares distract my minde</l>
+            <l xml:id="swift-770-CWJS-line-59" n="59">As those who long have Stood y<hi rend="superscript">ẹ</hi> Storms of State</l>
+            <l xml:id="swift-770-CWJS-line-60" n="60">Retire, &amp; Still bemoan their Country's fate</l>
+            <l xml:id="swift-770-CWJS-line-61" n="61">But chiefly when you hear y<hi rend="superscript">e</hi> Surges roar</l>
+            <l xml:id="swift-770-CWJS-line-62" n="62">Avoid y<hi rend="superscript">ẹ</hi> Rocks on Brittains angry Shore:</l>
+            <l xml:id="swift-770-CWJS-line-63" n="63">They lye alas, to easy to be found</l>
+            <l xml:id="swift-770-CWJS-line-64" n="64">For thee alone, they lye y<hi rend="superscript">ẹ</hi> Island round.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

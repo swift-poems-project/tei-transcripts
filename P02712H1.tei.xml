@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Blunders, Deficiencies, Distres-<lb/>  ses, and Misfortunes of</hi> Q<hi rend="small-caps">UILCA</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7AU16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> --</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P02712H1">
+          <head type="note" n="1" xml:id="spp-P02712H1-headnote-1">
+            <lg n="1" xml:id="spp-P02712H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02712H1-headnote-1-line-group-1-line-1"><hi rend="italics">Proposed to contain one and twenty volumes in quarto. Begun </hi>April 20, 1724. <hi rend="italics">To be continued weekly, if due encouragement be given</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P02712H1-headnote-2">
+            <lg n="1" xml:id="spp-P02712H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02712H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P02712H1-headnote-3">
+            <lg n="1" xml:id="spp-P02712H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02712H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P02712H1-line-1" n="1">A proverb on the laziness and lodgings of the servants: <hi rend="italics">The worse their stye, the longer they lie</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[A Description of the Morning]</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 3AP98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JIF 1MY98 agt 124-09TA; √'d JIF 23AU01 agt 124-10L5; ed. JW 2SE08; EMENDED JW 27OC16, 30OC16, 18DE16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="124-CWJS">
+          <head type="note" n="1" xml:id="spp-124-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-124-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-CWJS-headnote-1-line-group-1-line-1">But instead of such agreeable Works as these, the Town has this half Age been tormented with Insects call'd <hi rend="italics">Easie Writers</hi>, whose Abilities Mr. <hi rend="italics">Wycherly</hi> one Day describ'd excellently well in one Word: <hi rend="italics">That, </hi>said he<hi rend="italics">, among these Fellows is call'd </hi>Easy Writing<hi rend="italics">, which any one may easily write</hi>. Such Janty Scribblers are so justly laugh'd at for their Sonnets on <hi rend="italics">Phillis</hi> and <hi rend="italics">Chloris</hi>, and Fantastical Descriptions in 'em, that an ingenious Kinsman of mine, of the Family of the <hi rend="italics">Staffs</hi>, Mr. <hi rend="italics">Humphrey Wagstaff</hi> by Name, has, to avoid their Strain, run into a Way perfectly new, and describ'd Things exactly as they happen: He never forms Fields, or Nymphs, or Groves, where they are not, but makes the Incidents just as they really appear. For an Example of it; I stole out of his Manuscript the following Lines: They are a Description of the Morning, but of the Morning in Town; nay, of the Morning at this End of the Town, where my Kinsman at present lodges.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-124-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-124-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-124-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-124-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-124-CWJS-line-1" n="1"><hi rend="italics">Now hardly here and there an Hackney-Coach</hi></l><l xml:id="swift-124-CWJS-line-2" n="2">Appearing, show'd the Ruddy Morn's Approach.</l><l xml:id="swift-124-CWJS-line-3" n="3">Appearing, show'd the Ruddy Morn's Approach.Now </l>Betty<hi rend="italics"> from her Master's Bed had flown,</hi><l xml:id="swift-124-CWJS-line-4" n="4">And softly stole to discompose her own.</l><l xml:id="swift-124-CWJS-line-5" n="5">The Slipshod 'Prentice from his Master's Dore</l><l xml:id="swift-124-CWJS-line-6" n="6">Had par'd the Street, and sprinkled round the Floor.</l><l xml:id="swift-124-CWJS-line-7" n="7">Had par'd the Street, and sprinkled round the Floor.Now </l>Moll<hi rend="italics"> had whirl'd her Mop with dext'rous Airs,</hi><l xml:id="swift-124-CWJS-line-8" n="8">Prepar'd to scrub the Entry and the Stairs.</l><l xml:id="swift-124-CWJS-line-9" n="9">The Youth with broomy Stumps began to trace</l><l xml:id="swift-124-CWJS-line-10" n="10">The Kennel Edge, where Wheels had worn the Place.</l><l xml:id="swift-124-CWJS-line-11" n="11">The Smallcoal-Man was heard with Cadence deep,</l><l xml:id="swift-124-CWJS-line-12" n="12">Till drown'd in shriller Notes of Chimney-sweep.</l><l xml:id="swift-124-CWJS-line-13" n="13">Duns at his Lordship's Gate began to meet;</l><l xml:id="swift-124-CWJS-line-14" n="14">Duns at his Lordship's Gate began to meet;And Brickdust </l>Moll<hi rend="italics"> had scream'd through half a Street.</hi><l xml:id="swift-124-CWJS-line-15" n="15">The Turn-key now his Flock returning sees,</l><l xml:id="swift-124-CWJS-line-16" n="16">Duly let out a'Nights to steal for Fees.</l><l xml:id="swift-124-CWJS-line-17" n="17">The watchful Bayliffs take their silent Stands;</l><l xml:id="swift-124-CWJS-line-18" n="18">The watchful Bayliffs take their silent Stands;And School-boys lag with Satchels in their Hands</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

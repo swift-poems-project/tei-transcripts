@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Famous Prediction of <hi rend="italics">MERLIN</hi>, the <hi rend="italics">British</hi> Wizard;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 14MY97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JIF 15MY97 agt 102-S851; √'d JW 15JL97 agt S850 (excluding notes); notes proofed and √'d against 102-S850 JIF 4AP98; notes proofed JWagerle JL99 agt Ct Rothschild 2002, xeroxed from film; AGendler 11MR05 agt Ct Rothschild 2002, xeroxed from film; ed. JW 19JL00, 12JL04, 1JE05, 11AU14; tochk item √'d in situ and shelfmark corrected JW 5AU00; √'d JW 2JL05 from Ct copy agt S850 (TxU copy); √'d JW 13SE08 agt WILH; renumbered JW 9DE09; EMENDED JW; renumbered JW 3NO16; first line emended JW 8NO16; emended JW 9NO16; title reformatted JW 2JA17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="102-CWJS">
+          <head type="note" n="1" xml:id="spp-102-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-102-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-CWJS-headnote-1-line-group-1-line-1">written above a Thousand Years ago, and relating to this present Year.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-102-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-102-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-CWJS-headnote-2-line-group-1-line-1"><lb/>With Explanatory Notes. By <hi rend="italics">T. N</hi>. Philomath.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-102-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-102-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-CWJS-headnote-3-line-group-1-line-1"><hi>L</hi><hi rend="small-caps">AST</hi> Year was publish'd a Paper of Predictions pretended to be written by one <hi rend="italics">Isaac Bickerstaff</hi>, Esq; but the true Design of it was to Ridicule the Art of Astrology, and Expose its Professors as ignorant, or Impostors. Against this Imputation, Dr. <hi rend="italics">Partridge</hi> hath vindicated himself in his Almanack for the present Year.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-102-CWJS-headnote-4">
+            <lg n="1" xml:id="spp-102-CWJS-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-CWJS-headnote-4-line-group-1-line-1"><lb/>For a further Vindication of this famous Art, I have thought fit to present the World with the following Prophecy. The Original is said to be of the famous <hi rend="italics">Merlin</hi>, who lived about a Thousand Years ago: And the following Translation is Two Hundred Years old; for it seems to be written near the End of <hi rend="italics">Henry</hi> the Seventh's Reign. I found it in an Old Edition of <hi rend="italics">Merlin</hi>'s Prophecies; imprinted at <hi rend="italics">London</hi> by <hi rend="italics">Johan Haukyns</hi>, in the Year 1530, <hi rend="italics">Pag</hi>. 39. I set it down Word for Word in the Old Orthography, and shall take Leave to subjoin a few Explanatory Notes.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-102-CWJS-line-1" n="1">
+              <hi rend="black-letter">Seven and Ten addyd to nyne,</hi>
+            </l>
+            <l xml:id="swift-102-CWJS-line-2" n="2">Of Fraunce hir woe thys is the sygne,</l>
+            <l xml:id="swift-102-CWJS-line-3" n="3">Tamys rivere twys y-frozen,</l>
+            <l xml:id="swift-102-CWJS-line-4" n="4">Walke sans wetynge Shoes ne hozen.</l>
+            <l xml:id="swift-102-CWJS-line-5" n="5">Then comyth foorthe, Ich understonde,</l>
+            <l xml:id="swift-102-CWJS-line-6" n="6">From Toune of Stoffe to fattyn Londe</l>
+            <l xml:id="swift-102-CWJS-line-7" n="7">An herdie Chiftan, woe the morne</l>
+            <l xml:id="swift-102-CWJS-line-8" n="8">To Fraunce, that evere he was borne.</l>
+            <l xml:id="swift-102-CWJS-line-9" n="9">Than shall the Fyshe beweyle his Bosse;</l>
+            <l xml:id="swift-102-CWJS-line-10" n="10">Nor shall grin Berris make up the Losse.</l>
+            <l xml:id="swift-102-CWJS-line-11" n="11">Yonge Symnele shall agayne miscarrye:</l>
+            <l xml:id="swift-102-CWJS-line-12" n="12">And Norways pryd agayne shall marreye:</l>
+            <l xml:id="swift-102-CWJS-line-13" n="13">And from the Tree where Blosums fele,</l>
+            <l xml:id="swift-102-CWJS-line-14" n="14">Ripe fruit shall come, and all is wele.</l>
+            <l xml:id="swift-102-CWJS-line-15" n="15">Reaums shall daunce honde in honde,</l>
+            <l xml:id="swift-102-CWJS-line-16" n="16">And it shall be merye in olde Inglonde.</l>
+            <l xml:id="swift-102-CWJS-line-17" n="17">Then olde Inglonde shall be noe more,</l>
+            <l xml:id="swift-102-CWJS-line-18" n="18">And no Man shall be sorie therefore.</l>
+            <l xml:id="swift-102-CWJS-line-19" n="19">Geryon shall have three Hedes agayne</l>
+            <l xml:id="swift-102-CWJS-line-20" n="20">Till Hapsburge makyth them but twayne.</l>
+            <l rend="center" xml:id="swift-102-CWJS-line-21" n="21"><lb/>Explanatory Notes.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-22" n="22"><lb/><hi rend="black-letter">Seven and Ten</hi>. This Line describes the Year when these Events shall happen. Seven and Ten makes Seventeen, which I Explain Seventeen Hundred, and this Number added to Nine, makes the Year we are now in; for it must be understood of the Natural Year, which begins the First of <hi rend="italics">January</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-23" n="23"><lb/><hi rend="black-letter">Tamys River twice</hi>, &amp;c. The River <hi rend="italics">Thames</hi> frozen twice in one Year, so as Men to walk on it, is a very signal Accident; which perhaps hath not fallen out for several Hundred Years before, and is the Reason why some Astrologers have thought that this Prophecy could never be fulfilled, because they imagined such a Thing would never happen in our Climate.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-24" n="24"><lb/><hi rend="black-letter">From Toun of Stuff</hi>, &amp;c. This is a plain Designation of the Duke of <hi rend="italics">Marlborough</hi>; One kind of Stuff used to fatten Land is called <hi rend="italics">Marle</hi>, and every body knows that <hi rend="italics">Borough</hi> is a Name for a Town; and this way of Expression is after the usual dark manner of Old Astrological Predictions.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-25" n="25"><lb/><hi rend="black-letter">Then shall the Fish</hi>, &amp;c. By the <hi rend="italics">Fish</hi> is understood the <hi rend="italics">Dolphin</hi> of <hi rend="italics">France</hi>, as their Kings Eldest Sons are called: 'Tis here said, He shall lament the Loss of the Duke of <hi rend="italics">Burgundy</hi>, called the <hi rend="italics">Bosse</hi>, which is an Old <hi rend="italics">English</hi> Word for <hi rend="italics">Hump-Shoulder</hi>, or <hi rend="italics">Crook-Back</hi>, as that Duke is known to be; and the Prophecy seems to mean, that he shall be overcome or slain. By the <hi rend="italics">Green Berrys</hi> in the next Line is meant the Young Duke of <hi rend="italics">Berry</hi>, the <hi rend="italics">Dauphin</hi>'s Third Son, who shall not have Valour or Fortune enough to supply the Loss of his Eldest Brother.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-26" n="26"><lb/><hi rend="black-letter">Young Symnele</hi>, &amp;c. By <hi rend="italics">Symnel</hi> is meant the Pretended Prince of <hi rend="italics">Wales</hi>, who if he offers to attempt any thing against <hi rend="italics">England</hi>, shall miscarry as he did before. <hi rend="italics">Lambert Symnel</hi> is the Name of a Young Man noted in our Histories for Personating the Son (as I remember) of <hi rend="italics">Edward</hi> the Fourth.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-27" n="27"><lb/><hi rend="black-letter">And Norway's Pride</hi>, &amp;c. I cannot guess who is meant by <hi rend="italics">Norway</hi>'s <hi rend="italics">Pride</hi>, perhaps the Reader may, as well as the Sense of the Two following Lines.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-28" n="28"><lb/><hi rend="black-letter">Reaums shall</hi>, &amp;c. <hi rend="italics">Reaums</hi>, or, as the Word is now, <hi rend="italics">Realms</hi>, is the old Name for <hi rend="italics">Kingdoms</hi>: And this is a very plain Prediction of our Happy <hi rend="italics">Union</hi>, with the Felicities that shall attend it. It is added, That <hi rend="italics">Old England</hi> shall be no more, and yet no Man shall be sorry for it. And indeed, properly speaking, <hi rend="italics">England</hi> is now no more; for the whole Island is one Kingdom, under the Name of <hi rend="italics">Britain</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-29" n="29"><lb/><hi rend="black-letter">Geryon shall</hi>, &amp;c. This Prediction, though somewhat obscure, is wonderfully adapt. <hi rend="italics">Geryon</hi> is said to have been a King of <hi rend="italics">Spain</hi>, whom <hi rend="italics">Hercules</hi> slew. It was a Fiction of the Poets, that he had Three Heads, which the Author says he shall have again. That is, <hi rend="italics">Spain</hi> shall have Three Kings; which is now wonderfully verify'd: For besides the King of <hi rend="italics">Portugal</hi>, which properly is Part of <hi rend="italics">Spain</hi>, there are now Two Rivals for <hi rend="italics">Spain; Charles</hi> and <hi rend="italics">Philip</hi>. But <hi rend="italics">Charles</hi> being descended from the Count of <hi rend="italics">Hapsburgh</hi>, Founder of the <hi rend="italics">Austrian</hi> Family, shall soon make those Heads but Two; by Overcoming <hi rend="italics">Philip</hi>, and Driving him out of <hi rend="italics">Spain</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-102-CWJS-line-30" n="30"><lb/>Some of these Predictions are already fulfilled; and it is highly probable the rest may be in due time: And, I think, I have not forced the Words by my Explication, into any other Sense than what they will naturally bear. If this be granted, I am sure it may be also allow'd, that the Author, whoever he were, was a Person of extraordinary Sagacity; And that Astrology brought to such a Perfection as this, is by no means an Art to be despis'd; whatever Mr. <hi rend="italics">Bickerstaff</hi>, or other Merry Gentlemen are pleased to think. As to the Tradition, of these Lines having been writ in their Original by <hi rend="italics">Merlin</hi>; I confess, I lay not much Weight upon it: But it is enough to justify their Authority, that the Book from whence I have transcrib'd them, was printed 170 Years ago, as appears by the Title-Page. For the Satisfaction of any Gentleman, who may be either Doubtful of the Truth, or Curious to be inform'd; I shall give Order to have the very Book sent to the Printer of this Paper, with Directions to let any Body see it that pleases; because, I believe, it is pretty scarce.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

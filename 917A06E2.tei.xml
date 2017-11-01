@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>III.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 13JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="917A06E2">
+          <head type="note" n="1" xml:id="spp-917A06E2-headnote-1">
+            <lg n="1" xml:id="spp-917A06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917A06E2-headnote-1-line-group-1-line-1">ANOTHER.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-917A06E2-headnote-2">
+            <lg n="1" xml:id="spp-917A06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917A06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-917A06E2-headnote-3">
+            <lg n="1" xml:id="spp-917A06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917A06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-917A06E2-line-1" n="1"><hi rend="display-initial">B</hi>Y fate <hi rend="italics">exalted high</hi> in place,</l>
+            <l xml:id="swift-917A06E2-line-2" n="2">Lo, here I stand with <hi rend="italics">double face:</hi></l>
+            <l xml:id="swift-917A06E2-line-3" n="3"><hi rend="italics">Superior</hi> none on earth I find;</l>
+            <l xml:id="swift-917A06E2-line-4" n="4">But see <hi rend="italics">below me</hi> all mankind.</l>
+            <l xml:id="swift-917A06E2-line-5" n="5">Yet, as it oft attends the great,</l>
+            <l xml:id="swift-917A06E2-line-6" n="6">I almost <hi rend="italics">sink</hi> with my own <hi rend="italics">weight</hi>.</l>
+            <l xml:id="swift-917A06E2-line-7" n="7">At every <hi rend="italics">motion</hi> undertook,</l>
+            <l xml:id="swift-917A06E2-line-8" n="8">The vulgar all consult my <hi rend="italics">look</hi>.</l>
+            <l xml:id="swift-917A06E2-line-9" n="9">I sometimes give advice in <hi rend="italics">writing</hi>,</l>
+            <l xml:id="swift-917A06E2-line-10" n="10">But never of my own <hi rend="italics">inditing</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-917A06E2-line-11" n="11"><lb/>I am a courtier in my way,</l>
+            <l xml:id="swift-917A06E2-line-12" n="12">For those who <hi rend="italics">rais'd</hi> me, I <hi rend="italics">betray</hi>;</l>
+            <l xml:id="swift-917A06E2-line-13" n="13">And some give out that I entice</l>
+            <l xml:id="swift-917A06E2-line-14" n="14">To lust, and luxury, and dice;</l>
+            <l xml:id="swift-917A06E2-line-15" n="15">Who punishments on me inflict,</l>
+            <l xml:id="swift-917A06E2-line-16" n="16">Because they find their pockets pick'd.</l>
+            <l rend="indent(1)" xml:id="swift-917A06E2-line-17" n="17"><lb/>By riding <hi rend="italics">post</hi> I lose my health;</l>
+            <l xml:id="swift-917A06E2-line-18" n="18">And only to get others wealth.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

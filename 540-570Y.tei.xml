@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON S<hi rend="superscript">ir</hi> 08. R. W.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 18AU03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-570Y">
+          <head type="note" n="1" xml:id="spp-540-570Y-headnote-1">
+            <lg n="1" xml:id="spp-540-570Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-570Y-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-570Y-headnote-2">
+            <lg n="1" xml:id="spp-540-570Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-570Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-570Y-headnote-3">
+            <lg n="1" xml:id="spp-540-570Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-570Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-570Y-line-1" n="1">om.</l>
+            <l xml:id="swift-540-570Y-line-2" n="2">om.</l>
+            <l xml:id="swift-540-570Y-line-3" n="3">om.</l>
+            <l xml:id="swift-540-570Y-line-4" n="4">om.</l>
+            <l xml:id="swift-540-570Y-line-5" n="5">om.</l>
+            <l xml:id="swift-540-570Y-line-6" n="6">om.</l>
+            <l xml:id="swift-540-570Y-line-7" n="7">om.</l>
+            <l xml:id="swift-540-570Y-line-8" n="8">om.</l>
+            <l xml:id="swift-540-570Y-line-9" n="9">With Favour &amp; Fortune, Fastidiously Blest,</l>
+            <l xml:id="swift-540-570Y-line-10" n="10">He's Loud in his Laugh &amp; Coarse in his Iest</l>
+            <l xml:id="swift-540-570Y-line-11" n="11">Of Favour &amp; Fortune unmer\i·<hi rend="italics">over</hi>·e\tted Vain,</l>
+            <l xml:id="swift-540-570Y-line-12" n="12">A Sharper in Triffles, a Dupe in the Main;</l>
+            <l rend="indent(1)" xml:id="swift-540-570Y-line-13" n="13">Atchieving of Nothing Still, promising wonders,</l>
+            <l xml:id="swift-540-570Y-line-14" n="14">By dint of Experience improving in Blunders.</l>
+            <l xml:id="swift-540-570Y-line-15" n="15">Oppressing true Merit, Exalting the Base,</l>
+            <l xml:id="swift-540-570Y-line-16" n="16">And Selling his Country, to Purchase a Peace.</l>
+            <l xml:id="swift-540-570Y-line-17" n="17">A Jobber of Stocks, by Retailing false News,</l>
+            <l xml:id="swift-540-570Y-line-18" n="18">A Procter at Court, in y<hi rend="superscript">ẹ</hi> Style of the Stews.</l>
+            <l xml:id="swift-540-570Y-line-19" n="19">Of Vertue &amp; Worth, by Profession a Giber;</l>
+            <l xml:id="swift-540-570Y-line-20" n="20">Of Iuries &amp; Senates, the Bully &amp; Briber.</l>
+            <l xml:id="swift-540-570Y-line-21" n="21">Tho' I name not the Wretch, yet you know who I mean,</l>
+            <l xml:id="swift-540-570Y-line-22" n="22">T'is y<hi rend="superscript">ẹ</hi> Cur-Dog of Britain &amp; Spaniel of Spain.</l>
+            <l xml:id="swift-540-570Y-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

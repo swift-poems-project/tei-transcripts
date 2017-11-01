@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VANBRUGH'S HOUSE,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 5JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-079-79L1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="079-79L1">
+          <head type="note" n="1" xml:id="spp-079-79L1-headnote-1">
+            <lg n="1" xml:id="spp-079-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-079-79L1-headnote-1-line-group-1-line-1">Built from the R<hi rend="small-caps">UINS</hi> of W<hi rend="small-caps">HITEHALL</hi>, 1706 <ref target="#spp-079-79L1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-079-79L1-footnote-headnote-1" place="foot">See the note, p. 46</note>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-079-79L1-headnote-2">
+            <lg n="1" xml:id="spp-079-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-079-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-079-79L1-headnote-3">
+            <lg n="1" xml:id="spp-079-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-079-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-079-79L1-line-1" n="1"><hi rend="display-initial">I</hi>N times of <hi rend="italics">old</hi>, when time was <hi rend="italics">young</hi>,</l>
+            <l xml:id="swift-079-79L1-line-2" n="2">And poets their own verses sung,</l>
+            <l xml:id="swift-079-79L1-line-3" n="3">A verse would draw a stone or beam,</l>
+            <l xml:id="swift-079-79L1-line-4" n="4">That now would over-load a team;</l>
+            <l xml:id="swift-079-79L1-line-5" n="5">Lead them a dance of many a mile,</l>
+            <l xml:id="swift-079-79L1-line-6" n="6">Then rear them to a goodly pile.</l>
+            <l xml:id="swift-079-79L1-line-7" n="7">Each number had its different power:</l>
+            <l xml:id="swift-079-79L1-line-8" n="8">Heroic strains could built a tower;</l>
+            <l xml:id="swift-079-79L1-line-9" n="9">Sonnets, or Elegies to Chloris,</l>
+            <l xml:id="swift-079-79L1-line-10" n="10">Might raise a house about two stories;</l>
+            <l xml:id="swift-079-79L1-line-11" n="11">A Lyric Ode would slate; a Catch</l>
+            <l xml:id="swift-079-79L1-line-12" n="12">Would tile; an Epigram would thatch.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-13" n="13">But, to their own or landlord's cost,</l>
+            <l xml:id="swift-079-79L1-line-14" n="14">Now poets feel this art is lost.</l>
+            <l xml:id="swift-079-79L1-line-15" n="15">Not one of all our tuneful throng</l>
+            <l xml:id="swift-079-79L1-line-16" n="16">Can raise a lodging <hi rend="italics">for a song</hi>:</l>
+            <l xml:id="swift-079-79L1-line-17" n="17">For Jove consider'd well the case,</l>
+            <l xml:id="swift-079-79L1-line-18" n="18">Observ'd they grew a numerous race;</l>
+            <l xml:id="swift-079-79L1-line-19" n="19">And, should they build as fast as <hi rend="italics">write</hi>,</l>
+            <l xml:id="swift-079-79L1-line-20" n="20">'Twould ruin undertakers quite.</l>
+            <l xml:id="swift-079-79L1-line-21" n="21">This evil therefore to prevent,</l>
+            <l xml:id="swift-079-79L1-line-22" n="22">He wisely chang'd their element:</l>
+            <l xml:id="swift-079-79L1-line-23" n="23">On earth the god of wealth was made</l>
+            <l xml:id="swift-079-79L1-line-24" n="24">Sole patron of the building trade;</l>
+            <l xml:id="swift-079-79L1-line-25" n="25">Leaving the wits the spacious air,</l>
+            <l xml:id="swift-079-79L1-line-26" n="26">With license to <hi rend="italics">build castles</hi> there:</l>
+            <l xml:id="swift-079-79L1-line-27" n="27">And, 'tis conceiv'd, their old pretence</l>
+            <l xml:id="swift-079-79L1-line-28" n="28">To lodge in garrets comes from thence.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-29" n="29">Premising thus, in modern way,</l>
+            <l xml:id="swift-079-79L1-line-30" n="30">The better half we have to say:</l>
+            <l xml:id="swift-079-79L1-line-31" n="31">Sing, Muse, the house of poet Van</l>
+            <l xml:id="swift-079-79L1-line-32" n="32">In higher strains than we began.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-33" n="33">Van (for 'tis fit the reader know it)</l>
+            <l xml:id="swift-079-79L1-line-34" n="34">Is both a herald and a poet;</l>
+            <l xml:id="swift-079-79L1-line-35" n="35">No wonder then if nicely skill'd</l>
+            <l xml:id="swift-079-79L1-line-36" n="36">In both capacities to build.</l>
+            <l xml:id="swift-079-79L1-line-37" n="37">As herald, he can in a day</l>
+            <l xml:id="swift-079-79L1-line-38" n="38">Repair a <hi rend="italics">house</hi> gone to decay;</l>
+            <l xml:id="swift-079-79L1-line-39" n="39">Or, by <hi rend="italics">atchievement, arms, device</hi>,</l>
+            <l xml:id="swift-079-79L1-line-40" n="40">Erect a new one in a trice;</l>
+            <l xml:id="swift-079-79L1-line-41" n="41">And, as a poet, he has skill</l>
+            <l xml:id="swift-079-79L1-line-42" n="42">To build in speculation still.</l>
+            <l xml:id="swift-079-79L1-line-43" n="43">om.</l>
+            <l xml:id="swift-079-79L1-line-44" n="44">om.</l>
+            <l xml:id="swift-079-79L1-line-45" n="45">Great Jove! he cry'd, the art restore</l>
+            <l xml:id="swift-079-79L1-line-46" n="46">To build by verse as heretofore,</l>
+            <l xml:id="swift-079-79L1-line-47" n="47">And make my Muse the architect;</l>
+            <l xml:id="swift-079-79L1-line-48" n="48">What palaces shall we erect!</l>
+            <l xml:id="swift-079-79L1-line-49" n="49">No longer shall forsaken Thames</l>
+            <l xml:id="swift-079-79L1-line-50" n="50">Lament his old Whitehall in flames;</l>
+            <l xml:id="swift-079-79L1-line-51" n="51">A pile shall from its ashes rise,</l>
+            <l xml:id="swift-079-79L1-line-52" n="52">Fit to invade or prop the skies.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-53" n="53">Jove smil'd, and, like a gentle god,</l>
+            <l xml:id="swift-079-79L1-line-54" n="54">Consenting with the usual nod,</l>
+            <l xml:id="swift-079-79L1-line-55" n="55">Told Van, he knew his talent best,</l>
+            <l xml:id="swift-079-79L1-line-56" n="56">And left the choice to his own breast.</l>
+            <l xml:id="swift-079-79L1-line-57" n="57">So Van resolv'd to write a farce;</l>
+            <l xml:id="swift-079-79L1-line-58" n="58">But, well perceiving wit was scarce,</l>
+            <l xml:id="swift-079-79L1-line-59" n="59">With cunning that defect supplies:</l>
+            <l xml:id="swift-079-79L1-line-60" n="60">Takes a French play as lawful prize;</l>
+            <l xml:id="swift-079-79L1-line-61" n="61">Steals thence his plot and every joke,</l>
+            <l xml:id="swift-079-79L1-line-62" n="62">Not once suspecting Jove would <hi rend="italics">smoke</hi>;</l>
+            <l xml:id="swift-079-79L1-line-63" n="63">And (like a wag set down to write)</l>
+            <l xml:id="swift-079-79L1-line-64" n="64">Would whisper to himself, <hi rend="italics">a bite</hi>.</l>
+            <l xml:id="swift-079-79L1-line-65" n="65">Then, from this motley, mingled style,</l>
+            <l xml:id="swift-079-79L1-line-66" n="66">Proceeded to erect his pile.</l>
+            <l xml:id="swift-079-79L1-line-67" n="67">So men of old, to gain renown, did</l>
+            <l xml:id="swift-079-79L1-line-68" n="68">Build Babel with their tongues confounded.</l>
+            <l xml:id="swift-079-79L1-line-69" n="69">Jove saw the cheat, but thought it best</l>
+            <l xml:id="swift-079-79L1-line-70" n="70">To turn the matter to a jest:</l>
+            <l xml:id="swift-079-79L1-line-71" n="71">Down from Olympus' top he slides,</l>
+            <l xml:id="swift-079-79L1-line-72" n="72">Laughing as if he'·d burst his sides:</l>
+            <l xml:id="swift-079-79L1-line-73" n="73">Ay, thought the God, are these your tricks?</l>
+            <l xml:id="swift-079-79L1-line-74" n="74">Why then <hi rend="italics">old plays</hi> deserve <hi rend="italics">old bricks</hi>;</l>
+            <l xml:id="swift-079-79L1-line-75" n="75">And, since you're sparing of your stuff,</l>
+            <l xml:id="swift-079-79L1-line-76" n="76">Your building shall be small enough.</l>
+            <l xml:id="swift-079-79L1-line-77" n="77">He spake, and, grudging, lent his aid:</l>
+            <l xml:id="swift-079-79L1-line-78" n="78">Th' experienc'd bricks, that knew their trade</l>
+            <l xml:id="swift-079-79L1-line-79" n="79">(As being bricks at second-hand);</l>
+            <l xml:id="swift-079-79L1-line-80" n="80">Now move, and now in order stand.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-81" n="81">The building, as the poet writ,</l>
+            <l xml:id="swift-079-79L1-line-82" n="82">Rose in proportion to his wit:</l>
+            <l xml:id="swift-079-79L1-line-83" n="83">And first the prologue built a wall</l>
+            <l xml:id="swift-079-79L1-line-84" n="84">So wide as to encompass all.</l>
+            <l xml:id="swift-079-79L1-line-85" n="85">The scene, a wood, produc'd no more</l>
+            <l xml:id="swift-079-79L1-line-86" n="86">Than a few scrubby trees before.</l>
+            <l xml:id="swift-079-79L1-line-87" n="87">The plot as yet lay deep; and so</l>
+            <l xml:id="swift-079-79L1-line-88" n="88">A cellar next was dug below:</l>
+            <l xml:id="swift-079-79L1-line-89" n="89">But this a work so hard was found,</l>
+            <l xml:id="swift-079-79L1-line-90" n="90">Two acts it cost him under ground.</l>
+            <l xml:id="swift-079-79L1-line-91" n="91">Two other acts, we may presume,</l>
+            <l xml:id="swift-079-79L1-line-92" n="92">Were spent in building each a room:</l>
+            <l xml:id="swift-079-79L1-line-93" n="93">Thus far advanc'd, he made a shift</l>
+            <l xml:id="swift-079-79L1-line-94" n="94">To raise a roof with act the fifth.</l>
+            <l xml:id="swift-079-79L1-line-95" n="95">The epilogue behind did frame</l>
+            <l xml:id="swift-079-79L1-line-96" n="96">A place not decent here to name.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-97" n="97">Now poets from all quarters ran</l>
+            <l xml:id="swift-079-79L1-line-98" n="98">To see the house of brother Van;</l>
+            <l xml:id="swift-079-79L1-line-99" n="99">Look'd high and low, walk'd often round;</l>
+            <l xml:id="swift-079-79L1-line-100" n="100">But no such house was to be found.</l>
+            <l xml:id="swift-079-79L1-line-101" n="101">One asks the watermen hard-by,</l>
+            <l xml:id="swift-079-79L1-line-102" n="102">“Where may the poet's palace lie?”</l>
+            <l xml:id="swift-079-79L1-line-103" n="103">Another of the Thames inquires,</l>
+            <l xml:id="swift-079-79L1-line-104" n="104">If he has seen its gilded spires?</l>
+            <l xml:id="swift-079-79L1-line-105" n="105">At length they in the rubbish spy</l>
+            <l xml:id="swift-079-79L1-line-106" n="106">A thing resembling a goose-pye.</l>
+            <l xml:id="swift-079-79L1-line-107" n="107">Thither in haste the poets throng,</l>
+            <l xml:id="swift-079-79L1-line-108" n="108">And gaze in silent wonder long,</l>
+            <l xml:id="swift-079-79L1-line-109" n="109">Till one in raptures thus began</l>
+            <l xml:id="swift-079-79L1-line-110" n="110">To praise the pile and builder Van.</l>
+            <l rend="indent(1)" xml:id="swift-079-79L1-line-111" n="111">Thrice happy poet! who may'st trail</l>
+            <l xml:id="swift-079-79L1-line-112" n="112">Thy house about thee like a snail:</l>
+            <l xml:id="swift-079-79L1-line-113" n="113">Or, harness'd to a nag, at ease</l>
+            <l xml:id="swift-079-79L1-line-114" n="114">Take journeys in it like a chaise;</l>
+            <l xml:id="swift-079-79L1-line-115" n="115">Or in a boat, whene'er thou wilt,</l>
+            <l xml:id="swift-079-79L1-line-116" n="116">Canst make it serve thee for a tilt!</l>
+            <l xml:id="swift-079-79L1-line-117" n="117">Capacious house! 'tis own'd by all</l>
+            <l xml:id="swift-079-79L1-line-118" n="118">Thou·'rt well contriv'd, though thou art small:</l>
+            <l xml:id="swift-079-79L1-line-119" n="119">For every wit in Britain's isle</l>
+            <l xml:id="swift-079-79L1-line-120" n="120">May lodge within thy spacious pile.</l>
+            <l xml:id="swift-079-79L1-line-121" n="121">Like Bacchus thou, as poets feign,</l>
+            <l xml:id="swift-079-79L1-line-122" n="122">Thy mother burnt, art born again,</l>
+            <l xml:id="swift-079-79L1-line-123" n="123">Born like a phœnix from the flame;</l>
+            <l xml:id="swift-079-79L1-line-124" n="124">But neither <hi rend="italics">bulk</hi> nor <hi rend="italics">shape</hi> the same:</l>
+            <l xml:id="swift-079-79L1-line-125" n="125">As animals of largest size</l>
+            <l xml:id="swift-079-79L1-line-126" n="126">Corrupt to maggots, worms, and flies;</l>
+            <l xml:id="swift-079-79L1-line-127" n="127">A type of <hi rend="italics">modern</hi> wit and style</l>
+            <l xml:id="swift-079-79L1-line-128" n="128"><hi rend="italics">The rubbish of an ancient pile</hi>.</l>
+            <l xml:id="swift-079-79L1-line-129" n="129">So chemists boast they have a power</l>
+            <l xml:id="swift-079-79L1-line-130" n="130">From the dead ashes of a flower</l>
+            <l xml:id="swift-079-79L1-line-131" n="131">Some faint resemblance to produce,</l>
+            <l xml:id="swift-079-79L1-line-132" n="132">But not the virtue, taste, or juice.</l>
+            <l xml:id="swift-079-79L1-line-133" n="133">So modern rhymers wisely blast</l>
+            <l xml:id="swift-079-79L1-line-134" n="134">The poetry of ages past;</l>
+            <l xml:id="swift-079-79L1-line-135" n="135">Which after they have overthrown,</l>
+            <l xml:id="swift-079-79L1-line-136" n="136">They from its ruins build their own.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

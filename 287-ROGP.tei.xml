@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Bank Thrown Down</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="287-ROGP">
+          <head type="note" n="1" xml:id="spp-287-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-287-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-287-ROGP-headnote-1-line-group-1-line-1">TO AN EXCELLENT NEW TUNE&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-287-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-287-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-287-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-287-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-287-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-287-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-287-ROGP-line-1" n="1">Pray, what is this Bank of which the town rings?</l>
+            <l xml:id="swift-287-ROGP-line-2" n="2">The banks of a river I know are good things,</l>
+            <l xml:id="swift-287-ROGP-line-3" n="3">But a pox o' those banks that choke up the springs.</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-4" n="4">Some mischief is brewing, the project smells rank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-5" n="5">To shut out the river by raising the bank.</l>
+            <l xml:id="swift-287-ROGP-line-6" n="6"><lb/>The dams and the weirs must all be your own,</l>
+            <l xml:id="swift-287-ROGP-line-7" n="7">You get all the fish, and others get none.</l>
+            <l xml:id="swift-287-ROGP-line-8" n="8">We look for a salmon, you leave us a stone.</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-9" n="9">But thanks to the House, the projectors look blank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-10" n="10">And thanks to the members that kicked down the Bank.</l>
+            <l xml:id="swift-287-ROGP-line-11" n="11"><lb/>This Bank is to make us a new paper mill,</l>
+            <l xml:id="swift-287-ROGP-line-12" n="12">This paper, they say, by the help of a quill,</l>
+            <l xml:id="swift-287-ROGP-line-13" n="13">The whole nation's pocket with money will fill.</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-14" n="14">But we doubt that our purses will quickly grow lank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-15" n="15">If nothing but paper comes out of this bank.</l>
+            <l xml:id="swift-287-ROGP-line-16" n="16"><lb/>'Tis happy to see the whole kingdom in rags,</l>
+            <l xml:id="swift-287-ROGP-line-17" n="17">For rags will make paper, and pa-ba-ba-brags,</l>
+            <l xml:id="swift-287-ROGP-line-18" n="18">This paper will soon make us richer than Craggs.</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-19" n="19">From a bo-bo-bo-boy he pursues his old hank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-20" n="20">And now he runs mad for a ba-ba-ba-bank.</l>
+            <l xml:id="swift-287-ROGP-line-21" n="21"><lb/>Oh! then but to see how the beggars will vapour,</l>
+            <l xml:id="swift-287-ROGP-line-22" n="22">For beggars have rags and rags will make paper.</l>
+            <l xml:id="swift-287-ROGP-line-23" n="23">And paper makes money, and what can be cheaper?</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-24" n="24">Methinks I now see them so jovial and crank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-25" n="25">And riding on horseback to hell and the Bank.</l>
+            <l xml:id="swift-287-ROGP-line-26" n="26"><lb/>But the cobbler was angry, and swore he had rather</l>
+            <l xml:id="swift-287-ROGP-line-27" n="27">As they did in old times, make money of leather,</l>
+            <l xml:id="swift-287-ROGP-line-28" n="28">For then he could coin and could cobble together;</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-29" n="29">And then he could pay for the liquor he drank</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-30" n="30">With the scrap of a sole, and a fig for a bank.</l>
+            <l xml:id="swift-287-ROGP-line-31" n="31"><lb/>By a parliament man when the farmer was told,</l>
+            <l xml:id="swift-287-ROGP-line-32" n="32">That paper would quickly be dearer than gold,</l>
+            <l xml:id="swift-287-ROGP-line-33" n="33">He wondered for how much an inch would be sold:</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-34" n="34">Then plodding, he thought on a whimsical prank</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-35" n="35">To turn to small money a bill on the Bank.</l>
+            <l xml:id="swift-287-ROGP-line-36" n="36"><lb/>For nicely computing the price by retail,</l>
+            <l xml:id="swift-287-ROGP-line-37" n="37">He found he could purchase two tankards of ale,</l>
+            <l xml:id="swift-287-ROGP-line-38" n="38">With a scrap of bank paper the breadth of his nail;</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-39" n="39">But the tapster well cudgelled him both side and flank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-40" n="40">And made him to curse the poor innocent Bank.</l>
+            <l xml:id="swift-287-ROGP-line-41" n="41"><lb/>The ghost of old Demar, who left not his betters,</l>
+            <l xml:id="swift-287-ROGP-line-42" n="42">When it heard of a Bank, appeared to his debtors,</l>
+            <l xml:id="swift-287-ROGP-line-43" n="43">And lent them for money the backs of his letters:</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-44" n="44">His debtors they wondered to find him so frank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-45" n="45">For old Nick gave the papers the mark of the Bank.</l>
+            <l xml:id="swift-287-ROGP-line-46" n="46"><lb/>In a Chancery bill your attorney engages,</l>
+            <l xml:id="swift-287-ROGP-line-47" n="47">For so many sixpences, so many pages,</l>
+            <l xml:id="swift-287-ROGP-line-48" n="48">But sixpence a letter is monstrous high wages:</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-49" n="49">Those that dropped in the South Sea discovered this plank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-50" n="50">By which they might swimmingly land on a Bank.</l>
+            <l xml:id="swift-287-ROGP-line-51" n="51"><lb/>But the squire he was cunning and found what they meant,</l>
+            <l xml:id="swift-287-ROGP-line-52" n="52">That a pack of sly knaves should get fifty per cent,</l>
+            <l xml:id="swift-287-ROGP-line-53" n="53">While his tenants in paper must pay him his rent:</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-54" n="54">So for their quack bills he knows whom to thank,</l>
+            <l rend="indent(1)" xml:id="swift-287-ROGP-line-55" n="55">For those are but quacks, who mount on a Bank.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

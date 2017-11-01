@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Original of </hi>Punning<hi rend="italics">, from</hi><lb/>  P<hi rend="small-caps">LATO</hi>'<hi rend="italics">s Symposiacs</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 15JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y01B36L3">
+          <head type="note" n="1" xml:id="spp-Y01B36L3-headnote-1">
+            <lg n="1" xml:id="spp-Y01B36L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01B36L3-headnote-1-line-group-1-line-1"><hi rend="italics">By the AUTHOR</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y01B36L3-headnote-2">
+            <lg n="1" xml:id="spp-Y01B36L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01B36L3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y01B36L3-headnote-3">
+            <lg n="1" xml:id="spp-Y01B36L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01B36L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y01B36L3-line-1" n="1"><hi rend="display-initial">O</hi>Nce on a Time in <hi rend="italics">merry Mood</hi>,</l>
+            <l xml:id="swift-Y01B36L3-line-2" n="2"><hi rend="italics">Jove</hi> made a P<hi rend="small-caps">UN</hi> of <hi rend="italics">Flesh</hi> and <hi rend="italics">Blood</hi>;</l>
+            <l xml:id="swift-Y01B36L3-line-3" n="3">A <hi rend="italics">double two Fac'd</hi> living Creature,</l>
+            <l xml:id="swift-Y01B36L3-line-4" n="4"><hi rend="italics">Androgynos</hi>, of Two-fold Nature;</l>
+            <l xml:id="swift-Y01B36L3-line-5" n="5">For <hi rend="italics">Back</hi> to <hi rend="italics">Back</hi> with single Skin</l>
+            <l xml:id="swift-Y01B36L3-line-6" n="6">He bound the <hi rend="italics">Male</hi> and <hi rend="italics">Female</hi> in;</l>
+            <l xml:id="swift-Y01B36L3-line-7" n="7">So much alike, so near the same,</l>
+            <l xml:id="swift-Y01B36L3-line-8" n="8">They stuck as closely as their Name.</l>
+            <l xml:id="swift-Y01B36L3-line-9" n="9">Whatever Words the <hi rend="italics">Male</hi> exprest,</l>
+            <l xml:id="swift-Y01B36L3-line-10" n="10">The <hi rend="italics">Female</hi> turn'd them to a <hi rend="italics">Jest</hi>;</l>
+            <l xml:id="swift-Y01B36L3-line-11" n="11">Whatever Words the <hi rend="italics">Female</hi> spoke,</l>
+            <l xml:id="swift-Y01B36L3-line-12" n="12">The <hi rend="italics">Male</hi> converted to a <hi rend="italics">Joke</hi>:</l>
+            <l xml:id="swift-Y01B36L3-line-13" n="13">So in this Form of <hi rend="italics">Man</hi> and <hi rend="italics">Wife</hi>,</l>
+            <l xml:id="swift-Y01B36L3-line-14" n="14">They led a merry P<hi rend="small-caps">UNNING</hi> Life.</l>
+            <l rend="indent(1)" xml:id="swift-Y01B36L3-line-15" n="15"><lb/>The <hi rend="italics">Gods</hi> from <hi rend="italics">Heav'n</hi> descend to Earth,</l>
+            <l xml:id="swift-Y01B36L3-line-16" n="16">Drawn down by their <hi rend="italics">alluring Mirth</hi>;</l>
+            <l xml:id="swift-Y01B36L3-line-17" n="17">So well they seem'd to like the Sport,</l>
+            <l xml:id="swift-Y01B36L3-line-18" n="18"><hi rend="italics">Jove</hi> cou'd not get them back to Court.</l>
+            <l xml:id="swift-Y01B36L3-line-19" n="19">Th' <hi rend="italics">Infernal Gods</hi> ascend as well,</l>
+            <l xml:id="swift-Y01B36L3-line-20" n="20">Drawn up by <hi rend="italics">Magic</hi> P<hi rend="small-caps">UNS</hi> from <hi rend="italics">Hell</hi>.</l>
+            <l xml:id="swift-Y01B36L3-line-21" n="21"><hi rend="italics">Judges</hi> and <hi rend="italics">Furies</hi> quit their <hi rend="italics">Post</hi>,</l>
+            <l xml:id="swift-Y01B36L3-line-22" n="22">And not a <hi rend="italics">Soul</hi> to mind a <hi rend="italics">Ghost</hi>.</l>
+            <l xml:id="swift-Y01B36L3-line-23" n="23"><hi rend="italics">Hey Day</hi>, says <hi rend="italics">Jove</hi>; says <hi rend="italics">Pluto</hi> too,</l>
+            <l xml:id="swift-Y01B36L3-line-24" n="24">I think the <hi rend="italics">Devil's here to do</hi>;</l>
+            <l xml:id="swift-Y01B36L3-line-25" n="25">Here's <hi rend="italics">Hell broke loose</hi>, and <hi rend="italics">Heaven</hi>'s quite empty,</l>
+            <l xml:id="swift-Y01B36L3-line-26" n="26">We scarce have left one <hi rend="italics">God</hi> in Twenty.</l>
+            <l xml:id="swift-Y01B36L3-line-27" n="27">Pray, what has set them all a running?</l>
+            <l xml:id="swift-Y01B36L3-line-28" n="28"><hi rend="italics">Dear Brother</hi>, nothing else but P<hi rend="small-caps">UNNING</hi>.</l>
+            <l xml:id="swift-Y01B36L3-line-29" n="29">Behold that double-Creature yonder</l>
+            <l xml:id="swift-Y01B36L3-line-30" n="30">Delights them with a <hi rend="italics">double Entendre.</hi></l>
+            <l xml:id="swift-Y01B36L3-line-31" n="31"><hi rend="italics">Ods-fish</hi>, says <hi rend="italics">Pluto</hi>, where's your Thunder,</l>
+            <l xml:id="swift-Y01B36L3-line-32" n="32"><hi rend="italics">Let drive</hi> and split this Thing asunder.</l>
+            <l xml:id="swift-Y01B36L3-line-33" n="33">That's right, quoth <hi rend="italics">Jove</hi>; with that he threw</l>
+            <l xml:id="swift-Y01B36L3-line-34" n="34">A <hi rend="italics">Bolt</hi>, and split it into Two;</l>
+            <l xml:id="swift-Y01B36L3-line-35" n="35">And when the Thing was split in Twain,</l>
+            <l xml:id="swift-Y01B36L3-line-36" n="36">Why then it P<hi rend="small-caps">UNN'D</hi> as much again.</l>
+            <l xml:id="swift-Y01B36L3-line-37" n="37">'Tis thus the <hi rend="italics">Diamonds</hi> we refine,</l>
+            <l xml:id="swift-Y01B36L3-line-38" n="38">The more we <hi rend="italics">cut</hi> the more they <hi rend="italics">shine</hi>:</l>
+            <l xml:id="swift-Y01B36L3-line-39" n="39">And ever since, your <hi rend="italics">Men of Wit</hi>,</l>
+            <l xml:id="swift-Y01B36L3-line-40" n="40">Until they're <hi rend="italics">cut</hi>, can't P<hi rend="small-caps">UN</hi> a Bit.</l>
+            <l xml:id="swift-Y01B36L3-line-41" n="41">So take a <hi rend="italics">Starling</hi> when 'tis young,</l>
+            <l xml:id="swift-Y01B36L3-line-42" n="42">And down the middle <hi rend="italics">slit the Tongue</hi>,</l>
+            <l xml:id="swift-Y01B36L3-line-43" n="43">With <hi rend="italics">Groat</hi> or <hi rend="italics">Sixpence</hi>, 'tis no matter,</l>
+            <l xml:id="swift-Y01B36L3-line-44" n="44">You'll find the <hi rend="italics">Bird</hi> will <hi rend="italics">doubly chatter</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Y01B36L3-line-45" n="45"><lb/>Upon the whole, dear <hi rend="italics">Pluto</hi> you know,</l>
+            <l xml:id="swift-Y01B36L3-line-46" n="46">'Tis well I did not split my <hi rend="italics">Juno</hi>!</l>
+            <l xml:id="swift-Y01B36L3-line-47" n="47">For had I don't, when e'er she'ad scold me,</l>
+            <l xml:id="swift-Y01B36L3-line-48" n="48">She'ad made the <hi rend="italics">Heavens too hot to hold me</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Y01B36L3-line-49" n="49"><lb/>The <hi rend="italics">Gods</hi> upon this <hi rend="italics">Application</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y01B36L3-line-50" n="50">Return'd each to his <hi rend="italics">Habitation</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y01B36L3-line-51" n="51">Extreamly pleas'd with this <hi rend="italics">new Joke</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y01B36L3-line-52" n="52">The best they <hi rend="italics">swore</hi> he ever spoke.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

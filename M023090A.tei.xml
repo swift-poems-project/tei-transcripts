@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On A Lady who P──t at the Tragedy<lb/>  of Cato, Occasiond by an Epigram<lb/>  on A Lady who wept at it──────</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 2AU11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M023090A">
+          <head type="note" n="1" xml:id="spp-M023090A-headnote-1">
+            <lg n="1" xml:id="spp-M023090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M023090A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M023090A-headnote-2">
+            <lg n="1" xml:id="spp-M023090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M023090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M023090A-headnote-3">
+            <lg n="1" xml:id="spp-M023090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M023090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-M023090A-line-1" n="1">While maudlin Whigs deplord th<hi rend="superscript">ṛ</hi> Cato's fate</l>
+            <l xml:id="swift-M023090A-line-2" n="2">Still with dry Eyes the Tory Celia sate,</l>
+            <l xml:id="swift-M023090A-line-3" n="3">But while her pride forbids her Tears \<hi rend="italics">add</hi>·to\ flow,</l>
+            <l xml:id="swift-M023090A-line-4" n="4">The gushing Waters find a Vent below;</l>
+            <l xml:id="swift-M023090A-line-5" n="5">Tho' secret yet with copious Grief She mourns</l>
+            <l xml:id="swift-M023090A-line-6" n="6">Like Twenty river Gods with all their Urns,</l>
+            <l xml:id="swift-M023090A-line-7" n="7">Let others screw their Hypocritick face</l>
+            <l xml:id="swift-M023090A-line-8" n="8">She shews her Grief in a sincerer place</l>
+            <l xml:id="swift-M023090A-line-9" n="9">There Nature reigns and Passion void of Art,</l>
+            <l xml:id="swift-M023090A-line-10" n="10">For that road leads directly to the Heart</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

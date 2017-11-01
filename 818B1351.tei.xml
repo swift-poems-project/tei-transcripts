@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the ARCHBISHOP of CASHEL,<lb/>  and BETTESWORTH.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 28AP07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="818B1351">
+          <head type="note" n="1" xml:id="spp-818B1351-headnote-1">
+            <lg n="1" xml:id="spp-818B1351-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-818B1351-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-818B1351-headnote-2">
+            <lg n="1" xml:id="spp-818B1351-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-818B1351-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-818B1351-headnote-3">
+            <lg n="1" xml:id="spp-818B1351-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-818B1351-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-818B1351-line-1" n="1"><hi rend="display-initial">D</hi>EAR Dick. prithee tell by what passion you move?</l>
+            <l xml:id="swift-818B1351-line-2" n="2">The world is in doubt, whether hatred or love;</l>
+            <l xml:id="swift-818B1351-line-3" n="3">And, while at good Cashel you rail with such spite,</l>
+            <l xml:id="swift-818B1351-line-4" n="4">They shrewdly suspect it is all but a bite.</l>
+            <l xml:id="swift-818B1351-line-5" n="5">You certainly know, tho' so loudly you vapour,</l>
+            <l xml:id="swift-818B1351-line-6" n="6">His spite cannot wound, who attempted the Drapier.</l>
+            <l xml:id="swift-818B1351-line-7" n="7">Then, prithee reflect, take a word of advice;</l>
+            <l xml:id="swift-818B1351-line-8" n="8">And, as your old wont is, change sides in a trice:</l>
+            <l xml:id="swift-818B1351-line-9" n="9">On his virtues hold forth; 'tis the very best way;</l>
+            <l xml:id="swift-818B1351-line-10" n="10">And say of the man what all honest men say.</l>
+            <l xml:id="swift-818B1351-line-11" n="11">But if still obdurate, your anger remains,</l>
+            <l xml:id="swift-818B1351-line-12" n="12">If still your foul bosom more rancour contains;</l>
+            <l xml:id="swift-818B1351-line-13" n="13">Say then more than they; nay, lavishly flatter,</l>
+            <l xml:id="swift-818B1351-line-14" n="14">'Tis your gross panegyrics alone can bespatter.</l>
+            <l xml:id="swift-818B1351-line-15" n="15">For thine, my dear Dick, give me leave to speak plain,</l>
+            <l xml:id="swift-818B1351-line-16" n="16">Like a very foul mop, dirty more than they clean.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

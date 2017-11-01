@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Riddles</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="926-ROGP">
+          <head type="note" n="1" xml:id="spp-926-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-926-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-926-ROGP-headnote-1-line-group-1-line-1"><hi rend="italics">9</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-926-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-926-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-926-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-926-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-926-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-926-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-926-ROGP-line-1" n="1">Deprived of root, and branch, and rind,</l>
+            <l xml:id="swift-926-ROGP-line-2" n="2">Yet flowers I bear of every kind;</l>
+            <l xml:id="swift-926-ROGP-line-3" n="3">And such is my prolific power,</l>
+            <l xml:id="swift-926-ROGP-line-4" n="4">They bloom in less than half an hour;</l>
+            <l xml:id="swift-926-ROGP-line-5" n="5">Yet standers-by may plainly see</l>
+            <l xml:id="swift-926-ROGP-line-6" n="6">They get no nourishment from me.</l>
+            <l xml:id="swift-926-ROGP-line-7" n="7">My head, with giddiness, goes round;</l>
+            <l xml:id="swift-926-ROGP-line-8" n="8">And yet I firmly stand my ground:</l>
+            <l xml:id="swift-926-ROGP-line-9" n="9">All over naked I am seen,</l>
+            <l xml:id="swift-926-ROGP-line-10" n="10">And painted like an Indian queen.</l>
+            <l xml:id="swift-926-ROGP-line-11" n="11">No couple-beggar in the land</l>
+            <l xml:id="swift-926-ROGP-line-12" n="12">E'er joined such numbers hand in hand;</l>
+            <l xml:id="swift-926-ROGP-line-13" n="13">I join them fairly with a ring;</l>
+            <l xml:id="swift-926-ROGP-line-14" n="14">Nor can our parson blame the thing:</l>
+            <l xml:id="swift-926-ROGP-line-15" n="15">And though no marriage words are spoke,</l>
+            <l xml:id="swift-926-ROGP-line-16" n="16">They part not till the ring is broke.</l>
+            <l xml:id="swift-926-ROGP-line-17" n="17">Yet hypocrite fanatics cry,</l>
+            <l xml:id="swift-926-ROGP-line-18" n="18">I'm but an idol raised on high;</l>
+            <l xml:id="swift-926-ROGP-line-19" n="19">And once a weaver in our town,</l>
+            <l xml:id="swift-926-ROGP-line-20" n="20">A damned Cromwellian, knocked me down.</l>
+            <l xml:id="swift-926-ROGP-line-21" n="21">I lay a prisoner twenty years;</l>
+            <l xml:id="swift-926-ROGP-line-22" n="22">And then the jovial cavaliers</l>
+            <l xml:id="swift-926-ROGP-line-23" n="23">To their old posts restored all three,</l>
+            <l xml:id="swift-926-ROGP-line-24" n="24">I mean the church, the king, and me.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

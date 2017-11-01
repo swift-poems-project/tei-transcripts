@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-M11271H1-title-1">Another Prologue, spoken by Master P<hi rend="small-caps">UTLAND</hi>,<lb/>  instead of Dr. S<hi rend="small-caps">HERIDAN</hi>'s<ref target="#spp-M11271H1-footnote-title-1">1</ref><note n="1" xml:id="spp-M11271H1-footnote-title-1" place="foot">This Prologue was, at the time of its being spoken, attributed to Dr. <hi rend="italics">Swift</hi>; but was the production of Dr. <hi rend="italics">Helsham</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 26JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M11271H1-footnote-title-1 #spp-M11271H1-title-1"/>
+        </linkGrp>
+        <div n="M11271H1">
+          <head type="note" n="1" xml:id="spp-M11271H1-headnote-1">
+            <lg n="1" xml:id="spp-M11271H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11271H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M11271H1-headnote-2">
+            <lg n="1" xml:id="spp-M11271H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11271H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M11271H1-headnote-3">
+            <lg n="1" xml:id="spp-M11271H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11271H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M11271H1-line-1" n="1"><hi rend="display-initial">Y</hi>E Sons of <hi rend="italics">Athens</hi>, grant me one request,</l>
+            <l xml:id="swift-M11271H1-line-2" n="2">And I'll requite you with a pleasing test.</l>
+            <l xml:id="swift-M11271H1-line-3" n="3">Protect me from my Master's cruel rod,</l>
+            <l xml:id="swift-M11271H1-line-4" n="4">Hid me, oh! hide me from the Tyrant's nod.</l>
+            <l xml:id="swift-M11271H1-line-5" n="5">He penn'd a Prologue, which to me was shewn;</l>
+            <l xml:id="swift-M11271H1-line-6" n="6">I lik'd it not, and told him, 'twould not down.</l>
+            <l xml:id="swift-M11271H1-line-7" n="7">He said, it humour had, and wit enough;</l>
+            <l xml:id="swift-M11271H1-line-8" n="8">But, to my thinking, it was scurvy stuff.</l>
+            <l xml:id="swift-M11271H1-line-9" n="9">Howe'er, he made me get it all by heart,</l>
+            <l xml:id="swift-M11271H1-line-10" n="10">And thus instructed me to play my part:</l>
+            <l rend="indent(1)" xml:id="swift-M11271H1-line-11" n="11">“Dean <hi rend="italics">Tommy</hi>, Child, repeat the whole with care,</l>
+            <l xml:id="swift-M11271H1-line-12" n="12">“Here you must raise your voice; but sink it there.</l>
+            <l xml:id="swift-M11271H1-line-13" n="13">“Then in due order take your play-things up,</l>
+            <l xml:id="swift-M11271H1-line-14" n="14">“Now whip your Gig, now spin you Castle-top.</l>
+            <l xml:id="swift-M11271H1-line-15" n="15">“Then take in hand your <hi rend="italics">Virgil</hi> and your Kite; 3}</l>
+            <l xml:id="swift-M11271H1-line-16" n="16">“Throw <hi rend="italics">Virgil</hi> on the ground, set that to flight:</l>
+            <l xml:id="swift-M11271H1-line-17" n="17">“Then speak these lines, I'm sure they'll give delight.”</l>
+            <l rend="indent(1)" xml:id="swift-M11271H1-line-18" n="18">Thus he desir'd me to speak and act</l>
+            <l xml:id="swift-M11271H1-line-19" n="19">Believe me, Sirs, what I relate is fact;</l>
+            <l xml:id="swift-M11271H1-line-20" n="20">And now he waits, expecting I should say</l>
+            <l xml:id="swift-M11271H1-line-21" n="21">That trifling Prologue to this serious Play:</l>
+            <l xml:id="swift-M11271H1-line-22" n="22">But I must beg in that to be excus'd,</l>
+            <l xml:id="swift-M11271H1-line-23" n="23">I would not have this Audience so abus'd.</l>
+            <l xml:id="swift-M11271H1-line-24" n="24">Such entertainment is not fit for <hi rend="italics">men</hi>,</l>
+            <l xml:id="swift-M11271H1-line-25" n="25">Till they have reach'd their childish age again:</l>
+            <l xml:id="swift-M11271H1-line-26" n="26">Not like that reverend Sage <note place="foot">·Dr. <hi rend="italics">King</hi>, Archbishop of <hi rend="italics">Dublin</hi>, who was present, was then in his 70th year. See an account of him, vol. XIV. p. 35.</note> in whom appears</l>
+            <l xml:id="swift-M11271H1-line-27" n="27">New force of reason in advanced years.</l>
+            <l xml:id="swift-M11271H1-line-28" n="28">Oh! could I celebrate with equal parts</l>
+            <l xml:id="swift-M11271H1-line-29" n="29">That Patron of Religion and of Arts.</l>
+            <l xml:id="swift-M11271H1-line-30" n="30">The stay of right, the Church's chief support:</l>
+            <l xml:id="swift-M11271H1-line-31" n="31">His Country's Champion, and her last resort!</l>
+            <l rend="indent(1)" xml:id="swift-M11271H1-line-32" n="32">But I forbear; and now I must provide</l>
+            <l xml:id="swift-M11271H1-line-33" n="33">For my own safety, for I fear I've tried</l>
+            <l xml:id="swift-M11271H1-line-34" n="34">My Master's patience, and his anger mov'd,</l>
+            <l xml:id="swift-M11271H1-line-35" n="35">In speaking what he ne'er would have approv'd.</l>
+            <l xml:id="swift-M11271H1-line-36" n="36">I know my danger, but I can't repent,</l>
+            <l xml:id="swift-M11271H1-line-37" n="37">For being steady to a good intent.</l>
+            <l rend="indent(1)" xml:id="swift-M11271H1-line-38" n="38">Thus firmly did <hi rend="italics">Hippolytus</hi> pursue 3}</l>
+            <l xml:id="swift-M11271H1-line-39" n="39">The slippery paths of Virtue, though he knew</l>
+            <l xml:id="swift-M11271H1-line-40" n="40">His ruin thence would certainly ensue.</l>
+            <l xml:id="swift-M11271H1-line-41" n="41">Since our conditions are so near the same,</l>
+            <l xml:id="swift-M11271H1-line-42" n="42">They both alike your kind compassion claim:</l>
+            <l xml:id="swift-M11271H1-line-43" n="43">Grant your protection then, ye Sons of Wit,</l>
+            <l xml:id="swift-M11271H1-line-44" n="44">To poor <hi rend="italics">Hippolytus</hi>, and poor <hi rend="italics">Tom Titt</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

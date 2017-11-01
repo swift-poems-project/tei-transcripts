@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  DIALOGUE<lb/>  BETWEEN<lb/>  <hi rend="italics">Captain </hi>Tom<hi rend="italics"> and Sir</hi> H──y D──n C──t.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 20JE13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R112D255">
+          <head type="note" n="1" xml:id="spp-R112D255-headnote-1">
+            <lg n="1" xml:id="spp-R112D255-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R112D255-headnote-1-line-group-1-line-1"><hi rend="italics">Printed for the Consolation of those who can bear a </hi>Cross<hi rend="italics"> in the Year</hi> 1710.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R112D255-headnote-2">
+            <lg n="1" xml:id="spp-R112D255-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R112D255-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R112D255-headnote-3">
+            <lg n="1" xml:id="spp-R112D255-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R112D255-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-R112D255-line-1" n="1"><hi rend="display-initial">C</hi>OME, Fair Muse, of <hi rend="italics">Grub-street</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-2" n="2">The Dialogue write,</l>
+            <l xml:id="swift-R112D255-line-3" n="3">Betwixt Captain <hi rend="italics">Tom</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-4" n="4">And a goodly old Knight.</l>
+            <l xml:id="swift-R112D255-line-5" n="5">Quoth ancient Sir <hi rend="italics">Harry</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-6" n="6">My dear Captain <hi rend="italics">Thomas</hi>,</l>
+            <l xml:id="swift-R112D255-line-7" n="7">Sure you and your Subjects</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-8" n="8">Will not depart from us.</l>
+            <l xml:id="swift-R112D255-line-9" n="9">Then hold Hat and Heart,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-10" n="10">And Right Hand ev'ry Man up,</l>
+            <l xml:id="swift-R112D255-line-11" n="11">And Bawl out old <hi rend="italics">C──t</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-12" n="12">And brave General <hi rend="italics">St──nh──p</hi>.</l>
+            <l xml:id="swift-R112D255-line-13" n="13">Let the General's Merits</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-14" n="14">And mine be maintain'd;</l>
+            <l xml:id="swift-R112D255-line-15" n="15">Turn off the old <hi rend="italics">Brewer</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-16" n="16">And be not <hi rend="italics">Cross-Grain'd</hi>.</l>
+            <l xml:id="swift-R112D255-line-17" n="17">In a Protestant Country,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-18" n="18">Why are you for <hi rend="italics">Crosses</hi>?</l>
+            <l xml:id="swift-R112D255-line-19" n="19">And <hi rend="italics">Brewers</hi> will poison you</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-20" n="20">All with Molosses.</l>
+            <l xml:id="swift-R112D255-line-21" n="21">Besides, Are not all</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-22" n="22">The damn'd Jacobites <hi rend="italics">Brewers</hi>,</l>
+            <l xml:id="swift-R112D255-line-23" n="23">Still brewing of Mischief,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-24" n="24">And so may be yours?</l>
+            <l xml:id="swift-R112D255-line-25" n="25">And Papists are Brewers,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-26" n="26">With Faggots to burn us;</l>
+            <l xml:id="swift-R112D255-line-27" n="27">But if you love Brewing,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-28" n="28">You may have a <hi rend="small-caps">FURNESE</hi>.</l>
+            <l xml:id="swift-R112D255-line-29" n="29">Then <hi rend="italics">St──nh──p</hi> shall send you</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-30" n="30">Each Laurel he crops;</l>
+            <l xml:id="swift-R112D255-line-31" n="31">And <hi rend="italics">Laurels</hi> are sometimes</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-32" n="32">As bitter as Hops.</l>
+            <l xml:id="swift-R112D255-line-33" n="33"><lb/>When comely Sir <hi rend="italics">Harry</hi></l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-34" n="34">Had thus shot his Bolt,</l>
+            <l xml:id="swift-R112D255-line-35" n="35">Then reply'd Captain <hi rend="italics">Tom</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-36" n="36">God-a-mercy, old <hi rend="italics">C─t</hi>:</l>
+            <l xml:id="swift-R112D255-line-37" n="37">You had better have been</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-38" n="38">At your <hi rend="italics">Spade</hi> and your <hi rend="italics">Club</hi>,</l>
+            <l xml:id="swift-R112D255-line-39" n="39">Than take up our Time</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-40" n="40">With a <hi rend="italics">Tale of a Tub</hi>.</l>
+            <l xml:id="swift-R112D255-line-41" n="41">You shall be discarded,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-42" n="42">I say't to your Face;</l>
+            <l xml:id="swift-R112D255-line-43" n="43">We'll play <hi rend="italics">all the Game</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-44" n="44">And not bate you an <hi rend="italics">Ace</hi>.</l>
+            <l xml:id="swift-R112D255-line-45" n="45">Then let me advise you</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-46" n="46">No longer to stay</l>
+            <l xml:id="swift-R112D255-line-47" n="47">But <hi rend="italics">pack</hi> up and <hi rend="italics">shuffle</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-48" n="48">And <hi rend="italics">cut</hi> it away.</l>
+            <l xml:id="swift-R112D255-line-49" n="49">And tho' you have Wit,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-50" n="50">Youth, Beauty, and Parts,</l>
+            <l xml:id="swift-R112D255-line-51" n="51">While we keep up our <hi rend="italics">Clubs</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-52" n="52">You shall ne'er win our <hi rend="italics">Hearts</hi>.</l>
+            <l xml:id="swift-R112D255-line-53" n="53">Brave <hi rend="italics">St──nh──p</hi> for Fighting</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-54" n="54">Will have his Reward,</l>
+            <l xml:id="swift-R112D255-line-55" n="55">And the Queen, when she pleases,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-56" n="56">Can make him a <hi rend="italics">Lord</hi>.</l>
+            <l xml:id="swift-R112D255-line-57" n="57">But we are true Friends</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-58" n="58">Of the <hi rend="italics">Church</hi> and <hi rend="italics">Sacheverel</hi>;</l>
+            <l xml:id="swift-R112D255-line-59" n="59">And vote for a <hi rend="italics">Manager</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-60" n="60">Surely we never will!</l>
+            <l xml:id="swift-R112D255-line-61" n="61">Besides, we have found</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-62" n="62">Too much Heat in some Rulers,</l>
+            <l xml:id="swift-R112D255-line-63" n="63">And will give them a <hi rend="italics">Brewer</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-64" n="64">Because they want <hi rend="italics">Coolers</hi>.</l>
+            <l xml:id="swift-R112D255-line-65" n="65">If Christians love <hi rend="italics">Crosses</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-66" n="66">Why should they be blam'd?</l>
+            <l xml:id="swift-R112D255-line-67" n="67">You shall see us <hi rend="italics">bear</hi> ours,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-68" n="68">And not be asham'd.</l>
+            <l xml:id="swift-R112D255-line-69" n="69">But we know what you aim at;</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-70" n="70">You all would engross,</l>
+            <l xml:id="swift-R112D255-line-71" n="71">And not leave the Church</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-72" n="72">Or the Nation a <hi rend="italics">Cross</hi>.</l>
+            <l xml:id="swift-R112D255-line-73" n="73"><lb/>When the Captain had finish'd,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-74" n="74">Away went old <hi rend="italics">Numps</hi>;</l>
+            <l xml:id="swift-R112D255-line-75" n="75">He had got a <hi rend="italics">bad Game</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-76" n="76">And could not turn up <hi rend="italics">Trumps</hi>.</l>
+            <l xml:id="swift-R112D255-line-77" n="77">His Eggs they are addle,</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-78" n="78">And Dough was his Cake;</l>
+            <l xml:id="swift-R112D255-line-79" n="79">So fairly he left them</l>
+            <l rend="indent(1)" xml:id="swift-R112D255-line-80" n="80">To <hi rend="italics">Brew</hi> as they <hi rend="italics">Bake</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

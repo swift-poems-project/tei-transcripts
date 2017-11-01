@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Epitaph on the Bishop of Saru\<hi rend="italics">cropped in xeroxing</hi>\</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 28JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-008N">
+          <head type="note" n="1" xml:id="spp-Y49-008N-headnote-1">
+            <lg n="1" xml:id="spp-Y49-008N-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-008N-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y49-008N-headnote-2">
+            <lg n="1" xml:id="spp-Y49-008N-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-008N-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y49-008N-headnote-3">
+            <lg n="1" xml:id="spp-Y49-008N-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-008N-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y49-008N-line-1" n="1">Here Sarum lyes</l>
+            <l xml:id="swift-Y49-008N-line-2" n="2">Who was as wise</l>
+            <l xml:id="swift-Y49-008N-line-3" n="3">And Learned as Tom Aquinas</l>
+            <l xml:id="swift-Y49-008N-line-4" n="4">Lawn Sleeves he Wore</l>
+            <l xml:id="swift-Y49-008N-line-5" n="5">Yet Was No More</l>
+            <l xml:id="swift-Y49-008N-line-6" n="6">A Christian than Socinas</l>
+            <l rend="center" xml:id="swift-Y49-008N-line-7" n="7">2<lb/>Oaths pro and Con</l>
+            <l xml:id="swift-Y49-008N-line-8" n="8">He Swallow'd Down</l>
+            <l xml:id="swift-Y49-008N-line-9" n="9">Loved Gold like any Lay Man</l>
+            <l xml:id="swift-Y49-008N-line-10" n="10">Wrote Preached and pray'd</l>
+            <l xml:id="swift-Y49-008N-line-11" n="11">And yet betrayed</l>
+            <l xml:id="swift-Y49-008N-line-12" n="12">Gods Holy Church for Mammon</l>
+            <l rend="center" xml:id="swift-Y49-008N-line-13" n="13">3<lb/>Of every Vice</l>
+            <l xml:id="swift-Y49-008N-line-14" n="14">He had a Spice</l>
+            <l xml:id="swift-Y49-008N-line-15" n="15">Altho' a learned Prelate</l>
+            <l xml:id="swift-Y49-008N-line-16" n="16">and yet he dyed</l>
+            <l xml:id="swift-Y49-008N-line-17" n="17">If not belyed</l>
+            <l xml:id="swift-Y49-008N-line-18" n="18">a true Dissenting Zealote</l>
+            <l rend="center" xml:id="swift-Y49-008N-line-19" n="19">4<lb/>Jf Such a Soule</l>
+            <l xml:id="swift-Y49-008N-line-20" n="20">To Heaven has Stole</l>
+            <l xml:id="swift-Y49-008N-line-21" n="21">And Scaped old Satan's ──── \<hi rend="italics">add</hi>·Clutche\\<hi rend="italics">further·add</hi>·s\\</l>
+            <l xml:id="swift-Y49-008N-line-22" n="22">We then <hi rend="display-initial-italic">P</hi>sume</l>
+            <l xml:id="swift-Y49-008N-line-23" n="23">There May be room</l>
+            <l xml:id="swift-Y49-008N-line-24" n="24">for M───h &amp; his D────ss</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

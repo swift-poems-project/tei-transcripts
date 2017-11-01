@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A Letter of Advice to the Reverend Dr D──la──y, humbly<lb/>  proposed to the Consideration of a certain great Lord</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 16AP11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S17601W1">
+          <head type="note" n="1" xml:id="spp-S17601W1-headnote-1">
+            <lg n="1" xml:id="spp-S17601W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S17601W1-headnote-1-line-group-1-line-1">This curious libel upon Dr Delany takes the same tone with the rebuke administered to him by Swift, for boasting of his intimacy with Delany. See Vol. XIV. p. 400 and 424, and also p. 357 of this volume, where it is observed that there occurred some coldness between the Dean and Delany. I have a copy of verses upon Lord Carteret, supposed to be written by Dr Delany himself, in which his Lordship's taste for society is characterized by the last line:&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S17601W1-headnote-2">
+            <lg n="1" xml:id="spp-S17601W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S17601W1-headnote-2-line-group-1-line-1">“He chooses Delany and Tickell for friends.”</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S17601W1-headnote-3">
+            <lg n="1" xml:id="spp-S17601W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S17601W1-headnote-3-line-group-1-line-1">This affectation of holding himself forth as the chosen favourite of the lord-lieutenant's easier hours, called down the censure of Tisdal, Smedley, and others, to one of whom we owe the following lines. They are here inserted as throwing some light on Swift's literary history.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-S17601W1-line-1" n="1">W<hi rend="small-caps">HAT</hi> Doctor, if great Carteret condescends</l>
+            <l xml:id="swift-S17601W1-line-2" n="2">To chat with Swift and you as private friends,</l>
+            <l xml:id="swift-S17601W1-line-3" n="3">Must you so silly be to tell the town,</l>
+            <l xml:id="swift-S17601W1-line-4" n="4">And boast of freedoms he may blush to own;</l>
+            <l xml:id="swift-S17601W1-line-5" n="5">Is this the modest dutiful behaviour</l>
+            <l xml:id="swift-S17601W1-line-6" n="6">You shew your patron, for so great a favour?</l>
+            <l xml:id="swift-S17601W1-line-7" n="7">Think you these honours to your merit due?</l>
+            <l xml:id="swift-S17601W1-line-8" n="8">What equal honours can reflect from you?</l>
+            <l xml:id="swift-S17601W1-line-9" n="9">You may perhaps propose immortal fame,</l>
+            <l xml:id="swift-S17601W1-line-10" n="10">Under the shelter of your patron's name,</l>
+            <l xml:id="swift-S17601W1-line-11" n="11">If you presume too far, you miss that end,</l>
+            <l xml:id="swift-S17601W1-line-12" n="12">For the like course lost Swift his Gallstown friend,</l>
+            <l xml:id="swift-S17601W1-line-13" n="13">And may in time disturb your patron too,</l>
+            <l xml:id="swift-S17601W1-line-14" n="14">To see the simple choice he's made of you.</l>
+            <l xml:id="swift-S17601W1-line-15" n="15">But is my lord still short of his intent? 3}</l>
+            <l xml:id="swift-S17601W1-line-16" n="16">Or is your merit of that vast extent,</l>
+            <l xml:id="swift-S17601W1-line-17" n="17">That nothing less than thousands can content?</l>
+            <l xml:id="swift-S17601W1-line-18" n="18">There was a time when Paddy, out of hope,</l>
+            <l xml:id="swift-S17601W1-line-19" n="19">Thought a West Indian jaunt his utmost scope.</l>
+            <l xml:id="swift-S17601W1-line-20" n="20">The world's well mended since with Patrick, now</l>
+            <l xml:id="swift-S17601W1-line-21" n="21">Nothing but vistos and canals will do.</l>
+            <l xml:id="swift-S17601W1-line-22" n="22">But pray, great sir, what friend of common sense,</l>
+            <l xml:id="swift-S17601W1-line-23" n="23">Would labour to promote such vain expence?</l>
+            <l xml:id="swift-S17601W1-line-24" n="24">And must your breth'ren all in hamlets dwell,</l>
+            <l xml:id="swift-S17601W1-line-25" n="25">T' adorn your busts, and young St Patrick's cell?</l>
+            <l xml:id="swift-S17601W1-line-26" n="26">Why may not some of 'em, for ought you know,</l>
+            <l xml:id="swift-S17601W1-line-27" n="27">Have a desire to build and to bestow?</l>
+            <l xml:id="swift-S17601W1-line-28" n="28">Retrench then, and be modest if you can, Sir,</l>
+            <l xml:id="swift-S17601W1-line-29" n="29">Or raise objections stronger than your answer.</l>
+            <l xml:id="swift-S17601W1-line-30" n="30">Think, Doctor, after double vicar, double rector,</l>
+            <l xml:id="swift-S17601W1-line-31" n="31">A dignity in Christ-Church lecture:</l>
+            <l xml:id="swift-S17601W1-line-32" n="32">And something else, which you have still forgot,</l>
+            <l xml:id="swift-S17601W1-line-33" n="33">A college place. Won't all this boil the pot.</l>
+            <l xml:id="swift-S17601W1-line-34" n="34">Then judge how very aukwardly it looks,</l>
+            <l xml:id="swift-S17601W1-line-35" n="35">“You have not yet enough to buy your books.”</l>
+            <l xml:id="swift-S17601W1-line-36" n="36">Good Patrick take advice, and first read o'er</l>
+            <l xml:id="swift-S17601W1-line-37" n="37">The books you have, before you call for more;</l>
+            <l xml:id="swift-S17601W1-line-38" n="38">Resign some of those cures you labour hard in,</l>
+            <l xml:id="swift-S17601W1-line-39" n="39">If you must spend whole summers in your garden,</l>
+            <l xml:id="swift-S17601W1-line-40" n="40">Attend some one at least, and quit Glass-Nevin,</l>
+            <l xml:id="swift-S17601W1-line-41" n="41">Which will destroy your credit, if you live in,</l>
+            <l xml:id="swift-S17601W1-line-42" n="42">Let Barber, tho' polite, at counter wait,</l>
+            <l xml:id="swift-S17601W1-line-43" n="43">Nor longer be caress'd in pomp and state,</l>
+            <l xml:id="swift-S17601W1-line-44" n="44">Quickly do this, or you may some provoke</l>
+            <l xml:id="swift-S17601W1-line-45" n="45">To say, you mean to fleece, not feed the flock.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

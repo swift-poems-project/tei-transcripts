@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A RIDDLE. By Dr. D<hi rend="small-caps">E<hi rend="small-caps">LANY</hi>.</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 18JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938A0871">
+          <head type="note" n="1" xml:id="spp-938A0871-headnote-1">
+            <lg n="1" xml:id="spp-938A0871-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A0871-headnote-1-line-group-1-line-1">Inscribed to the Lady C<hi rend="small-caps">ARTERET</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-938A0871-headnote-2">
+            <lg n="1" xml:id="spp-938A0871-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A0871-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-938A0871-headnote-3">
+            <lg n="1" xml:id="spp-938A0871-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A0871-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-938A0871-line-1" n="1"><hi rend="display-initial">I</hi> Reach all Things near me, and far off to boot,</l>
+            <l xml:id="swift-938A0871-line-2" n="2">Without stretching a Finger, or stirring a Foot.</l>
+            <l xml:id="swift-938A0871-line-3" n="3">I take them all in too, to add to your Wonder,</l>
+            <l xml:id="swift-938A0871-line-4" n="4">Tho' many and various, and large and asunder.</l>
+            <l xml:id="swift-938A0871-line-5" n="5">Without jostling or crowding they pass Side by Side,</l>
+            <l xml:id="swift-938A0871-line-6" n="6">Thro' a wonderful Wicket, not Half an Inch wide.</l>
+            <l xml:id="swift-938A0871-line-7" n="7">Then I lodge them at Ease in a very large Store,</l>
+            <l xml:id="swift-938A0871-line-8" n="8">Of no Breadth, or Length, with a thousand Things more.</l>
+            <l xml:id="swift-938A0871-line-9" n="9">All this I can do without Witchcraft or Charm,</l>
+            <l xml:id="swift-938A0871-line-10" n="10">Tho' sometimes they say I bewitch, and do Harm;</l>
+            <l xml:id="swift-938A0871-line-11" n="11">Tho' cold I inflame, and tho' quiet invade,</l>
+            <l xml:id="swift-938A0871-line-12" n="12">And nothing can shield from my Spell but a Shade.</l>
+            <l xml:id="swift-938A0871-line-13" n="13">A Thief that has robb'd you, or done you Disgrace,</l>
+            <l xml:id="swift-938A0871-line-14" n="14">In magical Mirrour I'll shew you his Face:</l>
+            <l xml:id="swift-938A0871-line-15" n="15">Nay, if you'll believe what the Poets have said,</l>
+            <l xml:id="swift-938A0871-line-16" n="16">They'll tell you I kill, and can call back the Dead.</l>
+            <l xml:id="swift-938A0871-line-17" n="17">Like Conjurers safe in my Circle I dwell,</l>
+            <l xml:id="swift-938A0871-line-18" n="18">I love to look black too, it heightens my Spell;</l>
+            <l xml:id="swift-938A0871-line-19" n="19">Tho' my Magick is mighty in every Hue,</l>
+            <l xml:id="swift-938A0871-line-20" n="20">Who see all my Power must see it in YOU.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

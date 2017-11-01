@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 13MR03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-664C405O-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="664C405O">
+          <head type="note" n="1" xml:id="spp-664C405O-headnote-1">
+            <lg n="1" xml:id="spp-664C405O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C405O-headnote-1-line-group-1-line-1">Aug. 24. Thursd. <lb/> 9 Kal. Sept.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-664C405O-headnote-2">
+            <lg n="1" xml:id="spp-664C405O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C405O-headnote-2-line-group-1-line-1">Sir Jsaac Newton tho' a great Mathematician, was a man of very little Religion, in so much that he is ranked with the Heterodox men of the Age. Nay they stick not to make him, with respect to belief, of no better principles than Mr Wool\<hi rend="italics">del</hi>·a\ston <ref target="#spp-664C405O-footnote-headnote-1">1</ref><note n="1" xml:id="spp-664C405O-footnote-headnote-1" place="foot">Tis not Woolaston but Wolston, that hath written these vile books. What Woolaston hath done bears a better Character than any thing of Wolston's, tho even his is also bad enough, as J learn, having not read it my self. 'Tis not Woolaston, (who is dead) but Wolston that is supported by the Governmt, or at least by great Personages of vile principles</note>, who hath written so many vile books and made so much noise. Which Woolaston, it seems, is supported and countenanced by very great persons, nay even by the Government it self, as may be gather'd from many Arguments, and particularly from what follows that we have from London of the 19<hi rend="superscript">th</hi> instant, and is inserted in the common Prints of the News Writers:</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-664C405O-headnote-3">
+            <lg n="1" xml:id="spp-664C405O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C405O-headnote-3-line-group-1-line-1">“The following Lines were wrote on her Majesty's setting up the Bustoes of M<hi rend="superscript">r</hi> Locke, Sir Jsaac Newton, M<hi rend="superscript">r</hi> Woolaston, and D<hi rend="superscript">r</hi> Clarke, in the Hermitage at Richmond.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-664C405O-headnote-4">
+            <lg n="1" xml:id="spp-664C405O-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C405O-headnote-4-line-group-1-line-1">
+                <note rend="align(center)">“<hi rend="underlined">Sic Siti lætantur Docti</hi>.<note rend="flush left"></note></note>
+              </l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-664C405O-line-1" n="1">“With Honour thus by <hi rend="underlined">Carolina</hi> plac'd,</l>
+            <l xml:id="swift-664C405O-line-2" n="2">“How are these venerable Bustoes grac'd!</l>
+            <l xml:id="swift-664C405O-line-3" n="3">“O Queen! with more than regal Titles crown'd,</l>
+            <l xml:id="swift-664C405O-line-4" n="4">“For Love of Arts and Piety renown'd!</l>
+            <l xml:id="swift-664C405O-line-5" n="5">“How do the Friends of Virtue joy to see</l>
+            <l xml:id="swift-664C405O-line-6" n="6">“Her darling Sons exalted thus by thee?</l>
+            <l xml:id="swift-664C405O-line-7" n="7">“Nought to their Fame can now be added more,</l>
+            <l xml:id="swift-664C405O-line-8" n="8">“Rever'd by her whom all mankind adore.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

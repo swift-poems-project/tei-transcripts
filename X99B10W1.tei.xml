@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LINES WRITTEN ON A WINDOW<lb/>  IN THE EPISCOPAL PALACE AT KILMORE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 18AP11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X99B10W1">
+          <head type="note" n="1" xml:id="spp-X99B10W1-headnote-1">
+            <lg n="1" xml:id="spp-X99B10W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X99B10W1-headnote-1-line-group-1-line-1">[Soon after Swift's acquaintance with Dr Sheridan, they passed some days together at the episcopal palace in the diocese of Kilmore. When Swift was gone, it was discovered that he had written the following lines on one of the windows, which looks into the church-yard. In the year 1780, the late Archdeacon Caulfield wrote some lines in answer to both. The pane was taken down by Dr Jones, bishop of Kilmore, but it has been since restored.]&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X99B10W1-headnote-2">
+            <lg n="1" xml:id="spp-X99B10W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X99B10W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X99B10W1-headnote-3">
+            <lg n="1" xml:id="spp-X99B10W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X99B10W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X99B10W1-line-1" n="1">R<hi rend="small-caps">ESOLVE</hi> me this, ye happy dead,</l>
+            <l xml:id="swift-X99B10W1-line-2" n="2">Who've lain some hundred years in bed;</l>
+            <l xml:id="swift-X99B10W1-line-3" n="3">From every persecution free</l>
+            <l xml:id="swift-X99B10W1-line-4" n="4">That in this wretched life we see;</l>
+            <l xml:id="swift-X99B10W1-line-5" n="5">Would ye resume a second birth,</l>
+            <l xml:id="swift-X99B10W1-line-6" n="6">And choose once more to live on earth?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

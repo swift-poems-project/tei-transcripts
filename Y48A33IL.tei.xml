@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 31MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y48A33IL">
+          <head type="note" n="1" xml:id="spp-Y48A33IL-headnote-1">
+            <lg n="1" xml:id="spp-Y48A33IL-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A33IL-headnote-1-line-group-1-line-1">The following Lines are said to be written by Dr. S<hi rend="small-caps">WIFT</hi> to a Friend, who asked him which were his favourite Furniture.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y48A33IL-headnote-2">
+            <lg n="1" xml:id="spp-Y48A33IL-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A33IL-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y48A33IL-headnote-3">
+            <lg n="1" xml:id="spp-Y48A33IL-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A33IL-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y48A33IL-line-1" n="1"><hi rend="display-initial">T</hi>HE Furniture that best doth please</l>
+            <l xml:id="swift-Y48A33IL-line-2" n="2">St. <hi rend="italics">Patrick</hi>'s Dean, good Sir, are these;</l>
+            <l xml:id="swift-Y48A33IL-line-3" n="3">The <hi rend="italics">Knife</hi> and <hi rend="italics">Fork</hi>, with which I <hi rend="italics">eat</hi>,</l>
+            <l xml:id="swift-Y48A33IL-line-4" n="4">And next the <hi rend="italics">Pot</hi> that <hi rend="italics">boils</hi> the <hi rend="italics">Meat</hi>;</l>
+            <l xml:id="swift-Y48A33IL-line-5" n="5">The next to be preferr'd, I think,</l>
+            <l xml:id="swift-Y48A33IL-line-6" n="6">Is the <hi rend="italics">Glass</hi> in which I <hi rend="italics">drink</hi>;</l>
+            <l xml:id="swift-Y48A33IL-line-7" n="7">The Shelves on which my <hi rend="italics">Books</hi> I keep,</l>
+            <l xml:id="swift-Y48A33IL-line-8" n="8">And the <hi rend="italics">Bed</hi> in which I <hi rend="italics">sleep</hi>;</l>
+            <l xml:id="swift-Y48A33IL-line-9" n="9">An Antique <hi rend="italics">Elbow Chair</hi> between,</l>
+            <l xml:id="swift-Y48A33IL-line-10" n="10">Big enough to hold the Dean;</l>
+            <l xml:id="swift-Y48A33IL-line-11" n="11">And the <hi rend="italics">Stove</hi> that gives Delight,</l>
+            <l xml:id="swift-Y48A33IL-line-12" n="12">In the cold, bleak, wintry Night:</l>
+            <l xml:id="swift-Y48A33IL-line-13" n="13">To these we add a Thing <hi rend="italics">below</hi>,</l>
+            <l xml:id="swift-Y48A33IL-line-14" n="14">More for <hi rend="italics">Use</hi> reserv'd than <hi rend="italics">Shew</hi>:</l>
+            <l xml:id="swift-Y48A33IL-line-15" n="15">These are what the Dean do please;</l>
+            <l xml:id="swift-Y48A33IL-line-16" n="16">All <hi rend="italics">superfluous</hi> are but <hi rend="italics">these</hi>.
+Y48A33IL   </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

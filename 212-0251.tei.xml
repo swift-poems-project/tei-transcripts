@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ad A<hi rend="small-caps">MICUM</hi> Eruditum<lb/>  <hi rend="italics">THOMAM SHERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWhite 26MY92"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="212-0251">
+          <head type="note" n="1" xml:id="spp-212-0251-headnote-1">
+            <lg n="1" xml:id="spp-212-0251-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-212-0251-headnote-1-line-group-1-line-1">Scripsit <hi rend="italics">Oct. Ann. Dom.</hi> 1717.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-212-0251-headnote-2">
+            <lg n="1" xml:id="spp-212-0251-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-212-0251-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-212-0251-headnote-3">
+            <lg n="1" xml:id="spp-212-0251-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-212-0251-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-212-0251-line-1" n="1"><hi rend="display-initial">D</hi>E<hi rend="small-caps">LICIÆ</hi> <hi rend="italics">Sheridan</hi> Musarum, dulcis amice,</l>
+            <l xml:id="swift-212-0251-line-2" n="2">Sic tibi propitius Permessi ad flumen <hi rend="italics">Apollo</hi></l>
+            <l xml:id="swift-212-0251-line-3" n="3">Occurrat, seu te mimum convivia rident;</l>
+            <l xml:id="swift-212-0251-line-4" n="4">Æquivocosve sales spargis, seu ludere versu</l>
+            <l xml:id="swift-212-0251-line-5" n="5">Malles; dic, <hi rend="italics">Sheridan</hi>, quisnam fuit ille Deorum,</l>
+            <l xml:id="swift-212-0251-line-6" n="6">Quæ melior natura orto tibi tradidit artem</l>
+            <l xml:id="swift-212-0251-line-7" n="7">Rimandi genium puerorum, atq; ima cerebri</l>
+            <l xml:id="swift-212-0251-line-8" n="8">Scrutandi? Tibi nascenti ad cunabula <hi rend="italics">Pallas</hi></l>
+            <l xml:id="swift-212-0251-line-9" n="9">Astitit; &amp; dixit, mentis præsaga futuræ,</l>
+            <l xml:id="swift-212-0251-line-10" n="10">Heu puer infelix! nostro sub sydere natus;</l>
+            <l xml:id="swift-212-0251-line-11" n="11">Nam tu pectus eris sine corpore, corporis umbra;</l>
+            <l xml:id="swift-212-0251-line-12" n="12">Sed levitate umbram superabis, voce cicadam:</l>
+            <l xml:id="swift-212-0251-line-13" n="13">om.</l>
+            <l xml:id="swift-212-0251-line-14" n="14">Musca femur, palmas tibi Mus dedit, ardea crura.</l>
+            <l xml:id="swift-212-0251-line-15" n="15">Corpore sed tenui tibi quod natura negavit;</l>
+            <l xml:id="swift-212-0251-line-16" n="16">Hoc animi dotes supplebunt; teq; docente,</l>
+            <l xml:id="swift-212-0251-line-17" n="17">Nec longum Tempus, surget tibi docta juventus,</l>
+            <l xml:id="swift-212-0251-line-18" n="18">Artibus egregiis animas instructa novellas.</l>
+            <l xml:id="swift-212-0251-line-19" n="19">om.</l>
+            <l xml:id="swift-212-0251-line-20" n="20">Grex hinc Pœonius venit, ecce, <hi rend="italics">salutifer</hi> orbi.</l>
+            <l xml:id="swift-212-0251-line-21" n="21">Ast, illi causas orant; his infula visa est</l>
+            <l xml:id="swift-212-0251-line-22" n="22">Divinam capiti nodo constringere mitram.</l>
+            <l rend="indent(1)" xml:id="swift-212-0251-line-23" n="23"><lb/>N<hi rend="small-caps">ATALIS</hi> te horæ non fallunt signa; sed usq;</l>
+            <l xml:id="swift-212-0251-line-24" n="24">Conscius, expedias puero seu lætus <hi rend="italics">Apollo</hi></l>
+            <l xml:id="swift-212-0251-line-25" n="25">Nascenti arrisit; sive illum frigidus horror</l>
+            <l xml:id="swift-212-0251-line-26" n="26">Saturni premit, aut septem inflavere triones.</l>
+            <l rend="indent(1)" xml:id="swift-212-0251-line-27" n="27"><lb/>Q<hi rend="small-caps">UIN</hi> tu altè penitusq; latentia semina cernis,</l>
+            <l xml:id="swift-212-0251-line-28" n="28">Quæq; diu obtundendo olim sub luminis auras</l>
+            <l xml:id="swift-212-0251-line-29" n="29">Erumpent, promis; quo ritu sæpè puella</l>
+            <l xml:id="swift-212-0251-line-30" n="30">Sub cinere hesterno sopitos suscitat ignes.</l>
+            <l rend="indent(1)" xml:id="swift-212-0251-line-31" n="31"><lb/>T<hi rend="small-caps">E</hi> Dominum agnoscit quocunq; sub aere natus;</l>
+            <l xml:id="swift-212-0251-line-32" n="32">Quos indulgentis nimium custodia matris</l>
+            <l xml:id="swift-212-0251-line-33" n="33">Pessundat: Nam sæpè vides in stipite matrem.</l>
+            <l rend="indent(1)" xml:id="swift-212-0251-line-34" n="34"><lb/>A<hi rend="small-caps">UREUS</hi> at ramus venerandæ dona Sibyllæ,</l>
+            <l xml:id="swift-212-0251-line-35" n="35">Æneæ sedes tantùm patefecit Avernas:</l>
+            <l xml:id="swift-212-0251-line-36" n="36">Sæpè puer, tua quem tetigit semel aurea virga,</l>
+            <l xml:id="swift-212-0251-line-37" n="37">Cœlumq; terrasq; videt, noctemq; profundam.</l>
+            <l xml:id="swift-212-0251-line-38" n="38">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Judas</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="806-ROGP">
+          <head type="note" n="1" xml:id="spp-806-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-806-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-806-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-806-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-806-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-806-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-806-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-806-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-806-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-806-ROGP-line-1" n="1">By the just vengeance of incensed skies,</l>
+            <l xml:id="swift-806-ROGP-line-2" n="2">Poor Bishop Judas, late repenting, dies;</l>
+            <l xml:id="swift-806-ROGP-line-3" n="3">The Jews engaged him with a paltry bribe,</l>
+            <l xml:id="swift-806-ROGP-line-4" n="4">Amounting hardly to a crown a tribe;</l>
+            <l xml:id="swift-806-ROGP-line-5" n="5">Which, though his conscience forced him to restore,</l>
+            <l xml:id="swift-806-ROGP-line-6" n="6">(And, parsons tell us, no man can do more)</l>
+            <l xml:id="swift-806-ROGP-line-7" n="7">Yet, through despair, of God and man accursed,</l>
+            <l xml:id="swift-806-ROGP-line-8" n="8">He lost his bishopric, and hanged, or burst.</l>
+            <l xml:id="swift-806-ROGP-line-9" n="9">Those former ages differed much from this:</l>
+            <l xml:id="swift-806-ROGP-line-10" n="10">Judas betrayed his master with a kiss:</l>
+            <l xml:id="swift-806-ROGP-line-11" n="11">But, some have kissed the gospel fifty times,</l>
+            <l xml:id="swift-806-ROGP-line-12" n="12">Whose perjury's the least of all their crimes:</l>
+            <l xml:id="swift-806-ROGP-line-13" n="13">Some who can perjure through a two-inch board;</l>
+            <l xml:id="swift-806-ROGP-line-14" n="14">Yet keep their bishoprics, and 'scape the cord.</l>
+            <l xml:id="swift-806-ROGP-line-15" n="15">Like hemp, which by a skilful spinster drawn</l>
+            <l xml:id="swift-806-ROGP-line-16" n="16">To slender threads, may sometimes pass for lawn.</l>
+            <l rend="indent(1)" xml:id="swift-806-ROGP-line-17" n="17"><lb/>As ancient Judas by transgression fell,</l>
+            <l xml:id="swift-806-ROGP-line-18" n="18">And burst asunder e'er he went to hell;</l>
+            <l xml:id="swift-806-ROGP-line-19" n="19">So, could we see a set of new Iscariots,</l>
+            <l xml:id="swift-806-ROGP-line-20" n="20">Come headlong tumbling from their mitred chariots,</l>
+            <l xml:id="swift-806-ROGP-line-21" n="21">Each modern Judas perish like the first;</l>
+            <l xml:id="swift-806-ROGP-line-22" n="22">Drop from the tree with all his bowels burst;</l>
+            <l xml:id="swift-806-ROGP-line-23" n="23">Who could forbear, that viewed each guilty face,</l>
+            <l xml:id="swift-806-ROGP-line-24" n="24">To cry, 'Lo, Judas, gone to his own place:</l>
+            <l xml:id="swift-806-ROGP-line-25" n="25">His habitation let all men forsake,</l>
+            <l xml:id="swift-806-ROGP-line-26" n="26">And let his bishopric another take.'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

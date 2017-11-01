@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3FE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y48A216H">
+          <head type="note" n="1" xml:id="spp-Y48A216H-headnote-1">
+            <lg n="1" xml:id="spp-Y48A216H-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A216H-headnote-1-line-group-1-line-1">to make \<hi rend="italics">del·2-3·words</hi>\ up this side, I send you the Deane of S<hi rend="superscript">t</hi> Patricks answer to a Friend of his who asked him, which were his favorite Furniture.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y48A216H-headnote-2">
+            <lg n="1" xml:id="spp-Y48A216H-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A216H-headnote-2-line-group-1-line-1">nothing more now remains so I take my leave, and w<hi rend="superscript">th</hi> service to my Lady, I rest D<hi rend="superscript">r</hi> Cecill <lb/> your most ready &amp; Humble <lb/> servitor. John Dowdall.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y48A216H-headnote-3">
+            <lg n="1" xml:id="spp-Y48A216H-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A216H-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y48A216H-line-1" n="1">The Furniture that best do's Please</l>
+            <l xml:id="swift-Y48A216H-line-2" n="2">S<hi rend="superscript">ṭ</hi> Patrick's Dean Good S<hi rend="superscript">ṛ</hi> are these;</l>
+            <l xml:id="swift-Y48A216H-line-3" n="3">The Knife, and Fork, with which J Eat,</l>
+            <l xml:id="swift-Y48A216H-line-4" n="4">And next the Pott that boyls the Meat;</l>
+            <l xml:id="swift-Y48A216H-line-5" n="5">The next to be prefer'd, I think,</l>
+            <l xml:id="swift-Y48A216H-line-6" n="6">Is the Glass in which I Drink,</l>
+            <l xml:id="swift-Y48A216H-line-7" n="7">The shelves on which my books I keep,</l>
+            <l xml:id="swift-Y48A216H-line-8" n="8">And the Bed in which I sleep,</l>
+            <l xml:id="swift-Y48A216H-line-9" n="9">An Antique Elbow Chair between,</l>
+            <l xml:id="swift-Y48A216H-line-10" n="10">Big Enough to hold the Dean,</l>
+            <l xml:id="swift-Y48A216H-line-11" n="11">And the stove that Gives delight,</l>
+            <l xml:id="swift-Y48A216H-line-12" n="12">In the cold, bleak wintry Night;</l>
+            <l xml:id="swift-Y48A216H-line-13" n="13">To These we add a Thing below,</l>
+            <l xml:id="swift-Y48A216H-line-14" n="14">More for use, Reserv'd than show;</l>
+            <l rend="indent(1)" xml:id="swift-Y48A216H-line-15" n="15">These are what the Dean do Please,</l>
+            <l rend="indent(1)" xml:id="swift-Y48A216H-line-16" n="16">All superfluous are, but these.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

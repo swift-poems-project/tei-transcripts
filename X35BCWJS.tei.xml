@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Verse embedded in Swift to Sheridan, 25 June 1725]</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AMP 4DE95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JIF 20SE98 agt X35B0801; √'d JIF 27SE07 agt X35B10M1; ed. JW 9JA15; intro and concluding sentences added from 10M2_O, believed identical, JW 5FE17; EMENDED JW 9FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X35BCWJS">
+          <head type="note" n="1" xml:id="spp-X35BCWJS-headnote-1">
+            <lg n="1" xml:id="spp-X35BCWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35BCWJS-headnote-1-line-group-1-line-1"><lb/>The Lady's Room smoaks; the Rain drops from the Skies into the Kitchen; our Servants eat and drink like the Devil, and pray for Rain, which entertains them at Cards and Sleep; which are much lighter than Spades, Sledges, and Crows. Their Maxim is,&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X35BCWJS-headnote-2">
+            <lg n="1" xml:id="spp-X35BCWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35BCWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X35BCWJS-headnote-3">
+            <lg n="1" xml:id="spp-X35BCWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35BCWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-X35BCWJS-line-1" n="1"><hi rend="italics">Eat like a Turk,</hi></l><l rend="indent(1)" xml:id="swift-X35BCWJS-line-2" n="2">Sleep like a Dormouse;</l><l xml:id="swift-X35BCWJS-line-3" n="3">Be last at Work,</l><l xml:id="swift-X35BCWJS-line-4" n="4">Be last at Work,At Victuals foremost</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

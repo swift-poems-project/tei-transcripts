@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">An Elegy on Dicky and Dolly</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="430-ROGP">
+          <head type="note" n="1" xml:id="spp-430-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-430-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-430-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-430-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-430-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-430-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-430-ROGP-line-1" n="1">Under this stone lie Dicky and Dolly,</l>
+            <l xml:id="swift-430-ROGP-line-2" n="2">Doll dying first, Dick grew melancholy,</l>
+            <l xml:id="swift-430-ROGP-line-3" n="3">For Dick without Doll thought living a folly.</l>
+            <l xml:id="swift-430-ROGP-line-4" n="4"><lb/>Dick lost in Doll a wife tender and dear,</l>
+            <l xml:id="swift-430-ROGP-line-5" n="5">But Dick lost by Doll, twelve hundred a year,</l>
+            <l xml:id="swift-430-ROGP-line-6" n="6">A loss that Dick thought, no mortal could bear.</l>
+            <l xml:id="swift-430-ROGP-line-7" n="7"><lb/>Dick sighed for his Doll and his mournful arms crossed,</l>
+            <l xml:id="swift-430-ROGP-line-8" n="8">Thought much of his Doll, and the jointure he lost;</l>
+            <l xml:id="swift-430-ROGP-line-9" n="9">The first vexed him much, but the other vexed most.</l>
+            <l xml:id="swift-430-ROGP-line-10" n="10"><lb/>Thus loaded with grief, Dick sighed and he cried,</l>
+            <l xml:id="swift-430-ROGP-line-11" n="11">To live without both full three days he tried:</l>
+            <l xml:id="swift-430-ROGP-line-12" n="12">And liked neither loss, and so quietly died.</l>
+            <l xml:id="swift-430-ROGP-line-13" n="13"><lb/>One bed while alive held both Doll and Dick,</l>
+            <l xml:id="swift-430-ROGP-line-14" n="14">One coach oft carried them when they were quick,</l>
+            <l xml:id="swift-430-ROGP-line-15" n="15">One grave now contains them both haec et hic.</l>
+            <l xml:id="swift-430-ROGP-line-16" n="16"><lb/>Dick left a pattern few will copy after,</l>
+            <l xml:id="swift-430-ROGP-line-17" n="17">Then, reader, pray shed some tears of salt water,</l>
+            <l xml:id="swift-430-ROGP-line-18" n="18">For so sad a tale is no subject of laughter.</l>
+            <l xml:id="swift-430-ROGP-line-19" n="19">Meath smiles for the jointure, though gotten so late;</l>
+            <l xml:id="swift-430-ROGP-line-20" n="20">The son laughs that got the hard-gotten estate,</l>
+            <l xml:id="swift-430-ROGP-line-21" n="21">And Cuffe grins for getting the Alicant plate.</l>
+            <l xml:id="swift-430-ROGP-line-22" n="22"><lb/>Here quiet they lie, in hopes to rise one day,</l>
+            <l xml:id="swift-430-ROGP-line-23" n="23">Both solemnly put, in this hole on a Sunday,</l>
+            <l xml:id="swift-430-ROGP-line-24" n="24">And here rest, <hi rend="italics">sic transit gloria mundi</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 24JL10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y47A1171">
+          <head type="note" n="1" xml:id="spp-Y47A1171-headnote-1">
+            <lg n="1" xml:id="spp-Y47A1171-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y47A1171-headnote-1-line-group-1-line-1">The Dean in his Tour through <hi rend="italics">Ireland</hi>, visiting <hi rend="italics">Waterford</hi>, enquired who were the Clergy resident there? Amongst them <hi rend="italics">Robinson</hi> was his Acquaintance, and accepted the Dean's Invitation to shew him the City. Passing near the Remains of an old public Building, the Dean observed a carved Stone; it was at some small Distance, but the Way to it so covered with the most nauseous Filth, that he prevailed on <hi rend="italics">Robinson</hi> to carry him thither on his Back. When he had satisfied his Curiosity, by viewing the Arms of the City, with this Motto,</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y47A1171-headnote-2">
+            <lg n="1" xml:id="spp-Y47A1171-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y47A1171-headnote-2-line-group-1-line-1"><hi rend="italics">Urbs intacta manet</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y47A1171-headnote-3">
+            <lg n="1" xml:id="spp-Y47A1171-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y47A1171-headnote-3-line-group-1-line-1">he returned to his Inn, and wrote the following Stanza.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y47A1171-line-1" n="1">U<hi rend="small-caps">RBS INTACTA MANET</hi>────── <hi rend="italics">semperque intacta manebit:</hi></l>
+            <l xml:id="swift-Y47A1171-line-2" n="2"><hi rend="italics">Tangere Crabrones quis bene sanus amat</hi>?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

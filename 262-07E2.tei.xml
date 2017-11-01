@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-262-07E2-title-1">Verses cut by two of the D<hi rend="small-caps">EAN</hi>'s friends <ref target="#spp-262-07E2-footnote-title-1">1</ref><note n="1" xml:id="spp-262-07E2-footnote-title-1" place="foot">These were written by Dr Delany in conjunction with Stella, and produced the verses, intitled, <hi rend="italics">Apollo to the Dean</hi>. See vol. 6. p. 254</note><lb/>  upon a pane of glass in one of his parlours.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 25JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-262-07E2-footnote-title-1 #spp-262-07E2-title-1"/>
+        </linkGrp>
+        <div n="262-07E2">
+          <head type="note" n="1" xml:id="spp-262-07E2-headnote-1">
+            <lg n="1" xml:id="spp-262-07E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-262-07E2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-262-07E2-headnote-2">
+            <lg n="1" xml:id="spp-262-07E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-262-07E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-262-07E2-headnote-3">
+            <lg n="1" xml:id="spp-262-07E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-262-07E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-262-07E2-line-1" n="1"><hi rend="display-initial">A</hi> Bard, on whom Phœbus his spirit bestow'd,</l>
+            <l xml:id="swift-262-07E2-line-2" n="2">Resolving t'acknowledge the bounty he ow'd,</l>
+            <l xml:id="swift-262-07E2-line-3" n="3">Found out a new method at once of confessing,</l>
+            <l xml:id="swift-262-07E2-line-4" n="4">And making the most of so mighty a blessing.</l>
+            <l xml:id="swift-262-07E2-line-5" n="5">To the god he'd be grateful, but mortals he'd chouse</l>
+            <l xml:id="swift-262-07E2-line-6" n="6">By making his patron preside in his house;</l>
+            <l xml:id="swift-262-07E2-line-7" n="7">And wisely foresaw this advantage from thence,</l>
+            <l xml:id="swift-262-07E2-line-8" n="8">That the god would in honour bear most of th' expence:</l>
+            <l xml:id="swift-262-07E2-line-9" n="9">So the bard he finds drink, and leaves Phœbus to treat</l>
+            <l xml:id="swift-262-07E2-line-10" n="10">With the thoughts he inspires, regardless of meat.</l>
+            <l xml:id="swift-262-07E2-line-11" n="11">Hence they that come hither expecting to dine,</l>
+            <l xml:id="swift-262-07E2-line-12" n="12">Are always fobb'd off with sheer wit and sheer wine.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

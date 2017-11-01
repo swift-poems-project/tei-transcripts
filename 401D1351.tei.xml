@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPIGRAMS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 10JE07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401D1351">
+          <head type="note" n="1" xml:id="spp-401D1351-headnote-1">
+            <lg n="1" xml:id="spp-401D1351-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401D1351-headnote-1-line-group-1-line-1">Written upon a Window in an Inn.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-401D1351-headnote-2">
+            <lg n="1" xml:id="spp-401D1351-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401D1351-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-401D1351-headnote-3">
+            <lg n="1" xml:id="spp-401D1351-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401D1351-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-401D1351-line-1" n="1"><hi rend="display-initial">W</hi>E fly from luxury and wealth,</l>
+            <l xml:id="swift-401D1351-line-2" n="2">To hardships in pursuit of health;</l>
+            <l xml:id="swift-401D1351-line-3" n="3">From gen'rous wines and costly fare,</l>
+            <l xml:id="swift-401D1351-line-4" n="4">And dozing in an easy chair;</l>
+            <l xml:id="swift-401D1351-line-5" n="5">Pursue the Goddess Health in vain,</l>
+            <l xml:id="swift-401D1351-line-6" n="6">To find her in a country scene,</l>
+            <l xml:id="swift-401D1351-line-7" n="7">And ev'ry where her footsteps trace,</l>
+            <l xml:id="swift-401D1351-line-8" n="8">And see her marks in ev'ry face;</l>
+            <l xml:id="swift-401D1351-line-9" n="9">And still her favourites we meet,</l>
+            <l xml:id="swift-401D1351-line-10" n="10">Crouding the roads with naked feet.</l>
+            <l xml:id="swift-401D1351-line-11" n="11">But oh! so faintly we pursue,</l>
+            <l xml:id="swift-401D1351-line-12" n="12">We ne'er can have her full in view.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

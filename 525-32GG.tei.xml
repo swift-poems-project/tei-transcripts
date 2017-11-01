@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The LADY's Dressing-room.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 23DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="525-32GG">
+          <head type="note" n="1" xml:id="spp-525-32GG-headnote-1">
+            <lg n="1" xml:id="spp-525-32GG-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-525-32GG-headnote-1-line-group-1-line-1"><hi rend="italics">By Dr</hi> S<hi rend="small-caps">WIFT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-525-32GG-headnote-2">
+            <lg n="1" xml:id="spp-525-32GG-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-525-32GG-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-525-32GG-headnote-3">
+            <lg n="1" xml:id="spp-525-32GG-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-525-32GG-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-525-32GG-line-1" n="1"><hi rend="display-initial">F</hi>IVE hours (and who can do it less in?)</l>
+            <l xml:id="swift-525-32GG-line-2" n="2">By haughty <hi rend="italics">Cælia</hi> spent in dressing;</l>
+            <l xml:id="swift-525-32GG-line-3" n="3">The goddess from her chamber issues</l>
+            <l xml:id="swift-525-32GG-line-4" n="4">Array'd in lace, brocade and tissues.</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-5" n="5"><hi rend="italics">Strephon</hi>, who found the room was void,</l>
+            <l xml:id="swift-525-32GG-line-6" n="6">And <hi rend="italics">Betty</hi> otherwise employ'd,</l>
+            <l xml:id="swift-525-32GG-line-7" n="7">Stole in, and took a strict survey</l>
+            <l xml:id="swift-525-32GG-line-8" n="8">Of all the litter, as it lay,</l>
+            <l xml:id="swift-525-32GG-line-9" n="9">Whereof to make the matter clear,</l>
+            <l xml:id="swift-525-32GG-line-10" n="10">An inventory follows here:</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-11" n="11">And first a dirty smock appear'd,</l>
+            <l xml:id="swift-525-32GG-line-12" n="12">Beneath the armpits well besmear'd,</l>
+            <l xml:id="swift-525-32GG-line-13" n="13"><hi rend="italics">Strephon</hi> the rogue display'd it wide,</l>
+            <l xml:id="swift-525-32GG-line-14" n="14">And turn'd it round on ev'ry side.</l>
+            <l xml:id="swift-525-32GG-line-15" n="15">On such a point, few words are best,</l>
+            <l xml:id="swift-525-32GG-line-16" n="16">And <hi rend="italics">Strephon</hi> bids us guess the rest,</l>
+            <l xml:id="swift-525-32GG-line-17" n="17">But swears how damnably the men lye,</l>
+            <l xml:id="swift-525-32GG-line-18" n="18">In calling <hi rend="italics">Cælia</hi> sweet and cleanly.</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-19" n="19">Now listen while he next produces,</l>
+            <l xml:id="swift-525-32GG-line-20" n="20">The various combs for various uses,</l>
+            <l xml:id="swift-525-32GG-line-21" n="21">Fill'd up with dirt so closely fixt,</l>
+            <l xml:id="swift-525-32GG-line-22" n="22">No brush cou'd force a way betwixt.</l>
+            <l xml:id="swift-525-32GG-line-23" n="23">A paste of composition rare</l>
+            <l xml:id="swift-525-32GG-line-24" n="24">Sweet dandriff, powder, lead, and hair;</l>
+            <l xml:id="swift-525-32GG-line-25" n="25">A forehead-cloth with oil upon't,</l>
+            <l xml:id="swift-525-32GG-line-26" n="26">To smooth the wrinkles on her front,</l>
+            <l xml:id="swift-525-32GG-line-27" n="27">Here allum flower to stop the steams,</l>
+            <l xml:id="swift-525-32GG-line-28" n="28">Exhal'd from sour unsavoury streams;</l>
+            <l xml:id="swift-525-32GG-line-29" n="29">There night-gloves made of <hi rend="italics">Tripsey</hi>'s hide,</l>
+            <l xml:id="swift-525-32GG-line-30" n="30">The bitch bequeath'd her when she dy'd,</l>
+            <l xml:id="swift-525-32GG-line-31" n="31">With puppy water, beauties help,</l>
+            <l xml:id="swift-525-32GG-line-32" n="32">Distill'd from <hi rend="italics">Tripsey</hi>'s darling whelp.</l>
+            <l xml:id="swift-525-32GG-line-33" n="33">Here gally-pots and vials plac'd,</l>
+            <l xml:id="swift-525-32GG-line-34" n="34">Some fill'd with washes, some with paste,</l>
+            <l xml:id="swift-525-32GG-line-35" n="35">Some with pomatums, paints and slops,</l>
+            <l xml:id="swift-525-32GG-line-36" n="36">And ointments good for scabby chops.</l>
+            <l xml:id="swift-525-32GG-line-37" n="37">Hard by a filthy bason stands,</l>
+            <l xml:id="swift-525-32GG-line-38" n="38">Foul'd with the scow'ring of her hands.</l>
+            <l xml:id="swift-525-32GG-line-39" n="39">The bason takes whatever comes,</l>
+            <l xml:id="swift-525-32GG-line-40" n="40">The scraping from her teeth and gums;</l>
+            <l xml:id="swift-525-32GG-line-41" n="41">A nasty compound of all hues,</l>
+            <l xml:id="swift-525-32GG-line-42" n="42">For here she spits, and there she spues,</l>
+            <l xml:id="swift-525-32GG-line-43" n="43">But O! it turn'd poor <hi rend="italics">Strephon</hi>'s bowels,</l>
+            <l xml:id="swift-525-32GG-line-44" n="44">When he beheld and smelt the towels,</l>
+            <l xml:id="swift-525-32GG-line-45" n="45">Begumm'd, bematter'd and beslim'd,</l>
+            <l xml:id="swift-525-32GG-line-46" n="46">With dirt, and sweat, and ear-wax grim'd.</l>
+            <l xml:id="swift-525-32GG-line-47" n="47">No object <hi rend="italics">Strephon</hi>'s eye escapes;</l>
+            <l xml:id="swift-525-32GG-line-48" n="48">Here pettycoats in frowzy heaps,</l>
+            <l xml:id="swift-525-32GG-line-49" n="49">Nor be the handkerchiefs forgot,</l>
+            <l xml:id="swift-525-32GG-line-50" n="50">All varnish'd o'er with snuff and snot,</l>
+            <l xml:id="swift-525-32GG-line-51" n="51">The stockings why should I expose,</l>
+            <l xml:id="swift-525-32GG-line-52" n="52">Stain'd with the marks of stinking toes,</l>
+            <l xml:id="swift-525-32GG-line-53" n="53">Or greasy coifs and pinners reeking,</l>
+            <l xml:id="swift-525-32GG-line-54" n="54">Which <hi rend="italics">Cælia</hi> slept almost a week in.</l>
+            <l xml:id="swift-525-32GG-line-55" n="55">A pair of tweezers next he found,</l>
+            <l xml:id="swift-525-32GG-line-56" n="56">To pluck her brows in arches round,</l>
+            <l xml:id="swift-525-32GG-line-57" n="57">Or hairs that sink the forehead low,</l>
+            <l xml:id="swift-525-32GG-line-58" n="58">Or on her chin like bristles grow.</l>
+            <l xml:id="swift-525-32GG-line-59" n="59">The virtues we must not let pass</l>
+            <l xml:id="swift-525-32GG-line-60" n="60">Of <hi rend="italics">Cælia</hi>'s magnifying glass,</l>
+            <l xml:id="swift-525-32GG-line-61" n="61">When frighted <hi rend="italics">Strephon</hi> cast his eye on't,</l>
+            <l xml:id="swift-525-32GG-line-62" n="62">It shewed the visage of a giant.</l>
+            <l xml:id="swift-525-32GG-line-63" n="63">A glass that can to sight disclose,</l>
+            <l xml:id="swift-525-32GG-line-64" n="64">The smallest worm in <hi rend="italics">Cælia</hi>'s nose,</l>
+            <l xml:id="swift-525-32GG-line-65" n="65">And faithfully direct her nail,</l>
+            <l xml:id="swift-525-32GG-line-66" n="66">To squeeze it out from head to tail;</l>
+            <l xml:id="swift-525-32GG-line-67" n="67">For catch it nicely by the head,</l>
+            <l xml:id="swift-525-32GG-line-68" n="68">It must come out alive or dead.</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-69" n="69">Why <hi rend="italics">Strephon</hi> will you tell the rest,</l>
+            <l xml:id="swift-525-32GG-line-70" n="70">And must you needs describe the chest;</l>
+            <l xml:id="swift-525-32GG-line-71" n="71">That careless wench! no creature warn her;</l>
+            <l xml:id="swift-525-32GG-line-72" n="72">To move it out from yonder corner.</l>
+            <l xml:id="swift-525-32GG-line-73" n="73">But leave it standing full in sight,</l>
+            <l xml:id="swift-525-32GG-line-74" n="74">For you to exercise your spight;</l>
+            <l xml:id="swift-525-32GG-line-75" n="75">In vain the workman shew'd his wit,</l>
+            <l xml:id="swift-525-32GG-line-76" n="76">With rings and hinges counterfeit,</l>
+            <l xml:id="swift-525-32GG-line-77" n="77">To make it seem in this disguise,</l>
+            <l xml:id="swift-525-32GG-line-78" n="78">A cabinet to vulgar eyes,</l>
+            <l xml:id="swift-525-32GG-line-79" n="79">Which <hi rend="italics">Strephon</hi> ventured to look in,</l>
+            <l xml:id="swift-525-32GG-line-80" n="80">Resolv'd to go thro' thick and thin.</l>
+            <l xml:id="swift-525-32GG-line-81" n="81">He lifts the lid, there needs no more,</l>
+            <l xml:id="swift-525-32GG-line-82" n="82">He smelt it all the time before.</l>
+            <l xml:id="swift-525-32GG-line-83" n="83">As from within <hi rend="italics">Pandora</hi>'s box,</l>
+            <l xml:id="swift-525-32GG-line-84" n="84">When <hi rend="italics">Epimetheus</hi> op'd the locks,</l>
+            <l xml:id="swift-525-32GG-line-85" n="85">A sudden universal crew,</l>
+            <l xml:id="swift-525-32GG-line-86" n="86">Of human evils upwards flew,</l>
+            <l xml:id="swift-525-32GG-line-87" n="87">He still was comforted to find,</l>
+            <l xml:id="swift-525-32GG-line-88" n="88">That hope at last remain'd behind:</l>
+            <l xml:id="swift-525-32GG-line-89" n="89">So <hi rend="italics">Strephon</hi> lifting up the lid,</l>
+            <l xml:id="swift-525-32GG-line-90" n="90">To view what in the chest was hid,</l>
+            <l xml:id="swift-525-32GG-line-91" n="91">The vapours flew from up the vent,</l>
+            <l xml:id="swift-525-32GG-line-92" n="92">But <hi rend="italics">Strephon</hi> cautious, never meant</l>
+            <l xml:id="swift-525-32GG-line-93" n="93">The bottom of the pan to grope,</l>
+            <l xml:id="swift-525-32GG-line-94" n="94">And foul his hands in search of hope.</l>
+            <l xml:id="swift-525-32GG-line-95" n="95">O never may such vile machine</l>
+            <l xml:id="swift-525-32GG-line-96" n="96">Be once in <hi rend="italics">Cælia</hi>'s chamber seen,</l>
+            <l xml:id="swift-525-32GG-line-97" n="97">O may she better learn to keep,</l>
+            <l xml:id="swift-525-32GG-line-98" n="98">Those secrets of the hoary deep.</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-99" n="99">As mutton-cutlets, prime of meat,</l>
+            <l xml:id="swift-525-32GG-line-100" n="100">Which tho' with art you salt and beat,</l>
+            <l xml:id="swift-525-32GG-line-101" n="101">As laws of cookery require,</l>
+            <l xml:id="swift-525-32GG-line-102" n="102">And toast them at the clearest fire:</l>
+            <l xml:id="swift-525-32GG-line-103" n="103">If from a down the hopeful chops,</l>
+            <l xml:id="swift-525-32GG-line-104" n="104">The fat upon a cinder drops,</l>
+            <l xml:id="swift-525-32GG-line-105" n="105">To stinking smoke it turns the flame,</l>
+            <l xml:id="swift-525-32GG-line-106" n="106">Pois'ning the flesh from whence it came.</l>
+            <l xml:id="swift-525-32GG-line-107" n="107">And up exhales a greater stench,</l>
+            <l xml:id="swift-525-32GG-line-108" n="108">For which you curse the careless wench;</l>
+            <l xml:id="swift-525-32GG-line-109" n="109">So things which must not be exprest,</l>
+            <l xml:id="swift-525-32GG-line-110" n="110">When drop'd into the reeking chest,</l>
+            <l xml:id="swift-525-32GG-line-111" n="111">Send up an excremental smell,</l>
+            <l xml:id="swift-525-32GG-line-112" n="112">To taint the part from whence they fell,</l>
+            <l xml:id="swift-525-32GG-line-113" n="113">The petticoats and gown perfume,</l>
+            <l xml:id="swift-525-32GG-line-114" n="114">Which waft a stink round ev'ry room.</l>
+            <l xml:id="swift-525-32GG-line-115" n="115">Thus finishing his grand survey,</l>
+            <l xml:id="swift-525-32GG-line-116" n="116">Disgusted <hi rend="italics">Strephon</hi> slunk away,</l>
+            <l xml:id="swift-525-32GG-line-117" n="117">Repeating in his amorous fits,</l>
+            <l xml:id="swift-525-32GG-line-118" n="118">Oh! <hi rend="italics">Cælia, Cælia, Cælia</hi> sh──s.</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-119" n="119">But vengeance, goddess never sleeping,</l>
+            <l xml:id="swift-525-32GG-line-120" n="120">Soon punish'd <hi rend="italics">Strephon</hi> for his peeping.</l>
+            <l xml:id="swift-525-32GG-line-121" n="121">His foul imagination links</l>
+            <l xml:id="swift-525-32GG-line-122" n="122">Each dame he sees, with all her stinks,</l>
+            <l xml:id="swift-525-32GG-line-123" n="123">And if unsavoury odours fly,</l>
+            <l xml:id="swift-525-32GG-line-124" n="124">Conceives a lady standing by.</l>
+            <l xml:id="swift-525-32GG-line-125" n="125">All women his description fits,</l>
+            <l xml:id="swift-525-32GG-line-126" n="126">And both ideas jump like wits,</l>
+            <l xml:id="swift-525-32GG-line-127" n="127">By vicious fancy coupled fast,</l>
+            <l xml:id="swift-525-32GG-line-128" n="128">And still appearing in contrast,</l>
+            <l xml:id="swift-525-32GG-line-129" n="129">I pity wretched <hi rend="italics">Strephon</hi>, blind</l>
+            <l xml:id="swift-525-32GG-line-130" n="130">To all the charms of female kind.</l>
+            <l rend="indent(1)" xml:id="swift-525-32GG-line-131" n="131">Should I the queen of love refuse,</l>
+            <l xml:id="swift-525-32GG-line-132" n="132">Because she rose from stinking ooze?</l>
+            <l xml:id="swift-525-32GG-line-133" n="133">To him that looks behind the scene,</l>
+            <l xml:id="swift-525-32GG-line-134" n="134"><hi rend="italics">Statira</hi>'s but some pocky quean.</l>
+            <l xml:id="swift-525-32GG-line-135" n="135">When <hi rend="italics">Cælia</hi> in her glory shows,</l>
+            <l xml:id="swift-525-32GG-line-136" n="136">If <hi rend="italics">Strephon</hi> would but stop his nose,</l>
+            <l xml:id="swift-525-32GG-line-137" n="137">Who now so impiously blasphemes</l>
+            <l xml:id="swift-525-32GG-line-138" n="138">Her ointments daubs and paints and creams;</l>
+            <l xml:id="swift-525-32GG-line-139" n="139">Her washes, slops, and ev'ry clout,</l>
+            <l xml:id="swift-525-32GG-line-140" n="140">With which he makes so foul a rout,</l>
+            <l xml:id="swift-525-32GG-line-141" n="141">He soon would learn to think like me,</l>
+            <l xml:id="swift-525-32GG-line-142" n="142">And bless his ravish'd sight to see</l>
+            <l xml:id="swift-525-32GG-line-143" n="143">Such order from confusion sprung,</l>
+            <l xml:id="swift-525-32GG-line-144" n="144">Such gaudy tulips rais'd from dung.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

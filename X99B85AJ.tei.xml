@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 26MR12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X99B85AJ">
+          <head type="note" n="1" xml:id="spp-X99B85AJ-headnote-1">
+            <lg n="1" xml:id="spp-X99B85AJ-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X99B85AJ-headnote-1-line-group-1-line-1"><hi rend="italics">The following Lines were written on a Pane of Glass in one of the Windows of Bishop</hi> B<hi rend="small-caps">EDELL</hi>'s <hi rend="italics">House, adjoining the Church-Yard till a few Years ago, when the Sash was taken down. They are supposed to be written by Doctor</hi> S<hi rend="small-caps">HERIDAN</hi>, <hi rend="italics">about the Year</hi> 1731.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X99B85AJ-headnote-2">
+            <lg n="1" xml:id="spp-X99B85AJ-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X99B85AJ-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X99B85AJ-headnote-3">
+            <lg n="1" xml:id="spp-X99B85AJ-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X99B85AJ-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X99B85AJ-line-1" n="1"><hi rend="display-initial">R</hi>ESOLVE me this, ye happy dead,</l>
+            <l xml:id="swift-X99B85AJ-line-2" n="2">Whov'e lain some hundred years in bed,</l>
+            <l xml:id="swift-X99B85AJ-line-3" n="3">From every persecution free,</l>
+            <l xml:id="swift-X99B85AJ-line-4" n="4">Which in this wretched life we see;</l>
+            <l xml:id="swift-X99B85AJ-line-5" n="5">Would ye resume a second birth,</l>
+            <l xml:id="swift-X99B85AJ-line-6" n="6">And chuse once more to live on earth?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

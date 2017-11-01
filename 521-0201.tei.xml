@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On <hi rend="italics">Stephen Duck</hi>, the Thresher, and<lb/>  favourite Poet,<lb/>  A <hi rend="italics">QUIBBLING EPIGRAM</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SS 29JL90"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 9AU90; √'d JW 14NO95 agt 0251; √'d SB 27JA96 agt 0201; ed. JW 26SE08; √'d JW 2OC08 agt WILH; ed. JW 15SE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="521-0201">
+          <head type="note" n="1" xml:id="spp-521-0201-headnote-1">
+            <lg n="1" xml:id="spp-521-0201-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-0201-headnote-1-line-group-1-line-1">Written in the Year 1730.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-521-0201-headnote-2">
+            <lg n="1" xml:id="spp-521-0201-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-0201-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-521-0201-headnote-3">
+            <lg n="1" xml:id="spp-521-0201-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-0201-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-521-0201-line-1" n="1"><hi rend="display-initial">T</hi>HE Thresher <hi rend="italics">Duck</hi>, could o'er the <hi rend="italics">Q</hi>──── prevail.</l>
+            <l xml:id="swift-521-0201-line-2" n="2">The Proverb says; <hi rend="italics">No Fence against a Flayl</hi>.</l>
+            <l xml:id="swift-521-0201-line-3" n="3">From <hi rend="italics">threshing</hi> Corn, he turns to <hi rend="italics">thresh</hi> his Brains;</l>
+            <l xml:id="swift-521-0201-line-4" n="4">For which Her <hi rend="italics">M────y</hi> allows him <hi rend="italics">Grains</hi>.</l>
+            <l xml:id="swift-521-0201-line-5" n="5">Though 'tis confess't that those who ever saw</l>
+            <l xml:id="swift-521-0201-line-6" n="6">His Poems, think them all not worth a <hi rend="italics">Straw</hi>.</l>
+            <l xml:id="swift-521-0201-line-7" n="7">Thrice happy <hi rend="italics">Duck</hi>, employ'd in threshing <hi rend="italics">Stubble</hi>!</l>
+            <l xml:id="swift-521-0201-line-8" n="8">Thy Toil is lessen'd, and thy Profits double.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

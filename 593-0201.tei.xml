@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">CASSINUS</hi> and <hi rend="italics">PETER</hi>.<lb/>  A<lb/>  Tragical ELEGY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SS 19JE90"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="593-0201">
+          <head type="note" n="1" xml:id="spp-593-0201-headnote-1">
+            <lg n="1" xml:id="spp-593-0201-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-593-0201-headnote-1-line-group-1-line-1">Written in the Year 1731.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-593-0201-headnote-2">
+            <lg n="1" xml:id="spp-593-0201-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-593-0201-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-593-0201-headnote-3">
+            <lg n="1" xml:id="spp-593-0201-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-593-0201-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-593-0201-line-1" n="1"><hi rend="display-initial">T</hi>WO College Sophs of <hi rend="italics">Cambridge</hi> Growth,</l>
+            <l xml:id="swift-593-0201-line-2" n="2">Both special Wits, and Lovers both,</l>
+            <l xml:id="swift-593-0201-line-3" n="3">Conferring, as they us'd to meet,</l>
+            <l xml:id="swift-593-0201-line-4" n="4">On Love and Books, in Rapture sweet;</l>
+            <l xml:id="swift-593-0201-line-5" n="5">(Muse, find me Names to fit my Metre,</l>
+            <l xml:id="swift-593-0201-line-6" n="6"><hi rend="italics">Cassinus</hi> this, and t'other <hi rend="italics">Peter</hi>)</l>
+            <l xml:id="swift-593-0201-line-7" n="7">Friend <hi rend="italics">Peter</hi> to <hi rend="italics">Cassinus</hi> goes,</l>
+            <l xml:id="swift-593-0201-line-8" n="8">To chat a while, and warm his Nose:</l>
+            <l xml:id="swift-593-0201-line-9" n="9">But, such a Sight was never seen,</l>
+            <l xml:id="swift-593-0201-line-10" n="10">The Lad lay swallow'd up in Spleen;</l>
+            <l xml:id="swift-593-0201-line-11" n="11">He seem'd as just crept out of Bed;</l>
+            <l xml:id="swift-593-0201-line-12" n="12">One greasy Stocking round his Head,</l>
+            <l xml:id="swift-593-0201-line-13" n="13">The t'other he sat down to darn</l>
+            <l xml:id="swift-593-0201-line-14" n="14">With Threads of diff'rent colour'd Yarn.</l>
+            <l xml:id="swift-593-0201-line-15" n="15">His Breeches torn, exposing wide</l>
+            <l xml:id="swift-593-0201-line-16" n="16">A ragged Shirt, and tawny Hyde.</l>
+            <l xml:id="swift-593-0201-line-17" n="17">Scorch't were his Shins, his Legs were bare,</l>
+            <l xml:id="swift-593-0201-line-18" n="18">But, well embrown'd with Dirt and Hair.</l>
+            <l xml:id="swift-593-0201-line-19" n="19">A Rug was o'er his Shoulders thrown;</l>
+            <l xml:id="swift-593-0201-line-20" n="20">A Rug; for Night-gown he had none.</l>
+            <l xml:id="swift-593-0201-line-21" n="21">His Jordan stood in Manner fitting</l>
+            <l xml:id="swift-593-0201-line-22" n="22">Between his Legs, to spew or spit in.</l>
+            <l xml:id="swift-593-0201-line-23" n="23">His antient Pipe in Sable dy'd,</l>
+            <l xml:id="swift-593-0201-line-24" n="24">And half unsmoak't, lay by his Side.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-25" n="25"><lb/>H<hi rend="small-caps">IM</hi>, thus accoutr'd, <hi rend="italics">Peter</hi> found,</l>
+            <l xml:id="swift-593-0201-line-26" n="26">With Eyes in Smoak and Weeping drown'd:</l>
+            <l xml:id="swift-593-0201-line-27" n="27">The Leavings of his last Night's Pot</l>
+            <l xml:id="swift-593-0201-line-28" n="28">On Embers plac't, to drink it hot.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-29" n="29"><lb/>W<hi rend="small-caps">HY</hi> <hi rend="italics">Cassy</hi>, thou wilt doze thy Pate:</l>
+            <l xml:id="swift-593-0201-line-30" n="30">What makes thee lie a-bed so late?</l>
+            <l xml:id="swift-593-0201-line-31" n="31">The Finch, the Linnet, and the Thrush,</l>
+            <l xml:id="swift-593-0201-line-32" n="32">Their Mattins chant in ev'ry Bush:</l>
+            <l xml:id="swift-593-0201-line-33" n="33">And, I have heard thee oft salute</l>
+            <l xml:id="swift-593-0201-line-34" n="34"><hi rend="italics">Aurora</hi> with thy early Flute.</l>
+            <l xml:id="swift-593-0201-line-35" n="35">Heaven send thou hast not got the Hypps.</l>
+            <l xml:id="swift-593-0201-line-36" n="36">How? Not a Word come from thy Lips?</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-37" n="37"><lb/>T<hi rend="small-caps">HEN</hi>, gave him some familiar Thumps,</l>
+            <l xml:id="swift-593-0201-line-38" n="38">A College Joke, to cure the Dumps.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-39" n="39"><lb/>T<hi rend="small-caps">HE</hi> Swain at last, with Grief oppress't,</l>
+            <l xml:id="swift-593-0201-line-40" n="40">Cry'd <hi rend="italics">Celia</hi> thrice, and sigh'd the rest.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-41" n="41"><lb/>D<hi rend="small-caps">EAR</hi> <hi rend="italics">Cassy</hi>, though to ask I dread,</l>
+            <l xml:id="swift-593-0201-line-42" n="42">Yet, ask I must. Is <hi rend="italics">Celia</hi> dead?</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-43" n="43"><lb/>H<hi rend="small-caps">OW</hi> happy I, were that the worst:</l>
+            <l xml:id="swift-593-0201-line-44" n="44">But I was fated to be curst.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-45" n="45"><lb/>C<hi rend="small-caps">OME</hi>, tell us, has she play'd the Whore?</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-46" n="46"><lb/>O<hi rend="small-caps">H</hi> <hi rend="italics">Peter</hi>, wou'd it were no more!</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-47" n="47"><lb/>W<hi rend="small-caps">HY</hi>, Plague confound her sandy Locks:</l>
+            <l xml:id="swift-593-0201-line-48" n="48">Say, has the small or greater Pox,</l>
+            <l xml:id="swift-593-0201-line-49" n="49">Sunk down her Nose, or seam'd her Face?</l>
+            <l xml:id="swift-593-0201-line-50" n="50">Be easy, 'tis a common Case.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-51" n="51"><lb/>O <hi rend="italics">PETER</hi>! Beauty's but a Varnish,</l>
+            <l xml:id="swift-593-0201-line-52" n="52">Which Time and Accidents will tarnish:</l>
+            <l xml:id="swift-593-0201-line-53" n="53">But, <hi rend="italics">Cælia</hi> has contriv'd to blast</l>
+            <l xml:id="swift-593-0201-line-54" n="54">Those Beauties that might ever last.</l>
+            <l xml:id="swift-593-0201-line-55" n="55">Nor can Imagination guess,</l>
+            <l xml:id="swift-593-0201-line-56" n="56">Nor Eloquence Divine express,</l>
+            <l xml:id="swift-593-0201-line-57" n="57">How that ungrateful charming Maid,</l>
+            <l xml:id="swift-593-0201-line-58" n="58">My purest Passion has betray'd.</l>
+            <l xml:id="swift-593-0201-line-59" n="59">Conceive the most invenom'd Dart,</l>
+            <l xml:id="swift-593-0201-line-60" n="60">To pierce an injur'd Lover's Heart.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-61" n="61"><lb/>W<hi rend="small-caps">HY</hi>, hang her; though she seem'd so coy,</l>
+            <l xml:id="swift-593-0201-line-62" n="62">I know she loves the Barber's Boy.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-63" n="63"><lb/>F<hi rend="small-caps">RIEND</hi> <hi rend="italics">Peter</hi>, this I could excuse;</l>
+            <l xml:id="swift-593-0201-line-64" n="64">For, ev'ry Nymph has Leave to chuse;</l>
+            <l xml:id="swift-593-0201-line-65" n="65">Nor, have I Reason to complain:</l>
+            <l xml:id="swift-593-0201-line-66" n="66">She loves a more deserving Swain.</l>
+            <l xml:id="swift-593-0201-line-67" n="67">But, oh! how ill hast thou divin'd</l>
+            <l xml:id="swift-593-0201-line-68" n="68">A Crime that shocks all human Kind;</l>
+            <l xml:id="swift-593-0201-line-69" n="69">A Deed unknown to Female Race,</l>
+            <l xml:id="swift-593-0201-line-70" n="70">At which the Sun should hide his Face.</l>
+            <l xml:id="swift-593-0201-line-71" n="71">Advice in vain you would apply────</l>
+            <l xml:id="swift-593-0201-line-72" n="72">Then, leave me to despair and dye.</l>
+            <l xml:id="swift-593-0201-line-73" n="73">Yet, kind <hi rend="italics">Arcadians</hi>, on my Urn</l>
+            <l xml:id="swift-593-0201-line-74" n="74">These Elegies and Sonnets burn,</l>
+            <l xml:id="swift-593-0201-line-75" n="75">And on the Marble grave these Rhimes,</l>
+            <l xml:id="swift-593-0201-line-76" n="76">A Monument to after-Times:</l>
+            <l xml:id="swift-593-0201-line-77" n="77">“Here <hi rend="italics">Cassy</hi> lies, by <hi rend="italics">Celia</hi> slain,</l>
+            <l xml:id="swift-593-0201-line-78" n="78">“And dying, never told his Pain.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-79" n="79"><lb/>V<hi rend="small-caps">AIN</hi> empty World farewell. But, hark,</l>
+            <l xml:id="swift-593-0201-line-80" n="80">The loud <hi rend="italics">Cerberian</hi> triple Bark.</l>
+            <l xml:id="swift-593-0201-line-81" n="81">And there──── behold <hi rend="italics">Alecto</hi> stand,</l>
+            <l xml:id="swift-593-0201-line-82" n="82">A Whip of Scorpions in her Hand.</l>
+            <l xml:id="swift-593-0201-line-83" n="83">Lo, <hi rend="italics">Charon</hi> from his leaky Wherry,</l>
+            <l xml:id="swift-593-0201-line-84" n="84">Beck'ning to waft me o'er the Ferry.</l>
+            <l xml:id="swift-593-0201-line-85" n="85">I come, I come,────── <hi rend="italics">Medusa</hi>, see,</l>
+            <l xml:id="swift-593-0201-line-86" n="86">Her Serpents hiss direct at me.</l>
+            <l xml:id="swift-593-0201-line-87" n="87">Begone; unhand me, hellish Fry:</l>
+            <l xml:id="swift-593-0201-line-88" n="88"><note place="foot">·<hi rend="italics">See</hi> Macbeth.</note>Avaunt──── ye cannot say 'twas I.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-89" n="89"><lb/>D<hi rend="small-caps">EAR</hi> <hi rend="italics">Cassy</hi>, thou must purge and bleed;</l>
+            <l xml:id="swift-593-0201-line-90" n="90">I fear thou wilt be mad indeed.</l>
+            <l xml:id="swift-593-0201-line-91" n="91">But now, by Friendship's sacred Laws,</l>
+            <l xml:id="swift-593-0201-line-92" n="92">I here conjure thee, tell the Cause;</l>
+            <l xml:id="swift-593-0201-line-93" n="93">And <hi rend="italics">Celia</hi>'s horrid Fact relate:</l>
+            <l xml:id="swift-593-0201-line-94" n="94">Thy Friend would gladly share thy Fate.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-95" n="95"><lb/>T<hi rend="small-caps">O</hi> force it out, my Heart must rend:</l>
+            <l xml:id="swift-593-0201-line-96" n="96">Yet, when conjur'd by such a Friend────</l>
+            <l xml:id="swift-593-0201-line-97" n="97">Think <hi rend="italics">Peter</hi>, how my Soul is rack't.</l>
+            <l xml:id="swift-593-0201-line-98" n="98">These Eyes, these Eyes beheld the Fact.</l>
+            <l xml:id="swift-593-0201-line-99" n="99">Now, bend thine Ear; since out it must:</l>
+            <l xml:id="swift-593-0201-line-100" n="100">But, when thou seest me laid in Dust,</l>
+            <l xml:id="swift-593-0201-line-101" n="101">The Secret thou shal't ne'er impart;</l>
+            <l xml:id="swift-593-0201-line-102" n="102">Not to the Nymph that keeps thy Heart;</l>
+            <l xml:id="swift-593-0201-line-103" n="103">(How would her Virgin Soul bemoan,</l>
+            <l xml:id="swift-593-0201-line-104" n="104">A Crime to all her Sex unknown!)</l>
+            <l xml:id="swift-593-0201-line-105" n="105">Nor whisper to the tattling Reeds,</l>
+            <l xml:id="swift-593-0201-line-106" n="106">The blackest of all Female Deeds.</l>
+            <l xml:id="swift-593-0201-line-107" n="107">Nor blab it on the lonely Rocks,</l>
+            <l xml:id="swift-593-0201-line-108" n="108">Where <hi rend="italics">Echo</hi> sits, and list'ning, mocks.</l>
+            <l xml:id="swift-593-0201-line-109" n="109">Nor let the Zephyr's treach'rous Gale,</l>
+            <l xml:id="swift-593-0201-line-110" n="110">Through <hi rend="italics">Cambridge</hi> waft the direful Tale.</l>
+            <l xml:id="swift-593-0201-line-111" n="111">Nor to the chatt'ring feather'd Race,</l>
+            <l xml:id="swift-593-0201-line-112" n="112">Discover <hi rend="italics">Celia</hi>'s foul Disgrace.</l>
+            <l xml:id="swift-593-0201-line-113" n="113">But, if you fail; my Spectre dread</l>
+            <l xml:id="swift-593-0201-line-114" n="114">Attending nightly round your Bed:</l>
+            <l xml:id="swift-593-0201-line-115" n="115">And yet, I dare confide in you;</l>
+            <l xml:id="swift-593-0201-line-116" n="116">So, take my Secret, and adieu.</l>
+            <l rend="indent(1)" xml:id="swift-593-0201-line-117" n="117"><lb/>N<hi rend="small-caps">OR</hi>, wonder how I lost my Wits:</l>
+            <l xml:id="swift-593-0201-line-118" n="118">Oh! <hi rend="italics">Celia, Celia, Celia</hi> sh────.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

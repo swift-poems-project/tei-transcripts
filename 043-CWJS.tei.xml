@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO MR. CONGREVE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 24MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 30AU04 agt WILH; ed. JW 29MY05, 11MR10, 24NO10, 12JE16; EMENDED JW 1NO16, 27NO16, 3JA17, 4JA17 (spacing error fixed); first line emended JW 8NO16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="043-CWJS">
+          <head type="note" n="1" xml:id="spp-043-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-043-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-043-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-043-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-043-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-043-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-043-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-043-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-043-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-043-CWJS-line-1" n="1">
+              <hi rend="display-initial">T<hi rend="small-caps">HRICE</hi>, with a prophet's voice and prophet's pow'r,</hi>
+            </l>
+            <l xml:id="swift-043-CWJS-line-2" n="2">The Muse was call'd in a poetic hour,</l>
+            <l xml:id="swift-043-CWJS-line-3" n="3">And insolently thrice, the slighted Maid</l>
+            <l xml:id="swift-043-CWJS-line-4" n="4">Dar'd to suspend her unregarded aid;</l>
+            <l xml:id="swift-043-CWJS-line-5" n="5">Then with that grief we form in spirits divine,</l>
+            <l xml:id="swift-043-CWJS-line-6" n="6">Pleads for her own neglect, and thus reproaches mine:</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-7" n="7"><lb/>Once highly honour'd! False is the pretence</l>
+            <l xml:id="swift-043-CWJS-line-8" n="8">You make to truth, retreat, and innocence;</l>
+            <l xml:id="swift-043-CWJS-line-9" n="9">Who, to pollute my shades, bring'st with thee down</l>
+            <l xml:id="swift-043-CWJS-line-10" n="10">The most ungen'rous vices of the town;</l>
+            <l xml:id="swift-043-CWJS-line-11" n="11">Ne'er sprung a youth from out this isle before</l>
+            <l xml:id="swift-043-CWJS-line-12" n="12">I once esteem'd, and lov'd, and favour'd more,</l>
+            <l xml:id="swift-043-CWJS-line-13" n="13">Nor ever maid endur'd such court-like scorn,</l>
+            <l xml:id="swift-043-CWJS-line-14" n="14">So much in mode, so very city-born;</l>
+            <l xml:id="swift-043-CWJS-line-15" n="15">'Tis with a foul design the muse you send,</l>
+            <l xml:id="swift-043-CWJS-line-16" n="16">Like a cast mistress to your wicked friend;</l>
+            <l xml:id="swift-043-CWJS-line-17" n="17">But find some new address, some fresh deceit,</l>
+            <l xml:id="swift-043-CWJS-line-18" n="18">Nor practise such an antiquated cheat;</l>
+            <l xml:id="swift-043-CWJS-line-19" n="19">These are the beaten methods of the stews,</l>
+            <l xml:id="swift-043-CWJS-line-20" n="20">Stale forms of course, all mean deceivers use,</l>
+            <l xml:id="swift-043-CWJS-line-21" n="21">Who barbarously think to 'scape reproach,</l>
+            <l xml:id="swift-043-CWJS-line-22" n="22">By prostituting her they first debauch.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-23" n="23"><lb/>Thus did the Muse severe unkindly blame</l>
+            <l xml:id="swift-043-CWJS-line-24" n="24">This off'ring long design'd to C<hi rend="small-caps">ONGREVE</hi>'s fame;</l>
+            <l xml:id="swift-043-CWJS-line-25" n="25">First chid the zeal as unpoetic fire,</l>
+            <l xml:id="swift-043-CWJS-line-26" n="26">Which soon his merit forc'd her to inspire;</l>
+            <l xml:id="swift-043-CWJS-line-27" n="27">Then call this verse, that speaks her largest aid,</l>
+            <l xml:id="swift-043-CWJS-line-28" n="28">The greatest compliment she ever made,</l>
+            <l xml:id="swift-043-CWJS-line-29" n="29">And wisely judge, no pow'r beneath divine</l>
+            <l xml:id="swift-043-CWJS-line-30" n="30">Could leap the bounds which part your world and mine;</l>
+            <l xml:id="swift-043-CWJS-line-31" n="31">For, youth, believe, to you unseen, is fix'd</l>
+            <l xml:id="swift-043-CWJS-line-32" n="32">A mighty gulph unpassable betwixt.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-33" n="33"><lb/>Nor tax the goddess of a mean design</l>
+            <l xml:id="swift-043-CWJS-line-34" n="34">To praise your parts by publishing of mine;</l>
+            <l xml:id="swift-043-CWJS-line-35" n="35">That be my thought when some large bulky writ</l>
+            <l xml:id="swift-043-CWJS-line-36" n="36">Shews in the front the ambition of my wit;</l>
+            <l xml:id="swift-043-CWJS-line-37" n="37">There to surmount what bears me up, and sing</l>
+            <l xml:id="swift-043-CWJS-line-38" n="38">Like the victorious wren perch'd on the eagle's wing;</l>
+            <l xml:id="swift-043-CWJS-line-39" n="39">This could I do, and proudly o'er him tow'r,</l>
+            <l xml:id="swift-043-CWJS-line-40" n="40">Were my desires but heighten'd to my pow'r.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-41" n="41"><lb/>Godlike the force of my young C<hi rend="small-caps">ONGREVE</hi>'s bays,</l>
+            <l xml:id="swift-043-CWJS-line-42" n="42">Soft'ning the muse's thunder into praise;</l>
+            <l xml:id="swift-043-CWJS-line-43" n="43">Sent to assist an old unvanquish'd pride</l>
+            <l xml:id="swift-043-CWJS-line-44" n="44">That looks with scorn on half mankind beside;</l>
+            <l xml:id="swift-043-CWJS-line-45" n="45">A pride that well suspends poor mortals fate,</l>
+            <l xml:id="swift-043-CWJS-line-46" n="46">Gets between them and my resentment's weight,</l>
+            <l xml:id="swift-043-CWJS-line-47" n="47">Stands in the gap 'twixt me and wretched men,</l>
+            <l xml:id="swift-043-CWJS-line-48" n="48">T' avert th' impending judgments of my pen.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-49" n="49"><lb/>Thus I look down with mercy on the age,</l>
+            <l xml:id="swift-043-CWJS-line-50" n="50">By hopes my C<hi rend="small-caps">ONGREVE</hi> will reform the stage;</l>
+            <l xml:id="swift-043-CWJS-line-51" n="51">For never did poetic mine before</l>
+            <l xml:id="swift-043-CWJS-line-52" n="52">Produce a richer vein or cleaner ore;</l>
+            <l xml:id="swift-043-CWJS-line-53" n="53">The bullion stampt in your refining mind</l>
+            <l xml:id="swift-043-CWJS-line-54" n="54">Serves by retail to furnish half mankind.</l>
+            <l xml:id="swift-043-CWJS-line-55" n="55">With indignation I behold your wit</l>
+            <l xml:id="swift-043-CWJS-line-56" n="56">Forc'd on me, crack'd, and clipp'd, and counterfeit,</l>
+            <l xml:id="swift-043-CWJS-line-57" n="57">By vile pretenders, who a stock maintain</l>
+            <l xml:id="swift-043-CWJS-line-58" n="58">From broken scraps and filings of your brain.</l>
+            <l xml:id="swift-043-CWJS-line-59" n="59">Through native dross your share is hardly known,</l>
+            <l xml:id="swift-043-CWJS-line-60" n="60">And by short views mistook for all their own;</l>
+            <l xml:id="swift-043-CWJS-line-61" n="61">So small the gain those from your wit do reap,</l>
+            <l xml:id="swift-043-CWJS-line-62" n="62">Who blend it into folly's larger heap,</l>
+            <l xml:id="swift-043-CWJS-line-63" n="63">Like the sun's scatter'd beams which loosely pass,</l>
+            <l xml:id="swift-043-CWJS-line-64" n="64">When some rough hand breaks the assembling-glass.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-65" n="65"><lb/>Yet want your critics no just cause to rail,</l>
+            <l xml:id="swift-043-CWJS-line-66" n="66">Since knaves are ne'er oblig'd for what they steal.</l>
+            <l xml:id="swift-043-CWJS-line-67" n="67">These pad on wit's high road, and suits maintain</l>
+            <l xml:id="swift-043-CWJS-line-68" n="68">With those they rob, by what their trade does gain.</l>
+            <l xml:id="swift-043-CWJS-line-69" n="69">Thus censure seems that fiery froth which breeds</l>
+            <l xml:id="swift-043-CWJS-line-70" n="70">O'er the sun's face, and from his heat proceeds,</l>
+            <l xml:id="swift-043-CWJS-line-71" n="71">Crusts o'er the day, shadowing its parent beam</l>
+            <l xml:id="swift-043-CWJS-line-72" n="72">As antient nature's modern masters dream;</l>
+            <l xml:id="swift-043-CWJS-line-73" n="73">This bids some curious praters here below</l>
+            <l xml:id="swift-043-CWJS-line-74" n="74">Call Titan sick, because their sight is so;</l>
+            <l xml:id="swift-043-CWJS-line-75" n="75">And well, methinks, does this allusion fit</l>
+            <l xml:id="swift-043-CWJS-line-76" n="76">To scribblers, and the god of light and wit;</l>
+            <l xml:id="swift-043-CWJS-line-77" n="77">Those who by wild delusions entertain</l>
+            <l xml:id="swift-043-CWJS-line-78" n="78">A lust of rhiming for a poet's vein,</l>
+            <l xml:id="swift-043-CWJS-line-79" n="79">Raise envy's clouds to leave themselves in night,</l>
+            <l xml:id="swift-043-CWJS-line-80" n="80">But can no more obscure my C<hi rend="small-caps">ONGREVE</hi>'s light</l>
+            <l xml:id="swift-043-CWJS-line-81" n="81">Than swarms of gnats, that wanton in a ray</l>
+            <l xml:id="swift-043-CWJS-line-82" n="82">Which gave them birth, can rob the world of day.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-83" n="83"><lb/>What northern hive pour'd out these foes to wit?</l>
+            <l xml:id="swift-043-CWJS-line-84" n="84">Whence came these Goths to overrun the pit?</l>
+            <l xml:id="swift-043-CWJS-line-85" n="85">How would you blush the shameful birth to hear</l>
+            <l xml:id="swift-043-CWJS-line-86" n="86">Of those you so ignobly stoop to fear;</l>
+            <l xml:id="swift-043-CWJS-line-87" n="87">For, ill to them, long have I travell'd since</l>
+            <l xml:id="swift-043-CWJS-line-88" n="88">Round all the circles of impertinence,</l>
+            <l xml:id="swift-043-CWJS-line-89" n="89">Search'd in the nest where every worm did lie</l>
+            <l xml:id="swift-043-CWJS-line-90" n="90">Before it grew a city butterfly;</l>
+            <l xml:id="swift-043-CWJS-line-91" n="91">I'm sure I found them other kind of things</l>
+            <l xml:id="swift-043-CWJS-line-92" n="92">Than those with backs of silk and golden wings;</l>
+            <l xml:id="swift-043-CWJS-line-93" n="93">A search, no doubt, as curious and as wise</l>
+            <l xml:id="swift-043-CWJS-line-94" n="94">As virtuosoes' in dissecting flies;</l>
+            <l xml:id="swift-043-CWJS-line-95" n="95">For, could you think? the fiercest foes you dread,</l>
+            <l xml:id="swift-043-CWJS-line-96" n="96">And court in prologues, all are country-bred;</l>
+            <l xml:id="swift-043-CWJS-line-97" n="97">Bred in my scene, and for the poet's sins</l>
+            <l xml:id="swift-043-CWJS-line-98" n="98">Adjourn'd from tops and grammar to the inns;</l>
+            <l xml:id="swift-043-CWJS-line-99" n="99">Those beds of dung, where schoolboys sprout up beaus</l>
+            <l xml:id="swift-043-CWJS-line-100" n="100">Far sooner than the nobler mushroom grows:</l>
+            <l xml:id="swift-043-CWJS-line-101" n="101">These are the lords of the poetic schools,</l>
+            <l xml:id="swift-043-CWJS-line-102" n="102">Who preach the saucy pedantry of rules;</l>
+            <l xml:id="swift-043-CWJS-line-103" n="103">Those pow'rs the criticks, who may boast the odds</l>
+            <l xml:id="swift-043-CWJS-line-104" n="104">O'er Nile, with all its wilderness of gods;</l>
+            <l xml:id="swift-043-CWJS-line-105" n="105">Nor could the nations kneel to viler shapes,</l>
+            <l xml:id="swift-043-CWJS-line-106" n="106">Which worship'd cats, and sacrific'd to apes;</l>
+            <l xml:id="swift-043-CWJS-line-107" n="107">And can you think the wise forbear to laugh</l>
+            <l xml:id="swift-043-CWJS-line-108" n="108">At the warm zeal that breeds this golden calf?</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-109" n="109"><lb/>Haply you judge these lines severely writ</l>
+            <l xml:id="swift-043-CWJS-line-110" n="110">Against the proud usurpers of the pit;</l>
+            <l xml:id="swift-043-CWJS-line-111" n="111">Stay while I tell my story, short, and true;</l>
+            <l xml:id="swift-043-CWJS-line-112" n="112">To draw conclusions shall be left to you;</l>
+            <l xml:id="swift-043-CWJS-line-113" n="113">Nor need I ramble far to force a rule,</l>
+            <l xml:id="swift-043-CWJS-line-114" n="114">But lay the scene just here at Farnham school.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-115" n="115"><lb/>Last year, a lad hence by his parents sent</l>
+            <l xml:id="swift-043-CWJS-line-116" n="116">With other cattle to the city went;</l>
+            <l xml:id="swift-043-CWJS-line-117" n="117">Where having cast his coat, and well pursu'd</l>
+            <l xml:id="swift-043-CWJS-line-118" n="118">The methods most in fashion to be lewd,</l>
+            <l xml:id="swift-043-CWJS-line-119" n="119">Return'd a finish'd spark this summer down,</l>
+            <l xml:id="swift-043-CWJS-line-120" n="120">Stock'd with the freshest gibberish of the town;</l>
+            <l xml:id="swift-043-CWJS-line-121" n="121">A jargon form'd from the lost language, wit,</l>
+            <l xml:id="swift-043-CWJS-line-122" n="122">Confounded in that Babel of the pit;</l>
+            <l xml:id="swift-043-CWJS-line-123" n="123">Form'd by diseas'd conceptions, weak, and wild,</l>
+            <l xml:id="swift-043-CWJS-line-124" n="124">Sick lust of souls, and an abortive child;</l>
+            <l xml:id="swift-043-CWJS-line-125" n="125">Born between whores and fops, by lewd compacts,</l>
+            <l xml:id="swift-043-CWJS-line-126" n="126">Before the play, or else between the acts:</l>
+            <l xml:id="swift-043-CWJS-line-127" n="127">Nor wonder, if from such polluted minds</l>
+            <l xml:id="swift-043-CWJS-line-128" n="128">Should spring such short and transitory kinds,</l>
+            <l xml:id="swift-043-CWJS-line-129" n="129">Or crazy rules to make us wits by rote</l>
+            <l xml:id="swift-043-CWJS-line-130" n="130">Last just as long as ev'ry cuckow's note:</l>
+            <l xml:id="swift-043-CWJS-line-131" n="131">What bungling, rusty tools, are us'd by fate!</l>
+            <l xml:id="swift-043-CWJS-line-132" n="132">'Twas in an evil hour to urge my hate,</l>
+            <l xml:id="swift-043-CWJS-line-133" n="133">My hate, whose lash just heaven has long decreed</l>
+            <l xml:id="swift-043-CWJS-line-134" n="134">Shall on a day make sin and folly bleed;</l>
+            <l xml:id="swift-043-CWJS-line-135" n="135">When man's ill genius to my presence sent</l>
+            <l xml:id="swift-043-CWJS-line-136" n="136">This wretch, to rouse my wrath, for ruin meant;</l>
+            <l xml:id="swift-043-CWJS-line-137" n="137">Who in his idiom vile, with Gray's-inn grace,</l>
+            <l xml:id="swift-043-CWJS-line-138" n="138">Squander'd his noisy talents to my face;</l>
+            <l xml:id="swift-043-CWJS-line-139" n="139">Nam'd ev'ry player on his fingers ends,</l>
+            <l xml:id="swift-043-CWJS-line-140" n="140">Swore all the wits were his peculiar friends;</l>
+            <l xml:id="swift-043-CWJS-line-141" n="141">Talk'd with that saucy and familiar ease</l>
+            <l xml:id="swift-043-CWJS-line-142" n="142">Of Wycherly, and you, and Mr. Bays;</l>
+            <l xml:id="swift-043-CWJS-line-143" n="143">Said, how a late report your friends had vex'd,</l>
+            <l xml:id="swift-043-CWJS-line-144" n="144">Who heard you meant to write heroics next;</l>
+            <l xml:id="swift-043-CWJS-line-145" n="145">For, tragedy, he knew, would lose you quite,</l>
+            <l xml:id="swift-043-CWJS-line-146" n="146">And told you so at Will's but t'other night.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-147" n="147"><lb/>Thus are the lives of fools a sort of dreams,</l>
+            <l xml:id="swift-043-CWJS-line-148" n="148">Rend'ring shades, things, and substances of names;</l>
+            <l xml:id="swift-043-CWJS-line-149" n="149">Such high companions may delusion keep,</l>
+            <l xml:id="swift-043-CWJS-line-150" n="150">Lords are a footboy's cronies in his sleep.</l>
+            <l xml:id="swift-043-CWJS-line-151" n="151">As a fresh miss, by fancy, face, and gown,</l>
+            <l xml:id="swift-043-CWJS-line-152" n="152">Render'd the topping beauty of the town,</l>
+            <l xml:id="swift-043-CWJS-line-153" n="153">Draws ev'ry rhyming, prating, dressing sot,</l>
+            <l xml:id="swift-043-CWJS-line-154" n="154">To boast of favours that he never got;</l>
+            <l xml:id="swift-043-CWJS-line-155" n="155">Of which, whoe'er lacks confidence to prate,</l>
+            <l xml:id="swift-043-CWJS-line-156" n="156">Brings his good parts and breeding in debate;</l>
+            <l xml:id="swift-043-CWJS-line-157" n="157">And not the meanest coxcomb you can find,</l>
+            <l xml:id="swift-043-CWJS-line-158" n="158">But thanks his stars, that Phyllis has been kind;</l>
+            <l xml:id="swift-043-CWJS-line-159" n="159">Thus prostitute my C<hi rend="small-caps">ONGREVE</hi>'s name is grown</l>
+            <l xml:id="swift-043-CWJS-line-160" n="160">To ev'ry lew'd pretender of the town.</l>
+            <l xml:id="swift-043-CWJS-line-161" n="161">'Troth I could pity you; but this is it,</l>
+            <l xml:id="swift-043-CWJS-line-162" n="162">You find, to be the fashionable wit;</l>
+            <l xml:id="swift-043-CWJS-line-163" n="163">These are the slaves whom reputation chains,</l>
+            <l xml:id="swift-043-CWJS-line-164" n="164">Whose maintenance requires no help from brains.</l>
+            <l xml:id="swift-043-CWJS-line-165" n="165">For, should the vilest scribbler to the pit,</l>
+            <l xml:id="swift-043-CWJS-line-166" n="166">Whom sin and want e'er furnish'd out a wit;</l>
+            <l xml:id="swift-043-CWJS-line-167" n="167">Whose name must not within my lines be shewn,</l>
+            <l xml:id="swift-043-CWJS-line-168" n="168">Lest here it live, when perish'd with his own;</l>
+            <l xml:id="swift-043-CWJS-line-169" n="169">Should such a wretch usurp my C<hi rend="small-caps">ONGREVE</hi>'s place,</l>
+            <l xml:id="swift-043-CWJS-line-170" n="170">And chuse out wits who ne'er have seen his face;</l>
+            <l xml:id="swift-043-CWJS-line-171" n="171">I'll lay my life but the dull cheat would pass,</l>
+            <l xml:id="swift-043-CWJS-line-172" n="172">Nor need the lion's skin conceal the ass;</l>
+            <l xml:id="swift-043-CWJS-line-173" n="173">Yes, that beau's look, that voice, those critic ears,</l>
+            <l xml:id="swift-043-CWJS-line-174" n="174">Must needs be right, so well resembling theirs.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-175" n="175"><lb/>Perish the Muse's hour, thus vainly spent</l>
+            <l xml:id="swift-043-CWJS-line-176" n="176">In satire, to my C<hi rend="small-caps">ONGREVE</hi>'s praises meant;</l>
+            <l xml:id="swift-043-CWJS-line-177" n="177">In how ill season her resentments rule,</l>
+            <l xml:id="swift-043-CWJS-line-178" n="178">What's that to her if mankind be a fool?</l>
+            <l xml:id="swift-043-CWJS-line-179" n="179">Happy beyond a private muse's fate,</l>
+            <l xml:id="swift-043-CWJS-line-180" n="180">In pleasing all that's good among the great,</l>
+            <l xml:id="swift-043-CWJS-line-181" n="181">Where tho' her elder sisters crowding throng,</l>
+            <l xml:id="swift-043-CWJS-line-182" n="182">She still is welcome with her inn'cent song;</l>
+            <l xml:id="swift-043-CWJS-line-183" n="183">Whom were my C<hi rend="small-caps">ONGREVE</hi> blest to see and know,</l>
+            <l xml:id="swift-043-CWJS-line-184" n="184">What poor regards would merit all below!</l>
+            <l xml:id="swift-043-CWJS-line-185" n="185">How proudly would he haste the joy to meet,</l>
+            <l xml:id="swift-043-CWJS-line-186" n="186">And drop his laurel at <hi rend="italics">Apollo</hi>'s feet.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-187" n="187"><lb/>Here by a mountain's side, a reverend cave</l>
+            <l xml:id="swift-043-CWJS-line-188" n="188">Gives murmuring passage to a lasting wave;</l>
+            <l xml:id="swift-043-CWJS-line-189" n="189">'Tis the world's wat'ry hour-glass streaming fast,</l>
+            <l xml:id="swift-043-CWJS-line-190" n="190">Time is no more when th' utmost drop is past;</l>
+            <l xml:id="swift-043-CWJS-line-191" n="191">Here, on a better day, some druid dwelt,</l>
+            <l xml:id="swift-043-CWJS-line-192" n="192">And the young Muse's early favour felt;</l>
+            <l xml:id="swift-043-CWJS-line-193" n="193">Druid, a name she does with pride repeat,</l>
+            <l xml:id="swift-043-CWJS-line-194" n="194">Confessing Albion once her darling seat;</l>
+            <l xml:id="swift-043-CWJS-line-195" n="195">Far in this primitive cell might we pursue</l>
+            <l xml:id="swift-043-CWJS-line-196" n="196">Our predecessors foot-steps, still in view;</l>
+            <l xml:id="swift-043-CWJS-line-197" n="197">Here would we sing──But, ah! you think I dream,</l>
+            <l xml:id="swift-043-CWJS-line-198" n="198">And the bad world may well believe the same;</l>
+            <l xml:id="swift-043-CWJS-line-199" n="199">Yes; you are all malicious standers-by,</l>
+            <l xml:id="swift-043-CWJS-line-200" n="200">While two fond lovers prate, the Muse, and I.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-201" n="201"><lb/>Since thus I wander from my first intent,</l>
+            <l xml:id="swift-043-CWJS-line-202" n="202">Nor am that grave adviser which I meant;</l>
+            <l xml:id="swift-043-CWJS-line-203" n="203">Take this short lesson from the god of bayes,</l>
+            <l xml:id="swift-043-CWJS-line-204" n="204">And let my friend apply it as he please:</l>
+            <l xml:id="swift-043-CWJS-line-205" n="205"><lb/><note place="foot">·Out of an Ode I writ, inscribed The Poet.</note> Beat not the dirty paths where vulgar feet have trod,</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-206" n="206">But give the vigorous fancy room.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-207" n="207">For when like stupid alchymists you try</l>
+            <l rend="indent(2)" xml:id="swift-043-CWJS-line-208" n="208">|To fix this nimble god,</l>
+            <l rend="indent(2)" xml:id="swift-043-CWJS-line-209" n="209">|This volatile mercury,</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-210" n="210">The subtil spirit all flies up in fume;</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-211" n="211">Nor shall the bubbl'd virtuoso find</l>
+            <l xml:id="swift-043-CWJS-line-212" n="212">More than a fade insipid mixture left behind.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-213" n="213"><lb/>Whilst thus I write, vast shoals of critics come,</l>
+            <l xml:id="swift-043-CWJS-line-214" n="214">And on my verse pronounce their saucy doom;</l>
+            <l xml:id="swift-043-CWJS-line-215" n="215">The Muse, like some bright country virgin, shows,</l>
+            <l xml:id="swift-043-CWJS-line-216" n="216">Fall'n by mishap amongst a knot of beaux;</l>
+            <l xml:id="swift-043-CWJS-line-217" n="217">They, in their lewd and fashionable prate,</l>
+            <l xml:id="swift-043-CWJS-line-218" n="218">Rally her dress, her language, and her gait;</l>
+            <l xml:id="swift-043-CWJS-line-219" n="219">Spend their base coin before the bashful maid,</l>
+            <l xml:id="swift-043-CWJS-line-220" n="220">Current like copper, and as often paid:</l>
+            <l xml:id="swift-043-CWJS-line-221" n="221">She, who on shady banks has joy'd to sleep</l>
+            <l xml:id="swift-043-CWJS-line-222" n="222">Near better animals, her father's sheep;</l>
+            <l xml:id="swift-043-CWJS-line-223" n="223">Sham'd and amaz'd, beholds the chatt'ring throng,</l>
+            <l xml:id="swift-043-CWJS-line-224" n="224">To think what cattle she has got among;</l>
+            <l xml:id="swift-043-CWJS-line-225" n="225">But with the odious smell and sight annoy'd,</l>
+            <l xml:id="swift-043-CWJS-line-226" n="226">In haste she does th' offensive herd avoid.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-227" n="227"><lb/>'Tis time to bid my friend a long farewell,</l>
+            <l xml:id="swift-043-CWJS-line-228" n="228">The muse retreats far in yon chrystal cell;</l>
+            <l xml:id="swift-043-CWJS-line-229" n="229">Faint inspiration sickens as she flies,</l>
+            <l xml:id="swift-043-CWJS-line-230" n="230">Like distant echo spent, the spirit dies.</l>
+            <l rend="indent(1)" xml:id="swift-043-CWJS-line-231" n="231"><lb/>In this descending sheet you'll haply find</l>
+            <l xml:id="swift-043-CWJS-line-232" n="232">Some short refreshment for your weary mind,</l>
+            <l xml:id="swift-043-CWJS-line-233" n="233">Nought it contains is common or unclean,</l>
+            <l xml:id="swift-043-CWJS-line-234" n="234">And once drawn up, is ne'er let down again.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

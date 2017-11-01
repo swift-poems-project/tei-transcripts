@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-553-14W2-title-1">ON<lb/>  THE DEATH OF DR SWIFT. <ref target="#spp-553-14W2-footnote-title-1">1</ref><note n="1" xml:id="spp-553-14W2-footnote-title-1" place="foot">The verses on his Death, and the Rhapsody on Poetry, are the best of Swift's poetical productions, though they cannot be called true poetry.── Dr W<hi rend="small-caps">ARTON</hi></note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 27JL07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-553-14W2-footnote-title-1 #spp-553-14W2-title-1"/>
+          <link target="# #spp-553-14W2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="553-14W2">
+          <head type="note" n="1" xml:id="spp-553-14W2-headnote-1">
+            <lg n="1" xml:id="spp-553-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-553-14W2-headnote-1-line-group-1-line-1">WRITTEN IN NOVEMBER, 1731. <ref target="#spp-553-14W2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-553-14W2-footnote-headnote-1" place="foot">These verses have undergone, perhaps, a stranger revolution than any other part of the Dean's writings. A manifestly spurious copy, containing 201 lines, under the title of “The Life and Character of Dr S<hi rend="small-caps">WIFT</hi>,” appeared at London, in April 1733; of which the Dean complained heavily, in a letter to Mr Pope, dated May 1st; and notwithstanding Swift acknowledged in that letter he had written “a poem of near 500 lines upon the same maxim of Rochefoucault, and was a long time about it,” many readers have supposed (not attending to the circumstances of there being <hi rend="italics">two</hi> poems on the subject) that the Dean disclaimed the <hi rend="italics">Verses on his own Death</hi>. The genuine verses having been committed to the care of the celebrated author of “The Toast,” an edition was printed in 1738-9, in which more than 100 lines were omitted. Dr King assigned many judicious reasons (though some of them were merely temporary and prudential) for the mutilations: but they were so far from satisfying Dr Swift, that a complete edition was immediately printed by Faulkner, with the Dean's express permission. The poem, as it now stands in this collection, is agreeable to Mr Faulkner's copy.── N<hi rend="small-caps">ICOL</hi></note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-553-14W2-headnote-2">
+            <lg n="1" xml:id="spp-553-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-553-14W2-headnote-2-line-group-1-line-1">Occasioned by reading the following M<hi rend="small-caps">AXIM</hi> in ROCHEFOUCAULT, “Dans l'adversité de nos meilleurs amis, nous trouvons toujours quelque chose, qui ne nous déplaît pas.”</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-553-14W2-headnote-3">
+            <lg n="1" xml:id="spp-553-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-553-14W2-headnote-3-line-group-1-line-1">“In the adversity of our best friends, we always find something that does not displease us.”</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-553-14W2-line-1" n="1">As Rochefoucault his maxims drew</l>
+            <l xml:id="swift-553-14W2-line-2" n="2">From nature, I believe them true:</l>
+            <l xml:id="swift-553-14W2-line-3" n="3">They argue no corrupted mind</l>
+            <l xml:id="swift-553-14W2-line-4" n="4">In him; the fault is in mankind.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-5" n="5">This maxim more than all the rest</l>
+            <l xml:id="swift-553-14W2-line-6" n="6">Is thought too base for human breast:</l>
+            <l xml:id="swift-553-14W2-line-7" n="7">“In all distresses of our friends,</l>
+            <l xml:id="swift-553-14W2-line-8" n="8">We first consult our private ends;</l>
+            <l xml:id="swift-553-14W2-line-9" n="9">While Nature, kindly bent to ease us,</l>
+            <l xml:id="swift-553-14W2-line-10" n="10">Points out some circumstance to please us.”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-11" n="11">If this perhaps your patience move,</l>
+            <l xml:id="swift-553-14W2-line-12" n="12">Let reason and experience prove.</l>
+            <l xml:id="swift-553-14W2-line-13" n="13">We all behold with envious eyes</l>
+            <l xml:id="swift-553-14W2-line-14" n="14">Our equals raised above our size.</l>
+            <l xml:id="swift-553-14W2-line-15" n="15">Who would not at a crowded show</l>
+            <l xml:id="swift-553-14W2-line-16" n="16">Stand high himself, keep others low?</l>
+            <l xml:id="swift-553-14W2-line-17" n="17">I love my friend as well as you:</l>
+            <l xml:id="swift-553-14W2-line-18" n="18">But why should he obstruct my view?</l>
+            <l xml:id="swift-553-14W2-line-19" n="19">Then let me have the higher post:</l>
+            <l xml:id="swift-553-14W2-line-20" n="20">Suppose it but an inch at most.</l>
+            <l xml:id="swift-553-14W2-line-21" n="21">If in a battle you should find</l>
+            <l xml:id="swift-553-14W2-line-22" n="22">One whom you love of all mankind,</l>
+            <l xml:id="swift-553-14W2-line-23" n="23">Had some heroic action done,</l>
+            <l xml:id="swift-553-14W2-line-24" n="24">A champion kill'd, or trophy won;</l>
+            <l xml:id="swift-553-14W2-line-25" n="25">Rather than thus be overtopp'd,</l>
+            <l xml:id="swift-553-14W2-line-26" n="26">Would you not wish his laurels cropp'd?</l>
+            <l xml:id="swift-553-14W2-line-27" n="27">Dear honest Ned is in the gout,</l>
+            <l xml:id="swift-553-14W2-line-28" n="28">Lies rack'd with pain, and you without:</l>
+            <l xml:id="swift-553-14W2-line-29" n="29">How patiently you hear him groan!</l>
+            <l xml:id="swift-553-14W2-line-30" n="30">How glad the case is not your own!</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-31" n="31">What poet would not grieve to see</l>
+            <l xml:id="swift-553-14W2-line-32" n="32">His brother write as well as he?</l>
+            <l xml:id="swift-553-14W2-line-33" n="33">But rather than they should excel,</l>
+            <l xml:id="swift-553-14W2-line-34" n="34">Would wish his rivals all in hell?</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-35" n="35">Her end when Emulation misses,</l>
+            <l xml:id="swift-553-14W2-line-36" n="36">She turns to Envy, stings and hisses:</l>
+            <l xml:id="swift-553-14W2-line-37" n="37">The strongest friendship yields to pride,</l>
+            <l xml:id="swift-553-14W2-line-38" n="38">Unless the odds be on our side.</l>
+            <l xml:id="swift-553-14W2-line-39" n="39">Vain human kind! fantastic race!</l>
+            <l xml:id="swift-553-14W2-line-40" n="40">Thy various follies who can trace?</l>
+            <l xml:id="swift-553-14W2-line-41" n="41">Self-love, ambition, envy, pride,</l>
+            <l xml:id="swift-553-14W2-line-42" n="42">Their empire in our hearts divide.</l>
+            <l xml:id="swift-553-14W2-line-43" n="43">Give others riches, power, and station,</l>
+            <l xml:id="swift-553-14W2-line-44" n="44">'Tis all on me a usurpation.</l>
+            <l xml:id="swift-553-14W2-line-45" n="45">I have no title to aspire;</l>
+            <l xml:id="swift-553-14W2-line-46" n="46">Yet, when you sink, I seem the higher.</l>
+            <l xml:id="swift-553-14W2-line-47" n="47">In Pope I cannot read a line,</l>
+            <l xml:id="swift-553-14W2-line-48" n="48">But with a sigh I wish it mine;</l>
+            <l xml:id="swift-553-14W2-line-49" n="49">When he can in one couplet fix</l>
+            <l xml:id="swift-553-14W2-line-50" n="50">More sense than I can do in six;</l>
+            <l xml:id="swift-553-14W2-line-51" n="51">It gives me such a jealous fit,</l>
+            <l xml:id="swift-553-14W2-line-52" n="52">I cry, “Pox take him and his wit!”</l>
+            <l xml:id="swift-553-14W2-line-53" n="53">I grieve to be outdone by Gay</l>
+            <l xml:id="swift-553-14W2-line-54" n="54">In my own humorous biting way.</l>
+            <l xml:id="swift-553-14W2-line-55" n="55">Arbuthnot is no more my friend,</l>
+            <l xml:id="swift-553-14W2-line-56" n="56">Who dares to irony pretend,</l>
+            <l xml:id="swift-553-14W2-line-57" n="57">Which I was born to introduce,</l>
+            <l xml:id="swift-553-14W2-line-58" n="58">Refined it first, and shew'd its use.</l>
+            <l xml:id="swift-553-14W2-line-59" n="59">St John, as well as Pultney, knows</l>
+            <l xml:id="swift-553-14W2-line-60" n="60">That I had some repute for prose;</l>
+            <l xml:id="swift-553-14W2-line-61" n="61">And, till they drove me out of date,</l>
+            <l xml:id="swift-553-14W2-line-62" n="62">Could maul a minister of state.</l>
+            <l xml:id="swift-553-14W2-line-63" n="63">If they have mortified my pride,</l>
+            <l xml:id="swift-553-14W2-line-64" n="64">And made me throw my pen aside;</l>
+            <l xml:id="swift-553-14W2-line-65" n="65">If with such talents Heaven has bless'd 'em,</l>
+            <l xml:id="swift-553-14W2-line-66" n="66">Have I not reason to detest 'em?</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-67" n="67">To all my foes, dear Fortune, send</l>
+            <l xml:id="swift-553-14W2-line-68" n="68">Thy gifts; but never to my friend:</l>
+            <l xml:id="swift-553-14W2-line-69" n="69">I tamely can endure the first;</l>
+            <l xml:id="swift-553-14W2-line-70" n="70">But this with envy makes me burst.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-71" n="71">Thus much may serve by way of proem:</l>
+            <l xml:id="swift-553-14W2-line-72" n="72">Proceed we therefore to our poem.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-73" n="73">The time is not remote, when I</l>
+            <l xml:id="swift-553-14W2-line-74" n="74">Must by the course of nature die;</l>
+            <l xml:id="swift-553-14W2-line-75" n="75">When, I foresee, my special friends</l>
+            <l xml:id="swift-553-14W2-line-76" n="76">Will try to find their private ends:</l>
+            <l xml:id="swift-553-14W2-line-77" n="77">And, though 'tis hardly understood</l>
+            <l xml:id="swift-553-14W2-line-78" n="78">Which way my death can do them good,</l>
+            <l xml:id="swift-553-14W2-line-79" n="79">Yet thus, methinks, I hear them speak:</l>
+            <l xml:id="swift-553-14W2-line-80" n="80">“See, how the Dean begins to break!</l>
+            <l xml:id="swift-553-14W2-line-81" n="81">Poor gentleman, he droops apace!</l>
+            <l xml:id="swift-553-14W2-line-82" n="82">You plainly find it in his face.</l>
+            <l xml:id="swift-553-14W2-line-83" n="83">That old vertigo in his head</l>
+            <l xml:id="swift-553-14W2-line-84" n="84">Will never leave him till he's dead.</l>
+            <l xml:id="swift-553-14W2-line-85" n="85">Besides, his memory decays:</l>
+            <l xml:id="swift-553-14W2-line-86" n="86">He recollects not what he says;</l>
+            <l xml:id="swift-553-14W2-line-87" n="87">He cannot call his friends to mind:</l>
+            <l xml:id="swift-553-14W2-line-88" n="88">Forgets the place where last he dined;</l>
+            <l xml:id="swift-553-14W2-line-89" n="89">Plies you with stories o'er and o'er;</l>
+            <l xml:id="swift-553-14W2-line-90" n="90">He told them fifty times before.</l>
+            <l xml:id="swift-553-14W2-line-91" n="91">How does he fancy we can sit</l>
+            <l xml:id="swift-553-14W2-line-92" n="92">To hear his out-of-fashion wit?</l>
+            <l xml:id="swift-553-14W2-line-93" n="93">But he takes up with younger folks,</l>
+            <l xml:id="swift-553-14W2-line-94" n="94">Who for his wine will bear his jokes.</l>
+            <l xml:id="swift-553-14W2-line-95" n="95">Faith! he must make his stories shorter,</l>
+            <l xml:id="swift-553-14W2-line-96" n="96">Or change his comrades once a quarter:</l>
+            <l xml:id="swift-553-14W2-line-97" n="97">In half the time he talks them round,</l>
+            <l xml:id="swift-553-14W2-line-98" n="98">There must another set be found.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-99" n="99">“For poetry he's past his prime:</l>
+            <l xml:id="swift-553-14W2-line-100" n="100">He takes an hour to find a rhyme;</l>
+            <l xml:id="swift-553-14W2-line-101" n="101">His fire is out, his wit decay'd,</l>
+            <l xml:id="swift-553-14W2-line-102" n="102">His fancy sunk, his Muse a jade.</l>
+            <l xml:id="swift-553-14W2-line-103" n="103">I'd have him throw away his pen;──</l>
+            <l xml:id="swift-553-14W2-line-104" n="104">But there's no talking to some men!”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-105" n="105">And then their tenderness appears,</l>
+            <l xml:id="swift-553-14W2-line-106" n="106">By adding largely to my years;</l>
+            <l xml:id="swift-553-14W2-line-107" n="107">“He's older than he would be reckon'd,</l>
+            <l xml:id="swift-553-14W2-line-108" n="108">And well remembers Charles the Second.</l>
+            <l xml:id="swift-553-14W2-line-109" n="109">He hardly drinks a pint of wine;</l>
+            <l xml:id="swift-553-14W2-line-110" n="110">And that, I doubt, is no good sign.</l>
+            <l xml:id="swift-553-14W2-line-111" n="111">His stomach too begins to fail:</l>
+            <l xml:id="swift-553-14W2-line-112" n="112">Last year we thought him strong and hale;</l>
+            <l xml:id="swift-553-14W2-line-113" n="113">But now he's quite another thing:</l>
+            <l xml:id="swift-553-14W2-line-114" n="114">I wish he may hold out till spring!”</l>
+            <l xml:id="swift-553-14W2-line-115" n="115">They hug themselves, and reason thus:</l>
+            <l xml:id="swift-553-14W2-line-116" n="116">“It is not yet so bad with us!”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-117" n="117">In such a case, they talk in tropes,</l>
+            <l xml:id="swift-553-14W2-line-118" n="118">And by their fears express their hopes.</l>
+            <l xml:id="swift-553-14W2-line-119" n="119">Some great misfortune to portend,</l>
+            <l xml:id="swift-553-14W2-line-120" n="120">No enemy can match a friend.</l>
+            <l xml:id="swift-553-14W2-line-121" n="121">With all the kindness they profess,</l>
+            <l xml:id="swift-553-14W2-line-122" n="122">The merit of a lucky guess</l>
+            <l xml:id="swift-553-14W2-line-123" n="123">(When daily how d'ye's come of course,</l>
+            <l xml:id="swift-553-14W2-line-124" n="124">And servants answer, “Worse and worse!”)</l>
+            <l xml:id="swift-553-14W2-line-125" n="125">Would please them better, than to tell,</l>
+            <l xml:id="swift-553-14W2-line-126" n="126">That, “God be praised, the Dean is well.”'</l>
+            <l xml:id="swift-553-14W2-line-127" n="127">Then he, who prophesied the best,</l>
+            <l xml:id="swift-553-14W2-line-128" n="128">Approves his foresight to the rest:</l>
+            <l xml:id="swift-553-14W2-line-129" n="129">“You know I always fear'd the worst,</l>
+            <l xml:id="swift-553-14W2-line-130" n="130">And often told you so at first.”</l>
+            <l xml:id="swift-553-14W2-line-131" n="131">He'd rather choose that I should die,</l>
+            <l xml:id="swift-553-14W2-line-132" n="132">Than his prediction prove a lie.</l>
+            <l xml:id="swift-553-14W2-line-133" n="133">Not one foretells I shall recover;</l>
+            <l xml:id="swift-553-14W2-line-134" n="134">But all agree to give me over.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-135" n="135">Yet, should some neighbour feel a pain</l>
+            <l xml:id="swift-553-14W2-line-136" n="136">Just in the parts where I complain;</l>
+            <l xml:id="swift-553-14W2-line-137" n="137">How <note place="foot">·He would send <hi rend="italics">many a message</hi> is right; but the question <hi rend="italics">how</hi>, seems to destroy the unity or collective nature of the idea; and therefore, it ought to have been expressed, if the measure would have allowed it, without the article, in the plural number, <hi rend="italics">how many messages</hi>.── L<hi rend="small-caps">OWTH</hi>.</note> many a message would he send!</l>
+            <l xml:id="swift-553-14W2-line-138" n="138">What hearty prayers that I should mend!</l>
+            <l xml:id="swift-553-14W2-line-139" n="139">Inquire what regimen I kept;</l>
+            <l xml:id="swift-553-14W2-line-140" n="140">What gave me ease, and how I slept?</l>
+            <l xml:id="swift-553-14W2-line-141" n="141">And more lament when I was dead,</l>
+            <l xml:id="swift-553-14W2-line-142" n="142">Than all the snivellers round my bed.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-143" n="143">My good companions, never fear;</l>
+            <l xml:id="swift-553-14W2-line-144" n="144">For though you may mistake a year,</l>
+            <l xml:id="swift-553-14W2-line-145" n="145">Though your prognostics run too fast,</l>
+            <l xml:id="swift-553-14W2-line-146" n="146">They must be verified at last.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-147" n="147">Behold the fatal day arrive!</l>
+            <l xml:id="swift-553-14W2-line-148" n="148">“How is the Dean?”── “He's just alive.”</l>
+            <l xml:id="swift-553-14W2-line-149" n="149">Now the departing prayer is read;</l>
+            <l xml:id="swift-553-14W2-line-150" n="150">“He hardly breathes.”── “The Dean is dead.”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-151" n="151">Before the passing bell begun,</l>
+            <l xml:id="swift-553-14W2-line-152" n="152">The news through half the town is run.</l>
+            <l xml:id="swift-553-14W2-line-153" n="153">“O! may we all for death prepare!</l>
+            <l xml:id="swift-553-14W2-line-154" n="154">What has he left? and who's his heir?”──</l>
+            <l xml:id="swift-553-14W2-line-155" n="155">“I know no more than what the news is;</l>
+            <l xml:id="swift-553-14W2-line-156" n="156">'Tis all bequeathed to public uses.”──</l>
+            <l xml:id="swift-553-14W2-line-157" n="157">“To public uses! there's a whim!</l>
+            <l xml:id="swift-553-14W2-line-158" n="158">What had the public done for him?</l>
+            <l xml:id="swift-553-14W2-line-159" n="159">Mere envy, avarice, and pride:</l>
+            <l xml:id="swift-553-14W2-line-160" n="160">He gave it all── but first he died.</l>
+            <l xml:id="swift-553-14W2-line-161" n="161">And had the Dean, in all the nation,</l>
+            <l xml:id="swift-553-14W2-line-162" n="162">No worthy friend, no poor relation?</l>
+            <l xml:id="swift-553-14W2-line-163" n="163">So ready to do strangers good,</l>
+            <l xml:id="swift-553-14W2-line-164" n="164">Forgetting his own flesh and blood!”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-165" n="165">Now, Grub-Street wits are all employ'd;</l>
+            <l xml:id="swift-553-14W2-line-166" n="166">With elegies the town is cloy'd:</l>
+            <l xml:id="swift-553-14W2-line-167" n="167">Some paragraph in every paper</l>
+            <l xml:id="swift-553-14W2-line-168" n="168">To curse the Dean, or bless the Drapier.<note place="foot">·The author imagines that the scribblers of the prevailing party, which he always opposed, will libel him after his death; but that others will remember him with gratitude, who can consider the service he had done to Ireland, under the name of M. B. Drapier, by utterly defeating the destructive project of Wood's halfpence, in five letters to the people of Ireland, at that time read universally, and convincing to every reader.── Dubl. ed.</note></l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-169" n="169">The doctors, tender of their fame,</l>
+            <l xml:id="swift-553-14W2-line-170" n="170">Wisely on me lay all the blame:</l>
+            <l xml:id="swift-553-14W2-line-171" n="171">“We must confess, his case was nice;</l>
+            <l xml:id="swift-553-14W2-line-172" n="172">But he would never take advice.</l>
+            <l xml:id="swift-553-14W2-line-173" n="173">Had he been ruled, for aught appears,</l>
+            <l xml:id="swift-553-14W2-line-174" n="174">He might have lived these twenty years;</l>
+            <l xml:id="swift-553-14W2-line-175" n="175">For, when we open'd him, we found,</l>
+            <l xml:id="swift-553-14W2-line-176" n="176">That all his vital parts were sound.”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-177" n="177">From Dublin soon to London spread,</l>
+            <l xml:id="swift-553-14W2-line-178" n="178">'Tis told at court, <note place="foot">·The Dean supposed himself to die in Ireland, where he was born.── Dubl. ed.</note> “the Dean is dead.”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-179" n="179">And Lady Suffolk, <note place="foot">·Mrs Howard, at one time a favourite with the Dean.── F.<lb/>Mrs. Howard, afterwards Countess of Suffolk, then of the bed-|chamber to the queen, professed much friendship for the Dean. The queen, then princess, sent a dozen times to the Dean (then in London,) with her commands to attend her; which at last he did, by advice of all his friends. She often sent for him afterwards, and always treated him very graciously. He taxed her with a present worth ten pounds, which she promised before he should return to Ireland; but on his taking leave the medals were not ready.── Dubl. ed.</note> in the spleen,</l>
+            <l xml:id="swift-553-14W2-line-180" n="180">Runs laughing up to tell the queen.</l>
+            <l xml:id="swift-553-14W2-line-181" n="181">The queen, so gracious, mild, and good,</l>
+            <l xml:id="swift-553-14W2-line-182" n="182">Cries, “Is he gone! 'tis time he should.</l>
+            <l xml:id="swift-553-14W2-line-183" n="183">He's dead, you say; then let him rot:</l>
+            <l xml:id="swift-553-14W2-line-184" n="184">I'm glad the medals <note place="foot">·The medals were to be sent to the Dean in four months; but *··*··*··*··*.</note> were forgot.</l>
+            <l xml:id="swift-553-14W2-line-185" n="185">I promised him, I own; but when?</l>
+            <l xml:id="swift-553-14W2-line-186" n="186">I only was the princess then;</l>
+            <l xml:id="swift-553-14W2-line-187" n="187">But now, as consort of the king,</l>
+            <l xml:id="swift-553-14W2-line-188" n="188">You know, 'tis quite another thing.”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-189" n="189">Now Chartres, <note place="foot">·Chartres is a most infamous vile scoundrel, grown from a foot-boy, or worse, to a prodigious fortune, both in England and Scotland. He had a way of insinuating himself into all ministers, under every change, either as pimp, flatterer, or informer. He was tried at seventy for rape, and came off by sacrificing a great part of his fortune. He is since dead; but this poem still preserves the scene and time it was written in.── Dubl. ed.</note> at Sir Robert's levee,</l>
+            <l xml:id="swift-553-14W2-line-190" n="190">Tells with a sneer the tidings heavy:</l>
+            <l xml:id="swift-553-14W2-line-191" n="191">“Why, if he died without his shoes,”</l>
+            <l xml:id="swift-553-14W2-line-192" n="192">Cries Bob, <note place="foot">·Sir Robert Walpole, chief minister of state, treated the Dean in 1726 with great distinction; invited him to dinner at Chelsea, with the Dean's friends chosen on purpose: appointed an hour to talk with him on Ireland, to which kingdom and people the Dean found him no great friend; for he defended Wood's project of halfpence, &amp;c. for which the Dean would see him no more; and upon his next year's return to England, Sir Robert, on an accidental meeting, made him a civil compliment; but the Dean never made him another visit.── <hi rend="italics">Ibid</hi>.</note> “I'm sorry for the news:</l>
+            <l xml:id="swift-553-14W2-line-193" n="193">O, were the wretch but living still,</l>
+            <l xml:id="swift-553-14W2-line-194" n="194">And in his place my good friend Will!<note place="foot">·Mr William Pultney, from being Sir Robert's intimate friend, detesting his administration, opposed his measures, and joined with my Lord Bolingbroke, to represent his conduct, in an excellent paper called the Craftsman, which is still continued.── <hi rend="italics">Ibid</hi></note></l>
+            <l xml:id="swift-553-14W2-line-195" n="195">Or had a mitre on his head,</l>
+            <l xml:id="swift-553-14W2-line-196" n="196">Provided Bolingbroke <note place="foot">·Henry St John, Lord Viscount Bolingbroke, secretary of state to Queen Anne, of blessed memory. He is reckoned the most universal genius in Europe. Walpole, dreading his abilities, treated him most injuriously, working with King George I., who forgot his promises of restoring the said lord, upon the restless importunities of the said Walpole.── <hi rend="italics">Ibid</hi>.</note> were dead!”</l>
+            <l xml:id="swift-553-14W2-line-197" n="197">Now Curll <note place="foot">·Curll hath been the most infamous bookseller of any age or country. His character, in part, may be found in Mr Pope's Dunciad. He published three volumes, all charged on the Dean, who never writ three pages of them. He hath used many of the Dean's friends in almost as vile a manner.── <hi rend="italics">Ibid</hi>.</note> his shop from rubbish drains:</l>
+            <l xml:id="swift-553-14W2-line-198" n="198">Three genuine tomes of Swift's remains!</l>
+            <l xml:id="swift-553-14W2-line-199" n="199">And then, to make them pass the glibber,</l>
+            <l xml:id="swift-553-14W2-line-200" n="200">Revised by Tibbalds, Moore, and Cibber.<note place="foot">·Three stupid verse-writers in London; the last, to the shame of the court, and highest disgrace to wit and learning, was made laureat. Moore, commonly called Jemmy Moore, son of Arthur Moore, whose father was jailor of Monaghan, in Ireland. See the character of Jemmy Moore, and Tibbalds, [Theobald,] in the Dunciad.── Dubl. ed.</note></l>
+            <l xml:id="swift-553-14W2-line-201" n="201">He'll treat me as he does my betters,</l>
+            <l xml:id="swift-553-14W2-line-202" n="202">Publish my will, my life, my letters:<note place="foot">·Curll is notoriously infamous for publishing the lives, letters, and last wills and testaments of the nobility and ministers of state, as well as of all the rogues who are hanged at Tyburn. He hath been in custody of the House of Lords, for publishing or forging the letters of many peers, which made the Lords enter a resolution in their journal-book, that no life nor writings of any lord should be published, without the consent of the next heir, or licence from their House.── <hi rend="italics">Ibid</hi>.</note></l>
+            <l xml:id="swift-553-14W2-line-203" n="203">Revive the libels born to die;</l>
+            <l xml:id="swift-553-14W2-line-204" n="204">Which Pope must bear, as well as I.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-205" n="205">Here shift the scene, to represent</l>
+            <l xml:id="swift-553-14W2-line-206" n="206">How those I love my death lament.</l>
+            <l xml:id="swift-553-14W2-line-207" n="207">Poor Pope would grieve a month, and Gay</l>
+            <l xml:id="swift-553-14W2-line-208" n="208">A week, and Arbuthnot a day.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-209" n="209">St John himself will scarce forbear</l>
+            <l xml:id="swift-553-14W2-line-210" n="210">To bite his pen, and drop a tear.</l>
+            <l xml:id="swift-553-14W2-line-211" n="211">The rest will give a shrug, and cry,</l>
+            <l xml:id="swift-553-14W2-line-212" n="212">“I'm sorry── but we all must die!”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-213" n="213">Indifference, clad in Wisdom's guise,</l>
+            <l xml:id="swift-553-14W2-line-214" n="214">All fortitude of mind supplies:</l>
+            <l xml:id="swift-553-14W2-line-215" n="215">For how can stony bowels melt</l>
+            <l xml:id="swift-553-14W2-line-216" n="216">In those who never pity felt!</l>
+            <l xml:id="swift-553-14W2-line-217" n="217">When we are lash'd, they kiss the rod,</l>
+            <l xml:id="swift-553-14W2-line-218" n="218">Resigning to the will of God.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-219" n="219">The fools, my juniors by a year,</l>
+            <l xml:id="swift-553-14W2-line-220" n="220">Are tutor'd with suspense and fear;</l>
+            <l xml:id="swift-553-14W2-line-221" n="221">Who wisely thought my age a screen,</l>
+            <l xml:id="swift-553-14W2-line-222" n="222">When death approach'd, to stand between:</l>
+            <l xml:id="swift-553-14W2-line-223" n="223">The screen removed, their hearts are trembling;</l>
+            <l xml:id="swift-553-14W2-line-224" n="224">They mourn for me without dissembling.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-225" n="225">My female friends, whose tender hearts</l>
+            <l xml:id="swift-553-14W2-line-226" n="226">Have better learn'd to act their parts,</l>
+            <l xml:id="swift-553-14W2-line-227" n="227">Receive the news in doleful dumps:</l>
+            <l xml:id="swift-553-14W2-line-228" n="228">“The Dean is dead: (Pray what is trumps?)</l>
+            <l xml:id="swift-553-14W2-line-229" n="229">Then, Lord have mercy on his soul!</l>
+            <l xml:id="swift-553-14W2-line-230" n="230">(Ladies, I'll venture for the vole.)</l>
+            <l xml:id="swift-553-14W2-line-231" n="231">Six deans, they say, must bear the pall:</l>
+            <l xml:id="swift-553-14W2-line-232" n="232">(I wish I knew what king to call.)</l>
+            <l xml:id="swift-553-14W2-line-233" n="233">Madam, your husband will attend</l>
+            <l xml:id="swift-553-14W2-line-234" n="234">The funeral of so good a friend.</l>
+            <l xml:id="swift-553-14W2-line-235" n="235">No, madam, 'tis a shocking sight:</l>
+            <l xml:id="swift-553-14W2-line-236" n="236">And he's engaged to-morrow night:</l>
+            <l xml:id="swift-553-14W2-line-237" n="237">My Lady Club will take it ill,</l>
+            <l xml:id="swift-553-14W2-line-238" n="238">If he should fail her at quadrille.</l>
+            <l xml:id="swift-553-14W2-line-239" n="239">He loved the Dean── (I lead a heart,)</l>
+            <l xml:id="swift-553-14W2-line-240" n="240">But dearest friends, they say, must part.</l>
+            <l xml:id="swift-553-14W2-line-241" n="241">His time was come: he ran his race;</l>
+            <l xml:id="swift-553-14W2-line-242" n="242">We hope he's in a better place.”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-243" n="243">Why do we grieve that friends should die?</l>
+            <l xml:id="swift-553-14W2-line-244" n="244">No loss more easy to supply.</l>
+            <l xml:id="swift-553-14W2-line-245" n="245">One year is past; a different scene!</l>
+            <l xml:id="swift-553-14W2-line-246" n="246">No further mention of the Dean;</l>
+            <l xml:id="swift-553-14W2-line-247" n="247">Who now, alas! no more is miss'd,</l>
+            <l xml:id="swift-553-14W2-line-248" n="248">Than if he never did exist.</l>
+            <l xml:id="swift-553-14W2-line-249" n="249">Where's now this favourite of Apollo!</l>
+            <l xml:id="swift-553-14W2-line-250" n="250">Departed:── and his works must follow;</l>
+            <l xml:id="swift-553-14W2-line-251" n="251">Must undergo the common fate;</l>
+            <l xml:id="swift-553-14W2-line-252" n="252">His kind of wit is out of date.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-253" n="253">Some country squire to Lintot goes,</l>
+            <l xml:id="swift-553-14W2-line-254" n="254">Inquires for “Swift in Verse and Prose.”</l>
+            <l xml:id="swift-553-14W2-line-255" n="255">Says Lintot, “I have heard the name;</l>
+            <l xml:id="swift-553-14W2-line-256" n="256">He died a year ago.”── “The same.”</l>
+            <l xml:id="swift-553-14W2-line-257" n="257">He searches all the shop in vain.</l>
+            <l xml:id="swift-553-14W2-line-258" n="258">“Sir, you may find them in Duck-lane;<note place="foot">·A place in London, where old books are sold.── Dubl. ed.</note></l>
+            <l xml:id="swift-553-14W2-line-259" n="259">I sent them with a load of books,</l>
+            <l xml:id="swift-553-14W2-line-260" n="260">Last Monday to the pastry-cook's.</l>
+            <l xml:id="swift-553-14W2-line-261" n="261">To fancy they could live a year!</l>
+            <l xml:id="swift-553-14W2-line-262" n="262">I find you're but a stranger here.</l>
+            <l xml:id="swift-553-14W2-line-263" n="263">The Dean was famous in his time,</l>
+            <l xml:id="swift-553-14W2-line-264" n="264">And had a kind of knack at rhyme.</l>
+            <l xml:id="swift-553-14W2-line-265" n="265">His way of writing now is past;</l>
+            <l xml:id="swift-553-14W2-line-266" n="266">The town has got a better taste;</l>
+            <l xml:id="swift-553-14W2-line-267" n="267">I keep no antiquated stuff,</l>
+            <l xml:id="swift-553-14W2-line-268" n="268">But spick and span I have enough.</l>
+            <l xml:id="swift-553-14W2-line-269" n="269">Pray do but give me leave to shew 'em;</l>
+            <l xml:id="swift-553-14W2-line-270" n="270">Here's Colley Cibber's birth-day poem.</l>
+            <l xml:id="swift-553-14W2-line-271" n="271">This ode you never yet have seen,</l>
+            <l xml:id="swift-553-14W2-line-272" n="272">By Stephen Duck, upon the queen.</l>
+            <l xml:id="swift-553-14W2-line-273" n="273">Then here's a letter finely penn'd</l>
+            <l xml:id="swift-553-14W2-line-274" n="274">Against the Crafstman and his friend:</l>
+            <l xml:id="swift-553-14W2-line-275" n="275">It clearly shows that all reflection</l>
+            <l xml:id="swift-553-14W2-line-276" n="276">On ministers is disaffection.</l>
+            <l xml:id="swift-553-14W2-line-277" n="277">Next, here's Sir Robert's vindication,<note place="foot">·Walpole hath a set of party scribblers, who do nothing but write in his defence.── Dubl. ed.`.</note></l>
+            <l xml:id="swift-553-14W2-line-278" n="278">And Mr Henley's last oration.<note place="foot">·Henley is a clergyman, who, wanting both merit and luck to get preferment, or even to keep his curacy in the established church, formed a new conventicle, which he called an Oratory. There, at set times, he delivereth strange speeches, compiled by himself and his associates, who share the profit with him. Every hearer payeth a shilling each day for admittance. he is an absolute dunce, but generally reported crazy.── <hi rend="italics">Ibid</hi>.</note></l>
+            <l xml:id="swift-553-14W2-line-279" n="279">The hawkers have not got them yet:</l>
+            <l xml:id="swift-553-14W2-line-280" n="280">Your honour please to buy a set?</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-281" n="281">“Here's Wolston's <note place="foot">·Wolston was a clergyman, but for want of bread hath, in several treatises, in the most blasphemous manner, attempted to turn our Saviour's miracles into ridicule. He is much caressed by many great courtiers, and by all the infidels, and his books generally read by the court ladies.── <hi rend="italics">Ibid</hi>.</note> tracts, the twelfth edition;</l>
+            <l xml:id="swift-553-14W2-line-282" n="282">'Tis read by every politician:</l>
+            <l xml:id="swift-553-14W2-line-283" n="283">The country members, when in town,</l>
+            <l xml:id="swift-553-14W2-line-284" n="284">To all their boroughs send them down;</l>
+            <l xml:id="swift-553-14W2-line-285" n="285">You never met a thing so smart;</l>
+            <l xml:id="swift-553-14W2-line-286" n="286">The courtiers have them all by heart:</l>
+            <l xml:id="swift-553-14W2-line-287" n="287">Those maids of honour who can read,</l>
+            <l xml:id="swift-553-14W2-line-288" n="288">Are taught to use them for their creed.</l>
+            <l xml:id="swift-553-14W2-line-289" n="289">The reverend author's good intention</l>
+            <l xml:id="swift-553-14W2-line-290" n="290">Has been rewarded with a pension.<note place="foot">·Wolston is here confounded with Woolaston.── H.</note></l>
+            <l xml:id="swift-553-14W2-line-291" n="291">He does an honour to his gown,</l>
+            <l xml:id="swift-553-14W2-line-292" n="292">By bravely running priestcraft down:</l>
+            <l xml:id="swift-553-14W2-line-293" n="293">He shews, as sure as God's in Gloucester,</l>
+            <l xml:id="swift-553-14W2-line-294" n="294">That Moses was a grand impostor;</l>
+            <l xml:id="swift-553-14W2-line-295" n="295">That all his miracles were cheats,</l>
+            <l xml:id="swift-553-14W2-line-296" n="296">Perform'd as jugglers do their feats:</l>
+            <l xml:id="swift-553-14W2-line-297" n="297">The church had never such a writer;</l>
+            <l xml:id="swift-553-14W2-line-298" n="298">A shame he has not got a mitre!”</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-299" n="299">Suppose me dead; and then suppose</l>
+            <l xml:id="swift-553-14W2-line-300" n="300">A club assembled at the Rose;</l>
+            <l xml:id="swift-553-14W2-line-301" n="301">Where, from discourse of this and that,</l>
+            <l xml:id="swift-553-14W2-line-302" n="302">I grow the subject of their chat.</l>
+            <l xml:id="swift-553-14W2-line-303" n="303">And while they toss my name about,</l>
+            <l xml:id="swift-553-14W2-line-304" n="304">With favour some, and some without,</l>
+            <l xml:id="swift-553-14W2-line-305" n="305">One, quite indifferent in the cause,</l>
+            <l xml:id="swift-553-14W2-line-306" n="306">My character impartial draws:</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-307" n="307">“The Dean, if we believe report,</l>
+            <l xml:id="swift-553-14W2-line-308" n="308">Was never ill-received at court.</l>
+            <l xml:id="swift-553-14W2-line-309" n="309">As for his works in verse and prose,</l>
+            <l xml:id="swift-553-14W2-line-310" n="310">I own myself no judge of those;</l>
+            <l xml:id="swift-553-14W2-line-311" n="311">Nor can I tell what critics thought 'em:</l>
+            <l xml:id="swift-553-14W2-line-312" n="312">But this I know, all people bought 'em.</l>
+            <l xml:id="swift-553-14W2-line-313" n="313">As with a moral view design'd</l>
+            <l xml:id="swift-553-14W2-line-314" n="314">To cure the vices of mankind:<note place="foot">·The lines inserted as notes were those rejected by Swift when he revised the piece.<lb/>_And, if he often miss'd his aim,_The world must own it, to their shame,_The praise is his, and theirs the blame.</note></l>
+            <l xml:id="swift-553-14W2-line-315" n="315">His vein, ironically grave,</l>
+            <l xml:id="swift-553-14W2-line-316" n="316">Exposed the fool, and lash'd the knave.</l>
+            <l xml:id="swift-553-14W2-line-317" n="317">To steal a hint was never known,</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-318" n="318">But what he writ was all his own.<note place="foot">·The lines inserted as notes were those rejected by Swift when he revised the piece.<lb/>_“Sir, I have heard another story:_He was a most confounded Tory,_And grew, or he is much belied,_Extremely dull, before he died.“_Can we the Drapier then forget?_Is not our nation in his debt?_'Twas he that writ the Drapier's letters!────_|“He should have left them for his betters;_We had an hundred abler men,_Nor need depend upon his pen.────_Say what you will about his reading,_You never can defend his breeding;_Who in his satires running riot,_Could never the leave the world in quiet;_Attacking, when he took the whim,_Court, city, camp────── all one to him.────_|“But why should he, except he slobber'd,_Offend our patriot, great Sir Robert,_Whose counsels aid the sov'reign power_To save the nation ev'ry hour?_What scenes of evil he unravels_In satires, libels, lying travels!_Not sparing his own clergy-cloth,_But eats into it, like a moth!”─.</note></l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-319" n="319">“He never thought an honour done him,</l>
+            <l xml:id="swift-553-14W2-line-320" n="320">Because a duke was proud to own him;</l>
+            <l xml:id="swift-553-14W2-line-321" n="321">Would rather slip aside and choose</l>
+            <l xml:id="swift-553-14W2-line-322" n="322">To talk with wits in dirty shoes;</l>
+            <l xml:id="swift-553-14W2-line-323" n="323">Despised the fools with stars and garters,</l>
+            <l xml:id="swift-553-14W2-line-324" n="324">So often seen caressing Chartres.</l>
+            <l xml:id="swift-553-14W2-line-325" n="325">He never courted men in station,</l>
+            <l xml:id="swift-553-14W2-line-326" n="326">Nor persons held in admiration;</l>
+            <l xml:id="swift-553-14W2-line-327" n="327">Of no man's greatness was afraid,</l>
+            <l xml:id="swift-553-14W2-line-328" n="328">Because he sought for no man's aid.</l>
+            <l xml:id="swift-553-14W2-line-329" n="329">Though trusted long in great affairs,</l>
+            <l xml:id="swift-553-14W2-line-330" n="330">He gave himself no haughty airs:</l>
+            <l xml:id="swift-553-14W2-line-331" n="331">Without regarding private ends,</l>
+            <l xml:id="swift-553-14W2-line-332" n="332">Spent all his credit for his friends;</l>
+            <l xml:id="swift-553-14W2-line-333" n="333">And only chose the wise and good;</l>
+            <l xml:id="swift-553-14W2-line-334" n="334">No flatterers; no allies in blood:</l>
+            <l xml:id="swift-553-14W2-line-335" n="335">But succour'd virtue in distress,</l>
+            <l xml:id="swift-553-14W2-line-336" n="336">And seldom fail'd of good success;</l>
+            <l xml:id="swift-553-14W2-line-337" n="337">As numbers in their hearts must own,</l>
+            <l xml:id="swift-553-14W2-line-338" n="338">Who, but for him, had been unknown.<note place="foot">·Dr Delany, in the close of his eighth letter, after having enumerated the friends with whom the Dean lived in the greatest intimacy, very handsomely applies this passage to himself.── H.</note></l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-339" n="339">“With princes kept a due decorum,</l>
+            <l xml:id="swift-553-14W2-line-340" n="340">But never stood in awe before 'em.</l>
+            <l xml:id="swift-553-14W2-line-341" n="341">om.</l>
+            <l xml:id="swift-553-14W2-line-342" n="342">om.</l>
+            <l xml:id="swift-553-14W2-line-343" n="343">om.</l>
+            <l xml:id="swift-553-14W2-line-344" n="344">om.</l>
+            <l xml:id="swift-553-14W2-line-345" n="345">He follow'd David's lesson just;</l>
+            <l xml:id="swift-553-14W2-line-346" n="346">In princes never put thy trust:</l>
+            <l xml:id="swift-553-14W2-line-347" n="347">And would you make him truly sour,</l>
+            <l xml:id="swift-553-14W2-line-348" n="348">Provoke him with a slave in power.</l>
+            <l xml:id="swift-553-14W2-line-349" n="349">The Irish senate if you named,</l>
+            <l xml:id="swift-553-14W2-line-350" n="350">With what impatience he declaim'd!</l>
+            <l xml:id="swift-553-14W2-line-351" n="351">Fair L<hi rend="small-caps">IBERTY</hi> was all his cry,</l>
+            <l xml:id="swift-553-14W2-line-352" n="352">For her he stood prepared to die;</l>
+            <l xml:id="swift-553-14W2-line-353" n="353">For her he boldly stood alone;</l>
+            <l xml:id="swift-553-14W2-line-354" n="354">For her he oft exposed his own.</l>
+            <l xml:id="swift-553-14W2-line-355" n="355">Two kingdoms, <note place="foot">·In 1713, the queen was prevailed with, by an address from the House of Lords in England, to publish a proclamation, promising three hundred pounds to discover the author of a pamphlet, called, “<hi rend="italics">The Public Spirit of the Whigs</hi>;” and in Ireland, in the year 1724, Lord Carteret, at his first coming into the government, was prevailed on to issue a proclamation for promising the like reward of three hundred pounds, to any person who would discover the author of a pamphlet, called, “<hi rend="italics">The Drapier's Fourth Letter</hi>,” &amp;c., written against that destructive project of coining halfpence for Ireland; but in neither kingdom was the Dean discovered.── H.</note> just as faction led,</l>
+            <l xml:id="swift-553-14W2-line-356" n="356">Had set a price upon his head;</l>
+            <l xml:id="swift-553-14W2-line-357" n="357">But not a traitor could be found,</l>
+            <l xml:id="swift-553-14W2-line-358" n="358">To sell him for six hundred pound.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-359" n="359">“Had he but spared his tongue and pen,</l>
+            <l xml:id="swift-553-14W2-line-360" n="360">He might have rose like other men:</l>
+            <l xml:id="swift-553-14W2-line-361" n="361">But power was never in his thought,</l>
+            <l xml:id="swift-553-14W2-line-362" n="362">And wealth he valued not a groat:</l>
+            <l xml:id="swift-553-14W2-line-363" n="363">Ingratitude he often found,</l>
+            <l xml:id="swift-553-14W2-line-364" n="364">And pitied those who meant the wound:</l>
+            <l xml:id="swift-553-14W2-line-365" n="365">But kept the tenor of his mind,</l>
+            <l xml:id="swift-553-14W2-line-366" n="366">To merit well of human kind:</l>
+            <l xml:id="swift-553-14W2-line-367" n="367">Nor made a sacrifice of those</l>
+            <l xml:id="swift-553-14W2-line-368" n="368">Who still were true, to please his foes.</l>
+            <l xml:id="swift-553-14W2-line-369" n="369">He labour'd many a fruitless hour,</l>
+            <l xml:id="swift-553-14W2-line-370" n="370">To reconcile his friends in power;</l>
+            <l xml:id="swift-553-14W2-line-371" n="371">Saw mischief by a faction brewing,</l>
+            <l xml:id="swift-553-14W2-line-372" n="372">While they pursued each other's ruin.</l>
+            <l xml:id="swift-553-14W2-line-373" n="373">But finding vain was all his care,</l>
+            <l xml:id="swift-553-14W2-line-374" n="374">He left the court in mere despair.<note place="foot">·Queen Anne's ministry fell to variance from the first year after its commencement: Harcourt the chancellor, and the secretary Bolingbroke, were discontented with the treasurer Oxford, for his too great mildness to the Whigs; this quarrel grew higher every day until the queen's death. The Dean, who was the only person that endeavoured to reconcile them, found it impossible, and thereupon retired into Berkshire, about ten weeks before that event.── H.</note></l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-375" n="375">“And, oh! how short are human schemes!</l>
+            <l xml:id="swift-553-14W2-line-376" n="376">Here ended all our golden dreams.</l>
+            <l xml:id="swift-553-14W2-line-377" n="377">What St John's skill in state affairs,</l>
+            <l xml:id="swift-553-14W2-line-378" n="378">What Ormond's valour, Oxford's cares,</l>
+            <l xml:id="swift-553-14W2-line-379" n="379">To save their sinking country lent,</l>
+            <l xml:id="swift-553-14W2-line-380" n="380">Was all destroy'd by one event.</l>
+            <l xml:id="swift-553-14W2-line-381" n="381">Too soon that precious life was ended,</l>
+            <l xml:id="swift-553-14W2-line-382" n="382">On which alone our weal depended.<note place="foot">·In the height of the quarrel between the ministers, the queen died, Aug. 1, 1714.── H.</note></l>
+            <l xml:id="swift-553-14W2-line-383" n="383">When up a dangerous faction starts,<note place="foot">·On the queen's demise, the Whigs were restored to power, which they exercised with the utmost rage and revenge; impeached and banished the chief leaders of the church party, and stripped all their adherents of what employments they had.── H.</note></l>
+            <l xml:id="swift-553-14W2-line-384" n="384">With wrath and vengeance in their hearts;</l>
+            <l xml:id="swift-553-14W2-line-385" n="385">By solemn league and covenant bound,</l>
+            <l xml:id="swift-553-14W2-line-386" n="386">To ruin, slaughter, and confound;</l>
+            <l xml:id="swift-553-14W2-line-387" n="387">To turn religion to a fable,</l>
+            <l xml:id="swift-553-14W2-line-388" n="388">And make the government a Babel;</l>
+            <l xml:id="swift-553-14W2-line-389" n="389">Pervert the laws, disgrace the gown,</l>
+            <l xml:id="swift-553-14W2-line-390" n="390">Corrupt the senate, rob the crown;</l>
+            <l xml:id="swift-553-14W2-line-391" n="391">To sacrifice Old England's glory,</l>
+            <l xml:id="swift-553-14W2-line-392" n="392">And make her infamous in story:</l>
+            <l xml:id="swift-553-14W2-line-393" n="393">When such a tempest shook the land,</l>
+            <l xml:id="swift-553-14W2-line-394" n="394">How could unguarded Virtue stand!</l>
+            <l xml:id="swift-553-14W2-line-395" n="395">With horror, grief, despair, the Dean</l>
+            <l xml:id="swift-553-14W2-line-396" n="396">Beheld the dire destructive scene:</l>
+            <l xml:id="swift-553-14W2-line-397" n="397">His friends in exile, or the Tower,</l>
+            <l xml:id="swift-553-14W2-line-398" n="398">Himself <note place="foot">·Upon the queen's death, the Dean returned to Dublin; yet numberless libels were written against him in England; he was insulted in the street, and at night was forced to be attended by his servants armed.── H.</note> within the frown of power;</l>
+            <l xml:id="swift-553-14W2-line-399" n="399">Pursued by base envenom'd pens,</l>
+            <l xml:id="swift-553-14W2-line-400" n="400">Far to the land of saints and fens;</l>
+            <l xml:id="swift-553-14W2-line-401" n="401">A servile race in folly nursed,</l>
+            <l xml:id="swift-553-14W2-line-402" n="402">Who truckle most, when treated worst.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-403" n="403">“By innocence and resolution,</l>
+            <l xml:id="swift-553-14W2-line-404" n="404">He bore continual persecution;</l>
+            <l xml:id="swift-553-14W2-line-405" n="405">While numbers to preferment rose,</l>
+            <l xml:id="swift-553-14W2-line-406" n="406">Whose merits were, to be his foes;</l>
+            <l xml:id="swift-553-14W2-line-407" n="407">When even his own familiar friends,</l>
+            <l xml:id="swift-553-14W2-line-408" n="408">Intent upon their private ends,</l>
+            <l xml:id="swift-553-14W2-line-409" n="409">Like renegadoes now he feels,</l>
+            <l xml:id="swift-553-14W2-line-410" n="410">Against him lifting up their heels.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-411" n="411">“The Dean did, by his pen, defeat</l>
+            <l xml:id="swift-553-14W2-line-412" n="412">An infamous destructive cheat;<note place="foot">·Wood, a hardware-man, from England, had a patent for coining copper halfpence for Ireland, to the sum of 108,000l. which, in the consequence, must have left that kingdom without gold or silver.── H.</note></l>
+            <l xml:id="swift-553-14W2-line-413" n="413">Taught fools their interest how to know,</l>
+            <l xml:id="swift-553-14W2-line-414" n="414">And gave them arms to ward the blow.</l>
+            <l xml:id="swift-553-14W2-line-415" n="415">Envy has own'd it was his doing,</l>
+            <l xml:id="swift-553-14W2-line-416" n="416">To save that hapless land from ruin;</l>
+            <l xml:id="swift-553-14W2-line-417" n="417">While they who at the steerage stood,</l>
+            <l xml:id="swift-553-14W2-line-418" n="418">And reap'd the profit, sought his blood.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-419" n="419">“To save them from their evil fate,</l>
+            <l xml:id="swift-553-14W2-line-420" n="420">In him was held a crime of state.</l>
+            <l xml:id="swift-553-14W2-line-421" n="421">A wicked monster on the bench,<note place="foot">·Whitshed was then chief justice. He had some years before prosecuted a printer for a pamphlet written by the Dean, to persuade the people of Ireland to wear their own manufactures. Whitshed sent the jury down eleven times, and kept them nine hours, until they were forced to bring in a special verdict. He sat afterwards on the trial of the printer of the Drapier's Fourth Letter; but the jury, against all he could say or swear, threw out the bill. All the kingdom took the Drapier's part, except the courtiers, or those who expected places. Whitshed died August 26, 1727 (having a few months before exchanged his place in the King's Bench, which he had held ten or twelve years, for the same office in the Common Pleas:) and Archbishop Boulter says, his uneasiness upon some affronts he met with helped to shorten his days. These affronts were certainly the satires of the Dean and his friends.── H.</note></l>
+            <l xml:id="swift-553-14W2-line-422" n="422">Whose fury blood could never quench;</l>
+            <l xml:id="swift-553-14W2-line-423" n="423">As vile and profligate a villain,</l>
+            <l xml:id="swift-553-14W2-line-424" n="424">As modern Scroggs, or old Tresilian:<note place="foot">·Sir William Scroggs, Chief Justice of the King's Bench in the reign of King Charles II., and Sir Robert Tresilian, Chief Justice of England, in the time of Richard II., both infamous for encroachments on the liberties and property of the people of England.</note></l>
+            <l xml:id="swift-553-14W2-line-425" n="425">Who long all justice has discarded,</l>
+            <l xml:id="swift-553-14W2-line-426" n="426">Nor fear'd he God, nor man regarded;</l>
+            <l xml:id="swift-553-14W2-line-427" n="427">Vow'd on the Dean his rage to vent,</l>
+            <l xml:id="swift-553-14W2-line-428" n="428">And make him of his zeal repent:</l>
+            <l xml:id="swift-553-14W2-line-429" n="429">But Heaven his innocence defends,</l>
+            <l xml:id="swift-553-14W2-line-430" n="430">The grateful people stand his friends;</l>
+            <l xml:id="swift-553-14W2-line-431" n="431">Not strains of law, nor judge's frown,</l>
+            <l xml:id="swift-553-14W2-line-432" n="432">Nor topics brought to please the crown,</l>
+            <l xml:id="swift-553-14W2-line-433" n="433">Nor witness hired, nor jury pick'd,</l>
+            <l xml:id="swift-553-14W2-line-434" n="434">Prevail to bring him in convict.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-435" n="435">In exile, <note place="foot">·In Ireland, which he had reason to call a place of exile; to which country, nothing could have driven him but the queen's death, who had determined to fix him in England, in spite of the Duchess of Somerset, &amp;c.── H.</note> with a steady heart,</l>
+            <l xml:id="swift-553-14W2-line-436" n="436">He spent his life's declining part;</l>
+            <l xml:id="swift-553-14W2-line-437" n="437">Where folly, pride, and faction sway,</l>
+            <l xml:id="swift-553-14W2-line-438" n="438">Remote from St John, Pope, and Gay.<note place="foot">·Alas, poor Dean! his only scope<lb/>Was to be held a misanthrope._This into gen'ral odium drew him,_Which if he liked, much good may't do him._His zeal was not to lash our crimes,_But discontent against the times;_For had we made him timely offers_To raise his post, or fill his coffers,_Perhaps he might have truckled down,_Like other brethren of his gown._For party he would scarce have bled:────_I say no more── because he's dead────_What writings has he left behind?────_I hear, they're of a different kind;_A few in verse; but most in prose──_Some high-flown pamphlets, I suppose;──_All scribbled in the worst of times,_To palliate his friend Oxford's crimes,_To praise Queen Anne, nay more, defend her,_As never fav'ring the Pretender;────_Or libels yet conceal'd from sight,_Against the court to shew his spite;_Perhaps his travels, part the third;_A lie at ev'ry second word──_Offensive to a loyal ear:────_But──── not one sermon, you may swear.”.</note></l>
+            <l xml:id="swift-553-14W2-line-439" n="439">His friendships there, to few confined,<note place="foot">·In Ireland the Dean was not acquainted with one single lord, spiritual or temporal. He only conversed with private gentlemen of the clergy or laity, and but a small number of either.──── Dubl. ed.</note></l>
+            <l xml:id="swift-553-14W2-line-440" n="440">Were always of the middling kind;</l>
+            <l xml:id="swift-553-14W2-line-441" n="441">No fools of rank, a mongrel breed,</l>
+            <l xml:id="swift-553-14W2-line-442" n="442">Who fain would pass for lords indeed:</l>
+            <l xml:id="swift-553-14W2-line-443" n="443">Where titles give no right or power,<note place="foot">·The peers of Ireland lost great part of their jurisdiction by one single act, ──·· ──·· ──·· ──·· ── Dubl. ed.</note></l>
+            <l xml:id="swift-553-14W2-line-444" n="444">And peerage is a wither'd flower;</l>
+            <l xml:id="swift-553-14W2-line-445" n="445">He would have held it a disgrace,</l>
+            <l xml:id="swift-553-14W2-line-446" n="446">If such a wretch had known his face.</l>
+            <l xml:id="swift-553-14W2-line-447" n="447">On rural squires, that kingdom's bane,</l>
+            <l xml:id="swift-553-14W2-line-448" n="448">He vented oft his wrath in vain;</l>
+            <l xml:id="swift-553-14W2-line-449" n="449">******* squires to market brought;</l>
+            <l xml:id="swift-553-14W2-line-450" n="450">Who sell their souls and **** for nought.</l>
+            <l xml:id="swift-553-14W2-line-451" n="451">The ****** go joyful back,</l>
+            <l xml:id="swift-553-14W2-line-452" n="452">The *** the church their tenants rack,</l>
+            <l xml:id="swift-553-14W2-line-453" n="453">Go snacks with *******</l>
+            <l xml:id="swift-553-14W2-line-454" n="454">And keep the peace to pick up fees;</l>
+            <l xml:id="swift-553-14W2-line-455" n="455">In every job to have a share,</l>
+            <l xml:id="swift-553-14W2-line-456" n="456">A gaol or turnpike to repair;</l>
+            <l xml:id="swift-553-14W2-line-457" n="457">And turn the tax for public roads,</l>
+            <l xml:id="swift-553-14W2-line-458" n="458">Commodious to their own abodes.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-459" n="459">“Perhaps I may allow the Dean</l>
+            <l xml:id="swift-553-14W2-line-460" n="460">Had too much satire in his vein;</l>
+            <l xml:id="swift-553-14W2-line-461" n="461">And seem'd determined not to starve it,</l>
+            <l xml:id="swift-553-14W2-line-462" n="462">Because no age could more deserve it.</l>
+            <l xml:id="swift-553-14W2-line-463" n="463">Yet malice never was his aim;</l>
+            <l xml:id="swift-553-14W2-line-464" n="464">He lash'd the vice, but spared the name;</l>
+            <l xml:id="swift-553-14W2-line-465" n="465">No individual could resent,</l>
+            <l xml:id="swift-553-14W2-line-466" n="466">Where thousands equally were meant;</l>
+            <l xml:id="swift-553-14W2-line-467" n="467">His satire points at no defect,</l>
+            <l xml:id="swift-553-14W2-line-468" n="468">But what all mortals may correct;</l>
+            <l xml:id="swift-553-14W2-line-469" n="469">For he abhorr'd that senseless tribe</l>
+            <l xml:id="swift-553-14W2-line-470" n="470">Who call it humour when they gibe:</l>
+            <l xml:id="swift-553-14W2-line-471" n="471">He spared a hump, or crooked nose,</l>
+            <l xml:id="swift-553-14W2-line-472" n="472">Whose owners set not up for beaux.</l>
+            <l xml:id="swift-553-14W2-line-473" n="473">True genuine dulness moved his pity,</l>
+            <l xml:id="swift-553-14W2-line-474" n="474">Unless it offer'd to be witty.</l>
+            <l xml:id="swift-553-14W2-line-475" n="475">Those who their ignorance confest,</l>
+            <l xml:id="swift-553-14W2-line-476" n="476">He ne'er offended with a jest;</l>
+            <l xml:id="swift-553-14W2-line-477" n="477">But laugh'd to hear an idiot quote</l>
+            <l xml:id="swift-553-14W2-line-478" n="478">A verse from Horace learn'd by rote.<note place="foot">·Vice, if it e'er can be abash'd,<lb/>Must be or ridiculed or lash'd._If you resent it, who's to blame?_He neither knew you nor your name._Should vice expect to 'scape rebuke,_Because its owner is a duke?.</note></l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-479" n="479">“He knew a hundred pleasing stories,</l>
+            <l xml:id="swift-553-14W2-line-480" n="480">With all the turns of Whigs and·and Tories;</l>
+            <l xml:id="swift-553-14W2-line-481" n="481">Was cheerful to his dying day;</l>
+            <l xml:id="swift-553-14W2-line-482" n="482">And friends would let him have his way.</l>
+            <l rend="indent(1)" xml:id="swift-553-14W2-line-483" n="483">“He gave the little wealth he had</l>
+            <l xml:id="swift-553-14W2-line-484" n="484">To build a house for fools and mad;</l>
+            <l xml:id="swift-553-14W2-line-485" n="485">And shew'd by one satiric touch,</l>
+            <l xml:id="swift-553-14W2-line-486" n="486">No nation wanted it so much.</l>
+            <l xml:id="swift-553-14W2-line-487" n="487">That kingdom he had left his debtor,</l>
+            <l xml:id="swift-553-14W2-line-488" n="488">I wish it soon may have a better.”<note place="foot">·And, since you dread no farther lashes,<lb/>Methinks you may forgive his ashes.</note></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

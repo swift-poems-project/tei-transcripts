@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-719A79L1-title-1">ODE TO SPRING.<lb/>  BY A LADY <ref target="#spp-719A79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-719A79L1-footnote-title-1" place="foot">This and the next ode have been ascribed to Vanessa</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 11JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-719A79L1-footnote-title-1 #spp-719A79L1-title-1"/>
+        </linkGrp>
+        <div n="719A79L1">
+          <head type="note" n="1" xml:id="spp-719A79L1-headnote-1">
+            <lg n="1" xml:id="spp-719A79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-719A79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-719A79L1-headnote-2">
+            <lg n="1" xml:id="spp-719A79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-719A79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-719A79L1-headnote-3">
+            <lg n="1" xml:id="spp-719A79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-719A79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-719A79L1-line-1" n="1"><hi rend="display-initial">H</hi>AIL, blushing goddess, beauteous Spring,</l>
+            <l xml:id="swift-719A79L1-line-2" n="2">Who, in thy jocund train, dost bring</l>
+            <l xml:id="swift-719A79L1-line-3" n="3">Loves and Graces, smiling Hours,</l>
+            <l xml:id="swift-719A79L1-line-4" n="4">Balmy breezes, fragrant flowers;</l>
+            <l xml:id="swift-719A79L1-line-5" n="5">Come, with tints of roseate hue,</l>
+            <l xml:id="swift-719A79L1-line-6" n="6">Nature's faded charms renew.</l>
+            <l rend="indent(1)" xml:id="swift-719A79L1-line-7" n="7">Yet why should I thy presence hail?</l>
+            <l xml:id="swift-719A79L1-line-8" n="8">To me no more the breathing gale</l>
+            <l xml:id="swift-719A79L1-line-9" n="9">Comes fraught with sweets; no more the rose</l>
+            <l xml:id="swift-719A79L1-line-10" n="10">With such transcendent beauty blows,</l>
+            <l xml:id="swift-719A79L1-line-11" n="11">As when Cadenus blest the scene,</l>
+            <l xml:id="swift-719A79L1-line-12" n="12">And shar'd with me those joys serene;</l>
+            <l xml:id="swift-719A79L1-line-13" n="13">When, unperceiv'd, the lambent fire</l>
+            <l xml:id="swift-719A79L1-line-14" n="14">Of friendship kindled new desire:</l>
+            <l xml:id="swift-719A79L1-line-15" n="15">Still listening to his tuneful tongue,</l>
+            <l xml:id="swift-719A79L1-line-16" n="16">The truths, which angels might have sung,</l>
+            <l xml:id="swift-719A79L1-line-17" n="17">Divine, imprest their gentle sway,</l>
+            <l xml:id="swift-719A79L1-line-18" n="18">And sweetly stole my soul away.</l>
+            <l xml:id="swift-719A79L1-line-19" n="19">My guide, instructor, lover, friend,</l>
+            <l xml:id="swift-719A79L1-line-20" n="20">(Dear names!) in one idea blend;</l>
+            <l xml:id="swift-719A79L1-line-21" n="21">Oh! still conjoin'd, your incense rise,</l>
+            <l xml:id="swift-719A79L1-line-22" n="22">And waft sweet odours to the skies!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

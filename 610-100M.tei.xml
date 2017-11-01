@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses<lb/>  Left on Dean Swift's Desk; on his Birth-Day,<lb/>  with a Silver Standish, by D<hi rend="superscript">r</hi> 08. Delauny.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8SE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="610-100M">
+          <head type="note" n="1" xml:id="spp-610-100M-headnote-1">
+            <lg n="1" xml:id="spp-610-100M-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-610-100M-headnote-1-line-group-1-line-1">Anno 1733&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-610-100M-headnote-2">
+            <lg n="1" xml:id="spp-610-100M-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-610-100M-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-610-100M-headnote-3">
+            <lg n="1" xml:id="spp-610-100M-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-610-100M-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-610-100M-line-1" n="1">Hither from Mexico I came,</l>
+            <l rend="indent(1)" xml:id="swift-610-100M-line-2" n="2">To serve a Proud Iernian Dame:</l>
+            <l xml:id="swift-610-100M-line-3" n="3">Was long submitted to her Will,</l>
+            <l xml:id="swift-610-100M-line-4" n="4">At Length, she lost me at Quadrille:</l>
+            <l xml:id="swift-610-100M-line-5" n="5">Thro' various Shapes, I often pass'd,</l>
+            <l xml:id="swift-610-100M-line-6" n="6">Still hoping to have Rest at last;</l>
+            <l xml:id="swift-610-100M-line-7" n="7">And still ambitious to Obtain,</l>
+            <l xml:id="swift-610-100M-line-8" n="8">Admittance to the Patriot Dean:</l>
+            <l xml:id="swift-610-100M-line-9" n="9">And sometimes got w<hi rend="superscript">th</hi>in his Door,</l>
+            <l xml:id="swift-610-100M-line-10" n="10">But still turnd out, to serve the Poor:</l>
+            <l xml:id="swift-610-100M-line-11" n="11">Not strolling Idleness to Aid,</l>
+            <l xml:id="swift-610-100M-line-12" n="12">But honest Industry decayd.</l>
+            <l xml:id="swift-610-100M-line-13" n="13">At length an Artist purchas'd me</l>
+            <l xml:id="swift-610-100M-line-14" n="14">And brought me, to the Shape you see.</l>
+            <l xml:id="swift-610-100M-line-15" n="15">This done, to Hermes I apply'd,</l>
+            <l xml:id="swift-610-100M-line-16" n="16">Oh Hermes gratify my Pride:</l>
+            <l xml:id="swift-610-100M-line-17" n="17">Be it my Fate, to Serve a Sage</l>
+            <l xml:id="swift-610-100M-line-18" n="18">The greatest Genius of his Age:</l>
+            <l xml:id="swift-610-100M-line-19" n="19">That Matchless Pen let me Supply</l>
+            <l xml:id="swift-610-100M-line-20" n="20">Whose living Lines will never dye.</l>
+            <l xml:id="swift-610-100M-line-21" n="21">I Grant your Suit the God reply'd,</l>
+            <l xml:id="swift-610-100M-line-22" n="22">And here, he left me to reside.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

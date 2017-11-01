@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to a PARSON.<lb/>  An EPIGRAM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 20JA97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="807-32MG">
+          <head type="note" n="1" xml:id="spp-807-32MG-headnote-1">
+            <lg n="1" xml:id="spp-807-32MG-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-32MG-headnote-1-line-group-1-line-1">The following Epigram comes from Ireland.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-807-32MG-headnote-2">
+            <lg n="1" xml:id="spp-807-32MG-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-32MG-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-807-32MG-headnote-3">
+            <lg n="1" xml:id="spp-807-32MG-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-32MG-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-807-32MG-line-1" n="1"><hi rend="display-initial">W</hi>OU'D you rise in the Church, be stupid and Dull.</l>
+            <l xml:id="swift-807-32MG-line-2" n="2">Be empty of <hi rend="italics">Learning</hi>, of Insolence full:</l>
+            <l xml:id="swift-807-32MG-line-3" n="3">Tho' Lewd and Immoral, be Formal and Grave,</l>
+            <l xml:id="swift-807-32MG-line-4" n="4">In Flatt'ry an Artist, in Fawning a Slave,</l>
+            <l xml:id="swift-807-32MG-line-5" n="5">No Merit, no Science, no Virtue is wanting</l>
+            <l xml:id="swift-807-32MG-line-6" n="6">In him, that's accomplish'd in Cringing and Canting:</l>
+            <l xml:id="swift-807-32MG-line-7" n="7">Be studious to practice true Meanness of Spirit;</l>
+            <l xml:id="swift-807-32MG-line-8" n="8">For who but Lord <hi rend="italics">Bolton</hi> was mitred for Merit?</l>
+            <l xml:id="swift-807-32MG-line-9" n="9">Wou'd you wish to be wrap'd in a Rochet── In short,</l>
+            <l xml:id="swift-807-32MG-line-10" n="10">Be as <hi rend="italics">Pox'd</hi> and Profane as Fanatical <hi rend="italics">H</hi>────.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A</hi> P<hi rend="small-caps">ETITION</hi> <hi rend="italics">to his Grace the Duke<lb/>  of</hi> G<hi rend="small-caps">RAFTON</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 5JA16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 28MY16, 4JE16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="357-52L-">
+          <head type="note" n="1" xml:id="spp-357-52L--headnote-1">
+            <lg n="1" xml:id="spp-357-52L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-357-52L--headnote-1-line-group-1-line-1"><hi rend="italics">Non Domus &amp; Fundus</hi>.<note rend="flush right">H<hi rend="small-caps">OR</hi>.··</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-357-52L--headnote-2">
+            <lg n="1" xml:id="spp-357-52L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-357-52L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-357-52L--headnote-3">
+            <lg n="1" xml:id="spp-357-52L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-357-52L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-357-52L--line-1" n="1"><hi rend="display-initial">I</hi>T was, my Lord, the dextrous Shift</l>
+            <l xml:id="swift-357-52L--line-2" n="2">Of t'other <hi rend="italics">Jonathan</hi>, viz. <hi rend="italics">Swift</hi>,</l>
+            <l xml:id="swift-357-52L--line-3" n="3">But now St. <hi rend="italics">Patrick</hi>'s saucy Dean,</l>
+            <l xml:id="swift-357-52L--line-4" n="4">With silver Verge, and Surplice clean,</l>
+            <l xml:id="swift-357-52L--line-5" n="5">Of <hi rend="italics">Oxford</hi>, or of <hi rend="italics">Ormond</hi>'s Grace</l>
+            <l xml:id="swift-357-52L--line-6" n="6">In looser Rhyme to beg a Place.</l>
+            <l xml:id="swift-357-52L--line-7" n="7">A Place he got, yclep'd a Stall,</l>
+            <l xml:id="swift-357-52L--line-8" n="8">And eke a thousand Pounds withal;</l>
+            <l xml:id="swift-357-52L--line-9" n="9">And were he a less witty Writer</l>
+            <l xml:id="swift-357-52L--line-10" n="10">He might as well have got a Mitre.</l>
+            <l rend="indent(1)" xml:id="swift-357-52L--line-11" n="11"><lb/>Thus I the <hi rend="italics">Jonathan</hi> of <hi rend="italics">Connor</hi>,</l>
+            <l xml:id="swift-357-52L--line-12" n="12">In humble Lays my Thanks to offer,</l>
+            <l xml:id="swift-357-52L--line-13" n="13">Approach your <hi rend="italics">Grace</hi> with grateful Heart,</l>
+            <l xml:id="swift-357-52L--line-14" n="14">My Thanks and Verse devoid of Art,</l>
+            <l xml:id="swift-357-52L--line-15" n="15">Content with what your Bounty gave,</l>
+            <l xml:id="swift-357-52L--line-16" n="16">No larger Income do I crave:</l>
+            <l xml:id="swift-357-52L--line-17" n="17">Rejoicing that in <hi rend="italics">better Times</hi></l>
+            <l xml:id="swift-357-52L--line-18" n="18">G<hi rend="small-caps">RAFTON</hi> requires my loyal Lines.</l>
+            <l xml:id="swift-357-52L--line-19" n="19">Proud! while my <hi rend="italics">Patron</hi> is <hi rend="italics">polite</hi>,</l>
+            <l xml:id="swift-357-52L--line-20" n="20">I likewise to the Patriot write.</l>
+            <l xml:id="swift-357-52L--line-21" n="21">Proud! that at once I can commend</l>
+            <l xml:id="swift-357-52L--line-22" n="22">King <hi rend="italics">George</hi>'s and the Muse's Friend,</l>
+            <l xml:id="swift-357-52L--line-23" n="23">Endear'd to <hi rend="italics">Britain</hi> and to Thee,</l>
+            <l xml:id="swift-357-52L--line-24" n="24">(Disjoin'd <hi rend="italics">Hibernia</hi> by the Sea)</l>
+            <l xml:id="swift-357-52L--line-25" n="25">Endear'd by twice three anxious Years,</l>
+            <l xml:id="swift-357-52L--line-26" n="26">Employ'd in Guardian Toils and Cares;</l>
+            <l xml:id="swift-357-52L--line-27" n="27">By Love, by Wisdom, and by Skill,</l>
+            <l xml:id="swift-357-52L--line-28" n="28">For He has sav'd <hi rend="italics">Thee</hi> against thy Will.</l>
+            <l rend="indent(1)" xml:id="swift-357-52L--line-29" n="29"><lb/>But where shall S<hi rend="small-caps">MEDLY</hi> make his Nest</l>
+            <l xml:id="swift-357-52L--line-30" n="30">And lay his wandring Head to Rest?</l>
+            <l xml:id="swift-357-52L--line-31" n="31">Where shall he find a decent House</l>
+            <l xml:id="swift-357-52L--line-32" n="32">To treat his Friends, and chear his Spouse?</l>
+            <l xml:id="swift-357-52L--line-33" n="33">Oh! lack, my Lord, some pretty Cure,</l>
+            <l xml:id="swift-357-52L--line-34" n="34">In wholesome Soil, and Æther pure;</l>
+            <l xml:id="swift-357-52L--line-35" n="35">The Garden stor'd with artless Flowers,</l>
+            <l xml:id="swift-357-52L--line-36" n="36">In either Angle shady Bowers.</l>
+            <l xml:id="swift-357-52L--line-37" n="37">No gay <hi rend="italics">Parterre</hi> with costly Green,</l>
+            <l xml:id="swift-357-52L--line-38" n="38">Within the ambient Hedge be seen:</l>
+            <l xml:id="swift-357-52L--line-39" n="39">Let Nature freely take her Course,</l>
+            <l xml:id="swift-357-52L--line-40" n="40">Nor fear from one ungrateful Force;</l>
+            <l xml:id="swift-357-52L--line-41" n="41">No Sheers shall check her sprouting Vigour,</l>
+            <l xml:id="swift-357-52L--line-42" n="42">Nor shape the Yews to antick Figure:</l>
+            <l xml:id="swift-357-52L--line-43" n="43">A limpid Brook shall <hi rend="italics">Trouts</hi> supply,</l>
+            <l xml:id="swift-357-52L--line-44" n="44">In <hi rend="italics">May</hi> to take the mimick Fly,</l>
+            <l xml:id="swift-357-52L--line-45" n="45">Round a small Orchard may it run,</l>
+            <l xml:id="swift-357-52L--line-46" n="46">Whose Apples redden to the Sun.</l>
+            <l xml:id="swift-357-52L--line-47" n="47">Let all be snug, and warm, and neat,</l>
+            <l xml:id="swift-357-52L--line-48" n="48">For <hi rend="italics">fifty turn'd</hi> a safe Retreat.</l>
+            <l xml:id="swift-357-52L--line-49" n="49">A little <hi rend="italics">Euston</hi> may it be,</l>
+            <l xml:id="swift-357-52L--line-50" n="50"><hi rend="italics">Euston</hi> I'll carve on ev'ry Tree.</l>
+            <l xml:id="swift-357-52L--line-51" n="51">But then to keep it in Repair,</l>
+            <l xml:id="swift-357-52L--line-52" n="52">My Lord── <hi rend="italics">Twice fifty Pounds</hi> a Year</l>
+            <l xml:id="swift-357-52L--line-53" n="53">Will barely do; but if your <hi rend="italics">Grace</hi> 3}</l>
+            <l xml:id="swift-357-52L--line-54" n="54">Could make them <hi rend="italics">hundreds</hi>── charming Place!</l>
+            <l xml:id="swift-357-52L--line-55" n="55">Thou then would'st shew another Face.</l>
+            <l rend="indent(1)" xml:id="swift-357-52L--line-56" n="56"><lb/><hi rend="italics">C────n</hi>! far North, my Lord, it lies,</l>
+            <l xml:id="swift-357-52L--line-57" n="57">Midst snowy Hills, inclement Skies,</l>
+            <l xml:id="swift-357-52L--line-58" n="58">One shivers with the <hi rend="italics">Artick</hi> Wind,</l>
+            <l xml:id="swift-357-52L--line-59" n="59">One hears the <hi rend="italics">Polar Axis</hi> grind.</l>
+            <l xml:id="swift-357-52L--line-60" n="60">Good <hi rend="italics">John</hi> indeed with Beef and Claret,</l>
+            <l xml:id="swift-357-52L--line-61" n="61">Makes the Place warm that one may bear it.</l>
+            <l xml:id="swift-357-52L--line-62" n="62">He has a Purse to keep a Table,</l>
+            <l xml:id="swift-357-52L--line-63" n="63">And eke a Soul as hospitable.</l>
+            <l xml:id="swift-357-52L--line-64" n="64">My Heart is good; but Assets fail,</l>
+            <l xml:id="swift-357-52L--line-65" n="65">To fight with Storms of Snow and Hail;</l>
+            <l xml:id="swift-357-52L--line-66" n="66">Besides the Country's thin of People,</l>
+            <l xml:id="swift-357-52L--line-67" n="67">Who seldom meet, but at the Steeple:</l>
+            <l xml:id="swift-357-52L--line-68" n="68">The strapping Dean, that's gone to <hi rend="italics">Down</hi>,</l>
+            <l xml:id="swift-357-52L--line-69" n="69">Ne'er nam'd the Thing without a Frown,</l>
+            <l xml:id="swift-357-52L--line-70" n="70">When much fatigu'd with Sermon Study,</l>
+            <l xml:id="swift-357-52L--line-71" n="71">He felt his Brain grow dull and muddy;</l>
+            <l xml:id="swift-357-52L--line-72" n="72">No fit Companion cou'd be found</l>
+            <l xml:id="swift-357-52L--line-73" n="73">To push the lazy Bottle round;</l>
+            <l xml:id="swift-357-52L--line-74" n="74">Sure then for want of better Folks,</l>
+            <l xml:id="swift-357-52L--line-75" n="75">To pledge, <hi rend="italics">his Clerk</hi> was <hi rend="italics">Orthodox</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-357-52L--line-76" n="76"><lb/>A<hi rend="small-caps">H</hi>! how unlike to <hi rend="italics">Gerard-Street</hi>,</l>
+            <l xml:id="swift-357-52L--line-77" n="77">Where Beaus and Belles in Parties meet;</l>
+            <l xml:id="swift-357-52L--line-78" n="78">Where gilded Chairs and Coaches throng,</l>
+            <l xml:id="swift-357-52L--line-79" n="79">And jostle as they trowl along;</l>
+            <l xml:id="swift-357-52L--line-80" n="80">Where <hi rend="italics">Tea</hi> and <hi rend="italics">Coffee</hi> hourly flow,</l>
+            <l xml:id="swift-357-52L--line-81" n="81">And <hi rend="italics">Gape</hi>-Seed does in Plenty grow!</l>
+            <l xml:id="swift-357-52L--line-82" n="82">And <hi rend="italics">Griz</hi> (no Clock more certain) cries</l>
+            <l xml:id="swift-357-52L--line-83" n="83">Exact at Seven, <hi rend="italics">Hot Mutton-Pies</hi>.</l>
+            <l xml:id="swift-357-52L--line-84" n="84">There Lady <hi rend="italics">Luna</hi> in her Sphere</l>
+            <l xml:id="swift-357-52L--line-85" n="85">Once shone, when <hi rend="italics">Paunceforth</hi> was not near;</l>
+            <l xml:id="swift-357-52L--line-86" n="86">But now she wains, and, as 'tis said,</l>
+            <l xml:id="swift-357-52L--line-87" n="87">Keeps sober Hours, and goes to Bed.</l>
+            <l xml:id="swift-357-52L--line-88" n="88">There──── but 'tis endless to write down</l>
+            <l xml:id="swift-357-52L--line-89" n="89">All the Amusements of the Town;</l>
+            <l xml:id="swift-357-52L--line-90" n="90">And Spouse will think herself quite undone</l>
+            <l xml:id="swift-357-52L--line-91" n="91">To trudge to <hi rend="italics">Connor</hi> from sweet <hi rend="italics">London</hi>.</l>
+            <l xml:id="swift-357-52L--line-92" n="92">And care we must our Wives to please</l>
+            <l xml:id="swift-357-52L--line-93" n="93">Or──── else we shall be ill at Ease.</l>
+            <l rend="indent(1)" xml:id="swift-357-52L--line-94" n="94"><lb/>You see, my Lord, what 'tis I lack,</l>
+            <l xml:id="swift-357-52L--line-95" n="95">'Tis only some convenient Tack,</l>
+            <l xml:id="swift-357-52L--line-96" n="96">Some Parsonage-House, with Garden sweet,</l>
+            <l xml:id="swift-357-52L--line-97" n="97">To be my late, my last Retreat;</l>
+            <l xml:id="swift-357-52L--line-98" n="98">A decent Church close by its Side,</l>
+            <l xml:id="swift-357-52L--line-99" n="99">There preaching, praying, to reside;</l>
+            <l xml:id="swift-357-52L--line-100" n="100">And as my Time securely rolls,</l>
+            <l xml:id="swift-357-52L--line-101" n="101">To save my own and others Souls.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

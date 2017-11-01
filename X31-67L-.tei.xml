@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 20JE16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> --</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X31-67L-">
+          <head type="note" n="1" xml:id="spp-X31-67L--headnote-1">
+            <lg n="1" xml:id="spp-X31-67L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31-67L--headnote-1-line-group-1-line-1">I was at <hi rend="italics">Howth</hi> to-day, and staid abroad a visiting till just now.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X31-67L--headnote-2">
+            <lg n="1" xml:id="spp-X31-67L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31-67L--headnote-2-line-group-1-line-1"><hi rend="italics">Tuesday</hi> Evening, <lb/> <hi rend="italics">Nov</hi>. 23, 1731.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X31-67L--headnote-3">
+            <lg n="1" xml:id="spp-X31-67L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31-67L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X31-67L--line-1" n="1">Can you match with me,</l>
+            <l xml:id="swift-X31-67L--line-2" n="2">Who send thirty-three?</l>
+            <l xml:id="swift-X31-67L--line-3" n="3">You must get fourteen more,</l>
+            <l xml:id="swift-X31-67L--line-4" n="4">To make up thirty-four:</l>
+            <l xml:id="swift-X31-67L--line-5" n="5">But, if me you can conquer,</l>
+            <l xml:id="swift-X31-67L--line-6" n="6">I'll own you a strong curr.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

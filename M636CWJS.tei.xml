@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pléaráca na Ruarcach</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M636CWJS">
+          <head type="note" n="1" xml:id="spp-M636CWJS-headnote-1">
+            <lg n="1" xml:id="spp-M636CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M636CWJS-headnote-1-line-group-1-line-1">by Aodh Mac Gabhráin&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M636CWJS-headnote-2">
+            <lg n="1" xml:id="spp-M636CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M636CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M636CWJS-headnote-3">
+            <lg n="1" xml:id="spp-M636CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M636CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M636CWJS-line-1" n="1">Pléaráca na Ruarcach</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-2" n="2">A ccuímhne an uile dhuine,</l>
+            <l xml:id="swift-M636CWJS-line-3" n="3">Da ttiucaidh da bhfaicfeadh</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-4" n="4">'S da ccluinfeadh go fóill.</l>
+            <l xml:id="swift-M636CWJS-line-5" n="5">Seacht bhfithchead muc,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-6" n="6">Mart agus caora,</l>
+            <l xml:id="swift-M636CWJS-line-7" n="7">Dá ccasgairt don ghasraidh,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-8" n="8">Gach aon, ló,</l>
+            <l xml:id="swift-M636CWJS-line-9" n="9">Na céada pál uisge-beatha,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-10" n="10">'Sna meadra dha líonadh,</l>
+            <l xml:id="swift-M636CWJS-line-11" n="11">Ag éirghe air maidin,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-12" n="12">Is againn a bhí an spóirt,</l>
+            <l xml:id="swift-M636CWJS-line-13" n="13">Do briseadh mo phiopasa,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-14" n="14">Sladamh mo phócasa,</l>
+            <l xml:id="swift-M636CWJS-line-15" n="15">Guideadh mo bhrísdesi,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-16" n="16">Loisgeadh mo chlócasa.</l>
+            <l xml:id="swift-M636CWJS-line-17" n="17">Chaill me mo bhirréad,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-18" n="18">Mfallainn is mfillead;</l>
+            <l xml:id="swift-M636CWJS-line-19" n="19">ó dimigh na gairead,<note place="foot">·The literal translation assumes <hi rend="italics">caraid</hi>, based on the textual variant <hi rend="italics">gcairead</hi> in ó Máille.</note></l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-20" n="20">Ar seacht mbeannacht leó,</l>
+            <l xml:id="swift-M636CWJS-line-21" n="21">Spreag air an cclairsigh sinn,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-22" n="22">Seinn an Pléaráca sin,</l>
+            <l xml:id="swift-M636CWJS-line-23" n="23">Prap dhuinn sgáird don digh sin:</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-24" n="24">A, sí so, an chuirm chóir.</l>
+            <l xml:id="swift-M636CWJS-line-25" n="25">Lucht leanmhuna na Ruarcach</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-26" n="26">Ag crathadh a ccleitighe,</l>
+            <l xml:id="swift-M636CWJS-line-27" n="27">Tra chuala siad turman,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-28" n="28">Is troipleasg a cheóil.</l>
+            <l xml:id="swift-M636CWJS-line-29" n="29">Gan aire air a ccoisreagadh,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-30" n="30">Ag éirghe as a leapacha;</l>
+            <l xml:id="swift-M636CWJS-line-31" n="31">Is a bhean fein ar leathlaimh</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-32" n="32">Ag gach aon don chóip.</l>
+            <l xml:id="swift-M636CWJS-line-33" n="33">Budh láidir an seasamh,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-34" n="34">Don talamh, bhí fúthsa;</l>
+            <l xml:id="swift-M636CWJS-line-35" n="35">Gan réabadh le sodar</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-36" n="36">Is glugar ann gach bróig.</l>
+            <l xml:id="swift-M636CWJS-line-37" n="37">Sláinte agus saoghal chugad</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-38" n="38">A Mhaoileachluinn ui Aonagáin,</l>
+            <l xml:id="swift-M636CWJS-line-39" n="39">Dar mo laimh is maith adhamhsas tu,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-40" n="40">A Mhairsill ní Ghriodagain.</l>
+            <l xml:id="swift-M636CWJS-line-41" n="41">Craith fúinn an tsráideóg sin,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-42" n="42">Leathnoigh oruinn an chátheóg sin,</l>
+            <l xml:id="swift-M636CWJS-line-43" n="43">An bugsa sin Aine is</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-44" n="44">Graideóg<note place="foot">·The literal translation assumes <hi rend="italics">scálóg</hi>, a textual variant in ó Máille.</note> le na ól.</l>
+            <l xml:id="swift-M636CWJS-line-45" n="45">Athair na ngrása cé be,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-46" n="46">Chifeadh an ghasraidh,</l>
+            <l xml:id="swift-M636CWJS-line-47" n="47">Iar lionadh a ccroicne,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-48" n="48">Is ar lasadh san ól,</l>
+            <l xml:id="swift-M636CWJS-line-49" n="49">Bhi cnáimh-ruighead bachuird</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-50" n="50">Ar fad ann gach sgín aca;</l>
+            <l xml:id="swift-M636CWJS-line-51" n="51">Ag stabadh 'sa gearradh</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-52" n="52">Go leór, go leóir.</l>
+            <l xml:id="swift-M636CWJS-line-53" n="53">Céad aithshlisne darach air,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-54" n="54">Lasadh gabhail tríd na cheile;</l>
+            <l xml:id="swift-M636CWJS-line-55" n="55">Ag cnagadh, ag leagadh,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-56" n="56">Ag losgadh, 'sa doghadh,</l>
+            <l xml:id="swift-M636CWJS-line-57" n="57">A bhodaigh as é m'athairse,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-58" n="58">Chuir mainistir na Búille suas,</l>
+            <l xml:id="swift-M636CWJS-line-59" n="59">Sligeach is Gaillimh is</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-60" n="60">Carruig Dhrum-Rúsga fós.</l>
+            <l xml:id="swift-M636CWJS-line-61" n="61">Se Iarla Chilldara,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-62" n="62">Agus biatach Mhuighnealta,</l>
+            <l xml:id="swift-M636CWJS-line-63" n="63">Doil agus daltrom me,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-64" n="64">Fiosraidh do Mhóir.</l>
+            <l xml:id="swift-M636CWJS-line-65" n="65">Leagaidh an támad sin,</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-66" n="66">Búailidh an stráiméad sin</l>
+            <l xml:id="swift-M636CWJS-line-67" n="67"><hi rend="italics">Cick</hi> an sa tarr is</l>
+            <l rend="indent(1)" xml:id="swift-M636CWJS-line-68" n="68"><hi rend="italics">Cuff</hi> an sa tsróin.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

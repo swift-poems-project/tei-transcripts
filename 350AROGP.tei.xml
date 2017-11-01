@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Verses on the Upright judge</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="350AROGP">
+          <head type="note" n="1" xml:id="spp-350AROGP-headnote-1">
+            <lg n="1" xml:id="spp-350AROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-350AROGP-headnote-1-line-group-1-line-1">WHO CONDEMNED THE DRAPIER'S PRINTER&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-350AROGP-headnote-2">
+            <lg n="1" xml:id="spp-350AROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-350AROGP-headnote-2-line-group-1-line-1">THE JUDGE SPEAKS</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-350AROGP-headnote-3">
+            <lg n="1" xml:id="spp-350AROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-350AROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-350AROGP-line-1" n="1">I'm not the grandson of that ass Quin;</l>
+            <l xml:id="swift-350AROGP-line-2" n="2">Nor can you prove it, Mr Pasquin.</l>
+            <l xml:id="swift-350AROGP-line-3" n="3">My grand-dame had gallants by twenties,</l>
+            <l xml:id="swift-350AROGP-line-4" n="4">And bore my mother by a prentice.</l>
+            <l xml:id="swift-350AROGP-line-5" n="5">This, when my grandsire knew, they tell us he</l>
+            <l xml:id="swift-350AROGP-line-6" n="6">In Christ·Church cut his throat for jealousy.</l>
+            <l xml:id="swift-350AROGP-line-7" n="7">And, since the alderman was mad you say,</l>
+            <l xml:id="swift-350AROGP-line-8" n="8">Then, I must be so too, <hi rend="italics">ex traduce</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

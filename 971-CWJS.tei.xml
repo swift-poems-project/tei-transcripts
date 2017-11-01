@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tho: Sheridan to Dean Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 16JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> JW 22JE04 in situ; EMENDED JW 21AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="971-CWJS">
+          <head type="note" n="1" xml:id="spp-971-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-971-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-971-CWJS-headnote-1-line-group-1-line-1">Dear Dean&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-971-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-971-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-971-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-971-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-971-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-971-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-971-CWJS-line-1" n="1">Since in Cruxes and Puns You and I deal</l>
+            <l xml:id="swift-971-CWJS-line-2" n="2">Pray why is a Woman a Sieve and a Riddle?</l>
+            <l xml:id="swift-971-CWJS-line-3" n="3">'Tis a thought that came into My Noddle this morning</l>
+            <l xml:id="swift-971-CWJS-line-4" n="4">In Bed as I lay, S<hi rend="superscript">r</hi>, a Tossing and Turning</l>
+            <l xml:id="swift-971-CWJS-line-5" n="5">You'll find if You read but a few of Your Histories</l>
+            <l xml:id="swift-971-CWJS-line-6" n="6">All Women as Eve, all Women are Mysteries.</l>
+            <l xml:id="swift-971-CWJS-line-7" n="7">To Find out this Riddle I know You'll be eager</l>
+            <l xml:id="swift-971-CWJS-line-8" n="8">And make Ev'ry One of the Sex a Bell-phager;</l>
+            <l xml:id="swift-971-CWJS-line-9" n="9">But that will not do for I mean to come-mend 'em</l>
+            <l xml:id="swift-971-CWJS-line-10" n="10">I swear without Jest I an honour intend 'em.</l>
+            <l xml:id="swift-971-CWJS-line-11" n="11">In a Sieve S<hi rend="superscript">ṛ</hi> their Ancient Extraction I quite tell,</l>
+            <l xml:id="swift-971-CWJS-line-12" n="12">In a Riddle I give You their Pow'r and their Title.</l>
+            <l xml:id="swift-971-CWJS-line-13" n="13">This I told You before, Do You know what I mean S<hi rend="superscript">ṛ</hi></l>
+            <l xml:id="swift-971-CWJS-line-14" n="14">Not I by my Troth S<hi rend="superscript">ṛ</hi>── then read it again Sir</l>
+            <l rend="indent(1)" xml:id="swift-971-CWJS-line-15" n="15"><lb/>The reason I send you these Lines of Rhymes double</l>
+            <l xml:id="swift-971-CWJS-line-16" n="16">Is purely in Pitty to save You the Trouble</l>
+            <l xml:id="swift-971-CWJS-line-17" n="17">Of thinking Two hours for a Rhyme as You did last</l>
+            <l xml:id="swift-971-CWJS-line-18" n="18">When Your Pegasus Canter'd in Tripple and rid fast</l>
+            <l xml:id="swift-971-CWJS-line-19" n="19">As for My little Nagg, which I keep att Parnassus</l>
+            <l xml:id="swift-971-CWJS-line-20" n="20">With Phœbus's Leave to run with his Asses;</l>
+            <l xml:id="swift-971-CWJS-line-21" n="21">He goes slow and sure, and he never is Jaded</l>
+            <l xml:id="swift-971-CWJS-line-22" n="22">While your Fiery Steed is Whip'd, spurr'd, Bastinaded.</l>
+            <l xml:id="swift-971-CWJS-line-23" n="23">«LD»T: Sheridan</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

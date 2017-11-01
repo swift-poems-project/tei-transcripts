@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to Parsons an Epigram.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="Harold Williams 1933"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="807-450I">
+          <head type="note" n="1" xml:id="spp-807-450I-headnote-1">
+            <lg n="1" xml:id="spp-807-450I-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-450I-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-807-450I-headnote-2">
+            <lg n="1" xml:id="spp-807-450I-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-450I-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-807-450I-headnote-3">
+            <lg n="1" xml:id="spp-807-450I-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-450I-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-807-450I-line-1" n="1">Wou'd you rise in the Church, be stupid and dull,</l>
+            <l xml:id="swift-807-450I-line-2" n="2">Be empty of Learning, of Insolence full.</l>
+            <l xml:id="swift-807-450I-line-3" n="3">Though lewd &amp; immoral, be formal and grave,</l>
+            <l xml:id="swift-807-450I-line-4" n="4">In flatt'ry an Artist, in fawning a Slave.</l>
+            <l xml:id="swift-807-450I-line-5" n="5">No merit, no Science, no Virtue is wanting,</l>
+            <l xml:id="swift-807-450I-line-6" n="6">In him that's accomplish'd in cringeing &amp; canting.</l>
+            <l xml:id="swift-807-450I-line-7" n="7">Be studious to practice true meanness of Spirit,</l>
+            <l xml:id="swift-807-450I-line-8" n="8">For who but Lord Bolton was mitred for merit.</l>
+            <l xml:id="swift-807-450I-line-9" n="9">Wou'd you wish to be wrap'd in a Rochet? in short.</l>
+            <l rend="indent(5)" xml:id="swift-807-450I-line-10" n="10">Be as pox'd &amp; prophane as dean Sawbridge &amp; Hurt.<lb/>||||D: J: S:</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

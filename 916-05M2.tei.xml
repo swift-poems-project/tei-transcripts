@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 20AP04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="916-05M2">
+          <head type="note" n="1" xml:id="spp-916-05M2-headnote-1">
+            <lg n="1" xml:id="spp-916-05M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-916-05M2-headnote-1-line-group-1-line-1">II.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-916-05M2-headnote-2">
+            <lg n="1" xml:id="spp-916-05M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-916-05M2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-916-05M2-headnote-3">
+            <lg n="1" xml:id="spp-916-05M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-916-05M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-916-05M2-line-1" n="1"><hi rend="display-initial">A</hi>LL-ruling Tyrant of the Earth,</l>
+            <l xml:id="swift-916-05M2-line-2" n="2">To vilest Slaves I owe my Birth.</l>
+            <l xml:id="swift-916-05M2-line-3" n="3">How is the greatest Monarch blest,</l>
+            <l xml:id="swift-916-05M2-line-4" n="4">When in my gaudy Liv'ry drest!</l>
+            <l xml:id="swift-916-05M2-line-5" n="5">No haughty Nymph has Pow'r to run</l>
+            <l xml:id="swift-916-05M2-line-6" n="6">From me; or my Embraces shun.</l>
+            <l xml:id="swift-916-05M2-line-7" n="7">Stabb'd to the Heart, condemn'd to Flame,</l>
+            <l xml:id="swift-916-05M2-line-8" n="8">My Constancy is still the same.</l>
+            <l xml:id="swift-916-05M2-line-9" n="9">The Fav'rite Messenger of <hi rend="italics">Jove</hi>,</l>
+            <l xml:id="swift-916-05M2-line-10" n="10">And <hi rend="italics">Lemnian</hi> God consulting strove</l>
+            <l xml:id="swift-916-05M2-line-11" n="11">To make me glorious to the Sight</l>
+            <l xml:id="swift-916-05M2-line-12" n="12">Of Mortals, and the Gods Delight.</l>
+            <l xml:id="swift-916-05M2-line-13" n="13">Soon would their Altars Flame expire,</l>
+            <l xml:id="swift-916-05M2-line-14" n="14">If I refus'd to lend them Fire.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

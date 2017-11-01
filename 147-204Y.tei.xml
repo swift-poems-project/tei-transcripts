@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Windsor Prophecy.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 17OC02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="147-204Y">
+          <head type="note" n="1" xml:id="spp-147-204Y-headnote-1">
+            <lg n="1" xml:id="spp-147-204Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-204Y-headnote-1-line-group-1-line-1">Printed in y<hi rend="superscript">e</hi> year 1711.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-147-204Y-headnote-2">
+            <lg n="1" xml:id="spp-147-204Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-204Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-147-204Y-headnote-3">
+            <lg n="1" xml:id="spp-147-204Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-204Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-147-204Y-line-1" n="1">When a Holy black <hi rend="underlined">Swede</hi>, y<hi rend="superscript">e</hi> <hi rend="underlined">Son</hi> of <hi rend="underlined">Bob</hi>,</l>
+            <l xml:id="swift-147-204Y-line-2" n="2">With a <hi rend="underlined">Saint</hi> at his chin, &amp; a <hi rend="underlined">Seal</hi> in his fob;</l>
+            <l xml:id="swift-147-204Y-line-3" n="3">Shall not see one new-year's day in y<hi rend="superscript">t</hi> year,</l>
+            <l xml:id="swift-147-204Y-line-4" n="4">Then let old <hi rend="underlined">Englond</hi> make good cheer.</l>
+            <l xml:id="swift-147-204Y-line-5" n="5">Windsor &amp; Bristow then shall be</l>
+            <l xml:id="swift-147-204Y-line-6" n="6">Ioyned together in y<hi rend="superscript">e</hi> <hi rend="underlined">Low-Country</hi>.</l>
+            <l xml:id="swift-147-204Y-line-7" n="7">Then shall y<hi rend="superscript">e</hi> tall black <hi rend="underlined">Daventry bird</hi></l>
+            <l xml:id="swift-147-204Y-line-8" n="8">Speak against Peace right many a word;</l>
+            <l xml:id="swift-147-204Y-line-9" n="9">And some shall admire his coning witt;</l>
+            <l xml:id="swift-147-204Y-line-10" n="10">For many good groats his tongue shall slitt:</l>
+            <l xml:id="swift-147-204Y-line-11" n="11">But spight of y<hi rend="superscript">e</hi>. <hi rend="underlined">harpy</hi> y<hi rend="superscript">t</hi> <hi rend="underlined">crawls on all four</hi>,</l>
+            <l xml:id="swift-147-204Y-line-12" n="12">There shall be peace, pardie, &amp; war no more.</l>
+            <l xml:id="swift-147-204Y-line-13" n="13">But <hi rend="underlined">Englond</hi> must cry alack &amp; well a day,</l>
+            <l xml:id="swift-147-204Y-line-14" n="14">If y<hi rend="superscript">e</hi> <hi rend="underlined">Stick</hi> be taken from y<hi rend="superscript">e</hi> <hi rend="underlined">Dead Sea</hi>.</l>
+            <l xml:id="swift-147-204Y-line-15" n="15">And dear <hi rend="underlined">Englond</hi>, if ought I understond,</l>
+            <l xml:id="swift-147-204Y-line-16" n="16">Beware of <hi rend="underlined">Carrots</hi> from <hi rend="underlined">Northumberlond.</hi></l>
+            <l xml:id="swift-147-204Y-line-17" n="17"><hi rend="underlined">Carrots</hi> sown <hi rend="underlined">Thyn</hi> a deep root may get,</l>
+            <l xml:id="swift-147-204Y-line-18" n="18">If so be they are in <hi rend="underlined">Sommer-set</hi>.</l>
+            <l xml:id="swift-147-204Y-line-19" n="19">Their <hi rend="underlined">Conings-mark</hi> thou, for I have been told,</l>
+            <l xml:id="swift-147-204Y-line-20" n="20">They <hi rend="underlined">assassine</hi> when young, &amp; <hi rend="underlined">poyson</hi> when old.</l>
+            <l xml:id="swift-147-204Y-line-21" n="21">Root out these <hi rend="underlined">Carrots</hi>, O thou, whose <hi rend="underlined">name</hi></l>
+            <l xml:id="swift-147-204Y-line-22" n="22">Is backwards &amp; forwards always y<hi rend="superscript">e</hi> same.</l>
+            <l xml:id="swift-147-204Y-line-23" n="23">And keep close to Thee always y<hi rend="superscript">t</hi> <hi rend="underlined">name</hi>,</l>
+            <l xml:id="swift-147-204Y-line-24" n="24">Which backwards &amp; forwards is almost y<hi rend="superscript">e</hi> same.</l>
+            <l xml:id="swift-147-204Y-line-25" n="25">And <hi rend="underlined">Englond</hi> wouldst thou be happy still,</l>
+            <l xml:id="swift-147-204Y-line-26" n="26">Bury those <hi rend="underlined">Carrots</hi> under a hill.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

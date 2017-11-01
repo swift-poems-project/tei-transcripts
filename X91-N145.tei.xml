@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The New <hi rend="italics">Kilmainham</hi> Ballad.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 13DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X91-N145">
+          <head type="note" n="1" xml:id="spp-X91-N145-headnote-1">
+            <lg n="1" xml:id="spp-X91-N145-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N145-headnote-1-line-group-1-line-1">To the Tune of, <hi rend="italics">Ye Commons and Peers</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X91-N145-headnote-2">
+            <lg n="1" xml:id="spp-X91-N145-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N145-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X91-N145-headnote-3">
+            <lg n="1" xml:id="spp-X91-N145-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N145-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X91-N145-line-1" n="1"><hi rend="display-initial">A</hi>T a Sessions of Late,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-2" n="2">there arose a Debate,</l>
+            <l xml:id="swift-X91-N145-line-3" n="3">Which the <hi rend="italics">Dons</hi> of the Country resented;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-4" n="4">where 'tis said that the Jury</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-5" n="5">in mistaken Fury</l>
+            <l xml:id="swift-X91-N145-line-6" n="6">An Orthodox Church-man Presented.</l>
+            <l xml:id="swift-X91-N145-line-7" n="7"><lb/>By a P---r at their Head</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-8" n="8">these Gentlemen lead,</l>
+            <l xml:id="swift-X91-N145-line-9" n="9">Did boldly petition his Grace,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-10" n="10">that Business to quiet</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-11" n="11">which they thought a Riot,</l>
+            <l xml:id="swift-X91-N145-line-12" n="12">And guard the Queen Majesty's Peace.</l>
+            <l xml:id="swift-X91-N145-line-13" n="13"><lb/>But the good Man in black</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-14" n="14">no Courage did lack,</l>
+            <l xml:id="swift-X91-N145-line-15" n="15">Gave no ground, nor did bate them an Ace,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-16" n="16">tho' they huf't and look'd big, Sir,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-17" n="17">they frighten'd not <hi rend="italics">Hig</hi>, Sir,</l>
+            <l xml:id="swift-X91-N145-line-18" n="18">But he bravely supported his place.</l>
+            <l xml:id="swift-X91-N145-line-19" n="19"><lb/>Of his Actions to boast,</l>
+            <l xml:id="swift-X91-N145-line-20" n="20">they began with a Toast,</l>
+            <l xml:id="swift-X91-N145-line-21" n="21">to <hi rend="italics">William</hi> their Hero brave:</l>
+            <l xml:id="swift-X91-N145-line-22" n="22">Ah Sir! I profess,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-23" n="23">'tis a pitiful Case</l>
+            <l xml:id="swift-X91-N145-line-24" n="24">To disturb a Man's Rest in his Grave.</l>
+            <l xml:id="swift-X91-N145-line-25" n="25"><lb/>In peace let him lye,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-26" n="26">with his Memory,</l>
+            <l xml:id="swift-X91-N145-line-27" n="27">While our Glorious Queen <hi rend="italics">Anne</hi> fills the Throne;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-28" n="28">by Birth and by Merit</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-29" n="29">long may she inherit,</l>
+            <l xml:id="swift-X91-N145-line-30" n="30">In spight of her Foes, what's her own.</l>
+            <l xml:id="swift-X91-N145-line-31" n="31"><lb/>But her Foes; who unite</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-32" n="32">to Invade her just Right,</l>
+            <l xml:id="swift-X91-N145-line-33" n="33">Wou'd be their own Monarchs Electors,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-34" n="34">to pull <hi rend="italics">High-flyers</hi> down</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-35" n="35">those fast Friends of the Crown,</l>
+            <l xml:id="swift-X91-N145-line-36" n="36">And set up themselves for Protectors.</l>
+            <l xml:id="swift-X91-N145-line-37" n="37"><lb/>Still her Enemies aim</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-38" n="38">at their 41 Game,</l>
+            <l xml:id="swift-X91-N145-line-39" n="39">Enrag'd, while they Cant <hi rend="italics">Moderation</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-40" n="40">that Knaves may turn Trump</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-41" n="41">as the P-------t Rump,</l>
+            <l xml:id="swift-X91-N145-line-42" n="42">Palm'd bad Votes for good Laws of the Nation.</l>
+            <l xml:id="swift-X91-N145-line-43" n="43">om.</l>
+            <l xml:id="swift-X91-N145-line-44" n="44">om.</l>
+            <l xml:id="swift-X91-N145-line-45" n="45">om.</l>
+            <l xml:id="swift-X91-N145-line-46" n="46">om.</l>
+            <l xml:id="swift-X91-N145-line-47" n="47">om.</l>
+            <l xml:id="swift-X91-N145-line-48" n="48">om.</l>
+            <l xml:id="swift-X91-N145-line-49" n="49">om.</l>
+            <l xml:id="swift-X91-N145-line-50" n="50">om.</l>
+            <l xml:id="swift-X91-N145-line-51" n="51">om.</l>
+            <l xml:id="swift-X91-N145-line-52" n="52">om.</l>
+            <l xml:id="swift-X91-N145-line-53" n="53">om.</l>
+            <l xml:id="swift-X91-N145-line-54" n="54">om.</l>
+            <l xml:id="swift-X91-N145-line-55" n="55"><lb/>Some with Addle-pates,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-56" n="56">in furious Debates,</l>
+            <l xml:id="swift-X91-N145-line-57" n="57">Have rail'd at the Gown in great passion,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-58" n="58">'cause they have their hearts on</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-59" n="59">Fanatical <hi rend="italics">W-----n</hi>,</l>
+            <l xml:id="swift-X91-N145-line-60" n="60">Who wou'd fain bring the Cloak into Fashion.</l>
+            <l xml:id="swift-X91-N145-line-61" n="61"><lb/>Hence these Gentlemen boldly,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-62" n="62">on the Doctor fell fouly,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-63" n="63">for slighting an Health so profane,</l>
+            <l xml:id="swift-X91-N145-line-64" n="64">They'd give him their Word</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-65" n="65">of their own accord,</l>
+            <l xml:id="swift-X91-N145-line-66" n="66">In the <hi rend="italics">Peace</hi> he'd no longer remain.</l>
+            <l xml:id="swift-X91-N145-line-67" n="67"><lb/>They told him in short,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-68" n="68">he attempted the part,</l>
+            <l xml:id="swift-X91-N145-line-69" n="69">To be for the <hi rend="italics">Tories</hi> a Bully,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-70" n="70">but Reverend <hi rend="italics">Master</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-71" n="71">you'll find the <hi rend="italics">Disaster</hi>,</l>
+            <l xml:id="swift-X91-N145-line-72" n="72">We'll make you come off Sir but dully.</l>
+            <l xml:id="swift-X91-N145-line-73" n="73"><lb/>For they thought without doubt</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-74" n="74">the Doctor must out,</l>
+            <l xml:id="swift-X91-N145-line-75" n="75">When their Train they together did summon;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-76" n="76">tho' vainly apply'd,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-77" n="77">that every side,</l>
+            <l xml:id="swift-X91-N145-line-78" n="78">Shou'd hope what they wish, is but common.</l>
+            <l xml:id="swift-X91-N145-line-79" n="79"><lb/>The Doctor ne'rless</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-80" n="80">is come off with Success,</l>
+            <l xml:id="swift-X91-N145-line-81" n="81">As his principles honest, assisted;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-82" n="82">tho' the World does disclose,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-83" n="83">that his Friends at the <hi rend="italics">Rose</hi>,</l>
+            <l xml:id="swift-X91-N145-line-84" n="84">A Sentence so just have resisted.</l>
+            <l xml:id="swift-X91-N145-line-85" n="85">om.</l>
+            <l xml:id="swift-X91-N145-line-86" n="86">om.</l>
+            <l xml:id="swift-X91-N145-line-87" n="87">om.</l>
+            <l xml:id="swift-X91-N145-line-88" n="88">om.</l>
+            <l xml:id="swift-X91-N145-line-89" n="89">om.</l>
+            <l xml:id="swift-X91-N145-line-90" n="90">om.</l>
+            <l xml:id="swift-X91-N145-line-91" n="91">om.</l>
+            <l xml:id="swift-X91-N145-line-92" n="92">om.</l>
+            <l xml:id="swift-X91-N145-line-93" n="93">om.</l>
+            <l xml:id="swift-X91-N145-line-94" n="94">om.</l>
+            <l xml:id="swift-X91-N145-line-95" n="95">om.</l>
+            <l xml:id="swift-X91-N145-line-96" n="96">om.</l>
+            <l xml:id="swift-X91-N145-line-97" n="97"><lb/>For as we do hear,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-98" n="98">they cited to Swear,</l>
+            <l xml:id="swift-X91-N145-line-99" n="99">Some persons in Office and Trust;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-100" n="100">I shall instance but One,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-101" n="101">that is as good as Ten,</l>
+            <l xml:id="swift-X91-N145-line-102" n="102">The <hi rend="italics">Maker</hi> of the Queen's <hi rend="italics">Pye-crust</hi>.</l>
+            <l xml:id="swift-X91-N145-line-103" n="103"><lb/>This Witness they say,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-104" n="104">lives at <hi rend="italics">Drogheda</hi>,</l>
+            <l xml:id="swift-X91-N145-line-105" n="105">An Evidence chief in the Case,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-106" n="106">But she wou'd not be seen,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-107" n="107">for fear least the Queen,</l>
+            <l xml:id="swift-X91-N145-line-108" n="108">Shou'd turn her out of her place.</l>
+            <l xml:id="swift-X91-N145-line-109" n="109">om.</l>
+            <l xml:id="swift-X91-N145-line-110" n="110">om.</l>
+            <l xml:id="swift-X91-N145-line-111" n="111">om.</l>
+            <l xml:id="swift-X91-N145-line-112" n="112">om.</l>
+            <l xml:id="swift-X91-N145-line-113" n="113">om.</l>
+            <l xml:id="swift-X91-N145-line-114" n="114">om.</l>
+            <l xml:id="swift-X91-N145-line-115" n="115">om.</l>
+            <l xml:id="swift-X91-N145-line-116" n="116">om.</l>
+            <l xml:id="swift-X91-N145-line-117" n="117">om.</l>
+            <l xml:id="swift-X91-N145-line-118" n="118">om.</l>
+            <l xml:id="swift-X91-N145-line-119" n="119">om.</l>
+            <l xml:id="swift-X91-N145-line-120" n="120">om.</l>
+            <l xml:id="swift-X91-N145-line-121" n="121">om.</l>
+            <l xml:id="swift-X91-N145-line-122" n="122">om.</l>
+            <l xml:id="swift-X91-N145-line-123" n="123">om.</l>
+            <l xml:id="swift-X91-N145-line-124" n="124">om.</l>
+            <l xml:id="swift-X91-N145-line-125" n="125">om.</l>
+            <l xml:id="swift-X91-N145-line-126" n="126">om.</l>
+            <l xml:id="swift-X91-N145-line-127" n="127">om.</l>
+            <l xml:id="swift-X91-N145-line-128" n="128">om.</l>
+            <l xml:id="swift-X91-N145-line-129" n="129">om.</l>
+            <l xml:id="swift-X91-N145-line-130" n="130">om.</l>
+            <l xml:id="swift-X91-N145-line-131" n="131">om.</l>
+            <l xml:id="swift-X91-N145-line-132" n="132">om.</l>
+            <l xml:id="swift-X91-N145-line-133" n="133">om.</l>
+            <l xml:id="swift-X91-N145-line-134" n="134">om.</l>
+            <l xml:id="swift-X91-N145-line-135" n="135">om.</l>
+            <l xml:id="swift-X91-N145-line-136" n="136">om.</l>
+            <l xml:id="swift-X91-N145-line-137" n="137">om.</l>
+            <l xml:id="swift-X91-N145-line-138" n="138">om.</l>
+            <l xml:id="swift-X91-N145-line-139" n="139"><lb/>Thus by giving them rope</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-140" n="140">they have answer'd our scope,</l>
+            <l xml:id="swift-X91-N145-line-141" n="141">And their Line is now brought to an End.</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-142" n="142">The Doctor's just Cause,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-143" n="143">For our Queen and Her Laws,</l>
+            <l xml:id="swift-X91-N145-line-144" n="144">The Church's <hi rend="italics">True Friends</hi> will defend.</l>
+            <l xml:id="swift-X91-N145-line-145" n="145"><lb/>But as it is common,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-146" n="146">when Death Men does summon,</l>
+            <l xml:id="swift-X91-N145-line-147" n="147">For Life to make Efforts in vain,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-148" n="148">So their impotent <hi rend="italics">Malice</hi></l>
+            <l rend="indent(1)" xml:id="swift-X91-N145-line-149" n="149">has made some faint Sallies</l>
+            <l xml:id="swift-X91-N145-line-150" n="150">But now dead, may they ne'er rise again.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

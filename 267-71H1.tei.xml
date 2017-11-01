@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-267-71H1-title-1">N<hi rend="small-caps">EWS</hi> from P<hi rend="small-caps">ARNASSUS</hi>. By the same.<lb/>  Occasioned by “A<hi rend="small-caps">POLLO</hi> to the Dean<ref target="#spp-267-71H1-footnote-title-1">1</ref><note n="1" xml:id="spp-267-71H1-footnote-title-1" place="foot">Printed in vol. VII. p. 22</note>.”</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 26JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-267-71H1-footnote-title-1 #spp-267-71H1-title-1"/>
+        </linkGrp>
+        <div n="267-71H1">
+          <head type="note" n="1" xml:id="spp-267-71H1-headnote-1">
+            <lg n="1" xml:id="spp-267-71H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-267-71H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-267-71H1-headnote-2">
+            <lg n="1" xml:id="spp-267-71H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-267-71H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-267-71H1-headnote-3">
+            <lg n="1" xml:id="spp-267-71H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-267-71H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-267-71H1-line-1" n="1">
+              <hi rend="display-initial-italic">P<hi rend="italics">ARNASSUS, February</hi> the twenty-seventh.</hi>
+            </l>
+            <l xml:id="swift-267-71H1-line-2" n="2">The Poets assembled here on the eleventh,</l>
+            <l xml:id="swift-267-71H1-line-3" n="3">Conven'd by <hi rend="italics">Apollo</hi>, who gave them to know,</l>
+            <l xml:id="swift-267-71H1-line-4" n="4">He'd have a Vicegerent in his Empire below;</l>
+            <l xml:id="swift-267-71H1-line-5" n="5">But declar'd that no Bard should this honour inherit,</l>
+            <l xml:id="swift-267-71H1-line-6" n="6">Till the rest had agreed he surpass'd them in merit:</l>
+            <l xml:id="swift-267-71H1-line-7" n="7">Now this, you'll allow, was a difficult case,</l>
+            <l xml:id="swift-267-71H1-line-8" n="8">For each Bard believ'd he'd a right to the place;</l>
+            <l xml:id="swift-267-71H1-line-9" n="9">So, finding th' assembly grow warm in debate,</l>
+            <l xml:id="swift-267-71H1-line-10" n="10">He put them in mind of his <hi rend="italics">Phaëton's</hi> fate:</l>
+            <l xml:id="swift-267-71H1-line-11" n="11">'Twas urg'd to no purpose; disputes higher rose,</l>
+            <l xml:id="swift-267-71H1-line-12" n="12">Scarce <hi rend="italics">Phœbus</hi> himself could their quarrels compose;</l>
+            <l xml:id="swift-267-71H1-line-13" n="13">Till at length he determin'd that every Bard</l>
+            <l xml:id="swift-267-71H1-line-14" n="14">Should (each in his turn) be patiently heard.</l>
+            <l rend="indent(1)" xml:id="swift-267-71H1-line-15" n="15">First, one who believ'd he excell'd in translation<note place="foot">·Dr. <hi rend="italics">Trapp</hi>. See the notes on vol. XVIII. p. 192.</note>,</l>
+            <l xml:id="swift-267-71H1-line-16" n="16">Founds his claim on the doctrine of man's transmigration:</l>
+            <l xml:id="swift-267-71H1-line-17" n="17">“Since the soul of great <hi rend="italics">Milton</hi> was given to me,</l>
+            <l xml:id="swift-267-71H1-line-18" n="18">“I hope the Convention will quickly agree.”</l>
+            <l xml:id="swift-267-71H1-line-19" n="19">“Agree!” quoth <hi rend="italics">Apollo</hi>: “from whence is this fool?</l>
+            <l xml:id="swift-267-71H1-line-20" n="20">“Is he just come from reading <hi rend="italics">Pythagoras</hi> at school?</l>
+            <l xml:id="swift-267-71H1-line-21" n="21">“Be gone, Sir, you've got your subscriptions in time,</l>
+            <l xml:id="swift-267-71H1-line-22" n="22">“And given in return neither reason nor rhyme.”</l>
+            <l rend="indent(1)" xml:id="swift-267-71H1-line-23" n="23">To the next, says the God, “Though now I won't chuse you,</l>
+            <l xml:id="swift-267-71H1-line-24" n="24">“I'll tell you the reason for which I refuse you:</l>
+            <l xml:id="swift-267-71H1-line-25" n="25">“Love's Goddess has oft to her parents complain'd,</l>
+            <l xml:id="swift-267-71H1-line-26" n="26">“Of my favouring a Bard who her empire disdain'd;</l>
+            <l xml:id="swift-267-71H1-line-27" n="27">“That, at my instigation, a poem you writ,</l>
+            <l xml:id="swift-267-71H1-line-28" n="28">“Which to beauty and youth preferr'd judgement and wit;</l>
+            <l xml:id="swift-267-71H1-line-29" n="29">“That, to make you a Laureat, I gave the first voice,</l>
+            <l xml:id="swift-267-71H1-line-30" n="30">“Inspiring the <hi rend="italics">Britons</hi> t' approve of my choice.</l>
+            <l xml:id="swift-267-71H1-line-31" n="31">“<hi rend="italics">Jove</hi> sent her to me, her power to try;</l>
+            <l xml:id="swift-267-71H1-line-32" n="32">“The Goddess of Beauty what God can deny?</l>
+            <l xml:id="swift-267-71H1-line-33" n="33">“She forbids your preferment; I grant her desire.</l>
+            <l xml:id="swift-267-71H1-line-34" n="34">“Appease the fair Goddess: you then may rise higher.”</l>
+            <l rend="indent(1)" xml:id="swift-267-71H1-line-35" n="35">The next <note place="foot">·Mr. <hi rend="italics">Prior</hi>; of whom, see above, p. 52.</note> that appear'd had good hopes of succeeding,</l>
+            <l xml:id="swift-267-71H1-line-36" n="36">For he merited much for his wit and his breeding.</l>
+            <l xml:id="swift-267-71H1-line-37" n="37">'Twas wise in the <hi rend="italics">Britons</hi> no favour to shew him,</l>
+            <l xml:id="swift-267-71H1-line-38" n="38">He else might expect they should pay what they owe him.</l>
+            <l xml:id="swift-267-71H1-line-39" n="39">And therefore they prudently chose to discard</l>
+            <l xml:id="swift-267-71H1-line-40" n="40">The Patriot, whose merits they would not reward:</l>
+            <l xml:id="swift-267-71H1-line-41" n="41">The God, with a smile, bad his favourite advance,</l>
+            <l xml:id="swift-267-71H1-line-42" n="42">“You were sent by <hi rend="italics">Astræa</hi> her Envoy to <hi rend="italics">France</hi>:</l>
+            <l xml:id="swift-267-71H1-line-43" n="43">“You bent your ambition to rise in the state;</l>
+            <l xml:id="swift-267-71H1-line-44" n="44">“I refuse you, because you could stoop to be great.”</l>
+            <l rend="indent(1)" xml:id="swift-267-71H1-line-45" n="45">Then a Bard who had been a successful Translator<note place="foot">·Mr. <hi rend="italics">Pope</hi> was probably here meant.</note>,</l>
+            <l xml:id="swift-267-71H1-line-46" n="46">“The Convention allows me a Versificator.”</l>
+            <l xml:id="swift-267-71H1-line-47" n="47">Says <hi rend="italics">Apollo</hi>, “You mention the least of your merit;</l>
+            <l xml:id="swift-267-71H1-line-48" n="48">“By your Works, it appears you have much of my spirit.</l>
+            <l xml:id="swift-267-71H1-line-49" n="49">“I esteem you so well, that, to tell you the truth,</l>
+            <l xml:id="swift-267-71H1-line-50" n="50">“The greatest objection against you's your youth:</l>
+            <l xml:id="swift-267-71H1-line-51" n="51">“Then be not concern'd you are now laid aside;</l>
+            <l xml:id="swift-267-71H1-line-52" n="52">“If you live, you shall certainly one day preside.”</l>
+            <l rend="indent(1)" xml:id="swift-267-71H1-line-53" n="53">Another, low bending, <hi rend="italics">Apollo</hi> thus greets,</l>
+            <l xml:id="swift-267-71H1-line-54" n="54">“'Twas I taught your subjects to walk through the streets<note place="foot">·Mr. <hi rend="italics">Gay</hi>; alluding to his “Trivia.” See the notes on vol. XIX. p. 37.</note>.”</l>
+            <l xml:id="swift-267-71H1-line-55" n="55">“You taught them to <hi rend="italics">walk</hi>! why, they knew it before:</l>
+            <l xml:id="swift-267-71H1-line-56" n="56">“But give me the Bard that can teach them to <hi rend="italics">soar</hi>.</l>
+            <l xml:id="swift-267-71H1-line-57" n="57">“Whenever he claims, 'tis his right, I'll confess,</l>
+            <l xml:id="swift-267-71H1-line-58" n="58">“Who lately attempted my style with success;</l>
+            <l xml:id="swift-267-71H1-line-59" n="59">“Who writes like <hi rend="italics">Apollo</hi> has most of his spirit,</l>
+            <l xml:id="swift-267-71H1-line-60" n="60">“And therefore 'tis just I distinguish his merit;</l>
+            <l xml:id="swift-267-71H1-line-61" n="61">“Who makes it appear, by all he has writ,</l>
+            <l xml:id="swift-267-71H1-line-62" n="62">“His judgement alone can set bounds to his wit;</l>
+            <l xml:id="swift-267-71H1-line-63" n="63">“Like <hi rend="italics">Virgil</hi> correct, with his own native ease,</l>
+            <l xml:id="swift-267-71H1-line-64" n="64">“But excels even <hi rend="italics">Virgil</hi> in elegant praise;</l>
+            <l xml:id="swift-267-71H1-line-65" n="65">“Who admires the Ancients, and knows 'tis their due,</l>
+            <l xml:id="swift-267-71H1-line-66" n="66">“Yet writes in a manner entirely new;</l>
+            <l xml:id="swift-267-71H1-line-67" n="67">“Though none with more ease their depths can explore,</l>
+            <l xml:id="swift-267-71H1-line-68" n="68">“Yet whatever he wants he takes from my store;</l>
+            <l xml:id="swift-267-71H1-line-69" n="69">“Though I'm fond of his virtues, his pride I can see,</l>
+            <l xml:id="swift-267-71H1-line-70" n="70">“In scorning to borrow from any but me;</l>
+            <l xml:id="swift-267-71H1-line-71" n="71">“It is owing to this, that, like <hi rend="italics">Cynthia</hi>, his lays</l>
+            <l xml:id="swift-267-71H1-line-72" n="72">“Enlighten the world by reflecting my rays.”</l>
+            <l rend="indent(1)" xml:id="swift-267-71H1-line-73" n="73">This said, the whole Audience soon found out his drift:</l>
+            <l xml:id="swift-267-71H1-line-74" n="74">The Convention was summon'd in favour of S<hi rend="small-caps">WIFT</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

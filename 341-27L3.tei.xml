@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">An excellent New</hi> S<hi rend="small-caps">ONG</hi><lb/>  <hi rend="italics">on his Grace the</hi> Arch-<lb/>  Bishop <hi rend="italics">of</hi> D<hi rend="small-caps">UBLIN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 18JA00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-341-27L3-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="341-27L3">
+          <head type="note" n="1" xml:id="spp-341-27L3-headnote-1">
+            <lg n="1" xml:id="spp-341-27L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-341-27L3-headnote-1-line-group-1-line-1"><hi rend="italics">By Honest</hi> <ref target="#spp-341-27L3-footnote-headnote-1">1</ref><note n="1" xml:id="spp-341-27L3-footnote-headnote-1" place="foot"><hi rend="italics">Dean</hi> S<hi rend="small-caps">WIFT</hi></note> Jo<hi rend="italics">. one of his Grace</hi>'s<hi rend="italics"> Farmers in</hi> Fingal.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-341-27L3-headnote-2">
+            <lg n="1" xml:id="spp-341-27L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-341-27L3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-341-27L3-headnote-3">
+            <lg n="1" xml:id="spp-341-27L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-341-27L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-1" n="1">I.<lb/>_<hi rend="display-initial">I</hi> SING not of the <hi rend="italics">Draper</hi>'s Praise,_Nor yet of <hi rend="italics">William Wood</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-2" n="2">But I sing of a <hi rend="italics">famous</hi> Lord,<lb/>Who seeks his <hi rend="italics">Country</hi>'s Good.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-3" n="3"><lb/>II.__Lord <hi rend="italics">William</hi>'s Grace of <hi rend="italics">Dublin</hi> Town,_'Tis He that first appears,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-4" n="4">Whose Wisdom and whose Piety<lb/>Do far exceed his Years.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-5" n="5"><lb/>III.__In ev'ry <hi rend="italics">Council</hi> and <hi rend="italics">Debate</hi>,_He stands for what <hi rend="italics">is right</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-6" n="6">And still the Truth He will maintain,<lb/>Whate'er He loses by't.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-7" n="7"><lb/>IV.__And tho' some think Him in the wrong,_Yet still there comes a Season,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-8" n="8">When ev'ry one turns round about,<lb/>And owns his Grace had Reason.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-9" n="9"><lb/>V.__His Firmness for the <hi rend="italics">Publick Good</hi>,_As He that knows it swore,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-10" n="10">Has cost his <hi rend="italics">Grace</hi> for ten Years past,<lb/>Ten thousand Pounds and more.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-11" n="11"><lb/>VI.__Then come the Poor, and strip Him,_They leave him not a Cross;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-12" n="12">For He values not five hundred Pounds<lb/>Any more than <hi rend="italics">Wood</hi>'s Dross.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-13" n="13"><lb/>VII.__To beg His Favour is the Way_New Favours still to win,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-14" n="14">He makes no more to give ten Pounds,<lb/>Than I to give a Pin.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-15" n="15"><lb/>VIII.__Why, there's my Landlord, now the 'Squire_Who all in Money wallows,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-16" n="16">He wou'd not give a Groat to save<lb/>His Father from the Gallows.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-17" n="17"><lb/>IX.__A <hi rend="italics">Bishop</hi>, says the noble '<hi rend="italics">Squire</hi>,_I hate the very Name;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-18" n="18">To have two thousand Pounds a Year,<lb/>O! 'tis a burning Shame.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-19" n="19"><lb/>X.__Two thousand Pounds a Year!── Good Lord──_And I to have but five;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-20" n="20">And under Him no Tenant yet<lb/>Was ever known to thrive.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-21" n="21"><lb/>XI.__Now from his Lordship's Grace I hold_A little Piece of Ground,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-22" n="22">And all the Rent I pay is scarce<lb/>Five Shillings in the Pound.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-23" n="23"><lb/>XII.__Then Master <hi rend="italics">Steward</hi> takes my Rent,_And tells me, Honest <hi rend="italics">Jo</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-24" n="24">Come, you must take a Cup of Sack<lb/>Or two before you go.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-25" n="25"><lb/>XIII.__He bids me then to hold my Tongue,_And up the Money locks,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-26" n="26">For fear my Lord should send it all<lb/>Into the poor Man Box.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-27" n="27"><lb/>XIV.__And once I was so bold to beg,_That I might see his Grace;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-28" n="28">Good Lord! I wonder'd how I dar'd<lb/>To look him in the Face.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-29" n="29"><lb/>XV.__Then down I went upon my Knees_His Blessing to obtain;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-30" n="30">He gave it me, and ever since,<lb/>I find I thrive amain.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-31" n="31"><lb/>XVI.__Then said my Lord, I'm very glad_To see thee, honest Friend;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-32" n="32">I know the Times are something hard,<lb/>But hope they soon will mend.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-33" n="33"><lb/>XVII.__Pray never press yourself for Rent;_But pay me when you can;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-34" n="34">I find you bear a good Report,<lb/>And are an honest Man.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-35" n="35"><lb/>XVIII.__Then said his Lordship, with a Smile,_I must have <hi rend="italics">lawful Cash</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-36" n="36">I hope you will not pay my Rent<lb/>In that same <hi rend="italics">Wood</hi>'s Trash.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-37" n="37"><lb/>XIX.__God bless your Grace, I then reply'd,_I'd see him hanging higher</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-38" n="38">(Before I'd touch his silly Dross)<lb/>Than is <hi rend="italics">Clandalkin</hi> Spire.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-39" n="39"><lb/>XX.__To ev'ry Farmer twice a Week,_All round about the <hi rend="italics">Yoke</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-40" n="40">Our Parson reads the Drapier's Books,<lb/>And makes us honest Folk.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-41" n="41"><lb/>XXI.__And then I went to pay the '<hi rend="italics">Squire</hi>,_And in the Way I found,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-42" n="42">His <hi rend="italics">Bailiff</hi> driving all my Cows,<lb/>Into the <hi rend="italics">Parish-Pound</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-43" n="43"><lb/>XXII.__Why, Sirrah, said the noble '<hi rend="italics">Squire</hi>,_How dare you see my Face;</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-44" n="44">Your Rent is due almost a Week,<lb/>Besides the Days of Grace.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-45" n="45"><lb/>XXIII.__And yet the Land I from him hold_Is set so on the Rack,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-46" n="46">That only for the Bishop's Lease,<lb/>'Twould quickly break my Back.</l>
+            <l rend="center indent(1)" xml:id="swift-341-27L3-line-47" n="47"><lb/>XXIV.__Then God preserve his Lordship's Grace,_And make him live as long,</l>
+            <l rend="indent(1)" xml:id="swift-341-27L3-line-48" n="48">As did <hi rend="italics">Methusalem</hi> of old,<lb/>And so I end my Song.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

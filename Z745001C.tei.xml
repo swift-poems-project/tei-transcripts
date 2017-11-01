@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>the Ballyspellan balad</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 4MR93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z745001C">
+          <head type="note" n="1" xml:id="spp-Z745001C-headnote-1">
+            <lg n="1" xml:id="spp-Z745001C-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z745001C-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z745001C-headnote-2">
+            <lg n="1" xml:id="spp-Z745001C-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z745001C-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z745001C-headnote-3">
+            <lg n="1" xml:id="spp-Z745001C-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z745001C-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z745001C-line-1" n="1">Let every one say what they will</l>
+            <l xml:id="swift-Z745001C-line-2" n="2">I mean of Ballispellan</l>
+            <l xml:id="swift-Z745001C-line-3" n="3">It is a barren hungry hill</l>
+            <l xml:id="swift-Z745001C-line-4" n="4">Or I am a rouge or vilain</l>
+            <l xml:id="swift-Z745001C-line-5" n="5">Their morning slops</l>
+            <l xml:id="swift-Z745001C-line-6" n="6">And evening hops</l>
+            <l xml:id="swift-Z745001C-line-7" n="7">Are \<hi rend="italics">add</hi>·not\ worth while to tell on</l>
+            <l xml:id="swift-Z745001C-line-8" n="8">While we y<hi rend="superscript">ṭ</hi> serve</l>
+            <l xml:id="swift-Z745001C-line-9" n="9">Are like to starve</l>
+            <l xml:id="swift-Z745001C-line-10" n="10">At this fam'd Ballispellan</l>
+            <l xml:id="swift-Z745001C-line-11" n="11">The people say y<hi rend="superscript">ẹ</hi> water's good</l>
+            <l xml:id="swift-Z745001C-line-12" n="12">&amp; for that very reason</l>
+            <l xml:id="swift-Z745001C-line-13" n="13">But little Malt they to it put</l>
+            <l xml:id="swift-Z745001C-line-14" n="14">At le\<hi rend="italics">add</hi>·a\st I'm sure this Season</l>
+            <l xml:id="swift-Z745001C-line-15" n="15">We pick the\<hi rend="italics">over·some·other·illegible·word</hi>\ Bones</l>
+            <l xml:id="swift-Z745001C-line-16" n="16">As bear as stones</l>
+            <l xml:id="swift-Z745001C-line-17" n="17">Which I'm asham'd to tell on</l>
+            <l xml:id="swift-Z745001C-line-18" n="18">And lie like hogs</l>
+            <l xml:id="swift-Z745001C-line-19" n="19">Among the dogs</l>
+            <l xml:id="swift-Z745001C-line-20" n="20">At this damn'd Ballispellan</l>
+            <l xml:id="swift-Z745001C-line-21" n="21">&amp; now y<hi rend="superscript">ẹ</hi> Season's at an end</l>
+            <l xml:id="swift-Z745001C-line-22" n="22">I hope no one's unwilling</l>
+            <l xml:id="swift-Z745001C-line-23" n="23">To let old Kate</l>
+            <l xml:id="swift-Z745001C-line-24" n="24">A spiget make</l>
+            <l xml:id="swift-Z745001C-line-25" n="25">&amp; stop <hi rend="italics">\add</hi>·up\ Ballispellan</l>
+            <l xml:id="swift-Z745001C-line-26" n="26">&amp; then next year</l>
+            <l xml:id="swift-Z745001C-line-27" n="27">If we come here</l>
+            <l xml:id="swift-Z745001C-line-28" n="28">I hope they'l all be willing</l>
+            <l xml:id="swift-Z745001C-line-29" n="29">Who lodgings take</l>
+            <l xml:id="swift-Z745001C-line-30" n="30">New laws to make</l>
+            <l xml:id="swift-Z745001C-line-31" n="31">Round about Ballispellan</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

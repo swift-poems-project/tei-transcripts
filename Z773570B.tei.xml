@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Bill,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z773570B">
+          <head type="note" n="1" xml:id="spp-Z773570B-headnote-1">
+            <lg n="1" xml:id="spp-Z773570B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z773570B-headnote-1-line-group-1-line-1">by Archdeacon Walls&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z773570B-headnote-2">
+            <lg n="1" xml:id="spp-Z773570B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z773570B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z773570B-headnote-3">
+            <lg n="1" xml:id="spp-Z773570B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z773570B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z773570B-line-1" n="1">Six Holland shirts, six night-caps with borders</l>
+            <l xml:id="swift-Z773570B-line-2" n="2">Bespoke, &amp; made up according to orders:</l>
+            <l xml:id="swift-Z773570B-line-3" n="3">A Night-Gown refresh'd, well scower'd &amp; clean,</l>
+            <l xml:id="swift-Z773570B-line-4" n="4">New-facings &amp; robings, you know what I mean:</l>
+            <l xml:id="swift-Z773570B-line-5" n="5">A Scarf of black Silk, some call it a Tippet,</l>
+            <l xml:id="swift-Z773570B-line-6" n="6">With wick at y<hi rend="superscript">e</hi> End, you may hem it or whip it:</l>
+            <l xml:id="swift-Z773570B-line-7" n="7">Twelve China plates of pure white &amp; blue:</l>
+            <l xml:id="swift-Z773570B-line-8" n="8">Three Shirts for a blackguard, all spik-span &amp; new;</l>
+            <l xml:id="swift-Z773570B-line-9" n="9">A Debt of long-standing, which no one doth think of:</l>
+            <l xml:id="swift-Z773570B-line-10" n="10">My poor dear Neddy hath gotten y<hi rend="superscript">e</hi> Chincough.</l>
+            <l xml:id="swift-Z773570B-line-11" n="11"><lb/>Answer'd, by Cap<hi rend="superscript">t</hi>: Knypes.</l>
+            <l xml:id="swift-Z773570B-line-12" n="12"><lb/>'Tis many an honest Trader's fate</l>
+            <l xml:id="swift-Z773570B-line-13" n="13">Whole Years for payment of his debts to wait.</l>
+            <l xml:id="swift-Z773570B-line-14" n="14">Full of't must he whine out a mournful Dun,</l>
+            <l xml:id="swift-Z773570B-line-15" n="15">Whilst y<hi rend="superscript">e</hi> gay debtor, plays in joke or pun;</l>
+            <l xml:id="swift-Z773570B-line-16" n="16">Daggled in Dirt becomes y<hi rend="superscript">e</hi> great man's Scoff,</l>
+            <l xml:id="swift-Z773570B-line-17" n="17">Waiting at door produces y<hi rend="superscript">e</hi> Chincough.</l>
+            <l xml:id="swift-Z773570B-line-18" n="18">Would you avoid a treatment thus gallant,</l>
+            <l xml:id="swift-Z773570B-line-19" n="19">No more of Shirts or Nightcaps do you taunt.</l>
+            <l xml:id="swift-Z773570B-line-20" n="20">What, if you furbisht out a page blackguard?</l>
+            <l xml:id="swift-Z773570B-line-21" n="21">Virtue, say Preachers, is it's own Reward.</l>
+            <l xml:id="swift-Z773570B-line-22" n="22">Dream not of payment, or in part or whole;</l>
+            <l xml:id="swift-Z773570B-line-23" n="23">Think of y<hi rend="superscript">e</hi> Yards of Holland you have stole.</l>
+            <l xml:id="swift-Z773570B-line-24" n="24">To ease your Conscience, learn to weep &amp; pray,</l>
+            <l xml:id="swift-Z773570B-line-25" n="25">Your Rhimes shall never lure my pence away.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

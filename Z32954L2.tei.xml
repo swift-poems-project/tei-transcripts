@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>XXVIII.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 5JE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z32954L2">
+          <head type="note" n="1" xml:id="spp-Z32954L2-headnote-1">
+            <lg n="1" xml:id="spp-Z32954L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z32954L2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z32954L2-headnote-2">
+            <lg n="1" xml:id="spp-Z32954L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z32954L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z32954L2-headnote-3">
+            <lg n="1" xml:id="spp-Z32954L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z32954L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z32954L2-line-1" n="1"><hi rend="display-initial">F</hi>AIR <hi rend="italics">Ursly</hi>, in a merry Mood,</l>
+            <l rend="indent(1)" xml:id="swift-Z32954L2-line-2" n="2">Consulted her Physician,</l>
+            <l xml:id="swift-Z32954L2-line-3" n="3">What Time was best to stir the Blood,</l>
+            <l rend="indent(1)" xml:id="swift-Z32954L2-line-4" n="4">And Spirits, by Coition.</l>
+            <l xml:id="swift-Z32954L2-line-5" n="5"><lb/>Quoth <hi rend="italics">Woodward</hi>, If my Judgment's right,</l>
+            <l rend="indent(1)" xml:id="swift-Z32954L2-line-6" n="6">And Answer worth returning,</l>
+            <l xml:id="swift-Z32954L2-line-7" n="7">You'll find it pleasantest o'er Night,</l>
+            <l rend="indent(1)" xml:id="swift-Z32954L2-line-8" n="8">Most wholsome in the Morning.</l>
+            <l xml:id="swift-Z32954L2-line-9" n="9"><lb/>Quoth <hi rend="italics">Ursly</hi>, Then, for Pleasure's Sake,</l>
+            <l rend="indent(1)" xml:id="swift-Z32954L2-line-10" n="10">Each Ev'ning will I take it;</l>
+            <l xml:id="swift-Z32954L2-line-11" n="11">And ev'ry Morning, when I wake,</l>
+            <l rend="indent(1)" xml:id="swift-Z32954L2-line-12" n="12">My constant Physick make it.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

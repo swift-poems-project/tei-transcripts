@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Supposed to made on C. Fleuri. 1731.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 17JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-282L">
+          <head type="note" n="1" xml:id="spp-540-282L-headnote-1">
+            <lg n="1" xml:id="spp-540-282L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-282L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-282L-headnote-2">
+            <lg n="1" xml:id="spp-540-282L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-282L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-282L-headnote-3">
+            <lg n="1" xml:id="spp-540-282L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-282L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-282L-line-1" n="1">Conservant du Passé vn leger Souvenir,</l>
+            <l xml:id="swift-540-282L-line-2" n="2">Eblouij du Present, sans panser a l'avenir.</l>
+            <l xml:id="swift-540-282L-line-3" n="3">Dans L'art de governer, Decrepit, et Novice,</l>
+            <l xml:id="swift-540-282L-line-4" n="4">Punissant la Vertue, recompensant le Vice,</l>
+            <l xml:id="swift-540-282L-line-5" n="5">Malgré Sa Tête altière, accablé de son Rang,</l>
+            <l xml:id="swift-540-282L-line-6" n="6">Fourbe dans le Petit, Dupe dans le Grand,</l>
+            <l rend="indent(1)" xml:id="swift-540-282L-line-7" n="7">L'on connoit a ces traits, sans qu'on le nomne</l>
+            <l rend="indent(1)" xml:id="swift-540-282L-line-8" n="8">La Maïtre de La France, et le Valet de Rome.</l>
+            <l rend="center" xml:id="swift-540-282L-line-9" n="9"><lb/>Translated to a certain Minister.__With Favour &amp; fortune fastidiously Blest,</l>
+            <l xml:id="swift-540-282L-line-10" n="10">He is loud in his Laugh, he is Course in his Iest,</l>
+            <l xml:id="swift-540-282L-line-11" n="11">Of Fauour &amp; Fortune unmerited Vain,</l>
+            <l xml:id="swift-540-282L-line-12" n="12">A Sharper in Trifles, a Dupe in the Main;</l>
+            <l xml:id="swift-540-282L-line-13" n="13">Attchieving of Nothing, Still promising Wonders,</l>
+            <l xml:id="swift-540-282L-line-14" n="14">By dint of Experience, Improving in Blunders,</l>
+            <l xml:id="swift-540-282L-line-15" n="15">om.</l>
+            <l xml:id="swift-540-282L-line-16" n="16">om.</l>
+            <l xml:id="swift-540-282L-line-17" n="17">A Iobber of \Newes·<hi rend="italics">deleted, inserting</hi>·Stocks\ by retailing false Newes,</l>
+            <l xml:id="swift-540-282L-line-18" n="18">A prater att Court, in the Style of Style of the Stews,</l>
+            <l xml:id="swift-540-282L-line-19" n="19">Of Vertu, and Worth by profession a Giber,</l>
+            <l xml:id="swift-540-282L-line-20" n="20">Of Iury's and Senats, the Bully and Briber.</l>
+            <l rend="indent(1)" xml:id="swift-540-282L-line-21" n="21">Thô I name not this Wretch, you know Who I mean──</l>
+            <l rend="indent(1)" xml:id="swift-540-282L-line-22" n="22">The Cur-dogg of Brittain, and Spaniall of Spain.</l>
+            <l xml:id="swift-540-282L-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A New COPY of<lb/>  VERSES.<lb/>  On the Present TIMES, Relating to the Church<lb/>  and Dr. <hi rend="italics">SACHEVERELL</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 18DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X86-10D1">
+          <head type="note" n="1" xml:id="spp-X86-10D1-headnote-1">
+            <lg n="1" xml:id="spp-X86-10D1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X86-10D1-headnote-1-line-group-1-line-1">This may be Sung with the Tune of, <lb/> <hi rend="italics">Ye Commons and Peers</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X86-10D1-headnote-2">
+            <lg n="1" xml:id="spp-X86-10D1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X86-10D1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X86-10D1-headnote-3">
+            <lg n="1" xml:id="spp-X86-10D1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X86-10D1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-X86-10D1-line-1" n="1">I.<lb/><hi rend="display-initial">A</hi> Wonderful Age</l>
+            <l xml:id="swift-X86-10D1-line-2" n="2">Is now on the Stage</l>
+            <l xml:id="swift-X86-10D1-line-3" n="3">I'll tell you a Tale if I can,</l>
+            <l xml:id="swift-X86-10D1-line-4" n="4">How the Modern <hi rend="italics">Whiggs</hi></l>
+            <l xml:id="swift-X86-10D1-line-5" n="5">Dance Forty One Jiggs,</l>
+            <l xml:id="swift-X86-10D1-line-6" n="6">But God Bless our Gracious <hi rend="italics">Queen ANNE</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-7" n="7">II.<lb/>The <hi rend="italics">Kirk</hi> with Applause,</l>
+            <l xml:id="swift-X86-10D1-line-8" n="8">Is Establish'd by Laws,</l>
+            <l xml:id="swift-X86-10D1-line-9" n="9">As the <hi rend="italics">Orthodox</hi> Church of a Nation,</l>
+            <l xml:id="swift-X86-10D1-line-10" n="10">And our Bishops do own</l>
+            <l xml:id="swift-X86-10D1-line-11" n="11">It's as good as their own,</l>
+            <l xml:id="swift-X86-10D1-line-12" n="12">And this Sir, is call'd <hi rend="italics">Moderation</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-13" n="13">III.<lb/>It's no Riddle now,</l>
+            <l xml:id="swift-X86-10D1-line-14" n="14">To shew you Sir how,</l>
+            <l xml:id="swift-X86-10D1-line-15" n="15">A Church by Oppression may speed,</l>
+            <l xml:id="swift-X86-10D1-line-16" n="16">Nor is it a Jest</l>
+            <l xml:id="swift-X86-10D1-line-17" n="17">That the Kirk Faith is best</l>
+            <l xml:id="swift-X86-10D1-line-18" n="18">On the other side of the Tweed.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-19" n="19">IV.<lb/>As no Climate can suit,</l>
+            <l xml:id="swift-X86-10D1-line-20" n="20">With every Fruit,</l>
+            <l xml:id="swift-X86-10D1-line-21" n="21">Ev'n so Sir, it is with Religion,</l>
+            <l xml:id="swift-X86-10D1-line-22" n="22">The best Church by far</l>
+            <l xml:id="swift-X86-10D1-line-23" n="23">Is what grows where you are,</l>
+            <l xml:id="swift-X86-10D1-line-24" n="24">Were it <hi rend="italics">Mahomet</hi>'s Ass and his Pidgeon.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-25" n="25">V.<lb/>Another strange story</l>
+            <l xml:id="swift-X86-10D1-line-26" n="26">That Vexes the <hi rend="italics">Tory</hi>,</l>
+            <l xml:id="swift-X86-10D1-line-27" n="27">But sure there's no Mystery in it,</l>
+            <l xml:id="swift-X86-10D1-line-28" n="28">That a Pension or Place,</l>
+            <l xml:id="swift-X86-10D1-line-29" n="29">Give Communicants grace,</l>
+            <l xml:id="swift-X86-10D1-line-30" n="30">Who resolve to turn Tail the next Minute.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-31" n="31">VI.<lb/>For if it ben't Strange</l>
+            <l xml:id="swift-X86-10D1-line-32" n="32">That our Faith we may Change,</l>
+            <l xml:id="swift-X86-10D1-line-33" n="33">As often as Country's and Fashions;</l>
+            <l xml:id="swift-X86-10D1-line-34" n="34">Then sure there's no harm</l>
+            <l xml:id="swift-X86-10D1-line-35" n="35">That one should Conform</l>
+            <l xml:id="swift-X86-10D1-line-36" n="36">To serve his own private occasion.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-37" n="37">VII.<lb/>Another New Dance</l>
+            <l xml:id="swift-X86-10D1-line-38" n="38">The <hi rend="italics">Whiggs</hi> lately Advance,</l>
+            <l xml:id="swift-X86-10D1-line-39" n="39">Is to Cry up the Health of Pretender,</l>
+            <l xml:id="swift-X86-10D1-line-40" n="40">And those who would own</l>
+            <l xml:id="swift-X86-10D1-line-41" n="41">The Queen Heir to the Crown,</l>
+            <l xml:id="swift-X86-10D1-line-42" n="42">Are Traytors not fit to Defend Her.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-43" n="43">VIII.<lb/>That Subject's most Loyal</l>
+            <l xml:id="swift-X86-10D1-line-44" n="44">Who hates the Blood Royal,</l>
+            <l xml:id="swift-X86-10D1-line-45" n="45">And they for Employments have Merit,</l>
+            <l xml:id="swift-X86-10D1-line-46" n="46">Who Swear Queen and Steeple</l>
+            <l xml:id="swift-X86-10D1-line-47" n="47">Were made by the People</l>
+            <l xml:id="swift-X86-10D1-line-48" n="48">And neither has Right to Inherit.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-49" n="49">IX.<lb/>The Monarchy's fix't</l>
+            <l xml:id="swift-X86-10D1-line-50" n="50">By proving it mixt,</l>
+            <l xml:id="swift-X86-10D1-line-51" n="51">And by Non-Resistance o're thrown,</l>
+            <l xml:id="swift-X86-10D1-line-52" n="52">And Preaching Obedience</l>
+            <l xml:id="swift-X86-10D1-line-53" n="53">Destroys our Allegiance</l>
+            <l xml:id="swift-X86-10D1-line-54" n="54">And thus the Whigs prop up the Throne.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-55" n="55">X.<lb/>That Vice-Roy is best,</l>
+            <l xml:id="swift-X86-10D1-line-56" n="56">Who would take off the Test</l>
+            <l xml:id="swift-X86-10D1-line-57" n="57">And made a Dark Speech to attempt it;</l>
+            <l xml:id="swift-X86-10D1-line-58" n="58">But he like <hi rend="italics">True-Blue</hi>,</l>
+            <l xml:id="swift-X86-10D1-line-59" n="59">When he found twould not do,</l>
+            <l xml:id="swift-X86-10D1-line-60" n="60">Swore Dam him; if ever he meant it.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-61" n="61">XI.<lb/>It's no News that <hi rend="italics">Tom Double</hi></l>
+            <l xml:id="swift-X86-10D1-line-62" n="62">A Nation should Bubble,</l>
+            <l xml:id="swift-X86-10D1-line-63" n="63">Nor is't any Wonder or Riddle,</l>
+            <l xml:id="swift-X86-10D1-line-64" n="64">That a Parliament Rump</l>
+            <l xml:id="swift-X86-10D1-line-65" n="65">Should Play Hop-step and Jump,</l>
+            <l xml:id="swift-X86-10D1-line-66" n="66">Or Dance any Jigg to his Fiddle.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-67" n="67">XII.<lb/>But of late Sir; they tell</l>
+            <l xml:id="swift-X86-10D1-line-68" n="68">How <hi rend="italics">SACHEVERELL</hi>,</l>
+            <l xml:id="swift-X86-10D1-line-69" n="69">By bringing Old Doctrines in Fashion,</l>
+            <l xml:id="swift-X86-10D1-line-70" n="70">Has like a Damn'd Rogue</l>
+            <l xml:id="swift-X86-10D1-line-71" n="71">Brought Religion in Voge,</l>
+            <l xml:id="swift-X86-10D1-line-72" n="72">And so open'd the Eyes of the Nation.</l>
+            <l rend="center indent(1)" xml:id="swift-X86-10D1-line-73" n="73">XIII.<lb/>Then let's Pray without Spleen,</l>
+            <l xml:id="swift-X86-10D1-line-74" n="74">May God bless the Queen;</l>
+            <l xml:id="swift-X86-10D1-line-75" n="75">And let her Fellow-Monarchs the People,</l>
+            <l xml:id="swift-X86-10D1-line-76" n="76">May she Prosper and Thrive</l>
+            <l xml:id="swift-X86-10D1-line-77" n="77">Whilst we are Alive,</l>
+            <l xml:id="swift-X86-10D1-line-78" n="78">And so may the Church with the Steeple.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

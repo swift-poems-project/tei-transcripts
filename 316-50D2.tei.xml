@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 27JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="316-50D2">
+          <head type="note" n="1" xml:id="spp-316-50D2-headnote-1">
+            <lg n="1" xml:id="spp-316-50D2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-316-50D2-headnote-1-line-group-1-line-1">Having made the same voyage more than once, I had the pleasure of observing that the Dean's descriptions were as just as his numbers were beautiful, which I shall beg leave to insert in this place.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-316-50D2-headnote-2">
+            <lg n="1" xml:id="spp-316-50D2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-316-50D2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-316-50D2-headnote-3">
+            <lg n="1" xml:id="spp-316-50D2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-316-50D2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="indent(1)" xml:id="swift-316-50D2-line-1" n="1"><hi rend="italics">Ecce! ingens fragmen scopuli quod vertice summo</hi></l><l xml:id="swift-316-50D2-line-2" n="2">Desuper impendet, nullo fundamine nixum</l><l xml:id="swift-316-50D2-line-3" n="3">Decidit in fluctus: maria undiq; &amp; undiq; saxa</l><l xml:id="swift-316-50D2-line-4" n="4">Horrisono stridore tonant, &amp; ad æthera murmur</l><l xml:id="swift-316-50D2-line-5" n="5">Horrisono stridore tonant, &amp; ad æthera murmurErigitur; trepidatq; suis </l>Neptunus<hi rend="italics"> in undis.</hi><l xml:id="swift-316-50D2-line-6" n="6">Nam longâ venti rabie, atq; aspergine crebrâ</l><l xml:id="swift-316-50D2-line-7" n="7">(Equorei laticis, specus imâ rupe cavatur:</l><l xml:id="swift-316-50D2-line-8" n="8">Jam fultura ruit, jam summa cacumina nutant;</l><l xml:id="swift-316-50D2-line-9" n="9">Jam cadit in præceps moles, &amp; verberat undas.</l><l xml:id="swift-316-50D2-line-10" n="10">Attonitus credas, hinc dejecisse tonantem</l><l xml:id="swift-316-50D2-line-11" n="11">Attonitus credas, hinc dejecisse tonantemMontibus impositos montes, &amp; </l>Pelion<hi rend="italics"> altum</hi><l xml:id="swift-316-50D2-line-12" n="12">In capita anguipedum cælo jaculasse gigantum.</l><l rend="indent(1)" xml:id="swift-316-50D2-line-13" n="13">Sæpe etiam spelunca immani apperitur hiatu</l><l xml:id="swift-316-50D2-line-14" n="14">Exesa é scopulis, &amp; utrinq; foramina pandit,</l><l xml:id="swift-316-50D2-line-15" n="15">Exesa é scopulis, &amp; utrinq; foramina pandit,</l><note place="foot">·This alludes to a stupendous arch through which a boat may row. It is in the parish of <hi rend="italics">Miros</hi>, and not far from the place where the Dean usually embarked. Near the W. head of <hi rend="italics">Castlehaven</hi> are deep caves which are low at the entrance, but grow higher within: The swell of the sea raises a boat up to the roof almost when one is in, which also by turns closes up the entrance, and makes them very dark and gloomy.</note><hi rend="italics">Hinc atq; hinc a ponto ad pontum pervia Phæbo,</hi><l xml:id="swift-316-50D2-line-16" n="16">Cautibus enormè junctis laquearia tecti</l><l xml:id="swift-316-50D2-line-17" n="17">Formantur; moles olim ruitura supernè.</l><l xml:id="swift-316-50D2-line-18" n="18">Fornice sublimi nidos posuere palumbes,</l><l xml:id="swift-316-50D2-line-19" n="19">Inq; imo stagni posuere cubilia Phocæ.</l><l rend="indent(1)" xml:id="swift-316-50D2-line-20" n="20">Sed, cum sævit hyems, &amp; venti carcere rupto</l><l xml:id="swift-316-50D2-line-21" n="21">Immensos volvunt fluctus ad culmina montis;</l><l xml:id="swift-316-50D2-line-22" n="22">Non obsessæ arces, non fulmina vindice dextrâ</l><l xml:id="swift-316-50D2-line-23" n="23">Missa Jovis, quoties inimicas sævit in urbes,</l><l xml:id="swift-316-50D2-line-24" n="24">Exæquant sonitum undarum, veniente procellâ:</l><l xml:id="swift-316-50D2-line-25" n="25">Littora littoribus reboant; vicinia latè,</l><l xml:id="swift-316-50D2-line-26" n="26">Gens assueta mari, &amp; pedibus percurrere rupes,</l><l xml:id="swift-316-50D2-line-27" n="27">Terretur tamen, &amp; longè fugit, arva relinquens.</l><l rend="indent(1)" xml:id="swift-316-50D2-line-28" n="28">Gramina dum carpunt, pendentes rupe capellæ</l><l xml:id="swift-316-50D2-line-29" n="29">Vi salientis aquæ de summo precipitantur,</l><l xml:id="swift-316-50D2-line-30" n="30">Et dulces animas imo sub gurgite linquunt.</l><l rend="indent(1)" xml:id="swift-316-50D2-line-31" n="31">Piscator terrâ non audet vellere funem</l><l xml:id="swift-316-50D2-line-32" n="32">Sed latet in portu tremebundus, &amp; aëra sudum</l><l xml:id="swift-316-50D2-line-33" n="33">Sed latet in portu tremebundus, &amp; aëra sudumHaud sperans, Nereum precibus votisq; fatigat</l>.<note place="foot">·For the sake of the <hi rend="italics">English</hi> reader, I shall subjoin the following translation by the Rev. Dr. <hi rend="italics">Dunkin</hi>.<lb/>Lo! from the top of yonder cliff, that shrouds_Its airy head amidst the azure clouds,_Hangs a huge fragment, destitute of props,_Prone on the waves the rocky ruin drops._With hoarse rebuff the swelling seas rebound_From shore to shore, the rocks return the sound;_The dreadful murmur heav'n's high concave cleaves,_And <hi rend="italics">Neptune</hi> shrinks beneath his subject waves;_For long the whirling winds and beating tides_Had scoop'd a vault into its nether sides;_Now yields the base, the summits nod, now urge_Their headlong course, and lash the sounding surge._Not louder noise cou'd shake the guilty world,_When <hi rend="italics">Jove</hi> heap'd mountains upon mountains hurl'd,_Retorting <hi rend="italics">Pelion</hi> from his dread abode,_To crush earth's rebel sons beneath the load._Oft too with hideous yawn the cavern wide_Presents an orifice on either side;_A dismal orifice on either side;_A dismal orifice from sea to sea_Extended, pervious to the god of day:_Uncouthly join'd, the rocks stupendous form_An arch, the ruin of a future storm:_High on the cliff their nests wild pigeons make,_And sea calves stable in the ouzy lake._But when bleak winter with her sullen train,_Awakes the winds, to vex the watry plain;_When o'er the craggy steep without controul,_Big with the blast, the raging billows rowl;_Not towns beleagur'd, not the flaming brand_Darted from heav'n by <hi rend="italics">Jove</hi>'s avenging hand,_Oft as on impious men his wrath he pours;_Humbles their pride, and blasts their gilded tow'rs,_Equal the tumult of this wild uproar;_Waves rush o'er waves, rebellows shore to shore._The neighbouring race tho' wont to brave the shocks,_Of angry seas and run along the rocks;_Now pale with terror, while the ocean foams,_Fly far and wide, nor trust their native homes._The Goats while pendent from the mountain top,_The wither'd herb improvident they crop,_Wash'd down the precipice with sudden sweep,_Leave their sweet lives beneath th'unfathom'd deep._The frighted Fisher with desponding eyes,_Tho' safe yet trembling in the harbour lyes,_Nor hoping to behold the sky serene,_Wearies with vows the monarch of the main.</note></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

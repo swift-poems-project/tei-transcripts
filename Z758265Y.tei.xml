@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wrote w<hi rend="superscript">h</hi> 08.  Pencil on Wainscot in the College Parlour at the<lb/>  Windmil at Stow near Eaton, &amp; Windsor.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 22OC02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z758265Y">
+          <head type="note" n="1" xml:id="spp-Z758265Y-headnote-1">
+            <lg n="1" xml:id="spp-Z758265Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z758265Y-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z758265Y-headnote-2">
+            <lg n="1" xml:id="spp-Z758265Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z758265Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z758265Y-headnote-3">
+            <lg n="1" xml:id="spp-Z758265Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z758265Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-1" n="1">Of Pope, and of Swift</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-2" n="2">We see plainly the Drift</l>
+            <l xml:id="swift-Z758265Y-line-3" n="3">To bring polite Language in Vogue</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-4" n="4">While the Dean he cry's Turd</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-5" n="5">At every Word</l>
+            <l xml:id="swift-Z758265Y-line-6" n="6">Little Pope he calls Rascal &amp; Rogue.</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-7" n="7"><lb/>Tho' the Billings-gate Dames,</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-8" n="8">And the Tritons of Thames,</l>
+            <l xml:id="swift-Z758265Y-line-9" n="9">Were expert in this Language before us;</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-10" n="10">Yet Criticks of late</l>
+            <l rend="indent(1)" xml:id="swift-Z758265Y-line-11" n="11">In the Year <hi rend="large-writing">Thirty Eight</hi></l>
+            <l xml:id="swift-Z758265Y-line-12" n="12">Have found out itis something like Horace.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

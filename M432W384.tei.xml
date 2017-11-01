@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">When the </hi>Cat<hi rend="italics">'s away,<lb/>  The </hi>Mice<hi rend="italics"> may play</hi>.<lb/>  A<lb/>  FABLE,<lb/>  Humbly inscrib'd to<lb/>  Dr. Sw--t.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 7JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M432W384">
+          <head type="note" n="1" xml:id="spp-M432W384-headnote-1">
+            <lg n="1" xml:id="spp-M432W384-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M432W384-headnote-1-line-group-1-line-1"><hi rend="italics">In Domibus </hi>Mures<hi rend="italics"> avido dente omnia captant: <lb/> In Domibus </hi>Fures<hi rend="italics"> avida mente omnia raptant</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M432W384-headnote-2">
+            <lg n="1" xml:id="spp-M432W384-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M432W384-headnote-2-line-group-1-line-1"><hi rend="italics">LONDON: <lb/> Printed for </hi>A. Baldwin, <hi rend="italics">in</hi> Warwick-lane. <lb/> Price Two Pence.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M432W384-headnote-3">
+            <lg n="1" xml:id="spp-M432W384-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M432W384-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-M432W384-line-1" n="1"><lb/>I._<hi rend="display-initial">A<hi rend="italics"> Lady</hi> once (so Stories say)</hi></l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-2" n="2">By <hi rend="italics">Rats</hi> and <hi rend="italics">Mice</hi> infested,</l>
+            <l xml:id="swift-M432W384-line-3" n="3">With Gins and Traps long sought to slay</l>
+            <l xml:id="swift-M432W384-line-4" n="4">The <hi rend="italics">Thieves</hi>; but still they 'scap'd away,</l>
+            <l xml:id="swift-M432W384-line-5" n="5">And daily her molested.</l>
+            <l rend="center" xml:id="swift-M432W384-line-6" n="6"><lb/>II._Great Havock 'mongst her Cheese was made,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-7" n="7">And much the loss did grieve her:</l>
+            <l xml:id="swift-M432W384-line-8" n="8">At length <hi rend="italics">Grimalkin</hi> to her Aid</l>
+            <l xml:id="swift-M432W384-line-9" n="9">She call'd, (no more of <hi rend="italics">Cats</hi> afraid)</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-10" n="10">And begg'd him to relieve her.</l>
+            <l rend="center" xml:id="swift-M432W384-line-11" n="11"><lb/>III._Soon as <hi rend="italics">Grimalkin</hi> came in view,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-12" n="12">The <hi rend="italics">Vermin</hi> back retreated;</l>
+            <l xml:id="swift-M432W384-line-13" n="13"><hi rend="italics">Grimalkin</hi> swift as Lightning flew,</l>
+            <l xml:id="swift-M432W384-line-14" n="14">Thousands of <hi rend="italics">Mice</hi> he daily slew,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-15" n="15">Thousands of <hi rend="italics">Rats</hi> defeated.</l>
+            <l rend="center" xml:id="swift-M432W384-line-16" n="16"><lb/>IV._Ne'er <hi rend="italics">Cat</hi> before such Glory won,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-17" n="17">All People did adore him:</l>
+            <l xml:id="swift-M432W384-line-18" n="18"><hi rend="italics">Grimalkin</hi> far all <hi rend="italics">Cats</hi> out-shone,</l>
+            <l xml:id="swift-M432W384-line-19" n="19">And in his <hi rend="italics">Lady</hi>'s Favour none</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-20" n="20">Was then preferr'd before him.</l>
+            <l rend="center" xml:id="swift-M432W384-line-21" n="21"><lb/>V._Pert Mrs. <hi rend="italics">Abigail</hi> alone</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-22" n="22">Envy'd <hi rend="italics">Grimalkin</hi>'s Glory;</l>
+            <l xml:id="swift-M432W384-line-23" n="23">Her Favourite <hi rend="italics">Lap Dog</hi> now was grown</l>
+            <l xml:id="swift-M432W384-line-24" n="24">Neglected, him she did bemoan,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-25" n="25">And rav'd like any T────y.</l>
+            <l rend="center" xml:id="swift-M432W384-line-26" n="26"><lb/>VI._She cannot bear, she swears she won't</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-27" n="27">To see the <hi rend="italics">Cat</hi> regarded,</l>
+            <l xml:id="swift-M432W384-line-28" n="28">But firmly is resolv'd upon't,</l>
+            <l xml:id="swift-M432W384-line-29" n="29">And vows, that whatsoe'er comes on't,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-30" n="30">She'll have the <hi rend="italics">Cat</hi> discarded.</l>
+            <l rend="center" xml:id="swift-M432W384-line-31" n="31"><lb/>VII._She Begs, she Storms, she Fawns, she Frets,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-32" n="32">(Her Arts are all employ'd)</l>
+            <l xml:id="swift-M432W384-line-33" n="33">And tells her <hi rend="italics">Lady</hi> in a Pett,</l>
+            <l xml:id="swift-M432W384-line-34" n="34"><hi rend="italics">Grimalkin</hi> cost her more in Meat</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-35" n="35">Than all the <hi rend="italics">Rats</hi> destroy'd.</l>
+            <l rend="center" xml:id="swift-M432W384-line-36" n="36"><lb/>VIII._At length this Spiteful <hi rend="italics">Waiting-maid</hi></l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-37" n="37">Produc'd a Thing amazing;</l>
+            <l xml:id="swift-M432W384-line-38" n="38">The Favourite <hi rend="italics">Cat</hi>'s a Victim made,</l>
+            <l xml:id="swift-M432W384-line-39" n="39">To satisfy this prating Jade,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-40" n="40">And fairly turn'd a grazing.</l>
+            <l rend="center" xml:id="swift-M432W384-line-41" n="41"><lb/>IX._Now <hi rend="italics">Lap Dog</hi> is again restor'd</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-42" n="42">Into his <hi rend="italics">Lady</hi>'s Favour;</l>
+            <l xml:id="swift-M432W384-line-43" n="43">Sumptuously kept at Bed and Board,</l>
+            <l xml:id="swift-M432W384-line-44" n="44">And He (so <hi rend="italics">Nab</hi> has given her word)</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-45" n="45">Shall from all <hi rend="italics">Vermin</hi> save Her.</l>
+            <l rend="center" xml:id="swift-M432W384-line-46" n="46"><lb/>X._<hi rend="italics">Nab</hi> much exults at this Success,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-47" n="47">And overwhelm'd with Joy,</l>
+            <l xml:id="swift-M432W384-line-48" n="48">Her <hi rend="italics">Lady</hi> fondly doth caress,</l>
+            <l xml:id="swift-M432W384-line-49" n="49">And tells her <hi rend="italics">Fubb</hi> can do no less,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-50" n="50">Than all Her Foes destroy.</l>
+            <l rend="center" xml:id="swift-M432W384-line-51" n="51"><lb/>XI._But vain such Hopes; The <hi rend="italics">Mice</hi> that fled</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-52" n="52">Return, now <hi rend="italics">Grim</hi>'s discarded;</l>
+            <l xml:id="swift-M432W384-line-53" n="53">Whilst <hi rend="italics">Fubb</hi> till Ten, on Silken Bed,</l>
+            <l xml:id="swift-M432W384-line-54" n="54">Securely lolls his drowsy Head,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-55" n="55">And leaves Cheese unregarded.</l>
+            <l rend="center" xml:id="swift-M432W384-line-56" n="56"><lb/>XII._Nor <hi rend="italics">Rats</hi>, nor <hi rend="italics">Mice</hi> the <hi rend="italics">Lap Dog</hi> fear,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-57" n="57">Now uncontrol'd their Theft is:</l>
+            <l xml:id="swift-M432W384-line-58" n="58">And whatsoe'er the Vermin spare,</l>
+            <l xml:id="swift-M432W384-line-59" n="59"><hi rend="italics">Nab</hi> and her <hi rend="italics">Dog</hi> betwixt them share,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-60" n="60">Nor Pye, nor Pippin left is.</l>
+            <l rend="center" xml:id="swift-M432W384-line-61" n="61"><lb/>XIII._Mean while to cover their Deceit,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-62" n="62">At once, and slander <hi rend="italics">Grim</hi>;</l>
+            <l xml:id="swift-M432W384-line-63" n="63"><hi rend="italics">Nab</hi> says, the <hi rend="italics">Cat</hi> comes out of spight</l>
+            <l xml:id="swift-M432W384-line-64" n="64">To rob her <hi rend="italics">Lady</hi> every Night,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-65" n="65">So lays it all on him.</l>
+            <l rend="center" xml:id="swift-M432W384-line-66" n="66"><lb/>XIV._Nor Corn secure in Garret high,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-67" n="67">Nor Cheescake safe in Closet;</l>
+            <l xml:id="swift-M432W384-line-68" n="68">The <hi rend="italics">Cellars</hi> now unguarded lye,</l>
+            <l xml:id="swift-M432W384-line-69" n="69">On ev'ry Shelf the <hi rend="italics">Vermin</hi> Prey,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-70" n="70">And still <hi rend="italics">Grimalkin</hi> does it.</l>
+            <l rend="center" xml:id="swift-M432W384-line-71" n="71"><lb/>XV._The Gains from Corn apace decay'd,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-72" n="72">No Baggs to Market go:</l>
+            <l xml:id="swift-M432W384-line-73" n="73">Complaints came from the Dairy-maid,</l>
+            <l xml:id="swift-M432W384-line-74" n="74">The <hi rend="italics">Mice</hi> had spoil'd her Butter Trade,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-75" n="75">And eke her Cheese also.</l>
+            <l rend="center" xml:id="swift-M432W384-line-76" n="76"><lb/>XVI._With this same <hi rend="italics">Lady</hi> once there liv'd</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-77" n="77">A trusty <hi rend="italics">Servant Maid</hi>,</l>
+            <l xml:id="swift-M432W384-line-78" n="78">Who, hearing this, full much was griev'd,</l>
+            <l xml:id="swift-M432W384-line-79" n="79">Fearing her <hi rend="italics">Lady</hi> was deceiv'd,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-80" n="80">And hasten'd to her Aid.</l>
+            <l rend="center" xml:id="swift-M432W384-line-81" n="81"><lb/>XVII._Much Art she us'd for to disclose</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-82" n="82">And find out the Deceit;</l>
+            <l xml:id="swift-M432W384-line-83" n="83">At length she to the <hi rend="italics">Lady</hi> goes,</l>
+            <l xml:id="swift-M432W384-line-84" n="84">Discovers her Domestick Foes,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-85" n="85">And opens all the Cheat.</l>
+            <l rend="center" xml:id="swift-M432W384-line-86" n="86"><lb/>XVIII._Stuck with the Sense of Her Mistake,</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-87" n="87">The <hi rend="italics">Lady</hi> discontented,</l>
+            <l xml:id="swift-M432W384-line-88" n="88">Resolves again Her <hi rend="italics">Cat</hi> to take,</l>
+            <l xml:id="swift-M432W384-line-89" n="89">And ne're again Her <hi rend="italics">Cat</hi> forsake</l>
+            <l rend="indent(1)" xml:id="swift-M432W384-line-90" n="90">Least she again repent it.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

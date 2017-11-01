@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On His Own Deafness</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673AROGP">
+          <head type="note" n="1" xml:id="spp-673AROGP-headnote-1">
+            <lg n="1" xml:id="spp-673AROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673AROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-673AROGP-headnote-2">
+            <lg n="1" xml:id="spp-673AROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673AROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-673AROGP-headnote-3">
+            <lg n="1" xml:id="spp-673AROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673AROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-673AROGP-line-1" n="1">
+              <hi rend="italics">Verticosus, inops, surdus, male gratus amicis;</hi>
+            </l>
+            <l xml:id="swift-673AROGP-line-2" n="2">Non campana sonans, tonitru non ab Jove missus,</l>
+            <l xml:id="swift-673AROGP-line-3" n="3">Quod mage mirandum, saltem si credere fas est,</l>
+            <l xml:id="swift-673AROGP-line-4" n="4">Garrula non matrona meas nunc arrigit aures.</l>
+            <l xml:id="swift-673AROGP-line-5" n="5"><lb/>Deaf, giddy, odious to my friends,</l>
+            <l xml:id="swift-673AROGP-line-6" n="6">Now all my consolation ends;</l>
+            <l xml:id="swift-673AROGP-line-7" n="7">No more I hear my church's bell</l>
+            <l xml:id="swift-673AROGP-line-8" n="8">Than if it rang out for my knell;</l>
+            <l xml:id="swift-673AROGP-line-9" n="9">At thunder now, no more I start</l>
+            <l xml:id="swift-673AROGP-line-10" n="10">Than at the rumbling of a cart.</l>
+            <l xml:id="swift-673AROGP-line-11" n="11">Nay though I know you would not credit──</l>
+            <l xml:id="swift-673AROGP-line-12" n="12">Although a thousand times I said it:</l>
+            <l xml:id="swift-673AROGP-line-13" n="13">A scold whom you might hear a mile hence</l>
+            <l xml:id="swift-673AROGP-line-14" n="14">No more could reach me than her silence.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Dr Swift to Mr Pope</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="405BROGP">
+          <head type="note" n="1" xml:id="spp-405BROGP-headnote-1">
+            <lg n="1" xml:id="spp-405BROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-405BROGP-headnote-1-line-group-1-line-1">WHILE HE WAS WRITING THE 'DUNCIAD'&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-405BROGP-headnote-2">
+            <lg n="1" xml:id="spp-405BROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-405BROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-405BROGP-headnote-3">
+            <lg n="1" xml:id="spp-405BROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-405BROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-405BROGP-line-1" n="1">Pope has the talent well to speak,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-2" n="2">But not to reach the ear;</l>
+            <l xml:id="swift-405BROGP-line-3" n="3">His loudest voice is low and weak,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-4" n="4">The Dean too deaf to hear.</l>
+            <l xml:id="swift-405BROGP-line-5" n="5"><lb/>Awhile they on each other look,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-6" n="6">Then different studies choose;</l>
+            <l xml:id="swift-405BROGP-line-7" n="7">The Dean sits plodding on a book,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-8" n="8">Pope walks, and courts the muse.</l>
+            <l xml:id="swift-405BROGP-line-9" n="9"><lb/>Now backs of letters, though designed</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-10" n="10">For those, who more will need 'em,</l>
+            <l xml:id="swift-405BROGP-line-11" n="11">Are filled with hints, and interlined,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-12" n="12">Himself can hardly read 'em.</l>
+            <l xml:id="swift-405BROGP-line-13" n="13"><lb/>Each atom by some other struck,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-14" n="14">All turns and motions tries;</l>
+            <l xml:id="swift-405BROGP-line-15" n="15">Till in a lump together stuck,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-16" n="16">Behold a poem rise!</l>
+            <l xml:id="swift-405BROGP-line-17" n="17"><lb/>Yet to the Dean his share allot;</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-18" n="18">He claims it by a canon;</l>
+            <l xml:id="swift-405BROGP-line-19" n="19">That, <hi rend="italics">without which a thing is not</hi></l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-20" n="20">Is, <hi rend="italics">causa sine qua non</hi>.</l>
+            <l xml:id="swift-405BROGP-line-21" n="21"><lb/>Thus, Pope in vain you boast your wit;</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-22" n="22">For, had our deaf divine</l>
+            <l xml:id="swift-405BROGP-line-23" n="23">Been for your conversation fit,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-24" n="24">You had not writ a line.</l>
+            <l xml:id="swift-405BROGP-line-25" n="25"><lb/>Of Sherlock thus, for preaching famed,</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-26" n="26">The sexton reasoned well,</l>
+            <l xml:id="swift-405BROGP-line-27" n="27">And justly half the merit claimed</l>
+            <l rend="indent(1)" xml:id="swift-405BROGP-line-28" n="28">Because he rang the bell.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

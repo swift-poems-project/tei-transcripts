@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  LOGICIANS REFUTED.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 24JA15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y41-80L1">
+          <head type="note" n="1" xml:id="spp-Y41-80L1-headnote-1">
+            <lg n="1" xml:id="spp-Y41-80L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y41-80L1-headnote-1-line-group-1-line-1">IN IMITATION OF DEAN SWIFT.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y41-80L1-headnote-2">
+            <lg n="1" xml:id="spp-Y41-80L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y41-80L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y41-80L1-headnote-3">
+            <lg n="1" xml:id="spp-Y41-80L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y41-80L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y41-80L1-line-1" n="1"><hi rend="display-initial">L</hi>OGICIANS have but ill defin'd</l>
+            <l xml:id="swift-Y41-80L1-line-2" n="2">As rational the human mind;</l>
+            <l xml:id="swift-Y41-80L1-line-3" n="3">Reason, they say, belongs to man,</l>
+            <l xml:id="swift-Y41-80L1-line-4" n="4">But let them prove it if they can.</l>
+            <l xml:id="swift-Y41-80L1-line-5" n="5">Wise Aristotle and Smiglesius,</l>
+            <l xml:id="swift-Y41-80L1-line-6" n="6">By Ratiocinations specious,</l>
+            <l xml:id="swift-Y41-80L1-line-7" n="7">Have strove to prove with great precision,</l>
+            <l xml:id="swift-Y41-80L1-line-8" n="8">With definition and division,</l>
+            <l xml:id="swift-Y41-80L1-line-9" n="9"><hi rend="italics">Homo est ratione preditum</hi>;</l>
+            <l xml:id="swift-Y41-80L1-line-10" n="10">But for my soul I cannot credit 'em.</l>
+            <l xml:id="swift-Y41-80L1-line-11" n="11">And must in spite of them maintain,</l>
+            <l xml:id="swift-Y41-80L1-line-12" n="12">That man and all his ways are vain;</l>
+            <l xml:id="swift-Y41-80L1-line-13" n="13">And that this boasted lord of nature,</l>
+            <l xml:id="swift-Y41-80L1-line-14" n="14">Is both a weak and erring creature.</l>
+            <l xml:id="swift-Y41-80L1-line-15" n="15">That instinct is a surer guide,</l>
+            <l xml:id="swift-Y41-80L1-line-16" n="16">Than reason-boasting mortals pride;</l>
+            <l xml:id="swift-Y41-80L1-line-17" n="17">And that brute beasts are far before 'em,</l>
+            <l xml:id="swift-Y41-80L1-line-18" n="18"><hi rend="italics">Deus est anima brutorum</hi>.</l>
+            <l xml:id="swift-Y41-80L1-line-19" n="19">Whoever knew an honest brute,</l>
+            <l xml:id="swift-Y41-80L1-line-20" n="20">At law his neighbour prosecute,</l>
+            <l xml:id="swift-Y41-80L1-line-21" n="21">Bring action for assault and battery,</l>
+            <l xml:id="swift-Y41-80L1-line-22" n="22">Or friend beguile with lies and flattery.</l>
+            <l xml:id="swift-Y41-80L1-line-23" n="23">O'er plains they ramble unconfin'd,</l>
+            <l xml:id="swift-Y41-80L1-line-24" n="24">No politics disturb their mind;</l>
+            <l xml:id="swift-Y41-80L1-line-25" n="25">They eat their meals, and take their sport,</l>
+            <l xml:id="swift-Y41-80L1-line-26" n="26">Nor know who's in or out at court,</l>
+            <l xml:id="swift-Y41-80L1-line-27" n="27">They never to the levee go</l>
+            <l xml:id="swift-Y41-80L1-line-28" n="28">To treat as dearest friend, a foe:</l>
+            <l xml:id="swift-Y41-80L1-line-29" n="29">They never importune his grace,</l>
+            <l xml:id="swift-Y41-80L1-line-30" n="30">Nor ever cringe to men in place;</l>
+            <l xml:id="swift-Y41-80L1-line-31" n="31">Nor undertake a dirty job,</l>
+            <l xml:id="swift-Y41-80L1-line-32" n="32">Nor draw the quill to write for Bob,</l>
+            <l xml:id="swift-Y41-80L1-line-33" n="33">Fraught with invective they ne'er go,</l>
+            <l xml:id="swift-Y41-80L1-line-34" n="34">To folks at Pater-noster Row:</l>
+            <l xml:id="swift-Y41-80L1-line-35" n="35">No judges, fidlers, dancing masters,</l>
+            <l xml:id="swift-Y41-80L1-line-36" n="36">No pick-pockets, or poetasters,</l>
+            <l xml:id="swift-Y41-80L1-line-37" n="37">Are known to honest quadrupeeds,</l>
+            <l xml:id="swift-Y41-80L1-line-38" n="38">No single brute his fellows leads.</l>
+            <l xml:id="swift-Y41-80L1-line-39" n="39">Brutes never meet in bloody fray,</l>
+            <l xml:id="swift-Y41-80L1-line-40" n="40">Nor cut each others throats for pay.</l>
+            <l xml:id="swift-Y41-80L1-line-41" n="41">Or beasts, it is confess'd, the ape</l>
+            <l xml:id="swift-Y41-80L1-line-42" n="42">Comes nearest us in human shape,</l>
+            <l xml:id="swift-Y41-80L1-line-43" n="43">Like man he imitates each fashion,</l>
+            <l xml:id="swift-Y41-80L1-line-44" n="44">And malice is his ruling passion:</l>
+            <l xml:id="swift-Y41-80L1-line-45" n="45">But both in malice and grimaces,</l>
+            <l xml:id="swift-Y41-80L1-line-46" n="46">A courtier any ape surpasses.</l>
+            <l xml:id="swift-Y41-80L1-line-47" n="47">Behold him humbly cringing wait,</l>
+            <l xml:id="swift-Y41-80L1-line-48" n="48">Upon the minister of state:</l>
+            <l xml:id="swift-Y41-80L1-line-49" n="49">View him soon after to inferiors</l>
+            <l xml:id="swift-Y41-80L1-line-50" n="50">Aping the conduct of superiors:</l>
+            <l xml:id="swift-Y41-80L1-line-51" n="51">He promises with equal air,</l>
+            <l xml:id="swift-Y41-80L1-line-52" n="52">And to perform takes equal care.</l>
+            <l xml:id="swift-Y41-80L1-line-53" n="53">He in his turn finds imitators,</l>
+            <l xml:id="swift-Y41-80L1-line-54" n="54">At court, the porters, lacques, waiters,</l>
+            <l xml:id="swift-Y41-80L1-line-55" n="55">Their master's manners still contract,</l>
+            <l xml:id="swift-Y41-80L1-line-56" n="56">And footmen, lords and dukes can act.</l>
+            <l xml:id="swift-Y41-80L1-line-57" n="57">Thus at the court, both great and small,</l>
+            <l xml:id="swift-Y41-80L1-line-58" n="58">Behave alike, for all ape all.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Riddles</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="921-ROGP">
+          <head type="note" n="1" xml:id="spp-921-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-921-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-921-ROGP-headnote-1-line-group-1-line-1"><hi rend="italics">7</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-921-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-921-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-921-ROGP-headnote-2-line-group-1-line-1">THE GULF OF ALL HUMAN POSSESSIONS</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-921-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-921-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-921-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-921-ROGP-line-1" n="1">Come hither and behold the fruits,</l>
+            <l xml:id="swift-921-ROGP-line-2" n="2">Vain man, of all thy vain pursuits.</l>
+            <l xml:id="swift-921-ROGP-line-3" n="3">Take wise advice, and look behind,</l>
+            <l xml:id="swift-921-ROGP-line-4" n="4">Bring all past actions to thy mind.</l>
+            <l xml:id="swift-921-ROGP-line-5" n="5">Here may you see, as in a glass,</l>
+            <l xml:id="swift-921-ROGP-line-6" n="6">How soon all human pleasures pass.</l>
+            <l xml:id="swift-921-ROGP-line-7" n="7">How will it mortify thy pride,</l>
+            <l xml:id="swift-921-ROGP-line-8" n="8">To turn the true impartial side!</l>
+            <l xml:id="swift-921-ROGP-line-9" n="9">How will your eyes contain their tears,</l>
+            <l xml:id="swift-921-ROGP-line-10" n="10">When all the sad reverse appears!</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-11" n="11"><lb/>This cave within its womb confines</l>
+            <l xml:id="swift-921-ROGP-line-12" n="12">The last result of all designs:</l>
+            <l xml:id="swift-921-ROGP-line-13" n="13">Here lie deposited the spoils</l>
+            <l xml:id="swift-921-ROGP-line-14" n="14">Of busy mortals' endless toils:</l>
+            <l xml:id="swift-921-ROGP-line-15" n="15">Here, with an easy search we find</l>
+            <l xml:id="swift-921-ROGP-line-16" n="16">The foul corruptions of mankind.</l>
+            <l xml:id="swift-921-ROGP-line-17" n="17">The wretched purchase here behold</l>
+            <l xml:id="swift-921-ROGP-line-18" n="18">Of traitors who their country sold.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-19" n="19"><lb/>The gulf insatiable imbibes</l>
+            <l xml:id="swift-921-ROGP-line-20" n="20">The lawyer's fees, the statesman's bribes.</l>
+            <l xml:id="swift-921-ROGP-line-21" n="21">Here, in their proper shape and mien,</l>
+            <l xml:id="swift-921-ROGP-line-22" n="22">Fraud, perjury, and guilt are seen.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-23" n="23"><lb/>Necessity, the tyrant's law,</l>
+            <l xml:id="swift-921-ROGP-line-24" n="24">All human race must hither draw:</l>
+            <l xml:id="swift-921-ROGP-line-25" n="25">All prompted by the same desire,</l>
+            <l xml:id="swift-921-ROGP-line-26" n="26">The vigorous youth, and aged sire:</l>
+            <l xml:id="swift-921-ROGP-line-27" n="27">Behold, the coward, and the brave,</l>
+            <l xml:id="swift-921-ROGP-line-28" n="28">The haughty prince, the humble slave,</l>
+            <l xml:id="swift-921-ROGP-line-29" n="29">Physician, lawyer, and divine,</l>
+            <l xml:id="swift-921-ROGP-line-30" n="30">All make oblations at this shrine.</l>
+            <l xml:id="swift-921-ROGP-line-31" n="31">Some enter boldly, some by stealth,</l>
+            <l xml:id="swift-921-ROGP-line-32" n="32">And leave behind their fruitless wealth.</l>
+            <l xml:id="swift-921-ROGP-line-33" n="33">For, while the bashful sylvan maid,</l>
+            <l xml:id="swift-921-ROGP-line-34" n="34">As half ashamed, and half afraid,</l>
+            <l xml:id="swift-921-ROGP-line-35" n="35">Approaching, finds it hard to part</l>
+            <l xml:id="swift-921-ROGP-line-36" n="36">With that which dwelt so near her heart;</l>
+            <l xml:id="swift-921-ROGP-line-37" n="37">The courtly dame, unmoved by fear,</l>
+            <l xml:id="swift-921-ROGP-line-38" n="38">Profusely pours her offerings here.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-39" n="39"><lb/>A treasure here of learning lurks,</l>
+            <l xml:id="swift-921-ROGP-line-40" n="40">Huge heaps of never-dying works;</l>
+            <l xml:id="swift-921-ROGP-line-41" n="41">Labours of many an ancient sage,</l>
+            <l xml:id="swift-921-ROGP-line-42" n="42">And millions of the present age.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-43" n="43"><lb/>In at this gulf all offerings pass,</l>
+            <l xml:id="swift-921-ROGP-line-44" n="44">And lie an undistinguished mass.</l>
+            <l xml:id="swift-921-ROGP-line-45" n="45">Deucalion, to restore mankind</l>
+            <l xml:id="swift-921-ROGP-line-46" n="46">Was bid to throw the stones behind;</l>
+            <l xml:id="swift-921-ROGP-line-47" n="47">So, those who here their gifts convey,</l>
+            <l xml:id="swift-921-ROGP-line-48" n="48">Are forced to look another way;</l>
+            <l xml:id="swift-921-ROGP-line-49" n="49">For, few, a chosen few, must know</l>
+            <l xml:id="swift-921-ROGP-line-50" n="50">The mysteries that lie below.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-51" n="51"><lb/>Sad charnel-house! a dismal dome,</l>
+            <l xml:id="swift-921-ROGP-line-52" n="52">For which all mortals leave their home;</l>
+            <l xml:id="swift-921-ROGP-line-53" n="53">The young, the beautiful, and brave,</l>
+            <l xml:id="swift-921-ROGP-line-54" n="54">Here buried in one common grave;</l>
+            <l xml:id="swift-921-ROGP-line-55" n="55">Where each supply of dead, renews</l>
+            <l xml:id="swift-921-ROGP-line-56" n="56">Unwholesome damps, offensive dews:</l>
+            <l xml:id="swift-921-ROGP-line-57" n="57">And lo! the writing on the walls</l>
+            <l xml:id="swift-921-ROGP-line-58" n="58">Points out where each new victim falls;</l>
+            <l xml:id="swift-921-ROGP-line-59" n="59">The food of worms, and beasts obscene,</l>
+            <l xml:id="swift-921-ROGP-line-60" n="60">Who round the vault luxuriant reign.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-61" n="61"><lb/>See where those mangled corpses lie;</l>
+            <l xml:id="swift-921-ROGP-line-62" n="62">Condemned by female hands to die;</l>
+            <l xml:id="swift-921-ROGP-line-63" n="63">A comely dame once clad in white,</l>
+            <l xml:id="swift-921-ROGP-line-64" n="64">Lies there consigned to endless night;</l>
+            <l xml:id="swift-921-ROGP-line-65" n="65">By cruel hands her blood was spilt,</l>
+            <l xml:id="swift-921-ROGP-line-66" n="66">And yet her wealth was all her guilt.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-67" n="67"><lb/>And here six virgins in a tomb,</l>
+            <l xml:id="swift-921-ROGP-line-68" n="68">All beauteous offerings of one womb,</l>
+            <l xml:id="swift-921-ROGP-line-69" n="69">Oft in the train of Venus seen,</l>
+            <l xml:id="swift-921-ROGP-line-70" n="70">As fair and lovely as their queen:</l>
+            <l xml:id="swift-921-ROGP-line-71" n="71">In royal garments each was dressed,</l>
+            <l xml:id="swift-921-ROGP-line-72" n="72">Each with a gold and purple vest;</l>
+            <l xml:id="swift-921-ROGP-line-73" n="73">I saw them of their garments stripped,</l>
+            <l xml:id="swift-921-ROGP-line-74" n="74">Their throats were cut, their bellies ripped,</l>
+            <l xml:id="swift-921-ROGP-line-75" n="75">Twice were they buried, twice were born,</l>
+            <l xml:id="swift-921-ROGP-line-76" n="76">Twice from their sepulchres were torn;</l>
+            <l xml:id="swift-921-ROGP-line-77" n="77">But, now dismembered here are cast,</l>
+            <l xml:id="swift-921-ROGP-line-78" n="78">And find a resting place at last.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-79" n="79"><lb/>Here, oft the curious traveller finds,</l>
+            <l xml:id="swift-921-ROGP-line-80" n="80">The combat of opposing winds:</l>
+            <l xml:id="swift-921-ROGP-line-81" n="81">And seeks to learn the secret cause,</l>
+            <l xml:id="swift-921-ROGP-line-82" n="82">Which alien seems from nature's laws;</l>
+            <l xml:id="swift-921-ROGP-line-83" n="83">Why at this cave's tremendous mouth,</l>
+            <l xml:id="swift-921-ROGP-line-84" n="84">He feels at once both north and south:</l>
+            <l xml:id="swift-921-ROGP-line-85" n="85">Whether the winds in caverns pent</l>
+            <l xml:id="swift-921-ROGP-line-86" n="86">Through clefts oppugnant force a vent;</l>
+            <l xml:id="swift-921-ROGP-line-87" n="87">Or, whether opening all his stores,</l>
+            <l xml:id="swift-921-ROGP-line-88" n="88">Fierce Aeolus in tempests roars.</l>
+            <l rend="indent(1)" xml:id="swift-921-ROGP-line-89" n="89"><lb/>Yet from this mingled mass of things,</l>
+            <l xml:id="swift-921-ROGP-line-90" n="90">In time a new creation springs.</l>
+            <l xml:id="swift-921-ROGP-line-91" n="91">These crude materials once shall rise,</l>
+            <l xml:id="swift-921-ROGP-line-92" n="92">To fill the earth, and air, and skies:</l>
+            <l xml:id="swift-921-ROGP-line-93" n="93">In various forms appear again</l>
+            <l xml:id="swift-921-ROGP-line-94" n="94">Of vegetables, brutes, and men.</l>
+            <l xml:id="swift-921-ROGP-line-95" n="95">So Jove pronounced among the gods,</l>
+            <l xml:id="swift-921-ROGP-line-96" n="96">Olympus trembling as he nods.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

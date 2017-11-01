@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Blunders, Deficiencies, Dis-<lb/>  tresses, and Misfortunes of<lb/>  Q<hi rend="small-caps">UILCA</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7AU16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> --</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P0271001">
+          <head type="note" n="1" xml:id="spp-P0271001-headnote-1">
+            <lg n="1" xml:id="spp-P0271001-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P0271001-headnote-1-line-group-1-line-1">Proposed to contain one and twenty Volumes in Quarto. Begun April 20, 1724. To be continued Weekly, if due Encouragement be given.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P0271001-headnote-2">
+            <lg n="1" xml:id="spp-P0271001-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P0271001-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P0271001-headnote-3">
+            <lg n="1" xml:id="spp-P0271001-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P0271001-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P0271001-line-1" n="1">A P<hi rend="small-caps">ROVERB</hi> on the Laziness and Lodgings of the Servants: <hi rend="italics">The worse their Stye, the longer they lie</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>C<hi rend="small-caps">LAD ALL IN BROWN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 25JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="786-07E2">
+          <head type="note" n="1" xml:id="spp-786-07E2-headnote-1">
+            <lg n="1" xml:id="spp-786-07E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-786-07E2-headnote-1-line-group-1-line-1">Imitated from C<hi rend="small-caps">OWLEY</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-786-07E2-headnote-2">
+            <lg n="1" xml:id="spp-786-07E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-786-07E2-headnote-2-line-group-1-line-1">To D<hi rend="small-caps">ICK</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-786-07E2-headnote-3">
+            <lg n="1" xml:id="spp-786-07E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-786-07E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-786-07E2-line-1" n="1"><hi rend="display-initial">F</hi>Oulest brute that stinks below,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-2" n="2">Why in this brown dost thou appear?</l>
+            <l xml:id="swift-786-07E2-line-3" n="3">For, wouldst thou make a fouler show,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-4" n="4">Thou must go naked all the year.</l>
+            <l xml:id="swift-786-07E2-line-5" n="5">Fresh from the mud a wallowing sow</l>
+            <l xml:id="swift-786-07E2-line-6" n="6">Would then be not so brown as thou.</l>
+            <l xml:id="swift-786-07E2-line-7" n="7"><lb/>'Tis not the coat that looks so dun;</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-8" n="8">His hide emits a foulness out;</l>
+            <l xml:id="swift-786-07E2-line-9" n="9">Not one jot better looks the sun</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-10" n="10">Seen from behind a dirty clout:</l>
+            <l xml:id="swift-786-07E2-line-11" n="11">So t────ds within a glass inclose,</l>
+            <l xml:id="swift-786-07E2-line-12" n="12">The glass will seem as brown as those.</l>
+            <l xml:id="swift-786-07E2-line-13" n="13"><lb/>Thou now one heap of foulness art,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-14" n="14">All outward and within is foul;</l>
+            <l xml:id="swift-786-07E2-line-15" n="15">Condensed filth in ev'ry part,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-16" n="16">Thy body's clothed like thy soul;</l>
+            <l xml:id="swift-786-07E2-line-17" n="17">Thy soul, which, through thy hide of buff,</l>
+            <l xml:id="swift-786-07E2-line-18" n="18">Scarce glimmers like a dying snuff.</l>
+            <l xml:id="swift-786-07E2-line-19" n="19"><lb/>Old carted bawds such garments wear,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-20" n="20">When pelted all with dirt they shine;</l>
+            <l xml:id="swift-786-07E2-line-21" n="21">Such their <hi rend="italics">exalted</hi> bodies are,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-22" n="22">As shrivel'd and as black as thine.</l>
+            <l xml:id="swift-786-07E2-line-23" n="23">If thou wert in a cart, I fear</l>
+            <l xml:id="swift-786-07E2-line-24" n="24">Thou wouldst be pelted worse than they're.</l>
+            <l xml:id="swift-786-07E2-line-25" n="25"><lb/>Yet when we see thee thus array'd,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-26" n="26">The neighbours think, it is but just,</l>
+            <l xml:id="swift-786-07E2-line-27" n="27">That thou shouldst take an honest trade,</l>
+            <l rend="indent(1)" xml:id="swift-786-07E2-line-28" n="28">And weekly carry out the dust.</l>
+            <l xml:id="swift-786-07E2-line-29" n="29">Of cleanly houses who will doubt,</l>
+            <l xml:id="swift-786-07E2-line-30" n="30">When Dick cries, <hi rend="italics">Dust to carry out</hi>?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

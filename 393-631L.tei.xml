@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Extempore Panegyrick on D<hi rend="superscript">r</hi> 08.<lb/>  Young &amp; Ambrose Philips.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 14JE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="393-631L">
+          <head type="note" n="1" xml:id="spp-393-631L-headnote-1">
+            <lg n="1" xml:id="spp-393-631L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-631L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-393-631L-headnote-2">
+            <lg n="1" xml:id="spp-393-631L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-631L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-393-631L-headnote-3">
+            <lg n="1" xml:id="spp-393-631L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-631L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-393-631L-line-1" n="1">Behold those Monarch Oaks that rise</l>
+            <l xml:id="swift-393-631L-line-2" n="2">With lofty branches to the Skies</l>
+            <l xml:id="swift-393-631L-line-3" n="3">Have huge proportion'd Roots that grow</l>
+            <l xml:id="swift-393-631L-line-4" n="4">In equal longitude below.</l>
+            <l xml:id="swift-393-631L-line-5" n="5">om.</l>
+            <l xml:id="swift-393-631L-line-6" n="6">om.</l>
+            <l xml:id="swift-393-631L-line-7" n="7">Two Bards that now in Fashion reign</l>
+            <l xml:id="swift-393-631L-line-8" n="8">Most aptly this Device explain.</l>
+            <l xml:id="swift-393-631L-line-9" n="9">If This with Clouds &amp; Stars will venture,</l>
+            <l xml:id="swift-393-631L-line-10" n="10">That creeps as far beneath the Centre.</l>
+            <l rend="indent(1)" xml:id="swift-393-631L-line-11" n="11"><lb/>Or more to Shew the thing I mean</l>
+            <l rend="indent(1)" xml:id="swift-393-631L-line-12" n="12">Have we not o'er a Saw pit Seen</l>
+            <l xml:id="swift-393-631L-line-13" n="13">A Skill'd Mechanic that has Stood</l>
+            <l xml:id="swift-393-631L-line-14" n="14">On a tall Pyramid of Wood.</l>
+            <l xml:id="swift-393-631L-line-15" n="15">Who hir'd a Subterraneous Friend,</l>
+            <l xml:id="swift-393-631L-line-16" n="16">To take his Iron by the hand──?</l>
+            <l xml:id="swift-393-631L-line-17" n="17">Yet which excell'd, was never found,</l>
+            <l xml:id="swift-393-631L-line-18" n="18">The Man above, or under Ground.</l>
+            <l xml:id="swift-393-631L-line-19" n="19">This Moral is so plain to hit,</l>
+            <l xml:id="swift-393-631L-line-20" n="20">That had I been the God of Wit,</l>
+            <l xml:id="swift-393-631L-line-21" n="21">Then in a Sawpit, &amp; Wet Weather,</l>
+            <l xml:id="swift-393-631L-line-22" n="22">Shou'd Young, &amp; Philips work together.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

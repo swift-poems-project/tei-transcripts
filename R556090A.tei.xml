@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bounce To Fop. An heroick Epistle<lb/>  from a Dog at Twickenham to a Dog at Court</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 1AU11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R556090A">
+          <head type="note" n="1" xml:id="spp-R556090A-headnote-1">
+            <lg n="1" xml:id="spp-R556090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R556090A-headnote-1-line-group-1-line-1">By D Swift&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R556090A-headnote-2">
+            <lg n="1" xml:id="spp-R556090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R556090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R556090A-headnote-3">
+            <lg n="1" xml:id="spp-R556090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R556090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-R556090A-line-1" n="1"><hi rend="display-initial">T</hi>o thee sweet Fop, these lines I send,</l>
+            <l xml:id="swift-R556090A-line-2" n="2">Who tho no spaniel am a friend.</l>
+            <l xml:id="swift-R556090A-line-3" n="3">Tho' once my tail in wanton play,</l>
+            <l xml:id="swift-R556090A-line-4" n="4">Now frisking this, and then that way,</l>
+            <l xml:id="swift-R556090A-line-5" n="5">Chanc'd with a touch of just the tip,</l>
+            <l xml:id="swift-R556090A-line-6" n="6">To hurt your lady-lap-dog-ship</l>
+            <l xml:id="swift-R556090A-line-7" n="7">Yet thence to think I'd bite your head of!</l>
+            <l xml:id="swift-R556090A-line-8" n="8">Sure Bounce is one you never read of.</l>
+            <l rend="indent(1)" xml:id="swift-R556090A-line-9" n="9">Fop! you can dance and make a Leg,</l>
+            <l xml:id="swift-R556090A-line-10" n="10">Can fetch and carry, cringe and beg,</l>
+            <l xml:id="swift-R556090A-line-11" n="11">And what's the top of all your tricks</l>
+            <l xml:id="swift-R556090A-line-12" n="12">Can stoop to pick up strings and sticks.</l>
+            <l xml:id="swift-R556090A-line-13" n="13">We country Dogs love nobler sport,</l>
+            <l xml:id="swift-R556090A-line-14" n="14">And scorn the pranks of dogs at Court.</l>
+            <l xml:id="swift-R556090A-line-15" n="15">Fye, naughty Fop! where'er you come</l>
+            <l xml:id="swift-R556090A-line-16" n="16">To f──t and p──ss about the room</l>
+            <l xml:id="swift-R556090A-line-17" n="17">To lay your head in ev'ry lap</l>
+            <l xml:id="swift-R556090A-line-18" n="18">And when they think not of you── snap!</l>
+            <l xml:id="swift-R556090A-line-19" n="19">The worst that envy on that spite</l>
+            <l xml:id="swift-R556090A-line-20" n="20">Ee'er said of me, is, I can bite:</l>
+            <l xml:id="swift-R556090A-line-21" n="21">That sturdy vagrants, rogues in rags</l>
+            <l xml:id="swift-R556090A-line-22" n="22">Who poke at me can make no brags;</l>
+            <l xml:id="swift-R556090A-line-23" n="23">And that to touze such things as flutter,</l>
+            <l xml:id="swift-R556090A-line-24" n="24">To honest Bounce is bread and butter,</l>
+            <l xml:id="swift-R556090A-line-25" n="25">While you and ev'ry courtly fop;</l>
+            <l xml:id="swift-R556090A-line-26" n="26">Fawn on the devil for a Chop,</l>
+            <l xml:id="swift-R556090A-line-27" n="27">I've the humanity to hate</l>
+            <l xml:id="swift-R556090A-line-28" n="28">A Butcher, tho' he brings me meat,</l>
+            <l xml:id="swift-R556090A-line-29" n="29">And let me tell you have a Nose,</l>
+            <l xml:id="swift-R556090A-line-30" n="30">(Whatever stinking fops suppose)</l>
+            <l xml:id="swift-R556090A-line-31" n="31">That under cloth of gold or tissue</l>
+            <l xml:id="swift-R556090A-line-32" n="32">Can smell a plaister or an Issue.</l>
+            <l rend="indent(1)" xml:id="swift-R556090A-line-33" n="33">Your pilf'ring Lord with simple pride</l>
+            <l xml:id="swift-R556090A-line-34" n="34">May wear a picklock at his side;</l>
+            <l xml:id="swift-R556090A-line-35" n="35">My master wants no key of State</l>
+            <l xml:id="swift-R556090A-line-36" n="36">For Bounce can keep his house and gate.</l>
+            <l xml:id="swift-R556090A-line-37" n="37">om.</l>
+            <l xml:id="swift-R556090A-line-38" n="38">om.</l>
+            <l xml:id="swift-R556090A-line-39" n="39">om.</l>
+            <l xml:id="swift-R556090A-line-40" n="40">om.</l>
+            <l xml:id="swift-R556090A-line-41" n="41">om.</l>
+            <l xml:id="swift-R556090A-line-42" n="42">om.</l>
+            <l xml:id="swift-R556090A-line-43" n="43">om.</l>
+            <l xml:id="swift-R556090A-line-44" n="44">om.</l>
+            <l xml:id="swift-R556090A-line-45" n="45">om.</l>
+            <l xml:id="swift-R556090A-line-46" n="46">om.</l>
+            <l xml:id="swift-R556090A-line-47" n="47">om.</l>
+            <l xml:id="swift-R556090A-line-48" n="48">om.</l>
+            <l xml:id="swift-R556090A-line-49" n="49">When all such Dogs have had their Days</l>
+            <l xml:id="swift-R556090A-line-50" n="50">As knavish Pams, and fawning Trays</l>
+            <l xml:id="swift-R556090A-line-51" n="51">When pamperd Cupid's beastly Veni's,</l>
+            <l xml:id="swift-R556090A-line-52" n="52">And motly squinting Harlequini's</l>
+            <l xml:id="swift-R556090A-line-53" n="53">Shall lick no more their Ladys b──── ,</l>
+            <l xml:id="swift-R556090A-line-54" n="54">But die of looseness, claps, or itch,</l>
+            <l xml:id="swift-R556090A-line-55" n="55">Fair Thames from either echoing shore</l>
+            <l xml:id="swift-R556090A-line-56" n="56">Shall hear and dread my manly roar,</l>
+            <l rend="indent(1)" xml:id="swift-R556090A-line-57" n="57">See Bounce like Berecynthia crownd</l>
+            <l xml:id="swift-R556090A-line-58" n="58">With thundring offspring all around,</l>
+            <l xml:id="swift-R556090A-line-59" n="59">Beneath, beside one, and atop,</l>
+            <l xml:id="swift-R556090A-line-60" n="60">A hundred Sons and not on Fop.</l>
+            <l xml:id="swift-R556090A-line-61" n="61">Before my children set your beef</l>
+            <l xml:id="swift-R556090A-line-62" n="62">Not one true Bounce will be a thief.</l>
+            <l xml:id="swift-R556090A-line-63" n="63">Not one without permission feed</l>
+            <l xml:id="swift-R556090A-line-64" n="64">(Tho some of J──s hungry breed)</l>
+            <l xml:id="swift-R556090A-line-65" n="65">But whatsoe'er the fathers race</l>
+            <l xml:id="swift-R556090A-line-66" n="66">From me they suck a little grace.</l>
+            <l xml:id="swift-R556090A-line-67" n="67">While your fine whelps learn all to steal,</l>
+            <l xml:id="swift-R556090A-line-68" n="68">Bred up by hand on chick and veal.</l>
+            <l xml:id="swift-R556090A-line-69" n="69">My eldest born resides not far</l>
+            <l xml:id="swift-R556090A-line-70" n="70">Where shines great Straffords glitt'ring Star.</l>
+            <l xml:id="swift-R556090A-line-71" n="71">om.</l>
+            <l xml:id="swift-R556090A-line-72" n="72">om.</l>
+            <l xml:id="swift-R556090A-line-73" n="73">My second (child of fortune!) waits</l>
+            <l xml:id="swift-R556090A-line-74" n="74">At Burlington's palladian gates;</l>
+            <l xml:id="swift-R556090A-line-75" n="75">A third majestically stalks</l>
+            <l xml:id="swift-R556090A-line-76" n="76">(Happiest of Dogs!) in Cobham's Walks:</l>
+            <l xml:id="swift-R556090A-line-77" n="77">One ushers Friends to Bathurst's door</l>
+            <l xml:id="swift-R556090A-line-78" n="78">One fawns, at Oxfords, on the poor</l>
+            <l rend="indent(1)" xml:id="swift-R556090A-line-79" n="79">Nobles whom arms, or arts adorn</l>
+            <l xml:id="swift-R556090A-line-80" n="80">Wait for my infants yet unborn.</l>
+            <l xml:id="swift-R556090A-line-81" n="81">None but \<hi rend="italics">del</hi>·of\ a peer of wit and grace,</l>
+            <l xml:id="swift-R556090A-line-82" n="82">om.</l>
+            <l xml:id="swift-R556090A-line-83" n="83">And O! woud fate the bliss decree</l>
+            <l xml:id="swift-R556090A-line-84" n="84">To mine (a bliss too great for me)</l>
+            <l xml:id="swift-R556090A-line-85" n="85">That two my tallest sons might grace</l>
+            <l xml:id="swift-R556090A-line-86" n="86">Attending each with stately pace,</l>
+            <l xml:id="swift-R556090A-line-87" n="87">Iulus' side as erst Evander's,</l>
+            <l xml:id="swift-R556090A-line-88" n="88">To keep of flatt'rers, spies and Pandours</l>
+            <l xml:id="swift-R556090A-line-89" n="89">To let no noble slave come near</l>
+            <l xml:id="swift-R556090A-line-90" n="90">And scare lord fannys from his Ear.</l>
+            <l xml:id="swift-R556090A-line-91" n="91">Then might a royal youth and true</l>
+            <l xml:id="swift-R556090A-line-92" n="92">Enjoy at least a friend── or two.──</l>
+            <l xml:id="swift-R556090A-line-93" n="93">A treasure which of royal kind</l>
+            <l xml:id="swift-R556090A-line-94" n="94">Few but himself deserve to find.</l>
+            <l rend="indent(1)" xml:id="swift-R556090A-line-95" n="95">Then Bounce (tis all that Bounce can crave</l>
+            <l xml:id="swift-R556090A-line-96" n="96">Shall wag her tail within the grave,</l>
+            <l rend="indent(1)" xml:id="swift-R556090A-line-97" n="97">And tho no Doctors, whig or tory-ones</l>
+            <l xml:id="swift-R556090A-line-98" n="98">Except a Sect of Pythagoreans</l>
+            <l xml:id="swift-R556090A-line-99" n="99">Have immortality assignd</l>
+            <l xml:id="swift-R556090A-line-100" n="100">To any beast but Dryden's kind.</l>
+            <l xml:id="swift-R556090A-line-101" n="101">Yet master Pope whom truth and Sense</l>
+            <l xml:id="swift-R556090A-line-102" n="102">Shall call their friends some ages hence,</l>
+            <l xml:id="swift-R556090A-line-103" n="103">Tho now on loftier Themes he sings</l>
+            <l xml:id="swift-R556090A-line-104" n="104">Than to bestow a Word on kings,</l>
+            <l xml:id="swift-R556090A-line-105" n="105">Has sworn by Sticks (the poets oath</l>
+            <l xml:id="swift-R556090A-line-106" n="106">And dread of Dogs and Poets both)</l>
+            <l xml:id="swift-R556090A-line-107" n="107">Man and his Works he'll soon renounce</l>
+            <l xml:id="swift-R556090A-line-108" n="108">And roar in numbers worthy Bounce.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

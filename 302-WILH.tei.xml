@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE STORM;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="302-WILH">
+          <head type="note" n="1" xml:id="spp-302-WILH-headnote-1">
+            <lg n="1" xml:id="spp-302-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-302-WILH-headnote-1-line-group-1-line-1">M<hi rend="small-caps">INERVA</hi>'S Petition.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-302-WILH-headnote-2">
+            <lg n="1" xml:id="spp-302-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-302-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-302-WILH-headnote-3">
+            <lg n="1" xml:id="spp-302-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-302-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-302-WILH-line-1" n="1"><hi rend="display-initial">P</hi>ALLAS, a Goddess chaste and wise,</l>
+            <l xml:id="swift-302-WILH-line-2" n="2">Descending lately from the Skies,</l>
+            <l xml:id="swift-302-WILH-line-3" n="3">To <hi rend="italics">Neptune</hi> went, and begg'd in Form</l>
+            <l xml:id="swift-302-WILH-line-4" n="4">He'd give his Orders for a Storm;</l>
+            <l xml:id="swift-302-WILH-line-5" n="5">A Storm, to drown that Rascal ──,</l>
+            <l xml:id="swift-302-WILH-line-6" n="6">And she wou'd kindly thank him for't.</l>
+            <l xml:id="swift-302-WILH-line-7" n="7">A Wretch! whom <hi rend="italics">E-gl-sh</hi> Rogues to spite her,</l>
+            <l xml:id="swift-302-WILH-line-8" n="8">Had lately honour'd with a M──tre.</l>
+            <l rend="indent(1)" xml:id="swift-302-WILH-line-9" n="9"><lb/>T<hi rend="small-caps">HE</hi> God, who favour'd her Request,</l>
+            <l xml:id="swift-302-WILH-line-10" n="10">Assur'd her he wou'd do his best:</l>
+            <l xml:id="swift-302-WILH-line-11" n="11">But <hi rend="italics">Venus</hi> had been there before</l>
+            <l xml:id="swift-302-WILH-line-12" n="12">Pleaded the B── lov'd a W──,</l>
+            <l xml:id="swift-302-WILH-line-13" n="13">And had enlarg'd her Empire wide,</l>
+            <l xml:id="swift-302-WILH-line-14" n="14">He own'd no Deity beside.</l>
+            <l xml:id="swift-302-WILH-line-15" n="15">At Sea, or Land, if e'er you found him,</l>
+            <l xml:id="swift-302-WILH-line-16" n="16">Without a Mistress, hang or drown him.</l>
+            <l xml:id="swift-302-WILH-line-17" n="17">Since <hi rend="italics">B-rn-t</hi>'s Death, the ──'s Bench,</l>
+            <l xml:id="swift-302-WILH-line-18" n="18">'Till ── arriv'd ne'er kept a Wench;</l>
+            <l xml:id="swift-302-WILH-line-19" n="19">If ── must sink, she grieves to tell it,</l>
+            <l xml:id="swift-302-WILH-line-20" n="20">She'll not have left one single Prelate:</l>
+            <l xml:id="swift-302-WILH-line-21" n="21">For to say Truth, she did intend him,</l>
+            <l xml:id="swift-302-WILH-line-22" n="22">Elect of <hi rend="italics">Cyprus</hi> in <hi rend="italics">commendam</hi>.</l>
+            <l xml:id="swift-302-WILH-line-23" n="23">And since her Birth the Ocean gave her,</l>
+            <l xml:id="swift-302-WILH-line-24" n="24">She could not doubt her Uncle's Favour.</l>
+            <l rend="indent(1)" xml:id="swift-302-WILH-line-25" n="25"><lb/>T<hi rend="small-caps">HEN</hi> <hi rend="italics">Proteus</hi> urg'd the same Request,</l>
+            <l xml:id="swift-302-WILH-line-26" n="26">But half in Earnest, half in Jest;</l>
+            <l xml:id="swift-302-WILH-line-27" n="27">Said he── “Great Sovereign of the Main,</l>
+            <l xml:id="swift-302-WILH-line-28" n="28">“To drown him all Attempts are vain,</l>
+            <l xml:id="swift-302-WILH-line-29" n="29">“── can assume more Forms than I,</l>
+            <l xml:id="swift-302-WILH-line-30" n="30">“A Rake, a Bully, Pimp, or Spy.</l>
+            <l xml:id="swift-302-WILH-line-31" n="31">“Can creep, or run, can fly or swim,</l>
+            <l xml:id="swift-302-WILH-line-32" n="32">“All Motions are alike to him:</l>
+            <l xml:id="swift-302-WILH-line-33" n="33">“Turn him adrift, and you shall find</l>
+            <l xml:id="swift-302-WILH-line-34" n="34">“He knows to sail with ev'ry Wind;</l>
+            <l xml:id="swift-302-WILH-line-35" n="35">“Or, throw him overboard, he'll ride</l>
+            <l xml:id="swift-302-WILH-line-36" n="36">“As well against, as with the Tide,</l>
+            <l xml:id="swift-302-WILH-line-37" n="37">“But, <hi rend="italics">Pallas</hi>, you've apply'd too late,</l>
+            <l xml:id="swift-302-WILH-line-38" n="38">“For 'tis decreed by <hi rend="italics">Jove</hi> and Fate,</l>
+            <l xml:id="swift-302-WILH-line-39" n="39">“That <hi rend="italics">Ireland</hi> must be soon destroy'd,</l>
+            <l xml:id="swift-302-WILH-line-40" n="40">“And who but ── can be employ'd?</l>
+            <l xml:id="swift-302-WILH-line-41" n="41">“You need not then have been so pert,</l>
+            <l xml:id="swift-302-WILH-line-42" n="42">“In sending <hi rend="italics">Bolton</hi> to <hi rend="italics">Clonfert</hi>.</l>
+            <l xml:id="swift-302-WILH-line-43" n="43">“I found you did it by your Grinning;</l>
+            <l xml:id="swift-302-WILH-line-44" n="44">“Your Business is to mind your Spinning.</l>
+            <l xml:id="swift-302-WILH-line-45" n="45">“But how you came to interpose,</l>
+            <l xml:id="swift-302-WILH-line-46" n="46">“In making B──s, no one knows.</l>
+            <l xml:id="swift-302-WILH-line-47" n="47">om.</l>
+            <l xml:id="swift-302-WILH-line-48" n="48">om.</l>
+            <l xml:id="swift-302-WILH-line-49" n="49">“And if you must have your Petition,</l>
+            <l xml:id="swift-302-WILH-line-50" n="50">“There's <hi rend="italics">Berkeley</hi> in the same Condition;</l>
+            <l xml:id="swift-302-WILH-line-51" n="51">“Look, there he stands, and 'tis but just</l>
+            <l xml:id="swift-302-WILH-line-52" n="52">“If one must drown, the other must;</l>
+            <l xml:id="swift-302-WILH-line-53" n="53">“But, if you'll leave us B──p <hi rend="italics">Judas</hi>,</l>
+            <l xml:id="swift-302-WILH-line-54" n="54">“We'll give you <hi rend="italics">Berkeley</hi> for <hi rend="italics">Bermudas</hi>.</l>
+            <l xml:id="swift-302-WILH-line-55" n="55">“Now, if 'twill gratify your Spight,</l>
+            <l xml:id="swift-302-WILH-line-56" n="56">“To put him in a plaguy Fright,</l>
+            <l xml:id="swift-302-WILH-line-57" n="57">“Although 'tis hardly worth the Cost,</l>
+            <l xml:id="swift-302-WILH-line-58" n="58">“You soon shall see him soundly tost.</l>
+            <l xml:id="swift-302-WILH-line-59" n="59">“You'll find him swear, blaspheme, and damn,</l>
+            <l xml:id="swift-302-WILH-line-60" n="60">“And ev'ry Moment take a Dram,</l>
+            <l xml:id="swift-302-WILH-line-61" n="61">“His ghostly Visage with an Air</l>
+            <l xml:id="swift-302-WILH-line-62" n="62">“Of Reprobation and Despair:</l>
+            <l xml:id="swift-302-WILH-line-63" n="63">“Or, else some hiding Hole he seeks,</l>
+            <l xml:id="swift-302-WILH-line-64" n="64">“For Fear the rest shou'd say he squeeks;</l>
+            <l xml:id="swift-302-WILH-line-65" n="65">“Or, as <hi rend="italics">Fitzpatrick</hi> did before,</l>
+            <l xml:id="swift-302-WILH-line-66" n="66">“Resolve to perish with his W──;</l>
+            <l xml:id="swift-302-WILH-line-67" n="67">“Or, else he raves, and roars, and swears,</l>
+            <l xml:id="swift-302-WILH-line-68" n="68">“And, but for Shame, wou'd say his Pray'rs.</l>
+            <l xml:id="swift-302-WILH-line-69" n="69">“Or, wou'd you see his Spirits sink,</l>
+            <l xml:id="swift-302-WILH-line-70" n="70">“Relaxing downwards in a St──k?</l>
+            <l xml:id="swift-302-WILH-line-71" n="71">“If such a Sight as this can please ye,</l>
+            <l xml:id="swift-302-WILH-line-72" n="72">“Good Madam <hi rend="italics">Pallas</hi>, pray be easy,</l>
+            <l xml:id="swift-302-WILH-line-73" n="73">“To <hi rend="italics">Neptune</hi> speak, and he'll consent;</l>
+            <l xml:id="swift-302-WILH-line-74" n="74">“But he'll come back the Knave he went.”</l>
+            <l rend="indent(1)" xml:id="swift-302-WILH-line-75" n="75"><lb/>T<hi rend="small-caps">HE</hi> Goddess, who conceiv'd an Hope,</l>
+            <l xml:id="swift-302-WILH-line-76" n="76">That ── was destin'd to a Rope,</l>
+            <l xml:id="swift-302-WILH-line-77" n="77">Believ'd it best to condescend</l>
+            <l xml:id="swift-302-WILH-line-78" n="78">To spare a Foe, to save a Friend:</l>
+            <l xml:id="swift-302-WILH-line-79" n="79">But fearing <hi rend="italics">Berkeley</hi> might be scar'd</l>
+            <l xml:id="swift-302-WILH-line-80" n="80">She left him Virtue for a Guard.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

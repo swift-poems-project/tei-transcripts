@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Lady </hi>B──── B<hi rend="italics">──── finding in the<lb/>  Author's Room some Verses unfi-<lb/>  nished, underwrit a </hi>Stanza<hi rend="italics"> of her<lb/>  own, with Raillery upon him, which<lb/>  gave occasion to this Ballad</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AMP 29SE95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="076-20X-">
+          <head type="note" n="1" xml:id="spp-076-20X--headnote-1">
+            <lg n="1" xml:id="spp-076-20X--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-20X--headnote-1-line-group-1-line-1"><hi rend="italics">August</hi>, 1702.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-076-20X--headnote-2">
+            <lg n="1" xml:id="spp-076-20X--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-20X--headnote-2-line-group-1-line-1"><hi rend="italics">To the Tune of the Cutpurse</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-076-20X--headnote-3">
+            <lg n="1" xml:id="spp-076-20X--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-20X--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-076-20X--line-1" n="1">I.<lb/><hi rend="display-initial">O</hi>Nce on a time, as old Stories rehearse,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-2" n="2">A Friar would needs show his talent in Latin;</l>
+            <l xml:id="swift-076-20X--line-3" n="3">But was sorely put to't in the midst of a Verse,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-4" n="4">Because he could find no word to come pat in.</l>
+            <l rend="indent(2)" xml:id="swift-076-20X--line-5" n="5">|Then all in the place.</l>
+            <l rend="indent(2)" xml:id="swift-076-20X--line-6" n="6">|He left a void space,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-7" n="7">And so went to bed in a desperate case.</l>
+            <l xml:id="swift-076-20X--line-8" n="8">When behold the next morning, a wonderful Riddle,</l>
+            <l xml:id="swift-076-20X--line-9" n="9">He found it was strangely fill'd up in the middle.</l>
+            <l xml:id="swift-076-20X--line-10" n="10"><lb/>Cho. <hi rend="italics">Let censuring Criticks then think what they list on't.</hi></l>
+            <l xml:id="swift-076-20X--line-11" n="11"><hi rend="italics">Who would not write Verses with such an Assistant</hi>.</l>
+            <l rend="center" xml:id="swift-076-20X--line-12" n="12">II.<lb/>This put me the Friar into an amazement,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-13" n="13">For he wisely consider'd it must be a Sprite,</l>
+            <l xml:id="swift-076-20X--line-14" n="14">That came through the key-hole, or in at the casement,</l>
+            <l xml:id="swift-076-20X--line-15" n="15">And it needs must be one that could both read and write:</l>
+            <l rend="indent(2)" xml:id="swift-076-20X--line-16" n="16">|Yet he did not know</l>
+            <l rend="indent(2)" xml:id="swift-076-20X--line-17" n="17">|If it were Friend or Foe,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-18" n="18">Or whether it came from above or below;</l>
+            <l xml:id="swift-076-20X--line-19" n="19">Howe'er it was civil in Angel or Elf,</l>
+            <l xml:id="swift-076-20X--line-20" n="20">For he ne'er could have fill'd it so well of himself.</l>
+            <l xml:id="swift-076-20X--line-21" n="21"><lb/>Cho. <hi rend="italics">Let censuring, </hi>&amp;c.</l>
+            <l xml:id="swift-076-20X--line-22" n="22">om.</l>
+            <l rend="center" xml:id="swift-076-20X--line-23" n="23">III.<lb/>Even so Master Doctor had puzzled his brains</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-24" n="24">In making a Ballad, but was at a stand,</l>
+            <l xml:id="swift-076-20X--line-25" n="25">He had mixt little wit with a great deal of pains,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-26" n="26">When he found a new help from invisible hand.</l>
+            <l rend="indent(2)" xml:id="swift-076-20X--line-27" n="27">|Then good Dr. <hi rend="italics">Swift</hi>,</l>
+            <l rend="indent(2)" xml:id="swift-076-20X--line-28" n="28">|Pay thanks for the gift,</l>
+            <l rend="indent(1)" xml:id="swift-076-20X--line-29" n="29">For you freely must own you were at a dead lift;</l>
+            <l xml:id="swift-076-20X--line-30" n="30">And tho' some malicious young Spirit did do't,</l>
+            <l xml:id="swift-076-20X--line-31" n="31">You may know by the hand, it had no cloven foot.</l>
+            <l xml:id="swift-076-20X--line-32" n="32"><lb/>Cho. <hi rend="italics">Let censuring Criticks then think what they list on't,</hi></l>
+            <l xml:id="swift-076-20X--line-33" n="33"><hi rend="italics">Who would not write Verses with such an Assistant</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

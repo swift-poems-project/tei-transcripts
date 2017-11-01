@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Song──Occasion'd by a Sermon<lb/>  preach'd by D<hi rend="superscript">r</hi> 08. Delany an Irish<lb/>  Clergyman, wherein he exhorts the<lb/>  Ladies to suckle their Children.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 20JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G280L">
+          <head type="note" n="1" xml:id="spp-Y43G280L-headnote-1">
+            <lg n="1" xml:id="spp-Y43G280L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G280L-headnote-1-line-group-1-line-1">By D<hi rend="superscript">r</hi> Swift</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y43G280L-headnote-2">
+            <lg n="1" xml:id="spp-Y43G280L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G280L-headnote-2-line-group-1-line-1">To the Tune of──Mad Moll.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y43G280L-headnote-3">
+            <lg n="1" xml:id="spp-Y43G280L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G280L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-Y43G280L-line-1" n="1">1<lb/>O my Kitten a Kitten, &amp; O my deary a deary</l>
+            <l xml:id="swift-Y43G280L-line-2" n="2">Such a sweet pet as this there is not far nor neary.</l>
+            <l xml:id="swift-Y43G280L-line-3" n="3">Here we go up, up, up, &amp; here we go down a down downy,</l>
+            <l xml:id="swift-Y43G280L-line-4" n="4">Here we go backwards &amp; forwards, &amp; here we go round a round roundy</l>
+            <l rend="center" xml:id="swift-Y43G280L-line-5" n="5"><lb/>2_Chicky Chuckoo, my Lilly cock, see saw saccary downy,</l>
+            <l xml:id="swift-Y43G280L-line-6" n="6">Gallop a trot trot trot &amp; hey for Dublin Towny,</l>
+            <l xml:id="swift-Y43G280L-line-7" n="7">This Pig went to Market, creep Mouse Mousy Mousy,</l>
+            <l xml:id="swift-Y43G280L-line-8" n="8">Shoo, shoo, shoo the wild Colt, here is mine own Doll dowsy.</l>
+            <l rend="center" xml:id="swift-Y43G280L-line-9" n="9"><lb/>3_We was a Iewel &amp; pretty, &amp; we was a Sugar &amp; Spicy,</l>
+            <l xml:id="swift-Y43G280L-line-10" n="10">Hush a by by in a Cradle, &amp; we'll go abroad in a Tricy────</l>
+            <l xml:id="swift-Y43G280L-line-11" n="11">Did e Pappa torment it, did he vex Baby, did he,</l>
+            <l xml:id="swift-Y43G280L-line-12" n="12">Hushy in Mamma's none bosom, &amp; take a nown suck a diddy.</l>
+            <l rend="center" xml:id="swift-Y43G280L-line-13" n="13"><lb/>4_Good Morrow, oh there's a Pudding broke, slabbers a Thread of Chrystal,</l>
+            <l xml:id="swift-Y43G280L-line-14" n="14">See the sweet Posset comes up, who said my Child was bepist all;</l>
+            <l xml:id="swift-Y43G280L-line-15" n="15">Water my Chickens, come clack, leave off or I'll scrawl you I'll scrawl you</l>
+            <l xml:id="swift-Y43G280L-line-16" n="16">Give me a hand &amp; I'll beat him, go, go, w<hi rend="superscript">ḍ</hi> you vex my Baby.</l>
+            <l rend="center" xml:id="swift-Y43G280L-line-17" n="17"><lb/>5_We was a Pug &amp; a Crow, we was a giggling Bonny</l>
+            <l xml:id="swift-Y43G280L-line-18" n="18">Goody, good Child shall be fed, but naughty Pack shall have noney.</l>
+            <l xml:id="swift-Y43G280L-line-19" n="19">Get you gone raw head &amp; bloody bones, here is a Child that don't fear'ee</l>
+            <l xml:id="swift-Y43G280L-line-20" n="20">Come pissy, pissy my Iewel &amp; a, a, a my Deary.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

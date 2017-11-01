@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-156-12W2-title-1">THE FABLE OF MIDAS. <ref target="#spp-156-12W2-footnote-title-1">1</ref><note n="1" xml:id="spp-156-12W2-footnote-title-1" place="foot">This cutting satire upon the Duke of Marlborough was written about the time when he was deprived of his employments. Swift thus metions it in his journal: “To-day I published `The Fable of Midas,' a poem printed on a loose half sheet of paper. I know not how it will take; but it passed wonderfully at our society to-night; and Mr Secretary read it before me the other night, to lord-treasurer, at Lord Masham's, where they equally apporved of it. Tell me how it passes with you.”────<hi rend="italics">Journal to Stella, Feb</hi>. 14, 1711-12</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 23JA16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 19OC16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-156-12W2-footnote-title-1 #spp-156-12W2-title-1"/>
+        </linkGrp>
+        <div n="156-12W2">
+          <head type="note" n="1" xml:id="spp-156-12W2-headnote-1">
+            <lg n="1" xml:id="spp-156-12W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-156-12W2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-156-12W2-headnote-2">
+            <lg n="1" xml:id="spp-156-12W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-156-12W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-156-12W2-headnote-3">
+            <lg n="1" xml:id="spp-156-12W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-156-12W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-156-12W2-line-1" n="1">M<hi rend="small-caps">IDAS</hi>, we are in story told,</l>
+            <l xml:id="swift-156-12W2-line-2" n="2">Turn'd everything he touch'd to gold:</l>
+            <l xml:id="swift-156-12W2-line-3" n="3">He chipp'd his bread; the pieces round</l>
+            <l xml:id="swift-156-12W2-line-4" n="4">Glitter'd like spangles on the ground:</l>
+            <l xml:id="swift-156-12W2-line-5" n="5">A codling, ere it went his lip in,</l>
+            <l xml:id="swift-156-12W2-line-6" n="6">Would straight become a golden pippin:</l>
+            <l xml:id="swift-156-12W2-line-7" n="7">He call'd for drink; you saw him sup:</l>
+            <l xml:id="swift-156-12W2-line-8" n="8">Potable gold in golden cup:</l>
+            <l xml:id="swift-156-12W2-line-9" n="9">His empty paunch that he might fill,</l>
+            <l xml:id="swift-156-12W2-line-10" n="10">He suck'd his victuals through a quill.</l>
+            <l xml:id="swift-156-12W2-line-11" n="11">Untouch'd it pass'd between his grinders,</l>
+            <l xml:id="swift-156-12W2-line-12" n="12">Or't had been happy for gold-finders:</l>
+            <l xml:id="swift-156-12W2-line-13" n="13">He cock'd his hat, you would have said</l>
+            <l xml:id="swift-156-12W2-line-14" n="14">Mambrino's helm adorn'd his head;</l>
+            <l xml:id="swift-156-12W2-line-15" n="15">Whene'er he chanced his hands to lay</l>
+            <l xml:id="swift-156-12W2-line-16" n="16">On magazines of corn or hay,</l>
+            <l xml:id="swift-156-12W2-line-17" n="17">Gold ready coin'd appear'd instead</l>
+            <l xml:id="swift-156-12W2-line-18" n="18">Of paltry provender and bread;</l>
+            <l xml:id="swift-156-12W2-line-19" n="19">Hence, by wise farmers we are told</l>
+            <l xml:id="swift-156-12W2-line-20" n="20">Old hay is equal to old gold:<note place="foot">·The reader will recollect, that the Duke of Marlborough was accused of having received large sums, as perquisites, from the contractors, who furnished bread, forage, &amp;c. to the army.</note></l>
+            <l xml:id="swift-156-12W2-line-21" n="21">And hence a critic deep maintains,</l>
+            <l xml:id="swift-156-12W2-line-22" n="22">We learn'd to weigh our gold by grains.</l>
+            <l rend="indent(1)" xml:id="swift-156-12W2-line-23" n="23">This fool had got a lucky hit;</l>
+            <l xml:id="swift-156-12W2-line-24" n="24">And people fancied he had wit.</l>
+            <l xml:id="swift-156-12W2-line-25" n="25">Two gods their skill in music tried,</l>
+            <l xml:id="swift-156-12W2-line-26" n="26">And both chose Midas to decide:</l>
+            <l xml:id="swift-156-12W2-line-27" n="27">He against Phœbus' harp decreed,</l>
+            <l xml:id="swift-156-12W2-line-28" n="28">And gave it for Pan's oaten reed:</l>
+            <l xml:id="swift-156-12W2-line-29" n="29">The god of wit, to shew his grudge,</l>
+            <l xml:id="swift-156-12W2-line-30" n="30">Clapt asses' ears upon the judg·;</l>
+            <l xml:id="swift-156-12W2-line-31" n="31">A goodly pair, erect and wide,</l>
+            <l xml:id="swift-156-12W2-line-32" n="32">Which he could neither gild nor hide</l>
+            <l xml:id="swift-156-12W2-line-33" n="33">And now the virtue of his hands</l>
+            <l xml:id="swift-156-12W2-line-34" n="34">Was lost among Pactolus' sands,</l>
+            <l xml:id="swift-156-12W2-line-35" n="35">Against whose torrent while he swims,</l>
+            <l xml:id="swift-156-12W2-line-36" n="36">The golden scurf peels off his limbs:</l>
+            <l xml:id="swift-156-12W2-line-37" n="37">Fame spreads the news, and people travel</l>
+            <l xml:id="swift-156-12W2-line-38" n="38">From far to gather golden gravel;</l>
+            <l xml:id="swift-156-12W2-line-39" n="39">Midas, exposed to all their jeers,</l>
+            <l xml:id="swift-156-12W2-line-40" n="40">Had lost his art, and kept his ears.</l>
+            <l rend="indent(1)" xml:id="swift-156-12W2-line-41" n="41">This tale inclines the gentle reader</l>
+            <l xml:id="swift-156-12W2-line-42" n="42">To think upon a certain leader;</l>
+            <l xml:id="swift-156-12W2-line-43" n="43">To whom from Midas down descends</l>
+            <l xml:id="swift-156-12W2-line-44" n="44">That virtue in the fingers' ends.</l>
+            <l xml:id="swift-156-12W2-line-45" n="45">What else by perquisites are meant,</l>
+            <l xml:id="swift-156-12W2-line-46" n="46">By pensions, bribes, and three per cent.?</l>
+            <l xml:id="swift-156-12W2-line-47" n="47">By places and commissions sold,</l>
+            <l xml:id="swift-156-12W2-line-48" n="48">And turning dung itself to gold?</l>
+            <l xml:id="swift-156-12W2-line-49" n="49">By starving in the midst of store,</l>
+            <l xml:id="swift-156-12W2-line-50" n="50">As t'other Midas did before?</l>
+            <l rend="indent(1)" xml:id="swift-156-12W2-line-51" n="51">None e'er did modern Midas choose</l>
+            <l xml:id="swift-156-12W2-line-52" n="52">Subject or pattern of his muse,</l>
+            <l xml:id="swift-156-12W2-line-53" n="53">But found him thus their merit scan,</l>
+            <l xml:id="swift-156-12W2-line-54" n="54">That Phœbus must give place to Pan:</l>
+            <l xml:id="swift-156-12W2-line-55" n="55">He values not the poet's praise,</l>
+            <l xml:id="swift-156-12W2-line-56" n="56">Nor will exchange his plumes for bays.</l>
+            <l xml:id="swift-156-12W2-line-57" n="57">To Pan alone rich misers call;</l>
+            <l xml:id="swift-156-12W2-line-58" n="58">And there's the jest, for Pan is <hi rend="small-caps">ALL</hi>.</l>
+            <l xml:id="swift-156-12W2-line-59" n="59">Here English wits will be to seek,</l>
+            <l xml:id="swift-156-12W2-line-60" n="60">Howe'er, 'tis all one in the Greek.</l>
+            <l rend="indent(1)" xml:id="swift-156-12W2-line-61" n="61">Besides, it plainly now appears</l>
+            <l xml:id="swift-156-12W2-line-62" n="62">Our Midas, too, has asses' ears:</l>
+            <l xml:id="swift-156-12W2-line-63" n="63">Where every fool his mouth applies,</l>
+            <l xml:id="swift-156-12W2-line-64" n="64">And whispers in a thousand lies;</l>
+            <l xml:id="swift-156-12W2-line-65" n="65">Such gross delusions could not pass</l>
+            <l xml:id="swift-156-12W2-line-66" n="66">Through any ears but of an ass.</l>
+            <l rend="indent(1)" xml:id="swift-156-12W2-line-67" n="67">But gold defiles with frequent touch,</l>
+            <l xml:id="swift-156-12W2-line-68" n="68">There's nothing fouls the hand so much;</l>
+            <l xml:id="swift-156-12W2-line-69" n="69">And scholars give it for the cause</l>
+            <l xml:id="swift-156-12W2-line-70" n="70">Of British Midas' dirty paws;</l>
+            <l xml:id="swift-156-12W2-line-71" n="71">Which, while the senate strove to scour,</l>
+            <l xml:id="swift-156-12W2-line-72" n="72">They wash'd away the chemic power.<note place="foot">·The result of the investigations of the House of Commons was the removal of the Duke of Marlborough from his command, and all his employments.</note></l>
+            <l rend="indent(1)" xml:id="swift-156-12W2-line-73" n="73">While he his utmost strength applied,</l>
+            <l xml:id="swift-156-12W2-line-74" n="74">To swim against this popular tide,</l>
+            <l xml:id="swift-156-12W2-line-75" n="75">The golden spoils flew off apace;</l>
+            <l xml:id="swift-156-12W2-line-76" n="76">Here fell a pension, there a place:</l>
+            <l xml:id="swift-156-12W2-line-77" n="77">The torrent merciless imbibes</l>
+            <l xml:id="swift-156-12W2-line-78" n="78">Commissions, perquisites, and bribes;</l>
+            <l xml:id="swift-156-12W2-line-79" n="79">By their own weight sunk to the bottom;</l>
+            <l xml:id="swift-156-12W2-line-80" n="80">Much good may 't do them that have caught 'em!</l>
+            <l xml:id="swift-156-12W2-line-81" n="81">And Midas now neglected stands,</l>
+            <l xml:id="swift-156-12W2-line-82" n="82">With asses' ears, and dirty hands.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

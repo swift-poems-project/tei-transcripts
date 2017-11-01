@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Run upon the Bankers</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="239-ROGP">
+          <head type="note" n="1" xml:id="spp-239-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-239-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-239-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-239-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-239-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-239-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-239-ROGP-line-1" n="1">The bold encroachers on the deep,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-2" n="2">Gain by degrees huge tracts of land,</l>
+            <l xml:id="swift-239-ROGP-line-3" n="3">Till Neptune with one general sweep</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-4" n="4">Turns all again to barren strand.</l>
+            <l xml:id="swift-239-ROGP-line-5" n="5"><lb/>The multitude's capricious pranks</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-6" n="6">Are said to represent the seas;</l>
+            <l xml:id="swift-239-ROGP-line-7" n="7">Breaking the bankers and the banks,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-8" n="8">Resume their own whene'er they please.</l>
+            <l xml:id="swift-239-ROGP-line-9" n="9"><lb/>Money, the life-blood of the nation,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-10" n="10">Corrupts and stagnates in the veins,</l>
+            <l xml:id="swift-239-ROGP-line-11" n="11">Unless a proper circulation</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-12" n="12">Its motion and its heat maintains.</l>
+            <l xml:id="swift-239-ROGP-line-13" n="13"><lb/>Because 'tis lordly not to pay,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-14" n="14">Quakers and aldermen, in state,</l>
+            <l xml:id="swift-239-ROGP-line-15" n="15">Like peers have levees every day</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-16" n="16">Of duns attending at their gate.</l>
+            <l xml:id="swift-239-ROGP-line-17" n="17"><lb/>We want our money on the nail;</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-18" n="18">The banker's ruined if he pays;</l>
+            <l xml:id="swift-239-ROGP-line-19" n="19">They seem to act an ancient tale,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-20" n="20">The birds are met to strip the jays.</l>
+            <l xml:id="swift-239-ROGP-line-21" n="21"><lb/>Riches, the wisest monarch sings,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-22" n="22">Make pinions for themselves to fly:</l>
+            <l xml:id="swift-239-ROGP-line-23" n="23">They fly like bats, on parchment wings,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-24" n="24">And geese their silver plumes supply.</l>
+            <l xml:id="swift-239-ROGP-line-25" n="25"><lb/>No money left for squandering heirs!</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-26" n="26">Bills turn the lenders into debtors,</l>
+            <l xml:id="swift-239-ROGP-line-27" n="27">The wish of Nero now is theirs,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-28" n="28">That they had never known their letters.</l>
+            <l xml:id="swift-239-ROGP-line-29" n="29"><lb/>Conceive the works of midnight hags,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-30" n="30">Tormenting fools behind their backs;</l>
+            <l xml:id="swift-239-ROGP-line-31" n="31">Thus bankers o'er their bills and bags</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-32" n="32">Sit squeezing images of wax.</l>
+            <l xml:id="swift-239-ROGP-line-33" n="33"><lb/>Conceive the whole enchantment broke,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-34" n="34">The witches left in open air,</l>
+            <l xml:id="swift-239-ROGP-line-35" n="35">With power no more than other folk,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-36" n="36">Exposed with all their magic ware.</l>
+            <l xml:id="swift-239-ROGP-line-37" n="37"><lb/>So powerful are a banker's bills</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-38" n="38">Where creditors demand their due;</l>
+            <l xml:id="swift-239-ROGP-line-39" n="39">They break up counter, doors, and tills,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-40" n="40">And leave the empty chests in view.</l>
+            <l xml:id="swift-239-ROGP-line-41" n="41"><lb/>Thus when an earthquake lets in light</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-42" n="42">Upon the god of gold and hell,</l>
+            <l xml:id="swift-239-ROGP-line-43" n="43">Unable to endure the sight,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-44" n="44">He hides within his darkest cell.</l>
+            <l xml:id="swift-239-ROGP-line-45" n="45"><lb/>As when a conjuror takes a lease</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-46" n="46">From Satan for a term of years,</l>
+            <l xml:id="swift-239-ROGP-line-47" n="47">The tenant's in a dismal case</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-48" n="48">Whene'er the bloody bond appears.</l>
+            <l xml:id="swift-239-ROGP-line-49" n="49"><lb/>A baited banker thus desponds,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-50" n="50">From his own hand foresees his fall,</l>
+            <l xml:id="swift-239-ROGP-line-51" n="51">They have his soul who have his bonds,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-52" n="52">'Tis like the writing on the wall.</l>
+            <l xml:id="swift-239-ROGP-line-53" n="53"><lb/>How will that caitiff wretch be scared</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-54" n="54">When first he finds himself awake</l>
+            <l xml:id="swift-239-ROGP-line-55" n="55">At the last trumpet, unprepared,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-56" n="56">And all his grand account to make?</l>
+            <l xml:id="swift-239-ROGP-line-57" n="57"><lb/>For in that universal call</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-58" n="58">Few bankers will to heaven be mounters:</l>
+            <l xml:id="swift-239-ROGP-line-59" n="59">They'll cry, `ye shops upon us fall,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-60" n="60">Conceal and cover us, ye counters.'</l>
+            <l xml:id="swift-239-ROGP-line-61" n="61"><lb/>When other hands the scales shall hold,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-62" n="62">And they in men and angels' sight</l>
+            <l xml:id="swift-239-ROGP-line-63" n="63">Produced with all their bills and gold,</l>
+            <l rend="indent(1)" xml:id="swift-239-ROGP-line-64" n="64">Weighed in the balance, and found light.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

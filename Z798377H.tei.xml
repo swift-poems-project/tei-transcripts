@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 25FE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z798377H">
+          <head type="note" n="1" xml:id="spp-Z798377H-headnote-1">
+            <lg n="1" xml:id="spp-Z798377H-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z798377H-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z798377H-headnote-2">
+            <lg n="1" xml:id="spp-Z798377H-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z798377H-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z798377H-headnote-3">
+            <lg n="1" xml:id="spp-Z798377H-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z798377H-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z798377H-line-1" n="1">Not half so Charming seem'd the Queen of love</l>
+            <l xml:id="swift-Z798377H-line-2" n="2">when with her rival Goddesses she strove,</l>
+            <l xml:id="swift-Z798377H-line-3" n="3">Jove may his Nectar and his Iuno boast,</l>
+            <l xml:id="swift-Z798377H-line-4" n="4">Champaign's my liquor, Elly is my Toast</l>
+            <l xml:id="swift-Z798377H-line-5" n="5"><lb/>Flushd by inspireing wine no more</l>
+            <l xml:id="swift-Z798377H-line-6" n="6">a frown deformd her Brow,</l>
+            <l xml:id="swift-Z798377H-line-7" n="7">her Eyes a kinder luster wore</l>
+            <l xml:id="swift-Z798377H-line-8" n="8">her Cheeks a deeper glow,</l>
+            <l xml:id="swift-Z798377H-line-9" n="9"><lb/>her mein, her Shape, her Temper, Eyes and Tongue</l>
+            <l xml:id="swift-Z798377H-line-10" n="10">are sure to conquer, for the rogue is young,</l>
+            <l xml:id="swift-Z798377H-line-11" n="11">and all that, madly wild or odly gay</l>
+            <l xml:id="swift-Z798377H-line-12" n="12">we only call it pretty Elly\<hi rend="italics">damage</hi>\ way,</l>
+            <l xml:id="swift-Z798377H-line-13" n="13"><lb/>Ill twine fresh Garlands for my Ellys Brows</l>
+            <l xml:id="swift-Z798377H-line-14" n="14">and Consecrate to her Eternal vows</l>
+            <l xml:id="swift-Z798377H-line-15" n="15">the Charming Nymph shall my Apollo prove</l>
+            <l xml:id="swift-Z798377H-line-16" n="16">she shall adorn my songs and tune my Voice to love,</l>
+            <l xml:id="swift-Z798377H-line-17" n="17"><lb/>How soft is Elly, fearfull to offend</l>
+            <l xml:id="swift-Z798377H-line-18" n="18">the frail ones Advocate, the weak ones friend</l>
+            <l xml:id="swift-Z798377H-line-19" n="19">Oh blest with temper whose unclouded ray</l>
+            <l xml:id="swift-Z798377H-line-20" n="20">Can make tomorrow Chearfull as to day,</l>
+            <l xml:id="swift-Z798377H-line-21" n="21"><lb/>Her face with Thousand Beauties blest</l>
+            <l xml:id="swift-Z798377H-line-22" n="22">her mind with Thousand Virtues stor'd</l>
+            <l xml:id="swift-Z798377H-line-23" n="23">her Power with Boundless joy Confest</l>
+            <l xml:id="swift-Z798377H-line-24" n="24">her Person only is Ador'd</l>
+            <l xml:id="swift-Z798377H-line-25" n="25"><lb/>Bright as the Sun her Eyes the Gazers Strike</l>
+            <l xml:id="swift-Z798377H-line-26" n="26">and like the Sun she shine on all alike</l>
+            <l xml:id="swift-Z798377H-line-27" n="27">if to her share some female Errours fall</l>
+            <l xml:id="swift-Z798377H-line-28" n="28">Look on her face and you'll forget them all,</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

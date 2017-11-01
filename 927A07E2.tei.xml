@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A RIDDLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 26JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="927A07E2">
+          <head type="note" n="1" xml:id="spp-927A07E2-headnote-1">
+            <lg n="1" xml:id="spp-927A07E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A07E2-headnote-1-line-group-1-line-1">The author and his friends used to divert themselves for amusement in making riddles; some of which have been printed, and were well received; as we hope the following will be, although we cannot tell the authors of each. [See vol. 6. p. 284.]&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-927A07E2-headnote-2">
+            <lg n="1" xml:id="spp-927A07E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A07E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-927A07E2-headnote-3">
+            <lg n="1" xml:id="spp-927A07E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A07E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-927A07E2-line-1" n="1"><hi rend="display-initial">I</hi> With borrow'd silver shine,</l>
+            <l xml:id="swift-927A07E2-line-2" n="2">What you see is none of mine.</l>
+            <l xml:id="swift-927A07E2-line-3" n="3">First I shew you but a quarter,</l>
+            <l xml:id="swift-927A07E2-line-4" n="4">Like the bow that guards the Tartar,</l>
+            <l xml:id="swift-927A07E2-line-5" n="5">Then the half, and then the whole,</l>
+            <l xml:id="swift-927A07E2-line-6" n="6">Ever dancing round the pole.</l>
+            <l xml:id="swift-927A07E2-line-7" n="7">And what will raise your admiration,</l>
+            <l xml:id="swift-927A07E2-line-8" n="8">I am not one of God's creation,</l>
+            <l xml:id="swift-927A07E2-line-9" n="9">But sprung, (and I this truth maintain),</l>
+            <l xml:id="swift-927A07E2-line-10" n="10">Like Pallas, from my father's brain.</l>
+            <l xml:id="swift-927A07E2-line-11" n="11">And after all, I chiefly owe</l>
+            <l xml:id="swift-927A07E2-line-12" n="12">My beauty to the shades below.</l>
+            <l xml:id="swift-927A07E2-line-13" n="13">Most wondrous forms you see me wear,</l>
+            <l xml:id="swift-927A07E2-line-14" n="14">A man, a woman, lion, bear,</l>
+            <l xml:id="swift-927A07E2-line-15" n="15">A fish, a fowl, a cloud, a field,</l>
+            <l xml:id="swift-927A07E2-line-16" n="16">All figures heav'n or earth can yield;</l>
+            <l xml:id="swift-927A07E2-line-17" n="17">Like Daphne sometimes in a tree:</l>
+            <l xml:id="swift-927A07E2-line-18" n="18">Yet am not one of all you see.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

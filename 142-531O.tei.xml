@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pieces, attributed to Swift; for<lb/>  the Reasons annexed at the End of<lb/>  them.────────────<lb/>  I. An Excellent new Song, being the intended<lb/>  Speech of a famous Orator against Peace.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 9JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 29MY16, 23JL16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="142-531O">
+          <head type="note" n="1" xml:id="spp-142-531O-headnote-1">
+            <lg n="1" xml:id="spp-142-531O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-142-531O-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-142-531O-headnote-2">
+            <lg n="1" xml:id="spp-142-531O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-142-531O-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-142-531O-headnote-3">
+            <lg n="1" xml:id="spp-142-531O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-142-531O-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-142-531O-line-1" n="1">An Orator Dismal of Nottinghamshire</l>
+            <l xml:id="swift-142-531O-line-2" n="2">Who has forty Years let out his Conscience to hire</l>
+            <l xml:id="swift-142-531O-line-3" n="3">Out of Zeal for his Country &amp; Want of a Place</l>
+            <l xml:id="swift-142-531O-line-4" n="4">Is come Vi et Armis, to break the Queen's Peace.</l>
+            <l xml:id="swift-142-531O-line-5" n="5">He has vamp't an old Speech, &amp; the Court to their Sorrow</l>
+            <l xml:id="swift-142-531O-line-6" n="6">Shall hear him harangue against Prior to morrow.</l>
+            <l xml:id="swift-142-531O-line-7" n="7">When once he begins, he never will flinch</l>
+            <l xml:id="swift-142-531O-line-8" n="8">But repeats the same Note a whole Day like a Finch.</l>
+            <l xml:id="swift-142-531O-line-9" n="9">I have heard all the Speech repeated by Hoppy</l>
+            <l xml:id="swift-142-531O-line-10" n="10">And mistakes to prevent, I have obtained a Copy.</l>
+            <l rend="center" xml:id="swift-142-531O-line-11" n="11">Speech.<lb/>Whereas, notwithstanding I am in great Pain</l>
+            <l xml:id="swift-142-531O-line-12" n="12">To hear we are making a Peace without Spain</l>
+            <l xml:id="swift-142-531O-line-13" n="13">But most noble Senators, it is a great Shame</l>
+            <l xml:id="swift-142-531O-line-14" n="14">There should be a Peace, and I <hi rend="large-writing">Not in Game</hi>.</l>
+            <l xml:id="swift-142-531O-line-15" n="15">The Duke shewed me all his fine House and the Dutchess</l>
+            <l xml:id="swift-142-531O-line-16" n="16">From her Closet brought out a full Purse in her Clutches.</l>
+            <l xml:id="swift-142-531O-line-17" n="17">I talked of a Peace and they both gave a Start</l>
+            <l xml:id="swift-142-531O-line-18" n="18">His Grace swore, by G── and her Grace ────────────.</l>
+            <l xml:id="swift-142-531O-line-19" n="19">My long \<hi rend="italics">inserted·in·another·old·hand</hi>[old-]\fashioned Pocket was presently crammed</l>
+            <l xml:id="swift-142-531O-line-20" n="20">And sooner than vote for a Peace I'll be damned.</l>
+            <l xml:id="swift-142-531O-line-21" n="21">But some will cry Turn Coat, &amp; rip up old Stories</l>
+            <l xml:id="swift-142-531O-line-22" n="22">How I always pretended to be for the Tories.</l>
+            <l xml:id="swift-142-531O-line-23" n="23">I answer the Tories were in my good Graces,</l>
+            <l xml:id="swift-142-531O-line-24" n="24">Till all my Relations were put into Places.</l>
+            <l xml:id="swift-142-531O-line-25" n="25">\<hi rend="italics">damaged</hi>\ still I'm in Principle ever the same</l>
+            <l xml:id="swift-142-531O-line-26" n="26">\<hi rend="italics">damaged</hi>\nd will quit my best Friends, while I'm <hi rend="large-writing">Not in Gam</hi></l>
+            <l xml:id="swift-142-531O-line-27" n="27">When I and some others subscribed our Names</l>
+            <l xml:id="swift-142-531O-line-28" n="28">To a Plot for expelling my Master King Iames,</l>
+            <l xml:id="swift-142-531O-line-29" n="29">I withdrew my Subscription by help of a Blot</l>
+            <l xml:id="swift-142-531O-line-30" n="30">And so might discover or gain by the Plot.</l>
+            <l xml:id="swift-142-531O-line-31" n="31">I had my Advantage &amp; stood at Defiance</l>
+            <l xml:id="swift-142-531O-line-32" n="32">For Daniel was got from the Den of the Lyons:</l>
+            <l xml:id="swift-142-531O-line-33" n="33">I came in without Danger, and was I to blame</l>
+            <l xml:id="swift-142-531O-line-34" n="34">For rather than hang I would be <hi rend="large-writing">Not in Game</hi>.</l>
+            <l xml:id="swift-142-531O-line-35" n="35">I swore to the Queen that the Prince of Hanover</l>
+            <l xml:id="swift-142-531O-line-36" n="36">During her sacred Life, should never come over;</l>
+            <l xml:id="swift-142-531O-line-37" n="37">I made use of a Trope: that an Heir to invite</l>
+            <l xml:id="swift-142-531O-line-38" n="38">Was like keeping her Monument always in sight.</l>
+            <l xml:id="swift-142-531O-line-39" n="39">But when I thought proper I altered my Note</l>
+            <l xml:id="swift-142-531O-line-40" n="40">And in her own hearing, I boldly did vote</l>
+            <l xml:id="swift-142-531O-line-41" n="41">That her Majesty stood in great need of a Tutor</l>
+            <l xml:id="swift-142-531O-line-42" n="42">And must have an old or a young Coadjutor.</l>
+            <l xml:id="swift-142-531O-line-43" n="43">For why? I would fain have put all in a Flame</l>
+            <l xml:id="swift-142-531O-line-44" n="44">Because for some reasons I was <hi rend="large-writing">Not in Game</hi>.</l>
+            <l xml:id="swift-142-531O-line-45" n="45">Now my new Benefactors have brought me about</l>
+            <l xml:id="swift-142-531O-line-46" n="46">And I'll vote against Peace, with Spain or without,</l>
+            <l xml:id="swift-142-531O-line-47" n="47">Tho' the Court gives my Nephews and Brothers &amp; Cousins</l>
+            <l xml:id="swift-142-531O-line-48" n="48">And all my whole Family, Places by Dozens.</l>
+            <l xml:id="swift-142-531O-line-49" n="49">Yet since I know where a full Purse may be found</l>
+            <l xml:id="swift-142-531O-line-50" n="50">And hardly pay Eighteen Pence Tax in the Pound</l>
+            <l xml:id="swift-142-531O-line-51" n="51">Since the Tories have thus disappointed by Hopes</l>
+            <l xml:id="swift-142-531O-line-52" n="52">And will neither regard my Figures nor Tropes</l>
+            <l xml:id="swift-142-531O-line-53" n="53">I'll speech against Peace, while Dismal's my Name</l>
+            <l xml:id="swift-142-531O-line-54" n="54">And be true Whig, while I'm <hi rend="large-writing">Not in Game</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

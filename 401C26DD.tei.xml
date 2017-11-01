@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 13SE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 15JL02</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C26DD">
+          <head type="note" n="1" xml:id="spp-401C26DD-headnote-1">
+            <lg n="1" xml:id="spp-401C26DD-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C26DD-headnote-1-line-group-1-line-1">DUBLI<hi rend="italics">N</hi>. <hi rend="italics">A</hi>pril the 30.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-401C26DD-headnote-2">
+            <lg n="1" xml:id="spp-401C26DD-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C26DD-headnote-2-line-group-1-line-1">The Revd. Dean Swift, of Dublin, upon making his publick Entrance into Chester, observing the condition of the Church, and the habit of the Clergy, writ with his Diamond Pencill, upon a Pane of Glass the following Lines.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-401C26DD-headnote-3">
+            <lg n="1" xml:id="spp-401C26DD-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C26DD-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-401C26DD-line-1" n="1">Your Mouldring walls are mending still,</l>
+            <l rend="indent(2)" xml:id="swift-401C26DD-line-2" n="2">|Your Churches empty lye,</l>
+            <l xml:id="swift-401C26DD-line-3" n="3"><hi rend="italics">A</hi>nd yet the Scripture you fulfil,</l>
+            <l rend="indent(1)" xml:id="swift-401C26DD-line-4" n="4">By walking Circumspectly.</l>
+            <l xml:id="swift-401C26DD-line-5" n="5">The Church and Clergy, they are both</l>
+            <l rend="indent(1)" xml:id="swift-401C26DD-line-6" n="6">Here very near a kin,</l>
+            <l xml:id="swift-401C26DD-line-7" n="7">Both weather-beaten are without,</l>
+            <l rend="indent(1)" xml:id="swift-401C26DD-line-8" n="8"><hi rend="italics">A</hi>nd empty both within.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

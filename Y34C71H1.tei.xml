@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The S<hi rend="small-caps">CALL'D</hi> CROW'S NEST.<lb/>  A very old T<hi rend="small-caps">ALE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 14MY10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y34C71H1">
+          <head type="note" n="1" xml:id="spp-Y34C71H1-headnote-1">
+            <lg n="1" xml:id="spp-Y34C71H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y34C71H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y34C71H1-headnote-2">
+            <lg n="1" xml:id="spp-Y34C71H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y34C71H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y34C71H1-headnote-3">
+            <lg n="1" xml:id="spp-Y34C71H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y34C71H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y34C71H1-line-1" n="1"><hi rend="display-initial">I</hi>N antient days, as Sages write,</l>
+            <l xml:id="swift-Y34C71H1-line-2" n="2">The time and place are lost in night,</l>
+            <l xml:id="swift-Y34C71H1-line-3" n="3">A flock select of little scall'd Crows,</l>
+            <l xml:id="swift-Y34C71H1-line-4" n="4">Wrote by modern Criticks small Beaux;</l>
+            <l xml:id="swift-Y34C71H1-line-5" n="5">A spurious brood, with harpy claws,</l>
+            <l xml:id="swift-Y34C71H1-line-6" n="6">Begot 'twixt Rooks and Kites and Daws;</l>
+            <l xml:id="swift-Y34C71H1-line-7" n="7">Those airy vermin, fraught with pride,</l>
+            <l xml:id="swift-Y34C71H1-line-8" n="8">O'er better Birds would seem to ride;</l>
+            <l xml:id="swift-Y34C71H1-line-9" n="9">And so one day, among the rest,</l>
+            <l xml:id="swift-Y34C71H1-line-10" n="10">Flew to consult into a nest:</l>
+            <l xml:id="swift-Y34C71H1-line-11" n="11">But here I hint, to save my bones,</l>
+            <l xml:id="swift-Y34C71H1-line-12" n="12">The nest was not compos'd of stones;</l>
+            <l xml:id="swift-Y34C71H1-line-13" n="13">Though 'tis affirm'd, in days of yore,</l>
+            <l xml:id="swift-Y34C71H1-line-14" n="14">The smallest one would hold a score:</l>
+            <l xml:id="swift-Y34C71H1-line-15" n="15">Now down they sit── “O Yes's” ring!</l>
+            <l xml:id="swift-Y34C71H1-line-16" n="16">“Silence, ye Birds!── God save the King!”</l>
+            <l rend="indent(1)" xml:id="swift-Y34C71H1-line-17" n="17">A <hi rend="italics">shabby</hi> Crow, in dismal croak,</l>
+            <l xml:id="swift-Y34C71H1-line-18" n="18">The sable audience thus bespoke:</l>
+            <l rend="indent(1)" xml:id="swift-Y34C71H1-line-19" n="19">“Most honour'd Mates── I rise to state</l>
+            <l xml:id="swift-Y34C71H1-line-20" n="20">“A case of moment and of weight;</l>
+            <l xml:id="swift-Y34C71H1-line-21" n="21">“A case that calls for all our might,</l>
+            <l xml:id="swift-Y34C71H1-line-22" n="22">“To set the injur'd world aright!</l>
+            <l xml:id="swift-Y34C71H1-line-23" n="23">“For <hi rend="italics">monstrous crimes</hi>, and greater far</l>
+            <l xml:id="swift-Y34C71H1-line-24" n="24">“Than Rebel <hi rend="italics">Titan's</hi> heavenly war,</l>
+            <l xml:id="swift-Y34C71H1-line-25" n="25">“Vile <hi rend="italics">Pies</hi> commit; disdaining rule,</l>
+            <l xml:id="swift-Y34C71H1-line-26" n="26">“<hi rend="italics">Plebeian Sons</hi> proclaim me fool;</l>
+            <l xml:id="swift-Y34C71H1-line-27" n="27">“And cry aloud── (if we give law)</l>
+            <l xml:id="swift-Y34C71H1-line-28" n="28">“<hi rend="italics">They all are doom'd to cage and straw</hi>.</l>
+            <l xml:id="swift-Y34C71H1-line-29" n="29">Pr'ythee, then shall we redress them?</l>
+            <l xml:id="swift-Y34C71H1-line-30" n="30">“No── let still stricter laws oppress them.</l>
+            <l xml:id="swift-Y34C71H1-line-31" n="31">“So humbly move, they get the cart,</l>
+            <l xml:id="swift-Y34C71H1-line-32" n="32">“Who, rack'd with colic, winch or f──t.”</l>
+            <l rend="indent(1)" xml:id="swift-Y34C71H1-line-33" n="33">He said── sudden they clap their wings,</l>
+            <l xml:id="swift-Y34C71H1-line-34" n="34">With croaking praise Heaven's convex rings!</l>
+            <l xml:id="swift-Y34C71H1-line-35" n="35"><hi rend="italics">Sweet Satan so</hi> <note place="foot">·<hi rend="italics">Milton</hi>.</note> his purpose vented,</l>
+            <l xml:id="swift-Y34C71H1-line-36" n="36"><hi rend="italics">Applauding so</hi>, all Hell assented;</l>
+            <l xml:id="swift-Y34C71H1-line-37" n="37">'Twas then, <hi rend="italics">nem. con</hi>. resolv'd, “a Grin,</l>
+            <l xml:id="swift-Y34C71H1-line-38" n="38">“A Hint, a Squint── should be a sin;”</l>
+            <l xml:id="swift-Y34C71H1-line-39" n="39">And the exploded trifle <hi rend="italics">Reason</hi></l>
+            <l xml:id="swift-Y34C71H1-line-40" n="40">Was voted out of doors for treason:</l>
+            <l xml:id="swift-Y34C71H1-line-41" n="41">Wonders were done with <hi rend="italics">bills</hi> and <hi rend="italics">claws</hi>,</l>
+            <l xml:id="swift-Y34C71H1-line-42" n="42">They punish'd Fleas, and murder'd Laws.</l>
+            <l xml:id="swift-Y34C71H1-line-43" n="43">And, wisely scorning Heathen rules,</l>
+            <l xml:id="swift-Y34C71H1-line-44" n="44">Left Honesty to starving fools:</l>
+            <l xml:id="swift-Y34C71H1-line-45" n="45">They freely pick'd their neighbours' oats,</l>
+            <l xml:id="swift-Y34C71H1-line-46" n="46">And, to repay them, cut their throats.</l>
+            <l xml:id="swift-Y34C71H1-line-47" n="47">Why should Pies or Pigeons blunder?</l>
+            <l xml:id="swift-Y34C71H1-line-48" n="48"><hi rend="italics">Sacred</hi> Scoundrels always plunder.</l>
+            <l xml:id="swift-Y34C71H1-line-49" n="49">A pretty Crow too thought it fit</l>
+            <l xml:id="swift-Y34C71H1-line-50" n="50">To mind the world where daddy sh──t;</l>
+            <l xml:id="swift-Y34C71H1-line-51" n="51">For what great purpose do you think?</l>
+            <l xml:id="swift-Y34C71H1-line-52" n="52">His fondness for immortal stink.</l>
+            <l xml:id="swift-Y34C71H1-line-53" n="53">Let Peers love Peers── for, on my word,</l>
+            <l xml:id="swift-Y34C71H1-line-54" n="54">'Tis just Sir <hi rend="italics">Thomas</hi> love Sir T──d;</l>
+            <l xml:id="swift-Y34C71H1-line-55" n="55">They're Brothers, and may proudly boast</l>
+            <l xml:id="swift-Y34C71H1-line-56" n="56">Illustrious birth from Knight of post<note place="foot">·See The Legion Club, col. VII. p. 278. and vol. XIV. p. 392.</note>.</l>
+            <l rend="indent(1)" xml:id="swift-Y34C71H1-line-57" n="57">Some other Speakers <hi rend="italics">here</hi> were found,</l>
+            <l xml:id="swift-Y34C71H1-line-58" n="58"><hi rend="italics">Hirelings</hi>, whom the Devil confound!</l>
+            <l xml:id="swift-Y34C71H1-line-59" n="59">To mention all the rascal tribe,</l>
+            <l xml:id="swift-Y34C71H1-line-60" n="60">Requires a pen for every bribe.</l>
+            <l xml:id="swift-Y34C71H1-line-61" n="61">Five months they spent within the nest,</l>
+            <l xml:id="swift-Y34C71H1-line-62" n="62">Five months a kingdom's scorn and pest!</l>
+            <l xml:id="swift-Y34C71H1-line-63" n="63">But, when every Bird had hiss'd them,</l>
+            <l xml:id="swift-Y34C71H1-line-64" n="64">An Eagle comes── and so bepiss'd them:</l>
+            <l xml:id="swift-Y34C71H1-line-65" n="65">That out they flew, with horrid squall,</l>
+            <l xml:id="swift-Y34C71H1-line-66" n="66">Belov'd by none, and curs'd by all.</l>
+            <l rend="indent(1)" xml:id="swift-Y34C71H1-line-67" n="67">Now every booby thinks he's able</l>
+            <l xml:id="swift-Y34C71H1-line-68" n="68">Directly to apply my Fable;</l>
+            <l xml:id="swift-Y34C71H1-line-69" n="69">Though, I confess, I want the wit</l>
+            <l xml:id="swift-Y34C71H1-line-70" n="70">To name the mortals it would hit;</l>
+            <l xml:id="swift-Y34C71H1-line-71" n="71">And dearly love the carrion drones,</l>
+            <l xml:id="swift-Y34C71H1-line-72" n="72">That pick a dying nation's bones.</l>
+            <l rend="indent(1)" xml:id="swift-Y34C71H1-line-73" n="73">Then mark me!── lest I suffer by't,</l>
+            <l xml:id="swift-Y34C71H1-line-74" n="74">For harmless Birds alone I write.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

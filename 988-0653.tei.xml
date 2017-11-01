@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  LETTER<lb/>  TO THE<lb/>  Reverend Dr. <hi rend="italics">Sheridan</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 28MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="988-0653">
+          <head type="note" n="1" xml:id="spp-988-0653-headnote-1">
+            <lg n="1" xml:id="spp-988-0653-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-988-0653-headnote-1-line-group-1-line-1">Written in the Y<hi rend="small-caps">EAR</hi> 1718.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-988-0653-headnote-2">
+            <lg n="1" xml:id="spp-988-0653-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-988-0653-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-988-0653-headnote-3">
+            <lg n="1" xml:id="spp-988-0653-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-988-0653-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-988-0653-line-1" n="1"><hi rend="italics">SIR</hi>,<lb/><hi rend="display-initial">W</hi>HATE'ER your Predecessors taught us,</l>
+            <l xml:id="swift-988-0653-line-2" n="2">I have a great Esteem for <hi rend="italics">Plautus</hi>;</l>
+            <l xml:id="swift-988-0653-line-3" n="3">And think your Boys may gather there-hence</l>
+            <l xml:id="swift-988-0653-line-4" n="4">More Wit and Humour than from <hi rend="italics">Terence</hi>.</l>
+            <l xml:id="swift-988-0653-line-5" n="5">But as to comic <hi rend="italics">Aristophanes</hi>,</l>
+            <l xml:id="swift-988-0653-line-6" n="6">The Rogue too bawdy and too prophane is.</l>
+            <l xml:id="swift-988-0653-line-7" n="7">I went in vain to look for <hi rend="italics">Eupolis</hi>,</l>
+            <l xml:id="swift-988-0653-line-8" n="8">Down in the <note place="foot">·N.B. <hi rend="italics">The </hi>Strand<hi rend="italics"> in </hi>London<hi rend="italics">. The Fact may be false, but the Rhyme cost me some Trouble</hi>.</note> <hi rend="italics">Strand</hi> just where the new Pole is.</l>
+            <l xml:id="swift-988-0653-line-9" n="9">For I can tell you one Thing, that I can,</l>
+            <l xml:id="swift-988-0653-line-10" n="10">You will not find it in the <hi rend="italics">Vatican</hi>.</l>
+            <l xml:id="swift-988-0653-line-11" n="11">He and <hi rend="italics">Cratinus</hi> used, as <hi rend="italics">Horace</hi> says,</l>
+            <l xml:id="swift-988-0653-line-12" n="12">To take his greatest Grandees for Asses.</l>
+            <l xml:id="swift-988-0653-line-13" n="13">Poets, in those Days used to venture high,</l>
+            <l xml:id="swift-988-0653-line-14" n="14">But these are lost full many a Century.</l>
+            <l rend="indent(1)" xml:id="swift-988-0653-line-15" n="15"><lb/>T<hi rend="small-caps">HUS</hi> you may see, dear Friend, <hi rend="italics">ex pede</hi> hence</l>
+            <l xml:id="swift-988-0653-line-16" n="16">My Judgment of the old Comedians.</l>
+            <l rend="indent(1)" xml:id="swift-988-0653-line-17" n="17"><lb/>P<hi rend="small-caps">ROCEED</hi> to Tragicks, first <hi rend="italics">Euripides</hi></l>
+            <l xml:id="swift-988-0653-line-18" n="18">(An Author, where I sometimes dip a Days)</l>
+            <l xml:id="swift-988-0653-line-19" n="19">Is rightly censur'd by the Stagirite,</l>
+            <l xml:id="swift-988-0653-line-20" n="20">Who says his Numbers do not fadge a-right.</l>
+            <l xml:id="swift-988-0653-line-21" n="21">A Friend of mine, that Author despises 3}</l>
+            <l xml:id="swift-988-0653-line-22" n="22">So much, he swears the very best Piece is</l>
+            <l xml:id="swift-988-0653-line-23" n="23">For aught he knows, as bad as <hi rend="italics">Thespis</hi>'s.</l>
+            <l xml:id="swift-988-0653-line-24" n="24">And that a Woman in those Tragedies</l>
+            <l xml:id="swift-988-0653-line-25" n="25">Commonly speaking, but a sad Jade is.</l>
+            <l xml:id="swift-988-0653-line-26" n="26">At least, I'm well assur'd, that no Folk lays</l>
+            <l xml:id="swift-988-0653-line-27" n="27">The Weight on him they do on <hi rend="italics">Sophocles</hi>.</l>
+            <l xml:id="swift-988-0653-line-28" n="28">But above all I prefer <hi rend="italics">Æschylus</hi>,</l>
+            <l xml:id="swift-988-0653-line-29" n="29">Whose moving Touches, when they please, kill us.</l>
+            <l rend="indent(1)" xml:id="swift-988-0653-line-30" n="30"><lb/>A<hi rend="small-caps">ND</hi> now I find my Muse but ill able</l>
+            <l xml:id="swift-988-0653-line-31" n="31">To hold out long in Trisyllable.</l>
+            <l xml:id="swift-988-0653-line-32" n="32">I chose these Rhymes out for their Difficulty;</l>
+            <l xml:id="swift-988-0653-line-33" n="33">Will you return as hard ones, if I call t'ye?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

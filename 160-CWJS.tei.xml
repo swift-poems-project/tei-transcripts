@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Atlas.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 6FE06, 27AU15; √'d JW 14SE08 agt WILH; ed. SK 15OC16; EMENDED JW 5NO16, 27NO16; first line emended; MDDN code added JW 8NO16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="160-CWJS">
+          <head type="note" n="1" xml:id="spp-160-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-160-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-CWJS-headnote-1-line-group-1-line-1">To the Earl of <hi rend="strikethrough">Oxford</hi> ────.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-160-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-160-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-160-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-160-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-160-CWJS-line-1" n="1">Atlas we read in antient Song</l>
+            <l xml:id="swift-160-CWJS-line-2" n="2">Was so exceeding tall and Strong,</l>
+            <l xml:id="swift-160-CWJS-line-3" n="3">He bore the Skyes upon his Back</l>
+            <l xml:id="swift-160-CWJS-line-4" n="4">Just as a Porter does his Pack</l>
+            <l xml:id="swift-160-CWJS-line-5" n="5">But, as a Porter overpresst</l>
+            <l xml:id="swift-160-CWJS-line-6" n="6">Unloads upon a Stall to rest</l>
+            <l xml:id="swift-160-CWJS-line-7" n="7">Or when he can no longer stand</l>
+            <l xml:id="swift-160-CWJS-line-8" n="8">Desires some Friend to lend a Hand</l>
+            <l xml:id="swift-160-CWJS-line-9" n="9">So Atlas, lest the pondrous Sphears</l>
+            <l xml:id="swift-160-CWJS-line-10" n="10">Should sink and fall about his Ears</l>
+            <l xml:id="swift-160-CWJS-line-11" n="11">Got Hercules to bear the Pile</l>
+            <l xml:id="swift-160-CWJS-line-12" n="12">That he might take his Rest awhile.</l>
+            <l xml:id="swift-160-CWJS-line-13" n="13">Yet Hercules was not so strong,</l>
+            <l xml:id="swift-160-CWJS-line-14" n="14">Nor could have borne it half so long.</l>
+            <l rend="indent(1)" xml:id="swift-160-CWJS-line-15" n="15"><lb/>All Statesmen are in this Condition,</l>
+            <l xml:id="swift-160-CWJS-line-16" n="16">And Atlas is a Politician.</l>
+            <l xml:id="swift-160-CWJS-line-17" n="17">A <hi rend="strikethrough">premier</hi> Premier Minister of State,</l>
+            <l xml:id="swift-160-CWJS-line-18" n="18">Alcides, one of second Rate:</l>
+            <l xml:id="swift-160-CWJS-line-19" n="19">Suppose then Atlas ne'er so wise.</l>
+            <l xml:id="swift-160-CWJS-line-20" n="20">Yet when the Weight of Kingdoms lyes</l>
+            <l xml:id="swift-160-CWJS-line-21" n="21">Too long upon his Single shoulders</l>
+            <l xml:id="swift-160-CWJS-line-22" n="22">He must sink down, or find Up-holders.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

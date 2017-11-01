@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Grand Question Debated</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="866-ROGP">
+          <head type="note" n="1" xml:id="spp-866-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-866-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-866-ROGP-headnote-1-line-group-1-line-1">WHETHER HAMILTON'S BAWN SHOULD BE TURNED INTO A BARRACKS OR A MALTHOUSE&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-866-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-866-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-866-ROGP-headnote-2-line-group-1-line-1">PREFACE</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-866-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-866-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-866-ROGP-headnote-3-line-group-1-line-1">The author of the following poem, is said to be Dr J.S.D.S.P.D. who writ it, as well as several other copies of verses of the like kind, by way of amusement, in the family of an honourable gentleman in the North of Ireland, where he spent a summer about two or three years ago. A certain very great person, then in that kingdom, having heard much of this poem, obtained a copy from the gentleman, or, as some say, the lady, in whose house it was written, from whence, I know not by what accident, several other copies were transcribed, full of errors. As I have a great respect for the supposed author, I have procured a true copy of the poem, the publication whereof can do him less injury than printing any of those incorrect ones which run about in manuscript, and would infallibly be soon in the press, if not thus prevented. Some expressions being peculiar to Ireland, I have prevailed on a gentleman of that kingdom to explain them, and I have put the several explanations in their proper places.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-866-ROGP-line-1" n="1">Thus spoke to my Lady, the knight full of care;</l>
+            <l xml:id="swift-866-ROGP-line-2" n="2">`Let me have your advice in a weighty affair.</l>
+            <l xml:id="swift-866-ROGP-line-3" n="3">This Hamilton's Bawn, while it sticks on my hand,</l>
+            <l xml:id="swift-866-ROGP-line-4" n="4">I lose by the house what I get by the land;</l>
+            <l xml:id="swift-866-ROGP-line-5" n="5">But how to dispose of it to the best bidder,</l>
+            <l xml:id="swift-866-ROGP-line-6" n="6">For a barrack or malthouse, we must now consider.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-7" n="7"><lb/>`First, let me suppose I make it a malthouse:</l>
+            <l xml:id="swift-866-ROGP-line-8" n="8">Here I have computed the profit will fall t'us.</l>
+            <l xml:id="swift-866-ROGP-line-9" n="9">There's nine hundred pounds for labour and grain,</l>
+            <l xml:id="swift-866-ROGP-line-10" n="10">I increase it to twelve, so three hundred remain:</l>
+            <l xml:id="swift-866-ROGP-line-11" n="11">A handsome addition for wine and good cheer,</l>
+            <l xml:id="swift-866-ROGP-line-12" n="12">Three dishes a day, and three hogsheads a year.</l>
+            <l xml:id="swift-866-ROGP-line-13" n="13">With a dozen large vessels my vault shall be stored,</l>
+            <l xml:id="swift-866-ROGP-line-14" n="14">No little scrub joint shall come on my board:</l>
+            <l xml:id="swift-866-ROGP-line-15" n="15">And you and the Dean no more shall combine,</l>
+            <l xml:id="swift-866-ROGP-line-16" n="16">To stint me at night to one bottle of wine;</l>
+            <l xml:id="swift-866-ROGP-line-17" n="17">Nor shall I for his humour, permit you to purloin</l>
+            <l xml:id="swift-866-ROGP-line-18" n="18">A stone and a quarter of beef from my sirloin.</l>
+            <l xml:id="swift-866-ROGP-line-19" n="19">If I make it a barrack, the crown is my tenant.</l>
+            <l xml:id="swift-866-ROGP-line-20" n="20">My dear, I have pondered again and again on't:</l>
+            <l xml:id="swift-866-ROGP-line-21" n="21">In poundage and drawbacks, I lose half my rent,</l>
+            <l xml:id="swift-866-ROGP-line-22" n="22">Whatever they give me I must be content,</l>
+            <l xml:id="swift-866-ROGP-line-23" n="23">Or join with the court in every debate,</l>
+            <l xml:id="swift-866-ROGP-line-24" n="24">And rather than that, I would lose my estate.'</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-25" n="25"><lb/>Thus ended the knight: thus began his meek wife:</l>
+            <l xml:id="swift-866-ROGP-line-26" n="26">`It must, and it shall be a barrack, my life.</l>
+            <l xml:id="swift-866-ROGP-line-27" n="27">I'm grown a mere Mopus; no company comes;</l>
+            <l xml:id="swift-866-ROGP-line-28" n="28">But a rabble of tenants, and rusty dull rums;</l>
+            <l xml:id="swift-866-ROGP-line-29" n="29">With parsons, what lady can keep herself clean?</l>
+            <l xml:id="swift-866-ROGP-line-30" n="30">I'm all over daubed when I sit by the Dean.</l>
+            <l xml:id="swift-866-ROGP-line-31" n="31">om.</l>
+            <l xml:id="swift-866-ROGP-line-32" n="32">om.</l>
+            <l xml:id="swift-866-ROGP-line-33" n="33">But, if you will give us a barrack, my dear,</l>
+            <l xml:id="swift-866-ROGP-line-34" n="34">The Captain, I'm sure, will always come here;</l>
+            <l xml:id="swift-866-ROGP-line-35" n="35">I then shall not value his Deanship a straw,</l>
+            <l xml:id="swift-866-ROGP-line-36" n="36">For the Captain, I warrant, will keep him in awe;</l>
+            <l xml:id="swift-866-ROGP-line-37" n="37">Or should he pretend to be brisk and alert,</l>
+            <l xml:id="swift-866-ROGP-line-38" n="38">Will tell him that chaplains should not be so pert;</l>
+            <l xml:id="swift-866-ROGP-line-39" n="39">That men of his coat should be minding their prayers,</l>
+            <l xml:id="swift-866-ROGP-line-40" n="40">And not among ladies to give themselves airs.'</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-41" n="41"><lb/>Thus argued my Lady, but argued in vain;</l>
+            <l xml:id="swift-866-ROGP-line-42" n="42">The knight his opinion resolved to maintain.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-43" n="43"><lb/>But Hannah, who listened to all that was passed,</l>
+            <l xml:id="swift-866-ROGP-line-44" n="44">And could not endure so vulgar a taste,</l>
+            <l xml:id="swift-866-ROGP-line-45" n="45">As soon as her Ladyship called to be dressed,</l>
+            <l xml:id="swift-866-ROGP-line-46" n="46">Cried, `Madam, why surely my master's possessed;</l>
+            <l xml:id="swift-866-ROGP-line-47" n="47">Sir Arthur the malster! how fine will it sound?</l>
+            <l xml:id="swift-866-ROGP-line-48" n="48">I'd rather the Bawn were sunk underground.</l>
+            <l xml:id="swift-866-ROGP-line-49" n="49">But madam, I guessed there would never come good,</l>
+            <l xml:id="swift-866-ROGP-line-50" n="50">When I saw him so often with Darby and Wood.</l>
+            <l xml:id="swift-866-ROGP-line-51" n="51">And now my dream's out; for I was a-dreamed</l>
+            <l xml:id="swift-866-ROGP-line-52" n="52">That I saw a huge rat: O dear, how I screamed!</l>
+            <l xml:id="swift-866-ROGP-line-53" n="53">And after, methought, I had lost my new shoes;</l>
+            <l xml:id="swift-866-ROGP-line-54" n="54">And, Molly, she said, I should hear some ill news.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-55" n="55"><lb/>`Dear madam, had you but the spirit to tease,</l>
+            <l xml:id="swift-866-ROGP-line-56" n="56">You might have a barrack whenever you please:</l>
+            <l xml:id="swift-866-ROGP-line-57" n="57">And, madam, I always believed you so stout,</l>
+            <l xml:id="swift-866-ROGP-line-58" n="58">That for twenty denials you would not give out.</l>
+            <l xml:id="swift-866-ROGP-line-59" n="59">If I had a husband like him, I purtest,</l>
+            <l xml:id="swift-866-ROGP-line-60" n="60">Till he gave me my will, I would give him no rest:</l>
+            <l xml:id="swift-866-ROGP-line-61" n="61">And rather than come in the same pair of sheets</l>
+            <l xml:id="swift-866-ROGP-line-62" n="62">With such a cross man, I would lie in the streets.</l>
+            <l xml:id="swift-866-ROGP-line-63" n="63">But, madam, I beg you contrive and invent,</l>
+            <l xml:id="swift-866-ROGP-line-64" n="64">And worry him out, till he gives his consent.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-65" n="65"><lb/>`Dear madam, whene'er of a barrack I think,</l>
+            <l xml:id="swift-866-ROGP-line-66" n="66">An I were to be hanged, I can't sleep a wink:</l>
+            <l xml:id="swift-866-ROGP-line-67" n="67">For, if a new crotchet comes into my brain,</l>
+            <l xml:id="swift-866-ROGP-line-68" n="68">I can't get it out, though I'd never so fain.</l>
+            <l xml:id="swift-866-ROGP-line-69" n="69">I fancy already a barrack contrived</l>
+            <l xml:id="swift-866-ROGP-line-70" n="70">At Hamilton's Bawn, and the troop is arrived.</l>
+            <l xml:id="swift-866-ROGP-line-71" n="71">Of this, to be sure, Sir Arthur has warning,</l>
+            <l xml:id="swift-866-ROGP-line-72" n="72">And waits on the Captain betimes the next morning.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-73" n="73"><lb/>`Now, see when they meet, how their honours behave;</l>
+            <l xml:id="swift-866-ROGP-line-74" n="74">“Noble Captain, your servant”── “Sir Arthur, your slave”;</l>
+            <l xml:id="swift-866-ROGP-line-75" n="75">“You honour me much”── “The honour is mine”──</l>
+            <l xml:id="swift-866-ROGP-line-76" n="76">“'Twas a sad rainy night”── “But the morning is fine”──</l>
+            <l xml:id="swift-866-ROGP-line-77" n="77">“Pray, how does my Lady?”── “My wife's at your service.”</l>
+            <l xml:id="swift-866-ROGP-line-78" n="78">“I think I have seen her picture by Jervas.”</l>
+            <l xml:id="swift-866-ROGP-line-79" n="79">“Good morrow, good Captain”── “I'll wait on you down”──</l>
+            <l xml:id="swift-866-ROGP-line-80" n="80">“You shan't stir a foot”── “You'll think me a clown”──</l>
+            <l xml:id="swift-866-ROGP-line-81" n="81">“For all the world, Captain, not half an inch farther”──</l>
+            <l xml:id="swift-866-ROGP-line-82" n="82">“You must be obeyed── your servant, Sir Arthur;</l>
+            <l xml:id="swift-866-ROGP-line-83" n="83">My humble respects to my Lady unknown”──</l>
+            <l xml:id="swift-866-ROGP-line-84" n="84">“I hope you will use my house as your own.”'</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-85" n="85"><lb/>`Go, bring me my smock, and leave off your prate,</l>
+            <l xml:id="swift-866-ROGP-line-86" n="86">Thou hast certainly gotten a cup in thy pate.'</l>
+            <l xml:id="swift-866-ROGP-line-87" n="87">`Pray, madam, be quiet; what was it I said?</l>
+            <l xml:id="swift-866-ROGP-line-88" n="88">You had like to have put it quite out of my head.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-89" n="89"><lb/>`Next day, to be sure, the Captain will come,</l>
+            <l xml:id="swift-866-ROGP-line-90" n="90">At the head of his troop, with trumpet and drum:</l>
+            <l xml:id="swift-866-ROGP-line-91" n="91">Now, madam, observe, how he marches in state:</l>
+            <l xml:id="swift-866-ROGP-line-92" n="92">The man with the kettle-drum enters the gate;</l>
+            <l xml:id="swift-866-ROGP-line-93" n="93"><hi rend="italics">Dub, dub, adub, dub</hi>. The trumpeters follow,</l>
+            <l xml:id="swift-866-ROGP-line-94" n="94"><hi rend="italics">Tantara, tantara</hi>, while all the boys holler.</l>
+            <l xml:id="swift-866-ROGP-line-95" n="95">See, now comes the Captain all daubed in gold lace:</l>
+            <l xml:id="swift-866-ROGP-line-96" n="96">O lor'! the sweet gentleman! look in his face;</l>
+            <l xml:id="swift-866-ROGP-line-97" n="97">And see how he rides like a lord of the land,</l>
+            <l xml:id="swift-866-ROGP-line-98" n="98">With the fine flaming sword that he holds in his hand;</l>
+            <l xml:id="swift-866-ROGP-line-99" n="99">And his horse, the dear <hi rend="italics">creter</hi>, it prances and rears,</l>
+            <l xml:id="swift-866-ROGP-line-100" n="100">With ribbons in knots, at its tail and its ears:</l>
+            <l xml:id="swift-866-ROGP-line-101" n="101">At last comes the troop, by the word of command</l>
+            <l xml:id="swift-866-ROGP-line-102" n="102">Drawn up in our court; when the Captain cries, “Stand.”</l>
+            <l xml:id="swift-866-ROGP-line-103" n="103">Your Ladyship lifts up the sash to be seen,</l>
+            <l xml:id="swift-866-ROGP-line-104" n="104">(For sure, I had dizened you out like a Queen;)</l>
+            <l xml:id="swift-866-ROGP-line-105" n="105">The Captain, to show he is proud of the favour,</l>
+            <l xml:id="swift-866-ROGP-line-106" n="106">Looks up to your window, and cocks up his beaver.</l>
+            <l xml:id="swift-866-ROGP-line-107" n="107">(His beaver is cocked; pray, madam, mark that,</l>
+            <l xml:id="swift-866-ROGP-line-108" n="108">For, a Captain of Horse never takes off his hat;</l>
+            <l xml:id="swift-866-ROGP-line-109" n="109">Because he has never a hand that is idle;</l>
+            <l xml:id="swift-866-ROGP-line-110" n="110">For, the right holds the sword, and the left holds the bridle,)</l>
+            <l xml:id="swift-866-ROGP-line-111" n="111">Then flourishes thrice his sword in the air,</l>
+            <l xml:id="swift-866-ROGP-line-112" n="112">As a compliment due to a lady so fair;</l>
+            <l xml:id="swift-866-ROGP-line-113" n="113">How I tremble to think of the blood it hath spilt!</l>
+            <l xml:id="swift-866-ROGP-line-114" n="114">Then he lowers down the point, and kisses the hilt.</l>
+            <l xml:id="swift-866-ROGP-line-115" n="115">Your Ladyship smiles, and thus you begin;</l>
+            <l xml:id="swift-866-ROGP-line-116" n="116">“Pray, Captain, be pleased to light, and walk in:”</l>
+            <l xml:id="swift-866-ROGP-line-117" n="117">The Captain salutes you with congee profound;</l>
+            <l xml:id="swift-866-ROGP-line-118" n="118">And your Ladyship curchies half way to the ground.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-119" n="119"><lb/>“`Kit, run to your master, and bid him come to us.</l>
+            <l xml:id="swift-866-ROGP-line-120" n="120">I'm sure he'll be proud of the honour you do us;</l>
+            <l xml:id="swift-866-ROGP-line-121" n="121">And, Captain, you'll do us the favour to stay,</l>
+            <l xml:id="swift-866-ROGP-line-122" n="122">And take a short dinner here with us today:</l>
+            <l xml:id="swift-866-ROGP-line-123" n="123">You're heartily welcome: but as for good cheer,</l>
+            <l xml:id="swift-866-ROGP-line-124" n="124">You come in the very worst time of the year;</l>
+            <l xml:id="swift-866-ROGP-line-125" n="125">If I had expected so worthy a guest──”</l>
+            <l xml:id="swift-866-ROGP-line-126" n="126">“Lord! madam! your Ladyship sure is in jest;</l>
+            <l xml:id="swift-866-ROGP-line-127" n="127">You banter me, madam, the kingdom must grant──”</l>
+            <l xml:id="swift-866-ROGP-line-128" n="128">“You officers, Captain, are so complaisant.”'</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-129" n="129"><lb/>`Hist, huzzy, I think I hear somebody coming──'</l>
+            <l xml:id="swift-866-ROGP-line-130" n="130">`No, madam; 'tis only Sir Arthur a-humming.</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-131" n="131"><lb/>`To shorten my tale, (for I hate a long story,)</l>
+            <l xml:id="swift-866-ROGP-line-132" n="132">The Captain at dinner appears in his glory;</l>
+            <l xml:id="swift-866-ROGP-line-133" n="133">The Dean and the Doctor have humbled their pride,</l>
+            <l xml:id="swift-866-ROGP-line-134" n="134">For the Captain's entreated to sit by your side;</l>
+            <l xml:id="swift-866-ROGP-line-135" n="135">And, because he's their betters, you carve for him first,</l>
+            <l xml:id="swift-866-ROGP-line-136" n="136">The parsons, for envy, are ready to burst:</l>
+            <l xml:id="swift-866-ROGP-line-137" n="137">The servants amazed, are scarce ever able,</l>
+            <l xml:id="swift-866-ROGP-line-138" n="138">To keep off their eyes, as they wait at the table;</l>
+            <l xml:id="swift-866-ROGP-line-139" n="139">And, Molly and I have thrust in our nose,</l>
+            <l xml:id="swift-866-ROGP-line-140" n="140">To peep at the Captain, in all his fine clothes:</l>
+            <l xml:id="swift-866-ROGP-line-141" n="141">Dear madam, be sure he's a fine-spoken man,</l>
+            <l xml:id="swift-866-ROGP-line-142" n="142">Do but hear on the clergy how glib his tongue ran;</l>
+            <l xml:id="swift-866-ROGP-line-143" n="143">om.</l>
+            <l xml:id="swift-866-ROGP-line-144" n="144">om.</l>
+            <l xml:id="swift-866-ROGP-line-145" n="145">“And madam,” says he, “if such dinners you give,</l>
+            <l xml:id="swift-866-ROGP-line-146" n="146">You'll never want parsons as long as you live;</l>
+            <l xml:id="swift-866-ROGP-line-147" n="147">I ne'er knew a parson without a good nose,</l>
+            <l xml:id="swift-866-ROGP-line-148" n="148">But the devil's as welcome wherever he goes:</l>
+            <l xml:id="swift-866-ROGP-line-149" n="149">God damn me, they bid us reform and repent,</l>
+            <l xml:id="swift-866-ROGP-line-150" n="150">But, zounds, by their looks, they never keep Lent:</l>
+            <l xml:id="swift-866-ROGP-line-151" n="151">Mister Curate, for all your grave looks, I'm afraid,</l>
+            <l xml:id="swift-866-ROGP-line-152" n="152">You cast a sheep's eye on her ladyship's maid;</l>
+            <l xml:id="swift-866-ROGP-line-153" n="153">I wish she would lend you her pretty white hand,</l>
+            <l xml:id="swift-866-ROGP-line-154" n="154">In mending your cassock, and smoothing your band:”</l>
+            <l xml:id="swift-866-ROGP-line-155" n="155">(For the Dean was so shabby and looked like a ninny,</l>
+            <l xml:id="swift-866-ROGP-line-156" n="156">That the Captain supposed he was curate to Jenny.)</l>
+            <l xml:id="swift-866-ROGP-line-157" n="157">“Whenever you see a cassock and gown,</l>
+            <l xml:id="swift-866-ROGP-line-158" n="158">A hundred to one, but it covers a clown;</l>
+            <l xml:id="swift-866-ROGP-line-159" n="159">Observe how a parson comes into a room,</l>
+            <l xml:id="swift-866-ROGP-line-160" n="160">God damn me, he hobbles as bad as my groom;</l>
+            <l xml:id="swift-866-ROGP-line-161" n="161">A scholard, when just from his college broke loose,</l>
+            <l xml:id="swift-866-ROGP-line-162" n="162">Can hardly tell how to cry boo to a goose;</l>
+            <l xml:id="swift-866-ROGP-line-163" n="163">Your Noveds, and Blutraks, and Omurs and stuff,</l>
+            <l xml:id="swift-866-ROGP-line-164" n="164">By God they don't signify this pinch of snuff.</l>
+            <l xml:id="swift-866-ROGP-line-165" n="165">To give a young gentleman right education,</l>
+            <l xml:id="swift-866-ROGP-line-166" n="166">The army's the only good school in this nation;</l>
+            <l xml:id="swift-866-ROGP-line-167" n="167">My schoolmaster called me a dunce and a fool,</l>
+            <l xml:id="swift-866-ROGP-line-168" n="168">But at cuffs I was always the cock of the school;</l>
+            <l xml:id="swift-866-ROGP-line-169" n="169">I never could take to my book for the blood o' me,</l>
+            <l xml:id="swift-866-ROGP-line-170" n="170">And the puppy confessed, he expected no good o' me.</l>
+            <l xml:id="swift-866-ROGP-line-171" n="171">He caught me one morning coquetting his wife,</l>
+            <l xml:id="swift-866-ROGP-line-172" n="172">But he mauled me, I ne'er was so mauled in my life;</l>
+            <l xml:id="swift-866-ROGP-line-173" n="173">So I took to the road, and what's very odd,</l>
+            <l xml:id="swift-866-ROGP-line-174" n="174">The first man I robbed was a parson, by God.</l>
+            <l xml:id="swift-866-ROGP-line-175" n="175">Now madam, you'll think it a strange thing to say,</l>
+            <l xml:id="swift-866-ROGP-line-176" n="176">But, the sight of a book makes me sick to this day.”</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-177" n="177"><lb/>`Never since I was born did I hear so much wit,</l>
+            <l xml:id="swift-866-ROGP-line-178" n="178">And, madam, I laughed till I thought I should split.</l>
+            <l xml:id="swift-866-ROGP-line-179" n="179">So, then you looked scornful, and sniffed at the Dean,</l>
+            <l xml:id="swift-866-ROGP-line-180" n="180">As, who should say, “Now, am I skinny and lean?”</l>
+            <l xml:id="swift-866-ROGP-line-181" n="181">But he durst not so much as once open his lips,</l>
+            <l xml:id="swift-866-ROGP-line-182" n="182">And, the Doctor was plaguily down in the hyps.'</l>
+            <l rend="indent(1)" xml:id="swift-866-ROGP-line-183" n="183"><lb/>Thus merciless Hannah ran on in her talk,</l>
+            <l xml:id="swift-866-ROGP-line-184" n="184">Till she heard the Dean call, `Will your Ladyship walk?'</l>
+            <l xml:id="swift-866-ROGP-line-185" n="185">Her Ladyship answers, `I'm just coming down;'</l>
+            <l xml:id="swift-866-ROGP-line-186" n="186">Then, turning to Hannah, and forcing a frown,</l>
+            <l xml:id="swift-866-ROGP-line-187" n="187">Although it was plain, in her heart she was glad,</l>
+            <l xml:id="swift-866-ROGP-line-188" n="188">Cried, `Huzzy, why sure the wench is gone mad:</l>
+            <l xml:id="swift-866-ROGP-line-189" n="189">How could these chimeras get into your brains?──</l>
+            <l xml:id="swift-866-ROGP-line-190" n="190">Come hither, and take this old gown for your pains.</l>
+            <l xml:id="swift-866-ROGP-line-191" n="191">But the Dean, if this secret should come to his ears,</l>
+            <l xml:id="swift-866-ROGP-line-192" n="192">Will never have done with his gibes and his jeers:</l>
+            <l xml:id="swift-866-ROGP-line-193" n="193">For your life, not a word of the matter, I charge ye:</l>
+            <l xml:id="swift-866-ROGP-line-194" n="194">Give me but a barrack, a fig for the clergy.'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

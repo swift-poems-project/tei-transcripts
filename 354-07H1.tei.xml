@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A SIMILE<hi rend="italics">, on our want of </hi>Silver<hi rend="italics">, and<lb/>  the only way to remedy it</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 29JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="354-07H1">
+          <head type="note" n="1" xml:id="spp-354-07H1-headnote-1">
+            <lg n="1" xml:id="spp-354-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-354-07H1-headnote-1-line-group-1-line-1">Written in the Year 1725.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-354-07H1-headnote-2">
+            <lg n="1" xml:id="spp-354-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-354-07H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-354-07H1-headnote-3">
+            <lg n="1" xml:id="spp-354-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-354-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-354-07H1-line-1" n="1"><hi rend="display-initial">A</hi>S when of old some sorc'ress threw</l>
+            <l xml:id="swift-354-07H1-line-2" n="2">O'er the moon's face a sable hue,</l>
+            <l xml:id="swift-354-07H1-line-3" n="3">To drive unseen her magic chair,</l>
+            <l xml:id="swift-354-07H1-line-4" n="4">At midnight through the darken'd air;</l>
+            <l xml:id="swift-354-07H1-line-5" n="5">Wise people, who believ'd with reason,</l>
+            <l xml:id="swift-354-07H1-line-6" n="6">That this eclipse was out of season,</l>
+            <l xml:id="swift-354-07H1-line-7" n="7">Affirm'd the moon was sick, and fell</l>
+            <l xml:id="swift-354-07H1-line-8" n="8">To cure her by a counter-spell.</l>
+            <l xml:id="swift-354-07H1-line-9" n="9">Ten thousand cymbals now begin</l>
+            <l xml:id="swift-354-07H1-line-10" n="10">To rend the skies with brazen din;</l>
+            <l xml:id="swift-354-07H1-line-11" n="11">The cymbals rattling sounds dispel</l>
+            <l xml:id="swift-354-07H1-line-12" n="12">The cloud, and drive the hag to hell:</l>
+            <l xml:id="swift-354-07H1-line-13" n="13">The moon, deliver'd from her pain,</l>
+            <l xml:id="swift-354-07H1-line-14" n="14">Displays her <hi rend="italics">silver</hi> face again.</l>
+            <l xml:id="swift-354-07H1-line-15" n="15">(Note here, that in the chymic style,</l>
+            <l xml:id="swift-354-07H1-line-16" n="16">The moon is <hi rend="italics">silver</hi> all this while.)</l>
+            <l rend="indent(1)" xml:id="swift-354-07H1-line-17" n="17"><lb/>So, (if my simile you minded,</l>
+            <l xml:id="swift-354-07H1-line-18" n="18">Which I confess is too long-winded)</l>
+            <l xml:id="swift-354-07H1-line-19" n="19">When late a feminine magician<note place="foot">·A great lady is reported to have been bribed by <hi rend="italics">Wood</hi>.</note>,</l>
+            <l xml:id="swift-354-07H1-line-20" n="20">Join'd with a <hi rend="italics">brazen</hi> politician,</l>
+            <l xml:id="swift-354-07H1-line-21" n="21">Expos'd, to blind the nation's eyes,</l>
+            <l xml:id="swift-354-07H1-line-22" n="22">A <note place="foot">·A patent to <hi rend="italics">William Wood</hi>, for coining half-pence.</note> parchment of prodigious size;</l>
+            <l xml:id="swift-354-07H1-line-23" n="23">Conceal'd behind that ample screen,</l>
+            <l xml:id="swift-354-07H1-line-24" n="24">There was no silver to be seen.</l>
+            <l xml:id="swift-354-07H1-line-25" n="25">But, to this parchment let the <hi rend="italics">Drapier</hi></l>
+            <l xml:id="swift-354-07H1-line-26" n="26">Oppose his counter-charm of paper,</l>
+            <l xml:id="swift-354-07H1-line-27" n="27">And ring <hi rend="italics">Wood's</hi> copper in our ears</l>
+            <l xml:id="swift-354-07H1-line-28" n="28">So loud, 'till all the nation hears;</l>
+            <l xml:id="swift-354-07H1-line-29" n="29">That sound will make the parchment shrivel,</l>
+            <l xml:id="swift-354-07H1-line-30" n="30">And drive the conj'rers to the devil:</l>
+            <l xml:id="swift-354-07H1-line-31" n="31">And when the sky is grown serene</l>
+            <l xml:id="swift-354-07H1-line-32" n="32">Our silver will appear again.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To<lb/>  The Reverend M<hi rend="superscript">r</hi> Blachford<lb/>  at<lb/>  Wicklow</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="0021W74921L">
+          <head type="note" n="1" xml:id="spp-0021W74921L-headnote-1">
+            <lg n="1" xml:id="spp-0021W74921L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W74921L-headnote-1-line-group-1-line-1">S<hi rend="superscript">r</hi> <lb/> I begged some mutton of you, and you put me off with a Barrell of ale, these disappointments we must endure. But the main business is, whether it be of your own brewing and here is another silentium. I knew we must not look a gift horse in the mouth, But ale must look into ours.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-0021W74921L-headnote-2">
+            <lg n="1" xml:id="spp-0021W74921L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W74921L-headnote-2-line-group-1-line-1">There is another point; I would fain know what title you have to send me ale or any thing else, when you hardly ever see the inside of the Deanry, or tast my Bad Wine.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-0021W74921L-headnote-3">
+            <lg n="1" xml:id="spp-0021W74921L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W74921L-headnote-3-line-group-1-line-1">I have had intentions to drink some of your Wicklow ale upon the Place because I fancy it is better where it grows, and in such a Case it will not be improper that the minister should be actually residing.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-0021W74921L-headnote-4">
+            <lg n="1" xml:id="spp-0021W74921L-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W74921L-headnote-4-line-group-1-line-1">I shall observe your directions of keeping it, and M<hi rend="superscript">r</hi> John Grattan will be delighted</l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

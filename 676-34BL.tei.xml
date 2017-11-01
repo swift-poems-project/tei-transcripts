@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The <hi rend="italics">PARSON'S CASE</hi>. In Imitation of <hi rend="italics">Martial</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 4DE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="676-34BL">
+          <head type="note" n="1" xml:id="spp-676-34BL-headnote-1">
+            <lg n="1" xml:id="spp-676-34BL-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-34BL-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-676-34BL-headnote-2">
+            <lg n="1" xml:id="spp-676-34BL-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-34BL-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-676-34BL-headnote-3">
+            <lg n="1" xml:id="spp-676-34BL-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-34BL-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-676-34BL-line-1" n="1"><hi rend="display-initial">T</hi>HAT you, Friend <hi rend="italics">Marcus</hi>, like a Stoick,</l>
+            <l xml:id="swift-676-34BL-line-2" n="2">Can wish to die, in Strain Heroick,</l>
+            <l xml:id="swift-676-34BL-line-3" n="3">No real Fortitude implies:</l>
+            <l xml:id="swift-676-34BL-line-4" n="4">Yet, all must own, thy Wish is wise.</l>
+            <l rend="indent(1)" xml:id="swift-676-34BL-line-5" n="5">Thy Curate's Place, thy fruitful Wife,</l>
+            <l xml:id="swift-676-34BL-line-6" n="6">Thy busy, drudging Scene of Life,</l>
+            <l xml:id="swift-676-34BL-line-7" n="7">Thy insolent illit'rate Vicar,</l>
+            <l xml:id="swift-676-34BL-line-8" n="8">Thy want of all-consoling Liquor,</l>
+            <l xml:id="swift-676-34BL-line-9" n="9">Thy Thread-bare Gown, thy Cassock rent,</l>
+            <l xml:id="swift-676-34BL-line-10" n="10">Thy Credit sunk, thy Money spent,</l>
+            <l xml:id="swift-676-34BL-line-11" n="11">Thy Week made up of Fasting Days,</l>
+            <l xml:id="swift-676-34BL-line-12" n="12">Thy Grate unconscious of a Blaze,</l>
+            <l xml:id="swift-676-34BL-line-13" n="13">om.</l>
+            <l xml:id="swift-676-34BL-line-14" n="14">om.</l>
+            <l xml:id="swift-676-34BL-line-15" n="15">om.</l>
+            <l xml:id="swift-676-34BL-line-16" n="16">om.</l>
+            <l xml:id="swift-676-34BL-line-17" n="17">And, to compleat thy other Curses,</l>
+            <l xml:id="swift-676-34BL-line-18" n="18">The Quarterly Demands of Nurses,</l>
+            <l xml:id="swift-676-34BL-line-19" n="19">Are Ills you wisely wish to leave,</l>
+            <l xml:id="swift-676-34BL-line-20" n="20">And fly for Refuge to the Grave:</l>
+            <l xml:id="swift-676-34BL-line-21" n="21">And, O what Virtue you express</l>
+            <l xml:id="swift-676-34BL-line-22" n="22">In wishing such Afflictions less!</l>
+            <l rend="indent(1)" xml:id="swift-676-34BL-line-23" n="23">But now shou'd Fortune shift the Scene,</l>
+            <l xml:id="swift-676-34BL-line-24" n="24">And make thy Curate-ship a Dean;</l>
+            <l xml:id="swift-676-34BL-line-25" n="25">Or some rich Benefice provide,</l>
+            <l xml:id="swift-676-34BL-line-26" n="26">To pamper Luxury and Pride;</l>
+            <l xml:id="swift-676-34BL-line-27" n="27">With Labour small, and Income great;</l>
+            <l xml:id="swift-676-34BL-line-28" n="28">With Chariot, less for Use than State;</l>
+            <l xml:id="swift-676-34BL-line-29" n="29">With swelling Scarf, and glossy Gown,</l>
+            <l xml:id="swift-676-34BL-line-30" n="30">And License to reside in Town;</l>
+            <l xml:id="swift-676-34BL-line-31" n="31">To shine, where all the Gay resort,</l>
+            <l xml:id="swift-676-34BL-line-32" n="32">At Consort, Coffee house or Court;</l>
+            <l xml:id="swift-676-34BL-line-33" n="33">And Weekly persecute his Grace</l>
+            <l xml:id="swift-676-34BL-line-34" n="34">With Visits, or to beg a Place;</l>
+            <l xml:id="swift-676-34BL-line-35" n="35">With Underlings thy Flock to teach,</l>
+            <l xml:id="swift-676-34BL-line-36" n="36">With no Desire to pray or preach;</l>
+            <l xml:id="swift-676-34BL-line-37" n="37">With haughty Spouse in Vesture fine,</l>
+            <l xml:id="swift-676-34BL-line-38" n="38">With plenteous Meals, and gen'rous Wine;</l>
+            <l xml:id="swift-676-34BL-line-39" n="39">Wou'dst thou not wish, in so much Ease,</l>
+            <l xml:id="swift-676-34BL-line-40" n="40">Thy Years as num'rous as thy Days?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

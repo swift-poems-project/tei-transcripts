@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE LAST DAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 3FE08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-80SA">
+          <head type="note" n="1" xml:id="spp-578-80SA-headnote-1">
+            <lg n="1" xml:id="spp-578-80SA-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-80SA-headnote-1-line-group-1-line-1"><hi rend="italics">By Dr. </hi>SWIFT<hi rend="italics">, never before printed</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-80SA-headnote-2">
+            <lg n="1" xml:id="spp-578-80SA-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-80SA-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-80SA-headnote-3">
+            <lg n="1" xml:id="spp-578-80SA-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-80SA-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-80SA-line-1" n="1"><hi rend="display-initial">W</hi>ITH a Whirl of Thought opprest,</l>
+            <l xml:id="swift-578-80SA-line-2" n="2">I sunk from Reverie to Rest.</l>
+            <l xml:id="swift-578-80SA-line-3" n="3">A dreadful Vision seiz'd my Head,</l>
+            <l xml:id="swift-578-80SA-line-4" n="4">I saw the Graves give up their Dead;</l>
+            <l xml:id="swift-578-80SA-line-5" n="5">Jove arm'd with Terrors, burst the Skies,</l>
+            <l xml:id="swift-578-80SA-line-6" n="6">And Thunder roars, and Lightning flies.</l>
+            <l xml:id="swift-578-80SA-line-7" n="7">Amaz'd, confus'd, its Fate unknown,</l>
+            <l xml:id="swift-578-80SA-line-8" n="8">The World stands trembling at his Throne;</l>
+            <l xml:id="swift-578-80SA-line-9" n="9">While each pale Sinner hangs his Head,</l>
+            <l xml:id="swift-578-80SA-line-10" n="10">Jove nodding, shook the Heavens, and said,</l>
+            <l xml:id="swift-578-80SA-line-11" n="11">“Offending Race of Human-kind,</l>
+            <l xml:id="swift-578-80SA-line-12" n="12">By Nature, Reason, Learning blind,</l>
+            <l xml:id="swift-578-80SA-line-13" n="13">You who thro' Frailty stepp'd aside,</l>
+            <l xml:id="swift-578-80SA-line-14" n="14">And you who never fell thro' Pride;</l>
+            <l xml:id="swift-578-80SA-line-15" n="15">All you who different Sects have shamm'd,</l>
+            <l xml:id="swift-578-80SA-line-16" n="16">And come to see each other damn'd;</l>
+            <l xml:id="swift-578-80SA-line-17" n="17">So some Folks told you, but they knew</l>
+            <l xml:id="swift-578-80SA-line-18" n="18">No more of Jove's Designs than you.</l>
+            <l xml:id="swift-578-80SA-line-19" n="19">The World's mad Business now is o'er,</l>
+            <l xml:id="swift-578-80SA-line-20" n="20">And I present such Pranks no more.</l>
+            <l xml:id="swift-578-80SA-line-21" n="21">I──── at such Blockheads set my Wit,</l>
+            <l xml:id="swift-578-80SA-line-22" n="22">I──── damn such Fools; go, go, you're bit.”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

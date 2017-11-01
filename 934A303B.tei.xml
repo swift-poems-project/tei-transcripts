@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Riddle y<hi rend="superscript">e</hi> Sixth</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 11NO02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="934A303B">
+          <head type="note" n="1" xml:id="spp-934A303B-headnote-1">
+            <lg n="1" xml:id="spp-934A303B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-934A303B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-934A303B-headnote-2">
+            <lg n="1" xml:id="spp-934A303B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-934A303B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-934A303B-headnote-3">
+            <lg n="1" xml:id="spp-934A303B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-934A303B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-934A303B-line-1" n="1">Most things by me do rise and fall</l>
+            <l xml:id="swift-934A303B-line-2" n="2">And as I please, Are great── and Small</l>
+            <l xml:id="swift-934A303B-line-3" n="3">Invading foes── w<hi rend="superscript">th</hi>,out resistance</l>
+            <l xml:id="swift-934A303B-line-4" n="4">W<hi rend="superscript">th</hi>, Ease I make, to keep their distance</l>
+            <l xml:id="swift-934A303B-line-5" n="5">Again── as Im dispos'd the Foe</l>
+            <l xml:id="swift-934A303B-line-6" n="6">Will come── tho not A foot they goe</l>
+            <l xml:id="swift-934A303B-line-7" n="7">Both Mountains── Woods── and Hills── and Rocks</l>
+            <l xml:id="swift-934A303B-line-8" n="8">And climbing Goats── and fleecy Flocks</l>
+            <l xml:id="swift-934A303B-line-9" n="9">And low'ing Herds── and piping swains</l>
+            <l xml:id="swift-934A303B-line-10" n="10">Come dancing to me── oe'r y<hi rend="superscript">e</hi> plains</l>
+            <l xml:id="swift-934A303B-line-11" n="11">The greatest Whale yt swims the Sea</l>
+            <l xml:id="swift-934A303B-line-12" n="12">Does instantly, my Power obey</l>
+            <l xml:id="swift-934A303B-line-13" n="13">In vain from me y<hi rend="superscript">e</hi> Sailor flys</l>
+            <l xml:id="swift-934A303B-line-14" n="14">The quickest Ship I can surprise</l>
+            <l xml:id="swift-934A303B-line-15" n="15">And turn it as I have A mind</l>
+            <l xml:id="swift-934A303B-line-16" n="16">And move it── Against wind and Tide</l>
+            <l xml:id="swift-934A303B-line-17" n="17">Nay bring me here── the tallest Man</l>
+            <l xml:id="swift-934A303B-line-18" n="18">I'll squeese him to y<hi rend="superscript">e</hi> smallest span</l>
+            <l xml:id="swift-934A303B-line-19" n="19">Or bring A tender Child── and Plyant</l>
+            <l xml:id="swift-934A303B-line-20" n="20">I'le stretch him for you to A Gyant</l>
+            <l xml:id="swift-934A303B-line-21" n="21">Nor shall they, in the least Complain</l>
+            <l xml:id="swift-934A303B-line-22" n="22">Because my Magick gives no pain</l>
+            <l rend="indent(1)" xml:id="swift-934A303B-line-23" n="23"><lb/>Coud I oer passions── thus preside</l>
+            <l xml:id="swift-934A303B-line-24" n="24">I'd sink y<hi rend="superscript">e</hi> haughty Monarchs pride.</l>
+            <l xml:id="swift-934A303B-line-25" n="25">The Lover's Pain── ye mourner's Grief</l>
+            <l xml:id="swift-934A303B-line-26" n="26">From me sh<hi rend="superscript">d</hi> both receive relief</l>
+            <l xml:id="swift-934A303B-line-27" n="27">I'd use my Powr Mankind to bless</l>
+            <l xml:id="swift-934A303B-line-28" n="28">To make Joys great── and Sorrows less────</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

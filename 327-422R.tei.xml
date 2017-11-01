@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPIGRAM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB 14FE95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="327-422R">
+          <head type="note" n="1" xml:id="spp-327-422R-headnote-1">
+            <lg n="1" xml:id="spp-327-422R-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-327-422R-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-327-422R-headnote-2">
+            <lg n="1" xml:id="spp-327-422R-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-327-422R-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-327-422R-headnote-3">
+            <lg n="1" xml:id="spp-327-422R-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-327-422R-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-327-422R-line-1" n="1">\S·<hi rend="italics">pencilled·left·margin</hi>\<hi rend="display-initial">A</hi>S <hi rend="italics">Thomas</hi> was cudgell'd one Day by his Wife,</l>
+            <l xml:id="swift-327-422R-line-2" n="2">He took to the Street, and fled for his Life;</l>
+            <l xml:id="swift-327-422R-line-3" n="3"><hi rend="italics">Tom</hi>'s three dearest Friends came by in the Squabble,</l>
+            <l xml:id="swift-327-422R-line-4" n="4">And sav'd him at once from the Shrew and the Rabble;</l>
+            <l xml:id="swift-327-422R-line-5" n="5">Then ventur'd to give him some sober Advice──</l>
+            <l xml:id="swift-327-422R-line-6" n="6">But, <hi rend="italics">Tom</hi> is a Person of Honour so nice,</l>
+            <l xml:id="swift-327-422R-line-7" n="7">Too wise to take Council, too proud to take Warning,</l>
+            <l xml:id="swift-327-422R-line-8" n="8">That he sent to all Three a Challenge next Morning:</l>
+            <l xml:id="swift-327-422R-line-9" n="9">Three Duels he fought, thrice ventur'd his Life;</l>
+            <l xml:id="swift-327-422R-line-10" n="10">Went home, and was cudgell'd again by his Wife.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

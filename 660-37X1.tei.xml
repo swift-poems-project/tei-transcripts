@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SONG MCLI,<lb/>  <hi rend="italics">Lhe unhappy Lover</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 30JE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="660-37X1">
+          <head type="note" n="1" xml:id="spp-660-37X1-headnote-1">
+            <lg n="1" xml:id="spp-660-37X1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-660-37X1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-660-37X1-headnote-2">
+            <lg n="1" xml:id="spp-660-37X1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-660-37X1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-660-37X1-headnote-3">
+            <lg n="1" xml:id="spp-660-37X1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-660-37X1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-660-37X1-line-1" n="1"><hi rend="display-initial">F</hi>Lutt'ring, spread thy purple pinions,</l>
+            <l xml:id="swift-660-37X1-line-2" n="2">Gentle Cupid, o'er my hart</l>
+            <l xml:id="swift-660-37X1-line-3" n="3">I a slave in thy dominions,</l>
+            <l xml:id="swift-660-37X1-line-4" n="4">Nature must give way to art,</l>
+            <l xml:id="swift-660-37X1-line-5" n="5">Mild Arcadians every blooming,</l>
+            <l xml:id="swift-660-37X1-line-6" n="6">Nightly nodding o'er your flocks,</l>
+            <l xml:id="swift-660-37X1-line-7" n="7">Seelng weary days consuming,</l>
+            <l xml:id="swift-660-37X1-line-8" n="8">All beneath you flow'ry Rocks.</l>
+            <l xml:id="swift-660-37X1-line-9" n="9"><lb/>Thus, the Cyprian Goddess weeping,</l>
+            <l xml:id="swift-660-37X1-line-10" n="10">Mourn'd Adonis darling youth;</l>
+            <l xml:id="swift-660-37X1-line-11" n="11">Him, the Boar, in silence creeping,</l>
+            <l xml:id="swift-660-37X1-line-12" n="12">Gor'd with unrelenting tooth.</l>
+            <l xml:id="swift-660-37X1-line-13" n="13">Cynthia tune harmonious Numbers.</l>
+            <l xml:id="swift-660-37X1-line-14" n="14">Fair Discretion string thy lyr,</l>
+            <l xml:id="swift-660-37X1-line-15" n="15">Sooth my ever waking slumbers,</l>
+            <l xml:id="swift-660-37X1-line-16" n="16">Bright Apollo lend thy Choir.</l>
+            <l xml:id="swift-660-37X1-line-17" n="17"><lb/>Gloomy Pluto King of terrcrs,</l>
+            <l xml:id="swift-660-37X1-line-18" n="18">Armd in Adamantine chains,</l>
+            <l xml:id="swift-660-37X1-line-19" n="19">Lead me to the Chrystal Mirrors,</l>
+            <l xml:id="swift-660-37X1-line-20" n="20">Watring soft Elusion Plains.</l>
+            <l xml:id="swift-660-37X1-line-21" n="21">Mournful Cypress verdant willow,</l>
+            <l xml:id="swift-660-37X1-line-22" n="22">Gilding my Aurelia's brow.</l>
+            <l xml:id="swift-660-37X1-line-23" n="23">Morpheus hov'ring o'er my Pillow,</l>
+            <l xml:id="swift-660-37X1-line-24" n="24">Hear me pay my dying Vow.</l>
+            <l xml:id="swift-660-37X1-line-25" n="25"><lb/>Melancholly sooth Meander,</l>
+            <l xml:id="swift-660-37X1-line-26" n="26">Swiftly purling in a round,</l>
+            <l xml:id="swift-660-37X1-line-27" n="27">On thy Margin Lovers wander,</l>
+            <l xml:id="swift-660-37X1-line-28" n="28">With thy flow'ry Chaplets crown'd,</l>
+            <l xml:id="swift-660-37X1-line-29" n="29">Thus when Philomella drooping,</l>
+            <l xml:id="swift-660-37X1-line-30" n="30">Softly seeks some silent mate:</l>
+            <l xml:id="swift-660-37X1-line-31" n="31">See the Bird of Juno hooping</l>
+            <l xml:id="swift-660-37X1-line-32" n="32">Melody resigns to Fate.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

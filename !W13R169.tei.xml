@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Rev<hi rend="superscript">d.</hi> Dr. <hi rend="italics">S</hi>---- Answer to the Di-<lb/>  stress'd Maids Petition,<lb/>  Being a State of the Case, setting forth<lb/>  the Plaintiffs Condition.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 20JA11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="0021W13R169">
+          <head type="note" n="1" xml:id="spp-0021W13R169-headnote-1">
+            <lg n="1" xml:id="spp-0021W13R169-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W13R169-headnote-1-line-group-1-line-1"><hi rend="italics">Ditto</hi>, In Imitation of <hi rend="italics">Frances Harris</hi>'s Petition.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-0021W13R169-headnote-2">
+            <lg n="1" xml:id="spp-0021W13R169-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W13R169-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-0021W13R169-headnote-3">
+            <lg n="1" xml:id="spp-0021W13R169-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W13R169-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

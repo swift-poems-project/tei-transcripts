@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>E<hi rend="small-caps">PIGRAM</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 4AU04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="809-04M2">
+          <head type="note" n="1" xml:id="spp-809-04M2-headnote-1">
+            <lg n="1" xml:id="spp-809-04M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-809-04M2-headnote-1-line-group-1-line-1"><hi rend="italics">On seeing a worthy Prelate go out of Church in the Time of </hi>Divine Service<hi rend="italics">, to wait on his Grace the D. of</hi> D────</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-809-04M2-headnote-2">
+            <lg n="1" xml:id="spp-809-04M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-809-04M2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-809-04M2-headnote-3">
+            <lg n="1" xml:id="spp-809-04M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-809-04M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-809-04M2-line-1" n="1"><hi rend="display-initial">L</hi>ORD <hi rend="italics">Pam</hi> in the Church (cou'd you think it) kneel'd down,</l>
+            <l xml:id="swift-809-04M2-line-2" n="2">When told the Lieutenant was just come to Town,</l>
+            <l xml:id="swift-809-04M2-line-3" n="3">His <hi rend="italics">Station</hi> despising, unaw'd by the <hi rend="italics">Place</hi>,</l>
+            <l xml:id="swift-809-04M2-line-4" n="4">He flies from his <hi rend="italics">God</hi>, to attend on his <hi rend="italics">Grace</hi>:</l>
+            <l xml:id="swift-809-04M2-line-5" n="5">To the <hi rend="italics">Court</hi> it was fitter to pay his <hi rend="italics">Devotion</hi>,</l>
+            <l xml:id="swift-809-04M2-line-6" n="6">Since <hi rend="italics">God</hi> had no Hand in his Lordship's <hi rend="italics">Promotion</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

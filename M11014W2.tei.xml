@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON GAULSTOWN HOUSE,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 2AU04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M11014W2">
+          <head type="note" n="1" xml:id="spp-M11014W2-headnote-1">
+            <lg n="1" xml:id="spp-M11014W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11014W2-headnote-1-line-group-1-line-1">THE SEAT OF GEORGE ROCHFORT, ESQ.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M11014W2-headnote-2">
+            <lg n="1" xml:id="spp-M11014W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11014W2-headnote-2-line-group-1-line-1">BY DR DELANY.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M11014W2-headnote-3">
+            <lg n="1" xml:id="spp-M11014W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11014W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M11014W2-line-1" n="1">'T<hi rend="small-caps">IS</hi> so old and so ugly, and yet so convenient,</l>
+            <l xml:id="swift-M11014W2-line-2" n="2">You're sometimes in pleasure, though often in pain in't;</l>
+            <l xml:id="swift-M11014W2-line-3" n="3">'Tis so large you may lodge a few friends with ease in't,</l>
+            <l xml:id="swift-M11014W2-line-4" n="4">You may turn and stretch at your length if you please in't;</l>
+            <l xml:id="swift-M11014W2-line-5" n="5">'Tis so little, the family live in a press in't,</l>
+            <l xml:id="swift-M11014W2-line-6" n="6">And poor Lady Betty <note place="foot">·Daughter of the Earl of Drogheda, and married to George Rochfort, Esq.── F.</note> has scarce room to dress in't;</l>
+            <l xml:id="swift-M11014W2-line-7" n="7">'Tis so cold in the winter, you can't bear to lie in't,</l>
+            <l xml:id="swift-M11014W2-line-8" n="8">And so hot in the summer, you're ready to fry in't;</l>
+            <l xml:id="swift-M11014W2-line-9" n="9">'Tis so brittle 'twould scarce bear the weight of a tun,</l>
+            <l xml:id="swift-M11014W2-line-10" n="10">Yet so staunch, that it keeps out a great deal of sun;</l>
+            <l xml:id="swift-M11014W2-line-11" n="11">'Tis so crazy, the weather with ease beats quite through it,</l>
+            <l xml:id="swift-M11014W2-line-12" n="12">And you're forced every year in some part to renew it;</l>
+            <l xml:id="swift-M11014W2-line-13" n="13">'Tis so ugly, so useful, so big, and so little,</l>
+            <l xml:id="swift-M11014W2-line-14" n="14">'Tis so staunch and so crazy, so strong and so brittle,</l>
+            <l xml:id="swift-M11014W2-line-15" n="15">'Tis at one time so hot, and another so cold,</l>
+            <l xml:id="swift-M11014W2-line-16" n="16">It is part of the new, and part of the old;</l>
+            <l xml:id="swift-M11014W2-line-17" n="17">It is just half a blessing, and just half a curse──</l>
+            <l xml:id="swift-M11014W2-line-18" n="18">I wish then, dear George, it were better or worse.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

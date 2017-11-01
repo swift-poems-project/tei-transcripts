@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Huze:<lb/>  <hi rend="small-caps">OR</hi>,<lb/>  The D--n's ANSWER<lb/>  TO THE<lb/>  LULLABY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 6MR93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y35AL322">
+          <head type="note" n="1" xml:id="spp-Y35AL322-headnote-1">
+            <lg n="1" xml:id="spp-Y35AL322-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y35AL322-headnote-1-line-group-1-line-1">──────Risus Risum.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y35AL322-headnote-2">
+            <lg n="1" xml:id="spp-Y35AL322-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y35AL322-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y35AL322-headnote-3">
+            <lg n="1" xml:id="spp-Y35AL322-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y35AL322-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y35AL322-line-1" n="1"><hi rend="display-initial">O</hi> My little <hi rend="italics">F────y</hi>, sweet <hi rend="italics">F────y</hi>,</l>
+            <l xml:id="swift-Y35AL322-line-2" n="2">O my Nown <hi rend="italics">P────y Du──────y</hi>;</l>
+            <l xml:id="swift-Y35AL322-line-3" n="3">Scribble a Song for his G──────ce,</l>
+            <l xml:id="swift-Y35AL322-line-4" n="4">And he surely will make'e a D──────:</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-5" n="5">For sure thy Punns and thy Fables,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-6" n="6">Your exquisite taste o' the Fashion,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-7" n="7">Shews us that you are designed</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-8" n="8">One of the K─────── of this Nation.</l>
+            <l xml:id="swift-Y35AL322-line-9" n="9"><lb/>Chear up your Heart, mine Honey,</l>
+            <l xml:id="swift-Y35AL322-line-10" n="10">And your Cheeks as red as a Rosey;</l>
+            <l xml:id="swift-Y35AL322-line-11" n="11">Sit with nown Wife, and Write</l>
+            <l xml:id="swift-Y35AL322-line-12" n="12">Some sweet Ballad or Pomey:</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-13" n="13">Your Pomeys, indeed, will make'e,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-14" n="14">If "ou <hi rend="italics">them</hi> closely follow,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-15" n="15">A B────p or D────n at least,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-16" n="16">Or, perhaps, another <hi rend="italics">Apollo</hi>.</l>
+            <l xml:id="swift-Y35AL322-line-17" n="17"><lb/>We was a P──────d and C──────te,</l>
+            <l xml:id="swift-Y35AL322-line-18" n="18">And we was a F─────── o' the C──────;</l>
+            <l xml:id="swift-Y35AL322-line-19" n="19">And we have got us a Wife,</l>
+            <l xml:id="swift-Y35AL322-line-20" n="20">Efekins by Learning and Knowledge:</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-21" n="21">Our Wife we'll dearly love,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-22" n="22">And Nurse from Morn 'till Night,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-23" n="23">And when she cries Eke,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-24" n="24">We'll hold her out to S───e.</l>
+            <l xml:id="swift-Y35AL322-line-25" n="25"><lb/>Were was a Sneer and a Smile?</l>
+            <l xml:id="swift-Y35AL322-line-26" n="26">And, were was a fawning Expression?</l>
+            <l xml:id="swift-Y35AL322-line-27" n="27">Were was a sanctify'd Leer?</l>
+            <l xml:id="swift-Y35AL322-line-28" n="28">And, were was a design'd Carressing?</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-29" n="29">When People are Married, the're foolish,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-30" n="30">And that's thy Case, dear <hi rend="italics">Du─────y</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-31" n="31">Should <hi rend="italics">P────y</hi> chance to prove W---sh,</l>
+            <l rend="indent(1)" xml:id="swift-Y35AL322-line-32" n="32">You'd be worse off than <hi rend="italics">J--n .n</hi> D────y.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

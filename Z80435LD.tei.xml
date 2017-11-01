@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">To the Author of a Poem call'd the</hi> Furniture<lb/>  of a Woman's Mind.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 13OC98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z80435LD">
+          <head type="note" n="1" xml:id="spp-Z80435LD-headnote-1">
+            <lg n="1" xml:id="spp-Z80435LD-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z80435LD-headnote-1-line-group-1-line-1">(<hi rend="italics">See p</hi>. 93)</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z80435LD-headnote-2">
+            <lg n="1" xml:id="spp-Z80435LD-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z80435LD-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z80435LD-headnote-3">
+            <lg n="1" xml:id="spp-Z80435LD-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z80435LD-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z80435LD-line-1" n="1"><hi rend="display-initial">I</hi>LLUSTRIOUS Doctor! pray excuse</l>
+            <l xml:id="swift-Z80435LD-line-2" n="2">The sallies of a female muse.</l>
+            <l xml:id="swift-Z80435LD-line-3" n="3">You criticise, tho' deaf, and blinking,</l>
+            <l xml:id="swift-Z80435LD-line-4" n="4">On our bad <hi rend="italics">English</hi>, dressing, thinking.</l>
+            <l xml:id="swift-Z80435LD-line-5" n="5">Now you'r become morose and stupid,</l>
+            <l xml:id="swift-Z80435LD-line-6" n="6">Secure against the darts of <hi rend="italics">Cupid</hi>;</l>
+            <l xml:id="swift-Z80435LD-line-7" n="7">Old <hi rend="italics">Pegasus</hi> you gall and tire,</l>
+            <l xml:id="swift-Z80435LD-line-8" n="8">To spatter us with dirt and mire.</l>
+            <l xml:id="swift-Z80435LD-line-9" n="9">It's to the world vast information,</l>
+            <l xml:id="swift-Z80435LD-line-10" n="10">To tell we're fond of dress and fashion;</l>
+            <l xml:id="swift-Z80435LD-line-11" n="11">And to the publick mighty useful,</l>
+            <l xml:id="swift-Z80435LD-line-12" n="12">To read of dirty shift and close-st--l.</l>
+            <l xml:id="swift-Z80435LD-line-13" n="13">We <hi rend="italics">never hold our tongues a minute</hi>,</l>
+            <l xml:id="swift-Z80435LD-line-14" n="14"><hi rend="italics">Tho' all </hi>we<hi rend="italics"> say has nothing in it</hi>:</l>
+            <l xml:id="swift-Z80435LD-line-15" n="15">Who's in the fault? if our <note place="foot">·<hi rend="italics">According to Mr. </hi>Locke<hi rend="italics"> who won't allow innate Ideas</hi>.</note> creator</l>
+            <l xml:id="swift-Z80435LD-line-16" n="16">Forms souls as blank as spotless paper;</l>
+            <l xml:id="swift-Z80435LD-line-17" n="17">Then ladies by scholastick knowledge,</l>
+            <l xml:id="swift-Z80435LD-line-18" n="18">Improv'd by tutors sent to college,</l>
+            <l xml:id="swift-Z80435LD-line-19" n="19">Might tell a mood, a noun, or case,</l>
+            <l xml:id="swift-Z80435LD-line-20" n="20">As ready as the price of lace:</l>
+            <l xml:id="swift-Z80435LD-line-21" n="21">Might read old <hi rend="italics">Homer</hi> with more skill,</l>
+            <l xml:id="swift-Z80435LD-line-22" n="22">Than chuse a silk, or play quadrill;</l>
+            <l xml:id="swift-Z80435LD-line-23" n="23">Wou'd like a <hi rend="italics">Boyle</hi> before a <hi rend="italics">Handall</hi>,</l>
+            <l xml:id="swift-Z80435LD-line-24" n="24">Nor doat on coxcombs, or on scandal.</l>
+            <l xml:id="swift-Z80435LD-line-25" n="25">A skilful poet, like a painter,</l>
+            <l xml:id="swift-Z80435LD-line-26" n="26">Whether he's serious or in banter,</l>
+            <l xml:id="swift-Z80435LD-line-27" n="27">Keeps madam nature in his eye,</l>
+            <l xml:id="swift-Z80435LD-line-28" n="28">Or else the work's not worth a fly.</l>
+            <l xml:id="swift-Z80435LD-line-29" n="29">But you so far exceed her rules,</l>
+            <l xml:id="swift-Z80435LD-line-30" n="30">And make our sex such monstrous fools,</l>
+            <l xml:id="swift-Z80435LD-line-31" n="31">That were all men to think like you,</l>
+            <l xml:id="swift-Z80435LD-line-32" n="32">A chaos must of course ensue.</l>
+            <l xml:id="swift-Z80435LD-line-33" n="33">Your brother poets you have long since</l>
+            <l xml:id="swift-Z80435LD-line-34" n="34">Accus'd of most egregious nonsense;</l>
+            <l xml:id="swift-Z80435LD-line-35" n="35">You'r now become as good a diver,</l>
+            <l xml:id="swift-Z80435LD-line-36" n="36">As <hi rend="italics">Dennis, Philips</hi>, or <hi rend="italics">Ce--livre</hi>.</l>
+            <l xml:id="swift-Z80435LD-line-37" n="37">In your new region take the chair,</l>
+            <l xml:id="swift-Z80435LD-line-38" n="38"><hi rend="italics">B----more</hi> resign, he's rightful heir.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

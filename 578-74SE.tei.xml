@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the D<hi rend="small-caps">AY</hi> of J<hi rend="small-caps">UDGEMENT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 31MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-74SE">
+          <head type="note" n="1" xml:id="spp-578-74SE-headnote-1">
+            <lg n="1" xml:id="spp-578-74SE-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-1-line-group-1-line-1">By D<hi rend="small-caps">EAN </hi>S<hi rend="small-caps">WIFT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-74SE-headnote-2">
+            <lg n="1" xml:id="spp-578-74SE-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-2-line-group-1-line-1">To the Printer of The S. J. CHRONICLE.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-74SE-headnote-3">
+            <lg n="1" xml:id="spp-578-74SE-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-3-line-group-1-line-1">Mr. Baldwin,</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-578-74SE-headnote-4">
+            <lg n="1" xml:id="spp-578-74SE-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-4-line-group-1-line-1"><hi rend="display-initial">I</hi>N return for the Pleasure which I often receive from the Perusal of your agreeable miscellaneous Paper, I send you an original Poem of Dean Swift's, which he never published. The discerning Part of your Readers will be at no Loss to guess at the Dean's Reasons for not making this Piece public. His Brethren of the Cloth would certainly never have forgiven him, even though his Satire seems to be levelled only at the <hi rend="italics">Fanatics</hi>. You may be assured of the Authenticity of this little Poem, when I refer you to the Authority of Lord Chesterfield, who mentions it in Letter 66 of the 2d Vol. of the Collection just published. His Lordship expressly says he had the Original, in the Dean's own Hand-writing; but there is no Copy of it in the Earl's Book. I am happy, however, in having it in my Power to send you a correct Copy for the Entertainment of your Readers.</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-578-74SE-headnote-5">
+            <lg n="1" xml:id="spp-578-74SE-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-5-line-group-1-line-1">I am, Sir, &amp;c.</l>
+            </lg>
+          </head>
+          <head type="note" n="6" xml:id="spp-578-74SE-headnote-6">
+            <lg n="1" xml:id="spp-578-74SE-headnote-6-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-6-line-group-1-line-1">MERCUTIO.</l>
+            </lg>
+          </head>
+          <head type="note" n="7" xml:id="spp-578-74SE-headnote-7">
+            <lg n="1" xml:id="spp-578-74SE-headnote-7-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-74SE-headnote-7-line-group-1-line-1"><hi rend="italics">Kensington, <lb/> April</hi> 7.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-74SE-line-1" n="1">WITH a Whirl of Thought oppress'd,</l>
+            <l xml:id="swift-578-74SE-line-2" n="2">I sink from Reverie to Rest.</l>
+            <l xml:id="swift-578-74SE-line-3" n="3">An horrid Vision seiz'd my Head,</l>
+            <l xml:id="swift-578-74SE-line-4" n="4">I saw the Graves give up their Dead.</l>
+            <l xml:id="swift-578-74SE-line-5" n="5">Jove, arm'd with Terrors, burst the Skies,</l>
+            <l xml:id="swift-578-74SE-line-6" n="6">And Thunder roars, and Light'ning flies!</l>
+            <l xml:id="swift-578-74SE-line-7" n="7">Amaz'd, confus'd, its Fate unknown,</l>
+            <l xml:id="swift-578-74SE-line-8" n="8">The World stands trembling at his Throne.</l>
+            <l xml:id="swift-578-74SE-line-9" n="9">While each pale Sinner hangs his Head,</l>
+            <l xml:id="swift-578-74SE-line-10" n="10">Jove, nodding, shook the Heav'ns, and said,</l>
+            <l xml:id="swift-578-74SE-line-11" n="11">“Offending Race of Human Kind,</l>
+            <l xml:id="swift-578-74SE-line-12" n="12">By Nature, Reason, Learning, blind;</l>
+            <l xml:id="swift-578-74SE-line-13" n="13">You who thro' Frailty step'd aside,</l>
+            <l xml:id="swift-578-74SE-line-14" n="14">And you who never fell── <hi rend="italics">thro' Pride</hi>;</l>
+            <l xml:id="swift-578-74SE-line-15" n="15">You who in different Sects have shamm'd,</l>
+            <l xml:id="swift-578-74SE-line-16" n="16">And come to see each other damn'd;</l>
+            <l xml:id="swift-578-74SE-line-17" n="17">(So some Folks told you, but they knew</l>
+            <l xml:id="swift-578-74SE-line-18" n="18">No more of Jove's Designs than you)</l>
+            <l xml:id="swift-578-74SE-line-19" n="19">The World's mad Business now is o'er,</l>
+            <l xml:id="swift-578-74SE-line-20" n="20">And I resent these Pranks no more.</l>
+            <l xml:id="swift-578-74SE-line-21" n="21">I to such Blockheads set my Wit!</l>
+            <l xml:id="swift-578-74SE-line-22" n="22">I damn such Fools!── Go, go, you're bit.”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

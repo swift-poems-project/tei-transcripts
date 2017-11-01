@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Paulus<lb/>  By M<hi rend="superscript">r</hi> L──────.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 5FE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 2JL04; ed. JW 15OC17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="432A800Z">
+          <head type="note" n="1" xml:id="spp-432A800Z-headnote-1">
+            <lg n="1" xml:id="spp-432A800Z-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A800Z-headnote-1-line-group-1-line-1">Sept<hi rend="superscript">br</hi> 7<hi rend="superscript">th</hi> 1728.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-432A800Z-headnote-2">
+            <lg n="1" xml:id="spp-432A800Z-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A800Z-headnote-2-line-group-1-line-1">N<hi rend="superscript">r</hi> 4</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-432A800Z-headnote-3">
+            <lg n="1" xml:id="spp-432A800Z-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A800Z-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-432A800Z-line-1" n="1">A slave to cro\w·<hi rend="italics">over</hi>·u\ds, scortch't with the summers heats,</l>
+            <l xml:id="swift-432A800Z-line-2" n="2">In Court the wretched Lawyer toyls and sweats</l>
+            <l xml:id="swift-432A800Z-line-3" n="3">While smiling Nature in her best attire</l>
+            <l xml:id="swift-432A800Z-line-4" n="4">Does sooth each sense and vernal joy inspire.</l>
+            <l xml:id="swift-432A800Z-line-5" n="5">Can he, who knows that real good should please</l>
+            <l xml:id="swift-432A800Z-line-6" n="6">Barter for gold his Liberty and Ease?</l>
+            <l rend="indent(1)" xml:id="swift-432A800Z-line-7" n="7">Thus Paulus preach'd: When entring at the door</l>
+            <l xml:id="swift-432A800Z-line-8" n="8">Upon his board a Clyent pours the ore:</l>
+            <l xml:id="swift-432A800Z-line-9" n="9">He grasps the shining gift, pores o'er the Cause,</l>
+            <l xml:id="swift-432A800Z-line-10" n="10">Forgets the S\u·<hi rend="italics">over</hi>·a\n, and dozes on the Laws.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

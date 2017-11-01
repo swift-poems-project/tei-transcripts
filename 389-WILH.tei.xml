@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES ON THE<lb/>  REVIVAL OF THE ORDER<lb/>  OF THE BATH</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="389-WILH">
+          <head type="note" n="1" xml:id="spp-389-WILH-headnote-1">
+            <lg n="1" xml:id="spp-389-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-WILH-headnote-1-line-group-1-line-1">About 1726 The Order of the Bath was instituted or revived, under the ministry of S<hi rend="superscript">r</hi> Rob<hi rend="superscript">t</hi>. Walpole.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-389-WILH-headnote-2">
+            <lg n="1" xml:id="spp-389-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-389-WILH-headnote-3">
+            <lg n="1" xml:id="spp-389-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-389-WILH-line-1" n="1">Quoth King Robin, our Ribbands I see are too few</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-2" n="2">of St Andrew's the Green, and S<hi rend="superscript">t</hi> George's the Blue</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-3" n="3">I must have another of Colour more gay</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-4" n="4">That will make all my Subjects with pride to obey.</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-5" n="5">Tho the Exchequer be drained by prodigal Donours</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-6" n="6">Our King ne'er exhausted his fountain of Honours.</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-7" n="7">Men of more Wit than Money, our Pensions will fit</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-8" n="8">And this will suit Men of more Money than Wit.</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-9" n="9">Thus my Subjects with pleasure will obey my Commands</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-10" n="10">Tho as empty as Younge and as saucy as Sandes</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-11" n="11">And he who will leap over a Stick for the King</l>
+            <l rend="indent(1)" xml:id="swift-389-WILH-line-12" n="12">Is qualified best for a Dog in a String.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

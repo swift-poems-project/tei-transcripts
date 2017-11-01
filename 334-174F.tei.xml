@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Serious Poem upon <hi rend="large-writing">William Wood</hi>, Brazier,<lb/>  Tinker, Hardware Man, Coyner, Founder, &amp; Esquire.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8JA97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 2NO01, 10DE05, 10JL09, 14JL13, 27JL14, 29MY16, 9MY17; tochk items resolved JW 5JE05; tochk item JW 10JL09 resolved JW 31JL15; ed. JW 9MY17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="334-174F">
+          <head type="note" n="1" xml:id="spp-334-174F-headnote-1">
+            <lg n="1" xml:id="spp-334-174F-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-174F-headnote-1-line-group-1-line-1">printed in Ireland, 1724.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-334-174F-headnote-2">
+            <lg n="1" xml:id="spp-334-174F-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-174F-headnote-2-line-group-1-line-1">This was made upon M<hi rend="superscript">r</hi> Woods obtaining a Patent to coyn Copper halfpence in Ireland, w<hi rend="superscript">ch</hi> proved much under the true Value.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-334-174F-headnote-3">
+            <lg n="1" xml:id="spp-334-174F-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-174F-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-334-174F-line-1" n="1">When Foes are o'ercome We preserve them from Slaughter,</l>
+            <l xml:id="swift-334-174F-line-2" n="2">To be Hewers of <hi rend="large-writing-underlined">Wood<hi rend="italics"/> and Drawers of Water;</hi></l>
+            <l xml:id="swift-334-174F-line-3" n="3">Now altho' to draw water is not very good,</l>
+            <l xml:id="swift-334-174F-line-4" n="4">Yet We all should rejoyce to be Hewers of <hi rend="large-writing-underlined">Wood</hi>.</l>
+            <l xml:id="swift-334-174F-line-5" n="5">I own it hath often provokd me to mutter,</l>
+            <l xml:id="swift-334-174F-line-6" n="6">That a rogue so obscure should make such a Clutter:</l>
+            <l xml:id="swift-334-174F-line-7" n="7">But ancient Philosophers wisely remark,</l>
+            <l xml:id="swift-334-174F-line-8" n="8">That old rotten <hi rend="large-writing-underlined">Wood</hi> will shine in the dark.</l>
+            <l xml:id="swift-334-174F-line-9" n="9">The Heathens we read had Gods made of Wood,</l>
+            <l xml:id="swift-334-174F-line-10" n="10">Who could do 'em no harm, if they did 'em no good,</l>
+            <l xml:id="swift-334-174F-line-11" n="11">But this Idol <hi rend="large-writing">Wood</hi> may do Us great evill,</l>
+            <l xml:id="swift-334-174F-line-12" n="12">Their Gods were of <hi rend="large-writing">Wood</hi>, but our Wood is the Devill.</l>
+            <l xml:id="swift-334-174F-line-13" n="13">To cutt down fine <hi rend="large-writing">Wood</hi> is a very bad thing,</l>
+            <l xml:id="swift-334-174F-line-14" n="14">And yet We all know much Gold it will bring,</l>
+            <l xml:id="swift-334-174F-line-15" n="15">Then if cutting down <hi rend="large-writing">Wood</hi> brings money good store,</l>
+            <l xml:id="swift-334-174F-line-16" n="16">Our money to keep lett us Cutt down one more.</l>
+            <l rend="indent(1)" xml:id="swift-334-174F-line-17" n="17">Now hear an old Tale: There anciently stood</l>
+            <l xml:id="swift-334-174F-line-18" n="18">(I forgett in what Church) an Image of Wood,</l>
+            <l xml:id="swift-334-174F-line-19" n="19">Concerning this Image there went a prediction,</l>
+            <l xml:id="swift-334-174F-line-20" n="20">It would burn a whole Forrest; nor was it a Fiction,</l>
+            <l xml:id="swift-334-174F-line-21" n="21">'Twas cutt into faggots, and putt to the flame,</l>
+            <l xml:id="swift-334-174F-line-22" n="22">To burn an old Fryar One Forrest by name,</l>
+            <l xml:id="swift-334-174F-line-23" n="23">My Tale is a wise one, if well understood,</l>
+            <l xml:id="swift-334-174F-line-24" n="24">Find You but the Fryar, and I'le find the <hi rend="large-writing">Wood</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-334-174F-line-25" n="25">I hear among schollars there is a great doubt,</l>
+            <l xml:id="swift-334-174F-line-26" n="26">From what kind of tree this <hi rend="large-writing">Wood</hi> was hewn out;</l>
+            <l xml:id="swift-334-174F-line-27" n="27">Teague made a good pun, by a brogue in his speech,</l>
+            <l xml:id="swift-334-174F-line-28" n="28">And said, By my shoul he's the Son of a <hi rend="large-writing">Beech</hi>;</l>
+            <l xml:id="swift-334-174F-line-29" n="29">Some call him a <hi rend="large-writing">Thorn</hi>, the curse of a Nation,</l>
+            <l xml:id="swift-334-174F-line-30" n="30">As thorns were designd to be from the Creation;</l>
+            <l xml:id="swift-334-174F-line-31" n="31">Some think him cutt out from the poisonous Yew,</l>
+            <l xml:id="swift-334-174F-line-32" n="32">Beneath whose ill shade no plant ever grew;</l>
+            <l xml:id="swift-334-174F-line-33" n="33">Some say he's a <hi rend="large-writing">Birch</hi>, a thought very odd,</l>
+            <l xml:id="swift-334-174F-line-34" n="34">For none but a Dunce would come under his Rod:</l>
+            <l xml:id="swift-334-174F-line-35" n="35">But I'll tell you the Secret, &amp; pray do not blab,</l>
+            <l xml:id="swift-334-174F-line-36" n="36">He is an old Stump cutt out of a <hi rend="italics">Crab</hi>,</l>
+            <l xml:id="swift-334-174F-line-37" n="37">And England has putt this Crab to a hard use,</l>
+            <l xml:id="swift-334-174F-line-38" n="38">To cudgell Our bones, &amp; for drink give us Verjuice;</l>
+            <l xml:id="swift-334-174F-line-39" n="39">And therefore his <hi rend="large-writing">Witnesses</hi> justly may boast,</l>
+            <l xml:id="swift-334-174F-line-40" n="40">That none are more properly Knights of the Post.</l>
+            <l xml:id="swift-334-174F-line-41" n="41">om.</l>
+            <l xml:id="swift-334-174F-line-42" n="42">om.</l>
+            <l xml:id="swift-334-174F-line-43" n="43">om.</l>
+            <l xml:id="swift-334-174F-line-44" n="44">om.</l>
+            <l xml:id="swift-334-174F-line-45" n="45">om.</l>
+            <l xml:id="swift-334-174F-line-46" n="46">om.</l>
+            <l xml:id="swift-334-174F-line-47" n="47">om.</l>
+            <l xml:id="swift-334-174F-line-48" n="48">om.</l>
+            <l xml:id="swift-334-174F-line-49" n="49">om.</l>
+            <l xml:id="swift-334-174F-line-50" n="50">om.</l>
+            <l xml:id="swift-334-174F-line-51" n="51">om.</l>
+            <l xml:id="swift-334-174F-line-52" n="52">om.</l>
+            <l xml:id="swift-334-174F-line-53" n="53">om.</l>
+            <l xml:id="swift-334-174F-line-54" n="54">om.</l>
+            <l xml:id="swift-334-174F-line-55" n="55">om.</l>
+            <l xml:id="swift-334-174F-line-56" n="56">om.</l>
+            <l xml:id="swift-334-174F-line-57" n="57">om.</l>
+            <l xml:id="swift-334-174F-line-58" n="58">om.</l>
+            <l xml:id="swift-334-174F-line-59" n="59">om.</l>
+            <l xml:id="swift-334-174F-line-60" n="60">om.</l>
+            <l xml:id="swift-334-174F-line-61" n="61">om.</l>
+            <l xml:id="swift-334-174F-line-62" n="62">om.</l>
+            <l xml:id="swift-334-174F-line-63" n="63">om.</l>
+            <l xml:id="swift-334-174F-line-64" n="64">om.</l>
+            <l xml:id="swift-334-174F-line-65" n="65">om.</l>
+            <l xml:id="swift-334-174F-line-66" n="66">om.</l>
+            <l xml:id="swift-334-174F-line-67" n="67">om.</l>
+            <l xml:id="swift-334-174F-line-68" n="68">om.</l>
+            <l rend="indent(1)" xml:id="swift-334-174F-line-69" n="69">I ne're could indure my Talent to Smother,</l>
+            <l xml:id="swift-334-174F-line-70" n="70">I told you one Tale, I'le tell you another;</l>
+            <l xml:id="swift-334-174F-line-71" n="71">A Joyner, to fasten a Saint in a nitch,</l>
+            <l xml:id="swift-334-174F-line-72" n="72">Bor'd a large Augerhole in the Images breech,</l>
+            <l xml:id="swift-334-174F-line-73" n="73">But finding the Statue to make no complaint,</l>
+            <l xml:id="swift-334-174F-line-74" n="74">He would ne'er be convinc'd it was a true Saint:</l>
+            <l xml:id="swift-334-174F-line-75" n="75">When the true <hi rend="large-writing">Wood</hi> arrives, as he soon will no doubt,</l>
+            <l xml:id="swift-334-174F-line-76" n="76">(For thats but a <note place="foot">·Woods Effigies was carryd about &amp; burnt.</note> Sham <hi rend="large-writing">Wood</hi> they carry about)</l>
+            <l xml:id="swift-334-174F-line-77" n="77">What Stuff he is made on you quickly may find,</l>
+            <l xml:id="swift-334-174F-line-78" n="78">If you make the same tryal, and bore him behind,</l>
+            <l xml:id="swift-334-174F-line-79" n="79">I'll hold you a groat, when you wimble his bum</l>
+            <l xml:id="swift-334-174F-line-80" n="80">He'l bellow as loud as the De'il in a drum.</l>
+            <l xml:id="swift-334-174F-line-81" n="81">From me I declare you shall have no denyal,</l>
+            <l xml:id="swift-334-174F-line-82" n="82">For there can be no harm in making a Tryal,</l>
+            <l xml:id="swift-334-174F-line-83" n="83">And when to the joy of Your hearts he has roar'd,</l>
+            <l xml:id="swift-334-174F-line-84" n="84">You may shew him about for a new <hi rend="large-writing">Groaning Board</hi>.</l>
+            <l xml:id="swift-334-174F-line-85" n="85">om.</l>
+            <l xml:id="swift-334-174F-line-86" n="86">om.</l>
+            <l xml:id="swift-334-174F-line-87" n="87">om.</l>
+            <l xml:id="swift-334-174F-line-88" n="88">om.</l>
+            <l xml:id="swift-334-174F-line-89" n="89">om.</l>
+            <l xml:id="swift-334-174F-line-90" n="90">om.</l>
+            <l xml:id="swift-334-174F-line-91" n="91">om.</l>
+            <l xml:id="swift-334-174F-line-92" n="92">om.</l>
+            <l xml:id="swift-334-174F-line-93" n="93">om.</l>
+            <l xml:id="swift-334-174F-line-94" n="94">om.</l>
+            <l xml:id="swift-334-174F-line-95" n="95">om.</l>
+            <l xml:id="swift-334-174F-line-96" n="96">om.</l>
+            <l xml:id="swift-334-174F-line-97" n="97">om.</l>
+            <l xml:id="swift-334-174F-line-98" n="98">om.</l>
+            <l xml:id="swift-334-174F-line-99" n="99">om.</l>
+            <l xml:id="swift-334-174F-line-100" n="100">om.</l>
+            <l xml:id="swift-334-174F-line-101" n="101">om.</l>
+            <l xml:id="swift-334-174F-line-102" n="102">om.</l>
+            <l xml:id="swift-334-174F-line-103" n="103">om.</l>
+            <l xml:id="swift-334-174F-line-104" n="104">om.</l>
+            <l xml:id="swift-334-174F-line-105" n="105">om.</l>
+            <l xml:id="swift-334-174F-line-106" n="106">om.</l>
+            <l xml:id="swift-334-174F-line-107" n="107">om.</l>
+            <l xml:id="swift-334-174F-line-108" n="108">om.</l>
+            <l rend="indent(1)" xml:id="swift-334-174F-line-109" n="109">Hear one Story more; and then I will stop,</l>
+            <l xml:id="swift-334-174F-line-110" n="110">I dream't, <hi rend="large-writing">Wood</hi> was told he should dye by a Drop,</l>
+            <l xml:id="swift-334-174F-line-111" n="111">So methought he resolv'd no liquor to taste,</l>
+            <l xml:id="swift-334-174F-line-112" n="112">For fear the first Drop might as well be his last;</l>
+            <l xml:id="swift-334-174F-line-113" n="113">But dreams are like Oracles, 'its hard to explain 'em,</l>
+            <l xml:id="swift-334-174F-line-114" n="114">For it provd that he dy'd by a Drop at Kilmainham;<note place="foot">·Their Tyburn or place of Execution.</note></l>
+            <l xml:id="swift-334-174F-line-115" n="115">I wakd' w<hi rend="superscript">tḥ</hi> delight, and not without hope,</l>
+            <l xml:id="swift-334-174F-line-116" n="116">Very soon to see <hi rend="large-writing">Wood</hi> drop down from a Rope.</l>
+            <l xml:id="swift-334-174F-line-117" n="117">How he, and how We at each other should grin!</l>
+            <l xml:id="swift-334-174F-line-118" n="118">Tis kindness to hold a Friend up by the Chin.</l>
+            <l xml:id="swift-334-174F-line-119" n="119">But soft, says the Herald, I cannot agree,</l>
+            <l xml:id="swift-334-174F-line-120" n="120">For Metall on Metall is false Heraldry,</l>
+            <l xml:id="swift-334-174F-line-121" n="121">Why that may be true, yet <hi rend="large-writing">Wood</hi> upon <hi rend="large-writing">Wood</hi></l>
+            <l xml:id="swift-334-174F-line-122" n="122">Ile maintain w<hi rend="superscript">tḥ</hi> my Life is Heraldry good.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

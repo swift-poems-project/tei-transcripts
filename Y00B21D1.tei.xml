@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN<lb/>  ODE<lb/>  TO THE<lb/>  E---l of <hi rend="italics">Ca---g---n</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 3MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y00B21D1">
+          <head type="note" n="1" xml:id="spp-Y00B21D1-headnote-1">
+            <lg n="1" xml:id="spp-Y00B21D1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y00B21D1-headnote-1-line-group-1-line-1">By D────n S────Y.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y00B21D1-headnote-2">
+            <lg n="1" xml:id="spp-Y00B21D1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y00B21D1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y00B21D1-headnote-3">
+            <lg n="1" xml:id="spp-Y00B21D1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y00B21D1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y00B21D1-line-1" n="1"><hi rend="display-initial">H</hi>ERO! sprung from Ancient Blood!</l>
+            <l xml:id="swift-Y00B21D1-line-2" n="2"><hi rend="italics">CADOGAN</hi>, Valiant, Wise, and Good!</l>
+            <l xml:id="swift-Y00B21D1-line-3" n="3">What Golden Lyre, what Happy Muse,</l>
+            <l xml:id="swift-Y00B21D1-line-4" n="4">To sing thy Praises shall we chuse?</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-5" n="5">So great a Theme, so new a Song</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-6" n="6">To <hi rend="italics">Welsted</hi> only does belong,</l>
+            <l xml:id="swift-Y00B21D1-line-7" n="7">Like <hi rend="italics">Ovid</hi> soft is he like <hi rend="italics">Flaccus</hi> strong.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-8" n="8"><lb/>II.__Vertues, that soar so high, demand</l>
+            <l xml:id="swift-Y00B21D1-line-9" n="9">The Touches of a Master-Hand;</l>
+            <l xml:id="swift-Y00B21D1-line-10" n="10">Love disdain'd, on <hi rend="italics">Pindar</hi>'s Wing,</l>
+            <l xml:id="swift-Y00B21D1-line-11" n="11">Thee and Conquest he shall sing;</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-12" n="12">To Times unborn transmit thy Praise,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-13" n="13">On thy Lawrels graft his Bays,</l>
+            <l xml:id="swift-Y00B21D1-line-14" n="14">And with thy Triumphs swell his polish'd Lays.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-15" n="15"><lb/>III.__Whether thy Deeds be backwards trace,</l>
+            <l xml:id="swift-Y00B21D1-line-16" n="16">With Atchievements past to grace</l>
+            <l xml:id="swift-Y00B21D1-line-17" n="17">The num'rous Ode, and bring anew</l>
+            <l xml:id="swift-Y00B21D1-line-18" n="18">Fields with Slaughter stain'd to View:</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-19" n="19">Part in <hi rend="italics">MARLBRO</hi>' shalt thou claim,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-20" n="20">Next to <hi rend="italics">MARLBRO</hi>' rise in Fame;</l>
+            <l xml:id="swift-Y00B21D1-line-21" n="21">The Strain resounds with each immortal Name.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-22" n="22"><lb/>IV.__Whether from a nearer Theme</l>
+            <l xml:id="swift-Y00B21D1-line-23" n="23">The tuneful Poet from his Scheme,</l>
+            <l xml:id="swift-Y00B21D1-line-24" n="24">And court with Skill the ravish'd Ear,</l>
+            <l xml:id="swift-Y00B21D1-line-25" n="25">The Glory's which we see, to hear;</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-26" n="26">Glory's unrivall'd! Fit alone</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-27" n="27">By Wit unrivall'd to be shewn,</l>
+            <l xml:id="swift-Y00B21D1-line-28" n="28">By Harmony inspir'd, and Numbers not his own!</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-29" n="29"><lb/>V.__If glorious War his Fancy charms,</l>
+            <l xml:id="swift-Y00B21D1-line-30" n="30">Thy Courage and thy Skill in Arms,</l>
+            <l xml:id="swift-Y00B21D1-line-31" n="31">Thy brandish'd Steel, and spreading Wreath,</l>
+            <l xml:id="swift-Y00B21D1-line-32" n="32">Bold and sublime the Verse shall breath;</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-33" n="33">If thy Social Life he shew,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-34" n="34">Soft the gent'ler Strain shall flow,</l>
+            <l xml:id="swift-Y00B21D1-line-35" n="35">And every Line with Truth and Friendship glow.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-36" n="36"><lb/>VI.__Oh! Thou! whom ev'n thy Foes approve,</l>
+            <l xml:id="swift-Y00B21D1-line-37" n="37">Whom Foreign Nations praise and love!</l>
+            <l xml:id="swift-Y00B21D1-line-38" n="38">Darling of the <hi rend="italics">British</hi> Court!</l>
+            <l xml:id="swift-Y00B21D1-line-39" n="39">Thy Country's Boast, thy K<hi rend="small-caps">ING</hi>'s Support!</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-40" n="40">Distinguish'd Honours born to wear,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-41" n="41">Fav'rite of the Bright and Fair,</l>
+            <l xml:id="swift-Y00B21D1-line-42" n="42">The Soldiers Glory, and the Soldiers Care.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-43" n="43"><lb/>VII.__Could I boast thy vigorous Mind,</l>
+            <l xml:id="swift-Y00B21D1-line-44" n="44">Thy sprightly Wit and Judgment join'd;</l>
+            <l xml:id="swift-Y00B21D1-line-45" n="45">Were all those Arts and Graces mine,</l>
+            <l xml:id="swift-Y00B21D1-line-46" n="46">Which make thy finish'd Merit shine,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-47" n="47">Then would I raise the sounding Strain,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-48" n="48">Alarm, around, the list'ning Plain,</l>
+            <l xml:id="swift-Y00B21D1-line-49" n="49">And with thy various Praise the Verse sustain.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-50" n="50"><lb/>VIII.__I'd paint Thee then, with Matchless Art,</l>
+            <l xml:id="swift-Y00B21D1-line-51" n="51">The clearest Head, the bravest Heart,</l>
+            <l xml:id="swift-Y00B21D1-line-52" n="52">Boldly honest to advise,</l>
+            <l xml:id="swift-Y00B21D1-line-53" n="53">Bless'd Effect of being Wise!</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-54" n="54">Ever prompt thy Aid to lend:</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-55" n="55">Swift thy Country to defend:</l>
+            <l xml:id="swift-Y00B21D1-line-56" n="56">And doom'd th' Impostor's blasted Hopes to end.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-57" n="57"><lb/>IX.__But stay, fond Muse, th' Attempt refrain;</l>
+            <l xml:id="swift-Y00B21D1-line-58" n="58">The Theme ill suits thy humble Strain;</l>
+            <l xml:id="swift-Y00B21D1-line-59" n="59"><hi rend="italics">Welsted</hi>, O! begin thy Song!</l>
+            <l xml:id="swift-Y00B21D1-line-60" n="60">Blooming Poet, bright and young!</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-61" n="61">Exert thy Heavn'ly Art anew,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-62" n="62">In lofty Verse the Foil pursue,</l>
+            <l xml:id="swift-Y00B21D1-line-63" n="63">In Verse to Glory, and <hi rend="italics">CADOGAN</hi> due.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-64" n="64"><lb/>X.__His past and present Actions sung,</l>
+            <l xml:id="swift-Y00B21D1-line-65" n="65">Let thy Lyre again be strung;</l>
+            <l xml:id="swift-Y00B21D1-line-66" n="66">Let thy sweet prophetick Lays</l>
+            <l xml:id="swift-Y00B21D1-line-67" n="67">Anticipate his coming Praise;</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-68" n="68">Place the Scene before our Eyes,</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-69" n="69">That wrap'd in Clouds and Darkness lyes,</l>
+            <l xml:id="swift-Y00B21D1-line-70" n="70">The Scene ordain'd in distant Times to rise.</l>
+            <l rend="center" xml:id="swift-Y00B21D1-line-71" n="71"><lb/>XI.__Many Years the H<hi rend="small-caps">ERO</hi> give!</l>
+            <l xml:id="swift-Y00B21D1-line-72" n="72">Lov'd and happy make him live!</l>
+            <l xml:id="swift-Y00B21D1-line-73" n="73">Draw him at the Helm of State,</l>
+            <l xml:id="swift-Y00B21D1-line-74" n="74">As in Arms, in Council great!</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-75" n="75">Let the god-like Portrait shine!</l>
+            <l rend="indent(1)" xml:id="swift-Y00B21D1-line-76" n="76">So thou for Poets may divine,</l>
+            <l xml:id="swift-Y00B21D1-line-77" n="77">Shalt share his Fame, and make his Triumphs thine.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

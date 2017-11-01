@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE THANKSGIVING<«FN1·>For the probable occasion of this poem, see Scott's Swift, vol. ii. p. 72; therefore it was written, in all likelihood, in 1710.·».</«FN1·></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 26JE13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X84A48B8">
+          <head type="note" n="1" xml:id="spp-X84A48B8-headnote-1">
+            <lg n="1" xml:id="spp-X84A48B8-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A48B8-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X84A48B8-headnote-2">
+            <lg n="1" xml:id="spp-X84A48B8-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A48B8-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X84A48B8-headnote-3">
+            <lg n="1" xml:id="spp-X84A48B8-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A48B8-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X84A48B8-line-1" n="1">In sounds of joy your tunefull voices raise,</l>
+            <l xml:id="swift-X84A48B8-line-2" n="2">And teach the people whom to thank and praise;</l>
+            <l xml:id="swift-X84A48B8-line-3" n="3">Thank humble Sarah's <note place="foot">·Sarah, Duchess of Marlborough.</note> providential reign,</l>
+            <l xml:id="swift-X84A48B8-line-4" n="4">For peace and plenty, both of coin and graine;</l>
+            <l xml:id="swift-X84A48B8-line-5" n="5">Thanks to Vulpone <note place="foot">·Vulpone is a nick-name constantly employed in the satirical poems and lampoons of that day. It was first applied to Godolphin, by Dr. Sacheverel, in his celebrated sermon, and is said to have been the true cause for his impeachment by the minister. In the Examiner for January 10, 1710, Swift writes: “We remember when a poor nick-name, borrowed from an old play of Ben Jonson, and mentioned in a sermon without any particular application, was made use of to spur on an impeachment.” Godolphin was a strenuous advocate for the Scotch union.</note> for your unbought union;</l>
+            <l xml:id="swift-X84A48B8-line-6" n="6">Thank bishops for occasional communion;</l>
+            <l xml:id="swift-X84A48B8-line-7" n="7">Thank Banks and brokers for your thriving trade;</l>
+            <l xml:id="swift-X84A48B8-line-8" n="8">Once more thank Vulpo that your debts are paid;</l>
+            <l xml:id="swift-X84A48B8-line-9" n="9">Thank Marlborough's zeal that scorn'd the proffered treaty<note place="foot">·Probably alluding to the treaty of Gertruydenberg. See the Examiner for February 8, 1711.</note>,</l>
+            <l xml:id="swift-X84A48B8-line-10" n="10">And thank Eugene the Frenchmen did not beat ye;</l>
+            <l xml:id="swift-X84A48B8-line-11" n="11">Thanks to yourselves if ye are tax'd and sham'd,</l>
+            <l xml:id="swift-X84A48B8-line-12" n="12">And sing Te Deum when the three are d────d.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

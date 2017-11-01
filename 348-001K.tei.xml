@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iustice Whitesheds Motto on his Coach.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ACE 10/87"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="348-001K">
+          <head type="note" n="1" xml:id="spp-348-001K-headnote-1">
+            <lg n="1" xml:id="spp-348-001K-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-348-001K-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-348-001K-headnote-2">
+            <lg n="1" xml:id="spp-348-001K-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-348-001K-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-348-001K-headnote-3">
+            <lg n="1" xml:id="spp-348-001K-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-348-001K-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-348-001K-line-1" n="1">Libertas et Natale solum</l>
+            <l xml:id="swift-348-001K-line-2" n="2">Fine words, I wonder where you stole um.</l>
+            <l xml:id="swift-348-001K-line-3" n="3">Coud nothing but thy chief reproach</l>
+            <l xml:id="swift-348-001K-line-4" n="4">Serve for a Motto to thy Coach?</l>
+            <l rend="indent(1)" xml:id="swift-348-001K-line-5" n="5"><lb/>But let me now the words translate</l>
+            <l xml:id="swift-348-001K-line-6" n="6">Natale solum, my Estate,</l>
+            <l xml:id="swift-348-001K-line-7" n="7">My dear Estate, how well I love it,</l>
+            <l xml:id="swift-348-001K-line-8" n="8">My Tenants if you doubt will prove it,</l>
+            <l xml:id="swift-348-001K-line-9" n="9">They swear I am so kind &amp; good</l>
+            <l xml:id="swift-348-001K-line-10" n="10">I hug y<hi rend="superscript">m</hi> till I squeeze their blood.</l>
+            <l rend="indent(1)" xml:id="swift-348-001K-line-11" n="11"><lb/><hi rend="large-writing">Libertas</hi>, bears a large import,</l>
+            <l xml:id="swift-348-001K-line-12" n="12">First how to swagger at a Court,</l>
+            <l xml:id="swift-348-001K-line-13" n="13">And secondly to shew my fury,</l>
+            <l xml:id="swift-348-001K-line-14" n="14">Against an uncomplying Iury.</l>
+            <l xml:id="swift-348-001K-line-15" n="15">And thirdly tis a new Invention</l>
+            <l xml:id="swift-348-001K-line-16" n="16">To favour Wood and keep my pension.</l>
+            <l xml:id="swift-348-001K-line-17" n="17">And fourthly tis to play an odd trick</l>
+            <l xml:id="swift-348-001K-line-18" n="18">Get the great Seal &amp; turn out Brodrick.</l>
+            <l xml:id="swift-348-001K-line-19" n="19">And fifthly You know what I mean.</l>
+            <l xml:id="swift-348-001K-line-20" n="20">To humble that Vexatious Dean.</l>
+            <l xml:id="swift-348-001K-line-21" n="21">And sixthly for my Soul to barter it</l>
+            <l xml:id="swift-348-001K-line-22" n="22">For fifty times its worth to Carteret</l>
+            <l xml:id="swift-348-001K-line-23" n="23">Now since your Motto thus you Construe,</l>
+            <l xml:id="swift-348-001K-line-24" n="24">I must Confess you've spoken once true.</l>
+            <l xml:id="swift-348-001K-line-25" n="25">
+              <hi rend="large-writing">Libertas et Natale Solum</hi>
+            </l>
+            <l xml:id="swift-348-001K-line-26" n="26">You had good reason, when you stole um.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

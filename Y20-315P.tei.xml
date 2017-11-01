@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Monkeys</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 19AU97, f. 1"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y20-315P">
+          <head type="note" n="1" xml:id="spp-Y20-315P-headnote-1">
+            <lg n="1" xml:id="spp-Y20-315P-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y20-315P-headnote-1-line-group-1-line-1">occasioned by the Death of the Duke of Orleans Regent of France 172&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y20-315P-headnote-2">
+            <lg n="1" xml:id="spp-Y20-315P-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y20-315P-headnote-2-line-group-1-line-1">by D<hi rend="superscript">r</hi> Arbuthnot</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y20-315P-headnote-3">
+            <lg n="1" xml:id="spp-Y20-315P-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y20-315P-headnote-3-line-group-1-line-1">Respicite Exemplar Vitæ.──────────</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y20-315P-line-1" n="1">“How Vain are Mortall Man's Endeavours!</l>
+            <l xml:id="swift-Y20-315P-line-2" n="2">“Said at S<hi rend="superscript">t</hi> <hi rend="large-writing">James</hi>'s, Master Travers</l>
+            <l xml:id="swift-Y20-315P-line-3" n="3">“Good <hi rend="large-writing">Orleans Dead</hi>!── In truth, 'tis hard!</l>
+            <l xml:id="swift-Y20-315P-line-4" n="4">“May <hi rend="large-writing">States-men</hi> all dye so prepar'd!</l>
+            <l xml:id="swift-Y20-315P-line-5" n="5">“I do foresee (and for foreseeing</l>
+            <l xml:id="swift-Y20-315P-line-6" n="6">He equalls any Man in being)</l>
+            <l xml:id="swift-Y20-315P-line-7" n="7">“The Army ne'er can be disbanded──</l>
+            <l xml:id="swift-Y20-315P-line-8" n="8">“I wish the King were Safely Landed:────</l>
+            <l xml:id="swift-Y20-315P-line-9" n="9">“Ah friends! Great Changes threat this Land;</l>
+            <l xml:id="swift-Y20-315P-line-10" n="10">“All <hi rend="large-writing">France</hi> and <hi rend="large-writing">England</hi> at a Stand!</l>
+            <l xml:id="swift-Y20-315P-line-11" n="11">“There's <hi rend="large-writing">Miriweys</hi> d'ye mark! Strange Work!</l>
+            <l xml:id="swift-Y20-315P-line-12" n="12">“And there's the <hi rend="large-writing">Czar</hi>, &amp; there's the <hi rend="large-writing">Turk</hi>!</l>
+            <l xml:id="swift-Y20-315P-line-13" n="13">“The <hi rend="large-writing">Pope────── An India Merchant</hi> by</l>
+            <l xml:id="swift-Y20-315P-line-14" n="14">Cut short his Speech with this Reply.</l>
+            <l xml:id="swift-Y20-315P-line-15" n="15">“<hi rend="underlined">All at</hi> a <hi rend="large-writing-underlined">Stand</hi>! <hi rend="underlined">You see</hi> <hi rend="large-writing-underlined">Great Changes</hi>!</l>
+            <l xml:id="swift-Y20-315P-line-16" n="16">“Sir, Did You ever see the <hi rend="large-writing">Ganges</hi>?</l>
+            <l xml:id="swift-Y20-315P-line-17" n="17">“<hi rend="large-writing">There dwells a Race</hi>, we call 'em <hi rend="large-writing">Monkeys</hi></l>
+            <l xml:id="swift-Y20-315P-line-18" n="18"><hi rend="large-writing">(Grave, Sober, Sage</hi>, as our <hi rend="large-writing-underlined">Quid nuncis</hi>.)</l>
+            <l xml:id="swift-Y20-315P-line-19" n="19">“On either Bank, from bough to bough,</l>
+            <l xml:id="swift-Y20-315P-line-20" n="20">“They meet &amp; Chat as we do now,</l>
+            <l xml:id="swift-Y20-315P-line-21" n="21">“Whispers go round, they grin, they Shrug,</l>
+            <l xml:id="swift-Y20-315P-line-22" n="22">“They bow, they Snarle, they Scratch, they hug,</l>
+            <l xml:id="swift-Y20-315P-line-23" n="23">“And just as <hi rend="large-writing">Chance</hi>, or <hi rend="large-writing">Whim</hi> provoke 'em,</l>
+            <l xml:id="swift-Y20-315P-line-24" n="24">“They either Bite their friends, or Stroake 'em.</l>
+            <l rend="indent(1)" xml:id="swift-Y20-315P-line-25" n="25"><lb/>“There have I seen Some Active Prig,</l>
+            <l xml:id="swift-Y20-315P-line-26" n="26">“To Shew his Parts, bestride a twig;</l>
+            <l xml:id="swift-Y20-315P-line-27" n="27">“Lord! How the chatt'ring tribe admire</l>
+            <l xml:id="swift-Y20-315P-line-28" n="28">“Not that he's Wiser, but is Higher!</l>
+            <l xml:id="swift-Y20-315P-line-29" n="29">“All long to try the <hi rend="large-writing">Vent'rous thing</hi>,</l>
+            <l xml:id="swift-Y20-315P-line-30" n="30">(For <hi rend="large-writing">Power</hi> is but to have one's <hi rend="large-writing">Swing</hi>)</l>
+            <l xml:id="swift-Y20-315P-line-31" n="31">“From Side to Side he springs, he Spurns,</l>
+            <l xml:id="swift-Y20-315P-line-32" n="32">“And bangs his Foes &amp; Friends by turns,</l>
+            <l xml:id="swift-Y20-315P-line-33" n="33">“Thus as in giddy freaks he bounces,</l>
+            <l xml:id="swift-Y20-315P-line-34" n="34">“Crack goes the twig, and in he flounces,</l>
+            <l xml:id="swift-Y20-315P-line-35" n="35">“Down y<hi rend="superscript">e</hi> Swift Stream the <hi rend="large-writing">Wretch</hi> is born</l>
+            <l xml:id="swift-Y20-315P-line-36" n="36">“Never ah! never to return.</l>
+            <l rend="indent(1)" xml:id="swift-Y20-315P-line-37" n="37"><lb/>“<hi rend="large-writing">Zounds</hi>! what a Fall has Our <hi rend="large-writing">Dear Brother</hi>!</l>
+            <l xml:id="swift-Y20-315P-line-38" n="38">“<hi rend="large-writing">Morbleu</hi>, cries one, &amp; <hi rend="large-writing">Dam──e</hi> 'tother.</l>
+            <l xml:id="swift-Y20-315P-line-39" n="39">“The <hi rend="large-writing">Nations</hi> give a <hi rend="large-writing">Gen'rall Scriech</hi>,</l>
+            <l xml:id="swift-Y20-315P-line-40" n="40">“None cocks his Tail, none claws his br────ch.</l>
+            <l xml:id="swift-Y20-315P-line-41" n="41">“Each trembles for the Publick Weal,</l>
+            <l xml:id="swift-Y20-315P-line-42" n="42">“And for a while forgets to Steal:</l>
+            <l xml:id="swift-Y20-315P-line-43" n="43">“A while all Eyes intent &amp; Steady</l>
+            <l xml:id="swift-Y20-315P-line-44" n="44">“Pursue Him whirling down the Eddy;</l>
+            <l xml:id="swift-Y20-315P-line-45" n="45">“But out of Mind when out of View</l>
+            <l xml:id="swift-Y20-315P-line-46" n="46">“Some other mounts the twig anew,</l>
+            <l xml:id="swift-Y20-315P-line-47" n="47">“And Bus'ness on Each <hi rend="large-writing">Monkey</hi> Shore</l>
+            <l xml:id="swift-Y20-315P-line-48" n="48">“Runs the same track it went before.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

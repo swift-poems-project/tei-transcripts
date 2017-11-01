@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A MOTTO for Mr. JASON HASARD,<lb/>  W<hi rend="small-caps">OOLLEN-</hi>D<hi rend="small-caps">RAPER</hi> in D<hi rend="small-caps">UBLIN</hi>;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 21JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="948-79L1">
+          <head type="note" n="1" xml:id="spp-948-79L1-headnote-1">
+            <lg n="1" xml:id="spp-948-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-948-79L1-headnote-1-line-group-1-line-1">Whose Sign was the G<hi rend="small-caps">OLDEN-</hi>F<hi rend="small-caps">LEECE</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-948-79L1-headnote-2">
+            <lg n="1" xml:id="spp-948-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-948-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-948-79L1-headnote-3">
+            <lg n="1" xml:id="spp-948-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-948-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-948-79L1-line-1" n="1"><hi rend="display-initial">J</hi>ASON, the valiant prince of Greece,</l>
+            <l xml:id="swift-948-79L1-line-2" n="2">From Colchos brought the Golden Fleece:</l>
+            <l xml:id="swift-948-79L1-line-3" n="3">We comb the wool, refine the stuff,</l>
+            <l xml:id="swift-948-79L1-line-4" n="4">For modern Jason, that·'s enough.</l>
+            <l xml:id="swift-948-79L1-line-5" n="5">Oh! could we tame yon <hi rend="italics">watchful</hi> <note place="foot">·England.</note> Dragon,</l>
+            <l xml:id="swift-948-79L1-line-6" n="6">Old Jason would have less to brag on.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

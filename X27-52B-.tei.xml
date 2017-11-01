@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 25MR11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X27-52B-">
+          <head type="note" n="1" xml:id="spp-X27-52B--headnote-1">
+            <lg n="1" xml:id="spp-X27-52B--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-52B--headnote-1-line-group-1-line-1">His pen and his fiddle-stick were in continual motion; and yet to little or no purpose, if we may give credit to the following verses, which shall serve as the conclusion of his poetical character.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X27-52B--headnote-2">
+            <lg n="1" xml:id="spp-X27-52B--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-52B--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X27-52B--headnote-3">
+            <lg n="1" xml:id="spp-X27-52B--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-52B--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X27-52B--line-1" n="1">With music and poetry equally bless'd,</l>
+            <l xml:id="swift-X27-52B--line-2" n="2">A bard thus A<hi rend="small-caps">POLLO</hi> most humbly address'd,</l>
+            <l xml:id="swift-X27-52B--line-3" n="3">Great author of poetry, music, and light,</l>
+            <l xml:id="swift-X27-52B--line-4" n="4">Instructed by thee I both fiddle and write:</l>
+            <l xml:id="swift-X27-52B--line-5" n="5">Yet unheeded I scrape, or I scribble all day,</l>
+            <l xml:id="swift-X27-52B--line-6" n="6">My tunes are neglected, my verse flung away.</l>
+            <l xml:id="swift-X27-52B--line-7" n="7">Thy substitute here, V<hi rend="small-caps">ICE</hi>-A<hi rend="small-caps">POLLO</hi> <note place="foot">·Dr, S<hi rend="small-caps">WIFT</hi>.</note> disdains,</l>
+            <l xml:id="swift-X27-52B--line-8" n="8">To vouch for my Numbers, or list to my strains.</l>
+            <l xml:id="swift-X27-52B--line-9" n="9">Thy manual sign he refuses to put</l>
+            <l xml:id="swift-X27-52B--line-10" n="10">To the airs I produce from the pen, or the gut.</l>
+            <l xml:id="swift-X27-52B--line-11" n="11">Be thou then propitious, great P<hi rend="small-caps">HOEBUS</hi>, and grant</l>
+            <l xml:id="swift-X27-52B--line-12" n="12">Relief; or reward to my merit, or want.</l>
+            <l xml:id="swift-X27-52B--line-13" n="13">Tho' the D<hi rend="small-caps">EAN</hi> and D<hi rend="small-caps">ELANY</hi> <note place="foot">·Now Dean of <hi rend="italics">Downe</hi>.</note> transcendently shine,</l>
+            <l xml:id="swift-X27-52B--line-14" n="14">O! brighten one solo, or sonnet of mine.</l>
+            <l xml:id="swift-X27-52B--line-15" n="15">om.</l>
+            <l xml:id="swift-X27-52B--line-16" n="16">om.</l>
+            <l xml:id="swift-X27-52B--line-17" n="17">Make one work immortal; 'tis all I request;</l>
+            <l xml:id="swift-X27-52B--line-18" n="18">A<hi rend="small-caps">POLLO</hi> look'd pleas'd, and resolving to jest,</l>
+            <l xml:id="swift-X27-52B--line-19" n="19">Replied, honest friend, I've consider'd your case,</l>
+            <l xml:id="swift-X27-52B--line-20" n="20">Nor dislike your unmeaning, and innocent face.</l>
+            <l xml:id="swift-X27-52B--line-21" n="21">Your petition I grant, the boon is not great,</l>
+            <l xml:id="swift-X27-52B--line-22" n="22">Your works shall continue, and here's the receipt,</l>
+            <l xml:id="swift-X27-52B--line-23" n="23">On a <note place="foot">·A song or peculiar kind of poetry, which returns to the beginning of the first verse, and so continues in a perpetual rotation.</note> <hi rend="italics">Roundos</hi> hereafter your fiddle-strings spend,</l>
+            <l xml:id="swift-X27-52B--line-24" n="24">Write verses in circles, they never shall end.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

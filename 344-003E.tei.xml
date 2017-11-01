@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prometheus<lb/>  A<lb/>  Fable.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 16MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="344-003E">
+          <head type="note" n="1" xml:id="spp-344-003E-headnote-1">
+            <lg n="1" xml:id="spp-344-003E-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-003E-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-344-003E-headnote-2">
+            <lg n="1" xml:id="spp-344-003E-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-003E-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-344-003E-headnote-3">
+            <lg n="1" xml:id="spp-344-003E-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-003E-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-344-003E-line-1" n="1">When first the Squire and Tinker W────d</l><l xml:id="swift-344-003E-line-2" n="2">Gravely consulting <hi rend="large-writing">Ireland's</hi> good</l><l xml:id="swift-344-003E-line-3" n="3">Together mingl'd in a Mass</l><l xml:id="swift-344-003E-line-4" n="4">Smith's Dust and Copper Lead and Brass</l><l xml:id="swift-344-003E-line-5" n="5">The Mixture thus by <hi rend="large-writing">Chimick</hi> Art</l><l xml:id="swift-344-003E-line-6" n="6">United closs in every Part</l><l xml:id="swift-344-003E-line-7" n="7">In Fillets roll'd or cut in pieces</l><l xml:id="swift-344-003E-line-8" n="8">Appear'd like one continued Species</l><l xml:id="swift-344-003E-line-9" n="9">And by the forming Engine struck</l><l xml:id="swift-344-003E-line-10" n="10">On all the same Impression took</l><l xml:id="swift-344-003E-line-11" n="11">So to confound this hated Coin</l><l xml:id="swift-344-003E-line-12" n="12">All Parties and Religions Ioyn</l><l xml:id="swift-344-003E-line-13" n="13"><hi rend="large-writing">Whiggs Tories Trimmers Hanoverians</hi></l><l xml:id="swift-344-003E-line-14" n="14">Quakers Conformists Presbiterians</l><l xml:id="swift-344-003E-line-15" n="15">Quakers Conformists PresbiteriansScots Irish English French</l> unite<l xml:id="swift-344-003E-line-16" n="16">With equal Int'rest equal Spite</l><l xml:id="swift-344-003E-line-17" n="17">Together mingld in Lump</l><l xml:id="swift-344-003E-line-18" n="18">Do all in on Opinion Iump</l><l xml:id="swift-344-003E-line-19" n="19">And every on begins to find</l><l xml:id="swift-344-003E-line-20" n="20">The same Impression on his mind</l><l xml:id="swift-344-003E-line-21" n="21">O strange Event whom Gold invites</l><l xml:id="swift-344-003E-line-22" n="22">To War and Bloodshed Brass unites</l><l xml:id="swift-344-003E-line-23" n="23">So Gold-Smiths say the coarsest stuff</l><l xml:id="swift-344-003E-line-24" n="24">Will serve for sodder well enough</l><l xml:id="swift-344-003E-line-25" n="25">So by the Kettle's loud Alarm</l><l xml:id="swift-344-003E-line-26" n="26">The Bees are gather'd to a Swarm</l><l xml:id="swift-344-003E-line-27" n="27">So by the Brazen Trumpet's Bluster</l><l xml:id="swift-344-003E-line-28" n="28">Troop's of all Tongues and Nations muster</l><l xml:id="swift-344-003E-line-29" n="29">And so the Harp of Ireland brings</l><l xml:id="swift-344-003E-line-30" n="30">Whole crouds about its brazen strings</l><l xml:id="swift-344-003E-line-31" n="31">There is a Chain let down from Jove</l><l xml:id="swift-344-003E-line-32" n="32">But fasten'd to his throne above</l><l xml:id="swift-344-003E-line-33" n="33">So Strong that from the louer end</l><l xml:id="swift-344-003E-line-34" n="34">They say all humane things depend</l><l xml:id="swift-344-003E-line-35" n="35">This Chain (as ancient Poets hold)</l><l xml:id="swift-344-003E-line-36" n="36">When Iove was young was made of Gold</l><l xml:id="swift-344-003E-line-37" n="37"><hi rend="large-writing">Prometheus</hi> once this Chain purloin'd</l><l xml:id="swift-344-003E-line-38" n="38">Disolv'd and into Money coin'd</l><l xml:id="swift-344-003E-line-39" n="39">Then whips me out a Chain of Brass</l><l xml:id="swift-344-003E-line-40" n="40"><hi rend="large-writing">(Venus was brib'd to let it pass)</hi></l><l xml:id="swift-344-003E-line-41" n="41">Now while the brazen chain prevail'd</l><l xml:id="swift-344-003E-line-42" n="42"><hi rend="large-writing">Iove</hi> saw that all Devotion fail'd</l><l xml:id="swift-344-003E-line-43" n="43">No Temple to his Godship rais'd</l><l xml:id="swift-344-003E-line-44" n="44">No Sacrifice on Alter blaz'd</l><l xml:id="swift-344-003E-line-45" n="45">In short such dire confussion followed</l><l xml:id="swift-344-003E-line-46" n="46">Earth must have been in Chaos swallowed</l><l xml:id="swift-344-003E-line-47" n="47"><hi rend="black-letter">Iove</hi> stood amaz'd and looking round</l><l xml:id="swift-344-003E-line-48" n="48">With much ado the cheat he found</l><l xml:id="swift-344-003E-line-49" n="49">'Twas plain he could no longer hold</l><l xml:id="swift-344-003E-line-50" n="50">The World in any Chain but Gold</l><l xml:id="swift-344-003E-line-51" n="51">And to the God of wealth his Brother</l><l xml:id="swift-344-003E-line-52" n="52">Sent <hi rend="large-writing">Mercury</hi> to get another</l><l xml:id="swift-344-003E-line-53" n="53"><hi rend="large-writing">Prometheus</hi> on \<hi rend="italics">del</hi>·the\a Rack is laid</l><l xml:id="swift-344-003E-line-54" n="54">Ty'd with the chain himself had made</l><l xml:id="swift-344-003E-line-55" n="55">On Icy <hi rend="large-writing">Caucasus</hi> to shiver</l><l xml:id="swift-344-003E-line-56" n="56">Whil'st Vultures eat his growing Liver</l><l xml:id="swift-344-003E-line-57" n="57">Ye Powers of <hi rend="large-writing">Grub-Street</hi> make me able</l><l xml:id="swift-344-003E-line-58" n="58">Discreetly to apply this Fable</l><l xml:id="swift-344-003E-line-59" n="59">Say.────── Who's to be understood</l><l xml:id="swift-344-003E-line-60" n="60">By that old Thief <hi rend="large-writing">Prometheus W</hi>────</l><l xml:id="swift-344-003E-line-61" n="61">For <hi rend="large-writing">Iove</hi> it is not hard to guess him</l><l xml:id="swift-344-003E-line-62" n="62">I mean his Maj──── God bless him</l><l xml:id="swift-344-003E-line-63" n="63">This Thief the Black-smith was so bold</l><l xml:id="swift-344-003E-line-64" n="64">He strove to steal the Chain of Gold</l><l xml:id="swift-344-003E-line-65" n="65">Which links the subject to the King</l><l xml:id="swift-344-003E-line-66" n="66">And Change it for a brazen String</l><l xml:id="swift-344-003E-line-67" n="67">But sure if nothing else must pass</l><l xml:id="swift-344-003E-line-68" n="68">Between the King and us but Brass</l><l xml:id="swift-344-003E-line-69" n="69">Altho' the Chain will never crack</l><l xml:id="swift-344-003E-line-70" n="70">Yet our devotion may grow slack</l><l xml:id="swift-344-003E-line-71" n="71">But <hi rend="large-writing">Iove</hi> will soon convert I hope</l><l xml:id="swift-344-003E-line-72" n="72">This Brazen-chain into a Rope</l><l xml:id="swift-344-003E-line-73" n="73">With which <hi rend="large-writing">Prometheus</hi> shall be ty'd</l><l xml:id="swift-344-003E-line-74" n="74">And high in air for ever ride</l><l xml:id="swift-344-003E-line-75" n="75">Where if we find his Liver grows</l><l xml:id="swift-344-003E-line-76" n="76">Instead of Vultures we have Crows</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

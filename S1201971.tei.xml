@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr. SHERIDAN to Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 15JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S1201971">
+          <head type="note" n="1" xml:id="spp-S1201971-headnote-1">
+            <lg n="1" xml:id="spp-S1201971-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1201971-headnote-1-line-group-1-line-1"><hi rend="italics">July</hi> 6, 1736.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S1201971-headnote-2">
+            <lg n="1" xml:id="spp-S1201971-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1201971-headnote-2-line-group-1-line-1">We have not had two hundred drops of rain these six weeks past.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S1201971-headnote-3">
+            <lg n="1" xml:id="spp-S1201971-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1201971-headnote-3-line-group-1-line-1">I know you love <hi rend="italics">Alexandrines</hi>; for which reason I closed the above madrigal with one. I think it is of a very good proportion, which I hope you will set to musick; and pray let me have a bass, and second treble, with what other decorations and graces, you can better design than I can direct.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-S1201971-line-1" n="1">Our river is dry,</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-2" n="2">And fiery the sky;</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-3" n="3">I fret and I fry</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-4" n="4">Just ready to die:</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-5" n="5">Oh, where shall I fly</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-6" n="6">From <hi rend="italics">Phœbus</hi>'s eye?</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-7" n="7">In bed, when I lye,</l>
+            <l rend="indent(1)" xml:id="swift-S1201971-line-8" n="8">I soak like a pye;</l>
+            <l xml:id="swift-S1201971-line-9" n="9">And I sweat, oh, I sweat, like a hog in a stye.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

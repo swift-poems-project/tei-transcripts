@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN EXCELLENT NEW SONG.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 1FE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-142-72H1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="142-72H1">
+          <head type="note" n="1" xml:id="spp-142-72H1-headnote-1">
+            <lg n="1" xml:id="spp-142-72H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-142-72H1-headnote-1-line-group-1-line-1">Being the intended S<hi rend="small-caps">PEECH</hi> of a famous Orator <ref target="#spp-142-72H1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-142-72H1-footnote-headnote-1" place="foot">“Lord <hi rend="italics">Nottingham</hi>, a famous Tory and Speech-maker, is gone over to the Whig side: they toast him daily; and lord <hi rend="italics">Wharton</hi> says, it is <hi rend="italics">Dismal</hi> (so they call him from his looks) will save <hi rend="italics">England</hi> at last. Lord treasurer was hinting as if he wished a ballad was made on him; and I will get up one against to-morrow.” Journal to <hi rend="italics">Stella, Dec</hi>. 5, 1711.── “I was this morning making the ballad, two degrees above <hi rend="italics">Grubstreet</hi>.” Ibid. <hi rend="italics">Dec</hi>. 6.── Mr. <hi rend="italics">Deane Swift</hi> (vol. XVI. p. 357.) has applied this circumstance to “<hi rend="italics">Toland's</hi> Invitation,” which cannot be considered as <hi rend="italics">a ballad</hi>: nor is it so called in the <hi rend="italics">first edition</hi>; of which a copy (perhaps the only one existing) is preserved in the <hi rend="italics">Lambeth</hi> Library, 58. 1. 2. with its companion,“Peace and <hi rend="italics">Dunkirk</hi>.” They are each of them printed on a <hi rend="italics">folio half-sheet</hi></note> against Peace.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-142-72H1-headnote-2">
+            <lg n="1" xml:id="spp-142-72H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-142-72H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-142-72H1-headnote-3">
+            <lg n="1" xml:id="spp-142-72H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-142-72H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-142-72H1-line-1" n="1"><hi rend="display-initial">A</hi>N Orator <hi rend="italics">dismal</hi> of <hi rend="italics">Nottinghamshire</hi>,</l>
+            <l xml:id="swift-142-72H1-line-2" n="2">Who has forty years let out his conscience to hire,</l>
+            <l xml:id="swift-142-72H1-line-3" n="3">Out of zeal for his country, and <hi rend="italics">want of a place</hi>,</l>
+            <l xml:id="swift-142-72H1-line-4" n="4">Is come up, <hi rend="italics">vi &amp; armis</hi>, to <hi rend="italics">break the Queen's peace</hi>.</l>
+            <l xml:id="swift-142-72H1-line-5" n="5">He has vamp'd an old speech; and the court, to their sorrow,</l>
+            <l xml:id="swift-142-72H1-line-6" n="6">Shall hear him harangue against <hi rend="italics">Prior</hi> to-morrow.</l>
+            <l xml:id="swift-142-72H1-line-7" n="7">When once he begins, he never will flinch,</l>
+            <l xml:id="swift-142-72H1-line-8" n="8">But repeats the same note a whole day like a <hi rend="italics">Finch</hi>.</l>
+            <l xml:id="swift-142-72H1-line-9" n="9">I have heard all the speech repeated by <hi rend="italics">Hoppy</hi>,</l>
+            <l xml:id="swift-142-72H1-line-10" n="10">And, “Mistakes to prevent, I·'ve obtained a copy.”</l>
+            <l rend="center" xml:id="swift-142-72H1-line-11" n="11"><lb/>THE SPEECH._<hi rend="italics">Whereas, notwithstanding</hi>, I am in great pain,</l>
+            <l xml:id="swift-142-72H1-line-12" n="12">To hear we are making a peace without <hi rend="italics">Spain</hi>;</l>
+            <l xml:id="swift-142-72H1-line-13" n="13">But, <hi rend="italics">most noble Senators</hi>, 'tis a great shame,</l>
+            <l xml:id="swift-142-72H1-line-14" n="14">There should be a peace, while I·'m <hi rend="italics">Not in-game</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-142-72H1-line-15" n="15">The duke shew'd me all his fine house; and the dutchess</l>
+            <l xml:id="swift-142-72H1-line-16" n="16">From her closet brought out a full purse in her clutches:</l>
+            <l xml:id="swift-142-72H1-line-17" n="17">I talk'd of a peace, and they both gave a start,</l>
+            <l xml:id="swift-142-72H1-line-18" n="18">His grace swore by G──d, and her grace let a f──t:</l>
+            <l xml:id="swift-142-72H1-line-19" n="19">My <hi rend="italics">long old-fashion'd pocket</hi> was presently cramm'd;</l>
+            <l xml:id="swift-142-72H1-line-20" n="20">And sooner than vote for a peace I·'ll be damn'd.</l>
+            <l rend="indent(1)" xml:id="swift-142-72H1-line-21" n="21">But, some will cry <hi rend="italics">Turn-coat</hi>, and rip up old stories,</l>
+            <l xml:id="swift-142-72H1-line-22" n="22">How I always pretended to be for the Tories:</l>
+            <l xml:id="swift-142-72H1-line-23" n="23">I answer; the Tories were in my good graces,</l>
+            <l xml:id="swift-142-72H1-line-24" n="24">Till all my <hi rend="italics">relations</hi> were put into <hi rend="italics">places</hi>.</l>
+            <l xml:id="swift-142-72H1-line-25" n="25">But still I·'m in principle ever the same,</l>
+            <l xml:id="swift-142-72H1-line-26" n="26">And will quit my best Friends, while I·'m <hi rend="italics">Not-in-game</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-142-72H1-line-27" n="27">When I and some others subscribed our names</l>
+            <l xml:id="swift-142-72H1-line-28" n="28">To a plot for expelling my master king <hi rend="italics">James</hi>;</l>
+            <l xml:id="swift-142-72H1-line-29" n="29">I withdrew my subscription by help of a <hi rend="italics">blot</hi>,</l>
+            <l xml:id="swift-142-72H1-line-30" n="30">And so might discover or gain by the plot:</l>
+            <l xml:id="swift-142-72H1-line-31" n="31">I had my advantage, and stood at defiance,</l>
+            <l xml:id="swift-142-72H1-line-32" n="32">For <hi rend="italics">Daniel</hi> was got from the den of the lions:</l>
+            <l xml:id="swift-142-72H1-line-33" n="33">I <hi rend="italics">came in</hi> without danger; and was I to blame?</l>
+            <l xml:id="swift-142-72H1-line-34" n="34">For, rather than <hi rend="italics">hang</hi>, I would be <hi rend="italics">Not-in-game</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-142-72H1-line-35" n="35">I swore to the Queen, that the Prince of <hi rend="italics">Hanover</hi>,</l>
+            <l xml:id="swift-142-72H1-line-36" n="36">During her sacred life, should never come over.</l>
+            <l xml:id="swift-142-72H1-line-37" n="37">I made use of a <hi rend="italics">trope</hi>; that “an heir to invite</l>
+            <l xml:id="swift-142-72H1-line-38" n="38">“Was like keeping her monument always in sight.”</l>
+            <l xml:id="swift-142-72H1-line-39" n="39">But, when I thought proper, I alter'd my note;</l>
+            <l xml:id="swift-142-72H1-line-40" n="40">And in her own hearing I boldly did vote,</l>
+            <l xml:id="swift-142-72H1-line-41" n="41">That her Majesty stood in great need of a Tutor,</l>
+            <l xml:id="swift-142-72H1-line-42" n="42">And must have an <hi rend="italics">old</hi> or a <hi rend="italics">young</hi> Coadjutor:</l>
+            <l xml:id="swift-142-72H1-line-43" n="43">For why? I would fain have put all in a flame,</l>
+            <l xml:id="swift-142-72H1-line-44" n="44">Because, for some reasons, I was <hi rend="italics">Not-in-game</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-142-72H1-line-45" n="45">Now my new <hi rend="italics">benefactors</hi> have <hi rend="italics">brought me about</hi>,</l>
+            <l xml:id="swift-142-72H1-line-46" n="46">And I·'ll vote against Peace, <hi rend="italics">with</hi> Spain, <hi rend="italics">or without</hi>:</l>
+            <l xml:id="swift-142-72H1-line-47" n="47">Though the Court gives my <hi rend="italics">nephews</hi>, and <hi rend="italics">brothers</hi>, and <hi rend="italics">cousins</hi>,</l>
+            <l xml:id="swift-142-72H1-line-48" n="48">And all my whole family, places by dozens;</l>
+            <l xml:id="swift-142-72H1-line-49" n="49">Yet, since I know where a <hi rend="italics">full-purse</hi> may be found,</l>
+            <l xml:id="swift-142-72H1-line-50" n="50">And hardly pay eighteen-pence tax in the pound;</l>
+            <l xml:id="swift-142-72H1-line-51" n="51">Since the Tories have thus disappointed my hopes,</l>
+            <l xml:id="swift-142-72H1-line-52" n="52">And will neither regard my <hi rend="italics">figures</hi> nor <hi rend="italics">tropes</hi>;</l>
+            <l xml:id="swift-142-72H1-line-53" n="53">I·'ll <hi rend="italics">speech</hi> against peace while <hi rend="italics">Dismal</hi>'s my name,</l>
+            <l xml:id="swift-142-72H1-line-54" n="54">And be a <hi rend="italics">true</hi> Whig, while I am <hi rend="italics">Not-in-game</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

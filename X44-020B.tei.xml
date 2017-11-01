@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the R<hi rend="superscript">t</hi> 08─ Hon<hi rend="superscript">bl</hi> 08 08──  Earl of Berckley<lb/>  An Inventory of the goods belong to the Reverend Dr. Swift</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 10JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-020B">
+          <head type="note" n="1" xml:id="spp-X44-020B-headnote-1">
+            <lg n="1" xml:id="spp-X44-020B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-020B-headnote-1-line-group-1-line-1">by the Same. \<hi rend="italics">meaning Swift, named both in the title above and also as author of the preceding poem, Cadenus and Vanessa</hi>\</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X44-020B-headnote-2">
+            <lg n="1" xml:id="spp-X44-020B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-020B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X44-020B-headnote-3">
+            <lg n="1" xml:id="spp-X44-020B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-020B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X44-020B-line-1" n="1">An oaken broken Elbow Chair</l>
+            <l xml:id="swift-X44-020B-line-2" n="2">A Cawdle cup without an Ear</l>
+            <l xml:id="swift-X44-020B-line-3" n="3">A batter'd Shatter'd ash bed stead</l>
+            <l xml:id="swift-X44-020B-line-4" n="4">A Box of Deal without a Lid</l>
+            <l xml:id="swift-X44-020B-line-5" n="5">A pair of tongues put out of Ioint</l>
+            <l xml:id="swift-X44-020B-line-6" n="6">A Back Sword poker without point</l>
+            <l xml:id="swift-X44-020B-line-7" n="7">A pot that's Crack'd a-Cross-a-Round</l>
+            <l xml:id="swift-X44-020B-line-8" n="8">With an old knotted garter bound</l>
+            <l xml:id="swift-X44-020B-line-9" n="9">An Iron Lock without a Key</l>
+            <l xml:id="swift-X44-020B-line-10" n="10">A Wig with hanging quite turn'd grey</l>
+            <l xml:id="swift-X44-020B-line-11" n="11">An old Oak Table with three Legs</l>
+            <l xml:id="swift-X44-020B-line-12" n="12">To hang up hatts two wooden pegs</l>
+            <l xml:id="swift-X44-020B-line-13" n="13">A Bottle screw in good repair</l>
+            <l xml:id="swift-X44-020B-line-14" n="14">Allowing something for the wear</l>
+            <l xml:id="swift-X44-020B-line-15" n="15">A curtain worn to half a Stripe</l>
+            <l xml:id="swift-X44-020B-line-16" n="16">A pair \<hi rend="italics">add</hi>·of\ Bellows without pipe</l>
+            <l xml:id="swift-X44-020B-line-17" n="17">A Dish which might good meat afford once</l>
+            <l xml:id="swift-X44-020B-line-18" n="18">An Ovid and an old Concordance</l>
+            <l xml:id="swift-X44-020B-line-19" n="19">A bottle bottom a wooden platter</l>
+            <l xml:id="swift-X44-020B-line-20" n="20">One is for meat and one for water</l>
+            <l xml:id="swift-X44-020B-line-21" n="21">There likewise is a Copper Skillet</l>
+            <l xml:id="swift-X44-020B-line-22" n="22">Which runs as fast out as you fill it</l>
+            <l xml:id="swift-X44-020B-line-23" n="23">A Candle-stick snuff-Dish and Save-all</l>
+            <l xml:id="swift-X44-020B-line-24" n="24">And thus his Household goods you have all</l>
+            <l xml:id="swift-X44-020B-line-25" n="25">This to your Lordship as a friend</l>
+            <l xml:id="swift-X44-020B-line-26" n="26">Till you have better I recommend</l>
+            <l xml:id="swift-X44-020B-line-27" n="27">They'l Serve your worship for \<hi rend="italics">add</hi>·a\ Shift</l>
+            <l xml:id="swift-X44-020B-line-28" n="28">Why not as well as Doctor Swift</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

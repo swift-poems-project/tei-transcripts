@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  <hi rend="italics">Curry-Comb of Truth for a<lb/>  Certain</hi> DEAN:<lb/>  OR, THE<lb/>  G<hi rend="small-caps">RUBSTREET </hi> T<hi rend="small-caps">RIBUNAL</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 3SE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y37A36L1">
+          <head type="note" n="1" xml:id="spp-Y37A36L1-headnote-1">
+            <lg n="1" xml:id="spp-Y37A36L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y37A36L1-headnote-1-line-group-1-line-1"><hi rend="italics">Rumpatur quisquis rumpitur Invidia</hi>. Martial</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y37A36L1-headnote-2">
+            <lg n="1" xml:id="spp-Y37A36L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y37A36L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y37A36L1-headnote-3">
+            <lg n="1" xml:id="spp-Y37A36L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y37A36L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y37A36L1-line-1" n="1">
+              <hi rend="display-initial">D<hi rend="italics">EAN, Drapier, Tatler, Gulliver</hi>,</hi>
+            </l>
+            <l xml:id="swift-Y37A36L1-line-2" n="2">Thrice call'd, before the Court appear;</l>
+            <l xml:id="swift-Y37A36L1-line-3" n="3">And answer, <hi rend="italics">Culprit</hi>, to the Crimes</l>
+            <l xml:id="swift-Y37A36L1-line-4" n="4">That shall be mention'd in these Rhymes.</l>
+            <l xml:id="swift-Y37A36L1-line-5" n="5">Shake at our Pow'r, for to our Side</l>
+            <l xml:id="swift-Y37A36L1-line-6" n="6"><hi rend="italics">Lawyers</hi> and <hi rend="italics">Law-givers</hi> are ally'd.</l>
+            <l xml:id="swift-Y37A36L1-line-7" n="7">'Tis not in <hi rend="italics">Verse</hi> alone we deal,</l>
+            <l xml:id="swift-Y37A36L1-line-8" n="8">We, too direct the <hi rend="italics">Commonweal</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-9" n="9">The <hi rend="italics">Politicks</hi> that <hi rend="italics">Grub-street</hi> breeds,</l>
+            <l xml:id="swift-Y37A36L1-line-10" n="10">The <hi rend="italics">Statesman</hi> at <hi rend="italics">St. James</hi>'s reads.</l>
+            <l xml:id="swift-Y37A36L1-line-11" n="11">Our Works are risen from Coblers Stalls,</l>
+            <l xml:id="swift-Y37A36L1-line-12" n="12">To <hi rend="italics">Drawing-Rooms</hi> and <hi rend="italics">Palace-Halls</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-13" n="13">Full oft our Learning is display'd,</l>
+            <l xml:id="swift-Y37A36L1-line-14" n="14">In sage Debates on <hi rend="italics">Tax</hi> and <hi rend="italics">Trade</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-15" n="15">Our <hi rend="italics">Speakers</hi> sit for <hi rend="italics">Shires</hi> and <hi rend="italics">Cities</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-16" n="16">Resolve and vote, and form Committees.</l>
+            <l xml:id="swift-Y37A36L1-line-17" n="17">From us, the Courts of Justice draw</l>
+            <l xml:id="swift-Y37A36L1-line-18" n="18"><hi rend="italics">Serjeants</hi>, and <hi rend="italics">Barristers</hi> at Law.</l>
+            <l xml:id="swift-Y37A36L1-line-19" n="19">Our Ancestors full Lineage boast,</l>
+            <l xml:id="swift-Y37A36L1-line-20" n="20">They rise, till in <hi rend="italics">Old Night</hi> they're lost.</l>
+            <l rend="indent(1)" xml:id="swift-Y37A36L1-line-21" n="21"><lb/>T<hi rend="small-caps">HESE</hi> <hi rend="italics">Learned, Antient, Powerful, Wise</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-22" n="22">Maliciously you satirize;</l>
+            <l xml:id="swift-Y37A36L1-line-23" n="23">Their noble <hi rend="italics">Writers</hi> you defame,</l>
+            <l xml:id="swift-Y37A36L1-line-24" n="24">And blast their <hi rend="italics">Orators</hi> good Name;</l>
+            <l xml:id="swift-Y37A36L1-line-25" n="25">Traitor to them, and to the State,</l>
+            <l xml:id="swift-Y37A36L1-line-26" n="26">Hark to your Crimes── the Jury's set.</l>
+            <l rend="indent(1)" xml:id="swift-Y37A36L1-line-27" n="27"><lb/>Y<hi rend="small-caps">OU</hi>, <hi rend="italics">Jonathan</hi>, at sundry Times</l>
+            <l xml:id="swift-Y37A36L1-line-28" n="28">Did publish wicked Things call'd Rhymes;</l>
+            <l xml:id="swift-Y37A36L1-line-29" n="29">Whose Sense on Great Ones Slander carries,</l>
+            <l xml:id="swift-Y37A36L1-line-30" n="30">Witness <hi rend="italics">the Case of</hi> Frances Harris.</l>
+            <l xml:id="swift-Y37A36L1-line-31" n="31">Your Pamphlets all Rebellion sound,</l>
+            <l xml:id="swift-Y37A36L1-line-32" n="32">You libell'd all the <hi rend="italics">Junta</hi> round;</l>
+            <l xml:id="swift-Y37A36L1-line-33" n="33">You prompted <hi rend="italics">Perkins</hi> to Invasion,</l>
+            <l xml:id="swift-Y37A36L1-line-34" n="34">Vide <hi rend="italics">the Broomstaff Meditation</hi>:</l>
+            <l xml:id="swift-Y37A36L1-line-35" n="35">A Staff's a Mast, we plainly see't,</l>
+            <l xml:id="swift-Y37A36L1-line-36" n="36">A Mast a Ship, a Ship a Fleet.</l>
+            <l xml:id="swift-Y37A36L1-line-37" n="37"><hi rend="italics">Item</hi>, With a malign Intention,</l>
+            <l xml:id="swift-Y37A36L1-line-38" n="38">You gave the Name of <hi rend="italics">Bribe</hi> to <hi rend="italics">Pension</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-39" n="39"><hi rend="italics">Item</hi>, You, and that Varlet <hi rend="italics">Waters</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-40" n="40">(For which you both deserve strong Halters)</l>
+            <l xml:id="swift-Y37A36L1-line-41" n="41">Persuaded all our <hi rend="italics">Irish</hi> Dames</l>
+            <l xml:id="swift-Y37A36L1-line-42" n="42">To give their <hi rend="italics">English</hi> Silks to Flames;</l>
+            <l xml:id="swift-Y37A36L1-line-43" n="43">To <hi rend="italics">Britain</hi>'s Trade you put a Spoke,</l>
+            <l xml:id="swift-Y37A36L1-line-44" n="44">And Patriot <hi rend="italics">Ballandine</hi> half broke.</l>
+            <l xml:id="swift-Y37A36L1-line-45" n="45">You hate, 'cause not Communicants,</l>
+            <l xml:id="swift-Y37A36L1-line-46" n="46">Our dearest <hi rend="italics">Brother-protestants</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-47" n="47">The Presbyters, whose humble Spirit,</l>
+            <l xml:id="swift-Y37A36L1-line-48" n="48">Meek Moderation, mighty Merit,</l>
+            <l xml:id="swift-Y37A36L1-line-49" n="49">Will bear the Test, if we recal</l>
+            <l xml:id="swift-Y37A36L1-line-50" n="50">To mind the Reign of good <hi rend="italics">Saint Noll</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-51" n="51">Next, you'd encourage <hi rend="italics">Irish</hi> Trade──</l>
+            <l xml:id="swift-Y37A36L1-line-52" n="52">How came that Freak into your Head?</l>
+            <l xml:id="swift-Y37A36L1-line-53" n="53">Except <hi rend="italics">poor E</hi>────'s Fate you're brewing,</l>
+            <l xml:id="swift-Y37A36L1-line-54" n="54">Which our encourag'd Trade might ruin.</l>
+            <l xml:id="swift-Y37A36L1-line-55" n="55"><hi rend="italics">Culprit</hi>, you'll not deny, we hope,</l>
+            <l xml:id="swift-Y37A36L1-line-56" n="56">Your strong Attachment to a <hi rend="italics">Pope</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-57" n="57">Which subtle Spark, we have good Reasons,</l>
+            <l xml:id="swift-Y37A36L1-line-58" n="58">To think Abettor to your Treasons;</l>
+            <l xml:id="swift-Y37A36L1-line-59" n="59">For he, oh most unhallow'd Sound!</l>
+            <l xml:id="swift-Y37A36L1-line-60" n="60">Has call'd all <hi rend="italics">Grub-street Dunces</hi> round.</l>
+            <l xml:id="swift-Y37A36L1-line-61" n="61">And in the <hi rend="italics">Rape o' th' Lock</hi>, you'll own,</l>
+            <l xml:id="swift-Y37A36L1-line-62" n="62">He sung the Whore of <hi rend="italics">Babylon</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-63" n="63">As honest <hi rend="italics">Esdras Barnevelt</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-64" n="64">A good Friend to our Party, smelt.</l>
+            <l xml:id="swift-Y37A36L1-line-65" n="65">Whom, when you lash the Sex d'ye mean?</l>
+            <l xml:id="swift-Y37A36L1-line-66" n="66">Your Jokes are levell'd at the Q────.</l>
+            <l xml:id="swift-Y37A36L1-line-67" n="67">And you've confess'd to all, “You hate</l>
+            <l xml:id="swift-Y37A36L1-line-68" n="68">“Both ──── and M──── of State.</l>
+            <l xml:id="swift-Y37A36L1-line-69" n="69"><hi rend="italics">Item</hi>, You flew in Power's Face,</l>
+            <l xml:id="swift-Y37A36L1-line-70" n="70">When you declar'd against <hi rend="italics">Wood</hi>'s Brass.</l>
+            <l xml:id="swift-Y37A36L1-line-71" n="71"><hi rend="italics">Poor E</hi>────── lost by that, 'tis found,</l>
+            <l xml:id="swift-Y37A36L1-line-72" n="72"><hi rend="italics">One hundred and eight thousand Pound</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-73" n="73">And, say, what did you get by that?</l>
+            <l xml:id="swift-Y37A36L1-line-74" n="74">Truly you propt a <hi rend="italics">sinking State</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-75" n="75">And for that very Crime you're fam'd,</l>
+            <l xml:id="swift-Y37A36L1-line-76" n="76">And <hi rend="italics">Lucius Junius Brutus</hi> nam'd.</l>
+            <l xml:id="swift-Y37A36L1-line-77" n="77">Nay, don't deny it was your Act,</l>
+            <l xml:id="swift-Y37A36L1-line-78" n="78">The very <hi rend="italics">Signs</hi> will prove the Fact.</l>
+            <l xml:id="swift-Y37A36L1-line-79" n="79">Under your Cloak of Charity,</l>
+            <l xml:id="swift-Y37A36L1-line-80" n="80">Good Heaven! what Treasons do there lie?</l>
+            <l xml:id="swift-Y37A36L1-line-81" n="81">Treason! for it supports the Poor</l>
+            <l xml:id="swift-Y37A36L1-line-82" n="82">Of <hi rend="italics">Caven</hi>, <hi rend="italics">Meath-street</hi>, and <hi rend="italics">Donore</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-83" n="83">And at your Word each Clothing Street,</l>
+            <l xml:id="swift-Y37A36L1-line-84" n="84">Wou'd── mind their Work and eat their Meat:</l>
+            <l xml:id="swift-Y37A36L1-line-85" n="85">Nay, in their Ale-house Conversation,</l>
+            <l xml:id="swift-Y37A36L1-line-86" n="86">Their Toast's Dean <hi rend="italics">Swift</hi>, the Trade, and Nation;</l>
+            <l xml:id="swift-Y37A36L1-line-87" n="87">And sure, if their Affairs would bear it,</l>
+            <l xml:id="swift-Y37A36L1-line-88" n="88">They'd do the same in Papist Claret.</l>
+            <l xml:id="swift-Y37A36L1-line-89" n="89">And thus, let who's will fill the Throne,</l>
+            <l xml:id="swift-Y37A36L1-line-90" n="90">'Tis ten to one they wou'd go on.</l>
+            <l xml:id="swift-Y37A36L1-line-91" n="91">'Tis Treason to be <hi rend="italics">popular</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-92" n="92">Now answer, Prisoner, at the Bar:</l>
+            <l xml:id="swift-Y37A36L1-line-93" n="93">Hold──── half the Indictment is not done,</l>
+            <l xml:id="swift-Y37A36L1-line-94" n="94">To the other Misdemeanours── on──</l>
+            <l xml:id="swift-Y37A36L1-line-95" n="95">The Catalogue is of vast Length,</l>
+            <l xml:id="swift-Y37A36L1-line-96" n="96"><hi rend="italics">Item</hi>, On <hi rend="italics">Thursday, June</hi> the <hi rend="italics">tenth</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-97" n="97">White Roses in his Garden found,</l>
+            <l xml:id="swift-Y37A36L1-line-98" n="98">Prove it is <hi rend="italics">Jacobitish</hi> Ground:</l>
+            <l xml:id="swift-Y37A36L1-line-99" n="99">Nay, it is prov'd that the said Dean,</l>
+            <l xml:id="swift-Y37A36L1-line-100" n="100">On Day <hi rend="italics">ut supradict</hi>, was seen</l>
+            <l xml:id="swift-Y37A36L1-line-101" n="101">To laugh, and dress, and pray, and read,</l>
+            <l xml:id="swift-Y37A36L1-line-102" n="102">And eat, and drink, and do his Need.</l>
+            <l rend="indent(1)" xml:id="swift-Y37A36L1-line-103" n="103"><lb/>I<hi rend="small-caps">TEM</hi>, Another <hi rend="italics">Tory</hi> Day,</l>
+            <l xml:id="swift-Y37A36L1-line-104" n="104"><hi rend="italics">Scilicet, Twenty-ninth</hi> of <hi rend="italics">May</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-105" n="105">The aforesaid Criminal did dare</l>
+            <l xml:id="swift-Y37A36L1-line-106" n="106">To sit upon an <hi rend="italics">Oaken</hi> Chair;</l>
+            <l xml:id="swift-Y37A36L1-line-107" n="107">And, 'tis observ'd, he will not smoak,</l>
+            <l xml:id="swift-Y37A36L1-line-108" n="108">Without a Stopper of <hi rend="italics">Royal Oak</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Y37A36L1-line-109" n="109"><lb/>I<hi rend="small-caps">TEM</hi>, 'Tis sworn he is a Wizzard,</l>
+            <l xml:id="swift-Y37A36L1-line-110" n="110">And has a Devil in his Gizzard;</l>
+            <l xml:id="swift-Y37A36L1-line-111" n="111">To prove which, Sirs, 'twas he bewitched</l>
+            <l xml:id="swift-Y37A36L1-line-112" n="112">That upright Magistrate Judge <hi rend="italics">Wh-----d</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-113" n="113">His Country's Prop, who never sold</l>
+            <l xml:id="swift-Y37A36L1-line-114" n="114">His Conscience for a Place, or Gold:</l>
+            <l xml:id="swift-Y37A36L1-line-115" n="115">His Scheme to enrich <hi rend="italics">Ireland</hi>, was</l>
+            <l xml:id="swift-Y37A36L1-line-116" n="116">By lining all his Walls with Brass;</l>
+            <l xml:id="swift-Y37A36L1-line-117" n="117">Let then each Borough give a Kettle,</l>
+            <l xml:id="swift-Y37A36L1-line-118" n="118">To raise his Statue in that Metal:</l>
+            <l xml:id="swift-Y37A36L1-line-119" n="119">And write beneath, tho' he ne'er stole 'em,</l>
+            <l xml:id="swift-Y37A36L1-line-120" n="120"><hi rend="italics">Libertas, &amp; natale solum</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-121" n="121">Thus void of Fear, or Shame, or Grace,</l>
+            <l xml:id="swift-Y37A36L1-line-122" n="122">Thank Heav'n! you've miss'd a Mitred Place.</l>
+            <l xml:id="swift-Y37A36L1-line-123" n="123">The only Ensign of your Pride,</l>
+            <l xml:id="swift-Y37A36L1-line-124" n="124">Is the Virge stuck beneath your Side;</l>
+            <l xml:id="swift-Y37A36L1-line-125" n="125">For, let me see who dare promote</l>
+            <l xml:id="swift-Y37A36L1-line-126" n="126">A Wit so flagrant in your Coat.</l>
+            <l xml:id="swift-Y37A36L1-line-127" n="127">You vilify the Men in Place,</l>
+            <l xml:id="swift-Y37A36L1-line-128" n="128">From Knights to Justices o'Peace;</l>
+            <l xml:id="swift-Y37A36L1-line-129" n="129">And Ladies, all but <hi rend="italics">Stella</hi>, are</l>
+            <l xml:id="swift-Y37A36L1-line-130" n="130">Smarting beneath thy Lash severe;</l>
+            <l xml:id="swift-Y37A36L1-line-131" n="131">Faultless, for all thy bitter Jokes,</l>
+            <l xml:id="swift-Y37A36L1-line-132" n="132">And only do like other Folkes.</l>
+            <l xml:id="swift-Y37A36L1-line-133" n="133">The rev'rend Sages of the <hi rend="italics">Bar</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-134" n="134">Of thy Ill-nature have their Share;</l>
+            <l xml:id="swift-Y37A36L1-line-135" n="135">'Twas you traduc'd a noble <hi rend="italics">Serjeant</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-136" n="136">And said, he knew nor Text nor Margent,</l>
+            <l xml:id="swift-Y37A36L1-line-137" n="137">And found out Half a Crown and Sweats-worth,</l>
+            <l xml:id="swift-Y37A36L1-line-138" n="138">Exactly rhym'd to learned *******</l>
+            <l xml:id="swift-Y37A36L1-line-139" n="139">“You said, a perjur'd Dog denotes,</l>
+            <l xml:id="swift-Y37A36L1-line-140" n="140">“<hi rend="italics">Porter</hi> and <hi rend="italics">P──────st</hi>, and <hi rend="italics">Oates</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-141" n="141">String with Rascals the Progenitor</l>
+            <l xml:id="swift-Y37A36L1-line-142" n="142">Of a sagacious florid <hi rend="italics">Senator</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-143" n="143">Who, we may think it with good Reason,</l>
+            <l xml:id="swift-Y37A36L1-line-144" n="144">Ne'er harbour'd in his Stomach Treason.</l>
+            <l xml:id="swift-Y37A36L1-line-145" n="145">Whose Wants ne'er urg'd, whose Head was not</l>
+            <l xml:id="swift-Y37A36L1-line-146" n="146">Design'd or fitted for a Plot:</l>
+            <l xml:id="swift-Y37A36L1-line-147" n="147">Whose Ancestors were Props of Nations</l>
+            <l xml:id="swift-Y37A36L1-line-148" n="148">For many Hundred Generations;</l>
+            <l xml:id="swift-Y37A36L1-line-149" n="149">If Hundreds were, since Great <hi rend="italics">Milesius</hi></l>
+            <l xml:id="swift-Y37A36L1-line-150" n="150">Roasted in <hi rend="italics">Ireland</hi> his <hi rend="italics">Potatoes</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-151" n="151">Whose <hi rend="italics">old Nobility</hi> appears</l>
+            <l xml:id="swift-Y37A36L1-line-152" n="152">From the <hi rend="italics">Red Hand</hi> his 'Scutcheon bears;</l>
+            <l xml:id="swift-Y37A36L1-line-153" n="153">And during Ages he will bear it,</l>
+            <l xml:id="swift-Y37A36L1-line-154" n="154">While he has left an Heir to wear it.</l>
+            <l xml:id="swift-Y37A36L1-line-155" n="155">He only mix'd with plotting Fellows,</l>
+            <l xml:id="swift-Y37A36L1-line-156" n="156">To bring the Traytors to the Gallows;</l>
+            <l xml:id="swift-Y37A36L1-line-157" n="157">How well by him the Work was done?</l>
+            <l xml:id="swift-Y37A36L1-line-158" n="158">If <hi rend="italics">Tyburn</hi>'s grateful, let it own.</l>
+            <l xml:id="swift-Y37A36L1-line-159" n="159">Ne'er fading Honour crown that Wight,</l>
+            <l xml:id="swift-Y37A36L1-line-160" n="160">Who bid him kneel, and rise <hi rend="italics">Sir Knight</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-161" n="161">And let his Acts remember'd grace</l>
+            <l xml:id="swift-Y37A36L1-line-162" n="162">The noble Scyons of his Race.</l>
+            <l xml:id="swift-Y37A36L1-line-163" n="163">You'll tell, if still your Malice rises,</l>
+            <l xml:id="swift-Y37A36L1-line-164" n="164">Strange Stories of <hi rend="italics">Clonmel</hi> Assizes.</l>
+            <l xml:id="swift-Y37A36L1-line-165" n="165">If fearless thus you're let to write,</l>
+            <l xml:id="swift-Y37A36L1-line-166" n="166">You'll from a <hi rend="italics">Felon</hi> trace a <hi rend="italics">Knight</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-167" n="167">And blot more Hatchments in an Hour,</l>
+            <l xml:id="swift-Y37A36L1-line-168" n="168">Than <hi rend="italics">Hawkins</hi> can contrive in four.</l>
+            <l xml:id="swift-Y37A36L1-line-169" n="169">And last of all, since <hi rend="italics">Ormond's Grace,</hi></l>
+            <l xml:id="swift-Y37A36L1-line-170" n="170"><hi rend="italics">St. John</hi> and <hi rend="italics">Harley</hi> were in Place,</l>
+            <l xml:id="swift-Y37A36L1-line-171" n="171">You ne'er were at a Levee seen</l>
+            <l xml:id="swift-Y37A36L1-line-172" n="172">To beg a Place with humble Grin.</l>
+            <l xml:id="swift-Y37A36L1-line-173" n="173">Sir <hi rend="italics">Blue-string</hi>, now the first of Men,</l>
+            <l xml:id="swift-Y37A36L1-line-174" n="174">Owes not a Distich to thy Pen;</l>
+            <l xml:id="swift-Y37A36L1-line-175" n="175">Who shouldst have drawn him Just and Wise,</l>
+            <l xml:id="swift-Y37A36L1-line-176" n="176">And Good── enough, he dies! he dies!</l>
+            <l rend="indent(1)" xml:id="swift-Y37A36L1-line-177" n="177"><lb/>N<hi rend="small-caps">OW</hi>, Bards and Bardlings, all prepare,</l>
+            <l xml:id="swift-Y37A36L1-line-178" n="178">Each in the Execution share;</l>
+            <l xml:id="swift-Y37A36L1-line-179" n="179">Pour out your Scribes of different sorts,</l>
+            <l xml:id="swift-Y37A36L1-line-180" n="180"><hi rend="italics">Colleges, Garrets, Inns o'Courts</hi>:</l>
+            <l xml:id="swift-Y37A36L1-line-181" n="181">First <hi rend="italics">B</hi>****, Lungs are thy Renown,</l>
+            <l xml:id="swift-Y37A36L1-line-182" n="182">Open, and speech the Varlet down;</l>
+            <l xml:id="swift-Y37A36L1-line-183" n="183">And between whiles, Sir <hi rend="italics">T────m</hi>, do you in-</l>
+            <l xml:id="swift-Y37A36L1-line-184" n="184">Terpose a Sentence to his Ruin;</l>
+            <l xml:id="swift-Y37A36L1-line-185" n="185"><hi rend="italics">Arbuckle</hi>, rise upon thy Sticks,</l>
+            <l xml:id="swift-Y37A36L1-line-186" n="186">And stifle him with Politicks:</l>
+            <l xml:id="swift-Y37A36L1-line-187" n="187">Tickle him to Death, smooth <hi rend="italics">D────t</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-188" n="188">You are an Adept at that Sport.</l>
+            <l xml:id="swift-Y37A36L1-line-189" n="189">And oh, tremendous <hi rend="italics">Bezaleel</hi>!</l>
+            <l xml:id="swift-Y37A36L1-line-190" n="190">Let him thy <hi rend="italics">blunted</hi> Poiniard feel;</l>
+            <l xml:id="swift-Y37A36L1-line-191" n="191">Lay on, if you can't pierce his Skin,</l>
+            <l xml:id="swift-Y37A36L1-line-192" n="192">Give him black Eyes, and break his Chin;</l>
+            <l xml:id="swift-Y37A36L1-line-193" n="193">Detach, ye Garrets of <hi rend="italics">Back-Lane</hi>,</l>
+            <l xml:id="swift-Y37A36L1-line-194" n="194">Your Writers, to destroy the <hi rend="italics">Dean</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-195" n="195">You, Freshmen, Scriblers of the College,</l>
+            <l xml:id="swift-Y37A36L1-line-196" n="196">Squirt at the Caitiff all your Knowledge;</l>
+            <l xml:id="swift-Y37A36L1-line-197" n="197">And make him rue the Moment when</l>
+            <l xml:id="swift-Y37A36L1-line-198" n="198">He on the <hi rend="italics">Dunces</hi> drew his Pen.</l>
+            <l xml:id="swift-Y37A36L1-line-199" n="199">Ye News Boys, you're a sort of Bard,</l>
+            <l xml:id="swift-Y37A36L1-line-200" n="200">Roar loud, lay on his Hearing hard;</l>
+            <l xml:id="swift-Y37A36L1-line-201" n="201">And if you fail to roar him down,</l>
+            <l xml:id="swift-Y37A36L1-line-202" n="202">Throw all the <hi rend="italics">Kennels</hi> on his Gown;</l>
+            <l xml:id="swift-Y37A36L1-line-203" n="203">For <hi rend="italics">Dirt</hi>, and <hi rend="italics">Mud</hi>, and <hi rend="italics">stinking</hi> Water,</l>
+            <l xml:id="swift-Y37A36L1-line-204" n="204">Are good Ingredients for a <hi rend="italics">Satyr</hi>.</l>
+            <l xml:id="swift-Y37A36L1-line-205" n="205">Lay on, lay on, our noble Party,</l>
+            <l xml:id="swift-Y37A36L1-line-206" n="206">All from Dunce <hi rend="italics">Theobald</hi> to Dunce <hi rend="italics">C────y</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-207" n="207">But see in vain you kick and cuff,</l>
+            <l xml:id="swift-Y37A36L1-line-208" n="208">Call Son of a <hi rend="italics">Whore</hi>, and <hi rend="italics">swear</hi> and <hi rend="italics">huff</hi>;</l>
+            <l xml:id="swift-Y37A36L1-line-209" n="209">His woundless Hide returns the Blows</l>
+            <l xml:id="swift-Y37A36L1-line-210" n="210">Full of th' Assailant's bloody Nose.</l>
+            <l xml:id="swift-Y37A36L1-line-211" n="211">Oons; so much Dirt for nothing thrown!</l>
+            <l xml:id="swift-Y37A36L1-line-212" n="212">What! not so much as soil his Gown!</l>
+            <l xml:id="swift-Y37A36L1-line-213" n="213">By G────d, the very Devil himself,</l>
+            <l xml:id="swift-Y37A36L1-line-214" n="214">Is come to patronize the Elf;</l>
+            <l xml:id="swift-Y37A36L1-line-215" n="215">See how he grins, and makes his Sport,</l>
+            <l xml:id="swift-Y37A36L1-line-216" n="216">G──d damn his Blood──── Dismiss the Court.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

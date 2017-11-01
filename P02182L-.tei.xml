@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MOTTO.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3JE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 22FE02 agt O Vet. A5f. 1460 copy, from EC reel 11017; ed. JW 1DE05, 7DE08</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P02182L-">
+          <head type="note" n="1" xml:id="spp-P02182L--headnote-1">
+            <lg n="1" xml:id="spp-P02182L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02182L--headnote-1-line-group-1-line-1">	Swift, in one of his morning walks in Dublin, observing a new sign on a publican's counter with George the First's head on it, stepped into the shop and asked the man his reeson for chusing such a sign, who replied it was to oblige some of his customers, who were very good friends to him when he kept the sign of the Blue-Bell. “What then (replied the Dean) “you have set aside your old sign?” “Not so, (answered the publican) “for you see, Sir, (shewing him the other side of the sign) “I endeavour to please all parties. Here is the Blue-Bell: and I wish, Sir, you would oblige me with a motto.” The wit, who was no friend to the Hanoverian succession, called for a piece of chalk, and wrote under the King's Head,&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P02182L--headnote-2">
+            <lg n="1" xml:id="spp-P02182L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02182L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P02182L--headnote-3">
+            <lg n="1" xml:id="spp-P02182L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02182L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-P02182L--line-1" n="1">May the King live long!</l>
+            <l rend="center" xml:id="swift-P02182L--line-2" n="2">And under the Bell,<lb/>Dong-ding! ding dong!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

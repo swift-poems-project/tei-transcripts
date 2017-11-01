@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  R<hi rend="small-caps">EVOLUTION</hi> at <hi rend="italics">Market-Hill</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 22JA99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="883-05P2">
+          <head type="note" n="1" xml:id="spp-883-05P2-headnote-1">
+            <lg n="1" xml:id="spp-883-05P2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-883-05P2-headnote-1-line-group-1-line-1">Written in the Year 1730.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-883-05P2-headnote-2">
+            <lg n="1" xml:id="spp-883-05P2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-883-05P2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-883-05P2-headnote-3">
+            <lg n="1" xml:id="spp-883-05P2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-883-05P2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-883-05P2-line-1" n="1"><hi rend="display-initial">F</hi>ROM distant Regions Fortune sends</l>
+            <l xml:id="swift-883-05P2-line-2" n="2">An odd Triumvirate of Friends;</l>
+            <l xml:id="swift-883-05P2-line-3" n="3">Where <hi rend="italics">Phœbus</hi> pays a scanty Stipend,</l>
+            <l xml:id="swift-883-05P2-line-4" n="4">Where never yet a Codling ripen'd:</l>
+            <l xml:id="swift-883-05P2-line-5" n="5">Hither the frantick Goddess draws</l>
+            <l xml:id="swift-883-05P2-line-6" n="6">Three Sufferers in a ruin'd Cause:</l>
+            <l xml:id="swift-883-05P2-line-7" n="7">By Faction banisht here unite,</l>
+            <l xml:id="swift-883-05P2-line-8" n="8">A D──n, a <note place="foot">·Col. <hi rend="italics">Harry Leslie</hi>, who serv'd and liv'd long in <hi rend="italics">Spain</hi>.</note> <hi rend="italics">Spaniard</hi>, and a Knight</l>
+            <l xml:id="swift-883-05P2-line-9" n="9">Unite; but on Conditions cruel;</l>
+            <l xml:id="swift-883-05P2-line-10" n="10">The D──n and <hi rend="italics">Spaniard</hi> find it too well:</l>
+            <l xml:id="swift-883-05P2-line-11" n="11">Condemn'd to live in Service hard;</l>
+            <l xml:id="swift-883-05P2-line-12" n="12">On either Side his Honours guard.</l>
+            <l xml:id="swift-883-05P2-line-13" n="13">The D──n, to guard his Honour's Back,</l>
+            <l xml:id="swift-883-05P2-line-14" n="14">Must build a Castle at <note place="foot">·The <hi rend="italics">Irish</hi> Name of a Farm the <hi rend="italics">D──n</hi> took, and was to build on, but changed his Mind: He called it <hi rend="italics">Drapier's Hill. Vide</hi> that Poem.</note> <hi rend="italics">Drumlack</hi>;</l>
+            <l xml:id="swift-883-05P2-line-15" n="15">The <hi rend="italics">Spaniard</hi>, sore against his Will,</l>
+            <l xml:id="swift-883-05P2-line-16" n="16">Must raise a Fort at <hi rend="italics">Market-Hill</hi>.</l>
+            <l xml:id="swift-883-05P2-line-17" n="17">And thus, the Pair of humble Gentry,</l>
+            <l xml:id="swift-883-05P2-line-18" n="18">At <hi rend="italics">North</hi> and <hi rend="italics">South</hi> are posted Sentry;</l>
+            <l xml:id="swift-883-05P2-line-19" n="19">While on his lordly Castle fixt,</l>
+            <l xml:id="swift-883-05P2-line-20" n="20">The Knight triumphant reigns betwixt:</l>
+            <l xml:id="swift-883-05P2-line-21" n="21">And, what the Wretches most resent,</l>
+            <l xml:id="swift-883-05P2-line-22" n="22">To be his Slaves, must pay him Rent;</l>
+            <l xml:id="swift-883-05P2-line-23" n="23">Attend him daily as their <hi rend="italics">Chief</hi>,</l>
+            <l xml:id="swift-883-05P2-line-24" n="24">Decant his Wine, and carve his Beef.</l>
+            <l xml:id="swift-883-05P2-line-25" n="25">Oh, Fortune! 'tis a Scandal for thee</l>
+            <l xml:id="swift-883-05P2-line-26" n="26">To smile on those who are least worthy:</l>
+            <l xml:id="swift-883-05P2-line-27" n="27">Weigh but the Merits of the Three,</l>
+            <l xml:id="swift-883-05P2-line-28" n="28">His Slaves have ten times more than he.</l>
+            <l rend="indent(1)" xml:id="swift-883-05P2-line-29" n="29">P<hi rend="small-caps">ROUD</hi> Baronet of <hi rend="italics">Novæ Scotiæ</hi>,</l>
+            <l xml:id="swift-883-05P2-line-30" n="30">The D──n and <hi rend="italics">Spaniard</hi> must reproach ye;</l>
+            <l xml:id="swift-883-05P2-line-31" n="31">Of their two Fames the World enough rings;</l>
+            <l xml:id="swift-883-05P2-line-32" n="32">Where are <hi rend="italics">thy</hi> Services and Sufferings?</l>
+            <l xml:id="swift-883-05P2-line-33" n="33">What, if for nothing once you kist,</l>
+            <l xml:id="swift-883-05P2-line-34" n="34">Against the Grain a M────s Fist?</l>
+            <l xml:id="swift-883-05P2-line-35" n="35">What, if among the Courtly Tribe,</l>
+            <l xml:id="swift-883-05P2-line-36" n="36">You lost a Place, and sav'd a Bribe?</l>
+            <l xml:id="swift-883-05P2-line-37" n="37">And, then in surly Mo\inserted o\d\deleted e\ came here</l>
+            <l xml:id="swift-883-05P2-line-38" n="38">To fifteen hundred Pounds a Year,</l>
+            <l xml:id="swift-883-05P2-line-39" n="39">And fierce against the Whigs harangu'd?</l>
+            <l xml:id="swift-883-05P2-line-40" n="40">You never ventur'd to be hang'd.</l>
+            <l xml:id="swift-883-05P2-line-41" n="41">How dare you treat your Betters thus?</l>
+            <l xml:id="swift-883-05P2-line-42" n="42">Are you to be compar'd with us?</l>
+            <l rend="indent(1)" xml:id="swift-883-05P2-line-43" n="43">C<hi rend="small-caps">OME</hi>, <hi rend="italics">Spaniard</hi>, let us from our Farms</l>
+            <l xml:id="swift-883-05P2-line-44" n="44">Call forth our Cottagers to Arms;</l>
+            <l xml:id="swift-883-05P2-line-45" n="45">Our Forces let us both unite,</l>
+            <l xml:id="swift-883-05P2-line-46" n="46">Attack the Foe at Left and Right:</l>
+            <l xml:id="swift-883-05P2-line-47" n="47">From <note place="foot">·A Village near Sir <hi rend="italics">A── A</hi>──'s Seat.</note> <hi rend="italics">Market-Hill</hi>'s exalted Head,</l>
+            <l xml:id="swift-883-05P2-line-48" n="48">Full northward let your Troops be lead;</l>
+            <l xml:id="swift-883-05P2-line-49" n="49">While I from <hi rend="italics">Drapier's-Mount</hi> descend,</l>
+            <l xml:id="swift-883-05P2-line-50" n="50">And to the South my Squadrons bend:</l>
+            <l xml:id="swift-883-05P2-line-51" n="51"><hi rend="italics">New-River-Walk</hi> with friendly Shade,</l>
+            <l xml:id="swift-883-05P2-line-52" n="52">Shall keep my Host in Ambuscade;</l>
+            <l xml:id="swift-883-05P2-line-53" n="53">While you, from where the Basin stands,</l>
+            <l xml:id="swift-883-05P2-line-54" n="54">Shall scale the Rampart with your Bands:</l>
+            <l xml:id="swift-883-05P2-line-55" n="55">Nor need we doubt the Fort to win;</l>
+            <l xml:id="swift-883-05P2-line-56" n="56">I hold Intelligence within.</l>
+            <l xml:id="swift-883-05P2-line-57" n="57">True, Lady <hi rend="italics">Anne</hi> no Danger fears,</l>
+            <l xml:id="swift-883-05P2-line-58" n="58">Brave as the <hi rend="italics">Upton</hi> Fan she wears;</l>
+            <l xml:id="swift-883-05P2-line-59" n="59">Then lest upon our first Attack</l>
+            <l xml:id="swift-883-05P2-line-60" n="60">Her valiant Arm should force us back,</l>
+            <l xml:id="swift-883-05P2-line-61" n="61">And we of all our Hopes depriv'd;</l>
+            <l xml:id="swift-883-05P2-line-62" n="62">I have a Stratagem contriv'd;</l>
+            <l xml:id="swift-883-05P2-line-63" n="63">By these embroider'd high-heel Shoes,</l>
+            <l xml:id="swift-883-05P2-line-64" n="64">She shall be caught as in a Noose:</l>
+            <l xml:id="swift-883-05P2-line-65" n="65">So well contriv'd her Toes to pinch,</l>
+            <l xml:id="swift-883-05P2-line-66" n="66">She'll not have Power to stir an Inch:</l>
+            <l xml:id="swift-883-05P2-line-67" n="67">These gaudy Shoes must <note place="foot">·My Lady's Waiting-Maid.</note> <hi rend="italics">Hannah</hi> place</l>
+            <l xml:id="swift-883-05P2-line-68" n="68">Direct before her Lady's Face.</l>
+            <l xml:id="swift-883-05P2-line-69" n="69">The Shoes put on; our faithful Portress</l>
+            <l xml:id="swift-883-05P2-line-70" n="70">Admits us in to storm the Fortress;</l>
+            <l xml:id="swift-883-05P2-line-71" n="71">While tortur'd Madam bound remains,</l>
+            <l xml:id="swift-883-05P2-line-72" n="72">Like <hi rend="italics">Montezume</hi> in golden Chains,</l>
+            <l xml:id="swift-883-05P2-line-73" n="73">Or like a Cat with Walnut shod,</l>
+            <l xml:id="swift-883-05P2-line-74" n="74">Stumbling at ev'ry Step she trod.</l>
+            <l xml:id="swift-883-05P2-line-75" n="75">Sly Hunters thus, in <hi rend="italics">Borneo</hi>'s Isle,</l>
+            <l xml:id="swift-883-05P2-line-76" n="76">To catch a Monkey by a Wile;</l>
+            <l xml:id="swift-883-05P2-line-77" n="77">To mimick Animal amuse,</l>
+            <l xml:id="swift-883-05P2-line-78" n="78">They place before him Gloves and Shoes;</l>
+            <l xml:id="swift-883-05P2-line-79" n="79">Which when the Brute puts aukward on,</l>
+            <l xml:id="swift-883-05P2-line-80" n="80">All his Agility is gone:</l>
+            <l xml:id="swift-883-05P2-line-81" n="81">In vain to frisk or clime he tries;</l>
+            <l xml:id="swift-883-05P2-line-82" n="82">The Huntsmen seize the grinning Prize.</l>
+            <l rend="indent(1)" xml:id="swift-883-05P2-line-83" n="83">B<hi rend="small-caps">UT</hi> let us on our first Assault</l>
+            <l xml:id="swift-883-05P2-line-84" n="84">Secure the Larder and the Vault:</l>
+            <l xml:id="swift-883-05P2-line-85" n="85">The valiant <note place="foot">·The Butler.</note> <hi rend="italics">Dennis</hi> you must fix on,</l>
+            <l xml:id="swift-883-05P2-line-86" n="86">And I'll engage with <note place="foot">·The House-keeper.</note> <hi rend="italics">Peggy Dixon</hi>:</l>
+            <l xml:id="swift-883-05P2-line-87" n="87">Then if we once can seize the Key</l>
+            <l xml:id="swift-883-05P2-line-88" n="88">And Chest, that keeps my Lady's Tea,</l>
+            <l xml:id="swift-883-05P2-line-89" n="89">They must surrender at Discretion:</l>
+            <l xml:id="swift-883-05P2-line-90" n="90">And soon as we have gain'd Possession,</l>
+            <l xml:id="swift-883-05P2-line-91" n="91">We'll act as other Conqu'rors do,</l>
+            <l xml:id="swift-883-05P2-line-92" n="92">Divide the Realm between us two:</l>
+            <l xml:id="swift-883-05P2-line-93" n="93">Then (let me see) we'll make the Knight</l>
+            <l xml:id="swift-883-05P2-line-94" n="94">Our Clerk, for he can read and write;</l>
+            <l xml:id="swift-883-05P2-line-95" n="95">But, must not think, I tell him that,</l>
+            <l xml:id="swift-883-05P2-line-96" n="96">Like <note place="foot">·The Agent.</note> <hi rend="italics">Loniner</hi>, to wear his Hat;</l>
+            <l xml:id="swift-883-05P2-line-97" n="97">Yet, when we dine without a Friend,</l>
+            <l xml:id="swift-883-05P2-line-98" n="98">We'll place him at the lower End.</l>
+            <l xml:id="swift-883-05P2-line-99" n="99">Madam, whose Skill does all in Dress lye,</l>
+            <l xml:id="swift-883-05P2-line-100" n="100">May serve to wait on Mrs. <hi rend="italics">Leslie</hi>;</l>
+            <l xml:id="swift-883-05P2-line-101" n="101">But, lest it might not be so proper,</l>
+            <l xml:id="swift-883-05P2-line-102" n="102">That her own Maid should over-top her;</l>
+            <l xml:id="swift-883-05P2-line-103" n="103">To mortify the Creature more,</l>
+            <l xml:id="swift-883-05P2-line-104" n="104">We'll take her Heels five Inches lower.</l>
+            <l rend="indent(1)" xml:id="swift-883-05P2-line-105" n="105"><lb/>F<hi rend="small-caps">OR</hi> <hi rend="italics">Hannah</hi>, when we have no Need of her,</l>
+            <l xml:id="swift-883-05P2-line-106" n="106">'Twill be our Interest to get rid of her:</l>
+            <l xml:id="swift-883-05P2-line-107" n="107">And when we execute our Plot,</l>
+            <l xml:id="swift-883-05P2-line-108" n="108">'Tis best to hang her on the Spot;</l>
+            <l xml:id="swift-883-05P2-line-109" n="109">As all your Politicians wise</l>
+            <l xml:id="swift-883-05P2-line-110" n="110">Dispatch the Rogues by whom they rise.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

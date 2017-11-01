@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Tale of a Nettle.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 21DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X85-T13-">
+          <head type="note" n="1" xml:id="spp-X85-T13--headnote-1">
+            <lg n="1" xml:id="spp-X85-T13--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X85-T13--headnote-1-line-group-1-line-1">CAMBRIDGE, Printed in the Year, 1710&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X85-T13--headnote-2">
+            <lg n="1" xml:id="spp-X85-T13--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X85-T13--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X85-T13--headnote-3">
+            <lg n="1" xml:id="spp-X85-T13--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X85-T13--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-X85-T13--line-1" n="1"><hi rend="display-initial">A</hi> MAN with Expence of wonderful Toil,</l><l xml:id="swift-X85-T13--line-2" n="2">By Planting and Dunging Enobled his Soil;</l><l xml:id="swift-X85-T13--line-3" n="3">There Fruits of the Best the Taste did invite,</l><l xml:id="swift-X85-T13--line-4" n="4">And uniform Order still courted the Sight:</l><l xml:id="swift-X85-T13--line-5" n="5">No degenerate Weed the Rich Ground did produce,</l><l xml:id="swift-X85-T13--line-6" n="6">And all things afforded both Beauty and Use;</l><l xml:id="swift-X85-T13--line-7" n="7">'Till from Dunghill transplanted, while yet but a Seed,</l><l xml:id="swift-X85-T13--line-8" n="8">A <hi rend="italics">NETTLE</hi> rear'd up his Inglorious Head:</l><l xml:id="swift-X85-T13--line-9" n="9">The Gard'ner wou'd wisely have rooted him up,</l><l xml:id="swift-X85-T13--line-10" n="10">To stop the Increase of a Barbarous Crop;</l><l xml:id="swift-X85-T13--line-11" n="11">But the Master forbad him, and after the Fashion,</l><l xml:id="swift-X85-T13--line-12" n="12">Of foolish good Nature, and blind <hi rend="italics">Moderation</hi>;</l><l xml:id="swift-X85-T13--line-13" n="13">Forbore him thro' Pity, and chose as much rather</l><l xml:id="swift-X85-T13--line-14" n="14">To ask him some Questions first, how he came thither.</l><l rend="indent(1)" xml:id="swift-X85-T13--line-15" n="15"><hi rend="italics">Kind Sir</hi>, Quoth the NETTLE, <hi rend="italics">a Stranger I come,</hi></l><l xml:id="swift-X85-T13--line-16" n="16">For Conscience compell'd to relinquish my home;</l><l xml:id="swift-X85-T13--line-17" n="17">'Cause I wou'd not Subscribe, to a Mystery Dark</l><l xml:id="swift-X85-T13--line-18" n="18">That the Prince of all Trees was the Jesuits Bark.</l><l xml:id="swift-X85-T13--line-19" n="19">An Erroneous Tenet, I know, Sir, that you</l><l xml:id="swift-X85-T13--line-20" n="20">Know more than my self will allow to be true;</l><l xml:id="swift-X85-T13--line-21" n="21">To you I for Refuge and Sanctuary Sue,</l><l xml:id="swift-X85-T13--line-22" n="22">There's none so renown'd for Compassion as you:</l><l xml:id="swift-X85-T13--line-23" n="23">And tho' in some Things I may differ from these</l><l xml:id="swift-X85-T13--line-24" n="24">The rest of the Faithful and Beautiful Trees;</l><l xml:id="swift-X85-T13--line-25" n="25">Tho' your Digging and Dunging my Nature much harms,</l><l xml:id="swift-X85-T13--line-26" n="26">And I cannot comply with the Gard'ner in Forms;</l><l xml:id="swift-X85-T13--line-27" n="27">Yet I and our Family, after our Fashion,</l><l xml:id="swift-X85-T13--line-28" n="28">Will peaceably stick to our own Education:</l><l xml:id="swift-X85-T13--line-29" n="29">Be pleas'd to allow us a Place for to rest in,</l><l xml:id="swift-X85-T13--line-30" n="30">'Mongst the rest of your Trees, we'll never molest 'em.</l><l xml:id="swift-X85-T13--line-31" n="31">A kind Shelter to us, and Protection afford,</l><l xml:id="swift-X85-T13--line-32" n="32">A kind Shelter to us, and Protection afford,We'll do you no harm, I'll give you my Word</l>.<l rend="indent(1)" xml:id="swift-X85-T13--line-33" n="33">The good Man was soon won by this plausible Tale,</l><l xml:id="swift-X85-T13--line-34" n="34">(So Fraud on good Nature does often prevail.)</l><l xml:id="swift-X85-T13--line-35" n="35">He welcomes his Guest, gives him free <hi rend="italics">Toleration</hi></l><l xml:id="swift-X85-T13--line-36" n="36">In the midst of his Garden to take up his Station;</l><l xml:id="swift-X85-T13--line-37" n="37">And into his Bosom do's his Enemy bring,</l><l xml:id="swift-X85-T13--line-38" n="38">He never suspected the <hi rend="italics">NETTLE</hi> wou'd Sting;</l><l xml:id="swift-X85-T13--line-39" n="39">Still flush'd with Success of Strength to be fear'd,</l><l xml:id="swift-X85-T13--line-40" n="40">Around him a numerous Off-spring he rear'd.</l><l xml:id="swift-X85-T13--line-41" n="41">Then the <hi rend="italics">Master</hi> grew sensible what he had done.</l><l xml:id="swift-X85-T13--line-42" n="42">And fain wou'd have had his new Guest to be gone;</l><l xml:id="swift-X85-T13--line-43" n="43">But now 'twas too late to bid him turn out,</l><l xml:id="swift-X85-T13--line-44" n="44">A well rooted possession already was got:</l><l xml:id="swift-X85-T13--line-45" n="45">The old Trees decay'd, and in there room grew,</l><l xml:id="swift-X85-T13--line-46" n="46">A stubborn, rank, pestilent, poysonous Crew</l><l xml:id="swift-X85-T13--line-47" n="47">The Master who first, that young Brood had admitted,</l><l xml:id="swift-X85-T13--line-48" n="48">They stung like Ingrates, and left him unpitied;</l><l xml:id="swift-X85-T13--line-49" n="49">No help from Manuring and Planting was found,</l><l xml:id="swift-X85-T13--line-50" n="50">The Weeds had Eat out the Heart of the Ground,</l><l xml:id="swift-X85-T13--line-51" n="51">om.</l><l xml:id="swift-X85-T13--line-52" n="52">om.</l><l rend="indent(1)" xml:id="swift-X85-T13--line-53" n="53">Thus one <hi rend="italics">NETTLE</hi> uncropt, encreas'd to such store,</l><l rend="indent(1)" xml:id="swift-X85-T13--line-54" n="54">That 'twas nothing but Weeds, what was Garden before.</l><l xml:id="swift-X85-T13--line-55" n="55">om.</l><l xml:id="swift-X85-T13--line-56" n="56">om.</l><l xml:id="swift-X85-T13--line-57" n="57">om.</l><l xml:id="swift-X85-T13--line-58" n="58">om.</l><l xml:id="swift-X85-T13--line-59" n="59">om.</l><l xml:id="swift-X85-T13--line-60" n="60">om.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

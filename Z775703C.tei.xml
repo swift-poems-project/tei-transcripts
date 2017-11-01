@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 28OC03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z775703C">
+          <head type="note" n="1" xml:id="spp-Z775703C-headnote-1">
+            <lg n="1" xml:id="spp-Z775703C-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z775703C-headnote-1-line-group-1-line-1">Whereas Serjeant Kite the 2<hi rend="superscript">d</hi> has said that no man in Ireland coud find a Rhyme to his Name but the Dean of S<hi rend="superscript">t</hi> Patricks; this is to convince the Publick that there are 11 more to it.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z775703C-headnote-2">
+            <lg n="1" xml:id="spp-Z775703C-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z775703C-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z775703C-headnote-3">
+            <lg n="1" xml:id="spp-Z775703C-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z775703C-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z775703C-line-1" n="1">What is a Price for Serjeant B──────th</l>
+            <l xml:id="swift-Z775703C-line-2" n="2">No more than an old Cabbage-Net's worth.</l>
+            <l xml:id="swift-Z775703C-line-3" n="3">As much as Gut of stinking Brett's Worth</l>
+            <l xml:id="swift-Z775703C-line-4" n="4">Is full enough for Booby ────────</l>
+            <l xml:id="swift-Z775703C-line-5" n="5">A stifled whifling Fart I let's worth</l>
+            <l xml:id="swift-Z775703C-line-6" n="6">A long Harangue of blund'ring ──────</l>
+            <l xml:id="swift-Z775703C-line-7" n="7">To see a mongrell Monkey fret's worth</l>
+            <l xml:id="swift-Z775703C-line-8" n="8">A Ship-load of such Bears as ────────</l>
+            <l xml:id="swift-Z775703C-line-9" n="9">A Scoundrel in a Iayl for Dept's worth</l>
+            <l xml:id="swift-Z775703C-line-10" n="10">Both Soul and Body of Dick ────────</l>
+            <l xml:id="swift-Z775703C-line-11" n="11">A falling Cabbin which I let's worth</l>
+            <l xml:id="swift-Z775703C-line-12" n="12">Two Groats a Year beyond Dick ────────</l>
+            <l xml:id="swift-Z775703C-line-13" n="13">An Owl I have at home to pet's worth</l>
+            <l xml:id="swift-Z775703C-line-14" n="14">Six Brace of Puppies like Dick ────────</l>
+            <l xml:id="swift-Z775703C-line-15" n="15">A sharping Gamester at Picket's Worth</l>
+            <l xml:id="swift-Z775703C-line-16" n="16">A thousand Sharpers like Dick ──────</l>
+            <l xml:id="swift-Z775703C-line-17" n="17">A skillfull Gamester who woud set's worth</l>
+            <l xml:id="swift-Z775703C-line-18" n="18">Sets a black Dog against Dick ────────</l>
+            <l xml:id="swift-Z775703C-line-19" n="19">A pinion'd Thief in Halter met's worth</l>
+            <l xml:id="swift-Z775703C-line-20" n="20">A Cart-load of such Dogs as ────────</l>
+            <l xml:id="swift-Z775703C-line-21" n="21">A Lady's Dicky with piss wet's worth</l>
+            <l xml:id="swift-Z775703C-line-22" n="22">A thousand Dickies like Dick ────────</l>
+            <l xml:id="swift-Z775703C-line-23" n="23">And therefore I'll conclude that Sweat's worth</l>
+            <l xml:id="swift-Z775703C-line-24" n="24">Makes up twelve good Rhimes to Betesworth.</l>
+            <l xml:id="swift-Z775703C-line-25" n="25"><lb/>N. B. A man shoud be very certain before he affirms any thing.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

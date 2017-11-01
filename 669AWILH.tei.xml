@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/> AGAINST<lb/>  CARTHY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="669AWILH">
+          <head type="note" n="1" xml:id="spp-669AWILH-headnote-1">
+            <lg n="1" xml:id="spp-669AWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-669AWILH-headnote-1-line-group-1-line-1"><hi rend="italics">By</hi> S<hi rend="small-caps">WIFT</hi> <hi rend="italics">and Others</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-669AWILH-headnote-2">
+            <lg n="1" xml:id="spp-669AWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-669AWILH-headnote-2-line-group-1-line-1"><hi rend="italics">On the Edition of </hi>Carthy<hi rend="italics">'s Translation opposite to</hi> Horace.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-669AWILH-headnote-3">
+            <lg n="1" xml:id="spp-669AWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-669AWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-669AWILH-line-1" n="1"><hi rend="display-initial">S</hi>O blush'd <hi rend="italics">Aurora</hi> with cœlestial Charms,</l>
+            <l xml:id="swift-669AWILH-line-2" n="2">So bloom'd the Goddess in a Mortal's Arms.</l>
+            <l xml:id="swift-669AWILH-line-3" n="3">He sunk at length to wasting Age a Prey,</l>
+            <l xml:id="swift-669AWILH-line-4" n="4">But thy Book perish'd on its natal Day.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

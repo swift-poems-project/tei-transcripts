@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underlined">Extempore Verses</hi> by <hi rend="underlined">D<hi rend="superscript">r.</hi> <hi rend="underlined">Swift</hi>, on his<lb/>  <hi rend="underlined">Curate's</hi> complaining of <hi rend="underlined">hard Duty</hi>.</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 21JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-052L">
+          <head type="note" n="1" xml:id="spp-675-052L-headnote-1">
+            <lg n="1" xml:id="spp-675-052L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-052L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-675-052L-headnote-2">
+            <lg n="1" xml:id="spp-675-052L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-052L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-675-052L-headnote-3">
+            <lg n="1" xml:id="spp-675-052L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-052L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-675-052L-line-1" n="1">I march'd <hi rend="underlined">three Miles</hi> on scorching Sand,</l>
+            <l xml:id="swift-675-052L-line-2" n="2">With Zeal in Heart, &amp; Notes in Hand.</l>
+            <l xml:id="swift-675-052L-line-3" n="3">I rode <hi rend="underlined">four more</hi> to <hi rend="underlined">Great S<hi rend="superscript">t.<hi rend="underlined"> Mary</hi>,</hi></hi></l>
+            <l xml:id="swift-675-052L-line-4" n="4">Using <hi rend="underlined">four Legs</hi>, when <hi rend="underlined">two</hi> were weary.</l>
+            <l xml:id="swift-675-052L-line-5" n="5">To <hi rend="underlined">two fair Virgins</hi> did I tie Men</l>
+            <l xml:id="swift-675-052L-line-6" n="6">In the close Bands of pleasing <hi rend="underlined">Hymen</hi>.</l>
+            <l xml:id="swift-675-052L-line-7" n="7">I dipt <hi rend="underlined">three Babes</hi> in <hi rend="underlined">Holy Water</hi>,</l>
+            <l xml:id="swift-675-052L-line-8" n="8">And <hi rend="underlined">purified</hi> their <hi rend="underlined">Mothers</hi> after.</l>
+            <l xml:id="swift-675-052L-line-9" n="9">Within an <hi rend="underlined">Hour</hi> &amp; eke <hi rend="underlined">an half</hi>,</l>
+            <l xml:id="swift-675-052L-line-10" n="10">I preach'd <hi rend="underlined">three Congregations</hi> deaf:</l>
+            <l xml:id="swift-675-052L-line-11" n="11">om.</l>
+            <l xml:id="swift-675-052L-line-12" n="12">om.</l>
+            <l xml:id="swift-675-052L-line-13" n="13">Which thundring out with Lungs Long-winded,</l>
+            <l xml:id="swift-675-052L-line-14" n="14">I chopt so fast, that few there minded.</l>
+            <l xml:id="swift-675-052L-line-15" n="15">My <hi rend="underlined">Emblem</hi>, the <hi rend="underlined">unwearied Sun</hi>,</l>
+            <l xml:id="swift-675-052L-line-16" n="16">Saw all these mighty Labours done,</l>
+            <l xml:id="swift-675-052L-line-17" n="17">Before <hi rend="underlined">one Race</hi> of his was run.</l>
+            <l xml:id="swift-675-052L-line-18" n="18">All this perform'd by <hi rend="underlined">Robert Hewitt</hi>.</l>
+            <l xml:id="swift-675-052L-line-19" n="19">What Mortal else could e're go thro' it?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

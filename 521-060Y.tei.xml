@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Stephen Duck.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 16FE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="521-060Y">
+          <head type="note" n="1" xml:id="spp-521-060Y-headnote-1">
+            <lg n="1" xml:id="spp-521-060Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-060Y-headnote-1-line-group-1-line-1"> B<hi rend="small-caps">Y </hi>D<hi rend="small-caps">EAN </hi>S<hi rend="small-caps">WIFT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-521-060Y-headnote-2">
+            <lg n="1" xml:id="spp-521-060Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-060Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-521-060Y-headnote-3">
+            <lg n="1" xml:id="spp-521-060Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-060Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-521-060Y-line-1" n="1">The Thresher Duck could oer the Q────n prevail</l>
+            <l xml:id="swift-521-060Y-line-2" n="2">The Proverb says N<hi rend="small-caps">O </hi>F<hi rend="small-caps">ENCE </hi>A<hi rend="small-caps">GAINST</hi> A F<hi rend="small-caps">LAIL</hi></l>
+            <l xml:id="swift-521-060Y-line-3" n="3">From threshing Corn he turns to thresh his brains</l>
+            <l xml:id="swift-521-060Y-line-4" n="4">For which her M────y allows him Grains</l>
+            <l xml:id="swift-521-060Y-line-5" n="5">Tho' 'tis confest that those who ever Saw\<hi rend="italics">del</hi>·his·Poems\</l>
+            <l xml:id="swift-521-060Y-line-6" n="6">His Poems, think 'em all not worth a Straw</l>
+            <l xml:id="swift-521-060Y-line-7" n="7">Thrice happy D<hi rend="small-caps">UCK</hi> employ'd in threshing Stubble</l>
+            <l xml:id="swift-521-060Y-line-8" n="8">Thy Toil is lessen'd and thy Profits doubled.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

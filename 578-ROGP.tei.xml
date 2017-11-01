@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">On the Day of Judgement</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-ROGP">
+          <head type="note" n="1" xml:id="spp-578-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-578-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-578-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-578-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-ROGP-line-1" n="1">With a whirl of thought oppressed,</l>
+            <l xml:id="swift-578-ROGP-line-2" n="2">I sink from reverie to rest.</l>
+            <l xml:id="swift-578-ROGP-line-3" n="3">An horrid vision seized my head,</l>
+            <l xml:id="swift-578-ROGP-line-4" n="4">I saw the graves give up their dead.</l>
+            <l xml:id="swift-578-ROGP-line-5" n="5">Jove, armed with terrors, burst the skies,</l>
+            <l xml:id="swift-578-ROGP-line-6" n="6">And thunder roars, and lightning flies!</l>
+            <l xml:id="swift-578-ROGP-line-7" n="7">Amazed, confused, its fate unknown,</l>
+            <l xml:id="swift-578-ROGP-line-8" n="8">The world stands trembling at his throne.</l>
+            <l xml:id="swift-578-ROGP-line-9" n="9">While each pale sinner hangs his head,</l>
+            <l xml:id="swift-578-ROGP-line-10" n="10">Jove, nodding, shook the heavens, and said,</l>
+            <l xml:id="swift-578-ROGP-line-11" n="11">'Offending race of humankind,</l>
+            <l xml:id="swift-578-ROGP-line-12" n="12">By nature, reason, learning, blind;</l>
+            <l xml:id="swift-578-ROGP-line-13" n="13">You who through frailty stepped aside,</l>
+            <l xml:id="swift-578-ROGP-line-14" n="14">And you who never fell── <hi rend="italics">through pride</hi>;</l>
+            <l xml:id="swift-578-ROGP-line-15" n="15">You who in different sects have shammed,</l>
+            <l xml:id="swift-578-ROGP-line-16" n="16">And come to see each other damned;</l>
+            <l xml:id="swift-578-ROGP-line-17" n="17">(So some folks told you, but they knew</l>
+            <l xml:id="swift-578-ROGP-line-18" n="18">No more of Jove's designs than you)</l>
+            <l xml:id="swift-578-ROGP-line-19" n="19">The world's mad business now is o'er,</l>
+            <l xml:id="swift-578-ROGP-line-20" n="20">And I resent these pranks no more.</l>
+            <l xml:id="swift-578-ROGP-line-21" n="21">I to such blockheads set my wit!</l>
+            <l xml:id="swift-578-ROGP-line-22" n="22">I damn such fools!── Go, go you're bit.'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

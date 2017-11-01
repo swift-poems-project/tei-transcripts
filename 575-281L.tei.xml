@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Place for the Damn'd.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="575-281L">
+          <head type="note" n="1" xml:id="spp-575-281L-headnote-1">
+            <lg n="1" xml:id="spp-575-281L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-575-281L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-575-281L-headnote-2">
+            <lg n="1" xml:id="spp-575-281L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-575-281L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-575-281L-headnote-3">
+            <lg n="1" xml:id="spp-575-281L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-575-281L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-575-281L-line-1" n="1">All Folks Who pretend to Religion and Grace</l>
+            <l xml:id="swift-575-281L-line-2" n="2">Allow there's a Hell, but dispute of the Place;</l>
+            <l xml:id="swift-575-281L-line-3" n="3">But if Hell may by logical Rules be defin'd,</l>
+            <l xml:id="swift-575-281L-line-4" n="4">The place of the Damn'd── I'll tell you my mind,</l>
+            <l xml:id="swift-575-281L-line-5" n="5">Wherever the Damn'd do chiefly abound,</l>
+            <l xml:id="swift-575-281L-line-6" n="6">Most certainly there is a Hell to be found;</l>
+            <l xml:id="swift-575-281L-line-7" n="7">Damn'd Poets, Damn'd Criticks, Damn'd Blockheads, Damn'd knaves,</l>
+            <l xml:id="swift-575-281L-line-8" n="8">Damn'd Senators brib'd, Damn'd prostitute Slaves,</l>
+            <l xml:id="swift-575-281L-line-9" n="9">Damn'd Lawyers, and Iudges, Damn'd Lords Damnd Squires</l>
+            <l xml:id="swift-575-281L-line-10" n="10">Damn'd Spies and Informers, Damn'd Freinds &amp; damnd Lyars</l>
+            <l xml:id="swift-575-281L-line-11" n="11">Damn'd Villains corrupted in every Station,</l>
+            <l xml:id="swift-575-281L-line-12" n="12">Damn'd time-serving P──ts all over the Nation,</l>
+            <l xml:id="swift-575-281L-line-13" n="13">om.</l>
+            <l xml:id="swift-575-281L-line-14" n="14">om.</l>
+            <l xml:id="swift-575-281L-line-15" n="15">om.</l>
+            <l xml:id="swift-575-281L-line-16" n="16">om.</l>
+            <l xml:id="swift-575-281L-line-17" n="17">And into the bargain I'll readily give ye\s·<hi rend="italics">erased</hi>\,</l>
+            <l xml:id="swift-575-281L-line-18" n="18">Damn'd ignorant Prelates, and Councellors Privy;</l>
+            <l xml:id="swift-575-281L-line-19" n="19">Then let us no longer by Parsons be flamm'd</l>
+            <l xml:id="swift-575-281L-line-20" n="20">For we know by these marks the Place of the Damn'd,</l>
+            <l xml:id="swift-575-281L-line-21" n="21">And Hell, to be sure, is at Paris or Rome;</l>
+            <l xml:id="swift-575-281L-line-22" n="22">How happy for us, that it is not at Home!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

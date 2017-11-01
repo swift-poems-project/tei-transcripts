@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>········</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 24NO01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C600I">
+          <head type="note" n="1" xml:id="spp-401C600I-headnote-1">
+            <lg n="1" xml:id="spp-401C600I-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C600I-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-401C600I-headnote-2">
+            <lg n="1" xml:id="spp-401C600I-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C600I-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-401C600I-headnote-3">
+            <lg n="1" xml:id="spp-401C600I-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C600I-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-401C600I-line-1" n="1">om.</l>
+            <l xml:id="swift-401C600I-line-2" n="2">om.</l>
+            <l xml:id="swift-401C600I-line-3" n="3">om.</l>
+            <l xml:id="swift-401C600I-line-4" n="4">om.</l>
+            <l xml:id="swift-401C600I-line-5" n="5">··· ······ ··· ······ ····· no ······</l>
+            <l rend="indent(1)" xml:id="swift-401C600I-line-6" n="6">··· ···· ···· ······</l>
+            <l xml:id="swift-401C600I-line-7" n="7">····· ·············· ··· ········</l>
+            <l rend="indent(1)" xml:id="swift-401C600I-line-8" n="8">··· ····· ···· ······.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

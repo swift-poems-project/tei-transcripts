@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DR. SWIFT'S REMARKS</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 7AU13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P01781H1">
+          <head type="note" n="1" xml:id="spp-P01781H1-headnote-1">
+            <lg n="1" xml:id="spp-P01781H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P01781H1-headnote-1-line-group-1-line-1">For equal judgement, Lord, to thee,<lb/><lb/>The nations [3] all submit;<lb/>Be therefore [4] merciful to me,<lb/><lb/>And my just soul acquit [5].</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P01781H1-headnote-2">
+            <lg n="1" xml:id="spp-P01781H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P01781H1-headnote-2-line-group-1-line-1">[5] Of what?</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P01781H1-headnote-3">
+            <lg n="1" xml:id="spp-P01781H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P01781H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P01781H1-line-1" n="1">Poor <hi rend="italics">David</hi> never could acquit</l>
+            <l rend="indent(1)" xml:id="swift-P01781H1-line-2" n="2">A criminal like thee,</l>
+            <l xml:id="swift-P01781H1-line-3" n="3">Against his Psalms who could commit</l>
+            <l rend="indent(1)" xml:id="swift-P01781H1-line-4" n="4">Such wicked poetry.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

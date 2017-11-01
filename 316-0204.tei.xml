@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carberiæ Rupes in Comitatu <hi rend="italics">Corgagensi</hi><lb/>  apud <hi rend="italics">Hibernicos</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 2JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 26JL16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="316-0204">
+          <head type="note" n="1" xml:id="spp-316-0204-headnote-1">
+            <lg n="1" xml:id="spp-316-0204-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-316-0204-headnote-1-line-group-1-line-1">Scripsit <hi rend="italics">Jun. Ann. Dom</hi>. 1723.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-316-0204-headnote-2">
+            <lg n="1" xml:id="spp-316-0204-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-316-0204-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-316-0204-headnote-3">
+            <lg n="1" xml:id="spp-316-0204-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-316-0204-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-316-0204-line-1" n="1"><hi rend="display-initial">E</hi>CCE! ingens fragmen scopuli quod vertice summo</l>
+            <l xml:id="swift-316-0204-line-2" n="2">Desuper impendet, nullo fundamine nixum,</l>
+            <l xml:id="swift-316-0204-line-3" n="3">Decidit in fluctus: Maria undiq; &amp; undiq; saxa</l>
+            <l xml:id="swift-316-0204-line-4" n="4">Horrisono stridore tonant, &amp; ad æthera murmur</l>
+            <l xml:id="swift-316-0204-line-5" n="5">Erigitur; trepidatq; suis <hi rend="italics">Neptunus</hi> in undis.</l>
+            <l xml:id="swift-316-0204-line-6" n="6">Nam longâ venti rabie, atq; aspergine crebra</l>
+            <l xml:id="swift-316-0204-line-7" n="7">Æquorei laticis, specus ima rupe cavatur:</l>
+            <l xml:id="swift-316-0204-line-8" n="8">Jam fultura ruit, jam summa cacumina nutant;</l>
+            <l xml:id="swift-316-0204-line-9" n="9">Jam cadit in præceps moles, &amp; verberat undas.</l>
+            <l xml:id="swift-316-0204-line-10" n="10">Attonitus credas, hinc dejecisse Tonantem.</l>
+            <l xml:id="swift-316-0204-line-11" n="11">Montibus impositos montes, &amp; <hi rend="italics">Pelion</hi> altum</l>
+            <l xml:id="swift-316-0204-line-12" n="12">In capita anguipedum cœlo jaculasse gigantum.</l>
+            <l rend="indent(1)" xml:id="swift-316-0204-line-13" n="13"><lb/>Sæpe etiam spelunca immani aperitur hiatu</l>
+            <l xml:id="swift-316-0204-line-14" n="14">Exesa e scopulis, &amp; utrinq; foramina pandit,</l>
+            <l xml:id="swift-316-0204-line-15" n="15">Hinc atq; hinc a ponto ad pontum pervia Phœbo:</l>
+            <l xml:id="swift-316-0204-line-16" n="16">Cautibus enorme junctis laquearia tecti</l>
+            <l xml:id="swift-316-0204-line-17" n="17">Formantur; moles olim ruitura superne.</l>
+            <l xml:id="swift-316-0204-line-18" n="18">Fornice sublimi nidos posuere palumbes,</l>
+            <l xml:id="swift-316-0204-line-19" n="19">Inq; imo stagni posuere cubilia phocæ.</l>
+            <l rend="indent(1)" xml:id="swift-316-0204-line-20" n="20"><lb/>Sed, cum sævit hyems, &amp; venti, carcere rupto,</l>
+            <l xml:id="swift-316-0204-line-21" n="21">Immensos volvunt fluctus ad culmina montis;</l>
+            <l xml:id="swift-316-0204-line-22" n="22">Non obsessæ arces, non fulmina vindice dextra</l>
+            <l xml:id="swift-316-0204-line-23" n="23">Missa Jovis, quoties inimicas sævit in urbes,</l>
+            <l xml:id="swift-316-0204-line-24" n="24">Exæquant sonitum undarum, veniente procella:</l>
+            <l xml:id="swift-316-0204-line-25" n="25">Littora littoribus reboant; vicinia late,</l>
+            <l xml:id="swift-316-0204-line-26" n="26">Gens assueta mari, &amp; pedibus percurrere rupes,</l>
+            <l xml:id="swift-316-0204-line-27" n="27">Terretur tamen, &amp; longe fugit, arva relinquens.</l>
+            <l rend="indent(1)" xml:id="swift-316-0204-line-28" n="28"><lb/>Gramina dum carpunt, pendentes rupe capellæ</l>
+            <l xml:id="swift-316-0204-line-29" n="29">Vi salientis aquæ de summo præcipitantur,</l>
+            <l xml:id="swift-316-0204-line-30" n="30">Et dulces animas imo sub gurgite linquunt.</l>
+            <l rend="indent(1)" xml:id="swift-316-0204-line-31" n="31"><lb/>Piscator terra non audet vellere funem;</l>
+            <l xml:id="swift-316-0204-line-32" n="32">Sed latet in portu tremebundus, &amp;, ære sudum</l>
+            <l xml:id="swift-316-0204-line-33" n="33">Haud sperans, Nereum precibus votisq; fatigat.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

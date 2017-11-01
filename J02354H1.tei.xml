@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 18AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 9AP16, 21NO16, 2FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J02354H1">
+          <head type="note" n="1" xml:id="spp-J02354H1-headnote-1">
+            <lg n="1" xml:id="spp-J02354H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J02354H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J02354H1-headnote-2">
+            <lg n="1" xml:id="spp-J02354H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J02354H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J02354H1-headnote-3">
+            <lg n="1" xml:id="spp-J02354H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J02354H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J02354H1-line-1" n="1"><hi rend="italics"/>You must remember to inclose your letters in a fair paper, and direct the outside thus; To <hi rend="italics">Erasmus Lewis</hi>, Esq; at my Lord <hi rend="italics">Dartmouth</hi>'s office at <hi rend="italics">Whitehall</hi>; I said so before, but it may miscarry you know, yet I think none of my letters did ever miscarry; faith I think never one; among all the privateers and the storms: oh faith, my letters are too good to be lost. <hi rend="italics">MD</hi>'s letters may tarry, but never miscarry, as the old woman used to say. And indeed, how should they miscarry, when they never come before their time?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

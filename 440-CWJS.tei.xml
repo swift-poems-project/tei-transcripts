@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Answer to the Ballyspellin Ballad</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2JE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 3JE03; √'d JW 28SE08 agt WILH; tochk item resolved in situ and postmark rechecked JW 31DE09; EMENDED JW 6OC17, 7OC17, 9OC17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="440-CWJS">
+          <head type="note" n="1" xml:id="spp-440-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-440-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-440-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-440-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-440-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-440-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-440-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-440-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-440-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-1" n="1">Dare you dispute,</l>
+            <l xml:id="swift-440-CWJS-line-2" n="2">You Sawcy Brute,</l>
+            <l xml:id="swift-440-CWJS-line-3" n="3">And think there's no refelling</l>
+            <l xml:id="swift-440-CWJS-line-4" n="4">Your Scurvy Lays,</l>
+            <l xml:id="swift-440-CWJS-line-5" n="5">And senseless praise</l>
+            <l xml:id="swift-440-CWJS-line-6" n="6">You give to Ballyspellin.</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-7" n="7"><lb/>Howe'er you flounce,</l>
+            <l xml:id="swift-440-CWJS-line-8" n="8">I here pronounce</l>
+            <l xml:id="swift-440-CWJS-line-9" n="9">Your Med'cine is repelling,</l>
+            <l xml:id="swift-440-CWJS-line-10" n="10">Your Water's mud,</l>
+            <l xml:id="swift-440-CWJS-line-11" n="11">And Sowrs the blood</l>
+            <l xml:id="swift-440-CWJS-line-12" n="12">When drank at Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-13" n="13"><lb/>Those pocky Drabs</l>
+            <l xml:id="swift-440-CWJS-line-14" n="14">To cure their Scabs</l>
+            <l xml:id="swift-440-CWJS-line-15" n="15">You thither are compelling</l>
+            <l xml:id="swift-440-CWJS-line-16" n="16">Will back be sent</l>
+            <l xml:id="swift-440-CWJS-line-17" n="17">Worse than they went</l>
+            <l xml:id="swift-440-CWJS-line-18" n="18">From nasty Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-19" n="19"><lb/>Lewellin! why?</l>
+            <l xml:id="swift-440-CWJS-line-20" n="20">As well may I</l>
+            <l xml:id="swift-440-CWJS-line-21" n="21">Name honest Doctor Pelling;</l>
+            <l xml:id="swift-440-CWJS-line-22" n="22">So hard sometimes</l>
+            <l xml:id="swift-440-CWJS-line-23" n="23">You tug for Rimes</l>
+            <l xml:id="swift-440-CWJS-line-24" n="24">To bring in Ballyspellin.</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-25" n="25"><lb/>No Subject fit</l>
+            <l xml:id="swift-440-CWJS-line-26" n="26">To try your Wit</l>
+            <l xml:id="swift-440-CWJS-line-27" n="27">When you went Colonelling,</l>
+            <l xml:id="swift-440-CWJS-line-28" n="28">But dull Intregues</l>
+            <l xml:id="swift-440-CWJS-line-29" n="29">'Twixt Jades and Teagues</l>
+            <l xml:id="swift-440-CWJS-line-30" n="30">You met at Ballyspellin?</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-31" n="31"><lb/>Our Lasses fair</l>
+            <l xml:id="swift-440-CWJS-line-32" n="32">Say what you dare,</l>
+            <l xml:id="swift-440-CWJS-line-33" n="33">Who Sowins make with Shelling</l>
+            <l xml:id="swift-440-CWJS-line-34" n="34">At Market-hill</l>
+            <l xml:id="swift-440-CWJS-line-35" n="35">More Beaus can kill</l>
+            <l xml:id="swift-440-CWJS-line-36" n="36">Than yours at Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-37" n="37"><lb/>Would I was whipt</l>
+            <l xml:id="swift-440-CWJS-line-38" n="38">When Sheelah strip't</l>
+            <l xml:id="swift-440-CWJS-line-39" n="39">To wash her self our Well in</l>
+            <l xml:id="swift-440-CWJS-line-40" n="40">A Bum so white</l>
+            <l xml:id="swift-440-CWJS-line-41" n="41">Ne'r came in sight</l>
+            <l xml:id="swift-440-CWJS-line-42" n="42">At paltry Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-43" n="43"><lb/>Your Maukins there</l>
+            <l xml:id="swift-440-CWJS-line-44" n="44">Smocks hempen wear;</l>
+            <l xml:id="swift-440-CWJS-line-45" n="45">For, Holland not an Ell in</l>
+            <l xml:id="swift-440-CWJS-line-46" n="46">No, not a rag,</l>
+            <l xml:id="swift-440-CWJS-line-47" n="47">Whate'er you brag,</l>
+            <l xml:id="swift-440-CWJS-line-48" n="48">Is found at Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-49" n="49"><lb/>But, Tom will prate</l>
+            <l xml:id="swift-440-CWJS-line-50" n="50">At any rate,</l>
+            <l xml:id="swift-440-CWJS-line-51" n="51">All other Nymphs expelling</l>
+            <l xml:id="swift-440-CWJS-line-52" n="52">Because he gets</l>
+            <l xml:id="swift-440-CWJS-line-53" n="53">A few Grisetts</l>
+            <l xml:id="swift-440-CWJS-line-54" n="54">At lowsy Ballyspelling.</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-55" n="55"><lb/>There's bony Jane</l>
+            <l xml:id="swift-440-CWJS-line-56" n="56">In yonder lane</l>
+            <l xml:id="swift-440-CWJS-line-57" n="57">Just o'er against the Bell Inn</l>
+            <l xml:id="swift-440-CWJS-line-58" n="58">Where can you meet</l>
+            <l xml:id="swift-440-CWJS-line-59" n="59">A Lass so Sweet</l>
+            <l xml:id="swift-440-CWJS-line-60" n="60">Round all your Ballyspellin?</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-61" n="61"><lb/>We have a Girl</l>
+            <l xml:id="swift-440-CWJS-line-62" n="62">Deserves an Earl,</l>
+            <l xml:id="swift-440-CWJS-line-63" n="63">She came from Eniskellin</l>
+            <l xml:id="swift-440-CWJS-line-64" n="64">So fair so young,</l>
+            <l xml:id="swift-440-CWJS-line-65" n="65">No Such among</l>
+            <l xml:id="swift-440-CWJS-line-66" n="66">The Belles of Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-67" n="67"><lb/>How would you Stare</l>
+            <l xml:id="swift-440-CWJS-line-68" n="68">To see her there</l>
+            <l xml:id="swift-440-CWJS-line-69" n="69">The foggy mists dispelling</l>
+            <l xml:id="swift-440-CWJS-line-70" n="70">That cloud the Brows</l>
+            <l xml:id="swift-440-CWJS-line-71" n="71">Of ev'ry Blowse</l>
+            <l xml:id="swift-440-CWJS-line-72" n="72">Who lives at Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-73" n="73"><lb/>Now, as I live,</l>
+            <l xml:id="swift-440-CWJS-line-74" n="74">I would not give</l>
+            <l xml:id="swift-440-CWJS-line-75" n="75">A Stiver or a Skellin</l>
+            <l xml:id="swift-440-CWJS-line-76" n="76">To towse and kiss</l>
+            <l xml:id="swift-440-CWJS-line-77" n="77">The finest Miss</l>
+            <l xml:id="swift-440-CWJS-line-78" n="78">That leaks at Ballyspellin.</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-79" n="79"><lb/>Whoe'er will raise</l>
+            <l xml:id="swift-440-CWJS-line-80" n="80">Such Lyes as these</l>
+            <l xml:id="swift-440-CWJS-line-81" n="81">Deserves a good Cud-gelling</l>
+            <l xml:id="swift-440-CWJS-line-82" n="82">Who falsly boasts</l>
+            <l xml:id="swift-440-CWJS-line-83" n="83">Of Belles and Toasts</l>
+            <l xml:id="swift-440-CWJS-line-84" n="84">At dirty Ballyspellin</l>
+            <l rend="indent(1)" xml:id="swift-440-CWJS-line-85" n="85"><lb/>_My Rhimes are gone</l>
+            <l xml:id="swift-440-CWJS-line-86" n="86">To all but one,</l>
+            <l xml:id="swift-440-CWJS-line-87" n="87">Which is; Our Trees are felling;</l>
+            <l xml:id="swift-440-CWJS-line-88" n="88">As proper quite</l>
+            <l xml:id="swift-440-CWJS-line-89" n="89">As those you write</l>
+            <l xml:id="swift-440-CWJS-line-90" n="90">To force in Ballyspellin</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

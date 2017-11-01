@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Apollo to the Dean</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 27MR02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 27AU15, 29MY16, 5FE17; 120J AND 400A COMBINED AND EMENDED JW 9FE17, 10FE17, 25JL17 (changed the first two words to ordinary rather than large writing)</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="263-CWJS">
+          <head type="note" n="1" xml:id="spp-263-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-263-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-263-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-263-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-263-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-263-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-263-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-263-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-263-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-263-CWJS-line-1" n="1">Right Trusty (and so forth) we let you to know,</l>
+            <l xml:id="swift-263-CWJS-line-2" n="2">We are very ill us'd by You Mortals below.</l>
+            <l xml:id="swift-263-CWJS-line-3" n="3">For, first, I have often by Chimists been told</l>
+            <l xml:id="swift-263-CWJS-line-4" n="4">(Though I know nothing on't) it is I that make Gold,</l>
+            <l xml:id="swift-263-CWJS-line-5" n="5">Which when you have got, you so carefully hide it,</l>
+            <l xml:id="swift-263-CWJS-line-6" n="6">That since I was born, I hardly have spy'd it.</l>
+            <l xml:id="swift-263-CWJS-line-7" n="7">Then, it must be allow'd that whenever I shine</l>
+            <l xml:id="swift-263-CWJS-line-8" n="8">I forward the Grass, and I ripen the Vine;</l>
+            <l xml:id="swift-263-CWJS-line-9" n="9">To me the good Fellows apply for Relief</l>
+            <l xml:id="swift-263-CWJS-line-10" n="10">Without whom they could get neither Claret nor Bief;</l>
+            <l xml:id="swift-263-CWJS-line-11" n="11">Yet their Wine and their Vittels, those Curmudgeon Lubbards</l>
+            <l xml:id="swift-263-CWJS-line-12" n="12">Lock up from my Sight in Cellars and Cubbords:</l>
+            <l xml:id="swift-263-CWJS-line-13" n="13">That I have an ill Eye they wickedly think,</l>
+            <l xml:id="swift-263-CWJS-line-14" n="14">And taint all their Meat, and sow'r all their Drink.</l>
+            <l xml:id="swift-263-CWJS-line-15" n="15">But thirdly, and lastly, it must be allow'd</l>
+            <l xml:id="swift-263-CWJS-line-16" n="16">I alone can inspire the Poeticall Crowd;</l>
+            <l xml:id="swift-263-CWJS-line-17" n="17">This is gratefully own'd by each Boy in the Colledge,</l>
+            <l xml:id="swift-263-CWJS-line-18" n="18">Whom if I inspire, it is not to my Knoledge;</l>
+            <l xml:id="swift-263-CWJS-line-19" n="19">This ev'ry Pretender in Rime will admit,</l>
+            <l xml:id="swift-263-CWJS-line-20" n="20">Without troubling his Head about Judgment or Wit:</l>
+            <l xml:id="swift-263-CWJS-line-21" n="21">These Gentlemen use me with Kindness and Freedom,</l>
+            <l xml:id="swift-263-CWJS-line-22" n="22">And as for their Works, when I please I may read'um;</l>
+            <l xml:id="swift-263-CWJS-line-23" n="23">They ly open on Purpose on Counters and Stalls,</l>
+            <l xml:id="swift-263-CWJS-line-24" n="24">And the Titles I view when I shine on the Walls.</l>
+            <l rend="indent(1)" xml:id="swift-263-CWJS-line-25" n="25"><lb/>But a Comrade of Yours, that Traitor Delany</l>
+            <l xml:id="swift-263-CWJS-line-26" n="26">Whom I for Your sake have us'd better than any,</l>
+            <l xml:id="swift-263-CWJS-line-27" n="27">And of my meer Motion, and speciall good Grace,</l>
+            <l xml:id="swift-263-CWJS-line-28" n="28">Intended in time to succeed in Your Place;</l>
+            <l xml:id="swift-263-CWJS-line-29" n="29">On Tuesday the tenth, seditiously came</l>
+            <l xml:id="swift-263-CWJS-line-30" n="30">With a certain false Traitress, one Stella by name,</l>
+            <l xml:id="swift-263-CWJS-line-31" n="31">To the Deanery House, and on the North Glass</l>
+            <l xml:id="swift-263-CWJS-line-32" n="32">Where for fear of the Cold, I never can pass,</l>
+            <l xml:id="swift-263-CWJS-line-33" n="33">Then and there, vi et armis, with a certain Utensill</l>
+            <l xml:id="swift-263-CWJS-line-34" n="34">Of value five shillings, in English a Pencill,</l>
+            <l xml:id="swift-263-CWJS-line-35" n="35">Did maliciously, falsely, and traitrously write,</l>
+            <l xml:id="swift-263-CWJS-line-36" n="36">While Stella aforesaid stood by with the Light:</l>
+            <l xml:id="swift-263-CWJS-line-37" n="37">My Sister hath lately depos'd upon Oath,</l>
+            <l xml:id="swift-263-CWJS-line-38" n="38">That she stopt in her Course to look at them both;</l>
+            <l xml:id="swift-263-CWJS-line-39" n="39">That Stella was helping, abetting, and aiding,</l>
+            <l xml:id="swift-263-CWJS-line-40" n="40">And still as he writ, stood smiling and reading;</l>
+            <l xml:id="swift-263-CWJS-line-41" n="41">That her Eyes were as bright as my self at noon day,</l>
+            <l xml:id="swift-263-CWJS-line-42" n="42">But her gracefull black Locks were mingled with gray;</l>
+            <l xml:id="swift-263-CWJS-line-43" n="43">And by the Description I certainly know</l>
+            <l xml:id="swift-263-CWJS-line-44" n="44">Tis the Nymph that I courted some ten Years ago;</l>
+            <l xml:id="swift-263-CWJS-line-45" n="45">Whom when I with the best of my Talents endu'd</l>
+            <l xml:id="swift-263-CWJS-line-46" n="46">On her Promise of yielding, she acted the Prude.</l>
+            <l xml:id="swift-263-CWJS-line-47" n="47">That some Verses were writ with felonious Intent,</l>
+            <l xml:id="swift-263-CWJS-line-48" n="48">Direct to the North where I never once went;</l>
+            <l xml:id="swift-263-CWJS-line-49" n="49">That the Letters appear'd reverse thrô the Pane,</l>
+            <l xml:id="swift-263-CWJS-line-50" n="50">But in Stella's bright Eyes were plac'd right again;</l>
+            <l xml:id="swift-263-CWJS-line-51" n="51">Wherein she distinctly could read ev'ry Line,</l>
+            <l xml:id="swift-263-CWJS-line-52" n="52">And presently guesst the Fancy was mine:</l>
+            <l xml:id="swift-263-CWJS-line-53" n="53">She can swear to the Person, whom oft she has seen</l>
+            <l xml:id="swift-263-CWJS-line-54" n="54">At Night between Cavan-street, and College green.</l>
+            <l rend="indent(1)" xml:id="swift-263-CWJS-line-55" n="55"><lb/>Now you see why his Verses so seldom are shown</l>
+            <l xml:id="swift-263-CWJS-line-56" n="56">The Reason is plain; they are none of his own:</l>
+            <l xml:id="swift-263-CWJS-line-57" n="57">And observe while you live, that no Man is shy</l>
+            <l xml:id="swift-263-CWJS-line-58" n="58">To Discover the Goods he came honestly by.</l>
+            <l xml:id="swift-263-CWJS-line-59" n="59">If I light on a Thought, he will certainly steal it,</l>
+            <l xml:id="swift-263-CWJS-line-60" n="60">And when he has got it finds Ways to conceal it;</l>
+            <l xml:id="swift-263-CWJS-line-61" n="61">Of all the Fine Things he keeps in the dark</l>
+            <l xml:id="swift-263-CWJS-line-62" n="62">There's scarce one in ten but what has my Mark;</l>
+            <l xml:id="swift-263-CWJS-line-63" n="63">And let them be seen by the World if he dare,</l>
+            <l xml:id="swift-263-CWJS-line-64" n="64">I'll make it appear they are all stollen Ware.</l>
+            <l xml:id="swift-263-CWJS-line-65" n="65">But as for the Poem he writ on Your Sash</l>
+            <l xml:id="swift-263-CWJS-line-66" n="66">I think I have now got him under my Lash;</l>
+            <l xml:id="swift-263-CWJS-line-67" n="67">My Sister transcrib'd it last Night to his Sorrow,</l>
+            <l xml:id="swift-263-CWJS-line-68" n="68">And the Publick shall see't if I live till to morrow;</l>
+            <l xml:id="swift-263-CWJS-line-69" n="69">Through the Zodiak round it shall quickly be spread,</l>
+            <l xml:id="swift-263-CWJS-line-70" n="70">In all Parts of the Globe where Your Language is read.</l>
+            <l rend="indent(1)" xml:id="swift-263-CWJS-line-71" n="71"><lb/>He knows very well I ne'er gave a Refusall</l>
+            <l xml:id="swift-263-CWJS-line-72" n="72">When he ask't for my Ayd in the Forms that are usuall</l>
+            <l xml:id="swift-263-CWJS-line-73" n="73">But the Secret is this; I did lately intend</l>
+            <l xml:id="swift-263-CWJS-line-74" n="74">To write a few Verses on You as my Friend,</l>
+            <l xml:id="swift-263-CWJS-line-75" n="75">I studyed a fortnight before I could find</l>
+            <l xml:id="swift-263-CWJS-line-76" n="76">As I rode in my Chariot, a Thought to my Mind;</l>
+            <l xml:id="swift-263-CWJS-line-77" n="77">And resolv'd the next Winter (For that is my time</l>
+            <l xml:id="swift-263-CWJS-line-78" n="78">When the Days are at shortest) to get it in Rime;</l>
+            <l xml:id="swift-263-CWJS-line-79" n="79">Till then it was lockt in my Box at Parnassus,</l>
+            <l xml:id="swift-263-CWJS-line-80" n="80">When that suttle Companion, in hopes to surpass us,</l>
+            <l xml:id="swift-263-CWJS-line-81" n="81">Conveys out my Paper of Hints by a Trick,</l>
+            <l xml:id="swift-263-CWJS-line-82" n="82">For I think in my Conscience he deals with old Nick,</l>
+            <l xml:id="swift-263-CWJS-line-83" n="83">And from my own Stock provided with Topicks,</l>
+            <l xml:id="swift-263-CWJS-line-84" n="84">He gets to a Window beyond both the Tropicks,</l>
+            <l xml:id="swift-263-CWJS-line-85" n="85">There out of my Sight, just against the North Zone,</l>
+            <l xml:id="swift-263-CWJS-line-86" n="86">Writes down my Conceits, and calls them his own:</l>
+            <l xml:id="swift-263-CWJS-line-87" n="87">And You like a Cully, the Bubble can Swallow;</l>
+            <l xml:id="swift-263-CWJS-line-88" n="88">Now, who but Delany, that writes like Apollo!</l>
+            <l xml:id="swift-263-CWJS-line-89" n="89">High Treason by Statute: But here you object,</l>
+            <l xml:id="swift-263-CWJS-line-90" n="90">He onely stole Hints, but the Verse is correct;</l>
+            <l xml:id="swift-263-CWJS-line-91" n="91">Thô the Thought be Apollo's, 'tis finely expresst────</l>
+            <l xml:id="swift-263-CWJS-line-92" n="92">So a Thief steals my Horse, and has him well dresst.</l>
+            <l rend="indent(1)" xml:id="swift-263-CWJS-line-93" n="93"><lb/>Now, whereas the s<hi rend="superscript">d</hi> Criminall seems past Repentance,</l>
+            <l xml:id="swift-263-CWJS-line-94" n="94">We Phebus think fit to proceed to his Sentence;</l>
+            <l xml:id="swift-263-CWJS-line-95" n="95">Since Delany hath dar'd like Prometheus his Sire</l>
+            <l xml:id="swift-263-CWJS-line-96" n="96">To climb to our Region, and there to steal Fire,</l>
+            <l xml:id="swift-263-CWJS-line-97" n="97">We order a Vulture in Shape of the Spleen</l>
+            <l xml:id="swift-263-CWJS-line-98" n="98">To prey on his Liver, but not to be seen</l>
+            <l xml:id="swift-263-CWJS-line-99" n="99">And we order our Subjects of ev'ry Degree</l>
+            <l xml:id="swift-263-CWJS-line-100" n="100">To believe all his Verses were written by me;</l>
+            <l xml:id="swift-263-CWJS-line-101" n="101">And under the Pain of our highest Displeasure</l>
+            <l xml:id="swift-263-CWJS-line-102" n="102">To call nothing his, but the Rime and the Measure.</l>
+            <l rend="indent(1)" xml:id="swift-263-CWJS-line-103" n="103"><lb/>And lastly for Stella just out of her Prime,</l>
+            <l xml:id="swift-263-CWJS-line-104" n="104">I am too much reveng'd already by Time;</l>
+            <l xml:id="swift-263-CWJS-line-105" n="105">In return of her Scorn I sent her Diseases,</l>
+            <l xml:id="swift-263-CWJS-line-106" n="106">And will now be her Friend whenever she pleases;</l>
+            <l xml:id="swift-263-CWJS-line-107" n="107">And the Gifts I bestow'd her will find her a Lover,</l>
+            <l xml:id="swift-263-CWJS-line-108" n="108">Though she lives till she's gray as a Badger <hi rend="large-writing-underlined">all over</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

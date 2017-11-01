@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-580-1101-title-1">On PSYCHE <ref target="#spp-580-1101-footnote-title-1">1</ref><note n="1" xml:id="spp-580-1101-footnote-title-1" place="foot">Mrs. <hi rend="italics">Sican</hi>, a very ingenious well bred Lady, Wife to Mr. <hi rend="italics">John Sican</hi>, an eminent Grocer in <hi rend="italics">Dublin</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 10JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-580-1101-footnote-title-1 #spp-580-1101-title-1"/>
+        </linkGrp>
+        <div n="580-1101">
+          <head type="note" n="1" xml:id="spp-580-1101-headnote-1">
+            <lg n="1" xml:id="spp-580-1101-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-580-1101-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-580-1101-headnote-2">
+            <lg n="1" xml:id="spp-580-1101-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-580-1101-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-580-1101-headnote-3">
+            <lg n="1" xml:id="spp-580-1101-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-580-1101-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-580-1101-line-1" n="1"><hi rend="display-initial">A</hi>T two Afternoon for our <hi rend="italics">Psyche</hi> inquire,</l>
+            <l xml:id="swift-580-1101-line-2" n="2">Her Tea-Kettle's on, and her Smock at the Fire:</l>
+            <l xml:id="swift-580-1101-line-3" n="3">So loitring, so active, so busy, so idle,</l>
+            <l xml:id="swift-580-1101-line-4" n="4">Which hath she most need of, a Spur or a Bridle?</l>
+            <l xml:id="swift-580-1101-line-5" n="5">Thus a Greyhound out-runs the whole Pack in a Race,</l>
+            <l xml:id="swift-580-1101-line-6" n="6">Yet would rather be hang'd than he'd leave a warm Place,</l>
+            <l xml:id="swift-580-1101-line-7" n="7">She gives you such Plenty, it puts you in Pain;</l>
+            <l xml:id="swift-580-1101-line-8" n="8">But ever with Prudence takes Care of the Main.</l>
+            <l xml:id="swift-580-1101-line-9" n="9">To please you, she knows how to chuse a nice Bit;</l>
+            <l xml:id="swift-580-1101-line-10" n="10">For her Taste is almost as refin'd as her Wit.</l>
+            <l xml:id="swift-580-1101-line-11" n="11">To oblige a good Friend, she will trace ev'ry Market,</l>
+            <l xml:id="swift-580-1101-line-12" n="12">It would do your Heart good, to see how she will cark it.</l>
+            <l xml:id="swift-580-1101-line-13" n="13">Yet beware of her Arts, for it plainly appears,</l>
+            <l xml:id="swift-580-1101-line-14" n="14">She saves Half her Victuals, by feeding your Ears.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

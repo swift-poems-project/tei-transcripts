@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  Nottingham Ballad.<lb/>  An Excellent New Song.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 18DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z92511A2">
+          <head type="note" n="1" xml:id="spp-Z92511A2-headnote-1">
+            <lg n="1" xml:id="spp-Z92511A2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z92511A2-headnote-1-line-group-1-line-1">Being the Intended SPEECH of a Famous Orator.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z92511A2-headnote-2">
+            <lg n="1" xml:id="spp-Z92511A2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z92511A2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z92511A2-headnote-3">
+            <lg n="1" xml:id="spp-Z92511A2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z92511A2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-Z92511A2-line-1" n="1"><hi rend="display-initial">A<hi rend="italics">N Orator was found in </hi>Nottinghamshire,</hi></l><l xml:id="swift-Z92511A2-line-2" n="2"><hi rend="italics">Who for his great Parts was summon'd to appear</hi></l><l xml:id="swift-Z92511A2-line-3" n="3">At Court, to give the necssary Assistance there,</l><l xml:id="swift-Z92511A2-line-4" n="4">Whose deep Judgment, and great Education then,</l><l xml:id="swift-Z92511A2-line-5" n="5">Shin'd before the most expertest Men;</l><l xml:id="swift-Z92511A2-line-6" n="6">Shin'd before the most expertest Men;His known Zeal for his his County deserv'd a </l>Place,<l xml:id="swift-Z92511A2-line-7" n="7"><hi rend="italics">Not </hi>vi &amp; armis,<hi rend="italics"> but </hi>fit bon de grace.</l><l xml:id="swift-Z92511A2-line-8" n="8">The Scandalous Crew<hi rend="italics"> that him do defame,</hi></l><l xml:id="swift-Z92511A2-line-9" n="9"><hi rend="italics">Ought to be punish'd by the Great </hi>Not in game;</l><l xml:id="swift-Z92511A2-line-10" n="10"><hi rend="italics">His </hi>Speeches<hi rend="italics"> has been always loyal and true.</hi></l><l xml:id="swift-Z92511A2-line-11" n="11">Tho' blacken'd by a hellish and diabolical Crew.</l><l xml:id="swift-Z92511A2-line-12" n="12">To vamp up a Speech is an idle Story.</l><l xml:id="swift-Z92511A2-line-13" n="13">To vamp up a Speech is an idle Story.His Oratory's Noble, and wtth </l>Prior<hi rend="italics">, will glory</hi>,<l xml:id="swift-Z92511A2-line-14" n="14"><hi rend="italics">To spend his Breath for </hi>England's<hi rend="italics"> Glory,</hi></l><l xml:id="swift-Z92511A2-line-15" n="15"><hi rend="italics">Without insipid Pride which </hi>he<hi rend="italics"> doth disdain</hi>;</l><l xml:id="swift-Z92511A2-line-16" n="16">And like a <hi rend="italics">Finch</hi>, will tune it o're all Day,</l><l xml:id="swift-Z92511A2-line-17" n="17">For his Country's <hi rend="italics">good</hi>, all deep Intriegues display.</l><l rend="indent(3)" xml:id="swift-Z92511A2-line-18" n="18">||The·SPEECH<lb/><hi rend="display-initial">W</hi>Hereas now I'm in no Sorrow and Pain,</l><l xml:id="swift-Z92511A2-line-19" n="19">Because of a Peace, and like to havt <hi rend="italics">Spain</hi>,</l><l xml:id="swift-Z92511A2-line-20" n="20">Agreeable to my Sentiments, tho' <hi rend="italics">Not in game</hi>.</l><l xml:id="swift-Z92511A2-line-21" n="21">I saw no great House, as 'twas falsly Reported,</l><l xml:id="swift-Z92511A2-line-22" n="22">Neither any Bags that was there hoarded.</l><l xml:id="swift-Z92511A2-line-23" n="23">Then certain, 'tis plain, no Pockets was cram'd,</l><l xml:id="swift-Z92511A2-line-24" n="24">To stand for a Peace against Rotterdam</l><l xml:id="swift-Z92511A2-line-25" n="25">My Loyalty's true, notwithstanding false Story,</l><l xml:id="swift-Z92511A2-line-26" n="26">Who for my Country's Good will oppose <hi rend="italics">Whig</hi> and <hi rend="italics">Tory</hi>.</l><l xml:id="swift-Z92511A2-line-27" n="27">And always plead for my Queen and Country's Glory.</l><l xml:id="swift-Z92511A2-line-28" n="28">My Principle still shall be ever the same,</l><l xml:id="swift-Z92511A2-line-29" n="29">Whilst I do remain yet <hi rend="italics">Not in game</hi>.</l><l xml:id="swift-Z92511A2-line-30" n="30">If my Relations are advanc'd to Places,</l><l xml:id="swift-Z92511A2-line-31" n="31">'Tis their Deserts that wins the good Graces,</l><l xml:id="swift-Z92511A2-line-32" n="32">Of a generous Queen that loves honest Faces.</l><l xml:id="swift-Z92511A2-line-33" n="33">'Tis not strange that I should be blam'd,</l><l xml:id="swift-Z92511A2-line-34" n="34">By a rigid Crew that will not be asham'd</l><l xml:id="swift-Z92511A2-line-35" n="35">Of their sordid and base Schismatical Notions,</l><l xml:id="swift-Z92511A2-line-36" n="36">Enough to corrupt the Loyal with the Potions.</l><l xml:id="swift-Z92511A2-line-37" n="37">No Peace, no Peace, is their Acclamation,</l><l xml:id="swift-Z92511A2-line-38" n="38">Contrary to the good of the Nation.</l><l xml:id="swift-Z92511A2-line-39" n="39">What then can we think of the Schismatical Tribe,</l><l xml:id="swift-Z92511A2-line-40" n="40">To obtain their Ends, will not grudge to Bribe</l><l xml:id="swift-Z92511A2-line-41" n="41">The Devil, if possible, to gain him on their side.</l><l xml:id="swift-Z92511A2-line-42" n="42">I wish for a Peace, but on a firm Basis,</l><l xml:id="swift-Z92511A2-line-43" n="43">That we may enjoy each Man his own Clasis,</l><l xml:id="swift-Z92511A2-line-44" n="44">And dpink argood Health will full flowing Glasses,</l><l xml:id="swift-Z92511A2-line-45" n="45">To ANNE to our Sovereign for a good Peace,</l><l xml:id="swift-Z92511A2-line-46" n="46">That we in Riches may largely increase,</l><l xml:id="swift-Z92511A2-line-47" n="47">Then may our Allies share all in the same,</l><l xml:id="swift-Z92511A2-line-48" n="48">Is the hearty Wishes of <hi rend="italics">Not in game</hi>.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

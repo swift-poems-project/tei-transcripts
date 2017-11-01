@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On S<hi rend="small-caps">TEPHEN</hi> D<hi rend="small-caps">UCK</hi>, the T<hi rend="small-caps">HRESHER</hi>,<lb/>  and favourite P<hi rend="small-caps">OET</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 14JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="521-06E2">
+          <head type="note" n="1" xml:id="spp-521-06E2-headnote-1">
+            <lg n="1" xml:id="spp-521-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-06E2-headnote-1-line-group-1-line-1">A Q<hi rend="small-caps">UIBBLING</hi> E<hi rend="small-caps">PIGRAM</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-521-06E2-headnote-2">
+            <lg n="1" xml:id="spp-521-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-06E2-headnote-2-line-group-1-line-1">Written in the year 1730.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-521-06E2-headnote-3">
+            <lg n="1" xml:id="spp-521-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-521-06E2-line-1" n="1"><hi rend="display-initial">T</hi>HE thresher Duck could o'er the Queen prevail,</l>
+            <l xml:id="swift-521-06E2-line-2" n="2">The proverb says, <hi rend="italics">No fence against a flail</hi>.</l>
+            <l xml:id="swift-521-06E2-line-3" n="3">From <hi rend="italics">threshing</hi> corn he turns to <hi rend="italics">thresh</hi> his brains;</l>
+            <l xml:id="swift-521-06E2-line-4" n="4">For which her <hi rend="italics">Majesty</hi> allows him <hi rend="italics">grains</hi>.</l>
+            <l xml:id="swift-521-06E2-line-5" n="5">Though 'tis confess'd, that those who ever saw</l>
+            <l xml:id="swift-521-06E2-line-6" n="6">His poems, think them all not worth a <hi rend="italics">straw</hi>!</l>
+            <l xml:id="swift-521-06E2-line-7" n="7">Thrice happy Duck, employ'd in threshing <hi rend="italics">stubble</hi>!</l>
+            <l xml:id="swift-521-06E2-line-8" n="8">Thy toil is lessn'd, and thy profits double.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

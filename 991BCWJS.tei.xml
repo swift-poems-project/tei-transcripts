@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another by Tho: Sheridan</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 8JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 5AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="991BCWJS">
+          <head type="note" n="1" xml:id="spp-991BCWJS-headnote-1">
+            <lg n="1" xml:id="spp-991BCWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991BCWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-991BCWJS-headnote-2">
+            <lg n="1" xml:id="spp-991BCWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991BCWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-991BCWJS-headnote-3">
+            <lg n="1" xml:id="spp-991BCWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991BCWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-991BCWJS-line-1" n="1">If You say this was made for Friend Dan: Y<hi rend="superscript">u</hi> bely it,</l>
+            <l xml:id="swift-991BCWJS-line-2" n="2">I'll swear he's so like it, that he was made by it.</l>
+            <l xml:id="swift-991BCWJS-line-3" n="3">«LD»Tho: Sheridan sculpsit.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

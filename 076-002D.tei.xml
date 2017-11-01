@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lady Betty Berkley finding in the Author's<lb/>  Room some Verses unfinish'd, underwrit a<lb/>  Stanza of her own, with Raillery upon him whih<lb/>  gave Occasion to This Ballad. Aug: 1702.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3JY96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 1MR97, 9MR08, 9JA15, 25AP16, 8OC16; tochk item added JW 19NO00 and resolved in situ JW 21FE03</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="076-002D">
+          <head type="note" n="1" xml:id="spp-076-002D-headnote-1">
+            <lg n="1" xml:id="spp-076-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-002D-headnote-1-line-group-1-line-1">To Y<hi rend="superscript">e</hi> Tune of the Cutpurse.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-076-002D-headnote-2">
+            <lg n="1" xml:id="spp-076-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-076-002D-headnote-3">
+            <lg n="1" xml:id="spp-076-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-076-002D-line-1" n="1">Once on a Time, as old Stories rehearse,</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-2" n="2">A Friar would needs show his Talent in Lattin;</l>
+            <l xml:id="swift-076-002D-line-3" n="3">But was sorely put to't in the midst of a Verse,</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-4" n="4">Because he could find no Word to come pat in.</l>
+            <l rend="indent(3)" xml:id="swift-076-002D-line-5" n="5">||Then all the Place,</l>
+            <l rend="indent(3)" xml:id="swift-076-002D-line-6" n="6">||He left a Void Space,</l>
+            <l xml:id="swift-076-002D-line-7" n="7">And so went to bed in a desperate Case.</l>
+            <l xml:id="swift-076-002D-line-8" n="8">When Behold the next morning, a Wonderfull Riddle,</l>
+            <l xml:id="swift-076-002D-line-9" n="9">He found it was strangely fill'd in the Middle.</l>
+            <l xml:id="swift-076-002D-line-10" n="10">Chor: {Let Censur'ing Criticks then think what they list on't,</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-11" n="11">Who whould not Write Verses with such an Assistant.</l>
+            <l rend="center" xml:id="swift-076-002D-line-12" n="12">2.<lb/>This put me the Friar into an Amazement</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-13" n="13">For he Wisely consider'd it must be a Sprite</l>
+            <l xml:id="swift-076-002D-line-14" n="14">That came thrô the Key-hole, or in at the Casement,</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-15" n="15">And it needs must be One that could both read &amp; Write:</l>
+            <l rend="indent(3)" xml:id="swift-076-002D-line-16" n="16">||Yet he did not know</l>
+            <l rend="indent(3)" xml:id="swift-076-002D-line-17" n="17">||If it were friend or Foe;</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-18" n="18">Or whether it came from Above, or Below.</l>
+            <l xml:id="swift-076-002D-line-19" n="19">Howe'er it was Civil in Angel or Elf,</l>
+            <l xml:id="swift-076-002D-line-20" n="20">For he ne'er could have fill'd so well of himself.</l>
+            <l xml:id="swift-076-002D-line-21" n="21">Chor: Let Censur'ing &amp;c</l>
+            <l xml:id="swift-076-002D-line-22" n="22">om.</l>
+            <l rend="center" xml:id="swift-076-002D-line-23" n="23">3.<lb/>Even so Master Doctor had puzzled his Brains,</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-24" n="24">In making a Ballad, but was at a Stand,</l>
+            <l xml:id="swift-076-002D-line-25" n="25">He had mix'd little Wit, with a great deal pains,</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-26" n="26">When he found a New help from Invisible hand.</l>
+            <l rend="indent(3)" xml:id="swift-076-002D-line-27" n="27">||Then good Doctor Swift</l>
+            <l rend="indent(3)" xml:id="swift-076-002D-line-28" n="28">||Pay Thanks for the Gift,</l>
+            <l xml:id="swift-076-002D-line-29" n="29">For You freely must own You were at a dead Lift;</l>
+            <l xml:id="swift-076-002D-line-30" n="30">And tho some Malicious Young Spirit did do't</l>
+            <l xml:id="swift-076-002D-line-31" n="31">You may know by the hand it had no Cloven Foot.</l>
+            <l xml:id="swift-076-002D-line-32" n="32">Chor: Let Censur'ing Criticks then think what they List on't</l>
+            <l rend="indent(1)" xml:id="swift-076-002D-line-33" n="33">Who would not write Verses w<hi rend="superscript">tḥ</hi> such an Assistant?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

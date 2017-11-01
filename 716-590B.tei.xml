@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Dean's Answer.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 13JE15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="716-590B">
+          <head type="note" n="1" xml:id="spp-716-590B-headnote-1">
+            <lg n="1" xml:id="spp-716-590B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-716-590B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-716-590B-headnote-2">
+            <lg n="1" xml:id="spp-716-590B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-716-590B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-716-590B-headnote-3">
+            <lg n="1" xml:id="spp-716-590B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-716-590B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-716-590B-line-1" n="1">The Nimph who wrote this in a humourous fit</l>
+            <l xml:id="swift-716-590B-line-2" n="2">I cannot but envy the Pride of her wit,</l>
+            <l xml:id="swift-716-590B-line-3" n="3">Which thus she does venture profusely to throw</l>
+            <l xml:id="swift-716-590B-line-4" n="4">On so mean a Design &amp; a Subject so low.</l>
+            <l xml:id="swift-716-590B-line-5" n="5">For mean's her Design &amp; her Subject is mean,</l>
+            <l xml:id="swift-716-590B-line-6" n="6">The first but a Rebus, the last but a Dean.</l>
+            <l xml:id="swift-716-590B-line-7" n="7">A Dean's but a Parson and what is a Rebus?</l>
+            <l xml:id="swift-716-590B-line-8" n="8">A thing neither known to the Muses or Phoebus;</l>
+            <l xml:id="swift-716-590B-line-9" n="9">A Corruption of Verse and when all is done</l>
+            <l xml:id="swift-716-590B-line-10" n="10">It is but a Paraphrase made on a Pun.</l>
+            <l xml:id="swift-716-590B-line-11" n="11">But a Genius like her's, no Subject can stifle</l>
+            <l xml:id="swift-716-590B-line-12" n="12">It thinks and discovers itself thro a Trifle.</l>
+            <l xml:id="swift-716-590B-line-13" n="13">And reading this Trifle I quickly began</l>
+            <l xml:id="swift-716-590B-line-14" n="14">To find her a great Wit and the Dean a small Man.</l>
+            <l xml:id="swift-716-590B-line-15" n="15">Rich Ladies may furnish their Garrets with stuff</l>
+            <l xml:id="swift-716-590B-line-16" n="16">Which others for mantuas wou'd think fine enough.</l>
+            <l xml:id="swift-716-590B-line-17" n="17">So the Wit that is lavishly thrown away here</l>
+            <l xml:id="swift-716-590B-line-18" n="18">Might furnish a second Rate Poet a Year.</l>
+            <l rend="indent(1)" xml:id="swift-716-590B-line-19" n="19">Thus much for y<hi rend="superscript">ẹ</hi> Verse, we proceed to y<hi rend="superscript">e</hi> next</l>
+            <l xml:id="swift-716-590B-line-20" n="20">Where the Nimph has entirely mistaken her Text.</l>
+            <l xml:id="swift-716-590B-line-21" n="21">Her fine Panegericks are all out of season;</l>
+            <l xml:id="swift-716-590B-line-22" n="22">And what she describes to be Merit is Treason.</l>
+            <l xml:id="swift-716-590B-line-23" n="23">The Changes the Factions have made in the State</l>
+            <l xml:id="swift-716-590B-line-24" n="24">Have put the Dean's Politicks quite out of Date.</l>
+            <l xml:id="swift-716-590B-line-25" n="25">None will regard what he utters with freedom,</l>
+            <l xml:id="swift-716-590B-line-26" n="26">Or shou'd he write Pamphlet's, No great one wou'd read them;</l>
+            <l xml:id="swift-716-590B-line-27" n="27">And if Wants or Deserts stood in need of his Aid,</l>
+            <l xml:id="swift-716-590B-line-28" n="28">This Racer wou'd prove but a dull founder'd Iade.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

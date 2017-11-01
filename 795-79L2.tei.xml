@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TRAULUS.<lb/>  A DIALOGUE<lb/>  BETWEEN<lb/>  TOM AND ROBIN. 1730.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 10JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="795-79L2">
+          <head type="note" n="1" xml:id="spp-795-79L2-headnote-1">
+            <lg n="1" xml:id="spp-795-79L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-795-79L2-headnote-1-line-group-1-line-1">THE FIRST PART.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-795-79L2-headnote-2">
+            <lg n="1" xml:id="spp-795-79L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-795-79L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-795-79L2-headnote-3">
+            <lg n="1" xml:id="spp-795-79L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-795-79L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-795-79L2-line-1" n="1"><hi rend="italics">Tom</hi>. <hi rend="display-initial">S</hi>AY, Robin, what can Traulus <note place="foot">·Lord Allen. D. S.</note> mean</l>
+            <l xml:id="swift-795-79L2-line-2" n="2">By bellowing thus against the Dean?</l>
+            <l xml:id="swift-795-79L2-line-3" n="3">Why does he call him paltry scribbler,</l>
+            <l xml:id="swift-795-79L2-line-4" n="4">Papist, and Jacobite, and Libeler;</l>
+            <l xml:id="swift-795-79L2-line-5" n="5">Yet cannot prove a single fact?</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-6" n="6"><hi rend="italics">Robin</hi>. Forgive him, Tom: his head is crackt.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-7" n="7"><hi rend="italics">T</hi>. What mischief can the Dean have done him,</l>
+            <l xml:id="swift-795-79L2-line-8" n="8">That Traulus calls for vengeance on him?</l>
+            <l xml:id="swift-795-79L2-line-9" n="9">Why must he sputter, spawl, and slaver it</l>
+            <l xml:id="swift-795-79L2-line-10" n="10">In vain against the people's favourite?</l>
+            <l xml:id="swift-795-79L2-line-11" n="11">Revile that nation-saving paper,</l>
+            <l xml:id="swift-795-79L2-line-12" n="12">Which gave the Dean the name of Drapier?</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-13" n="13"><hi rend="italics">R</hi>. Why, Tom, I think the case is plain;</l>
+            <l xml:id="swift-795-79L2-line-14" n="14">Party and spleen have turn'd his brain.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-15" n="15"><hi rend="italics">T</hi>. Such friendship never man profest,</l>
+            <l xml:id="swift-795-79L2-line-16" n="16">The Dean was never so carest;</l>
+            <l xml:id="swift-795-79L2-line-17" n="17">For Traulus long his rancour nurs'd,</l>
+            <l xml:id="swift-795-79L2-line-18" n="18">Till, God knows why, at last it burst.</l>
+            <l xml:id="swift-795-79L2-line-19" n="19">That clumsy outside of a porter,</l>
+            <l xml:id="swift-795-79L2-line-20" n="20">How could it thus conceal a courtier?</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-21" n="21"><hi rend="italics">R</hi>. I own, appearances are bad;</l>
+            <l xml:id="swift-795-79L2-line-22" n="22">Yet still insist the man is mad.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-23" n="23"><hi rend="italics">T</hi>. Yet many a wretch in Bedlam knows</l>
+            <l xml:id="swift-795-79L2-line-24" n="24">How to distinguish friends from foes;</l>
+            <l xml:id="swift-795-79L2-line-25" n="25">And, though perhaps among the rout</l>
+            <l xml:id="swift-795-79L2-line-26" n="26">He wildly flings his filth about,</l>
+            <l xml:id="swift-795-79L2-line-27" n="27">He still has gratitude and sap'ence,</l>
+            <l xml:id="swift-795-79L2-line-28" n="28">To spare the folks that give him ha'pence;</l>
+            <l xml:id="swift-795-79L2-line-29" n="29">Nor in their eyes at random pisses,</l>
+            <l xml:id="swift-795-79L2-line-30" n="30">But turns aside like mad Ulysses:</l>
+            <l xml:id="swift-795-79L2-line-31" n="31">While Traulus all his ordure scatters</l>
+            <l xml:id="swift-795-79L2-line-32" n="32">To foul the man he chiefly flatters.</l>
+            <l xml:id="swift-795-79L2-line-33" n="33">Whence come these inconsistent fits?</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-34" n="34"><hi rend="italics">R</hi>. Why, Tom, the man has lost his wits.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-35" n="35"><hi rend="italics">T</hi>. Agreed: and yet, when Towzer snaps</l>
+            <l xml:id="swift-795-79L2-line-36" n="36">At people's heels with frothy chaps,</l>
+            <l xml:id="swift-795-79L2-line-37" n="37">Hangs down his head, and drops his tail,</l>
+            <l xml:id="swift-795-79L2-line-38" n="38">To say he·'s mad, will not avail;</l>
+            <l xml:id="swift-795-79L2-line-39" n="39">The neighbours all cry, “Shoot him dead,</l>
+            <l xml:id="swift-795-79L2-line-40" n="40">“Hang, drown, or knock him on the head.”</l>
+            <l xml:id="swift-795-79L2-line-41" n="41">So Traulus when he first harangu'd,</l>
+            <l xml:id="swift-795-79L2-line-42" n="42">I wonder why he was not hang'd;</l>
+            <l xml:id="swift-795-79L2-line-43" n="43">For of the two, without dispute,</l>
+            <l xml:id="swift-795-79L2-line-44" n="44">Towzer·'s the less offensive brute.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-45" n="45"><hi rend="italics">R</hi>. Tom, you mistake the matter quite;</l>
+            <l xml:id="swift-795-79L2-line-46" n="46">Your barking curs will seldom bite;</l>
+            <l xml:id="swift-795-79L2-line-47" n="47">And though you hear him stut-tut-tut-ter,</l>
+            <l xml:id="swift-795-79L2-line-48" n="48">He barks as fast as he can utter.</l>
+            <l xml:id="swift-795-79L2-line-49" n="49">He prates in spite of all impediment,</l>
+            <l xml:id="swift-795-79L2-line-50" n="50">While none believes that what he said he meant;</l>
+            <l xml:id="swift-795-79L2-line-51" n="51">Puts in his finger and his thumb</l>
+            <l xml:id="swift-795-79L2-line-52" n="52">To grope for words, and out they come.</l>
+            <l xml:id="swift-795-79L2-line-53" n="53">He calls you rogue; there·'s nothing in it,</l>
+            <l xml:id="swift-795-79L2-line-54" n="54">He fawns upon you in a minute:</l>
+            <l xml:id="swift-795-79L2-line-55" n="55">“Begs leave to rail, but, d──n his blood!</l>
+            <l xml:id="swift-795-79L2-line-56" n="56">“He only meant it for your good:</l>
+            <l xml:id="swift-795-79L2-line-57" n="57">“His friendship was exactly tim'd,</l>
+            <l xml:id="swift-795-79L2-line-58" n="58">“He shot before your foes were prim'd.</l>
+            <l xml:id="swift-795-79L2-line-59" n="59">“By this contrivance, Mr. Dean;</l>
+            <l xml:id="swift-795-79L2-line-60" n="60">“By G──! I·'ll bring you off as clean──<note place="foot">·This is the usual excuse of Traulus, when he abuses you to others without provocation. F.</note>”</l>
+            <l xml:id="swift-795-79L2-line-61" n="61">Then let him use you e'er so rough,</l>
+            <l xml:id="swift-795-79L2-line-62" n="62">“'Twas all for love,” and that·'s enough.</l>
+            <l xml:id="swift-795-79L2-line-63" n="63">But, though he sputter through a session,</l>
+            <l xml:id="swift-795-79L2-line-64" n="64">It never makes the least impression:</l>
+            <l xml:id="swift-795-79L2-line-65" n="65">Whate'er he speaks for madness goes,</l>
+            <l xml:id="swift-795-79L2-line-66" n="66">With no effect on friends or foes.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-67" n="67"><hi rend="italics">T</hi>. The scrubbiest cur in all the pack</l>
+            <l xml:id="swift-795-79L2-line-68" n="68">Can set the mastiff on your back.</l>
+            <l xml:id="swift-795-79L2-line-69" n="69">I own, his madness is a jest,</l>
+            <l xml:id="swift-795-79L2-line-70" n="70">If that were all. But he·'s possest,</l>
+            <l xml:id="swift-795-79L2-line-71" n="71">Incarnate with a thousand imps,</l>
+            <l xml:id="swift-795-79L2-line-72" n="72">To work whose ends his madness pimps;</l>
+            <l xml:id="swift-795-79L2-line-73" n="73">Who o'er each string and wire preside,</l>
+            <l xml:id="swift-795-79L2-line-74" n="74">Fill every pipe, each motion guide;</l>
+            <l xml:id="swift-795-79L2-line-75" n="75">Directing every vice we find</l>
+            <l xml:id="swift-795-79L2-line-76" n="76">In Scripture, to the devil assign'd;</l>
+            <l xml:id="swift-795-79L2-line-77" n="77">Sent from the dark infernal region,</l>
+            <l xml:id="swift-795-79L2-line-78" n="78">In him they lodge, and make him <hi rend="italics">legion</hi>.</l>
+            <l xml:id="swift-795-79L2-line-79" n="79">Of <hi rend="italics">brethren</hi> he·'s a <hi rend="italics">false accuser</hi>;</l>
+            <l xml:id="swift-795-79L2-line-80" n="80">A slanderer, traitor, and seducer;</l>
+            <l xml:id="swift-795-79L2-line-81" n="81">A fawning, base, trepanning liar;</l>
+            <l xml:id="swift-795-79L2-line-82" n="82">The marks peculiar of his sire.</l>
+            <l xml:id="swift-795-79L2-line-83" n="83">Or, grant him but a drone at best;</l>
+            <l xml:id="swift-795-79L2-line-84" n="84">A drone can raise a hornet's nest.</l>
+            <l xml:id="swift-795-79L2-line-85" n="85">The Dean had felt their stings before;</l>
+            <l xml:id="swift-795-79L2-line-86" n="86">And must their malice ne'er give o'er?</l>
+            <l xml:id="swift-795-79L2-line-87" n="87">Still swarm and buzz about his nose?</l>
+            <l xml:id="swift-795-79L2-line-88" n="88">But Ireland's friends ne'er wanted foes.</l>
+            <l xml:id="swift-795-79L2-line-89" n="89">A patriot is a dangerous post,</l>
+            <l xml:id="swift-795-79L2-line-90" n="90">When wanted by his country most;</l>
+            <l xml:id="swift-795-79L2-line-91" n="91">Perversely comes in evil times,</l>
+            <l xml:id="swift-795-79L2-line-92" n="92">Where virtues are imputed crimes.</l>
+            <l xml:id="swift-795-79L2-line-93" n="93">His guilt is clear, the proofs are pregnant;</l>
+            <l xml:id="swift-795-79L2-line-94" n="94">A traitor to the vices regnant.</l>
+            <l rend="indent(1)" xml:id="swift-795-79L2-line-95" n="95">What spirit, since the world began,</l>
+            <l xml:id="swift-795-79L2-line-96" n="96">Could <hi rend="italics">always</hi> bear to <hi rend="italics">strive with man</hi>?</l>
+            <l xml:id="swift-795-79L2-line-97" n="97">Which God pronounc'd, he never would,</l>
+            <l xml:id="swift-795-79L2-line-98" n="98">And soon convinc'd them by a flood.</l>
+            <l xml:id="swift-795-79L2-line-99" n="99">Yet still the Dean on freedom raves;</l>
+            <l xml:id="swift-795-79L2-line-100" n="100">His spirit always strives with slaves.</l>
+            <l xml:id="swift-795-79L2-line-101" n="101">'Tis time at last to spare his ink,</l>
+            <l xml:id="swift-795-79L2-line-102" n="102">And let them rot, or hang, or sink.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

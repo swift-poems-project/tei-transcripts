@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Another</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 27DE02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="992A07H1">
+          <head type="note" n="1" xml:id="spp-992A07H1-headnote-1">
+            <lg n="1" xml:id="spp-992A07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-992A07H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-992A07H1-headnote-2">
+            <lg n="1" xml:id="spp-992A07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-992A07H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-992A07H1-headnote-3">
+            <lg n="1" xml:id="spp-992A07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-992A07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-992A07H1-line-1" n="1">
+              <hi rend="display-initial">C<hi rend="italics">LARISSA</hi> draws her scissars from the case</hi>
+            </l>
+            <l xml:id="swift-992A07H1-line-2" n="2">To draw the lines of poor <hi rend="italics">Dan Jackson's</hi> face.</l>
+            <l xml:id="swift-992A07H1-line-3" n="3">One sloping cut made forehead, nose, and chin, 3}</l>
+            <l xml:id="swift-992A07H1-line-4" n="4">A nick produc'd a mouth and made him grin,</l>
+            <l xml:id="swift-992A07H1-line-5" n="5">Such as in taylor's measure you have seen.</l>
+            <l xml:id="swift-992A07H1-line-6" n="6">But still were wanting his grimalkin eyes,</l>
+            <l xml:id="swift-992A07H1-line-7" n="7">For which grey worsted-stocking paint supplies.</l>
+            <l xml:id="swift-992A07H1-line-8" n="8">Th' unravell'd thread thro' needle's eye convey'd</l>
+            <l xml:id="swift-992A07H1-line-9" n="9">Transferr'd itself into his paste-board head.</l>
+            <l xml:id="swift-992A07H1-line-10" n="10">How came the scissars to be thus out-done?</l>
+            <l xml:id="swift-992A07H1-line-11" n="11">The needle had an eye, and they had none.</l>
+            <l xml:id="swift-992A07H1-line-12" n="12">O wond'rous force of art! now look at <hi rend="italics">Dan</hi>──</l>
+            <l xml:id="swift-992A07H1-line-13" n="13">You'd swear the paste-board was the better man.</l>
+            <l xml:id="swift-992A07H1-line-14" n="14">The dev'l, says he, the head is not so full──</l>
+            <l xml:id="swift-992A07H1-line-15" n="15">Indeed it is, behold the paper skull.</l>
+            <l rend="indent(1)" xml:id="swift-992A07H1-line-16" n="16"><lb/>T<hi rend="small-caps">HO</hi>. S──────<hi rend="small-caps">D</hi> <hi rend="italics">sculp</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 14JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P00607E2">
+          <head type="note" n="1" xml:id="spp-P00607E2-headnote-1">
+            <lg n="1" xml:id="spp-P00607E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00607E2-headnote-1-line-group-1-line-1">Hear likewise to the same purpose that great master of the whole poetic choir, our most illustrious laureat, Mr Colley Cibber:&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P00607E2-headnote-2">
+            <lg n="1" xml:id="spp-P00607E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00607E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P00607E2-headnote-3">
+            <lg n="1" xml:id="spp-P00607E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00607E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P00607E2-line-1" n="1">
+              <hi rend="italics">Who in his talk can't speak a polite thing,</hi>
+            </l>
+            <l xml:id="swift-P00607E2-line-2" n="2"><hi rend="italics">Will never loyal be to</hi> G<hi rend="small-caps">EORGE</hi> <hi rend="italics">our King</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

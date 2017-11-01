@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-147-12W2-title-1">THE WINDSOR PROPHECY. <ref target="#spp-147-12W2-footnote-title-1">1</ref><note n="1" xml:id="spp-147-12W2-footnote-title-1" place="foot">“I have written a Prophecy, which I design to print. I did it to-day, and some other verses.”─── <hi rend="italics">Journal to Stella</hi><lb/>, Dec. 23, 1711.───“My Prophecy is printed, and will be published after Christmas-day. I like it mightily; I don't know how it will pass.” Ibid. Dec. 24. “I called at noon at Mrs Masham's, who desired me not to let the Prophecy be published, for of fear angering the Queen about the Duchess of Somerset; so I writ to the printer to stop them.” Ibid. Dec. 26.─── “I entertained our society at the Thatched House tavern. The printer had not received my letter, and so brought us a dozen copies of the Prophecy; but I ordered him to part with no more. It is an admirable good one, and people are mad for it.” Ibid. Dec. 27._	This Prophecy excited, as well it might, the deepest hatred on the part of the lady against whom it was levelled; indeed the charge of being privy to her second husband's assassination by the villainy of Coningsmark, was too gross to be forgiven; and was moreover wholly undeserved. It must be remembered, that the Duchess's favour with Queen Anne was so great as often to shake the confidence of the Tory party, notwithstanding their reliance on the yet superior influence of Lady Masham</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 22JA16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-147-12W2-footnote-title-1 #spp-147-12W2-title-1"/>
+        </linkGrp>
+        <div n="147-12W2">
+          <head type="note" n="1" xml:id="spp-147-12W2-headnote-1">
+            <lg n="1" xml:id="spp-147-12W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-12W2-headnote-1-line-group-1-line-1">“About three months ago, at Windsor, a poor knight's widow was buried in the cloisters. In digging the grave, the sexton struck against a small leaden coffer, about half a foot in length, and four inches wide. The poor man, expecting he had discovered a treasure, opened it with some difficulty; but found only a small parchment, rolled up very fast, put into a leather case; which case was tied at the top, and sealed with St. George, the impression on black wax, very rude and gothic. The parchment was carried to a gentleman of learning, who found in it the following lines, written in a black old English letter, and in the orthography of the age, which seems to be about two hundred years ago. I made a shift to obtain a copy of it; but the transcriber, I find, hath in many parts altered the spelling to the modern way. The original, as I am informed, is now in the hands of the ingenious Dr Woodward, F.R.S. where, I suppose, the curious will not be refused the satisfaction of seeing it.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-147-12W2-headnote-2">
+            <lg n="1" xml:id="spp-147-12W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-12W2-headnote-2-line-group-1-line-1">“The lines seem to be a sort of prophecy, and written in verse, as old prophecies usually are, but in a very hobbling kind of measure. Their meaning is very dark, if it be any at all; of which the learned reader can judge better than I: however it be, several persons were of opinion that they deserved to be published, both as they discover somewhat of the genius of a former age, and may be an amusement ot the present.”</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-147-12W2-headnote-3">
+            <lg n="1" xml:id="spp-147-12W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-12W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-147-12W2-line-1" n="1">W<hi rend="small-caps">HEN</hi> <hi rend="italics">a holy black Swede</hi>, the <hi rend="italics">son of Bob</hi>,<note place="foot">·Dr John Robinson, Bishop of Bristol, one of the plenipotentiaries at Utrecht.</note></l>
+            <l xml:id="swift-147-12W2-line-2" n="2">With a <hi rend="italics">saint</hi> <note place="foot">·He was Dean of Windsor, and lord privy seal.</note> at his chin and <hi rend="italics">seal</hi> at his fob,</l>
+            <l xml:id="swift-147-12W2-line-3" n="3">Shall not see <hi rend="italics">one </hi><note place="foot">·The New Style (which was not used in Great Britain and Ireland till 1752) was then observed in most parts of Europe. The bishop set out from England the latter end of December, O.S.; and on his arrival at Utrecht, by the variation of the style, he found January somewhat advanced.</note><hi rend="italics"> New-year's-day</hi> in that year,</l>
+            <l xml:id="swift-147-12W2-line-4" n="4">Then let old England make good cheer:</l>
+            <l xml:id="swift-147-12W2-line-5" n="5"><hi rend="italics">Windsor</hi> <note place="foot">·Alluding to the deanery and bishopric being possessed by the same person, then at Utrecht.</note> and <hi rend="italics">Bristow</hi> <note place="foot">·Alluding to the deanery and bishopric being possessed by the same person, then at Utrecht.</note> then shall be</l>
+            <l xml:id="swift-147-12W2-line-6" n="6">Joined together in the <hi rend="italics">Low-countree</hi>.<note place="foot">·Alluding to the deanery and bishopric being possessed by the same person, then at Utrecht.</note></l>
+            <l xml:id="swift-147-12W2-line-7" n="7">Then shall the <hi rend="italics">tall black Daventry Bird</hi><note place="foot">·Earl of Nottingham.</note></l>
+            <l xml:id="swift-147-12W2-line-8" n="8">Speak against peace right many a word;</l>
+            <l xml:id="swift-147-12W2-line-9" n="9">And some shall admire his conying wit,</l>
+            <l xml:id="swift-147-12W2-line-10" n="10">For many good groats his tongue shall slit.</l>
+            <l xml:id="swift-147-12W2-line-11" n="11">But, spight of <hi rend="italics">the Harpy</hi> <note place="foot">·Duke of Marlborough.</note> that crawls on all four,</l>
+            <l xml:id="swift-147-12W2-line-12" n="12">There shall be peace, pardie, and war no more.</l>
+            <l xml:id="swift-147-12W2-line-13" n="13">But England must cry alack and well-a-day,</l>
+            <l xml:id="swift-147-12W2-line-14" n="14">If the stick be taken from the dead sea.<note place="foot">·The treasurer's wand, taken from Harley, whose second title was Lord <hi rend="italics">Mortimer</hi>.</note></l>
+            <l xml:id="swift-147-12W2-line-15" n="15">And, dear Englond, if ought I understond,</l>
+            <l xml:id="swift-147-12W2-line-16" n="16">Beware of <hi rend="italics">Carrots</hi> <note place="foot">·The Duchess of Somerset.</note> from <hi rend="italics">Northumberlond</hi>.</l>
+            <l xml:id="swift-147-12W2-line-17" n="17"><hi rend="italics">Carrots</hi> soon <hi rend="italics">Thynne</hi> <note place="foot">·Thomas Thynne of Longleate, Esq. married the above lady after the death of her first husband, Henry Cavendish, Earl of Ogle, only son to Henry, Duke of Newcastle, to whom she had been betrothed in her infancy. The marriage was never consummated; and Count Koningsmark having fallen in love with her while abroad, cause Thynne to be shot in his own carriage in Pall-mall. To this horrid story the following lines allude.</note> a deep root may get,</l>
+            <l xml:id="swift-147-12W2-line-18" n="18">If so be they are in <hi rend="italics">Somer set</hi>:</l>
+            <l xml:id="swift-147-12W2-line-19" n="19">Their <note place="foot">·Count Koningsmark.</note> <hi rend="italics">Conyngs mark</hi> thou; for I have been told,</l>
+            <l xml:id="swift-147-12W2-line-20" n="20">They <hi rend="italics">assassine</hi> when young, and <hi rend="italics">poison</hi> when old.</l>
+            <l xml:id="swift-147-12W2-line-21" n="21">Root out these Carrots, O <hi rend="italics">thou</hi>, <note place="foot">·ANNA.</note> whose name</l>
+            <l xml:id="swift-147-12W2-line-22" n="22">Is <hi rend="italics">backwards</hi> and <hi rend="italics">forwards</hi> always the same;</l>
+            <l xml:id="swift-147-12W2-line-23" n="23">And keep close to thee always that name,</l>
+            <l xml:id="swift-147-12W2-line-24" n="24">Which <hi rend="italics">backwards</hi> and <hi rend="italics">forwards</hi> <note place="foot">·MASHAM.</note> is almost the same.</l>
+            <l xml:id="swift-147-12W2-line-25" n="25">And Englond, wouldst thou be happy still,</l>
+            <l xml:id="swift-147-12W2-line-26" n="26">Bury those <hi rend="italics">Carrots</hi> under a <hi rend="italics">Hill</hi>.<note place="foot">·Lady Masham's maiden name was Hill.</note></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

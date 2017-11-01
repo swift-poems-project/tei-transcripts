@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-678B1351-title-1">The DEAN and DUKE. <ref target="#spp-678B1351-footnote-title-1">1</ref><note n="1" xml:id="spp-678B1351-footnote-title-1" place="foot">See an Epigram, Vol. II. p. 37</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 1JE07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-678B1351-footnote-title-1 #spp-678B1351-title-1"/>
+        </linkGrp>
+        <div n="678B1351">
+          <head type="note" n="1" xml:id="spp-678B1351-headnote-1">
+            <lg n="1" xml:id="spp-678B1351-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-678B1351-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-678B1351-headnote-2">
+            <lg n="1" xml:id="spp-678B1351-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-678B1351-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-678B1351-headnote-3">
+            <lg n="1" xml:id="spp-678B1351-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-678B1351-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-678B1351-line-1" n="1"><hi rend="display-initial">J</hi>────s B────s and the Dean had long been friends;</l>
+            <l xml:id="swift-678B1351-line-2" n="2">James is beduk'd; of course their friendship ends.</l>
+            <l xml:id="swift-678B1351-line-3" n="3">But sure the Dean deserves a sharp rebuke,</l>
+            <l xml:id="swift-678B1351-line-4" n="4">From knowing James, to boast he knows the Duke.</l>
+            <l xml:id="swift-678B1351-line-5" n="5">Yet, since just Heav'n the Duke's ambition mocks,</l>
+            <l xml:id="swift-678B1351-line-6" n="6">Since all he got by fraud is lost by stocks,</l>
+            <l xml:id="swift-678B1351-line-7" n="7">His wings are clipp'd; he tries no more in vain,</l>
+            <l xml:id="swift-678B1351-line-8" n="8">With bands of fidlers to extend his train.</l>
+            <l xml:id="swift-678B1351-line-9" n="9">Since he no more can build, and plant, and revel,</l>
+            <l xml:id="swift-678B1351-line-10" n="10">The Duke and Dean seem near upon a level.</l>
+            <l xml:id="swift-678B1351-line-11" n="11">Oh! wert thou not a Duke, my good Duke Humphry,</l>
+            <l xml:id="swift-678B1351-line-12" n="12">From bailiff's claws thou scarce couldst keep thy bum free.</l>
+            <l xml:id="swift-678B1351-line-13" n="13">A Duke to know a Dean! Go, smooth thy crown:</l>
+            <l xml:id="swift-678B1351-line-14" n="14">Thy brother (far thy betters) wore a gown.</l>
+            <l xml:id="swift-678B1351-line-15" n="15">Well, but a Duke thou art; so pleas'd the King:</l>
+            <l xml:id="swift-678B1351-line-16" n="16">Oh! would his Majesty but add a string.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

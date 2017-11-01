@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  COPY of V<hi rend="small-caps">ERSES</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KZeigler 1MR96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="393-34L-">
+          <head type="note" n="1" xml:id="spp-393-34L--headnote-1">
+            <lg n="1" xml:id="spp-393-34L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-34L--headnote-1-line-group-1-line-1"><hi rend="italics">Upon two celebrated Modern Poets</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-393-34L--headnote-2">
+            <lg n="1" xml:id="spp-393-34L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-34L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-393-34L--headnote-3">
+            <lg n="1" xml:id="spp-393-34L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-34L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-393-34L--line-1" n="1"><hi rend="display-initial">B</hi>EHOLD those Monarch-Oaks that rise,</l>
+            <l xml:id="swift-393-34L--line-2" n="2">With lofty Branches to the Skies,</l>
+            <l xml:id="swift-393-34L--line-3" n="3">Have large proportion'd Roots that grow</l>
+            <l xml:id="swift-393-34L--line-4" n="4">With equal Longitude below:</l>
+            <l xml:id="swift-393-34L--line-5" n="5">om.</l>
+            <l xml:id="swift-393-34L--line-6" n="6">om.</l>
+            <l xml:id="swift-393-34L--line-7" n="7">Two Bards that now in fashion reign,</l>
+            <l xml:id="swift-393-34L--line-8" n="8">Most aptly this Device explain:</l>
+            <l xml:id="swift-393-34L--line-9" n="9">If This to Clouds and Stars will venture,</l>
+            <l xml:id="swift-393-34L--line-10" n="10">That creeps as far to reach the Centre;</l>
+            <l xml:id="swift-393-34L--line-11" n="11">Or more to show the Thing I mean,</l>
+            <l xml:id="swift-393-34L--line-12" n="12">Have you not o'er a Sawpit seen,</l>
+            <l xml:id="swift-393-34L--line-13" n="13">A skill'd Mechanick that has stood,</l>
+            <l xml:id="swift-393-34L--line-14" n="14">High on a Length of prostrate Wood,</l>
+            <l xml:id="swift-393-34L--line-15" n="15">Who hir'd a subterraneous Friend,</l>
+            <l xml:id="swift-393-34L--line-16" n="16">To take his Iron by the End;</l>
+            <l xml:id="swift-393-34L--line-17" n="17">But which excell'd was never found,</l>
+            <l xml:id="swift-393-34L--line-18" n="18">The Man above, or under Ground.</l>
+            <l rend="indent(1)" xml:id="swift-393-34L--line-19" n="19"><lb/>The Moral is so plain to hit,</l>
+            <l xml:id="swift-393-34L--line-20" n="20">That had I been the God of Wit,</l>
+            <l xml:id="swift-393-34L--line-21" n="21">Then in a Sawpit and wet Weather,</l>
+            <l xml:id="swift-393-34L--line-22" n="22">Shou'd <hi rend="italics">Young</hi> and <hi rend="italics">Phillips</hi> drudge together.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

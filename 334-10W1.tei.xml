@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A SERIOUS POEM<lb/>  UPON WILLIAM WOOD,<lb/>  BRASIER, TINKER, HARDWAREMAN, COINER, FOUNDER, AND ESQUIRE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 9NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="334-10W1">
+          <head type="note" n="1" xml:id="spp-334-10W1-headnote-1">
+            <lg n="1" xml:id="spp-334-10W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-10W1-headnote-1-line-group-1-line-1">[The two passages within crotchets, which do not occur in former editions of the Dean's works, are added from the original broadside copy.]&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-334-10W1-headnote-2">
+            <lg n="1" xml:id="spp-334-10W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-10W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-334-10W1-headnote-3">
+            <lg n="1" xml:id="spp-334-10W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-10W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-1" n="1">
+              <hi rend="display-initial">W<hi rend="small-caps">HEN</hi> foes are o'ercome we preserve them from slaughter</hi>
+            </l>
+            <l xml:id="swift-334-10W1-line-2" n="2">To be hewers of wood, and drawers of water.</l>
+            <l xml:id="swift-334-10W1-line-3" n="3">Now, although to draw water is not very good,</l>
+            <l xml:id="swift-334-10W1-line-4" n="4">Yet we all should rejoice to be hewers of Wood.</l>
+            <l xml:id="swift-334-10W1-line-5" n="5">I own it has often provoked me to mutter,</l>
+            <l xml:id="swift-334-10W1-line-6" n="6">That a rogue so obscure should make such a clutter:</l>
+            <l xml:id="swift-334-10W1-line-7" n="7">But ancient philosophers wisely remark,</l>
+            <l xml:id="swift-334-10W1-line-8" n="8">That old rotten wood will shine in the dark.</l>
+            <l xml:id="swift-334-10W1-line-9" n="9">The Heathens, we read, had gods made of wood,</l>
+            <l xml:id="swift-334-10W1-line-10" n="10">Who could do them no harm, if they did them no good;</l>
+            <l xml:id="swift-334-10W1-line-11" n="11">But this idol Wood may do us great evil,</l>
+            <l xml:id="swift-334-10W1-line-12" n="12">Their gods were of wood; but our Wood is the Devil.</l>
+            <l xml:id="swift-334-10W1-line-13" n="13">To cut down fine wood, is a very bad thing;</l>
+            <l xml:id="swift-334-10W1-line-14" n="14">And yet we all know much gold it will bring:</l>
+            <l xml:id="swift-334-10W1-line-15" n="15">Then, if cutting down wood brings money good store,</l>
+            <l xml:id="swift-334-10W1-line-16" n="16">Our money to keep, let us cut down one more.</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-17" n="17">Now hear an old tale. There anciently stood</l>
+            <l xml:id="swift-334-10W1-line-18" n="18">(I forget in what church) an image of wood;</l>
+            <l xml:id="swift-334-10W1-line-19" n="19">Concerning this image, there went a prediction,</l>
+            <l xml:id="swift-334-10W1-line-20" n="20">It would burn a whole forest; nor was it a fiction.</l>
+            <l xml:id="swift-334-10W1-line-21" n="21">'Twas cut into faggots and put to the flame,</l>
+            <l xml:id="swift-334-10W1-line-22" n="22">To burn an old friar, one Forest by name,</l>
+            <l xml:id="swift-334-10W1-line-23" n="23">My tale is a wise one, if well understood:</l>
+            <l xml:id="swift-334-10W1-line-24" n="24">Find you but the Friar; and I'll find the Wood.</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-25" n="25">I hear, among scholars there is a great doubt,</l>
+            <l xml:id="swift-334-10W1-line-26" n="26">From what kind of tree this Wood was hewn out.</l>
+            <l xml:id="swift-334-10W1-line-27" n="27">Teague made a good pun by a brogue in his speech:</l>
+            <l xml:id="swift-334-10W1-line-28" n="28">And said, “By my shoul, he's the son of a B<hi rend="small-caps">EECH</hi>.”</l>
+            <l xml:id="swift-334-10W1-line-29" n="29">Some call him a thorn, the curse of the nation,</l>
+            <l xml:id="swift-334-10W1-line-30" n="30">As thorns were designed to be from the creation.</l>
+            <l xml:id="swift-334-10W1-line-31" n="31">Some think him cut out from the poisonous yew,</l>
+            <l xml:id="swift-334-10W1-line-32" n="32">Beneath whose ill shade no plant ever grew.</l>
+            <l xml:id="swift-334-10W1-line-33" n="33">Some say he's a birch, a thought very odd;</l>
+            <l xml:id="swift-334-10W1-line-34" n="34">For none but a dunce would come under his rod.</l>
+            <l xml:id="swift-334-10W1-line-35" n="35">But I'll tell the secret; and pray do not blab:</l>
+            <l xml:id="swift-334-10W1-line-36" n="36">He is an old stump, cut out of a crab;</l>
+            <l xml:id="swift-334-10W1-line-37" n="37">And England has put this crab to hard use,</l>
+            <l xml:id="swift-334-10W1-line-38" n="38">To cudgel our bones, and for drink give us verjuice;</l>
+            <l xml:id="swift-334-10W1-line-39" n="39">And therefore his witnesses justly may boast,</l>
+            <l xml:id="swift-334-10W1-line-40" n="40">That none are more properly knights of the post.</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-41" n="41">[But here Mr Wood complains that we mock,</l>
+            <l xml:id="swift-334-10W1-line-42" n="42">Though he may be a blockhead, he's no real block.</l>
+            <l xml:id="swift-334-10W1-line-43" n="43">He can eat, drink, and sleep; now and then for a friend</l>
+            <l xml:id="swift-334-10W1-line-44" n="44">He'll not be too proud an old kettle to mend;</l>
+            <l xml:id="swift-334-10W1-line-45" n="45">He can lie like a courtier, and think it no scorn,</l>
+            <l xml:id="swift-334-10W1-line-46" n="46">When gold's to be got, to forswear and suborn.</l>
+            <l xml:id="swift-334-10W1-line-47" n="47">He can rap his own raps<note place="foot">·Forge his own bad halfpence.</note>, and has the true sapience,</l>
+            <l xml:id="swift-334-10W1-line-48" n="48">To turn a good penny to twenty bad halfpence.</l>
+            <l xml:id="swift-334-10W1-line-49" n="49">Then in spite of your sophistry, honest Will Wood</l>
+            <l xml:id="swift-334-10W1-line-50" n="50">Is a man of this world, all true flesh and blood;</l>
+            <l xml:id="swift-334-10W1-line-51" n="51">So you are but in jest, and you will not, I hope,</l>
+            <l xml:id="swift-334-10W1-line-52" n="52">Unman the poor knave for the sake of a trope.</l>
+            <l xml:id="swift-334-10W1-line-53" n="53">'Tis a metaphor known to every plain thinker,</l>
+            <l xml:id="swift-334-10W1-line-54" n="54">Just as when we say, the devil's a tinker,</l>
+            <l xml:id="swift-334-10W1-line-55" n="55">Which cannot, in literal sense be made good,</l>
+            <l xml:id="swift-334-10W1-line-56" n="56">Unless by the devil we mean Mr Wood.</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-57" n="57">But some will object that the Devil oft spoke,</l>
+            <l xml:id="swift-334-10W1-line-58" n="58">In heathenish times, from the trunk of an oak,</l>
+            <l xml:id="swift-334-10W1-line-59" n="59">And since we must grant there never were known</l>
+            <l xml:id="swift-334-10W1-line-60" n="60">More heathenish times than those of our own;</l>
+            <l xml:id="swift-334-10W1-line-61" n="61">Perhaps you will say, 'tis the devil that puts,</l>
+            <l xml:id="swift-334-10W1-line-62" n="62">The words in Wood's mouth, or speaks from his guts:</l>
+            <l xml:id="swift-334-10W1-line-63" n="63">And then your old arguments still will return,</l>
+            <l xml:id="swift-334-10W1-line-64" n="64">Howe'er let us try him, and see how he'll burn:</l>
+            <l xml:id="swift-334-10W1-line-65" n="65">You'll pardon me, sir, your cunning I smoke,</l>
+            <l xml:id="swift-334-10W1-line-66" n="66">But Wood, I assure you, is no heart of oak;</l>
+            <l xml:id="swift-334-10W1-line-67" n="67">And, instead of the devil, this son of perdition</l>
+            <l xml:id="swift-334-10W1-line-68" n="68">Hath joined with himself two hags in commission.]</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-69" n="69">I ne'er could endure my talent to smother:</l>
+            <l xml:id="swift-334-10W1-line-70" n="70">I told you one tale, and I'll tell you another.</l>
+            <l xml:id="swift-334-10W1-line-71" n="71">A joiner to fasten a saint in a nitch,</l>
+            <l xml:id="swift-334-10W1-line-72" n="72">Bor'd a large auger-hole in the image's breech;</l>
+            <l xml:id="swift-334-10W1-line-73" n="73">But, finding the statue to make no complaint,</l>
+            <l xml:id="swift-334-10W1-line-74" n="74">He would ne'er be convinc'd it was a true saint.</l>
+            <l xml:id="swift-334-10W1-line-75" n="75">When the true Wood arrives, as he soon will, no doubt,</l>
+            <l xml:id="swift-334-10W1-line-76" n="76">(For that's but a sham Wood they carry about;<note place="foot">·He was burnt in effigy. See Vol. VII. p. 295.</note>)</l>
+            <l xml:id="swift-334-10W1-line-77" n="77">What stuff he is made of you quickly may find</l>
+            <l xml:id="swift-334-10W1-line-78" n="78">If you make the same trial and bore him behind.</l>
+            <l xml:id="swift-334-10W1-line-79" n="79">I'll hold you a groat, when you wimble his bum,</l>
+            <l xml:id="swift-334-10W1-line-80" n="80">He'll bellow as loud as the de'il in a drum.</l>
+            <l xml:id="swift-334-10W1-line-81" n="81">From me, I declare you shall have no denial;</l>
+            <l xml:id="swift-334-10W1-line-82" n="82">And there can be no harm in making a trial:</l>
+            <l xml:id="swift-334-10W1-line-83" n="83">And when to the joy of your hearts he has roar'd,</l>
+            <l xml:id="swift-334-10W1-line-84" n="84">You may show him about for a new groaning board.</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-85" n="85">[Now ask me a question. How came it to pass</l>
+            <l xml:id="swift-334-10W1-line-86" n="86">Wood got so much copper? He got it by brass;</l>
+            <l xml:id="swift-334-10W1-line-87" n="87">This Brass was a dragon (observe what I tell ye,)</l>
+            <l xml:id="swift-334-10W1-line-88" n="88">This dragon had gotten two sows in his belly;</l>
+            <l xml:id="swift-334-10W1-line-89" n="89">I know you will say this is all heathen Greek,</l>
+            <l xml:id="swift-334-10W1-line-90" n="90">I own it, and therefore I leave you to seek.</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-91" n="91">I often have seen two plays very good,</l>
+            <l xml:id="swift-334-10W1-line-92" n="92">Call'd Love in a Tub, and Love in a Wood;</l>
+            <l xml:id="swift-334-10W1-line-93" n="93">These comedies twain friend Wood will contrive</l>
+            <l xml:id="swift-334-10W1-line-94" n="94">On the scene of this land very soon to revive.</l>
+            <l xml:id="swift-334-10W1-line-95" n="95">First, Love in a Tub: squire Wood has in store</l>
+            <l xml:id="swift-334-10W1-line-96" n="96">Strong tubs for his raps, two thousand and more;</l>
+            <l xml:id="swift-334-10W1-line-97" n="97">These raps he will honestly dig out with shovels,</l>
+            <l xml:id="swift-334-10W1-line-98" n="98">And sell them for gold, or he can't shew his love else.</l>
+            <l xml:id="swift-334-10W1-line-99" n="99">Wood swears he will do it for Ireland's good,</l>
+            <l xml:id="swift-334-10W1-line-100" n="100">Then can you deny it is Love in a Wood?</l>
+            <l xml:id="swift-334-10W1-line-101" n="101">However, if critics find fault with the phrase,</l>
+            <l xml:id="swift-334-10W1-line-102" n="102">I hope you will own it is Love in a Maze:</l>
+            <l xml:id="swift-334-10W1-line-103" n="103">For when to express a friend's love you are willing,</l>
+            <l xml:id="swift-334-10W1-line-104" n="104">We never say more than your love is a million;</l>
+            <l xml:id="swift-334-10W1-line-105" n="105">But with honest Wood's love there is no contending,</l>
+            <l xml:id="swift-334-10W1-line-106" n="106">'Tis fifty round millions of love and a mending.</l>
+            <l xml:id="swift-334-10W1-line-107" n="107">Then in his first love why should he be crost?</l>
+            <l xml:id="swift-334-10W1-line-108" n="108">I hope he will find that no love is lost.]</l>
+            <l rend="indent(1)" xml:id="swift-334-10W1-line-109" n="109">Hear one story more and then I will stop.</l>
+            <l xml:id="swift-334-10W1-line-110" n="110">I dreamt Wood was told he should die by a drop:</l>
+            <l xml:id="swift-334-10W1-line-111" n="111">So methought he resolved no liquor to taste,</l>
+            <l xml:id="swift-334-10W1-line-112" n="112">For fear the first drop might as well be his last.</l>
+            <l xml:id="swift-334-10W1-line-113" n="113">But dreams are like oracles; 'tis hard to explain 'em;</l>
+            <l xml:id="swift-334-10W1-line-114" n="114">For it prov'd that he died of a drop at Kilmainham.<note place="foot">·The place of execution near Dublin.</note></l>
+            <l xml:id="swift-334-10W1-line-115" n="115">I wak'd with delight; and not without hope,</l>
+            <l xml:id="swift-334-10W1-line-116" n="116">Very soon to see Wood drop down from a rope.</l>
+            <l xml:id="swift-334-10W1-line-117" n="117">How he, and how we at each other should grin!</l>
+            <l xml:id="swift-334-10W1-line-118" n="118">'Tis kindness to hold a friend up by the chin.</l>
+            <l xml:id="swift-334-10W1-line-119" n="119">But soft! says the herald I cannot agree;</l>
+            <l xml:id="swift-334-10W1-line-120" n="120">For metal on metal is false heraldry.</l>
+            <l xml:id="swift-334-10W1-line-121" n="121">Why that may be true; yet Wood upon Wood</l>
+            <l xml:id="swift-334-10W1-line-122" n="122">I'll maintain with my life, is heraldry good.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Copy of a Copy of Verses<lb/>  from T<hi rend="small-caps">HOMAS </hi>S<hi rend="small-caps">HERIDAN</hi>, Clerk,<lb/>  to G<hi rend="small-caps">EORGE </hi>N<hi rend="small-caps">IM-</hi>D<hi rend="small-caps">AN-</hi>D<hi rend="small-caps">EAN</hi>, Esq;<lb/>  Written <hi rend="italics">July</hi> 15th, 1721, at Night.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 12NO96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> relineated JW 27OC08; √'d JW 27OC08 agt WILH; tochk item confirmed JIF 3NO08 and resolved JW 15JL13; ed. JW 3JE14, 21AU14; EMENDED JW 20AP17, 21AP17, 25AP17; 17 emended JW 28AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X19BCWJS">
+          <head type="note" n="1" xml:id="spp-X19BCWJS-headnote-1">
+            <lg n="1" xml:id="spp-X19BCWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X19BCWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X19BCWJS-headnote-2">
+            <lg n="1" xml:id="spp-X19BCWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X19BCWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X19BCWJS-headnote-3">
+            <lg n="1" xml:id="spp-X19BCWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X19BCWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X19BCWJS-line-1" n="1">
+              <hi rend="display-initial">I<hi rend="small-caps">'D HAVE</hi> you t' know <hi rend="italics">George, Dan, Dean</hi>, 'nd <hi rend="italics">Nim</hi>,</hi>
+            </l>
+            <l xml:id="swift-X19BCWJS-line-2" n="2">That I've learned how Verse t' compose trim,</l>
+            <l xml:id="swift-X19BCWJS-line-3" n="3">Much better b'half th'n you, n'r you, n'r him,</l>
+            <l xml:id="swift-X19BCWJS-line-4" n="4">And th't I'd rid'cule their, 'nd your Flam Flim,</l>
+            <l xml:id="swift-X19BCWJS-line-5" n="5">Ay' b't then, p'rhaps says you, t's a m'rry Whim</l>
+            <l xml:id="swift-X19BCWJS-line-6" n="6">With 'bundance of mark't Notes i' th' Rim,</l>
+            <l xml:id="swift-X19BCWJS-line-7" n="7">So th't I ought n't for t' be morose 'nd t' look grim,</l>
+            <l xml:id="swift-X19BCWJS-line-8" n="8">Think n't your 'p'stle put m' in a Meagrim;</l>
+            <l xml:id="swift-X19BCWJS-line-9" n="9">Though, 'n Rep't't'on Day, I'ppear ver' slim,</l>
+            <l xml:id="swift-X19BCWJS-line-10" n="10">Th' last Bowl't <hi rend="italics">Helsham</hi>'s did m' Head t' swim,</l>
+            <l xml:id="swift-X19BCWJS-line-11" n="11">So th't I h'd man' Aches 'n 'v'ry scrubb'd Limb,</l>
+            <l xml:id="swift-X19BCWJS-line-12" n="12">Cause th' Top of th' Bowl I'h'd oft us'd t' skim;</l>
+            <l xml:id="swift-X19BCWJS-line-13" n="13">And b'sides <hi rend="italics">D'lan'</hi> swears th't I'h'd swall'w'd s'v'r'l Brim-</l>
+            <l xml:id="swift-X19BCWJS-line-14" n="14">mers, 'nd that my Vis'ge's cov'r'd o'r with r'd Pim-</l>
+            <l xml:id="swift-X19BCWJS-line-15" n="15">ples: M'r'o'er though m' Scull were (s'tis n't) 's strong's Tim-</l>
+            <l xml:id="swift-X19BCWJS-line-16" n="16">ber, 't must have ak'd. Th' Clans of th' C'lledge Sanh'drim,</l>
+            <l xml:id="swift-X19BCWJS-line-17" n="17">pres'nt th'r humbl' and 'fect'nate Respects; that's t'say, <hi rend="italics">D'lan', 'chlin, P. Ludl', Dic' St'wart, H'lsham, </hi>Capt'n<hi rend="italics"> P'rr', Walmsl</hi>'nd<hi rend="italics"/> Longsh'nks <hi rend="italics">Jimm</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

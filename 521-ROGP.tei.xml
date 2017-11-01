@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">On Stephen Duck, the Thresher, and Favourite Poet</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="521-ROGP">
+          <head type="note" n="1" xml:id="spp-521-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-521-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-ROGP-headnote-1-line-group-1-line-1">A QUIBBLING EPIGRAM&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-521-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-521-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-521-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-521-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-521-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-521-ROGP-line-1" n="1">The thresher Duck could o'er the Queen prevail.</l>
+            <l xml:id="swift-521-ROGP-line-2" n="2">The proverb says, `No fence against a flail.'</l>
+            <l xml:id="swift-521-ROGP-line-3" n="3">From <hi rend="italics">threshing</hi> corn, he turns to <hi rend="italics">thresh</hi> his brains;</l>
+            <l xml:id="swift-521-ROGP-line-4" n="4">For which Her Majesty allows him grains.</l>
+            <l xml:id="swift-521-ROGP-line-5" n="5">Though 'tis confessed that those who ever saw</l>
+            <l xml:id="swift-521-ROGP-line-6" n="6">His poems, think them all not worth a <hi rend="italics">straw</hi>.</l>
+            <l xml:id="swift-521-ROGP-line-7" n="7">Thrice happy Duck, employed in threshing <hi rend="italics">stubble</hi>!</l>
+            <l xml:id="swift-521-ROGP-line-8" n="8">Thy toil is lessened, and thy profits double.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

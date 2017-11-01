@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The D<hi rend="small-caps">ESCRIPTION</hi> of an I<hi rend="small-caps">RISH </hi>F<hi rend="small-caps">EAST</hi>,<lb/>  translated almost literally out of the origi-<lb/>  nal Irish.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 12JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="244-06E2">
+          <head type="note" n="1" xml:id="spp-244-06E2-headnote-1">
+            <lg n="1" xml:id="spp-244-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-06E2-headnote-1-line-group-1-line-1">Translated in the year 1720.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-244-06E2-headnote-2">
+            <lg n="1" xml:id="spp-244-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-244-06E2-headnote-3">
+            <lg n="1" xml:id="spp-244-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-244-06E2-line-1" n="1"><hi rend="display-initial">O</hi> Rourk's noble fare</l>
+            <l xml:id="swift-244-06E2-line-2" n="2">Will ne'er be forgot,</l>
+            <l xml:id="swift-244-06E2-line-3" n="3">By those who were there,</l>
+            <l xml:id="swift-244-06E2-line-4" n="4">Or those who were not.</l>
+            <l xml:id="swift-244-06E2-line-5" n="5">His revels to keep,</l>
+            <l xml:id="swift-244-06E2-line-6" n="6">We sup and we dine</l>
+            <l xml:id="swift-244-06E2-line-7" n="7">On seven score sheep,</l>
+            <l xml:id="swift-244-06E2-line-8" n="8">Fat bullocks and swine.</l>
+            <l xml:id="swift-244-06E2-line-9" n="9">Usquebaugh to our feast</l>
+            <l xml:id="swift-244-06E2-line-10" n="10">In pails was brought up,</l>
+            <l xml:id="swift-244-06E2-line-11" n="11">An hundred at least,</l>
+            <l xml:id="swift-244-06E2-line-12" n="12">And a madder <note place="foot">·A wooden vessel.</note> our cup.</l>
+            <l xml:id="swift-244-06E2-line-13" n="13">O there is the sport!</l>
+            <l xml:id="swift-244-06E2-line-14" n="14">We rise with the light</l>
+            <l xml:id="swift-244-06E2-line-15" n="15">In disorderly sort</l>
+            <l xml:id="swift-244-06E2-line-16" n="16">From snoring all night.</l>
+            <l xml:id="swift-244-06E2-line-17" n="17">O how was I trick'd!</l>
+            <l xml:id="swift-244-06E2-line-18" n="18">My pipe it was broke,</l>
+            <l xml:id="swift-244-06E2-line-19" n="19">My pocket was pick'd,</l>
+            <l xml:id="swift-244-06E2-line-20" n="20">I lost my new cloak.</l>
+            <l xml:id="swift-244-06E2-line-21" n="21">I'm rifled, quoth Nell,</l>
+            <l xml:id="swift-244-06E2-line-22" n="22">Of mantle and kercher<note place="foot">·An handkerchief.</note>:</l>
+            <l xml:id="swift-244-06E2-line-23" n="23">Why then fare them well,</l>
+            <l xml:id="swift-244-06E2-line-24" n="24">The de'il take the searcher.</l>
+            <l xml:id="swift-244-06E2-line-25" n="25">Come, harper, strike up;</l>
+            <l xml:id="swift-244-06E2-line-26" n="26">But, first, by your favour,</l>
+            <l xml:id="swift-244-06E2-line-27" n="27">Boy, give us a cup:</l>
+            <l xml:id="swift-244-06E2-line-28" n="28">Ah! this has some savour.</l>
+            <l xml:id="swift-244-06E2-line-29" n="29">O Rourk's jolly boys</l>
+            <l xml:id="swift-244-06E2-line-30" n="30">Ne'er dream'd of the matter,</l>
+            <l xml:id="swift-244-06E2-line-31" n="31">Till rous'd by the noise</l>
+            <l xml:id="swift-244-06E2-line-32" n="32">And musical clatter,</l>
+            <l xml:id="swift-244-06E2-line-33" n="33">They bounce from their nest,</l>
+            <l xml:id="swift-244-06E2-line-34" n="34">No longer will tarry,</l>
+            <l xml:id="swift-244-06E2-line-35" n="35">They rise ready drest,</l>
+            <l xml:id="swift-244-06E2-line-36" n="36">Without one <hi rend="italics">Ave Mary</hi>.</l>
+            <l xml:id="swift-244-06E2-line-37" n="37">They dance in a round,</l>
+            <l xml:id="swift-244-06E2-line-38" n="38">Cutting capers and ramping;</l>
+            <l xml:id="swift-244-06E2-line-39" n="39">A mercy the ground</l>
+            <l xml:id="swift-244-06E2-line-40" n="40">Did not burst with their stamping.</l>
+            <l xml:id="swift-244-06E2-line-41" n="41">The floor is all wet</l>
+            <l xml:id="swift-244-06E2-line-42" n="42">With leaps and with jumps,</l>
+            <l xml:id="swift-244-06E2-line-43" n="43">While the water and sweat</l>
+            <l xml:id="swift-244-06E2-line-44" n="44">Splish splash in their pumps.</l>
+            <l xml:id="swift-244-06E2-line-45" n="45">Bless you late and early,</l>
+            <l xml:id="swift-244-06E2-line-46" n="46">Laughlin O Enagin,</l>
+            <l xml:id="swift-244-06E2-line-47" n="47"><hi rend="italics">By my hand</hi><note place="foot">·An Irish oath.</note>, you dance rarely,</l>
+            <l xml:id="swift-244-06E2-line-48" n="48">Margery Grinagin<note place="foot">·The name of an Irish woman.</note>.</l>
+            <l xml:id="swift-244-06E2-line-49" n="49">Bring straw for our bed,</l>
+            <l xml:id="swift-244-06E2-line-50" n="50">Shake it down to the feet,</l>
+            <l xml:id="swift-244-06E2-line-51" n="51">Then over us spread</l>
+            <l xml:id="swift-244-06E2-line-52" n="52">The winnowing sheet:</l>
+            <l xml:id="swift-244-06E2-line-53" n="53">To show I don't flinch,</l>
+            <l xml:id="swift-244-06E2-line-54" n="54">Fill the bowl up again;</l>
+            <l xml:id="swift-244-06E2-line-55" n="55">Then give us a pinch</l>
+            <l xml:id="swift-244-06E2-line-56" n="56">Of your sneezing, <hi rend="italics">a yean</hi><note place="foot">·An Irish word for a woman.</note>.</l>
+            <l xml:id="swift-244-06E2-line-57" n="57">Good Lord, what a sight,</l>
+            <l xml:id="swift-244-06E2-line-58" n="58">After all their good cheer,</l>
+            <l xml:id="swift-244-06E2-line-59" n="59">For people to fight</l>
+            <l xml:id="swift-244-06E2-line-60" n="60">In the midst of their beer?</l>
+            <l xml:id="swift-244-06E2-line-61" n="61">They rise from their feast,</l>
+            <l xml:id="swift-244-06E2-line-62" n="62">And hot are their brains,</l>
+            <l xml:id="swift-244-06E2-line-63" n="63">A cubit at least</l>
+            <l xml:id="swift-244-06E2-line-64" n="64">The length of their skeans<note place="foot">·Daggers, or short swords.</note>.</l>
+            <l xml:id="swift-244-06E2-line-65" n="65">What stabs and what cuts,</l>
+            <l xml:id="swift-244-06E2-line-66" n="66">What clatt'ring of sticks;</l>
+            <l xml:id="swift-244-06E2-line-67" n="67">What strokes on the guts,</l>
+            <l xml:id="swift-244-06E2-line-68" n="68">What bastings and kicks!</l>
+            <l xml:id="swift-244-06E2-line-69" n="69">With cudgels of oak</l>
+            <l xml:id="swift-244-06E2-line-70" n="70">Well harden'd in flame</l>
+            <l xml:id="swift-244-06E2-line-71" n="71">An hundred heads broke,</l>
+            <l xml:id="swift-244-06E2-line-72" n="72">An hundred struck lame.</l>
+            <l xml:id="swift-244-06E2-line-73" n="73">You churl, I'll maintain</l>
+            <l xml:id="swift-244-06E2-line-74" n="74">My father built Lusk,</l>
+            <l xml:id="swift-244-06E2-line-75" n="75">The castle of Slain,</l>
+            <l xml:id="swift-244-06E2-line-76" n="76">And Carrick Drumrusk:</l>
+            <l xml:id="swift-244-06E2-line-77" n="77">The Earl of Kildare</l>
+            <l xml:id="swift-244-06E2-line-78" n="78">And Moynalta, his brother,</l>
+            <l xml:id="swift-244-06E2-line-79" n="79">As great as they are,</l>
+            <l xml:id="swift-244-06E2-line-80" n="80">I was nurs'd by their mother<note place="foot">·It is the custom in Ireland, to call nurses foster-mothers, their husbands foster-fathers, and their children foster-brothers or foster-sisters; and thus the poorest claim kindred to the richest.</note>.</l>
+            <l xml:id="swift-244-06E2-line-81" n="81">Ask that of old <hi rend="italics">Madam</hi>,</l>
+            <l xml:id="swift-244-06E2-line-82" n="82">She'll tell you who's who,</l>
+            <l xml:id="swift-244-06E2-line-83" n="83">As far up as Adam,</l>
+            <l xml:id="swift-244-06E2-line-84" n="84">She knows it is true.</l>
+            <l xml:id="swift-244-06E2-line-85" n="85">Come down with that beam,</l>
+            <l xml:id="swift-244-06E2-line-86" n="86">If cudgels are scarce,</l>
+            <l xml:id="swift-244-06E2-line-87" n="87">A blow on the weam,</l>
+            <l xml:id="swift-244-06E2-line-88" n="88">Or a kick on the a────se.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

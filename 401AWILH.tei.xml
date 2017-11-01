@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On seeing Verses written upon<lb/>  Windows in Inns</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401AWILH">
+          <head type="note" n="1" xml:id="spp-401AWILH-headnote-1">
+            <lg n="1" xml:id="spp-401AWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401AWILH-headnote-1-line-group-1-line-1">II&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-401AWILH-headnote-2">
+            <lg n="1" xml:id="spp-401AWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401AWILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-401AWILH-headnote-3">
+            <lg n="1" xml:id="spp-401AWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401AWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-401AWILH-line-1" n="1">BY <hi rend="italics">Satan</hi> taught, all Conj'rers know</l>
+            <l xml:id="swift-401AWILH-line-2" n="2">Your Mistress in a Glass to show,</l>
+            <l rend="indent(1)" xml:id="swift-401AWILH-line-3" n="3">And, you can do as much:</l>
+            <l xml:id="swift-401AWILH-line-4" n="4">In this the Dev'l and you agree;</l>
+            <l xml:id="swift-401AWILH-line-5" n="5">None e'er made Verses worse than he,</l>
+            <l rend="indent(1)" xml:id="swift-401AWILH-line-6" n="6">And thine I swear are such.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

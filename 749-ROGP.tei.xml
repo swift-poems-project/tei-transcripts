@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Stella at Woodpark</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="749-ROGP">
+          <head type="note" n="1" xml:id="spp-749-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-749-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-749-ROGP-headnote-1-line-group-1-line-1">A HOUSE OF CHARLES FORD ESQ. EIGHT MILES FROM DUBLIN&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-749-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-749-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-749-ROGP-headnote-2-line-group-1-line-1"><hi rend="italics">Cuicunque nocere volebat <lb/> Vestimenta dabat pretiosa.</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-749-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-749-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-749-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-749-ROGP-line-1" n="1">Don Carlos in a merry spite,</l>
+            <l xml:id="swift-749-ROGP-line-2" n="2">Did Stella to his house invite:</l>
+            <l xml:id="swift-749-ROGP-line-3" n="3">He entertained her half a year</l>
+            <l xml:id="swift-749-ROGP-line-4" n="4">With generous wines and costly cheer.</l>
+            <l xml:id="swift-749-ROGP-line-5" n="5">Don Carlos made her chief director,</l>
+            <l xml:id="swift-749-ROGP-line-6" n="6">That she might o'er the servants hector.</l>
+            <l xml:id="swift-749-ROGP-line-7" n="7">In half a week the dame grows nice,</l>
+            <l xml:id="swift-749-ROGP-line-8" n="8">Got all things at the highest price.</l>
+            <l xml:id="swift-749-ROGP-line-9" n="9">Now at the table-head she sits,</l>
+            <l xml:id="swift-749-ROGP-line-10" n="10">Presented with the nicest bits:</l>
+            <l xml:id="swift-749-ROGP-line-11" n="11">She looked on partridges with scorn,</l>
+            <l xml:id="swift-749-ROGP-line-12" n="12">Except they tasted of the corn:</l>
+            <l xml:id="swift-749-ROGP-line-13" n="13">A haunch of venison made her sweat,</l>
+            <l xml:id="swift-749-ROGP-line-14" n="14">Unless it had the right <hi rend="italics">fumette</hi>.</l>
+            <l xml:id="swift-749-ROGP-line-15" n="15">Don Carlos earnestly would beg,</l>
+            <l xml:id="swift-749-ROGP-line-16" n="16">`Dear madam, try this pigeon's leg ;</l>
+            <l xml:id="swift-749-ROGP-line-17" n="17">Was happy when he could prevail</l>
+            <l xml:id="swift-749-ROGP-line-18" n="18">To make her only touch a quail.</l>
+            <l xml:id="swift-749-ROGP-line-19" n="19">Through candle-light she viewed the wine,</l>
+            <l xml:id="swift-749-ROGP-line-20" n="20">To see that every glass was fine.</l>
+            <l xml:id="swift-749-ROGP-line-21" n="21">At last grown prouder than the devil,</l>
+            <l xml:id="swift-749-ROGP-line-22" n="22">With feeding high, and treatment civil,</l>
+            <l xml:id="swift-749-ROGP-line-23" n="23">Don Carlos now began to find</l>
+            <l xml:id="swift-749-ROGP-line-24" n="24">His malice work as he designed:</l>
+            <l xml:id="swift-749-ROGP-line-25" n="25">The winter sky began to frown,</l>
+            <l xml:id="swift-749-ROGP-line-26" n="26">Poor Stella must pack off to town.</l>
+            <l xml:id="swift-749-ROGP-line-27" n="27">From purling streams and fountains bubbling,</l>
+            <l xml:id="swift-749-ROGP-line-28" n="28">To Liffey's stinking tide in Dublin:</l>
+            <l xml:id="swift-749-ROGP-line-29" n="29">From wholesome exercise and air</l>
+            <l xml:id="swift-749-ROGP-line-30" n="30">To sossing in an easy chair;</l>
+            <l xml:id="swift-749-ROGP-line-31" n="31">From stomach sharp and hearty feeding,</l>
+            <l xml:id="swift-749-ROGP-line-32" n="32">To piddle like a lady breeding:</l>
+            <l xml:id="swift-749-ROGP-line-33" n="33">From ruling there the household singly,</l>
+            <l xml:id="swift-749-ROGP-line-34" n="34">To be directed here by Dingley:</l>
+            <l xml:id="swift-749-ROGP-line-35" n="35">From every day a lordly banquet,</l>
+            <l xml:id="swift-749-ROGP-line-36" n="36">To half a joint, and God be thank it:</l>
+            <l xml:id="swift-749-ROGP-line-37" n="37">From every meal Pontac in plenty,</l>
+            <l xml:id="swift-749-ROGP-line-38" n="38">To half a pint one day in twenty.</l>
+            <l xml:id="swift-749-ROGP-line-39" n="39">From Ford attending at her call,</l>
+            <l xml:id="swift-749-ROGP-line-40" n="40">To visits of Archdeacon Wall.</l>
+            <l xml:id="swift-749-ROGP-line-41" n="41">From Ford, who thinks of nothing mean,</l>
+            <l xml:id="swift-749-ROGP-line-42" n="42">To the poor doings of the Dean.</l>
+            <l xml:id="swift-749-ROGP-line-43" n="43">From growing richer with good cheer,</l>
+            <l xml:id="swift-749-ROGP-line-44" n="44">To running out by starving here.</l>
+            <l rend="indent(1)" xml:id="swift-749-ROGP-line-45" n="45"><lb/>But now arrives the dismal day:</l>
+            <l xml:id="swift-749-ROGP-line-46" n="46">She must return to Ormond Quay:</l>
+            <l xml:id="swift-749-ROGP-line-47" n="47">The coachman stopped, she looked, and swore</l>
+            <l xml:id="swift-749-ROGP-line-48" n="48">The rascal had mistook the door:</l>
+            <l xml:id="swift-749-ROGP-line-49" n="49">At coming in you saw her stoop;</l>
+            <l xml:id="swift-749-ROGP-line-50" n="50">The entry brushed against her hoop:</l>
+            <l xml:id="swift-749-ROGP-line-51" n="51">Each moment rising in her airs,</l>
+            <l xml:id="swift-749-ROGP-line-52" n="52">She cursed the narrow winding stairs:</l>
+            <l xml:id="swift-749-ROGP-line-53" n="53">Began a thousand faults to spy;</l>
+            <l xml:id="swift-749-ROGP-line-54" n="54">The ceiling hardly six foot high;</l>
+            <l xml:id="swift-749-ROGP-line-55" n="55">The smutty wainscot full of cracks,</l>
+            <l xml:id="swift-749-ROGP-line-56" n="56">And half the chairs with broken backs:</l>
+            <l xml:id="swift-749-ROGP-line-57" n="57">Her quarter's out at Lady Day,</l>
+            <l xml:id="swift-749-ROGP-line-58" n="58">She vows she will no longer stay,</l>
+            <l xml:id="swift-749-ROGP-line-59" n="59">In lodgings, like a poor <hi rend="italics">grisette</hi>,</l>
+            <l xml:id="swift-749-ROGP-line-60" n="60">While there are houses to be let.</l>
+            <l rend="indent(1)" xml:id="swift-749-ROGP-line-61" n="61"><lb/>Howe'er, to keep her spirits up,</l>
+            <l xml:id="swift-749-ROGP-line-62" n="62">She sent for company to sup;</l>
+            <l xml:id="swift-749-ROGP-line-63" n="63">When all the while you might remark,</l>
+            <l xml:id="swift-749-ROGP-line-64" n="64">She strove in vain to ape Woodpark.</l>
+            <l xml:id="swift-749-ROGP-line-65" n="65">Two bottles called for, (half her store;</l>
+            <l xml:id="swift-749-ROGP-line-66" n="66">The cupboard could contain but four;)</l>
+            <l xml:id="swift-749-ROGP-line-67" n="67">A supper worthy of her self,</l>
+            <l xml:id="swift-749-ROGP-line-68" n="68">Five nothings in five plates of Delf.</l>
+            <l rend="indent(1)" xml:id="swift-749-ROGP-line-69" n="69"><lb/>Thus, for a week the farce went on;</l>
+            <l xml:id="swift-749-ROGP-line-70" n="70">When all her country-savings gone,</l>
+            <l xml:id="swift-749-ROGP-line-71" n="71">She fell into her former scene.</l>
+            <l xml:id="swift-749-ROGP-line-72" n="72">Small beer, a herring, and the Dean.</l>
+            <l rend="indent(1)" xml:id="swift-749-ROGP-line-73" n="73"><lb/>Thus far in jest. Though now I fear</l>
+            <l xml:id="swift-749-ROGP-line-74" n="74">You think my jesting too severe:</l>
+            <l xml:id="swift-749-ROGP-line-75" n="75">But poets when a hint is new</l>
+            <l xml:id="swift-749-ROGP-line-76" n="76">Regard not whether false or true:</l>
+            <l xml:id="swift-749-ROGP-line-77" n="77">Yet raillery gives no offence,</l>
+            <l xml:id="swift-749-ROGP-line-78" n="78">Where truth has not the least pretence;</l>
+            <l xml:id="swift-749-ROGP-line-79" n="79">Nor can be more securely placed</l>
+            <l xml:id="swift-749-ROGP-line-80" n="80">Than on a nymph of Stella's taste.</l>
+            <l xml:id="swift-749-ROGP-line-81" n="81">I must confess, your wine and victual</l>
+            <l xml:id="swift-749-ROGP-line-82" n="82">I was too hard upon <hi rend="italics">a little</hi>;</l>
+            <l xml:id="swift-749-ROGP-line-83" n="83">Your table neat, your linen fine;</l>
+            <l xml:id="swift-749-ROGP-line-84" n="84">And, though in miniature, you shine.</l>
+            <l xml:id="swift-749-ROGP-line-85" n="85">Yet, when you sigh to leave Woodpark,</l>
+            <l xml:id="swift-749-ROGP-line-86" n="86">The scene, the welcome, and the spark,</l>
+            <l xml:id="swift-749-ROGP-line-87" n="87">To languish in this odious town,</l>
+            <l xml:id="swift-749-ROGP-line-88" n="88">And pull your haughty stomach down;</l>
+            <l xml:id="swift-749-ROGP-line-89" n="89">We think you quite mistake the case;</l>
+            <l xml:id="swift-749-ROGP-line-90" n="90">The virtue lies not in the place:</l>
+            <l xml:id="swift-749-ROGP-line-91" n="91">For though my raillery were true,</l>
+            <l xml:id="swift-749-ROGP-line-92" n="92">A cottage is Woodpark with you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Riddle</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 29DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="915-102M">
+          <head type="note" n="1" xml:id="spp-915-102M-headnote-1">
+            <lg n="1" xml:id="spp-915-102M-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-915-102M-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-915-102M-headnote-2">
+            <lg n="1" xml:id="spp-915-102M-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-915-102M-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-915-102M-headnote-3">
+            <lg n="1" xml:id="spp-915-102M-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-915-102M-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-915-102M-line-1" n="1">In Youth exalted high in Air,</l>
+            <l xml:id="swift-915-102M-line-2" n="2">Or bathing in the Waters fair;</l>
+            <l xml:id="swift-915-102M-line-3" n="3">Nature to form me took delight,</l>
+            <l xml:id="swift-915-102M-line-4" n="4">And clad my body all in white:</l>
+            <l xml:id="swift-915-102M-line-5" n="5">My person tall, &amp; slender waste,</l>
+            <l xml:id="swift-915-102M-line-6" n="6">On either side with fringes grac'd;</l>
+            <l xml:id="swift-915-102M-line-7" n="7">'Till me that Tyraniman espyd,</l>
+            <l xml:id="swift-915-102M-line-8" n="8">And drag'd me from my mothers side:</l>
+            <l xml:id="swift-915-102M-line-9" n="9">No wonder now I look so thin;</l>
+            <l xml:id="swift-915-102M-line-10" n="10">The Tyrant stript me to y<hi rend="superscript">e</hi> skin:</l>
+            <l xml:id="swift-915-102M-line-11" n="11">My skin he flay'd, my hair he cropt;</l>
+            <l xml:id="swift-915-102M-line-12" n="12"><lb/>At head &amp; foot my body lopt:</l>
+            <l xml:id="swift-915-102M-line-13" n="13">And then, with heart more hard y<hi rend="superscript">n</hi> stone,</l>
+            <l xml:id="swift-915-102M-line-14" n="14">He pickt y<hi rend="superscript">e</hi> Marrow from the bone.</l>
+            <l xml:id="swift-915-102M-line-15" n="15">To vex me more, he took a freak,</l>
+            <l xml:id="swift-915-102M-line-16" n="16">To slit my tongue and made me speak</l>
+            <l xml:id="swift-915-102M-line-17" n="17">But y<hi rend="superscript">t</hi> which wonderful appears</l>
+            <l xml:id="swift-915-102M-line-18" n="18">I speak to eyes, &amp; not to ears.</l>
+            <l xml:id="swift-915-102M-line-19" n="19">He oft employs me in disguise,</l>
+            <l xml:id="swift-915-102M-line-20" n="20">And makes me tell a thousand lies:</l>
+            <l xml:id="swift-915-102M-line-21" n="21">To me he chiefly gives in trust</l>
+            <l xml:id="swift-915-102M-line-22" n="22">To please his malice, or his lust.</l>
+            <l xml:id="swift-915-102M-line-23" n="23">From me no secret he can hide;</l>
+            <l xml:id="swift-915-102M-line-24" n="24">I see his Vanity &amp; Pride:</l>
+            <l xml:id="swift-915-102M-line-25" n="25">And my delight is to expose</l>
+            <l xml:id="swift-915-102M-line-26" n="26">His follies to his greatest foes.</l>
+            <l xml:id="swift-915-102M-line-27" n="27"><lb/>All languages I can comand,</l>
+            <l xml:id="swift-915-102M-line-28" n="28">Yet not a word I understand.</l>
+            <l xml:id="swift-915-102M-line-29" n="29">Without my aid y<hi rend="superscript">e</hi> best Divine</l>
+            <l xml:id="swift-915-102M-line-30" n="30">In learning wou'd not know a line:</l>
+            <l xml:id="swift-915-102M-line-31" n="31">The Lawyer must forget his pleading,</l>
+            <l xml:id="swift-915-102M-line-32" n="32">The Scholar could not shew his reading</l>
+            <l xml:id="swift-915-102M-line-33" n="33">Nay, Man, my Master, is my Slave:</l>
+            <l xml:id="swift-915-102M-line-34" n="34">I give command to kill or save.</l>
+            <l xml:id="swift-915-102M-line-35" n="35">Can grant ten thousand pounds a year,</l>
+            <l xml:id="swift-915-102M-line-36" n="36">And make a Beggars brat a Peer.</l>
+            <l xml:id="swift-915-102M-line-37" n="37"><lb/>But, while I thus my life relate,</l>
+            <l xml:id="swift-915-102M-line-38" n="38">I only hasten on my Fate.</l>
+            <l xml:id="swift-915-102M-line-39" n="39">My tongue is black, my mouth is furrd,</l>
+            <l xml:id="swift-915-102M-line-40" n="40">I hardly now can force a word.</l>
+            <l xml:id="swift-915-102M-line-41" n="41">I die unpity'd and forgot;</l>
+            <l xml:id="swift-915-102M-line-42" n="42">And on some dunghill left to rot.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

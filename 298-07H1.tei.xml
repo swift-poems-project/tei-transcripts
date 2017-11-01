@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-298-07H1-title-1">UPON THE<lb/>  HORRID PLOT<lb/>  DISCOVERED BY<lb/>  HARLEQUIN<lb/>  The Bishop of <hi rend="italics">Rochester's French</hi><lb/>  Dog. <ref target="#spp-298-07H1-footnote-title-1">1</ref><note n="1" xml:id="spp-298-07H1-footnote-title-1" place="foot">See the proceedings in parliament against Dr. <hi rend="italics">Atterbury</hi> the bishop of <hi rend="italics">Rochester, State Trials</hi>, Vol. VI</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 10JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-298-07H1-footnote-title-1 #spp-298-07H1-title-1"/>
+        </linkGrp>
+        <div n="298-07H1">
+          <head type="note" n="1" xml:id="spp-298-07H1-headnote-1">
+            <lg n="1" xml:id="spp-298-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-298-07H1-headnote-1-line-group-1-line-1">In a Dialogue between a <hi rend="italics">Whig</hi> and a <hi rend="italics">Tory</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-298-07H1-headnote-2">
+            <lg n="1" xml:id="spp-298-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-298-07H1-headnote-2-line-group-1-line-1">Written in the Year 1723.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-298-07H1-headnote-3">
+            <lg n="1" xml:id="spp-298-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-298-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-298-07H1-line-1" n="1"><hi rend="display-initial">I</hi> Ask'd a whig the other night,</l>
+            <l xml:id="swift-298-07H1-line-2" n="2">How came this wicked plot to light?</l>
+            <l xml:id="swift-298-07H1-line-3" n="3">He answer'd, that a <hi rend="italics">dog</hi> of late</l>
+            <l xml:id="swift-298-07H1-line-4" n="4">Inform'd a minister of state.</l>
+            <l xml:id="swift-298-07H1-line-5" n="5">Said I, from thence I nothing know;</l>
+            <l xml:id="swift-298-07H1-line-6" n="6">For, are not all informers so?</l>
+            <l xml:id="swift-298-07H1-line-7" n="7">A villain who his friend betrays,</l>
+            <l xml:id="swift-298-07H1-line-8" n="8">We style him by no other phrase;</l>
+            <l xml:id="swift-298-07H1-line-9" n="9">And so a perjur'd <hi rend="italics">dog</hi> denotes</l>
+            <l xml:id="swift-298-07H1-line-10" n="10"><hi rend="italics">Porter</hi>, and <hi rend="italics">Prendergast</hi>, and <hi rend="italics">Oates</hi>,</l>
+            <l xml:id="swift-298-07H1-line-11" n="11">And forty others I could name.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-12" n="12"><hi rend="italics">Whig</hi>. But you must know, this dog was lame.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-13" n="13"><hi rend="italics">Tory</hi>. A weighty argument indeed!</l>
+            <l xml:id="swift-298-07H1-line-14" n="14">Your <hi rend="italics">evidence</hi> was <hi rend="italics">lame</hi>:── proceed:</l>
+            <l xml:id="swift-298-07H1-line-15" n="15">Come, help your <hi rend="italics">lame dog o'er the style</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-16" n="16"><hi rend="italics">Whig</hi>. Sir, you mistake me all this while:</l>
+            <l xml:id="swift-298-07H1-line-17" n="17">I mean a <hi rend="italics">dog</hi>, (without a joke.)</l>
+            <l xml:id="swift-298-07H1-line-18" n="18">Can howl, and bark, but never spoke.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-19" n="19"><hi rend="italics">Tory</hi>. I'm still to seek, which <hi rend="italics">dog</hi> you mean;</l>
+            <l xml:id="swift-298-07H1-line-20" n="20">Whether curr <hi rend="italics">Plunkett</hi>, or whelp <hi rend="italics">Skean</hi>,</l>
+            <l xml:id="swift-298-07H1-line-21" n="21">An <hi rend="italics">english</hi>, or an <hi rend="italics">irish</hi> hound;</l>
+            <l xml:id="swift-298-07H1-line-22" n="22">Or t'other puppy that was drown'd,</l>
+            <l xml:id="swift-298-07H1-line-23" n="23">Or <hi rend="italics">Mason</hi>, that abandon'd bitch:</l>
+            <l xml:id="swift-298-07H1-line-24" n="24">Then pray be free, and tell me which:</l>
+            <l xml:id="swift-298-07H1-line-25" n="25">For ev'ry stander-by was marking,</l>
+            <l xml:id="swift-298-07H1-line-26" n="26">That all the noise they made was <hi rend="italics">barking</hi>.</l>
+            <l xml:id="swift-298-07H1-line-27" n="27">You pay them well; the <hi rend="italics">dogs</hi> have got</l>
+            <l xml:id="swift-298-07H1-line-28" n="28">Their dogs-heads in a porridge pot:</l>
+            <l xml:id="swift-298-07H1-line-29" n="29">And 'twas but just; for wise men say,</l>
+            <l xml:id="swift-298-07H1-line-30" n="30">That <hi rend="italics">ev'ry dog must have his day</hi>.</l>
+            <l xml:id="swift-298-07H1-line-31" n="31">Dog <hi rend="italics">Walpole</hi> laid a quart of <hi rend="italics">nog</hi> on't,</l>
+            <l xml:id="swift-298-07H1-line-32" n="32">He'd either <hi rend="italics">make a hog or dog on't</hi>;</l>
+            <l xml:id="swift-298-07H1-line-33" n="33">And lookt, since he has got his wish,</l>
+            <l xml:id="swift-298-07H1-line-34" n="34">As if he had <hi rend="italics">thrown down a dish</hi>.</l>
+            <l xml:id="swift-298-07H1-line-35" n="35">Yet this I dare foretel you from it,</l>
+            <l xml:id="swift-298-07H1-line-36" n="36">He'll soon <hi rend="italics">return to his own vomit</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-37" n="37"><hi rend="italics">Whig</hi>. Besides, this horrid plot was found</l>
+            <l xml:id="swift-298-07H1-line-38" n="38">By <hi rend="italics">Neynoe</hi>, after he was drown'd.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-39" n="39"><hi rend="italics">Tory</hi>. Why then the proverb is not right,</l>
+            <l xml:id="swift-298-07H1-line-40" n="40">Since you can teach <hi rend="italics">dead dogs</hi> to bite.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-41" n="41"><hi rend="italics">Whig</hi>. I prov'd my proposition full:</l>
+            <l xml:id="swift-298-07H1-line-42" n="42">But <hi rend="italics">jacobites</hi> are strangely dull.</l>
+            <l xml:id="swift-298-07H1-line-43" n="43">Now let me tell you plainly sir,</l>
+            <l xml:id="swift-298-07H1-line-44" n="44">Our witness is a real <hi rend="italics">curr</hi>,</l>
+            <l xml:id="swift-298-07H1-line-45" n="45">A <hi rend="italics">dog</hi> of spirit for his years,</l>
+            <l xml:id="swift-298-07H1-line-46" n="46">Has twice two legs, two hanging ears;</l>
+            <l xml:id="swift-298-07H1-line-47" n="47">His name is <hi rend="italics">harlequin</hi>, I wot,</l>
+            <l xml:id="swift-298-07H1-line-48" n="48">And that's a name in ev'ry <hi rend="italics">plot</hi>:</l>
+            <l xml:id="swift-298-07H1-line-49" n="49">Resolv'd to save the <hi rend="italics">british</hi> nation,</l>
+            <l xml:id="swift-298-07H1-line-50" n="50">Though <hi rend="italics">french</hi> by birth and education;</l>
+            <l xml:id="swift-298-07H1-line-51" n="51">His correspondence plainly dated</l>
+            <l xml:id="swift-298-07H1-line-52" n="52">Was all decypher'd and <hi rend="italics">translated</hi>:</l>
+            <l xml:id="swift-298-07H1-line-53" n="53">His answers were exceeding pretty</l>
+            <l xml:id="swift-298-07H1-line-54" n="54">Before the secret wise committee:</l>
+            <l xml:id="swift-298-07H1-line-55" n="55">Confest as plain as he could bark:</l>
+            <l xml:id="swift-298-07H1-line-56" n="56">Then with his fore-foot set his <hi rend="italics">mark</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-57" n="57"><hi rend="italics">Tory</hi>. Then all this while have I been bubbled,</l>
+            <l xml:id="swift-298-07H1-line-58" n="58">I thought it was a <hi rend="italics">dog</hi> in <hi rend="italics">doublet</hi>:</l>
+            <l xml:id="swift-298-07H1-line-59" n="59">The matter now no longer sticks;</l>
+            <l xml:id="swift-298-07H1-line-60" n="60">For statesmen never want <hi rend="italics">dog-tricks</hi>.</l>
+            <l xml:id="swift-298-07H1-line-61" n="61">But since it was a real curr,</l>
+            <l xml:id="swift-298-07H1-line-62" n="62">And not a <hi rend="italics">dog</hi> in metaphor,</l>
+            <l xml:id="swift-298-07H1-line-63" n="63">I give you joy of the report,</l>
+            <l xml:id="swift-298-07H1-line-64" n="64">That he's to have a place at court.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-65" n="65"><hi rend="italics">Whig</hi>. Yes, and a place he will grow rich in;</l>
+            <l xml:id="swift-298-07H1-line-66" n="66">A turn-spit in the royal kitchen.</l>
+            <l xml:id="swift-298-07H1-line-67" n="67">Sir, to be plain, I tell you what,</l>
+            <l xml:id="swift-298-07H1-line-68" n="68">We had occasion for a plot:</l>
+            <l xml:id="swift-298-07H1-line-69" n="69">And, when we found the <hi rend="italics">dog</hi> begin it,</l>
+            <l xml:id="swift-298-07H1-line-70" n="70">We guess'd the bishop's foot was in it.</l>
+            <l rend="indent(1)" xml:id="swift-298-07H1-line-71" n="71"><hi rend="italics">Tory</hi>. I own it was a dang'rous project;</l>
+            <l xml:id="swift-298-07H1-line-72" n="72">And you have prov'd it by <hi rend="italics">dog-logick</hi>.</l>
+            <l xml:id="swift-298-07H1-line-73" n="73">Sure such intelligence between</l>
+            <l xml:id="swift-298-07H1-line-74" n="74">A <hi rend="italics">dog</hi> and bishops ne'er was seen,</l>
+            <l xml:id="swift-298-07H1-line-75" n="75">Till you began to change the breed;</l>
+            <l xml:id="swift-298-07H1-line-76" n="76">Your bishops all are <hi rend="italics">d────gs</hi> indeed.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

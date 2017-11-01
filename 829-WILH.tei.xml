@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  CHARACTER, PANEGYRIC<lb/>  and DESCRIPTION of the<lb/>  LEGION CLUB.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="829-WILH">
+          <head type="note" n="1" xml:id="spp-829-WILH-headnote-1">
+            <lg n="1" xml:id="spp-829-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-WILH-headnote-1-line-group-1-line-1">Written in the Year, 1736.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-829-WILH-headnote-2">
+            <lg n="1" xml:id="spp-829-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-829-WILH-headnote-3">
+            <lg n="1" xml:id="spp-829-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-829-WILH-line-1" n="1"><hi rend="display-initial">A</hi>S I strole the City, oft I</l>
+            <l xml:id="swift-829-WILH-line-2" n="2">Spy a Building large and lofty,</l>
+            <l xml:id="swift-829-WILH-line-3" n="3">Not a Bow-shot from the College,</l>
+            <l xml:id="swift-829-WILH-line-4" n="4">Half the Globe from Sense and Knowledge.</l>
+            <l xml:id="swift-829-WILH-line-5" n="5">By the prudent Architect</l>
+            <l xml:id="swift-829-WILH-line-6" n="6">Plac'd against the Church direct;</l>
+            <l xml:id="swift-829-WILH-line-7" n="7">Making good my Grandames Jest,</l>
+            <l xml:id="swift-829-WILH-line-8" n="8"><hi rend="italics">Near the Church</hi>── you know the rest.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-9" n="9"><lb/>T<hi rend="small-caps">ELL</hi> us, what this Pile contains?</l>
+            <l xml:id="swift-829-WILH-line-10" n="10">Many a Head that holds no Brains.</l>
+            <l xml:id="swift-829-WILH-line-11" n="11">These Demoniacs let me dub</l>
+            <l xml:id="swift-829-WILH-line-12" n="12">With the Name of <hi rend="italics">Legion Club</hi>.</l>
+            <l xml:id="swift-829-WILH-line-13" n="13">Such Assemblies, you might swear,</l>
+            <l xml:id="swift-829-WILH-line-14" n="14">Meet when Butchers bait a Bear;</l>
+            <l xml:id="swift-829-WILH-line-15" n="15">Such a Noise, and such haranguing,</l>
+            <l xml:id="swift-829-WILH-line-16" n="16">When a Brother Thief is hanging.</l>
+            <l xml:id="swift-829-WILH-line-17" n="17">Such a Rout and such a Rabble</l>
+            <l xml:id="swift-829-WILH-line-18" n="18">Run to hear Jackpudding gabble;</l>
+            <l xml:id="swift-829-WILH-line-19" n="19">Such a Croud their Ordure throws</l>
+            <l xml:id="swift-829-WILH-line-20" n="20">On a far less Villain's Nose.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-21" n="21"><lb/>C<hi rend="small-caps">OULD</hi> I from the Building's Top</l>
+            <l xml:id="swift-829-WILH-line-22" n="22">Hear the rattling Thunder drop,</l>
+            <l xml:id="swift-829-WILH-line-23" n="23">While the Devil upon the Roof,</l>
+            <l xml:id="swift-829-WILH-line-24" n="24">If the Devil be Thunder Proof,</l>
+            <l xml:id="swift-829-WILH-line-25" n="25">Should with Poker fiery-red</l>
+            <l xml:id="swift-829-WILH-line-26" n="26">Crack the Stones, and melt the Lead;</l>
+            <l xml:id="swift-829-WILH-line-27" n="27">Drive them down on every Scull,</l>
+            <l xml:id="swift-829-WILH-line-28" n="28">While the Den of Thieves is full,</l>
+            <l xml:id="swift-829-WILH-line-29" n="29">Quite destroy that Harpies Nest,</l>
+            <l xml:id="swift-829-WILH-line-30" n="30">How might then our Isle be blest?</l>
+            <l xml:id="swift-829-WILH-line-31" n="31">For Divines allow, that God</l>
+            <l xml:id="swift-829-WILH-line-32" n="32">Sometimes makes the Devil his Rod:</l>
+            <l xml:id="swift-829-WILH-line-33" n="33">And the Gospel will inform us,</l>
+            <l xml:id="swift-829-WILH-line-34" n="34">He can punish Sins enormous.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-35" n="35"><lb/>Y<hi rend="small-caps">ET</hi> should <hi rend="italics">Swift</hi> endow the Schools</l>
+            <l xml:id="swift-829-WILH-line-36" n="36">For his Lunatics and Fools,</l>
+            <l xml:id="swift-829-WILH-line-37" n="37">With a Rood or two of Land,</l>
+            <l xml:id="swift-829-WILH-line-38" n="38">I allow the Pile may stand.</l>
+            <l xml:id="swift-829-WILH-line-39" n="39">You perhaps will ask me, why so?</l>
+            <l xml:id="swift-829-WILH-line-40" n="40">But it is with this Proviso,</l>
+            <l xml:id="swift-829-WILH-line-41" n="41">Since the House is like to last,</l>
+            <l xml:id="swift-829-WILH-line-42" n="42">Let a royal Grant be pass'd,</l>
+            <l xml:id="swift-829-WILH-line-43" n="43">That the Club have Right to dwell</l>
+            <l xml:id="swift-829-WILH-line-44" n="44">Each within his proper Cell;</l>
+            <l xml:id="swift-829-WILH-line-45" n="45">With a Passage left to creep in,</l>
+            <l xml:id="swift-829-WILH-line-46" n="46">And a Hole above for peeping.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-47" n="47"><lb/>L<hi rend="small-caps">ET</hi> them, when they once get in</l>
+            <l xml:id="swift-829-WILH-line-48" n="48">Sell the Nation for a Pin;</l>
+            <l xml:id="swift-829-WILH-line-49" n="49">While they sit a picking Straws</l>
+            <l xml:id="swift-829-WILH-line-50" n="50">Let them rave of making Laws;</l>
+            <l xml:id="swift-829-WILH-line-51" n="51">While they never hold their Tongue,</l>
+            <l xml:id="swift-829-WILH-line-52" n="52">Let them dabble in their Dung;</l>
+            <l xml:id="swift-829-WILH-line-53" n="53">Let them form a grand Committee,</l>
+            <l xml:id="swift-829-WILH-line-54" n="54">How to plague and starve the City;</l>
+            <l xml:id="swift-829-WILH-line-55" n="55">Let them stare and storm and frown,</l>
+            <l xml:id="swift-829-WILH-line-56" n="56">When they see a Clergy-Gown.</l>
+            <l xml:id="swift-829-WILH-line-57" n="57">Let them, 'ere they crack a Louse,</l>
+            <l xml:id="swift-829-WILH-line-58" n="58">Call for th'Orders of the House;</l>
+            <l xml:id="swift-829-WILH-line-59" n="59">Let them with their gosling Quills,</l>
+            <l xml:id="swift-829-WILH-line-60" n="60">Scribble senseless Heads of Bills;</l>
+            <l xml:id="swift-829-WILH-line-61" n="61">We may, while they strain their Throats,</l>
+            <l xml:id="swift-829-WILH-line-62" n="62">Wipe our A──s with their V──.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-63" n="63"><lb/>L<hi rend="small-caps">ET</hi> Sir <hi rend="italics">T</hi>──, that rampant Ass,</l>
+            <l xml:id="swift-829-WILH-line-64" n="64">Stuff his Guts with Flax and Grass;</l>
+            <l xml:id="swift-829-WILH-line-65" n="65">But before the Priest he fleeces</l>
+            <l xml:id="swift-829-WILH-line-66" n="66">Tear the Bible all to Pieces.</l>
+            <l xml:id="swift-829-WILH-line-67" n="67">At the Parsons, <hi rend="italics">Tom</hi>, Halloo Boy,</l>
+            <l xml:id="swift-829-WILH-line-68" n="68">Worthy Offspring of a Shoeboy,</l>
+            <l xml:id="swift-829-WILH-line-69" n="69">Footman, Traytor, vile Seducer,</l>
+            <l xml:id="swift-829-WILH-line-70" n="70">Perjur'd Rebel, brib'd Accuser;</l>
+            <l xml:id="swift-829-WILH-line-71" n="71">Lay thy paltry Priviledge aside,</l>
+            <l xml:id="swift-829-WILH-line-72" n="72">Sprung from Papists and a Regicide;</l>
+            <l xml:id="swift-829-WILH-line-73" n="73">Fall a Working like a Mole,</l>
+            <l xml:id="swift-829-WILH-line-74" n="74">Raise the Dirt about your Hole.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-75" n="75"><lb/>C<hi rend="small-caps">OME</hi>, assist me, Muse obedient,</l>
+            <l xml:id="swift-829-WILH-line-76" n="76">Let us try some new Expedient;</l>
+            <l xml:id="swift-829-WILH-line-77" n="77">Shift the Scene for half an Hour,</l>
+            <l xml:id="swift-829-WILH-line-78" n="78">Time and Place are in thy Power.</l>
+            <l xml:id="swift-829-WILH-line-79" n="79">Thither, gentle Muse, conduct me,</l>
+            <l xml:id="swift-829-WILH-line-80" n="80">I shall ask, and you instruct me.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-81" n="81"><lb/>S<hi rend="small-caps">EE</hi>, the Muse unbars the Gate;</l>
+            <l xml:id="swift-829-WILH-line-82" n="82">Hark, the Monkeys, how they prate!</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-83" n="83"><lb/>A<hi rend="small-caps">LL</hi> ye Gods, who rule the Soul</l>
+            <l xml:id="swift-829-WILH-line-84" n="84"><hi rend="italics">Styx</hi>, through Hell whose Waters roll!</l>
+            <l xml:id="swift-829-WILH-line-85" n="85">Let me be allow'd to tell</l>
+            <l xml:id="swift-829-WILH-line-86" n="86">What I heard in yonder Hell.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-87" n="87"><lb/>N<hi rend="small-caps">EAR</hi> the Door an entrance gapes,</l>
+            <l xml:id="swift-829-WILH-line-88" n="88">Crouded round with antic Shapes;</l>
+            <l xml:id="swift-829-WILH-line-89" n="89"><hi rend="italics">Poverty</hi>, and <hi rend="italics">Grief</hi>, and <hi rend="italics">Care</hi>,</l>
+            <l xml:id="swift-829-WILH-line-90" n="90">Causeless <hi rend="italics">Joy</hi>, and true <hi rend="italics">Despair</hi>;</l>
+            <l xml:id="swift-829-WILH-line-91" n="91"><hi rend="italics">Discord</hi> periwigg'd with Snakes,</l>
+            <l xml:id="swift-829-WILH-line-92" n="92">See the dreadful Strides she takes.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-93" n="93"><lb/>B<hi rend="small-caps">Y</hi> this odious Crew beset,</l>
+            <l xml:id="swift-829-WILH-line-94" n="94">I began to rage and fret</l>
+            <l xml:id="swift-829-WILH-line-95" n="95">And resolv'd to break their Pates,</l>
+            <l xml:id="swift-829-WILH-line-96" n="96">'Ere we enter'd at the Gates;</l>
+            <l xml:id="swift-829-WILH-line-97" n="97">Had not <hi rend="italics">Clio</hi> in the Nick,</l>
+            <l xml:id="swift-829-WILH-line-98" n="98">Whisper'd me, let down your Stick;</l>
+            <l xml:id="swift-829-WILH-line-99" n="99">What, said I, is this the Mad-House?</l>
+            <l xml:id="swift-829-WILH-line-100" n="100">These, she answer'd, are but Shadows,</l>
+            <l xml:id="swift-829-WILH-line-101" n="101">Phantoms, bodiless and vain,</l>
+            <l xml:id="swift-829-WILH-line-102" n="102">Empty Visions of the Brain.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-103" n="103"><lb/>I<hi rend="small-caps">N</hi> the Porch <hi rend="italics">Briareus</hi> stands,</l>
+            <l xml:id="swift-829-WILH-line-104" n="104">Shews a Bribe in all his Hands:</l>
+            <l xml:id="swift-829-WILH-line-105" n="105"><hi rend="italics">Briareus</hi> the Secretary,</l>
+            <l xml:id="swift-829-WILH-line-106" n="106">But we Mortals call him <hi rend="italics">Cary</hi>.</l>
+            <l xml:id="swift-829-WILH-line-107" n="107">When the Rogues their Country fleece,</l>
+            <l xml:id="swift-829-WILH-line-108" n="108">They may hope for Pence a Piece.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-109" n="109"><lb/><hi rend="italics">CLIO</hi>, who had been so wise</l>
+            <l xml:id="swift-829-WILH-line-110" n="110">To put on a Fool's Disguise,</l>
+            <l xml:id="swift-829-WILH-line-111" n="111">To bespeak some Approbation,</l>
+            <l xml:id="swift-829-WILH-line-112" n="112">And be thought a near Relation;</l>
+            <l xml:id="swift-829-WILH-line-113" n="113">When she saw three hundred Brutes,</l>
+            <l xml:id="swift-829-WILH-line-114" n="114">All involv'd in wild Disputes;</l>
+            <l xml:id="swift-829-WILH-line-115" n="115">Roaring till their Lungs were spent,</l>
+            <l xml:id="swift-829-WILH-line-116" n="116">P-l-ge of P-l-m-nt,</l>
+            <l xml:id="swift-829-WILH-line-117" n="117">Now a new Misfortune feels,</l>
+            <l xml:id="swift-829-WILH-line-118" n="118">Dreading to be laid by th' Heels.</l>
+            <l xml:id="swift-829-WILH-line-119" n="119">Never durst a Muse before</l>
+            <l xml:id="swift-829-WILH-line-120" n="120">Enter that Infernal Door;</l>
+            <l xml:id="swift-829-WILH-line-121" n="121"><hi rend="italics">Clio</hi> stifled with the Smell,</l>
+            <l xml:id="swift-829-WILH-line-122" n="122">Into Spleen and Vapours fell;</l>
+            <l xml:id="swift-829-WILH-line-123" n="123">By the <hi rend="italics">Stygian</hi> Steams that flew,</l>
+            <l xml:id="swift-829-WILH-line-124" n="124">From the dire infectious Crew.</l>
+            <l xml:id="swift-829-WILH-line-125" n="125">Not the Stench of Lake <hi rend="italics">Avernus</hi>,</l>
+            <l xml:id="swift-829-WILH-line-126" n="126">Could have more offended her Nose;</l>
+            <l xml:id="swift-829-WILH-line-127" n="127">Had she flown but o'er the Top,</l>
+            <l xml:id="swift-829-WILH-line-128" n="128">She would feel her Pinions drop,</l>
+            <l xml:id="swift-829-WILH-line-129" n="129">And by Exhalations dire,</l>
+            <l xml:id="swift-829-WILH-line-130" n="130">Though a Goddess must expire.</l>
+            <l xml:id="swift-829-WILH-line-131" n="131">In a Fright she crept away,</l>
+            <l xml:id="swift-829-WILH-line-132" n="132">Bravely I resolved to stay.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-133" n="133"><lb/>W<hi rend="small-caps">HEN</hi> I saw the Keeper frown,</l>
+            <l xml:id="swift-829-WILH-line-134" n="134">Tipping him with Half a Crown;</l>
+            <l xml:id="swift-829-WILH-line-135" n="135">Now, said I, we are alone,</l>
+            <l xml:id="swift-829-WILH-line-136" n="136">Name your Heroes one, by one.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-137" n="137"><lb/>W<hi rend="small-caps">HO</hi> is that Hell-featur'd Brawler,</l>
+            <l xml:id="swift-829-WILH-line-138" n="138">Is it Satan? No 'tis <hi rend="italics">W</hi>──.</l>
+            <l xml:id="swift-829-WILH-line-139" n="139">In what Figure can a Bard dress</l>
+            <l xml:id="swift-829-WILH-line-140" n="140"><hi rend="italics">Jack</hi>, the Grandson of Sir <hi rend="italics">Hardress</hi>?</l>
+            <l xml:id="swift-829-WILH-line-141" n="141">Honest Keeper, drive him further,</l>
+            <l xml:id="swift-829-WILH-line-142" n="142">In his Looks are Hell and Murther;</l>
+            <l xml:id="swift-829-WILH-line-143" n="143">See the Scowling Visage drop,</l>
+            <l xml:id="swift-829-WILH-line-144" n="144">Just as when he murther'd <hi rend="italics">T</hi>──.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-145" n="145"><lb/>K<hi rend="small-caps">EEPER</hi>, shew me where to fix</l>
+            <l xml:id="swift-829-WILH-line-146" n="146">On the Puppy Pair of <hi rend="italics">Dicks</hi>;</l>
+            <l xml:id="swift-829-WILH-line-147" n="147">By their lanthorn Jaws and Leathern,</l>
+            <l xml:id="swift-829-WILH-line-148" n="148">You might swear they both are Brethren:</l>
+            <l xml:id="swift-829-WILH-line-149" n="149"><hi rend="italics">Dick Fitz-Baker, Dick</hi> the Player,</l>
+            <l xml:id="swift-829-WILH-line-150" n="150">Old Acquaintance, are you there?</l>
+            <l xml:id="swift-829-WILH-line-151" n="151">Dear Companions hug and kiss,</l>
+            <l xml:id="swift-829-WILH-line-152" n="152">Toast <hi rend="italics">old Glorious</hi> in your Piss.</l>
+            <l xml:id="swift-829-WILH-line-153" n="153">Tye them Keeper in a Tether,</l>
+            <l xml:id="swift-829-WILH-line-154" n="154">Let them stare and stink together;</l>
+            <l xml:id="swift-829-WILH-line-155" n="155">Both are apt to be unruly,</l>
+            <l xml:id="swift-829-WILH-line-156" n="156">Lash them daily, lash them duly,</l>
+            <l xml:id="swift-829-WILH-line-157" n="157">Though 'tis hopeless to reclaim them,</l>
+            <l xml:id="swift-829-WILH-line-158" n="158">Scorpion Rods perhaps may tame them.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-159" n="159"><lb/>K<hi rend="small-caps">EEPER</hi>, yon old Dotard smoke,</l>
+            <l xml:id="swift-829-WILH-line-160" n="160">Sweetly snoring in his Cloak.</l>
+            <l xml:id="swift-829-WILH-line-161" n="161">Who is he? 'Tis hum-drum <hi rend="italics">W</hi>──,</l>
+            <l xml:id="swift-829-WILH-line-162" n="162">Half encompass'd by his Kin:</l>
+            <l xml:id="swift-829-WILH-line-163" n="163">There observe the Tribe of <hi rend="italics">B──m</hi>,</l>
+            <l xml:id="swift-829-WILH-line-164" n="164">For he never fails to bring 'em;</l>
+            <l xml:id="swift-829-WILH-line-165" n="165">om.</l>
+            <l xml:id="swift-829-WILH-line-166" n="166">om.</l>
+            <l xml:id="swift-829-WILH-line-167" n="167">While he sleeps the whole Debate,</l>
+            <l xml:id="swift-829-WILH-line-168" n="168">They submissive round him wait;</l>
+            <l xml:id="swift-829-WILH-line-169" n="169">Yet would gladly see the Hunks</l>
+            <l xml:id="swift-829-WILH-line-170" n="170">In his Grave, and search his Trunks.</l>
+            <l xml:id="swift-829-WILH-line-171" n="171">See they gently twitch his Coat,</l>
+            <l xml:id="swift-829-WILH-line-172" n="172">Just to yawn, and give his Vote;</l>
+            <l xml:id="swift-829-WILH-line-173" n="173">Always firm in his Vocation,</l>
+            <l xml:id="swift-829-WILH-line-174" n="174">For the Court against the Nation.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-175" n="175"><lb/>T<hi rend="small-caps">HOSE</hi> are <hi rend="italics">A──s, Jack</hi> and <hi rend="italics">Bob</hi>,</l>
+            <l xml:id="swift-829-WILH-line-176" n="176">First in every wicked Jobb,</l>
+            <l xml:id="swift-829-WILH-line-177" n="177">Son and Brother to a Queer,</l>
+            <l xml:id="swift-829-WILH-line-178" n="178">Brainsick Brute, they call a Peer.</l>
+            <l xml:id="swift-829-WILH-line-179" n="179">We must give them better Quarter,</l>
+            <l xml:id="swift-829-WILH-line-180" n="180">For their Ancestor trod Mortar;</l>
+            <l xml:id="swift-829-WILH-line-181" n="181">And at <hi rend="italics">Hoath</hi> to boast his Fame,</l>
+            <l xml:id="swift-829-WILH-line-182" n="182">On a Chimney cut his Name.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-183" n="183"><lb/>T<hi rend="small-caps">HERE</hi> sit <hi rend="italics">C──s, D</hi>──, and <hi rend="italics">H</hi>──,</l>
+            <l xml:id="swift-829-WILH-line-184" n="184">How they swagger from their Garrison.</l>
+            <l xml:id="swift-829-WILH-line-185" n="185">Such a Triplet could you tell</l>
+            <l xml:id="swift-829-WILH-line-186" n="186">Where to find on this Side Hell?</l>
+            <l xml:id="swift-829-WILH-line-187" n="187"><hi rend="italics">H</hi>──, and <hi rend="italics">D</hi>──, and <hi rend="italics">C</hi>──,</l>
+            <l xml:id="swift-829-WILH-line-188" n="188">Souse them in their own Ex-crements.</l>
+            <l xml:id="swift-829-WILH-line-189" n="189">om.</l>
+            <l xml:id="swift-829-WILH-line-190" n="190">om.</l>
+            <l xml:id="swift-829-WILH-line-191" n="191">Every Mischief in their Hearts,</l>
+            <l xml:id="swift-829-WILH-line-192" n="192">If they fail 'tis Want of Parts.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-193" n="193"><lb/>B<hi rend="small-caps">LESS</hi> us, <hi rend="italics">Morgan</hi>! Art thou there Man?</l>
+            <l xml:id="swift-829-WILH-line-194" n="194">Bless mine Eyes! Art thou the Chairman?</l>
+            <l xml:id="swift-829-WILH-line-195" n="195">Chairman to yon damn'd Committee!</l>
+            <l xml:id="swift-829-WILH-line-196" n="196">Yet I look on thee with Pity.</l>
+            <l xml:id="swift-829-WILH-line-197" n="197">Dreadful Sight! What learned <hi rend="italics">Morgan</hi></l>
+            <l xml:id="swift-829-WILH-line-198" n="198">Metamorphos'd to a Gorgan!</l>
+            <l xml:id="swift-829-WILH-line-199" n="199">For thy horrid Looks, I own,</l>
+            <l xml:id="swift-829-WILH-line-200" n="200">Half convert me to a Stone.</l>
+            <l xml:id="swift-829-WILH-line-201" n="201">Hast thou been so long at School,</l>
+            <l xml:id="swift-829-WILH-line-202" n="202">Now to turn a factious Tool!</l>
+            <l xml:id="swift-829-WILH-line-203" n="203"><hi rend="italics">Alma Mater</hi> was thy Mother,</l>
+            <l xml:id="swift-829-WILH-line-204" n="204">Every young Divine thy Brother.</l>
+            <l xml:id="swift-829-WILH-line-205" n="205">Thou a disobedient Varlet,</l>
+            <l xml:id="swift-829-WILH-line-206" n="206">Treat thy Mother like a Harlot!</l>
+            <l xml:id="swift-829-WILH-line-207" n="207">Thou, ungrateful to thy Teachers,</l>
+            <l xml:id="swift-829-WILH-line-208" n="208">Who are all grown reverend Preachers!</l>
+            <l xml:id="swift-829-WILH-line-209" n="209"><hi rend="italics">Morgan</hi>! Would it not surprise one?</l>
+            <l xml:id="swift-829-WILH-line-210" n="210">Turn thy Nourishment to Poison!</l>
+            <l xml:id="swift-829-WILH-line-211" n="211">When you walk among your Books,</l>
+            <l xml:id="swift-829-WILH-line-212" n="212">They reproach you with their Looks;</l>
+            <l xml:id="swift-829-WILH-line-213" n="213">Bind them fast, or from the Shelves</l>
+            <l xml:id="swift-829-WILH-line-214" n="214">They'll come down to right themselves:</l>
+            <l xml:id="swift-829-WILH-line-215" n="215"><hi rend="italics">Homer, Plutarch, Virgil, Flaccus</hi>,</l>
+            <l xml:id="swift-829-WILH-line-216" n="216">All in Arms prepare to back us:</l>
+            <l xml:id="swift-829-WILH-line-217" n="217">Soon repent, or put to Slaughter</l>
+            <l xml:id="swift-829-WILH-line-218" n="218">Every <hi rend="italics">Greek</hi> and <hi rend="italics">Roman</hi> Author.</l>
+            <l xml:id="swift-829-WILH-line-219" n="219">While you in your Faction's Phrase</l>
+            <l xml:id="swift-829-WILH-line-220" n="220">Send the Clergy all to graze;</l>
+            <l xml:id="swift-829-WILH-line-221" n="221">And to make your Project pass,</l>
+            <l xml:id="swift-829-WILH-line-222" n="222">Leave them not a Blade of Grass.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-223" n="223"><lb/>H<hi rend="small-caps">OW</hi> I want thee, humorous <hi rend="italics">Hogart?</hi></l>
+            <l xml:id="swift-829-WILH-line-224" n="224">Thou I hear, a pleasant Rogue art;</l>
+            <l xml:id="swift-829-WILH-line-225" n="225">Were but you and I acquainted,</l>
+            <l xml:id="swift-829-WILH-line-226" n="226">Every Monster should be painted;</l>
+            <l xml:id="swift-829-WILH-line-227" n="227">You should try your graving Tools</l>
+            <l xml:id="swift-829-WILH-line-228" n="228">On this odious Group of Fools;</l>
+            <l xml:id="swift-829-WILH-line-229" n="229">Draw the Beasts as I describe 'em,</l>
+            <l xml:id="swift-829-WILH-line-230" n="230">Form their Features, while I gibe them;</l>
+            <l xml:id="swift-829-WILH-line-231" n="231">Draw them like, for I assure you,</l>
+            <l xml:id="swift-829-WILH-line-232" n="232">You will need no <hi rend="italics">Car'catura</hi>;</l>
+            <l xml:id="swift-829-WILH-line-233" n="233">Draw them so that we may trace</l>
+            <l xml:id="swift-829-WILH-line-234" n="234">All the Soul in every Face.</l>
+            <l xml:id="swift-829-WILH-line-235" n="235">Keeper, I must now retire,</l>
+            <l xml:id="swift-829-WILH-line-236" n="236">You have done what I desire:</l>
+            <l xml:id="swift-829-WILH-line-237" n="237">But I feel my Spirits spent,</l>
+            <l xml:id="swift-829-WILH-line-238" n="238">With the Noise, the Sight, the Scent.</l>
+            <l rend="indent(1)" xml:id="swift-829-WILH-line-239" n="239"><lb/>P<hi rend="small-caps">RAY</hi> be patient, you shall find</l>
+            <l xml:id="swift-829-WILH-line-240" n="240">Half the best are still behind:</l>
+            <l xml:id="swift-829-WILH-line-241" n="241">You have hardly seen a Score,</l>
+            <l xml:id="swift-829-WILH-line-242" n="242">I can shew two hundred more.</l>
+            <l xml:id="swift-829-WILH-line-243" n="243">Keeper, I have seen enough,</l>
+            <l xml:id="swift-829-WILH-line-244" n="244">Taking then a Pinch of Snuff;</l>
+            <l xml:id="swift-829-WILH-line-245" n="245">I concluded, looking round 'em,</l>
+            <l xml:id="swift-829-WILH-line-246" n="246">May their God, the Devil confound 'em.</l>
+            <l xml:id="swift-829-WILH-line-247" n="247">om.</l>
+            <l xml:id="swift-829-WILH-line-248" n="248">om.</l>
+            <l xml:id="swift-829-WILH-line-249" n="249">om.</l>
+            <l xml:id="swift-829-WILH-line-250" n="250">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grace Extempore── At S<hi rend="superscript">r</hi> I. Read's── Brocket<lb/>  Hall.──</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 20JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y46C280L">
+          <head type="note" n="1" xml:id="spp-Y46C280L-headnote-1">
+            <lg n="1" xml:id="spp-Y46C280L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y46C280L-headnote-1-line-group-1-line-1">────By Colonel Titus&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y46C280L-headnote-2">
+            <lg n="1" xml:id="spp-Y46C280L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y46C280L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y46C280L-headnote-3">
+            <lg n="1" xml:id="spp-Y46C280L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y46C280L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y46C280L-line-1" n="1">Thanks for this <hi rend="italics">Miracle</hi>── for 'tis no less</l>
+            <l xml:id="swift-Y46C280L-line-2" n="2">To meet with <hi rend="italics">Manna</hi> in this <hi rend="italics">Wilderness</hi>,</l>
+            <l xml:id="swift-Y46C280L-line-3" n="3">In Barren <hi rend="italics">Desarts</hi> we have found <hi rend="italics">Releif</hi>,</l>
+            <l xml:id="swift-Y46C280L-line-4" n="4">And seen the Wonders of a <hi rend="italics">Chine of Beef,</hi></l>
+            <l xml:id="swift-Y46C280L-line-5" n="5"><hi rend="italics">Chimneys</hi> have <hi rend="italics">smoak'd</hi> that never <hi rend="italics">smoak'd before</hi>,</l>
+            <l xml:id="swift-Y46C280L-line-6" n="6">And We have <hi rend="italics">Eat</hi>── where We shall <hi rend="italics">Eat no more</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

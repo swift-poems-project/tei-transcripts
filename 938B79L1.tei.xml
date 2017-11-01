@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RIDDLES,<lb/>  BY DR. SWIFT AND HIS FRIENDS,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 1JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938B79L1">
+          <head type="note" n="1" xml:id="spp-938B79L1-headnote-1">
+            <lg n="1" xml:id="spp-938B79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938B79L1-headnote-1-line-group-1-line-1">Written in or about the Year 1724.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-938B79L1-headnote-2">
+            <lg n="1" xml:id="spp-938B79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938B79L1-headnote-2-line-group-1-line-1">ANSWERED BY DR. SWIFT.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-938B79L1-headnote-3">
+            <lg n="1" xml:id="spp-938B79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938B79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-938B79L1-line-1" n="1">WITH half an <hi rend="italics">eye</hi><lb/></l>
+            <l xml:id="swift-938B79L1-line-2" n="2">your riddle I spy.</l>
+            <l xml:id="swift-938B79L1-line-3" n="3">I observe your wicket<lb/></l>
+            <l xml:id="swift-938B79L1-line-4" n="4">hemm'd in by a thicket,</l>
+            <l xml:id="swift-938B79L1-line-5" n="5">And whatever passes<lb/></l>
+            <l xml:id="swift-938B79L1-line-6" n="6">is strained through glasses.</l>
+            <l xml:id="swift-938B79L1-line-7" n="7">om.</l>
+            <l xml:id="swift-938B79L1-line-8" n="8">om.</l>
+            <l xml:id="swift-938B79L1-line-9" n="9">You say it is quiet:<lb/></l>
+            <l xml:id="swift-938B79L1-line-10" n="10">I flatly deny it.</l>
+            <l xml:id="swift-938B79L1-line-11" n="11">It wanders about,<lb/></l>
+            <l xml:id="swift-938B79L1-line-12" n="12">without stirring out;</l>
+            <l xml:id="swift-938B79L1-line-13" n="13">No passion so weak<lb/></l>
+            <l xml:id="swift-938B79L1-line-14" n="14">but gives it a tweak;</l>
+            <l xml:id="swift-938B79L1-line-15" n="15">Love, joy, and devotion,<lb/></l>
+            <l xml:id="swift-938B79L1-line-16" n="16">set it always in motion.</l>
+            <l xml:id="swift-938B79L1-line-17" n="17">And as for the tragic<lb/></l>
+            <l xml:id="swift-938B79L1-line-18" n="18">effects of its magick</l>
+            <l xml:id="swift-938B79L1-line-19" n="19">Which you say it can kill,<lb/></l>
+            <l xml:id="swift-938B79L1-line-20" n="20">or revive at its will,</l>
+            <l xml:id="swift-938B79L1-line-21" n="21">The dead are all sound,<lb/></l>
+            <l xml:id="swift-938B79L1-line-22" n="22">and revive above ground,</l>
+            <l xml:id="swift-938B79L1-line-23" n="23">After all you have writ,<lb/></l>
+            <l xml:id="swift-938B79L1-line-24" n="24">it cannot be wit;</l>
+            <l xml:id="swift-938B79L1-line-25" n="25">Which plainly does follow,<lb/></l>
+            <l xml:id="swift-938B79L1-line-26" n="26">since it flies from Apollo.</l>
+            <l xml:id="swift-938B79L1-line-27" n="27">Its cowardice such,<lb/></l>
+            <l xml:id="swift-938B79L1-line-28" n="28">it cries at a touch,</l>
+            <l xml:id="swift-938B79L1-line-29" n="29">'Tis a perfect milksop,<lb/></l>
+            <l xml:id="swift-938B79L1-line-30" n="30">grows drunk with a drop.</l>
+            <l xml:id="swift-938B79L1-line-31" n="31">Another great fault,<lb/></l>
+            <l xml:id="swift-938B79L1-line-32" n="32">it cannot bear salt:</l>
+            <l xml:id="swift-938B79L1-line-33" n="33">And a hair can disarm<lb/></l>
+            <l xml:id="swift-938B79L1-line-34" n="34">it of every charm.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Life &amp; Character.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 24OC02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="545-083Y">
+          <head type="note" n="1" xml:id="spp-545-083Y-headnote-1">
+            <lg n="1" xml:id="spp-545-083Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-083Y-headnote-1-line-group-1-line-1">Upon a maxim of Rochefoucault.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-545-083Y-headnote-2">
+            <lg n="1" xml:id="spp-545-083Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-083Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-545-083Y-headnote-3">
+            <lg n="1" xml:id="spp-545-083Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-083Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-545-083Y-line-1" n="1">Wise <hi rend="italics">Rochefoucault</hi> a maxim writ,</l>
+            <l xml:id="swift-545-083Y-line-2" n="2">Made up of <hi rend="italics">Malice, Truth</hi>, &amp; <hi rend="italics">wit</hi>:</l>
+            <l xml:id="swift-545-083Y-line-3" n="3">If what he says be not a <hi rend="italics">Joke</hi>,</l>
+            <l xml:id="swift-545-083Y-line-4" n="4">We <hi rend="italics">Mortals</hi> are strange kind of <hi rend="italics">Folk</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-5" n="5"><lb/>But hold── Before we further go,</l>
+            <l xml:id="swift-545-083Y-line-6" n="6">'Tis fit the <hi rend="italics">Maxim</hi> we should know.</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-7" n="7"><lb/>He says “Whenever <hi rend="italics">Fortune</hi> sends</l>
+            <l xml:id="swift-545-083Y-line-8" n="8">“<hi rend="italics">Disasters</hi> to our <hi rend="italics">dearest Friends</hi>,</l>
+            <l xml:id="swift-545-083Y-line-9" n="9">“Although we <hi rend="italics">outwardly</hi> may grieve,</l>
+            <l xml:id="swift-545-083Y-line-10" n="10">“We oft are <hi rend="italics">Laughing in our Sleve</hi>.</l>
+            <l xml:id="swift-545-083Y-line-11" n="11">And when I think upon't, this Minute,</l>
+            <l xml:id="swift-545-083Y-line-12" n="12">I fancy there is something in it.</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-13" n="13">We see a <hi rend="italics">Comrade</hi> get a fall,</l>
+            <l xml:id="swift-545-083Y-line-14" n="14">Yet <hi rend="italics">laugh</hi> our Hearts out, <hi rend="italics">one</hi> &amp; <hi rend="italics">all.</hi></l>
+            <l xml:id="swift-545-083Y-line-15" n="15"><hi rend="italics">Tom</hi> for a <hi rend="italics">wealthy Wife</hi> looks round</l>
+            <l xml:id="swift-545-083Y-line-16" n="16">A <hi rend="italics">Nymph</hi>, that brings <hi rend="italics">ten thousand</hi> pound,</l>
+            <l xml:id="swift-545-083Y-line-17" n="17">He no where could have better pick·d;</l>
+            <l xml:id="swift-545-083Y-line-18" n="18">A <hi rend="italics">Rival</hi> comes, &amp; <hi rend="italics">Tom</hi>──── is nick'd──</l>
+            <l xml:id="swift-545-083Y-line-19" n="19">See how behave his <hi rend="italics">Friends</hi> profest,</l>
+            <l xml:id="swift-545-083Y-line-20" n="20">They turn the <hi rend="italics">Matter</hi> to a <hi rend="italics">Jest</hi>;</l>
+            <l xml:id="swift-545-083Y-line-21" n="21">Loll out their Tongues, &amp; thus, they talk·d,</l>
+            <l xml:id="swift-545-083Y-line-22" n="22"><hi rend="italics">Poor </hi>Tom<hi rend="italics"> has got plaguy baulkd</hi>──!</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-23" n="23">I could give Instances enough,</l>
+            <l xml:id="swift-545-083Y-line-24" n="24">That <hi rend="italics">Human Friendship</hi> is but <hi rend="italics">Stuff</hi>.</l>
+            <l xml:id="swift-545-083Y-line-25" n="25">Whene'er a <hi rend="italics">flatt'ring Puppy</hi> cries</l>
+            <l xml:id="swift-545-083Y-line-26" n="26">You are his <hi rend="italics">Dearest Friend</hi>──; he <hi rend="italics">lyes</hi>:</l>
+            <l xml:id="swift-545-083Y-line-27" n="27">om.</l>
+            <l xml:id="swift-545-083Y-line-28" n="28">om.</l>
+            <l xml:id="swift-545-083Y-line-29" n="29">om.</l>
+            <l xml:id="swift-545-083Y-line-30" n="30">om.</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-31" n="31">Come, tell me truly woud you take well,</l>
+            <l xml:id="swift-545-083Y-line-32" n="32">Suppose your <hi rend="italics">friend</hi> &amp; <hi rend="italics">you</hi> were <hi rend="italics">Equal</hi>,</l>
+            <l xml:id="swift-545-083Y-line-33" n="33">To see him almost <hi rend="italics">foremost</hi> stand,</l>
+            <l xml:id="swift-545-083Y-line-34" n="34">Affect to take the <hi rend="italics">upper Hand</hi>,</l>
+            <l xml:id="swift-545-083Y-line-35" n="35">And strive to pass in <hi rend="italics">public</hi> View,</l>
+            <l xml:id="swift-545-083Y-line-36" n="36">For much a <hi rend="italics">better Man</hi> than <hi rend="italics">you</hi>?</l>
+            <l xml:id="swift-545-083Y-line-37" n="37">Envy I doubt, wou·d pow'rful prove,</l>
+            <l xml:id="swift-545-083Y-line-38" n="38">And get the <hi rend="italics">better</hi> of your <hi rend="italics">Love</hi>;</l>
+            <l xml:id="swift-545-083Y-line-39" n="39">'Twoud please your Palate, like a feast,</l>
+            <l xml:id="swift-545-083Y-line-40" n="40">To see him mortifyd at least────</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-41" n="41">'Tis true, we talk of Friendship much,</l>
+            <l xml:id="swift-545-083Y-line-42" n="42">But, who are they that can keep touch──?</l>
+            <l xml:id="swift-545-083Y-line-43" n="43">True <hi rend="italics">Friendship</hi> in our Breasts requires</l>
+            <l xml:id="swift-545-083Y-line-44" n="44">The same <hi rend="italics">Aversions</hi>, &amp; <hi rend="italics">Desires</hi>;</l>
+            <l xml:id="swift-545-083Y-line-45" n="45">My <hi rend="italics">Freind</hi> Should have, when I complain,</l>
+            <l xml:id="swift-545-083Y-line-46" n="46">A Fellow-feeling of my Pain.</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-47" n="47">Yet, by Experience, oft we find,</l>
+            <l xml:id="swift-545-083Y-line-48" n="48">Our <hi rend="italics">Friends</hi> are of a <hi rend="italics">diff'rent</hi> mind;</l>
+            <l xml:id="swift-545-083Y-line-49" n="49">And, were I torturd with the Gout, 3}</l>
+            <l xml:id="swift-545-083Y-line-50" n="50">They·d <hi rend="italics">laugh</hi> to see me make a Rout,</l>
+            <l xml:id="swift-545-083Y-line-51" n="51">Glad, that themselves coud Walk about.</l>
+            <l xml:id="swift-545-083Y-line-52" n="52">om.</l>
+            <l xml:id="swift-545-083Y-line-53" n="53">om.</l>
+            <l xml:id="swift-545-083Y-line-54" n="54">om.</l>
+            <l xml:id="swift-545-083Y-line-55" n="55">om.</l>
+            <l xml:id="swift-545-083Y-line-56" n="56">om.</l>
+            <l xml:id="swift-545-083Y-line-57" n="57">om.</l>
+            <l rend="indent(1)" xml:id="swift-545-083Y-line-58" n="58"><lb/>When you are <hi rend="italics">Sick</hi>, your <hi rend="italics">Friends</hi>, you say,</l>
+            <l xml:id="swift-545-083Y-line-59" n="59">Will send their Howd'yes ev'ry Day:</l>
+            <l xml:id="swift-545-083Y-line-60" n="60">Alas! that gives you small Relief────!</l>
+            <l xml:id="swift-545-083Y-line-61" n="61">Thy send for <hi rend="italics">Manners</hi>──; not for <hi rend="italics">Grief</hi>──:</l>
+            <l xml:id="swift-545-083Y-line-62" n="62">Nor, if you dyd, woud fail to go</l>
+            <l xml:id="swift-545-083Y-line-63" n="63">That Ev'ning to a Puppet-shew────:</l>
+            <l xml:id="swift-545-083Y-line-64" n="64">Yet come in time to <hi rend="italics">shew</hi> their <hi rend="italics">Loves</hi>,</l>
+            <l xml:id="swift-545-083Y-line-65" n="65">And get a <hi rend="italics">Hatband, Scarf</hi>, &amp; <hi rend="italics">Gloves</hi>.</l>
+            <l xml:id="swift-545-083Y-line-66" n="66">om.</l>
+            <l xml:id="swift-545-083Y-line-67" n="67">om.</l>
+            <l xml:id="swift-545-083Y-line-68" n="68">om.</l>
+            <l xml:id="swift-545-083Y-line-69" n="69">om.</l>
+            <l xml:id="swift-545-083Y-line-70" n="70">om.</l>
+            <l xml:id="swift-545-083Y-line-71" n="71">om.</l>
+            <l xml:id="swift-545-083Y-line-72" n="72">om.</l>
+            <l xml:id="swift-545-083Y-line-73" n="73">om.</l>
+            <l xml:id="swift-545-083Y-line-74" n="74">om.</l>
+            <l xml:id="swift-545-083Y-line-75" n="75">om.</l>
+            <l xml:id="swift-545-083Y-line-76" n="76">om.</l>
+            <l xml:id="swift-545-083Y-line-77" n="77">om.</l>
+            <l xml:id="swift-545-083Y-line-78" n="78">om.</l>
+            <l xml:id="swift-545-083Y-line-79" n="79">om.</l>
+            <l xml:id="swift-545-083Y-line-80" n="80">om.</l>
+            <l xml:id="swift-545-083Y-line-81" n="81">om.</l>
+            <l xml:id="swift-545-083Y-line-82" n="82">om.</l>
+            <l xml:id="swift-545-083Y-line-83" n="83">om.</l>
+            <l xml:id="swift-545-083Y-line-84" n="84">om.</l>
+            <l xml:id="swift-545-083Y-line-85" n="85">om.</l>
+            <l xml:id="swift-545-083Y-line-86" n="86">om.</l>
+            <l xml:id="swift-545-083Y-line-87" n="87">om.</l>
+            <l xml:id="swift-545-083Y-line-88" n="88">om.</l>
+            <l xml:id="swift-545-083Y-line-89" n="89">om.</l>
+            <l xml:id="swift-545-083Y-line-90" n="90">om.</l>
+            <l xml:id="swift-545-083Y-line-91" n="91">om.</l>
+            <l xml:id="swift-545-083Y-line-92" n="92">om.</l>
+            <l xml:id="swift-545-083Y-line-93" n="93">om.</l>
+            <l xml:id="swift-545-083Y-line-94" n="94">om.</l>
+            <l xml:id="swift-545-083Y-line-95" n="95">om.</l>
+            <l xml:id="swift-545-083Y-line-96" n="96">om.</l>
+            <l xml:id="swift-545-083Y-line-97" n="97">om.</l>
+            <l xml:id="swift-545-083Y-line-98" n="98">om.</l>
+            <l xml:id="swift-545-083Y-line-99" n="99">om.</l>
+            <l xml:id="swift-545-083Y-line-100" n="100">om.</l>
+            <l xml:id="swift-545-083Y-line-101" n="101">om.</l>
+            <l xml:id="swift-545-083Y-line-102" n="102">om.</l>
+            <l xml:id="swift-545-083Y-line-103" n="103">om.</l>
+            <l xml:id="swift-545-083Y-line-104" n="104">om.</l>
+            <l xml:id="swift-545-083Y-line-105" n="105">om.</l>
+            <l xml:id="swift-545-083Y-line-106" n="106">om.</l>
+            <l xml:id="swift-545-083Y-line-107" n="107">om.</l>
+            <l xml:id="swift-545-083Y-line-108" n="108">om.</l>
+            <l xml:id="swift-545-083Y-line-109" n="109">om.</l>
+            <l xml:id="swift-545-083Y-line-110" n="110">om.</l>
+            <l xml:id="swift-545-083Y-line-111" n="111">om.</l>
+            <l xml:id="swift-545-083Y-line-112" n="112">om.</l>
+            <l xml:id="swift-545-083Y-line-113" n="113">om.</l>
+            <l xml:id="swift-545-083Y-line-114" n="114">om.</l>
+            <l xml:id="swift-545-083Y-line-115" n="115">om.</l>
+            <l xml:id="swift-545-083Y-line-116" n="116">om.</l>
+            <l xml:id="swift-545-083Y-line-117" n="117">om.</l>
+            <l xml:id="swift-545-083Y-line-118" n="118">om.</l>
+            <l xml:id="swift-545-083Y-line-119" n="119">om.</l>
+            <l xml:id="swift-545-083Y-line-120" n="120">om.</l>
+            <l xml:id="swift-545-083Y-line-121" n="121">om.</l>
+            <l xml:id="swift-545-083Y-line-122" n="122">om.</l>
+            <l xml:id="swift-545-083Y-line-123" n="123">om.</l>
+            <l xml:id="swift-545-083Y-line-124" n="124">om.</l>
+            <l xml:id="swift-545-083Y-line-125" n="125">om.</l>
+            <l xml:id="swift-545-083Y-line-126" n="126">om.</l>
+            <l xml:id="swift-545-083Y-line-127" n="127">om.</l>
+            <l xml:id="swift-545-083Y-line-128" n="128">om.</l>
+            <l xml:id="swift-545-083Y-line-129" n="129">om.</l>
+            <l xml:id="swift-545-083Y-line-130" n="130">om.</l>
+            <l xml:id="swift-545-083Y-line-131" n="131">om.</l>
+            <l xml:id="swift-545-083Y-line-132" n="132">om.</l>
+            <l xml:id="swift-545-083Y-line-133" n="133">om.</l>
+            <l xml:id="swift-545-083Y-line-134" n="134">om.</l>
+            <l xml:id="swift-545-083Y-line-135" n="135">om.</l>
+            <l xml:id="swift-545-083Y-line-136" n="136">om.</l>
+            <l xml:id="swift-545-083Y-line-137" n="137">om.</l>
+            <l xml:id="swift-545-083Y-line-138" n="138">om.</l>
+            <l xml:id="swift-545-083Y-line-139" n="139">om.</l>
+            <l xml:id="swift-545-083Y-line-140" n="140">om.</l>
+            <l xml:id="swift-545-083Y-line-141" n="141">om.</l>
+            <l xml:id="swift-545-083Y-line-142" n="142">om.</l>
+            <l xml:id="swift-545-083Y-line-143" n="143">om.</l>
+            <l xml:id="swift-545-083Y-line-144" n="144">om.</l>
+            <l xml:id="swift-545-083Y-line-145" n="145">om.</l>
+            <l xml:id="swift-545-083Y-line-146" n="146">om.</l>
+            <l xml:id="swift-545-083Y-line-147" n="147">om.</l>
+            <l xml:id="swift-545-083Y-line-148" n="148">om.</l>
+            <l xml:id="swift-545-083Y-line-149" n="149">om.</l>
+            <l xml:id="swift-545-083Y-line-150" n="150">om.</l>
+            <l xml:id="swift-545-083Y-line-151" n="151">om.</l>
+            <l xml:id="swift-545-083Y-line-152" n="152">om.</l>
+            <l xml:id="swift-545-083Y-line-153" n="153">om.</l>
+            <l xml:id="swift-545-083Y-line-154" n="154">om.</l>
+            <l xml:id="swift-545-083Y-line-155" n="155">om.</l>
+            <l xml:id="swift-545-083Y-line-156" n="156">om.</l>
+            <l xml:id="swift-545-083Y-line-157" n="157">om.</l>
+            <l xml:id="swift-545-083Y-line-158" n="158">om.</l>
+            <l xml:id="swift-545-083Y-line-159" n="159">om.</l>
+            <l xml:id="swift-545-083Y-line-160" n="160">om.</l>
+            <l xml:id="swift-545-083Y-line-161" n="161">om.</l>
+            <l xml:id="swift-545-083Y-line-162" n="162">om.</l>
+            <l xml:id="swift-545-083Y-line-163" n="163">om.</l>
+            <l xml:id="swift-545-083Y-line-164" n="164">om.</l>
+            <l xml:id="swift-545-083Y-line-165" n="165">om.</l>
+            <l xml:id="swift-545-083Y-line-166" n="166">om.</l>
+            <l xml:id="swift-545-083Y-line-167" n="167">om.</l>
+            <l xml:id="swift-545-083Y-line-168" n="168">om.</l>
+            <l xml:id="swift-545-083Y-line-169" n="169">om.</l>
+            <l xml:id="swift-545-083Y-line-170" n="170">om.</l>
+            <l xml:id="swift-545-083Y-line-171" n="171">om.</l>
+            <l xml:id="swift-545-083Y-line-172" n="172">om.</l>
+            <l xml:id="swift-545-083Y-line-173" n="173">om.</l>
+            <l xml:id="swift-545-083Y-line-174" n="174">om.</l>
+            <l xml:id="swift-545-083Y-line-175" n="175">om.</l>
+            <l xml:id="swift-545-083Y-line-176" n="176">om.</l>
+            <l xml:id="swift-545-083Y-line-177" n="177">om.</l>
+            <l xml:id="swift-545-083Y-line-178" n="178">om.</l>
+            <l xml:id="swift-545-083Y-line-179" n="179">om.</l>
+            <l xml:id="swift-545-083Y-line-180" n="180">om.</l>
+            <l xml:id="swift-545-083Y-line-181" n="181">om.</l>
+            <l xml:id="swift-545-083Y-line-182" n="182">om.</l>
+            <l xml:id="swift-545-083Y-line-183" n="183">om.</l>
+            <l xml:id="swift-545-083Y-line-184" n="184">om.</l>
+            <l xml:id="swift-545-083Y-line-185" n="185">om.</l>
+            <l xml:id="swift-545-083Y-line-186" n="186">om.</l>
+            <l xml:id="swift-545-083Y-line-187" n="187">om.</l>
+            <l xml:id="swift-545-083Y-line-188" n="188">om.</l>
+            <l xml:id="swift-545-083Y-line-189" n="189">om.</l>
+            <l xml:id="swift-545-083Y-line-190" n="190">om.</l>
+            <l xml:id="swift-545-083Y-line-191" n="191">om.</l>
+            <l xml:id="swift-545-083Y-line-192" n="192">om.</l>
+            <l xml:id="swift-545-083Y-line-193" n="193">om.</l>
+            <l xml:id="swift-545-083Y-line-194" n="194">om.</l>
+            <l xml:id="swift-545-083Y-line-195" n="195">om.</l>
+            <l xml:id="swift-545-083Y-line-196" n="196">om.</l>
+            <l xml:id="swift-545-083Y-line-197" n="197">om.</l>
+            <l xml:id="swift-545-083Y-line-198" n="198">om.</l>
+            <l xml:id="swift-545-083Y-line-199" n="199">om.</l>
+            <l xml:id="swift-545-083Y-line-200" n="200">om.</l>
+            <l xml:id="swift-545-083Y-line-201" n="201">om.</l>
+            <l xml:id="swift-545-083Y-line-202" n="202">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

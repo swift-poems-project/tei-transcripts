@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE LINNET AND THE JAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 26JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-S16671H1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="S16671H1">
+          <head type="note" n="1" xml:id="spp-S16671H1-headnote-1">
+            <lg n="1" xml:id="spp-S16671H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S16671H1-headnote-1-line-group-1-line-1">By a Friend of S<hi rend="small-caps">TELLA</hi>'s<ref target="#spp-S16671H1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-S16671H1-footnote-headnote-1" place="foot">“I have often heard a man of credit, and a competent judge, declare, that he never passed one day in <hi rend="italics">Stella's</hi> society, wherein he did not hear her say something, which he would wish to remember, to the last day of his life.── An humorous, but wrong-judging, gentleman of her acquaintance, took it into his head to set up the character of another lady in rivalship to hers; and raised some awkward mirth to himself, from <hi rend="italics">Stella's</hi> sitting silent, at a visit where that lady displayed her talents. On which occasion the above verses were sent to her the next morning, probably from some friend of <hi rend="italics">Stella's</hi>, for more than one of her friends were then present.” D<hi rend="small-caps">ELANY</hi>.── To Dr. <hi rend="italics">Delany</hi> himself, the verses may confidently be ascribed</note>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S16671H1-headnote-2">
+            <lg n="1" xml:id="spp-S16671H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S16671H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S16671H1-headnote-3">
+            <lg n="1" xml:id="spp-S16671H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S16671H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S16671H1-line-1" n="1"><hi rend="display-initial">M</hi>ONA, by nature, form'd a <hi rend="italics">Jay</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-2" n="2">Observ'd a little <hi rend="italics">Linnet</hi>,</l>
+            <l xml:id="swift-S16671H1-line-3" n="3">Warbling melodious on a spray,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-4" n="4">Like <hi rend="italics">Handel</hi> on his spinnet.</l>
+            <l xml:id="swift-S16671H1-line-5" n="5"><lb/>Attentive, she revolv'd each note;</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-6" n="6">And, ere the season ended,</l>
+            <l xml:id="swift-S16671H1-line-7" n="7">As much improv'd her tuneless throat,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-8" n="8">As nature could be mended.</l>
+            <l xml:id="swift-S16671H1-line-9" n="9"><lb/><hi rend="italics">Lin</hi> silent heard; but <hi rend="italics">Poll</hi>, rejoic'd,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-10" n="10">Exerts his clumsy tongue;</l>
+            <l xml:id="swift-S16671H1-line-11" n="11">To praise a <hi rend="italics">Jay</hi> so heavenly voic'd,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-12" n="12">And pity <hi rend="italics">Lin</hi> out-sung!</l>
+            <l xml:id="swift-S16671H1-line-13" n="13"><lb/><hi rend="italics">Lin</hi> smil'd, and sigh'd, “My little lays,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-14" n="14">“Are native, artless, few:</l>
+            <l xml:id="swift-S16671H1-line-15" n="15">“Content, I quit all higher praise,</l>
+            <l rend="indent(1)" xml:id="swift-S16671H1-line-16" n="16">“To M<hi rend="small-caps">ONA</hi>, and to Y<hi rend="small-caps">OU</hi>!”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

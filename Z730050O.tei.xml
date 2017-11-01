@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon the Learned Mary W---\<hi rend="italics">add</hi>·ortle\y \<hi rend="italics">add</hi>·Montague by \<hi rend="italics">add</hi>·Dr. Swift &amp; <hi rend="italics">above</hi> Mr. Pope<hi rend="italics">; then "Mr. Pope" has been crossed out without deleting the ampersand</hi>\</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z730050O">
+          <head type="note" n="1" xml:id="spp-Z730050O-headnote-1">
+            <lg n="1" xml:id="spp-Z730050O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z730050O-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z730050O-headnote-2">
+            <lg n="1" xml:id="spp-Z730050O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z730050O-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z730050O-headnote-3">
+            <lg n="1" xml:id="spp-Z730050O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z730050O-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z730050O-line-1" n="1">1<lb/>In Beauty or Witt</l>
+            <l xml:id="swift-Z730050O-line-2" n="2">No Mortall as Yett</l>
+            <l xml:id="swift-Z730050O-line-3" n="3">To question the Empire has dar'd,</l>
+            <l xml:id="swift-Z730050O-line-4" n="4">But men of discerning</l>
+            <l xml:id="swift-Z730050O-line-5" n="5">Have thought y<hi rend="superscript">t</hi> in Learning,</l>
+            <l xml:id="swift-Z730050O-line-6" n="6">To Yeild to a Lady was hard.</l>
+            <l xml:id="swift-Z730050O-line-7" n="7"><lb/>2_Impertinent Schools,</l>
+            <l xml:id="swift-Z730050O-line-8" n="8">With musty dull Rules,</l>
+            <l xml:id="swift-Z730050O-line-9" n="9">Have Reading to Ladies deny'd,</l>
+            <l xml:id="swift-Z730050O-line-10" n="10">So Papists refuse</l>
+            <l xml:id="swift-Z730050O-line-11" n="11">The Bible to use,</l>
+            <l xml:id="swift-Z730050O-line-12" n="12">Least Flocks shoul'd be wise as their Guide.</l>
+            <l xml:id="swift-Z730050O-line-13" n="13"><lb/>3_'Twas a woman at first,</l>
+            <l xml:id="swift-Z730050O-line-14" n="14">(Indeed she was curs'd)</l>
+            <l xml:id="swift-Z730050O-line-15" n="15">In Knowledge y<hi rend="superscript">t</hi> tasted delight;</l>
+            <l xml:id="swift-Z730050O-line-16" n="16">And Sages agree,</l>
+            <l xml:id="swift-Z730050O-line-17" n="17">The Law shou'd decree</l>
+            <l xml:id="swift-Z730050O-line-18" n="18">To the first of Possessors y<hi rend="superscript">e</hi> Right</l>
+            <l xml:id="swift-Z730050O-line-19" n="19"><lb/>4_Then bravely Fair Dame</l>
+            <l xml:id="swift-Z730050O-line-20" n="20">Renew the old Claim,</l>
+            <l xml:id="swift-Z730050O-line-21" n="21">That to y<hi rend="superscript">e</hi> whole sex does belong;</l>
+            <l xml:id="swift-Z730050O-line-22" n="22">And let Men receive</l>
+            <l xml:id="swift-Z730050O-line-23" n="23">From a second bright Eve,</l>
+            <l xml:id="swift-Z730050O-line-24" n="24">The Knowledge of Right &amp; of Wrong.</l>
+            <l xml:id="swift-Z730050O-line-25" n="25"><lb/>5_But as the first Eve</l>
+            <l xml:id="swift-Z730050O-line-26" n="26">Hard Doom did receive,</l>
+            <l xml:id="swift-Z730050O-line-27" n="27">When only one Apple had she,</l>
+            <l xml:id="swift-Z730050O-line-28" n="28">What a punishment now</l>
+            <l xml:id="swift-Z730050O-line-29" n="29">Must be found out for You,</l>
+            <l xml:id="swift-Z730050O-line-30" n="30">Who have tasted, &amp; robb'd, y<hi rend="superscript">e</hi> whole Tree.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

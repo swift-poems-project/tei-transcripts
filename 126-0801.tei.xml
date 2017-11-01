@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On the Little House by the Church<lb/>  Yard of</hi> Castleknock.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 16JA98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="126-0801">
+          <head type="note" n="1" xml:id="spp-126-0801-headnote-1">
+            <lg n="1" xml:id="spp-126-0801-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-126-0801-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-126-0801-headnote-2">
+            <lg n="1" xml:id="spp-126-0801-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-126-0801-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-126-0801-headnote-3">
+            <lg n="1" xml:id="spp-126-0801-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-126-0801-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-126-0801-line-1" n="1"><hi rend="display-initial">W</hi>HOEVER pleaseth to enquire,</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-2" n="2">Why Yonder Steeple wants a Spire.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-3" n="3">The gray old Fellow Poet <note place="foot">·Mr. <hi rend="italics">Beamont</hi> of <hi rend="italics">Trim</hi>.</note> <hi rend="italics">Joe</hi></l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-4" n="4">The Philosophic Cause will shew.</l>
+            <l xml:id="swift-126-0801-line-5" n="5">Once, on a Time a Western Blast,</l>
+            <l xml:id="swift-126-0801-line-6" n="6">At least twelve Inches overcast,</l>
+            <l xml:id="swift-126-0801-line-7" n="7">Reckoning Roof, Weather Cock and all,</l>
+            <l xml:id="swift-126-0801-line-8" n="8">Which came with a prodigious Fall;</l>
+            <l xml:id="swift-126-0801-line-9" n="9">And tumbling topsi-turvy round</l>
+            <l xml:id="swift-126-0801-line-10" n="10">Light with its Bottom on the Ground.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-11" n="11">For by the Laws of Gravitation,</l>
+            <l xml:id="swift-126-0801-line-12" n="12">It fell into its proper Station.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-13" n="13">This is the little strutting Pile,</l>
+            <l xml:id="swift-126-0801-line-14" n="14">You see just by the Church-yard Stile;</l>
+            <l xml:id="swift-126-0801-line-15" n="15">The Walls in tumbling gave a Knock;</l>
+            <l xml:id="swift-126-0801-line-16" n="16">And thus the Steeple got a Shock;</l>
+            <l xml:id="swift-126-0801-line-17" n="17">From whence the neighbouring Farmer calls</l>
+            <l xml:id="swift-126-0801-line-18" n="18">The Steeple, Knock, the Vicar, <note place="foot">·Rev. Archdeacon <hi rend="italics">Wall</hi>.</note> <hi rend="italics">Walls</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-19" n="19">The Vicar once a Week creeps in,</l>
+            <l xml:id="swift-126-0801-line-20" n="20">Sits with his Knees up to his Chin;</l>
+            <l xml:id="swift-126-0801-line-21" n="21">Here conns his Notes, and takes a Whet,</l>
+            <l xml:id="swift-126-0801-line-22" n="22">om.</l>
+            <l xml:id="swift-126-0801-line-23" n="23">Till the small ragged Flock is met.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-24" n="24">A Traveller, who by did pass,</l>
+            <l xml:id="swift-126-0801-line-25" n="25">Observ'd the Roof behind the Grass;</l>
+            <l xml:id="swift-126-0801-line-26" n="26">On Tiptoe stood and rear'd his Snout,</l>
+            <l xml:id="swift-126-0801-line-27" n="27">And saw the Parson creeping out;</l>
+            <l xml:id="swift-126-0801-line-28" n="28">Was much surpriz'd to see a Crow</l>
+            <l xml:id="swift-126-0801-line-29" n="29">Venture to build his Nest so low.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-30" n="30">A School-boy ran unto't and thought,</l>
+            <l xml:id="swift-126-0801-line-31" n="31">The Crib was down, the Blackbird caught.</l>
+            <l xml:id="swift-126-0801-line-32" n="32">A Third, who lost his Way by Night,</l>
+            <l xml:id="swift-126-0801-line-33" n="33">Was forc'd, for Safety, to alight,</l>
+            <l xml:id="swift-126-0801-line-34" n="34">And stepping o'er the Fabrick-roof,</l>
+            <l xml:id="swift-126-0801-line-35" n="35">His Horse had like to spoil his Hoof.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-36" n="36"><hi rend="italics">Warburton</hi> took it in his Noddle,</l>
+            <l xml:id="swift-126-0801-line-37" n="37">This Building was designed a Model,</l>
+            <l xml:id="swift-126-0801-line-38" n="38">Or of a Pigeon-house, or Oven,</l>
+            <l xml:id="swift-126-0801-line-39" n="39">To bake one Loaf, and keep one Dove in.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-40" n="40">Then <note place="foot">·A Friend of the Author's.</note> Mrs. <hi rend="italics">Johnson</hi> gave her Verdict,</l>
+            <l xml:id="swift-126-0801-line-41" n="41">And every one was pleas'd, that heard it:</l>
+            <l xml:id="swift-126-0801-line-42" n="42">All that you make this Stir about,</l>
+            <l xml:id="swift-126-0801-line-43" n="43">Is but a Still which wants a Spout.</l>
+            <l xml:id="swift-126-0801-line-44" n="44">The Rev'rend Dr. <note place="foot">·Minister of <hi rend="italics">Trim</hi>.</note> <hi rend="italics">Raymond</hi> guess'd,</l>
+            <l xml:id="swift-126-0801-line-45" n="45">More probably than all the rest;</l>
+            <l xml:id="swift-126-0801-line-46" n="46">He said, but that it wanted Room,</l>
+            <l xml:id="swift-126-0801-line-47" n="47">It might have been a Pigmy's Tomb.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-48" n="48">The Doctor's Family came by,</l>
+            <l xml:id="swift-126-0801-line-49" n="49">And little Miss began to cry;</l>
+            <l xml:id="swift-126-0801-line-50" n="50">Give me that House in my own Hand;</l>
+            <l xml:id="swift-126-0801-line-51" n="51">Then Madam bid the Chariot stand,</l>
+            <l xml:id="swift-126-0801-line-52" n="52">Call'd to the Clerk in manner mild,</l>
+            <l xml:id="swift-126-0801-line-53" n="53">Pray reach that Thing here to the Child,</l>
+            <l xml:id="swift-126-0801-line-54" n="54">That Thing, I mean, among the Kale,</l>
+            <l xml:id="swift-126-0801-line-55" n="55">And here's to buy a Pot of Ale.</l>
+            <l xml:id="swift-126-0801-line-56" n="56">om.</l>
+            <l xml:id="swift-126-0801-line-57" n="57">om.</l>
+            <l xml:id="swift-126-0801-line-58" n="58">om.</l>
+            <l xml:id="swift-126-0801-line-59" n="59">om.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-60" n="60">The Clerk said to her in a Heat,</l>
+            <l xml:id="swift-126-0801-line-61" n="61">What? sell my Master's Country Seat?</l>
+            <l xml:id="swift-126-0801-line-62" n="62">Where he comes ev'ry Week from Town;</l>
+            <l xml:id="swift-126-0801-line-63" n="63">He wou'd not sell it for a Crown.</l>
+            <l xml:id="swift-126-0801-line-64" n="64">om.</l>
+            <l xml:id="swift-126-0801-line-65" n="65">om.</l>
+            <l xml:id="swift-126-0801-line-66" n="66">om.</l>
+            <l xml:id="swift-126-0801-line-67" n="67">om.</l>
+            <l xml:id="swift-126-0801-line-68" n="68">om.</l>
+            <l xml:id="swift-126-0801-line-69" n="69">om.</l>
+            <l xml:id="swift-126-0801-line-70" n="70">Poh! Fellow keep not such a Pother</l>
+            <l xml:id="swift-126-0801-line-71" n="71">In half an Hour thou'lt make another.</l>
+            <l rend="indent(1)" xml:id="swift-126-0801-line-72" n="72">Says <note place="foot">·The Waiting Woman.</note> <hi rend="italics">Nancy</hi>, I can make for Miss,</l>
+            <l xml:id="swift-126-0801-line-73" n="73">A finer House ten times than this,</l>
+            <l xml:id="swift-126-0801-line-74" n="74">The Dean will give me Willow-Sticks,</l>
+            <l xml:id="swift-126-0801-line-75" n="75">And <hi rend="italics">Joe</hi> my Apron full of Bricks.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

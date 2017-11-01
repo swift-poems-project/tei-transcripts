@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 1JL10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y54C71H1">
+          <head type="note" n="1" xml:id="spp-Y54C71H1-headnote-1">
+            <lg n="1" xml:id="spp-Y54C71H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54C71H1-headnote-1-line-group-1-line-1">P. 633. l. 3. As the following Epigram has been ascribed to <hi rend="italics">Swift</hi>, we have inserted it, though it is probably not his:</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y54C71H1-headnote-2">
+            <lg n="1" xml:id="spp-Y54C71H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54C71H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y54C71H1-headnote-3">
+            <lg n="1" xml:id="spp-Y54C71H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54C71H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y54C71H1-line-1" n="1"><hi rend="italics">Two</hi> Goddesses now must <hi rend="italics">Cyprus</hi> adore:</l>
+            <l xml:id="swift-Y54C71H1-line-2" n="2">The Graces are <hi rend="italics">ten</hi>, the Muses are <hi rend="italics">four</hi>;</l>
+            <l xml:id="swift-Y54C71H1-line-3" n="3">S<hi rend="small-caps">TELLA</hi>'s wit is so charming, so sweet her fair face,</l>
+            <l xml:id="swift-Y54C71H1-line-4" n="4">She shines a new <hi rend="italics">Venus</hi>, a <hi rend="italics">Muse</hi>, and a <hi rend="italics">Grace</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

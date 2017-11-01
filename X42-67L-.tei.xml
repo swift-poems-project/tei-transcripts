@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A LETTER<lb/>  TO THE<lb/>  DEAN,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 17JE16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> --</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X42-67L-">
+          <head type="note" n="1" xml:id="spp-X42-67L--headnote-1">
+            <lg n="1" xml:id="spp-X42-67L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X42-67L--headnote-1-line-group-1-line-1">When in E<hi rend="small-caps">NGLAND</hi>, in MDCCXXVI.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X42-67L--headnote-2">
+            <lg n="1" xml:id="spp-X42-67L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X42-67L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X42-67L--headnote-3">
+            <lg n="1" xml:id="spp-X42-67L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X42-67L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X42-67L--line-1" n="1"><hi rend="display-initial">Y</hi>OU will excuse me, I suppose,</l>
+            <l xml:id="swift-X42-67L--line-2" n="2">For sending rhyme instead of prose,</l>
+            <l xml:id="swift-X42-67L--line-3" n="3">Because hot weather makes me lazy;</l>
+            <l xml:id="swift-X42-67L--line-4" n="4">To write in metre is easy.</l>
+            <l rend="indent(1)" xml:id="swift-X42-67L--line-5" n="5"><lb/>Whyle you are trudging <hi rend="italics">London</hi> town,</l>
+            <l xml:id="swift-X42-67L--line-6" n="6">I'm strolling <hi rend="italics">Dublin</hi>, up and down;</l>
+            <l xml:id="swift-X42-67L--line-7" n="7">While you converse with lords and dukes,</l>
+            <l xml:id="swift-X42-67L--line-8" n="8">I have their betters here, my books:</l>
+            <l xml:id="swift-X42-67L--line-9" n="9">Fix'd in an elbow-chair at ease,</l>
+            <l xml:id="swift-X42-67L--line-10" n="10">I chuse companions as I please.</l>
+            <l xml:id="swift-X42-67L--line-11" n="11">I'd rather have one single shelf,</l>
+            <l xml:id="swift-X42-67L--line-12" n="12">Than all my friends, except yourself;</l>
+            <l xml:id="swift-X42-67L--line-13" n="13">For, after all that can be said,</l>
+            <l xml:id="swift-X42-67L--line-14" n="14">Our best acquaintance are the dead.</l>
+            <l xml:id="swift-X42-67L--line-15" n="15">While you're in raptures with <note place="foot">·Signora <hi rend="italics">Faustina</hi>, a famous <hi rend="italics">Italian</hi> singer.</note> <hi rend="italics">Faustina</hi>,</l>
+            <l xml:id="swift-X42-67L--line-16" n="16">I'm charm'd at home, with our <hi rend="italics">Sheelina</hi>.</l>
+            <l xml:id="swift-X42-67L--line-17" n="17">While you are starving there in state,</l>
+            <l xml:id="swift-X42-67L--line-18" n="18">I'm cramming here with butcher's meat:</l>
+            <l xml:id="swift-X42-67L--line-19" n="19">You say, when with those Lords you dine,</l>
+            <l xml:id="swift-X42-67L--line-20" n="20">They treat you with the best of wine,</l>
+            <l xml:id="swift-X42-67L--line-21" n="21"><hi rend="italics">Burgundy, Cyprus</hi>, and <hi rend="italics">Tockay</hi>;</l>
+            <l xml:id="swift-X42-67L--line-22" n="22">Why so can we, as well as they.</l>
+            <l xml:id="swift-X42-67L--line-23" n="23">No reason then, my dear good Dean,</l>
+            <l xml:id="swift-X42-67L--line-24" n="24">But you should travel home again.</l>
+            <l xml:id="swift-X42-67L--line-25" n="25">What tho' you mayn't in <hi rend="italics">Ireland</hi> hope</l>
+            <l xml:id="swift-X42-67L--line-26" n="26">To find such folk as <hi rend="italics">Gay</hi> and <hi rend="italics">Pope</hi>;</l>
+            <l xml:id="swift-X42-67L--line-27" n="27">If you with rhymers here would share</l>
+            <l xml:id="swift-X42-67L--line-28" n="28">But half the wit that you can spare,</l>
+            <l xml:id="swift-X42-67L--line-29" n="29">I'd lay twelve eggs, that in twelve days,</l>
+            <l xml:id="swift-X42-67L--line-30" n="30">You'd make a dozen of <hi rend="italics">Popes</hi> and <hi rend="italics">Gays</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-X42-67L--line-31" n="31"><lb/>Our weather's good, our sky is clear,</l>
+            <l xml:id="swift-X42-67L--line-32" n="32">We've ev'ry joy, if you were here;</l>
+            <l xml:id="swift-X42-67L--line-33" n="33">So lofty, and so bright a sky,</l>
+            <l xml:id="swift-X42-67L--line-34" n="34">Was never seen by <hi rend="italics">Ireland's-Eye</hi>!</l>
+            <l xml:id="swift-X42-67L--line-35" n="35">I think it fit to let you know,</l>
+            <l xml:id="swift-X42-67L--line-36" n="36">This week I shall to <hi rend="italics">Quilca</hi> go;</l>
+            <l xml:id="swift-X42-67L--line-37" n="37">To see <hi rend="italics">Mc. Fayden's</hi> horney brothers,</l>
+            <l xml:id="swift-X42-67L--line-38" n="38">First suck, and after bull their mothers.</l>
+            <l xml:id="swift-X42-67L--line-39" n="39">To see, alas, my wither'd trees!</l>
+            <l xml:id="swift-X42-67L--line-40" n="40">To see what all the country sees!</l>
+            <l xml:id="swift-X42-67L--line-41" n="41">My stunted quicks, my famish'd beeves,</l>
+            <l xml:id="swift-X42-67L--line-42" n="42">My servants such a pack of thieves,</l>
+            <l xml:id="swift-X42-67L--line-43" n="43">My shatter'd firs, my blased oaks,</l>
+            <l xml:id="swift-X42-67L--line-44" n="44">My house in common to all folks:</l>
+            <l xml:id="swift-X42-67L--line-45" n="45">No cabbage for a single snail,</l>
+            <l xml:id="swift-X42-67L--line-46" n="46">My turnips, carrots, parsnips, fail,</l>
+            <l xml:id="swift-X42-67L--line-47" n="47">My no green pease, my few green sprouts,</l>
+            <l xml:id="swift-X42-67L--line-48" n="48">My mother always in the pouts:</l>
+            <l xml:id="swift-X42-67L--line-49" n="49">My horses rid, or gone astray,</l>
+            <l xml:id="swift-X42-67L--line-50" n="50">My fish all stol'n, or run away:</l>
+            <l xml:id="swift-X42-67L--line-51" n="51">My mutton lean, my pullets old,</l>
+            <l xml:id="swift-X42-67L--line-52" n="52">My poultry starv'd, the corn all sold.</l>
+            <l rend="indent(1)" xml:id="swift-X42-67L--line-53" n="53"><lb/>A man, come now from <hi rend="italics">Quilca</hi>, says,</l>
+            <l xml:id="swift-X42-67L--line-54" n="54"><note place="foot"><hi rend="italics">They</hi>, is the grand thief of the country of <hi rend="italics">Cavan</hi>; for whatever is stolen, if you enquire of a servant about it, the answer is, <hi rend="italics">They</hi> have stolen it.</note><hi rend="italics">They've</hi> stolen the locks from all your keys:</l>
+            <l xml:id="swift-X42-67L--line-55" n="55">But, what must fret and vex me more,</l>
+            <l xml:id="swift-X42-67L--line-56" n="56">He says, they stole the keys before.</l>
+            <l xml:id="swift-X42-67L--line-57" n="57">They've stol'n the knives from all the forks,</l>
+            <l xml:id="swift-X42-67L--line-58" n="58">And half the cows from half the sturks;</l>
+            <l xml:id="swift-X42-67L--line-59" n="59">Nay more, the fellow swears and vows,</l>
+            <l xml:id="swift-X42-67L--line-60" n="60">They've stol'n the sturks from half the cows.</l>
+            <l xml:id="swift-X42-67L--line-61" n="61">With many more accounts of woe,</l>
+            <l xml:id="swift-X42-67L--line-62" n="62">Yet, tho' the devil be there, I'll go:</l>
+            <l xml:id="swift-X42-67L--line-63" n="63">'Twixt you and me, the reason's clear,</l>
+            <l xml:id="swift-X42-67L--line-64" n="64">Because, I've more vexation here.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

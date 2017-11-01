@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Quibbling Elegy on the Worshipful Judge<lb/>  Boat, written by Dean Swift in the year 1723</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 11MY09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="284-647Y">
+          <head type="note" n="1" xml:id="spp-284-647Y-headnote-1">
+            <lg n="1" xml:id="spp-284-647Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-284-647Y-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-284-647Y-headnote-2">
+            <lg n="1" xml:id="spp-284-647Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-284-647Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-284-647Y-headnote-3">
+            <lg n="1" xml:id="spp-284-647Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-284-647Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-284-647Y-line-1" n="1">To mournful Ditties, Clio, change thy Note,</l>
+            <l xml:id="swift-284-647Y-line-2" n="2">Since cruel Fate hath sunk our Justice Boat.</l>
+            <l xml:id="swift-284-647Y-line-3" n="3">Why should he sink where nothing seem'd to press?</l>
+            <l xml:id="swift-284-647Y-line-4" n="4">His Lading little, and his Ballast less,</l>
+            <l xml:id="swift-284-647Y-line-5" n="5">Tost in the Waves of this tempestuous World,</l>
+            <l xml:id="swift-284-647Y-line-6" n="6">At length his Anchor fix'd and Canvass furl'd,</l>
+            <l xml:id="swift-284-647Y-line-7" n="7">To Lazy-hill <note place="foot">·Two Villages near the Sea, where Boatmen live─.</note>  retiring from his Court,</l>
+            <l xml:id="swift-284-647Y-line-8" n="8">At his Ring's-end he founders in the Port:</l>
+            <l xml:id="swift-284-647Y-line-9" n="9">With water fill'd<note place="foot">·It was said he died of a Dropsy─.</note>, he could no longer flote,</l>
+            <l xml:id="swift-284-647Y-line-10" n="10">The common Death of many a stronger Boat.──</l>
+            <l xml:id="swift-284-647Y-line-11" n="11">A Post so fill'd on Nature's Laws intrenches;</l>
+            <l xml:id="swift-284-647Y-line-12" n="12">Benches on Boats are plac'd, not Boats on Benches;</l>
+            <l xml:id="swift-284-647Y-line-13" n="13">And yet our Boat how shall I reconcile it?</l>
+            <l xml:id="swift-284-647Y-line-14" n="14">Was both a Boat and in one sense a Pilot!</l>
+            <l xml:id="swift-284-647Y-line-15" n="15">With ev'ry wind he sail'd, and well could tack,</l>
+            <l xml:id="swift-284-647Y-line-16" n="16">Had many pendents, but abhorr'd a Iack<note place="foot">·a Jacobite─.</note>.</l>
+            <l xml:id="swift-284-647Y-line-17" n="17">He's gone altho' his Friends began to hope</l>
+            <l xml:id="swift-284-647Y-line-18" n="18">That He might yet be lifted by a Rope.</l>
+            <l xml:id="swift-284-647Y-line-19" n="19">Behold the awful Bench on which he sat!</l>
+            <l xml:id="swift-284-647Y-line-20" n="20">He was as hard &amp; pond'rous wood as that:</l>
+            <l xml:id="swift-284-647Y-line-21" n="21">Yet when his sand was out, we find, at last,</l>
+            <l xml:id="swift-284-647Y-line-22" n="22">That Death has overset him w<hi rend="superscript">th</hi>- a Blast.</l>
+            <l xml:id="swift-284-647Y-line-23" n="23">Our Boat is now sail'd to the Stygian Ferry,</l>
+            <l xml:id="swift-284-647Y-line-24" n="24">There to supply old Charon's leaky Wherry:</l>
+            <l xml:id="swift-284-647Y-line-25" n="25">Charon in him will ferry Souls to Hell,</l>
+            <l xml:id="swift-284-647Y-line-26" n="26">A Trade our Boat <note place="foot">·In hanging People as a Judge.─.</note> hath practis'd here so well;</l>
+            <l xml:id="swift-284-647Y-line-27" n="27">And Cerberus hath ready in his Paws,</l>
+            <l xml:id="swift-284-647Y-line-28" n="28">Both Pitch and Brimstone to fill-up his flaws.</l>
+            <l xml:id="swift-284-647Y-line-29" n="29">Yet spite of Death and Fate, I here maintain,</l>
+            <l xml:id="swift-284-647Y-line-30" n="30">We may place Boat in his old Post again.</l>
+            <l xml:id="swift-284-647Y-line-31" n="31">The way is thus, and well deserves your thanks</l>
+            <l xml:id="swift-284-647Y-line-32" n="32">Take the three strongest of his broken Planks,</l>
+            <l xml:id="swift-284-647Y-line-33" n="33">Fix them on high, conspicuous to be seen,</l>
+            <l xml:id="swift-284-647Y-line-34" n="34">Form'd like the Tripple Tree on Stepen's Green<note place="foot">·Where the Dublin Gallows stands.─.</note>,</l>
+            <l xml:id="swift-284-647Y-line-35" n="35">And when we view it thus w<hi rend="superscript">tḥ</hi> Thief at end on't,</l>
+            <l xml:id="swift-284-647Y-line-36" n="36">We'll cry, “Look! here's our Boat, &amp; there's the Pendent.</l>
+            <l rend="center" xml:id="swift-284-647Y-line-37" n="37"><lb/><hi rend="underlined">The Epitaph</hi>.__Here lies Judge Boat, within a Coffin,</l>
+            <l xml:id="swift-284-647Y-line-38" n="38">Pray, gentle Folks! forbear your Scoffing.</l>
+            <l xml:id="swift-284-647Y-line-39" n="39">A Boat a Judge! yes, where's the Blunder?</l>
+            <l xml:id="swift-284-647Y-line-40" n="40">A wooden Judge is no such wonder:</l>
+            <l xml:id="swift-284-647Y-line-41" n="41">And in his Robes you must agree,</l>
+            <l xml:id="swift-284-647Y-line-42" n="42">No Boat was better deck'd than He.</l>
+            <l xml:id="swift-284-647Y-line-43" n="43">'Tis needless to describe him fuller;</l>
+            <l xml:id="swift-284-647Y-line-44" n="44">In short He was an able Sculler.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

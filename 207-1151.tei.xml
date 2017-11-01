@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The F<hi rend="small-caps">ABLE</hi> of the B<hi rend="small-caps">ITCHES</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 24FE04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="207-1151">
+          <head type="note" n="1" xml:id="spp-207-1151-headnote-1">
+            <lg n="1" xml:id="spp-207-1151-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-207-1151-headnote-1-line-group-1-line-1">Wrote in the Year 1715, on an Attempt to repeal <lb/> the Test Act.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-207-1151-headnote-2">
+            <lg n="1" xml:id="spp-207-1151-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-207-1151-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-207-1151-headnote-3">
+            <lg n="1" xml:id="spp-207-1151-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-207-1151-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-207-1151-line-1" n="1"><hi rend="display-initial">A</hi> B<hi rend="small-caps">ITCH</hi> that was full pregnant grown,</l>
+            <l xml:id="swift-207-1151-line-2" n="2">By all the Dogs and Curs in Town;</l>
+            <l xml:id="swift-207-1151-line-3" n="3">Finding her ripen'd Time was come,</l>
+            <l xml:id="swift-207-1151-line-4" n="4">Her Litter teeming from her Womb,</l>
+            <l xml:id="swift-207-1151-line-5" n="5">Went here and there, and ev'ry where,</l>
+            <l xml:id="swift-207-1151-line-6" n="6">To find an easy Place to lay-her.</l>
+            <l rend="indent(1)" xml:id="swift-207-1151-line-7" n="7"><lb/>A<hi rend="small-caps">T</hi> length to <note place="foot">·Musick's <hi rend="italics">House, the Church of</hi> England.</note> <hi rend="italics">Musick</hi>'s house she came,</l>
+            <l xml:id="swift-207-1151-line-8" n="8">And beg'd like one both blind and lame;</l>
+            <l xml:id="swift-207-1151-line-9" n="9">“My only Friend, my Dear,” said she,</l>
+            <l xml:id="swift-207-1151-line-10" n="10">“You see tis meer Necessity,</l>
+            <l xml:id="swift-207-1151-line-11" n="11">“Hath sent me to your House to whelp,</l>
+            <l xml:id="swift-207-1151-line-12" n="12">“I'll dye, if you deny your Help.</l>
+            <l rend="indent(1)" xml:id="swift-207-1151-line-13" n="13"><lb/>W<hi rend="small-caps">ITH</hi> fawning Whine, and rueful Tone,</l>
+            <l xml:id="swift-207-1151-line-14" n="14">With artful Sigh and feigned Groan,</l>
+            <l xml:id="swift-207-1151-line-15" n="15">With couchant Cringe, and flattering Tale,</l>
+            <l xml:id="swift-207-1151-line-16" n="16">Smooth <note place="foot">·Bawty, <hi rend="italics">(the name of a Bitch in</hi> Scotch,) <hi rend="italics">alludes to the Kirk</hi>.</note> <hi rend="italics">Bawty</hi> did so far prevail;</l>
+            <l xml:id="swift-207-1151-line-17" n="17">That <hi rend="italics">Musick</hi> gave her Leave to litter,</l>
+            <l xml:id="swift-207-1151-line-18" n="18">But mark what followed,── Faith she bit her.</l>
+            <l rend="indent(1)" xml:id="swift-207-1151-line-19" n="19"><lb/>W<hi rend="small-caps">HOLE</hi> Baskets full of Bits and Scraps,</l>
+            <l xml:id="swift-207-1151-line-20" n="20">And Broth enough to fill her Paps,</l>
+            <l xml:id="swift-207-1151-line-21" n="21">For well she knew her num'rous Brood,</l>
+            <l xml:id="swift-207-1151-line-22" n="22">For want of Milk, wou'd suck her Blood.</l>
+            <l rend="indent(1)" xml:id="swift-207-1151-line-23" n="23"><lb/>B<hi rend="small-caps">UT</hi> when she thought her Pains were done,</l>
+            <l xml:id="swift-207-1151-line-24" n="24">And now 'twas high Time to be gone;</l>
+            <l xml:id="swift-207-1151-line-25" n="25">In civil Terms,── “My Friend,” says she,</l>
+            <l xml:id="swift-207-1151-line-26" n="26">“My House you've had on Courtesy;</l>
+            <l xml:id="swift-207-1151-line-27" n="27">“And now I earnestly desire,</l>
+            <l xml:id="swift-207-1151-line-28" n="28">“That you wou'd with your Cubs retire:</l>
+            <l xml:id="swift-207-1151-line-29" n="29">“For shou'd you stay but one Week longer,</l>
+            <l xml:id="swift-207-1151-line-30" n="30">“I shall be starv'd with Cold and Hunger.”</l>
+            <l rend="indent(1)" xml:id="swift-207-1151-line-31" n="31"><lb/>T<hi rend="small-caps">HE</hi> Guest reply'd,── “My friend, your Leave,</l>
+            <l xml:id="swift-207-1151-line-32" n="32">“I must a little longer crave;</l>
+            <l xml:id="swift-207-1151-line-33" n="33">“Stay till my tender Cubs can find</l>
+            <l xml:id="swift-207-1151-line-34" n="34">“Their way, for now you see they're blind;</l>
+            <l xml:id="swift-207-1151-line-35" n="35">“But when we've gather'd Strength, I swear,</l>
+            <l xml:id="swift-207-1151-line-36" n="36">“We'll to our Barn again repair.</l>
+            <l xml:id="swift-207-1151-line-37" n="37">The time pass'd on, and <hi rend="italics">Musick</hi> came,</l>
+            <l xml:id="swift-207-1151-line-38" n="38">Her Kennel once again to claim;</l>
+            <l xml:id="swift-207-1151-line-39" n="39">But, <hi rend="italics">Bawty</hi>, lost to Shame and Honour,</l>
+            <l xml:id="swift-207-1151-line-40" n="40">Set all her Cubs at once upon her;</l>
+            <l xml:id="swift-207-1151-line-41" n="41">Made her retire, and quit her Right,</l>
+            <l xml:id="swift-207-1151-line-42" n="42">And loudly cry'd--- a Bite a Bite.</l>
+            <l rend="center indent(1)" xml:id="swift-207-1151-line-43" n="43"><lb/>The MORAL.__T<hi rend="small-caps">HUS</hi> did the <hi rend="italics">Grecian</hi> Wooden Horse,</l>
+            <l xml:id="swift-207-1151-line-44" n="44">Conceal a fatal armed Force;</l>
+            <l xml:id="swift-207-1151-line-45" n="45">No sooner brought within the Walls,</l>
+            <l xml:id="swift-207-1151-line-46" n="46">But <hi rend="italics">Ilium</hi>'s lost, and Priam falls.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

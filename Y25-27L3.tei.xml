@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>UPON<lb/>  ROVER,<lb/>  <hi rend="italics">A</hi> L<hi rend="small-caps">ADY</hi>'s Spaniel.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 18JA00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y25-27L3">
+          <head type="note" n="1" xml:id="spp-Y25-27L3-headnote-1">
+            <lg n="1" xml:id="spp-Y25-27L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y25-27L3-headnote-1-line-group-1-line-1"><hi rend="italics">Instructions to a Painter</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y25-27L3-headnote-2">
+            <lg n="1" xml:id="spp-Y25-27L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y25-27L3-headnote-2-line-group-1-line-1">By <hi rend="italics">Dean</hi> S<hi rend="small-caps">WIFT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y25-27L3-headnote-3">
+            <lg n="1" xml:id="spp-Y25-27L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y25-27L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y25-27L3-line-1" n="1"><hi rend="display-initial">H</hi>APPIEST of the <hi rend="italics">Spaniel-Race</hi>,</l>
+            <l xml:id="swift-Y25-27L3-line-2" n="2">Painter, with thy Colours Grace,</l>
+            <l xml:id="swift-Y25-27L3-line-3" n="3">Draw his Forehead large and high,</l>
+            <l xml:id="swift-Y25-27L3-line-4" n="4">Draw his blue and humid Eye,</l>
+            <l xml:id="swift-Y25-27L3-line-5" n="5">Draw his Neck so smooth and round,</l>
+            <l xml:id="swift-Y25-27L3-line-6" n="6">Little Neck with Ribbons bound,</l>
+            <l xml:id="swift-Y25-27L3-line-7" n="7">And the <hi rend="italics">muscly</hi> swelling Breast</l>
+            <l xml:id="swift-Y25-27L3-line-8" n="8">Where the Loves and Graces rest.</l>
+            <l xml:id="swift-Y25-27L3-line-9" n="9">And the spreading even Back,</l>
+            <l xml:id="swift-Y25-27L3-line-10" n="10">Soft, and sleek, and glossey Black;</l>
+            <l xml:id="swift-Y25-27L3-line-11" n="11">And the Tail that gently twines,</l>
+            <l xml:id="swift-Y25-27L3-line-12" n="12">Like the Tendrils of the Vines;</l>
+            <l xml:id="swift-Y25-27L3-line-13" n="13">And the silky twisted Hair,</l>
+            <l xml:id="swift-Y25-27L3-line-14" n="14">Shadowing thick the <hi rend="italics">Velvet</hi> Ear,</l>
+            <l xml:id="swift-Y25-27L3-line-15" n="15"><hi rend="italics">Velvet</hi> Ears which hanging low,</l>
+            <l xml:id="swift-Y25-27L3-line-16" n="16">O'er the <hi rend="italics">Veiny</hi> Temples flow.</l>
+            <l rend="indent(1)" xml:id="swift-Y25-27L3-line-17" n="17"><lb/>W<hi rend="small-caps">ITH</hi> a proper Light and Shade,</l>
+            <l xml:id="swift-Y25-27L3-line-18" n="18">Let the winding Hoop be laid;</l>
+            <l xml:id="swift-Y25-27L3-line-19" n="19">And within that arching Bower</l>
+            <l xml:id="swift-Y25-27L3-line-20" n="20">(Secret Circle, mystick Power)</l>
+            <l xml:id="swift-Y25-27L3-line-21" n="21">In a <hi rend="italics">Downy</hi> Slumber Place,</l>
+            <l xml:id="swift-Y25-27L3-line-22" n="22">Happiest of the <hi rend="italics">Spaniel</hi> Race,</l>
+            <l xml:id="swift-Y25-27L3-line-23" n="23">While the soft perspiring Dame,</l>
+            <l xml:id="swift-Y25-27L3-line-24" n="24">Glowing with the softest Flame,</l>
+            <l xml:id="swift-Y25-27L3-line-25" n="25">On the ravish'd Fav'rite pours</l>
+            <l xml:id="swift-Y25-27L3-line-26" n="26">Balmy Dews, Ambrosial Showers,</l>
+            <l rend="indent(1)" xml:id="swift-Y25-27L3-line-27" n="27"><lb/>W<hi rend="small-caps">ITH</hi> thy utmost Skill express</l>
+            <l xml:id="swift-Y25-27L3-line-28" n="28">Nature in her richest Dress,</l>
+            <l xml:id="swift-Y25-27L3-line-29" n="29">Limpid <hi rend="italics">Rivers</hi> smoothly Flowing,</l>
+            <l xml:id="swift-Y25-27L3-line-30" n="30"><hi rend="italics">Orchards</hi> by those <hi rend="italics">Rivers</hi> Blowing,</l>
+            <l xml:id="swift-Y25-27L3-line-31" n="31">Curling <hi rend="italics">Wood-bine Myrtle</hi> Shade,</l>
+            <l xml:id="swift-Y25-27L3-line-32" n="32">And the gay enamel'd Mead;</l>
+            <l xml:id="swift-Y25-27L3-line-33" n="33">Where the <hi rend="italics">Linnets</hi> sit and sing,</l>
+            <l xml:id="swift-Y25-27L3-line-34" n="34">Little Sportlings of the <hi rend="italics">Spring</hi>;</l>
+            <l xml:id="swift-Y25-27L3-line-35" n="35">Where the breatheing Field and Grove,</l>
+            <l xml:id="swift-Y25-27L3-line-36" n="36">Sooth the Heart, and kindle Love;</l>
+            <l xml:id="swift-Y25-27L3-line-37" n="37">Here for me, and for the Muse,</l>
+            <l xml:id="swift-Y25-27L3-line-38" n="38">Colours of Resemblance chuse,</l>
+            <l xml:id="swift-Y25-27L3-line-39" n="39">Make of <hi rend="italics">Lineaments</hi> Divine,</l>
+            <l xml:id="swift-Y25-27L3-line-40" n="40">Daply Female <hi rend="italics">Spaniels</hi> shine.</l>
+            <l xml:id="swift-Y25-27L3-line-41" n="41">Pretty <hi rend="italics">Fondlings</hi> of the Fair,</l>
+            <l xml:id="swift-Y25-27L3-line-42" n="42">Gentle <hi rend="italics">Damsels</hi>, gentle <hi rend="italics">Care</hi>,</l>
+            <l xml:id="swift-Y25-27L3-line-43" n="43">But to one alone impart,</l>
+            <l xml:id="swift-Y25-27L3-line-44" n="44">All the Flatt'ry of thy Art.</l>
+            <l xml:id="swift-Y25-27L3-line-45" n="45">Croud each Feature, croud each Grace,</l>
+            <l xml:id="swift-Y25-27L3-line-46" n="46">Which compleat the desperate Face.</l>
+            <l xml:id="swift-Y25-27L3-line-47" n="47">Let the spotted wanton Dame,</l>
+            <l xml:id="swift-Y25-27L3-line-48" n="48">Feel a new resistless Flame,</l>
+            <l xml:id="swift-Y25-27L3-line-49" n="49">Let the Happiest of his <hi rend="italics">Race</hi>,</l>
+            <l xml:id="swift-Y25-27L3-line-50" n="50">Win the Fair to his <hi rend="italics">Embrace</hi>.</l>
+            <l xml:id="swift-Y25-27L3-line-51" n="51">But in Shade the rest conceal,</l>
+            <l xml:id="swift-Y25-27L3-line-52" n="52">Nor to Sight their Joys reveal,</l>
+            <l xml:id="swift-Y25-27L3-line-53" n="53">Lest the <hi rend="italics">Pencil</hi> and the <hi rend="italics">Muse</hi></l>
+            <l xml:id="swift-Y25-27L3-line-54" n="54">Loose Desires and Thoughts <hi rend="italics">infuse</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

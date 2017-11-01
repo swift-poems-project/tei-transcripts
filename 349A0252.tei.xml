@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Verses on the upright Judge who condemned<lb/>  the</hi> D<hi rend="small-caps">RAPIER</hi>'s <hi rend="italics">Printer</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 22NO01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d EWyble 6FE02 agt 349A0203; ed. JW 14FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="349A0252">
+          <head type="note" n="1" xml:id="spp-349A0252-headnote-1">
+            <lg n="1" xml:id="spp-349A0252-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-349A0252-headnote-1-line-group-1-line-1">W<hi rend="small-caps">RITTEN</hi> in the Y<hi rend="small-caps">EAR</hi>, 1724.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-349A0252-headnote-2">
+            <lg n="1" xml:id="spp-349A0252-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-349A0252-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-349A0252-headnote-3">
+            <lg n="1" xml:id="spp-349A0252-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-349A0252-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-349A0252-line-1" n="1"><hi rend="display-initial">T</hi>HE Church I hate, and have good Reason:</l>
+            <l xml:id="swift-349A0252-line-2" n="2">For, there my Grandsire cut his Weazon:</l>
+            <l xml:id="swift-349A0252-line-3" n="3">He cut his Weason at the Altar;</l>
+            <l xml:id="swift-349A0252-line-4" n="4">I keep my Gullet for the Halter.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

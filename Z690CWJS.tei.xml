@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Goddess ENVY to Doctor D--L--Y.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 21DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. SK 27MR11; √'d JW 4MY11 agt 421A; ed. JW 22SE12; EMENDED JW 7AU17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z690CWJS">
+          <head type="note" n="1" xml:id="spp-Z690CWJS-headnote-1">
+            <lg n="1" xml:id="spp-Z690CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z690CWJS-headnote-1-line-group-1-line-1">────<hi rend="italics">Fragili quærens illidere dentem</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z690CWJS-headnote-2">
+            <lg n="1" xml:id="spp-Z690CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z690CWJS-headnote-2-line-group-1-line-1"><hi rend="italics">Offendet Solido</hi>────</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z690CWJS-headnote-3">
+            <lg n="1" xml:id="spp-Z690CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z690CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z690CWJS-line-1" n="1">
+              <hi rend="display-initial">A<hi rend="small-caps">DMIRE</hi> not Sir, that I so Long unseen,</hi>
+            </l>
+            <l xml:id="swift-Z690CWJS-line-2" n="2">Have but in Secret thy Attendant been:</l>
+            <l xml:id="swift-Z690CWJS-line-3" n="3">That Tortur'd long I never dar'd, till now,</l>
+            <l xml:id="swift-Z690CWJS-line-4" n="4">My Hate of thee before the World avow</l>
+            <l xml:id="swift-Z690CWJS-line-5" n="5">Still had I hid my Fury in my Breast,</l>
+            <l xml:id="swift-Z690CWJS-line-6" n="6">Would my relentless Snakes but let me rest.</l>
+            <l xml:id="swift-Z690CWJS-line-7" n="7">For long I've learn'd my Lot ordain'd by Fate,</l>
+            <l xml:id="swift-Z690CWJS-line-8" n="8">To raise those Names most high, whom most I hate.</l>
+            <l xml:id="swift-Z690CWJS-line-9" n="9">But oh in vain I strove, the eating Flame</l>
+            <l xml:id="swift-Z690CWJS-line-10" n="10">Would out, tho well I knew it seal'd thy Fame.</l>
+            <l xml:id="swift-Z690CWJS-line-11" n="11">You may rejoyce; your Glory is secure,</l>
+            <l xml:id="swift-Z690CWJS-line-12" n="12">And it must now with time it self endure.</l>
+            <l xml:id="swift-Z690CWJS-line-13" n="13">Fam'd <hi rend="italics">Homer, Maro, Dryden</hi>, had from me,</l>
+            <l xml:id="swift-Z690CWJS-line-14" n="14">No greater Favours than I've shown to thee.</l>
+            <l xml:id="swift-Z690CWJS-line-15" n="15">No greater Rage against them I display'd,</l>
+            <l xml:id="swift-Z690CWJS-line-16" n="16">Nor greater folly in that rage betray'd.</l>
+            <l xml:id="swift-Z690CWJS-line-17" n="17">Nor thou, tho dire I seem to weaker Eyes,</l>
+            <l xml:id="swift-Z690CWJS-line-18" n="18">Fond Man, the Glory of my Hate despise.</l>
+            <l xml:id="swift-Z690CWJS-line-19" n="19">Not all the countless Praises you have gain'd,</l>
+            <l xml:id="swift-Z690CWJS-line-20" n="20">From Crouds of Youth by thee to Virtue train'd,</l>
+            <l xml:id="swift-Z690CWJS-line-21" n="21">By thee with ev'ry nobler Science grac'd,</l>
+            <l xml:id="swift-Z690CWJS-line-22" n="22">Distinguish'd for their Elegance of Tast:</l>
+            <l xml:id="swift-Z690CWJS-line-23" n="23">Not all the Crouds that round thy Pulpit throng,</l>
+            <l xml:id="swift-Z690CWJS-line-24" n="24">Rapt with the Force of thy persuasive Tongue,</l>
+            <l xml:id="swift-Z690CWJS-line-25" n="25">Not all the Wretched by thy Bounty eas'd,</l>
+            <l xml:id="swift-Z690CWJS-line-26" n="26">Nor modest Merit by thy Friendship rais'd,</l>
+            <l xml:id="swift-Z690CWJS-line-27" n="27">Not all you e'er can do, or preach or write</l>
+            <l xml:id="swift-Z690CWJS-line-28" n="28">Exalts your Glory equal to my Spite.</l>
+            <l rend="indent(1)" xml:id="swift-Z690CWJS-line-29" n="29"><lb/>The Orator's Harangue, the Poet's Lays,</l>
+            <l xml:id="swift-Z690CWJS-line-30" n="30">Tho' tuning all their Notes to Vertue's Praise,</l>
+            <l xml:id="swift-Z690CWJS-line-31" n="31">The breathing Marble, and th' expressive Coin.</l>
+            <l xml:id="swift-Z690CWJS-line-32" n="32">Tho' History with them her Labours joyn;</l>
+            <l xml:id="swift-Z690CWJS-line-33" n="33">All these, united, can't true Worth declare;</l>
+            <l xml:id="swift-Z690CWJS-line-34" n="34">Since oft th' Effects of Flattery or Fear:</l>
+            <l xml:id="swift-Z690CWJS-line-35" n="35">True Worth is best determin'd by my Hate:</l>
+            <l xml:id="swift-Z690CWJS-line-36" n="36">That cannot be Suspected of Deceit.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

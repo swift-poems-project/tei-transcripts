@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 9NO15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 28JE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P00831DL">
+          <head type="note" n="1" xml:id="spp-P00831DL-headnote-1">
+            <lg n="1" xml:id="spp-P00831DL-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00831DL-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P00831DL-headnote-2">
+            <lg n="1" xml:id="spp-P00831DL-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00831DL-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P00831DL-headnote-3">
+            <lg n="1" xml:id="spp-P00831DL-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00831DL-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-P00831DL-line-1" n="1">Ixion <hi rend="italics">Impious, Lewd, Profane,</hi></l><l xml:id="swift-P00831DL-line-2" n="2"><hi rend="italics">Bright </hi>Juno<hi rend="italics"> woo'd, but wood'd in vain.</hi></l><l xml:id="swift-P00831DL-line-3" n="3">Long had he languish`d for the Dame,</l><l xml:id="swift-P00831DL-line-4" n="4">Long had he languish`d for the Dame,'Till </l>Jove<hi rend="italics"> at length to quench his Flame;</hi><l xml:id="swift-P00831DL-line-5" n="5">Some say for Fear, some say for Pity,</l><l xml:id="swift-P00831DL-line-6" n="6">Some say for Fear, some say for Pity,Sent him a Cloud, like </l>Juno<hi rend="italics"> Pritty,</hi><l xml:id="swift-P00831DL-line-7" n="7">As like as if 'twere drawn by Painters,</l><l xml:id="swift-P00831DL-line-8" n="8">As like as if 'twere drawn by Painters,On which he got a Race of </l>Centaurs<hi rend="italics">.</hi><l xml:id="swift-P00831DL-line-9" n="9">.A Bite quoth</l> V<hi rend="small-caps">ENUS</hi>──</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

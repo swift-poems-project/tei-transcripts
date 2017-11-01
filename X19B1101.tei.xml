@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X19B1101-title-4">A Copy of a Copy of Verses from T<hi rend="small-caps">HOMAS<lb/>  </hi>S<hi rend="small-caps">HERIDAN</hi>, Clerk, to G<hi rend="small-caps">EORGE </hi><ref target="#spp-X19B1101-footnote-title-1">1</ref><note n="1" xml:id="spp-X19B1101-footnote-title-1" place="foot"><hi rend="italics">George Rochfort</hi>, Esq</note><hi rend="small-caps"> </hi>N<hi rend="small-caps">IM </hi><ref target="#spp-X19B1101-footnote-title-2">2</ref><note n="2" xml:id="spp-X19B1101-footnote-title-2" place="foot">His Brother <hi rend="italics">John Rochfort</hi>, called <hi rend="italics">Nim</hi>, because he was a great Hunter from <hi rend="italics">Nimrod</hi></note><hi rend="small-caps">-</hi>D<hi rend="small-caps">AN </hi><ref target="#spp-X19B1101-footnote-title-3">3</ref><note n="3" xml:id="spp-X19B1101-footnote-title-3" place="foot">The Rev. Mr. <hi rend="italics">Daniel Jackson</hi></note><hi rend="small-caps">-<lb/>  </hi>D<hi rend="small-caps">EAN</hi> <ref target="#spp-X19B1101-footnote-title-4">4</ref><note n="4" xml:id="spp-X19B1101-footnote-title-4" place="foot">Dr. <hi rend="italics">Swift</hi>, Dean of St. <hi rend="italics">Patrick</hi>'s</note>, Esq; Written <hi rend="italics">July</hi> 15th, 1721, at<lb/>  Night.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 7JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X19B1101-footnote-title-1 #spp-X19B1101-title-1"/>
+          <link target="#spp-X19B1101-footnote-title-2 #spp-X19B1101-title-2"/>
+          <link target="#spp-X19B1101-footnote-title-3 #spp-X19B1101-title-3"/>
+          <link target="#spp-X19B1101-footnote-title-4 #spp-X19B1101-title-4"/>
+        </linkGrp>
+        <div n="X19B1101">
+          <head type="note" n="1" xml:id="spp-X19B1101-headnote-1">
+            <lg n="1" xml:id="spp-X19B1101-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X19B1101-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X19B1101-headnote-2">
+            <lg n="1" xml:id="spp-X19B1101-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X19B1101-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X19B1101-headnote-3">
+            <lg n="1" xml:id="spp-X19B1101-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X19B1101-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X19B1101-line-1" n="1"><hi rend="display-initial">I</hi>'D have you t'know <hi rend="italics">George, Dan, Dean</hi>, 'nd <hi rend="italics">Nim</hi>,</l>
+            <l xml:id="swift-X19B1101-line-2" n="2">That I've learned how Verse t' compose trim,</l>
+            <l xml:id="swift-X19B1101-line-3" n="3">Much better b'half th'n you, n'r you, n'r him</l>
+            <l xml:id="swift-X19B1101-line-4" n="4">And th't I'd rid'cule their, 'nd your Flam Flim,</l>
+            <l xml:id="swift-X19B1101-line-5" n="5">Ay' b't them, p'rhaps, says you, t's a m'rry Whim</l>
+            <l xml:id="swift-X19B1101-line-6" n="6">With 'bundance of mark't Notes it th' Rim,</l>
+            <l xml:id="swift-X19B1101-line-7" n="7">So th't I ought n't for t' be morose 'nd t' look grim,</l>
+            <l xml:id="swift-X19B1101-line-8" n="8">Think n't your 'p'stle put m' in a Meagrim;</l>
+            <l xml:id="swift-X19B1101-line-9" n="9">Though, 'n Rep't't'on Day, I'appear ver' slim,</l>
+            <l xml:id="swift-X19B1101-line-10" n="10">Th' last Bowl't <hi rend="italics">Helsham's</hi> did m' Head t' swim,</l>
+            <l xml:id="swift-X19B1101-line-11" n="11">So th't I h'd man' Aches 'n'v'ry scrubb'd Limb,</l>
+            <l xml:id="swift-X19B1101-line-12" n="12">Cause th' Top of th' Bowl I'h'd oft us'd t'skim;</l>
+            <l xml:id="swift-X19B1101-line-13" n="13">And b'sides <note place="foot">·Dr. <hi rend="italics">Delany</hi>.</note> <hi rend="italics">D'lan</hi>' swears th't I'h'd swall'w'd s'v'r'l Brim-</l>
+            <l xml:id="swift-X19B1101-line-14" n="14">mers, 'nd that my Vis'ge's cov'r'd o'r with r'd Pim\-\</l>
+            <l xml:id="swift-X19B1101-line-15" n="15">ples:<lb/> M'r'o'er though m' Scull were (s'tis n't) 's strong's Tim\-\</l>
+            <l xml:id="swift-X19B1101-line-16" n="16">ber, 't must have ak'd. Th' Clans of th' C'lledge Sanh'drim,</l>
+            <l rend="indent(1)" xml:id="swift-X19B1101-line-17" n="17">pres'nt th'r humbl' and 'fect'nate Respects; that's t'say, <hi rend="italics">D'lan', 'chlin, P. Ludl', Dic' St'·wart, H'lsham, </hi>Capt'n<hi rend="italics"> P'rr' Walmsl'nd</hi>, <note place="foot">·Mr. <hi rend="italics">Stopford</hi> of <hi rend="italics">Finglass</hi>, Minister of that Parish, afterwards Bishop of <hi rend="italics">Cloyne</hi>.</note> Longsh'nks <hi rend="italics">Timm</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

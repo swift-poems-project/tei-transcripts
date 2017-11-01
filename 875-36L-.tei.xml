@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Drapier</hi>'s HILL.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 6JA99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="875-36L-">
+          <head type="note" n="1" xml:id="spp-875-36L--headnote-1">
+            <lg n="1" xml:id="spp-875-36L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-875-36L--headnote-1-line-group-1-line-1"><hi rend="italics">Written in the Year</hi> 1729.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-875-36L--headnote-2">
+            <lg n="1" xml:id="spp-875-36L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-875-36L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-875-36L--headnote-3">
+            <lg n="1" xml:id="spp-875-36L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-875-36L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-875-36L--line-1" n="1"><hi rend="display-initial">W</hi>E give the world to understand,</l>
+            <l xml:id="swift-875-36L--line-2" n="2">Our thriving D────n has purchas'd Land;</l>
+            <l xml:id="swift-875-36L--line-3" n="3">A Purchase which will bring him clear,</l>
+            <l xml:id="swift-875-36L--line-4" n="4">Above his Rent four Pounds a Year;</l>
+            <l xml:id="swift-875-36L--line-5" n="5">Provided, to improve the Ground,</l>
+            <l xml:id="swift-875-36L--line-6" n="6">He will but add two Hundred Pound,</l>
+            <l xml:id="swift-875-36L--line-7" n="7">And from his endless hoarded Store,</l>
+            <l xml:id="swift-875-36L--line-8" n="8">To build a House five Hundred more.</l>
+            <l xml:id="swift-875-36L--line-9" n="9"><note place="foot">·The Gentleman of whom the Purchase was made.</note> Sir <hi rend="italics">Arthur</hi> too shall have his will,</l>
+            <l xml:id="swift-875-36L--line-10" n="10">And call the Mansion <hi rend="italics">Drapier</hi>'s Hill;</l>
+            <l xml:id="swift-875-36L--line-11" n="11">That when a Nation long enslav'd,</l>
+            <l xml:id="swift-875-36L--line-12" n="12">Forgets by whom it once was sav'd;</l>
+            <l xml:id="swift-875-36L--line-13" n="13">When none the <hi rend="italics">Drapier</hi>'s praise shall sing;</l>
+            <l xml:id="swift-875-36L--line-14" n="14">His Signs aloft no longer swing;</l>
+            <l xml:id="swift-875-36L--line-15" n="15">om.</l>
+            <l xml:id="swift-875-36L--line-16" n="16">om.</l>
+            <l xml:id="swift-875-36L--line-17" n="17">His Medals and his Prints forgotten,</l>
+            <l xml:id="swift-875-36L--line-18" n="18">And all his <note place="foot">·Medals were cast; many Signs hung up; and Handkerchiefs made with Devices in honour of the Author, under the Name of <hi rend="italics">M.B. Drapier</hi>.</note> Handkerchiefs are rotten;</l>
+            <l xml:id="swift-875-36L--line-19" n="19">His famous <hi rend="italics">Letters</hi> made waste Paper;</l>
+            <l xml:id="swift-875-36L--line-20" n="20">This Hill may keep the Name of <hi rend="italics">Drapier</hi>:</l>
+            <l xml:id="swift-875-36L--line-21" n="21">In Spight of Envy flourish still,</l>
+            <l xml:id="swift-875-36L--line-22" n="22">And <hi rend="italics">Drapier</hi>'s vye with <hi rend="italics">Cooper</hi>'s Hill.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-753-1301-title-1">A<lb/>  NEW-YEAR'S-GIFT for BEC <ref target="#spp-753-1301-footnote-title-1">1</ref><note n="1" xml:id="spp-753-1301-footnote-title-1" place="foot">Mrs. Rebecca Dingley, Stella's friend and companion</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 13JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-753-1301-footnote-title-1 #spp-753-1301-title-1"/>
+        </linkGrp>
+        <div n="753-1301">
+          <head type="note" n="1" xml:id="spp-753-1301-headnote-1">
+            <lg n="1" xml:id="spp-753-1301-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-753-1301-headnote-1-line-group-1-line-1">Written in the Year <hi rend="small-caps">M DCC XXIII-IV</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-753-1301-headnote-2">
+            <lg n="1" xml:id="spp-753-1301-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-753-1301-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-753-1301-headnote-3">
+            <lg n="1" xml:id="spp-753-1301-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-753-1301-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-753-1301-line-1" n="1"><hi rend="display-initial">R</hi>E<hi rend="small-caps">TURNING</hi> Janus now prepares,</l>
+            <l xml:id="swift-753-1301-line-2" n="2">For Bec, a new supply of cares,</l>
+            <l xml:id="swift-753-1301-line-3" n="3">Sent in a bag to Doctor Swift,</l>
+            <l xml:id="swift-753-1301-line-4" n="4">Who thus displays the New-year's-gift.</l>
+            <l rend="indent(1)" xml:id="swift-753-1301-line-5" n="5"><lb/>First, this large parcel brings you tidings</l>
+            <l xml:id="swift-753-1301-line-6" n="6">Of our good Dean's eternal chidings;</l>
+            <l xml:id="swift-753-1301-line-7" n="7">Of Nelly's pertness, Robin's leasings,</l>
+            <l xml:id="swift-753-1301-line-8" n="8">And Sheridan's perpetual teazings.</l>
+            <l xml:id="swift-753-1301-line-9" n="9">This box is cramm'd on ev'ry side</l>
+            <l xml:id="swift-753-1301-line-10" n="10">With Stella's magisterial pride.</l>
+            <l xml:id="swift-753-1301-line-11" n="11">Behold a cage with sparrows fill'd,</l>
+            <l xml:id="swift-753-1301-line-12" n="12">First to be fondled, then be kill'd.</l>
+            <l xml:id="swift-753-1301-line-13" n="13">Now to this hamper I invite you,</l>
+            <l xml:id="swift-753-1301-line-14" n="14">With six imagin'd cares to fright you.</l>
+            <l xml:id="swift-753-1301-line-15" n="15">Here in this bundle Janus sends</l>
+            <l xml:id="swift-753-1301-line-16" n="16">Concerns by thousands for your friends:</l>
+            <l xml:id="swift-753-1301-line-17" n="17">And here's a pair of leathern pokes,</l>
+            <l xml:id="swift-753-1301-line-18" n="18">To hold your cares for other folks.</l>
+            <l xml:id="swift-753-1301-line-19" n="19">Here from this barrel you may broach</l>
+            <l xml:id="swift-753-1301-line-20" n="20">A Peck of troubles for a coach.</l>
+            <l xml:id="swift-753-1301-line-21" n="21">This ball of wax your ears will darken,</l>
+            <l xml:id="swift-753-1301-line-22" n="22">Still to be curious, never hearken.</l>
+            <l xml:id="swift-753-1301-line-23" n="23">Lest you the town may have less trouble in,</l>
+            <l xml:id="swift-753-1301-line-24" n="24">Bring all your Quilca <note place="foot">·A country house of Dr. Sheridan's.</note> cares to Dublin,</l>
+            <l xml:id="swift-753-1301-line-25" n="25">For which he sends this empty sack;</l>
+            <l xml:id="swift-753-1301-line-26" n="26">And so take all upon your back.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

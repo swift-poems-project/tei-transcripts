@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-M40971H1-title-1">A<hi rend="small-caps">N</hi> INVITATION, by Dr. S<hi rend="small-caps">WIFT</hi> <ref target="#spp-M40971H1-footnote-title-1">1</ref><note n="1" xml:id="spp-M40971H1-footnote-title-1" place="foot">See Mrs. <hi rend="italics">Pilkington's</hi> Memoirs, vol. III. p. 65</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 27JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M40971H1-footnote-title-1 #spp-M40971H1-title-1"/>
+        </linkGrp>
+        <div n="M40971H1">
+          <head type="note" n="1" xml:id="spp-M40971H1-headnote-1">
+            <lg n="1" xml:id="spp-M40971H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40971H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M40971H1-headnote-2">
+            <lg n="1" xml:id="spp-M40971H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40971H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M40971H1-headnote-3">
+            <lg n="1" xml:id="spp-M40971H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40971H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M40971H1-line-1" n="1"><hi rend="display-initial">M</hi>IGHTY <hi rend="italics">Thomas</hi><note place="foot">·From their diminutive size, the Dean used to call Mr. <hi rend="italics">Pilkington</hi> “Tom Thumb,” and his wife “his lady fair.”.</note>, a solemn <hi rend="italics">Senatus</hi> <note place="foot">·To correct Mrs. <hi rend="italics">Barber's</hi> poems; which were published at <hi rend="italics">London</hi>, in 4to, by subscription; with the addition of several poems by her son <hi rend="italics">Constantine</hi>, afterwards a very learned physician, and president of the college of physicians in <hi rend="italics">Dublin</hi>. See vol. XX. p. 250.── The Dean, in his will, bequeathed to Mrs. <hi rend="italics">Barber</hi> “the medal of queen “<hi rend="italics">Anne</hi> and prince <hi rend="italics">George</hi>, which she formerly gave me.”.</note> I call,</l>
+            <l xml:id="swift-M40971H1-line-2" n="2">To consult for <hi rend="italics">Sapphira</hi><note place="foot">·The name by which Mrs. <hi rend="italics">Barber</hi> was distinguished by her friends.</note>; so come one and all;</l>
+            <l xml:id="swift-M40971H1-line-3" n="3">Quit books, and quit business, your cure and your care,</l>
+            <l xml:id="swift-M40971H1-line-4" n="4">For a long winding walk, and short bill of fare.</l>
+            <l xml:id="swift-M40971H1-line-5" n="5">I've mutton for you, Sir; and as for the ladies,</l>
+            <l xml:id="swift-M40971H1-line-6" n="6">As friend <hi rend="italics">Virgil</hi> has it; I've <hi rend="italics">aliud mercedes</hi>;</l>
+            <l xml:id="swift-M40971H1-line-7" n="7">For <hi rend="italics">Letty</hi><note place="foot">·Mrs. <hi rend="italics">Pilkington</hi>.</note>, one filbert, whereon to regale;</l>
+            <l xml:id="swift-M40971H1-line-8" n="8">And a peach for pale <hi rend="italics">Constance</hi><note place="foot">·Mrs. <hi rend="italics">Constantia Grierson</hi>, a native of <hi rend="italics">Kilkenny</hi>, who died in 1733, at the age of 27. She was well versed in <hi rend="italics">Greek</hi> and <hi rend="italics">Roman</hi> Literature, History, Divinity, Philosophy, and Mathematicks. She gave a proof of her knowledge of the <hi rend="italics">Latin</hi> tongue, by her dedication of the <hi rend="italics">Dublin</hi> edition of <hi rend="italics">Tacitus</hi> to the Lord <hi rend="italics">Carteret</hi>, and by that of <hi rend="italics">Terence</hi> to his Son, to whom she likewise wrote a <hi rend="italics">Greek</hi> epigram. Lord <hi rend="italics">Carteret</hi> obtained a patent for Mr. <hi rend="italics">George Grierson</hi>, her husband, to be king's printer in <hi rend="italics">Ireland</hi>; and, to distinguish and reward her extraordinary merit, had her life inserted in it. See the Preface to Mrs. <hi rend="italics">Barber's</hi> poems.</note>, to make a full meal;</l>
+            <l xml:id="swift-M40971H1-line-9" n="9">And for your cruel part<note place="foot">·Mrs. <hi rend="italics">Van Lowen</hi> (Mrs. <hi rend="italics">Pilkington's</hi> mother), who used to argue with Dr. <hi rend="italics">Swift</hi>, about his declamation against eating blood.</note>, who take pleasure in blood,</l>
+            <l xml:id="swift-M40971H1-line-10" n="10">I have that of the grape, which is ten times as good:</l>
+            <l xml:id="swift-M40971H1-line-11" n="11">Flow wit to her honour, flow wine to her health;</l>
+            <l xml:id="swift-M40971H1-line-12" n="12">High rais'd be her worth, above titles or wealth.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

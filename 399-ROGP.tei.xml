@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Clever Tom Clinch Going to be Hanged</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="399-ROGP">
+          <head type="note" n="1" xml:id="spp-399-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-399-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-399-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-399-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-399-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-399-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-399-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-399-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-399-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-399-ROGP-line-1" n="1">As clever Tom Clinch, while the rabble was bawling,</l>
+            <l xml:id="swift-399-ROGP-line-2" n="2">Rode stately through Holborn, to die in his calling;</l>
+            <l xml:id="swift-399-ROGP-line-3" n="3">He stopped at the George for a bottle of sack,</l>
+            <l xml:id="swift-399-ROGP-line-4" n="4">And promised to pay for it when he came back.</l>
+            <l xml:id="swift-399-ROGP-line-5" n="5">His waistcoat and stockings, and breeches were white,</l>
+            <l xml:id="swift-399-ROGP-line-6" n="6">His cap had a new cherry ribbon to tie't.</l>
+            <l xml:id="swift-399-ROGP-line-7" n="7">The maids to the doors and the balconies ran,</l>
+            <l xml:id="swift-399-ROGP-line-8" n="8">And said, lackaday, he's a proper young man.</l>
+            <l xml:id="swift-399-ROGP-line-9" n="9">But, as from the windows the ladies he spied,</l>
+            <l xml:id="swift-399-ROGP-line-10" n="10">Like a beau in the box, he bowed low on each side;</l>
+            <l xml:id="swift-399-ROGP-line-11" n="11">And when his last speech the hawkers did cry,</l>
+            <l xml:id="swift-399-ROGP-line-12" n="12">He swore from his cart, it was all a damned lie.</l>
+            <l xml:id="swift-399-ROGP-line-13" n="13">The hangman for pardon fell down on his knee;</l>
+            <l xml:id="swift-399-ROGP-line-14" n="14">Tom gave him a kick in the guts for his fee.</l>
+            <l xml:id="swift-399-ROGP-line-15" n="15">Then said, 'I must speak to the people a little,</l>
+            <l xml:id="swift-399-ROGP-line-16" n="16">But I'll see you all damned before I will whittle.</l>
+            <l xml:id="swift-399-ROGP-line-17" n="17">My honest friend Wild, may he long hold his place,</l>
+            <l xml:id="swift-399-ROGP-line-18" n="18">He lengthened my life with a whole year of grace.</l>
+            <l xml:id="swift-399-ROGP-line-19" n="19">Take courage, dear comrades, and be not afraid,</l>
+            <l xml:id="swift-399-ROGP-line-20" n="20">Nor slip this occasion to follow your trade.</l>
+            <l xml:id="swift-399-ROGP-line-21" n="21">My conscience is clear, and my spirits are calm,</l>
+            <l xml:id="swift-399-ROGP-line-22" n="22">And thus I go off without prayer-book or psalm.'</l>
+            <l xml:id="swift-399-ROGP-line-23" n="23">Then follow the practice of clever Tom Clinch,</l>
+            <l xml:id="swift-399-ROGP-line-24" n="24">Who hung like a hero, and never would flinch.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Ode to the Honourable Sir William Temple</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="026-ROGP">
+          <head type="note" n="1" xml:id="spp-026-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-026-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-026-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-026-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-026-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-026-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-026-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-026-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-026-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-026-ROGP-line-1" n="1">Virtue, the greatest of all monarchies,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-2" n="2">|Till its first emperor rebellious man</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-3" n="3">Deposed from off his seat</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-4" n="4">It fell, and broke with its own weight</l>
+            <l xml:id="swift-026-ROGP-line-5" n="5">Into small states and principalities,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-6" n="6">By many a petty lord possessed,</l>
+            <l xml:id="swift-026-ROGP-line-7" n="7">But ne'er since seated in one single breast.</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-8" n="8">||'Tis you who must this land subdue,</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-9" n="9">||The mighty conquest's left for you,</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-10" n="10">||The conquest and discovery too:</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-11" n="11">||Search out this Utopian ground,</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-12" n="12">||Virtue's <hi rend="italics">Terra incognita</hi>,</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-13" n="13">||Where none ever led the way,</l>
+            <l xml:id="swift-026-ROGP-line-14" n="14">Nor ever since but in descriptions found,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-15" n="15">Like the philosopher's stone,</l>
+            <l xml:id="swift-026-ROGP-line-16" n="16">With rules to search it, yet obtained by none.</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-17" n="17"><lb/>II_We have too long been led astray,</l>
+            <l xml:id="swift-026-ROGP-line-18" n="18">Too long have our misguided souls been taught</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-19" n="19">With rules from musty morals brought,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-20" n="20">'Tis you must put us in the way;</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-21" n="21">Let us (for shame) no more be fed</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-22" n="22">With antique relics of the dead,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-23" n="23">The gleanings of philosophy,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-24" n="24">Philosophy! the lumber of the schools,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-25" n="25">The roguery of alchemy,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-26" n="26">|And we bubbled fools</l>
+            <l xml:id="swift-026-ROGP-line-27" n="27">Spend all our present stock in hopes of golden rules.</l>
+            <l xml:id="swift-026-ROGP-line-28" n="28"><lb/>III_But what does our proud ignorance learning call,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-29" n="29">We oddly Plato's paradox make good,</l>
+            <l xml:id="swift-026-ROGP-line-30" n="30">Our knowledge is but mere remembrance all,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-31" n="31">Remembrance is our treasure and our food;</l>
+            <l xml:id="swift-026-ROGP-line-32" n="32">Nature's fair table-book our tender souls</l>
+            <l xml:id="swift-026-ROGP-line-33" n="33">We scrawl all o'er with old and empty rules,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-34" n="34">Stale memorandums of the schools;</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-35" n="35">For learning's mighty treasures look</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-36" n="36">|In that deep grave a book,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-37" n="37">Think she there does all her treasures hide,</l>
+            <l xml:id="swift-026-ROGP-line-38" n="38">And that her troubled ghost still haunts there since she died;</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-39" n="39">Confine her walks to colleges and schools,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-40" n="40">|Her priests, her train and followers show</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-41" n="41">|As if they all were spectres too,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-42" n="42">|They purchase knowledge at the expense</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-43" n="43">|Of common breeding, common sense,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-44" n="44">|And at once grow scholars and fools;</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-45" n="45">|Affect ill-mannered pedantry,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-46" n="46">Rudeness, ill-nature, incivility,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-47" n="47">|And sick with dregs of knowledge grown,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-48" n="48">|Which greedily they swallow down,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-49" n="49">Still cast it up and nauseate company.</l>
+            <l xml:id="swift-026-ROGP-line-50" n="50"><lb/>IV_Cursed be the wretch, nay doubly cursed,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-51" n="51">|(If it may lawful be</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-52" n="52">To curse our greatest enemy)</l>
+            <l xml:id="swift-026-ROGP-line-53" n="53">Who learnt himself that heresy first</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-54" n="54">(Which since has seized on all the rest)</l>
+            <l xml:id="swift-026-ROGP-line-55" n="55">That knowledge forfeits all humanity;</l>
+            <l xml:id="swift-026-ROGP-line-56" n="56">Taught us, like Spaniards, to be proud and poor,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-57" n="57">And fling our scraps before our door,</l>
+            <l xml:id="swift-026-ROGP-line-58" n="58">Thrice happy you have 'scaped this general pest;</l>
+            <l xml:id="swift-026-ROGP-line-59" n="59">Those mighty epithets, learned, good, and great,</l>
+            <l xml:id="swift-026-ROGP-line-60" n="60">Which we ne'er joined before, but in romances meet,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-61" n="61">We find in you at last united grown.</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-62" n="62">|You cannot be compared to one,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-63" n="63">I must, like him that painted Venus' face,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-64" n="64">Borrow from everyone a grace;</l>
+            <l xml:id="swift-026-ROGP-line-65" n="65">Virgil and Epicurus will not do,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-66" n="66">Their courting a retreat like you,</l>
+            <l xml:id="swift-026-ROGP-line-67" n="67">Unless I put in Caesar's learning too,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-68" n="68">|Your happy frame at once controls</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-69" n="69">|This great triumvirate of souls.</l>
+            <l xml:id="swift-026-ROGP-line-70" n="70">V<lb/>Let not old Rome boast Fabius' fate,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-71" n="71">He saved his country by delays,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-72" n="72">|But you by peace,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-73" n="73">You bought it at a cheaper rate;</l>
+            <l xml:id="swift-026-ROGP-line-74" n="74">Nor has it left the usual bloody scar,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-75" n="75">To show it cost its price in war,</l>
+            <l xml:id="swift-026-ROGP-line-76" n="76">War! that mad game, the world so loves to play,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-77" n="77">And for it does so dearly pay;</l>
+            <l xml:id="swift-026-ROGP-line-78" n="78">For though with loss or victory awhile</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-79" n="79">Fortune the gamesters does beguile,</l>
+            <l xml:id="swift-026-ROGP-line-80" n="80">Yet at the last the box sweeps all away.</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-81" n="81"><lb/>VI_Only the laurel got by peace</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-82" n="82">|No thunder e'er can blast,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-83" n="83">The artillery of the skies</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-84" n="84">Shoots to the earth and dies;</l>
+            <l xml:id="swift-026-ROGP-line-85" n="85">Forever green and flourishing 'twill last,</l>
+            <l xml:id="swift-026-ROGP-line-86" n="86">Nor dipped in blood, nor widow's tears, nor orphan's cries:</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-87" n="87">About the head crowned with these bays,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-88" n="88">Like lambent fire the lightning plays;</l>
+            <l xml:id="swift-026-ROGP-line-89" n="89">Nor its triumphal cavalcade to grace</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-90" n="90">Make up its solemn train with death;</l>
+            <l xml:id="swift-026-ROGP-line-91" n="91">It melts the sword, yet keeps it in its sheath.</l>
+            <l xml:id="swift-026-ROGP-line-92" n="92"><lb/>VII_The wily shafts of state, those juggler's tricks</l>
+            <l xml:id="swift-026-ROGP-line-93" n="93">Which we call deep design and politics</l>
+            <l xml:id="swift-026-ROGP-line-94" n="94">(As in a theatre the ignorant fry,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-95" n="95">Because the cords escape their eye</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-96" n="96">Wonder to see the motions fly)</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-97" n="97">Methinks, when you expose the scene,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-98" n="98">Down the ill-organed engines fall;</l>
+            <l xml:id="swift-026-ROGP-line-99" n="99">Off fly the vizards and discover all,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-100" n="100">How plain I see through the deceit!</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-101" n="101">How shallow! and how gross the cheat!</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-102" n="102">Look where the pulley's tied above!</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-103" n="103">Great God! (said I) what have I seen!</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-104" n="104">|On what poor engines move</l>
+            <l xml:id="swift-026-ROGP-line-105" n="105">The thoughts of monarchs, and designs of states,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-106" n="106">What petty motives rule their fates!</l>
+            <l xml:id="swift-026-ROGP-line-107" n="107">How the mouse makes the mighty mountain shake!</l>
+            <l xml:id="swift-026-ROGP-line-108" n="108">The mighty mountain labours with its birth,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-109" n="109">Away the frighted peasants fly,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-110" n="110">Scared at the unheard-of prodigy,</l>
+            <l xml:id="swift-026-ROGP-line-111" n="111">Expect some great gigantic son of earth;</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-112" n="112">|Lo, it appears!</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-113" n="113">See, how they tremble! how they quake!</l>
+            <l xml:id="swift-026-ROGP-line-114" n="114">Out starts the little beast, and mocks their idle fears.</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-115" n="115"><lb/>VIII_|Then tell (dear favourite muse)</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-116" n="116">What serpent's that which still resorts,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-117" n="117">Still lurks in palaces and courts,</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-118" n="118">||Take thy unwonted flight,</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-119" n="119">||And on the terrace light.</l>
+            <l rend="indent(4)" xml:id="swift-026-ROGP-line-120" n="120">|||See where she lies!</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-121" n="121">||See how she rears her head,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-122" n="122">And rolls about her dreadful eyes,</l>
+            <l xml:id="swift-026-ROGP-line-123" n="123">To drive all virtue out, or look it dead!</l>
+            <l xml:id="swift-026-ROGP-line-124" n="124">'Twas sure this basilisk sent Temple thence,</l>
+            <l xml:id="swift-026-ROGP-line-125" n="125">And though as some ('tis said) for their defence</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-126" n="126">Have worn a casement o'er their skin,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-127" n="127">|So he wore his within,</l>
+            <l xml:id="swift-026-ROGP-line-128" n="128">Made up of virtue and transparent innocence:</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-129" n="129">And though he oft renewed the fight,</l>
+            <l xml:id="swift-026-ROGP-line-130" n="130">And almost got priority of sight,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-131" n="131">He ne'er could overcome her quite,</l>
+            <l xml:id="swift-026-ROGP-line-132" n="132">(In pieces cut, the viper still did reunite)</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-133" n="133">Till at last tired with loss of time and ease,</l>
+            <l xml:id="swift-026-ROGP-line-134" n="134">Resolved to give himself, as well as country peace.</l>
+            <l xml:id="swift-026-ROGP-line-135" n="135"><lb/>IX_Sing (beloved muse) the pleasures of retreat,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-136" n="136">And in some untouched virgin strain</l>
+            <l xml:id="swift-026-ROGP-line-137" n="137">Show the delights thy sister Nature yields,</l>
+            <l xml:id="swift-026-ROGP-line-138" n="138">Sing of thy vales, sing of thy woods, sing of thy fields;</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-139" n="139">|Go publish o'er the plain</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-140" n="140">How mighty a proselyte you gain!</l>
+            <l xml:id="swift-026-ROGP-line-141" n="141">How noble a reprisal on the great!</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-142" n="142">|How is the muse luxuriant grown,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-143" n="143">|Whene'er she takes this flight</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-144" n="144">||She soars clear out of sight,</l>
+            <l xml:id="swift-026-ROGP-line-145" n="145">These are the paradises of her own;</l>
+            <l xml:id="swift-026-ROGP-line-146" n="146">(The Pegasus, like an unruly horse</l>
+            <l rend="indent(3)" xml:id="swift-026-ROGP-line-147" n="147">||Though ne'er so gently led</l>
+            <l xml:id="swift-026-ROGP-line-148" n="148">To the loved pasture where he used to feed,</l>
+            <l xml:id="swift-026-ROGP-line-149" n="149">Runs violently o'er his usual course.)</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-150" n="150">|Wake from thy wanton dreams,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-151" n="151">|Come from thy dear-loved streams,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-152" n="152">The crooked paths of wandering Thames.</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-153" n="153">|Fain the nymph would stay,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-154" n="154">|Oft she looks back in vain,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-155" n="155">Oft 'gainst her fountain does complain,</l>
+            <l xml:id="swift-026-ROGP-line-156" n="156">And softly steals in many windings down,</l>
+            <l xml:id="swift-026-ROGP-line-157" n="157">As loath to see the hated court and town,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-158" n="158">And murmurs as she glides away.</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-159" n="159"><lb/>X_|In this new happy scene</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-160" n="160">Are nobler subjects for your learned pen;</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-161" n="161">|Here we expect from you</l>
+            <l xml:id="swift-026-ROGP-line-162" n="162">More than your predecessor, Adam, knew;</l>
+            <l xml:id="swift-026-ROGP-line-163" n="163">Whatever moves our wonder or our sport,</l>
+            <l xml:id="swift-026-ROGP-line-164" n="164">Whatever serves for innocent emblems of the court;</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-165" n="165">How that which we a kernel see,</l>
+            <l xml:id="swift-026-ROGP-line-166" n="166">Whose well-compacted forms escape the light,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-167" n="167">Unpierced by the blunt rays of sight,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-168" n="168">Shall e'er long grow into a tree,</l>
+            <l xml:id="swift-026-ROGP-line-169" n="169">Whence takes it its increase, and whence its birth</l>
+            <l xml:id="swift-026-ROGP-line-170" n="170">Or from the sun, or from the air, or from the earth,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-171" n="171">|Where all the fruitful atoms lie,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-172" n="172">|How some go downwards to the root,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-173" n="173">Some more ambitiously upwards fly,</l>
+            <l xml:id="swift-026-ROGP-line-174" n="174">And form the leaves, the branches, and the fruit,</l>
+            <l xml:id="swift-026-ROGP-line-175" n="175">You strove to cultivate a barren court in vain,</l>
+            <l xml:id="swift-026-ROGP-line-176" n="176">Your garden's better worth your noble pain,</l>
+            <l xml:id="swift-026-ROGP-line-177" n="177">Hence mankind fell, and here must rise again.</l>
+            <l xml:id="swift-026-ROGP-line-178" n="178"><lb/>XI_Shall I believe a spirit so divine</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-179" n="179">Was cast in the same mould with mine?</l>
+            <l xml:id="swift-026-ROGP-line-180" n="180">Why then does Nature so unjustly share</l>
+            <l xml:id="swift-026-ROGP-line-181" n="181">Among her elder sons the whole estate</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-182" n="182">And all her jewels and her plate?</l>
+            <l xml:id="swift-026-ROGP-line-183" n="183">Poor we cadets of heaven, not worth her care,</l>
+            <l xml:id="swift-026-ROGP-line-184" n="184">Take up at best with lumber and the leavings of a fate:</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-185" n="185">Some she binds prentice to the spade,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-186" n="186">Some to the drudgery of a trade,</l>
+            <l xml:id="swift-026-ROGP-line-187" n="187">Some she does to Egyptian bondage draw,</l>
+            <l xml:id="swift-026-ROGP-line-188" n="188">Bids us make bricks, yet sends us to look out for straw;</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-189" n="189">Some she condemns for life to try</l>
+            <l xml:id="swift-026-ROGP-line-190" n="190">To dig the leaden mines of deep philosophy:</l>
+            <l xml:id="swift-026-ROGP-line-191" n="191">Me she has to the muse's galleys tied,</l>
+            <l xml:id="swift-026-ROGP-line-192" n="192">In vain I strive to cross this spacious main,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-193" n="193">In vain I tug and pull the oar,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-194" n="194">And when I almost reach the shore</l>
+            <l xml:id="swift-026-ROGP-line-195" n="195">Straight the muse turns the helm, and I launch out again;</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-196" n="196">|And yet to feed my pride,</l>
+            <l xml:id="swift-026-ROGP-line-197" n="197">Whene'er I mourn, stops my complaining breath,</l>
+            <l xml:id="swift-026-ROGP-line-198" n="198">With promise of a mad reversion after death.</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-199" n="199"><lb/>XII_Then (sir) accept this worthless verse,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-200" n="200">|The tribute of an humble muse,</l>
+            <l xml:id="swift-026-ROGP-line-201" n="201">'Tis all the portion of my niggard stars;</l>
+            <l xml:id="swift-026-ROGP-line-202" n="202">Nature the hidden spark did at my birth infuse,</l>
+            <l xml:id="swift-026-ROGP-line-203" n="203">And kindled first with indolence and ease,</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-204" n="204">And since too oft debauched by praise,</l>
+            <l xml:id="swift-026-ROGP-line-205" n="205">'Tis now grown an incurable disease:</l>
+            <l xml:id="swift-026-ROGP-line-206" n="206">In vain to quench this foolish fire I try</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-207" n="207">In wisdom and philosophy;</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-208" n="208">In vain all wholesome herbs I sow,</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-209" n="209">|Where nought but weeds will grow.</l>
+            <l xml:id="swift-026-ROGP-line-210" n="210">Whate'er I plant (like corn on barren earth)</l>
+            <l rend="indent(2)" xml:id="swift-026-ROGP-line-211" n="211">|By an equivocal birth</l>
+            <l rend="indent(1)" xml:id="swift-026-ROGP-line-212" n="212">Seeds and runs up to poetry.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-M65133BB-title-1"><hi rend="italics">On Dean</hi> S───<hi rend="small-caps">T</hi>'<hi rend="italics">s asserting the Superiority of the Antients<lb/>  over the Moderns</hi>. <ref target="#spp-M65133BB-footnote-title-1">1</ref><note n="1" xml:id="spp-M65133BB-footnote-title-1" place="foot">Vide<hi rend="italics"> Battle of the Books in </hi>St. James<hi rend="italics">'s Library</hi></note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 4DE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M65133BB-footnote-title-1 #spp-M65133BB-title-1"/>
+        </linkGrp>
+        <div n="M65133BB">
+          <head type="note" n="1" xml:id="spp-M65133BB-headnote-1">
+            <lg n="1" xml:id="spp-M65133BB-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M65133BB-headnote-1-line-group-1-line-1"><hi rend="italics">The following Copy of Verses came from </hi>Ireland<hi rend="italics">, and are a handsome Compliment to a Gentleman who is an Honour to his Country, and whose Name is well known among the Learned World in most Parts of</hi> Europe.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M65133BB-headnote-2">
+            <lg n="1" xml:id="spp-M65133BB-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M65133BB-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M65133BB-headnote-3">
+            <lg n="1" xml:id="spp-M65133BB-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M65133BB-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M65133BB-line-1" n="1"><hi rend="display-initial">W</hi>Hile the <hi rend="italics">D--n</hi>, with more Wit than Man ever wanted,</l>
+            <l xml:id="swift-M65133BB-line-2" n="2">Or at least more than Heaven to Man ever granted,</l>
+            <l xml:id="swift-M65133BB-line-3" n="3">Endeavours to prove how the Antients in Knowledge,</l>
+            <l xml:id="swift-M65133BB-line-4" n="4">Have excell'd our Adepts of each modern College;</l>
+            <l xml:id="swift-M65133BB-line-5" n="5">How by Heroes of old our Chiefs are surpass'd,</l>
+            <l xml:id="swift-M65133BB-line-6" n="6">In each useful Science, true Learning, and Taste:</l>
+            <l xml:id="swift-M65133BB-line-7" n="7">While thus he behaves with more Courage than Manners,</l>
+            <l xml:id="swift-M65133BB-line-8" n="8">And fights for the Foe, deserting our Banners:</l>
+            <l xml:id="swift-M65133BB-line-9" n="9">While <hi rend="italics">Bently</hi>, and <hi rend="italics">Wotton</hi>, our Champions, he foils,</l>
+            <l xml:id="swift-M65133BB-line-10" n="10">And wants neither <hi rend="italics">Temple</hi>'s Assistance, nor <hi rend="italics">Boyle</hi>'s;</l>
+            <l xml:id="swift-M65133BB-line-11" n="11">In Spite of his Learning, fine Reasons, and Stile,</l>
+            <l xml:id="swift-M65133BB-line-12" n="12">(Wou'd ye think it?) He favours our Cause all the while;</l>
+            <l xml:id="swift-M65133BB-line-13" n="13">We raise by his Conquest our Glory the higher,</l>
+            <l xml:id="swift-M65133BB-line-14" n="14">And from a Defeat to a Triumph aspire:</l>
+            <l xml:id="swift-M65133BB-line-15" n="15">Our great Brother Modern, the Boast of our Days,</l>
+            <l xml:id="swift-M65133BB-line-16" n="16">Unconscious, has gain'd for our Party the Bays:</l>
+            <l xml:id="swift-M65133BB-line-17" n="17">St. <hi rend="italics">James</hi>'s old Authors, so fam'd on each Shelf,</l>
+            <l xml:id="swift-M65133BB-line-18" n="18">Are vanquish'd by what he has written himself.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

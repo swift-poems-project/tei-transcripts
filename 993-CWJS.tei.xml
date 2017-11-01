@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On the foregoing Picture</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AMP 17NO95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JIF 21SE07 agt 993-10M1; √'d JW 26OC08 agt WILH; ed. JW 22AU09; EMENDED JW 18AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="993-CWJS">
+          <head type="note" n="1" xml:id="spp-993-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-993-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-993-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-993-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-993-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-993-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-993-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-993-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-993-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-993-CWJS-line-1" n="1">
+              <hi rend="display-initial">W<hi rend="small-caps">HILST</hi> you three merry Poets traffick</hi>
+            </l>
+            <l xml:id="swift-993-CWJS-line-2" n="2">To give us a Description graphick</l>
+            <l xml:id="swift-993-CWJS-line-3" n="3">Of <hi rend="italics">Dan</hi>'s large Nose, in modern Saphick,</l>
+            <l xml:id="swift-993-CWJS-line-4" n="4"><lb/>I spend my Time in making Sermons,</l>
+            <l xml:id="swift-993-CWJS-line-5" n="5">Or writing Libels on the <hi rend="italics">G──────s</hi>,</l>
+            <l xml:id="swift-993-CWJS-line-6" n="6">Or murmuring at Whigs Preferments.</l>
+            <l xml:id="swift-993-CWJS-line-7" n="7"><lb/>But when I would find Rhime for <hi rend="italics">Rochfort</hi>,</l>
+            <l xml:id="swift-993-CWJS-line-8" n="8">And look in <hi rend="italics">English, French</hi>, and <hi rend="italics">Scotch</hi> for't,</l>
+            <l xml:id="swift-993-CWJS-line-9" n="9">At last I'm fairly forc'd to botch for't.</l>
+            <l xml:id="swift-993-CWJS-line-10" n="10"><lb/>Bid Lady <hi rend="italics">Betty</hi> recollect her,</l>
+            <l xml:id="swift-993-CWJS-line-11" n="11">And tell who was it could direct her</l>
+            <l xml:id="swift-993-CWJS-line-12" n="12">To draw the Face of such a Spectre.</l>
+            <l xml:id="swift-993-CWJS-line-13" n="13"><lb/>I must confess that as to me, Sirs,</l>
+            <l xml:id="swift-993-CWJS-line-14" n="14">Tho' I ne'er saw her hold the Scissars,</l>
+            <l xml:id="swift-993-CWJS-line-15" n="15">I now could safely swear it is hers.</l>
+            <l xml:id="swift-993-CWJS-line-16" n="16"><lb/>'Tis true, no Nose could come in better,</l>
+            <l xml:id="swift-993-CWJS-line-17" n="17">'Tis a vast Subject stuff'd with Matter,</l>
+            <l xml:id="swift-993-CWJS-line-18" n="18">Which all may handle, none can flatter.</l>
+            <l xml:id="swift-993-CWJS-line-19" n="19"><lb/>Take Courage, <hi rend="italics">Dan</hi>, this plainly shows</l>
+            <l xml:id="swift-993-CWJS-line-20" n="20">That not the wisest Mortal knows</l>
+            <l xml:id="swift-993-CWJS-line-21" n="21">What Fortune may befall his Nose.</l>
+            <l xml:id="swift-993-CWJS-line-22" n="22"><lb/>Shew me the brightest <hi rend="italics">Irish</hi> Toast,</l>
+            <l xml:id="swift-993-CWJS-line-23" n="23">Who from her Lover e'er could boast,</l>
+            <l xml:id="swift-993-CWJS-line-24" n="24">Above a Song or two at most:</l>
+            <l xml:id="swift-993-CWJS-line-25" n="25"><lb/>For thee three Poets now are drudging all,</l>
+            <l xml:id="swift-993-CWJS-line-26" n="26">To praise the Cheeks, Chin, Nose the Bridge and all,</l>
+            <l xml:id="swift-993-CWJS-line-27" n="27">Both of the Picture and Original.</l>
+            <l xml:id="swift-993-CWJS-line-28" n="28"><lb/>Thy Nose's Length and Fame extend</l>
+            <l xml:id="swift-993-CWJS-line-29" n="29">So far, dear <hi rend="italics">Dan</hi>, that ev'ry Friend</l>
+            <l xml:id="swift-993-CWJS-line-30" n="30">Tries who shall have it by the End.</l>
+            <l xml:id="swift-993-CWJS-line-31" n="31"><lb/>And future Poets, as they rise,</l>
+            <l xml:id="swift-993-CWJS-line-32" n="32">Shall read with Envy and Surprize,</l>
+            <l xml:id="swift-993-CWJS-line-33" n="33">Thy Nose outshining <hi rend="italics">Cælia</hi>'s Eyes,<lb/><space>S<hi rend="small-caps">WIFT</hi>/hi&gt;.</space></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

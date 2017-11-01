@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Description<lb/>  of a Salamander.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 22JE96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="082-002D">
+          <head type="note" n="1" xml:id="spp-082-002D-headnote-1">
+            <lg n="1" xml:id="spp-082-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-002D-headnote-1-line-group-1-line-1">Anno 1705.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-082-002D-headnote-2">
+            <lg n="1" xml:id="spp-082-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-002D-headnote-2-line-group-1-line-1">Out of Pliny's Nat: Hist. L.10.C.67. and L.29.C.4.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-082-002D-headnote-3">
+            <lg n="1" xml:id="spp-082-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-082-002D-line-1" n="1">As Mastive Dogs in Modern Phrase are</l>
+            <l xml:id="swift-082-002D-line-2" n="2">Call'd Pompey, Scipio, and Cæsar;</l>
+            <l xml:id="swift-082-002D-line-3" n="3">As Pyes, and Daws are often stil'd</l>
+            <l xml:id="swift-082-002D-line-4" n="4">With Christian Nick-names, like a Child;</l>
+            <l xml:id="swift-082-002D-line-5" n="5">As We say Monsieur, to an Ape,</l>
+            <l xml:id="swift-082-002D-line-6" n="6">Without Offence to humane Shape;</l>
+            <l xml:id="swift-082-002D-line-7" n="7">So Men have got from Bird and Brute</l>
+            <l xml:id="swift-082-002D-line-8" n="8">Names that wou'd best their Natures suit:</l>
+            <l xml:id="swift-082-002D-line-9" n="9">The Lion, Eagle, and the Bear</l>
+            <l xml:id="swift-082-002D-line-10" n="10">Were Heroes Titles heretofore</l>
+            <l xml:id="swift-082-002D-line-11" n="11">Bestow'd as Hieroglyphicks fit</l>
+            <l xml:id="swift-082-002D-line-12" n="12">T'Express their Valour, Strength or Wit.</l>
+            <l xml:id="swift-082-002D-line-13" n="13">For what is understood by Fame</l>
+            <l xml:id="swift-082-002D-line-14" n="14">Beside the getting of a Name?</l>
+            <l xml:id="swift-082-002D-line-15" n="15">But e'er since Men invented Guns</l>
+            <l xml:id="swift-082-002D-line-16" n="16">A diff'rent Way their Fancy runs:</l>
+            <l xml:id="swift-082-002D-line-17" n="17">To Paint a Hero, We Enquier</l>
+            <l xml:id="swift-082-002D-line-18" n="18">For something that will Conquer Fire.</l>
+            <l xml:id="swift-082-002D-line-19" n="19">Would You describe Turenne, or Trump,</l>
+            <l xml:id="swift-082-002D-line-20" n="20">Think of a Bucket, or a Pump?</l>
+            <l xml:id="swift-082-002D-line-21" n="21">Are these too Low?──── then find out Grandeur,</l>
+            <l xml:id="swift-082-002D-line-22" n="22">Call My Lord Cutts a Salamander.</l>
+            <l xml:id="swift-082-002D-line-23" n="23">'Tis Well.──── But since We Live among</l>
+            <l xml:id="swift-082-002D-line-24" n="24">Detractors with an Evill Tongue,</l>
+            <l xml:id="swift-082-002D-line-25" n="25">Who may Object against the Term,</l>
+            <l xml:id="swift-082-002D-line-26" n="26">Pliny shall prove what We affirm:</l>
+            <l xml:id="swift-082-002D-line-27" n="27">Pliny shall prove, and We'll apply,</l>
+            <l xml:id="swift-082-002D-line-28" n="28">And I'll be Judg'd by Standers-by.</l>
+            <l rend="indent(1)" xml:id="swift-082-002D-line-29" n="29">First then our Author has defin'd</l>
+            <l xml:id="swift-082-002D-line-30" n="30">This Reptil, of the Serpent kind,</l>
+            <l xml:id="swift-082-002D-line-31" n="31">With Gawdy Coat, and shining Train,</l>
+            <l xml:id="swift-082-002D-line-32" n="32">But Loathsom spots his Body stain:</l>
+            <l xml:id="swift-082-002D-line-33" n="33">Out from some hole obscure he flies,</l>
+            <l xml:id="swift-082-002D-line-34" n="34">When Rains descend, and Tempests Rise,</l>
+            <l xml:id="swift-082-002D-line-35" n="35">'Till the Sun clears the Air; and then</l>
+            <l xml:id="swift-082-002D-line-36" n="36">Crawls back neglected to his Den.</l>
+            <l rend="indent(1)" xml:id="swift-082-002D-line-37" n="37">So when the War has rais'd a Storm</l>
+            <l xml:id="swift-082-002D-line-38" n="38">I've seen a Snake in human Form,</l>
+            <l xml:id="swift-082-002D-line-39" n="39">All stain'd with Infamy and Vice</l>
+            <l xml:id="swift-082-002D-line-40" n="40">Leap from the Dunghill in a Trice</l>
+            <l xml:id="swift-082-002D-line-41" n="41">Burnish and make a Gawdy Show,</l>
+            <l xml:id="swift-082-002D-line-42" n="42">Become a General, Peer, and Beau,</l>
+            <l xml:id="swift-082-002D-line-43" n="43">'Till Peace hath made the Sky Serene</l>
+            <l xml:id="swift-082-002D-line-44" n="44">Then shrink into its Hole again.</l>
+            <l rend="indent(2)" xml:id="swift-082-002D-line-45" n="45">|All this We grant── why then Look Yonder</l>
+            <l rend="indent(2)" xml:id="swift-082-002D-line-46" n="46">|Sure that must be a Salamander!</l>
+            <l rend="indent(1)" xml:id="swift-082-002D-line-47" n="47">Farther we are by Pliny told,</l>
+            <l xml:id="swift-082-002D-line-48" n="48">This Serpent is Extreamly cold,</l>
+            <l xml:id="swift-082-002D-line-49" n="49">So cold that put it in the fire</l>
+            <l xml:id="swift-082-002D-line-50" n="50">'Twill make the Very Flames Expire.</l>
+            <l xml:id="swift-082-002D-line-51" n="51">Besides it spues a filthy Froth,</l>
+            <l xml:id="swift-082-002D-line-52" n="52">(Whether thro' Rage, or Love or both)</l>
+            <l xml:id="swift-082-002D-line-53" n="53">Of matter purulent and White,</l>
+            <l xml:id="swift-082-002D-line-54" n="54">Which hapening on the skin to Light,</l>
+            <l xml:id="swift-082-002D-line-55" n="55">And there Corrupting to a Wound,</l>
+            <l xml:id="swift-082-002D-line-56" n="56">Spreads Leprosy and Baldness round.</l>
+            <l rend="indent(1)" xml:id="swift-082-002D-line-57" n="57">So have I seen a Batter'd Beau,</l>
+            <l xml:id="swift-082-002D-line-58" n="58">By Age and Claps grown cold as Snow,</l>
+            <l xml:id="swift-082-002D-line-59" n="59">Whose Breath, or Touch, where e'er he came,</l>
+            <l xml:id="swift-082-002D-line-60" n="60">Blew out Love's Torch, or Chil'd the Flame:</l>
+            <l xml:id="swift-082-002D-line-61" n="61">And shou'd some Nymph, who ne'er was Cruel,</l>
+            <l xml:id="swift-082-002D-line-62" n="62">Like Carleton Cheap, or Fam'd Duruell,</l>
+            <l xml:id="swift-082-002D-line-63" n="63">Receive the Filth which he ejects,</l>
+            <l xml:id="swift-082-002D-line-64" n="64">She soon wou'd find the same Effects,</l>
+            <l xml:id="swift-082-002D-line-65" n="65">Her tainted Carcase to pursue</l>
+            <l xml:id="swift-082-002D-line-66" n="66">As from the Salamander's spue;</l>
+            <l xml:id="swift-082-002D-line-67" n="67">A dismal shedding of her Locks</l>
+            <l xml:id="swift-082-002D-line-68" n="68">And, if no Leprosy, a Pox.</l>
+            <l rend="indent(2)" xml:id="swift-082-002D-line-69" n="69">|Then I'll appeal to each By-stander</l>
+            <l rend="indent(2)" xml:id="swift-082-002D-line-70" n="70">|Whether this ben't a Salamander?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

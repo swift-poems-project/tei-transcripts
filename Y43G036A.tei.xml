@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Nurses Song, by Dean Swift</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 13AP08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G036A">
+          <head type="note" n="1" xml:id="spp-Y43G036A-headnote-1">
+            <lg n="1" xml:id="spp-Y43G036A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G036A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y43G036A-headnote-2">
+            <lg n="1" xml:id="spp-Y43G036A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G036A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y43G036A-headnote-3">
+            <lg n="1" xml:id="spp-Y43G036A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G036A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-Y43G036A-line-1" n="1">1<lb/>Hey my kitten a kitten,_ And hey my kitten a deary;</l>
+            <l xml:id="swift-Y43G036A-line-2" n="2">Such a sweet babe as this<lb/> Is neither far nor neary.</l>
+            <l xml:id="swift-Y43G036A-line-3" n="3">Here we go up up up,<lb/> And here we go down down downy;</l>
+            <l xml:id="swift-Y43G036A-line-4" n="4">Here we go backwards &amp; forwards,<lb/> And here we go round round roundy.</l>
+            <l rend="center" xml:id="swift-Y43G036A-line-5" n="5">2<lb/>Chicky, cockow, my lily-cock;_ See, see, sic a downy;</l>
+            <l xml:id="swift-Y43G036A-line-6" n="6">Gallop, a trot trot trot,<lb/> And hey for Dublin towny.</l>
+            <l xml:id="swift-Y43G036A-line-7" n="7">This pig went to market;<lb/> Squeek, mouse, squeek-mouse, mousy;</l>
+            <l xml:id="swift-Y43G036A-line-8" n="8">Shoe, shoe, shoe, the wild colt;<lb/> And here's thy own dol dowsy.</l>
+            <l rend="center" xml:id="swift-Y43G036A-line-9" n="9">3<lb/>Where was a jewel and pretty?_ And where was a sugar and spicy?</l>
+            <l xml:id="swift-Y43G036A-line-10" n="10">Hush a by babe in a cradle,<lb/> And we'll go abroad in a tricy.</l>
+            <l xml:id="swift-Y43G036A-line-11" n="11">Did-a papa torment it?<lb/> Did-e vex his own baby, did-e?</l>
+            <l xml:id="swift-Y43G036A-line-12" n="12">Hush-a by babe in a bosie;<lb/> Take ous own sucky did-e?</l>
+            <l rend="center" xml:id="swift-Y43G036A-line-13" n="13">4<lb/>Good-morrow! a pudding is broke;_ Slaver's a thread of crystal;</l>
+            <l xml:id="swift-Y43G036A-line-14" n="14">Now the sweet posset comes up;<lb/> Who said my jewel was piss'd-all?</l>
+            <l xml:id="swift-Y43G036A-line-15" n="15">Come water, my chicken, come, cock;<lb/> Leave off, or he'll crawl ye he'll crawl ye.</l>
+            <l xml:id="swift-Y43G036A-line-16" n="16">Come, give me a hand, &amp; I'll beat him;<lb/> Who was it vexed my baby.</l>
+            <l rend="center" xml:id="swift-Y43G036A-line-17" n="17">5<lb/>Where was a laugh and a crow?_ And where was a giggling honey?</l>
+            <l xml:id="swift-Y43G036A-line-18" n="18">Goody good child shall be fed,<lb/> But naughty child shall get noney.</l>
+            <l xml:id="swift-Y43G036A-line-19" n="19">Get ye gone, raw-head and bloody-bone.<lb/> Here is a child that don't fear ye.</l>
+            <l xml:id="swift-Y43G036A-line-20" n="20">Come, pissy, pissy, my jewel;<lb/> And ik ik ay, my deary.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

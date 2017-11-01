@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 29JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="920-07H1">
+          <head type="note" n="1" xml:id="spp-920-07H1-headnote-1">
+            <lg n="1" xml:id="spp-920-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-920-07H1-headnote-1-line-group-1-line-1">VI.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-920-07H1-headnote-2">
+            <lg n="1" xml:id="spp-920-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-920-07H1-headnote-2-line-group-1-line-1">ANOTHER.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-920-07H1-headnote-3">
+            <lg n="1" xml:id="spp-920-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-920-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-920-07H1-line-1" n="1"><hi rend="display-initial">T</hi>HOUGH I, alas! a pris'ner be,</l>
+            <l xml:id="swift-920-07H1-line-2" n="2">My trade is pris'ners to set free.</l>
+            <l xml:id="swift-920-07H1-line-3" n="3">No slave his lord's commands obeys</l>
+            <l xml:id="swift-920-07H1-line-4" n="4">With such <hi rend="italics">insinuating</hi> ways.</l>
+            <l xml:id="swift-920-07H1-line-5" n="5">My genius <hi rend="italics">piercing, sharp</hi> and <hi rend="italics">bright</hi>,</l>
+            <l xml:id="swift-920-07H1-line-6" n="6">Wherein the men of wit delight.</l>
+            <l xml:id="swift-920-07H1-line-7" n="7">The clergy keep me for their ease,</l>
+            <l xml:id="swift-920-07H1-line-8" n="8">And <hi rend="italics">turn</hi> and <hi rend="italics">wind</hi> me as they please.</l>
+            <l xml:id="swift-920-07H1-line-9" n="9">A new and wond'rous art I show</l>
+            <l xml:id="swift-920-07H1-line-10" n="10">Of raising spirits from below;</l>
+            <l xml:id="swift-920-07H1-line-11" n="11">In <hi rend="italics">scarlet</hi> some, and some in <hi rend="italics">white</hi>:</l>
+            <l xml:id="swift-920-07H1-line-12" n="12">They rise, walk round, yet never fright.</l>
+            <l xml:id="swift-920-07H1-line-13" n="13">In at each <hi rend="italics">mouth</hi> the <hi rend="italics">spirits</hi> pass,</l>
+            <l xml:id="swift-920-07H1-line-14" n="14">Distinctly seen as through a glass:</l>
+            <l xml:id="swift-920-07H1-line-15" n="15">O'er <hi rend="italics">head</hi> and <hi rend="italics">body</hi> make a rout,</l>
+            <l xml:id="swift-920-07H1-line-16" n="16">And drive at last all <hi rend="italics">secrets</hi> out:</l>
+            <l xml:id="swift-920-07H1-line-17" n="17">And still, the more I show my art,</l>
+            <l xml:id="swift-920-07H1-line-18" n="18">The more they <hi rend="italics">open ev'ry heart</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-920-07H1-line-19" n="19"><lb/>A greater chymist none, than I,</l>
+            <l xml:id="swift-920-07H1-line-20" n="20">Who from <hi rend="italics">materials hard and dry</hi></l>
+            <l xml:id="swift-920-07H1-line-21" n="21">Have taught men to <hi rend="italics">extract</hi> with skill</l>
+            <l xml:id="swift-920-07H1-line-22" n="22">More precious juice than from a still.</l>
+            <l rend="indent(1)" xml:id="swift-920-07H1-line-23" n="23"><lb/>Although I'm often <hi rend="italics">out of case</hi>,</l>
+            <l xml:id="swift-920-07H1-line-24" n="24">I'm not asham'd to show my <hi rend="italics">face</hi>.</l>
+            <l xml:id="swift-920-07H1-line-25" n="25">Though at the tables of the great</l>
+            <l xml:id="swift-920-07H1-line-26" n="26">I near the side·board take my seat;</l>
+            <l xml:id="swift-920-07H1-line-27" n="27">Yet the plain 'squire, when dinner's done,</l>
+            <l xml:id="swift-920-07H1-line-28" n="28">Is never pleas'd till I make one:</l>
+            <l xml:id="swift-920-07H1-line-29" n="29">He kindly bids me near him stand;</l>
+            <l xml:id="swift-920-07H1-line-30" n="30">And often takes me by the <hi rend="italics">hand</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-920-07H1-line-31" n="31"><lb/>I twice a day a <hi rend="italics">hunting</hi> go;</l>
+            <l xml:id="swift-920-07H1-line-32" n="32">Nor ever fail to <hi rend="italics">seize my foe</hi>;</l>
+            <l xml:id="swift-920-07H1-line-33" n="33">And, when I have him by the <hi rend="italics">pole</hi></l>
+            <l xml:id="swift-920-07H1-line-34" n="34">I drag him upwards from his <hi rend="italics">hole</hi>,</l>
+            <l xml:id="swift-920-07H1-line-35" n="35">Though some are of so stubborn kind,</l>
+            <l xml:id="swift-920-07H1-line-36" n="36">I'm forc'd to leave a <hi rend="italics">limb</hi> behind.</l>
+            <l rend="indent(1)" xml:id="swift-920-07H1-line-37" n="37"><lb/>I hourly wait some fatal end;</l>
+            <l xml:id="swift-920-07H1-line-38" n="38">For I can <hi rend="italics">break</hi>, but scorn to <hi rend="italics">bend</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

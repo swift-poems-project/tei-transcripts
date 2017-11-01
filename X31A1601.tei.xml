@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 7AP04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X31A1601">
+          <head type="note" n="1" xml:id="spp-X31A1601-headnote-1">
+            <lg n="1" xml:id="spp-X31A1601-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31A1601-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X31A1601-headnote-2">
+            <lg n="1" xml:id="spp-X31A1601-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31A1601-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X31A1601-headnote-3">
+            <lg n="1" xml:id="spp-X31A1601-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31A1601-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X31A1601-line-1" n="1"><lb/>This morning I'm growing by smelling of yew sick,</l>
+            <l xml:id="swift-X31A1601-line-2" n="2">My brother's come over with gold from Peru sick;</l>
+            <l xml:id="swift-X31A1601-line-3" n="3">Last night I came home in a storm that blew sick,</l>
+            <l xml:id="swift-X31A1601-line-4" n="4">This moment my dog at a cat, I hooloo sick;</l>
+            <l xml:id="swift-X31A1601-line-5" n="5">I hear from good hands, that my poor cousin Hugh's sick,</l>
+            <l xml:id="swift-X31A1601-line-6" n="6">By quaffing a bottle, and pulling a screw sick:</l>
+            <l xml:id="swift-X31A1601-line-7" n="7">And there's no more I can write (you'll excuse) sick,</l>
+            <l xml:id="swift-X31A1601-line-8" n="8">You see that I scorn to mention word musick.</l>
+            <l rend="indent(2)" xml:id="swift-X31A1601-line-9" n="9"><lb/>|I'll do my best,</l>
+            <l rend="indent(2)" xml:id="swift-X31A1601-line-10" n="10">|To send the rest,</l>
+            <l rend="indent(2)" xml:id="swift-X31A1601-line-11" n="11">|Without a jest,</l>
+            <l rend="indent(2)" xml:id="swift-X31A1601-line-12" n="12">|I'll stand the test.</l>
+            <l xml:id="swift-X31A1601-line-13" n="13"><lb/>These lines that I send you, I hope you'll peruse sick,</l>
+            <l xml:id="swift-X31A1601-line-14" n="14">I'll make you with writing a little more news sick;</l>
+            <l xml:id="swift-X31A1601-line-15" n="15">Last night I came home with drink of booze sick,</l>
+            <l xml:id="swift-X31A1601-line-16" n="16">My carpenter swears that he'll hack and he'll hew sick:</l>
+            <l xml:id="swift-X31A1601-line-17" n="17">An Officer's lady I'm told is tattoo-sick,</l>
+            <l xml:id="swift-X31A1601-line-18" n="18">I'm afraid that the line thirty-four you will view sick.</l>
+            <l rend="indent(1)" xml:id="swift-X31A1601-line-19" n="19"><lb/>Lord! I could write a dozen more,</l>
+            <l rend="indent(1)" xml:id="swift-X31A1601-line-20" n="20">You see, I've mounted thirty-four.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

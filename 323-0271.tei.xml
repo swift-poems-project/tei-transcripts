@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">PETHOX</hi> the Great.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 22JL98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="323-0271">
+          <head type="note" n="1" xml:id="spp-323-0271-headnote-1">
+            <lg n="1" xml:id="spp-323-0271-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-323-0271-headnote-1-line-group-1-line-1">Written in the Year 1723.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-323-0271-headnote-2">
+            <lg n="1" xml:id="spp-323-0271-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-323-0271-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-323-0271-headnote-3">
+            <lg n="1" xml:id="spp-323-0271-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-323-0271-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-323-0271-line-1" n="1"><hi rend="display-initial">F</hi>ROM <hi rend="italics">Venus</hi> born, thy Beauty shows;</l>
+            <l xml:id="swift-323-0271-line-2" n="2">But who thy Father, no Man knows;</l>
+            <l xml:id="swift-323-0271-line-3" n="3">Nor can the skilful Herald trace</l>
+            <l xml:id="swift-323-0271-line-4" n="4">The Founder of thy ancient Race.</l>
+            <l xml:id="swift-323-0271-line-5" n="5">Whether thy Temper, full of Fire,</l>
+            <l xml:id="swift-323-0271-line-6" n="6">Discovers <hi rend="italics">Vulcan</hi> for thy Sire;</l>
+            <l xml:id="swift-323-0271-line-7" n="7">The God, who made <hi rend="italics">Scamander</hi> boil,</l>
+            <l xml:id="swift-323-0271-line-8" n="8">And round his Margin sindg'd the Soil;</l>
+            <l xml:id="swift-323-0271-line-9" n="9">(From whence Philosophers agree,</l>
+            <l xml:id="swift-323-0271-line-10" n="10">An equal Pow'r descends to thee.)</l>
+            <l xml:id="swift-323-0271-line-11" n="11">Whether from dreadful <hi rend="italics">Mars</hi> you claim</l>
+            <l xml:id="swift-323-0271-line-12" n="12">The high Descent from whence you came,</l>
+            <l xml:id="swift-323-0271-line-13" n="13">And, as a Proof, shew num'rous Scars,</l>
+            <l xml:id="swift-323-0271-line-14" n="14">By fierce Encounters made in Wars;</l>
+            <l xml:id="swift-323-0271-line-15" n="15">(Those honourable Wounds you bore</l>
+            <l xml:id="swift-323-0271-line-16" n="16">From Head to Foot, and <hi rend="italics">all before</hi>)</l>
+            <l xml:id="swift-323-0271-line-17" n="17">And still the bloody Field frequent,</l>
+            <l xml:id="swift-323-0271-line-18" n="18">Familiar in each Leader's Tent.</l>
+            <l xml:id="swift-323-0271-line-19" n="19">Or whether, as the Learn'd contend,</l>
+            <l xml:id="swift-323-0271-line-20" n="20">You from the neighb'ring <hi rend="italics">Gaul</hi> descend:</l>
+            <l xml:id="swift-323-0271-line-21" n="21">Or from <note place="foot">·Naples.</note> <hi rend="italics">Parthenope</hi> the Proud,</l>
+            <l xml:id="swift-323-0271-line-22" n="22">Where numberless thy Vot'ries crowd.</l>
+            <l xml:id="swift-323-0271-line-23" n="23">Whether thy great Forefathers came</l>
+            <l xml:id="swift-323-0271-line-24" n="24">From Realms that bear <hi rend="italics">Vesputio</hi>'s Name;</l>
+            <l xml:id="swift-323-0271-line-25" n="25">For so Conjectors would obtrude,</l>
+            <l xml:id="swift-323-0271-line-26" n="26">And from thy painted Skin conclude.</l>
+            <l xml:id="swift-323-0271-line-27" n="27">Whether, as <hi rend="italics">Epicurus</hi> shows,</l>
+            <l xml:id="swift-323-0271-line-28" n="28">The World from jostling Seeds arose;</l>
+            <l xml:id="swift-323-0271-line-29" n="29">Which mingling with prolifick Strife</l>
+            <l xml:id="swift-323-0271-line-30" n="30">Is Chaos, kindled into Life;</l>
+            <l xml:id="swift-323-0271-line-31" n="31">So your Production was the same,</l>
+            <l xml:id="swift-323-0271-line-32" n="32">And from contending Atoms came.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-33" n="33"><lb/>T<hi rend="small-caps">HY</hi> fair indulgent Mother crown'd</l>
+            <l xml:id="swift-323-0271-line-34" n="34">Thy Head with sparkling Rubies round;</l>
+            <l xml:id="swift-323-0271-line-35" n="35">Beneath thy decent Steps, the Road</l>
+            <l xml:id="swift-323-0271-line-36" n="36">Is all with precious Jewels strow'd.</l>
+            <l xml:id="swift-323-0271-line-37" n="37">The <note place="foot">·Bubo, <hi rend="italics">the Owl</hi>.</note> Bird of <hi rend="italics">Pallas</hi> knows his Post,</l>
+            <l xml:id="swift-323-0271-line-38" n="38">Thee to attend, where-e'er thou go'st.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-39" n="39"><lb/><hi rend="italics">BYZANTIANS</hi> boast, that on the Clod,</l>
+            <l xml:id="swift-323-0271-line-40" n="40">Where once their <hi rend="italics">Sultan</hi>'s Horse hath trod,</l>
+            <l xml:id="swift-323-0271-line-41" n="41">Grows neither Grass, nor Shrub, nor Tree;</l>
+            <l xml:id="swift-323-0271-line-42" n="42">The same thy Subjects boast of Thee.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-43" n="43"><lb/>T<hi rend="small-caps">HE</hi> greatest Lord, when you appear,</l>
+            <l xml:id="swift-323-0271-line-44" n="44">Will deign your Finery to wear,</l>
+            <l xml:id="swift-323-0271-line-45" n="45">In all thy various Colours seen,</l>
+            <l xml:id="swift-323-0271-line-46" n="46">Of Red, and Yellow, Blue, and Green.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-47" n="47"><lb/>W<hi rend="small-caps">ITH</hi> half a Word, when you require,</l>
+            <l xml:id="swift-323-0271-line-48" n="48">The Man of Bus'ness must retire.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-49" n="49"><lb/>T<hi rend="small-caps">HE</hi> haughty Minister of State</l>
+            <l xml:id="swift-323-0271-line-50" n="50">With Trembling must thy Leisure wait;</l>
+            <l xml:id="swift-323-0271-line-51" n="51">And while his Fate is in thy Hands,</l>
+            <l xml:id="swift-323-0271-line-52" n="52">The Bus'ness of the Nation stands.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-53" n="53"><lb/>T<hi rend="small-caps">HOU</hi> dar'st the greatest Prince attack,</l>
+            <l xml:id="swift-323-0271-line-54" n="54">Can'st hourly set him on the Rack,</l>
+            <l xml:id="swift-323-0271-line-55" n="55">And, as an Instance of thy Pow'r,</l>
+            <l xml:id="swift-323-0271-line-56" n="56">Inclose him in a wooden Tow'r,</l>
+            <l xml:id="swift-323-0271-line-57" n="57">With pungent Pains on ev'ry Side;</l>
+            <l xml:id="swift-323-0271-line-58" n="58">So <hi rend="italics">Regulus</hi> in Torments dy'd.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-59" n="59"><lb/>F<hi rend="small-caps">ROM</hi> thee our Youth all Virtues learn;</l>
+            <l xml:id="swift-323-0271-line-60" n="60">Dangers with Prudence to discern;</l>
+            <l xml:id="swift-323-0271-line-61" n="61">And well thy Scholars are endu'd</l>
+            <l xml:id="swift-323-0271-line-62" n="62">With Temp'rance and with Fortitude;</l>
+            <l xml:id="swift-323-0271-line-63" n="63">With Patience, which all Ills supports:</l>
+            <l xml:id="swift-323-0271-line-64" n="64">And Secrecy, the Art of Courts.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-65" n="65"><lb/>T<hi rend="small-caps">HE</hi> glitt'ring Beau could hardly tell,</l>
+            <l xml:id="swift-323-0271-line-66" n="66">Without your Aid, to read or spell;</l>
+            <l xml:id="swift-323-0271-line-67" n="67">But, having long convers'd with you,</l>
+            <l xml:id="swift-323-0271-line-68" n="68">Knows how to scrawl a Billet-doux.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-69" n="69"><lb/>W<hi rend="small-caps">ITH</hi> what Delight, methinks, I trace</l>
+            <l xml:id="swift-323-0271-line-70" n="70">Thy Blood in ev'ry noble Race!</l>
+            <l xml:id="swift-323-0271-line-71" n="71">In whom thy Features, Shape, and Mien,</l>
+            <l xml:id="swift-323-0271-line-72" n="72">Are to the Life distinctly seen.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-73" n="73"><lb/>T<hi rend="small-caps">HE</hi> <hi rend="italics">Britons</hi>, once a savage Kind,</l>
+            <l xml:id="swift-323-0271-line-74" n="74">By you were brighten'd and refin'd:</l>
+            <l xml:id="swift-323-0271-line-75" n="75">Descendant of the barb'rous <hi rend="italics">Huns</hi>,</l>
+            <l xml:id="swift-323-0271-line-76" n="76">With Limbs robust, and Voice that stuns;</l>
+            <l xml:id="swift-323-0271-line-77" n="77">But you have moulded them afresh,</l>
+            <l xml:id="swift-323-0271-line-78" n="78">Remov'd the tough superfluous Flesh,</l>
+            <l xml:id="swift-323-0271-line-79" n="79">Taught them to modulate their Tongues,</l>
+            <l xml:id="swift-323-0271-line-80" n="80">And speak without the Help of Lungs.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-81" n="81"><lb/><hi rend="italics">PROTEUS</hi> on you bestow'd the Boon</l>
+            <l xml:id="swift-323-0271-line-82" n="82">To change your Visage like the Moon;</l>
+            <l xml:id="swift-323-0271-line-83" n="83">You sometimes half a Face produce,</l>
+            <l xml:id="swift-323-0271-line-84" n="84">Keep t'other Half for private Use.</l>
+            <l rend="indent(1)" xml:id="swift-323-0271-line-85" n="85"><lb/>H<hi rend="small-caps">OW</hi> fam'd thy Conduct in the Fight</l>
+            <l xml:id="swift-323-0271-line-86" n="86">With <note place="foot">·Mercury.</note> <hi rend="italics">Hermes</hi>, Son of <hi rend="italics">Pleias</hi> bright:</l>
+            <l xml:id="swift-323-0271-line-87" n="87">Out-number'd, half encompass'd round,</l>
+            <l xml:id="swift-323-0271-line-88" n="88">You strove for ev'ry Inch of Ground;</l>
+            <l xml:id="swift-323-0271-line-89" n="89">Then, by a soldierly Retreat,</l>
+            <l xml:id="swift-323-0271-line-90" n="90">Retir'd to your Imperial Seat.</l>
+            <l xml:id="swift-323-0271-line-91" n="91">The Victor, when your Steps he trac'd,</l>
+            <l xml:id="swift-323-0271-line-92" n="92">Found all the Realms before him waste:</l>
+            <l xml:id="swift-323-0271-line-93" n="93">You, o'er the high triumphal Arch</l>
+            <l xml:id="swift-323-0271-line-94" n="94">Pontifick, made your glorious March:</l>
+            <l xml:id="swift-323-0271-line-95" n="95">The wond'rous Arch behind you fell,</l>
+            <l xml:id="swift-323-0271-line-96" n="96">And left a Chasm profound as Hell:</l>
+            <l xml:id="swift-323-0271-line-97" n="97">You, in your Capital secur'd</l>
+            <l xml:id="swift-323-0271-line-98" n="98">A Siege as long as <hi rend="italics">Troy</hi> endur'd.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

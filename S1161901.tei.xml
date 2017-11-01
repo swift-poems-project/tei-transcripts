@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr. SHERIDAN to Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 27JE13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S1161901">
+          <head type="note" n="1" xml:id="spp-S1161901-headnote-1">
+            <lg n="1" xml:id="spp-S1161901-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1161901-headnote-1-line-group-1-line-1">The weather must and shall be good; and you must and shall be in your health; and you must and shall come with me.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S1161901-headnote-2">
+            <lg n="1" xml:id="spp-S1161901-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1161901-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S1161901-headnote-3">
+            <lg n="1" xml:id="spp-S1161901-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1161901-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S1161901-line-1" n="1">My walk it is finish't,</l>
+            <l xml:id="swift-S1161901-line-2" n="2">My money diminish't;</l>
+            <l xml:id="swift-S1161901-line-3" n="3">But when you come down,</l>
+            <l xml:id="swift-S1161901-line-4" n="4">I'll hold you a crown</l>
+            <l xml:id="swift-S1161901-line-5" n="5">You'll soon make me rich,</l>
+            <l xml:id="swift-S1161901-line-6" n="6">Or I'll die in a ditch.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

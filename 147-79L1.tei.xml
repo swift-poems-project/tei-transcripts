@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-147-79L1-title-1">THE WINDSOR PROPHECY <ref target="#spp-147-79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-147-79L1-footnote-title-1" place="foot">It is said, that Queen Anne had nominated Dr. Swift to an English bishoprick; which was opposed by Dr. Sharp, archbishop of York, and the dutchess of Somerset, who had prevailed on his grace to go with her to the queen to lay aside the nomination, which her majesty refused; but, the dutchess falling on her knees, and shewing the above prophecy to her majesty, the bishoprick was given to another. See p. 93</note>. 1711.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 8JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-147-79L1-footnote-title-1 #spp-147-79L1-title-1"/>
+        </linkGrp>
+        <div n="147-79L1">
+          <head type="note" n="1" xml:id="spp-147-79L1-headnote-1">
+            <lg n="1" xml:id="spp-147-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-147-79L1-headnote-2">
+            <lg n="1" xml:id="spp-147-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-147-79L1-headnote-3">
+            <lg n="1" xml:id="spp-147-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-147-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-147-79L1-line-1" n="1"><hi rend="display-initial">W</hi>HEN a holy black <hi rend="italics">Swede, the son of Bob</hi><note place="foot">·Dr. John Robinson, bishop of Bristol, one of the plenipotentiaries at Utrecht.</note>,</l>
+            <l xml:id="swift-147-79L1-line-2" n="2">With a <hi rend="italics">saint</hi> <note place="foot">·He was dean of Windsor, and lord privy seal.</note> at his chin, and a <hi rend="italics">seal</hi> <note place="foot">·\<hi rend="italics">A second cue to n.2</hi>\.</note> at his fob,</l>
+            <l xml:id="swift-147-79L1-line-3" n="3">Shall not see one <note place="foot">·The New Style (which was not used in Great-Britain and Ireland till 1752) was then observed in most parts of Europe. The bishop set out from England the latter end of December, O.S.; and, on his arrival at Utrecht, by the variation of the style, he found January somewhat advanced.</note> New-year's-day in that year,</l>
+            <l xml:id="swift-147-79L1-line-4" n="4">Then let old <hi rend="italics">Englond</hi> make good chear:</l>
+            <l xml:id="swift-147-79L1-line-5" n="5"><hi rend="italics">Windsor</hi> <note place="foot">·Alluding to the deanry and bishoprick being possessed by the same person, then at Utrecht.</note> and <hi rend="italics">Bristow</hi> <note place="foot">·\<hi rend="italics">A second cue to n.6</hi>.</note> then shall be</l>
+            <l xml:id="swift-147-79L1-line-6" n="6">Joined together in the <hi rend="italics">Low-countree</hi><note place="foot">·\This footnote states the same material as footnote 6.\.</note>.</l>
+            <l xml:id="swift-147-79L1-line-7" n="7">Then shall the tall black <hi rend="italics">Daventry Bird</hi><note place="foot">·Earl of Nottingham.</note></l>
+            <l xml:id="swift-147-79L1-line-8" n="8">Speak against peace right many a word;</l>
+            <l xml:id="swift-147-79L1-line-9" n="9">And some shall admire his conying wit,</l>
+            <l xml:id="swift-147-79L1-line-10" n="10">For many good <hi rend="italics">groats</hi> his tongue shall slit.</l>
+            <l xml:id="swift-147-79L1-line-11" n="11">But, spight of the <hi rend="italics">Harpy</hi> that <hi rend="italics">crawls on all four</hi>,</l>
+            <l xml:id="swift-147-79L1-line-12" n="12">There shall be peace, pardie, and war no more.</l>
+            <l xml:id="swift-147-79L1-line-13" n="13">But <hi rend="italics">Englond</hi> must cry alack and well-a-day,</l>
+            <l xml:id="swift-147-79L1-line-14" n="14">If the <hi rend="italics">stick</hi> be taken from the <hi rend="italics">dead sea</hi>.</l>
+            <l xml:id="swift-147-79L1-line-15" n="15">And, dear <hi rend="italics">Englond</hi>, if aught I understond,</l>
+            <l xml:id="swift-147-79L1-line-16" n="16">Beware of <hi rend="italics">Carrots</hi> <note place="foot">·The dutchess of Somerset.</note> from <hi rend="italics">Northumberlond</hi>.</l>
+            <l xml:id="swift-147-79L1-line-17" n="17"><hi rend="italics">Carrots</hi> sown <hi rend="italics">Thynne</hi> <note place="foot">·Thomas Thynne of Longleate, esq; a gentleman of very great estate, married the above lady after the death of her first husband Henry Cavendish earl of Ogle, only son to Henry duke of Newcastle, to whom she had been betrothed in her infancy.</note> a deep root may get,</l>
+            <l xml:id="swift-147-79L1-line-18" n="18">If so be they are in <hi rend="italics">Somer set</hi>:</l>
+            <l xml:id="swift-147-79L1-line-19" n="19">Their <note place="foot">·Count Koningsmark.</note> <hi rend="italics">Conyngs mark</hi> thou; for I have been told,</l>
+            <l xml:id="swift-147-79L1-line-20" n="20">They <hi rend="italics">assassine</hi> when young, and <hi rend="italics">poison</hi> when old.</l>
+            <l xml:id="swift-147-79L1-line-21" n="21"><hi rend="italics">Root</hi> out these <hi rend="italics">Carrots</hi>, O thou<note place="foot">·ANNA.</note>, whose name</l>
+            <l xml:id="swift-147-79L1-line-22" n="22">Is backwards and forwards always the same;</l>
+            <l xml:id="swift-147-79L1-line-23" n="23">And keep close to thee always that <hi rend="italics">name</hi>,</l>
+            <l xml:id="swift-147-79L1-line-24" n="24">Which backwards and forwards <note place="foot">·MASHAM.</note> is almost the same.</l>
+            <l xml:id="swift-147-79L1-line-25" n="25">And, <hi rend="italics">Englond</hi>, wouldst thou be happy still,</l>
+            <l xml:id="swift-147-79L1-line-26" n="26">Bury those <hi rend="italics">Carrots</hi> under a <hi rend="italics">Hill</hi><note place="foot">·Lady Masham's maiden name was Hill.</note>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

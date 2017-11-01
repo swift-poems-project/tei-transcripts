@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 20DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J0051771">
+          <head type="note" n="1" xml:id="spp-J0051771-headnote-1">
+            <lg n="1" xml:id="spp-J0051771-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0051771-headnote-1-line-group-1-line-1">Lady <hi rend="italics">Mountjoy</hi> carried me home to dinner, where I staid not long after, and came home early, and now am got into bed, for you must always write to your MD<hi rend="italics">s</hi> in bed, that's a maxim.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J0051771-headnote-2">
+            <lg n="1" xml:id="spp-J0051771-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0051771-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J0051771-headnote-3">
+            <lg n="1" xml:id="spp-J0051771-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0051771-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J0051771-line-1" n="1">Mr. <hi rend="italics">White</hi> and Mr. <hi rend="italics">Red</hi>,</l>
+            <l xml:id="swift-J0051771-line-2" n="2">Write to MD when abed;</l>
+            <l xml:id="swift-J0051771-line-3" n="3">Mr. <hi rend="italics">Black</hi> and Mr. <hi rend="italics">Brown</hi>,</l>
+            <l xml:id="swift-J0051771-line-4" n="4">Write to MD when you're down;</l>
+            <l xml:id="swift-J0051771-line-5" n="5">Mr. <hi rend="italics">Oak</hi> and Mr. <hi rend="italics">Willow</hi>,</l>
+            <l xml:id="swift-J0051771-line-6" n="6">Write to MD on your pillow.──</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

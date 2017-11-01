@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Riddle</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 14JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="936-020B">
+          <head type="note" n="1" xml:id="spp-936-020B-headnote-1">
+            <lg n="1" xml:id="spp-936-020B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-936-020B-headnote-1-line-group-1-line-1">Upon a Candle, inscrib'd to the R<hi rend="superscript">t</hi> 08─ Hon<hi rend="superscript">bl</hi> 08 08──  the Lady Carteret by D<hi rend="superscript">r</hi> Delany. F.T.C.D.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-936-020B-headnote-2">
+            <lg n="1" xml:id="spp-936-020B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-936-020B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-936-020B-headnote-3">
+            <lg n="1" xml:id="spp-936-020B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-936-020B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-936-020B-line-1" n="1">Of all th'·Inhabitants of Earth</l>
+            <l xml:id="swift-936-020B-line-2" n="2">To Man alone I owe my Birth;</l>
+            <l xml:id="swift-936-020B-line-3" n="3">Tho the Cow, the Sheep, the Bee,</l>
+            <l xml:id="swift-936-020B-line-4" n="4">Are my Parents more than he.</l>
+            <l rend="indent(1)" xml:id="swift-936-020B-line-5" n="5">I (a virtue Strange &amp; rare)</l>
+            <l xml:id="swift-936-020B-line-6" n="6">Make the fairest look more fair,</l>
+            <l xml:id="swift-936-020B-line-7" n="7">And my Self, what yet is rarer,</l>
+            <l xml:id="swift-936-020B-line-8" n="8">Growing older still grow fairer.</l>
+            <l rend="indent(1)" xml:id="swift-936-020B-line-9" n="9">Like Sots, alone I'm dull enough,</l>
+            <l xml:id="swift-936-020B-line-10" n="10">Doz'd with Smoak, &amp; smear'd with Snuff</l>
+            <l xml:id="swift-936-020B-line-11" n="11">But amidst good Cheer and Wine,</l>
+            <l xml:id="swift-936-020B-line-12" n="12">I with double Lustre Shine.</l>
+            <l xml:id="swift-936-020B-line-13" n="13">Emblem of the fair am I,</l>
+            <l xml:id="swift-936-020B-line-14" n="14">Polish'd Neck, and radiant Eye;</l>
+            <l xml:id="swift-936-020B-line-15" n="15">In my Eye my greatest Grace,</l>
+            <l xml:id="swift-936-020B-line-16" n="16">Emblem of the Cyclop Race;</l>
+            <l xml:id="swift-936-020B-line-17" n="17">Metals I like them subdue,</l>
+            <l xml:id="swift-936-020B-line-18" n="18">Slave like them to Vulcan too.</l>
+            <l xml:id="swift-936-020B-line-19" n="19">om.</l>
+            <l xml:id="swift-936-020B-line-20" n="20">om.</l>
+            <l xml:id="swift-936-020B-line-21" n="21">om.</l>
+            <l xml:id="swift-936-020B-line-22" n="22">om.</l>
+            <l xml:id="swift-936-020B-line-23" n="23">Emblem of the lovesick Dame,</l>
+            <l xml:id="swift-936-020B-line-24" n="24">That in silence feeds her Flame,</l>
+            <l xml:id="swift-936-020B-line-25" n="25">Often aiding to impart,</l>
+            <l xml:id="swift-936-020B-line-26" n="26">All the Secrets of her Heart.</l>
+            <l xml:id="swift-936-020B-line-27" n="27">Emblem of a Monarck old,</l>
+            <l xml:id="swift-936-020B-line-28" n="28">Wise, &amp; glorious to behold,</l>
+            <l xml:id="swift-936-020B-line-29" n="29">Wasted he appears and pale,</l>
+            <l xml:id="swift-936-020B-line-30" n="30">Watching for the publick Weal.</l>
+            <l xml:id="swift-936-020B-line-31" n="31">Various is my Shape and Hue,</l>
+            <l xml:id="swift-936-020B-line-32" n="32">Big like Bess, &amp; small like Sue,</l>
+            <l xml:id="swift-936-020B-line-33" n="33">Now brown and burnish'd like a Nut,</l>
+            <l xml:id="swift-936-020B-line-34" n="34">At other times a very slut;</l>
+            <l xml:id="swift-936-020B-line-35" n="35">Often fair, &amp; Soft, and tender,</l>
+            <l xml:id="swift-936-020B-line-36" n="36">Taper, tall, and Smooth, and Slender</l>
+            <l xml:id="swift-936-020B-line-37" n="37">om.</l>
+            <l xml:id="swift-936-020B-line-38" n="38">om.</l>
+            <l xml:id="swift-936-020B-line-39" n="39">But whatever be my Dress,</l>
+            <l xml:id="swift-936-020B-line-40" n="40">Greater be my Size or less,</l>
+            <l xml:id="swift-936-020B-line-41" n="41">Swelling be my Shape, or small,</l>
+            <l xml:id="swift-936-020B-line-42" n="42">Like thy self, I Shine in all.</l>
+            <l xml:id="swift-936-020B-line-43" n="43">om.</l>
+            <l xml:id="swift-936-020B-line-44" n="44">om.</l>
+            <l xml:id="swift-936-020B-line-45" n="45">om.</l>
+            <l xml:id="swift-936-020B-line-46" n="46">om.</l>
+            <l rend="indent(1)" xml:id="swift-936-020B-line-47" n="47">Soon or late my Date is done:</l>
+            <l xml:id="swift-936-020B-line-48" n="48">As my Thread of Life is spun;</l>
+            <l xml:id="swift-936-020B-line-49" n="49">Yet to art \<hi rend="italics">add</hi>·the\ fatal thread,</l>
+            <l xml:id="swift-936-020B-line-50" n="50">Oft revives my drooping Head.</l>
+            <l xml:id="swift-936-020B-line-51" n="51">om.</l>
+            <l xml:id="swift-936-020B-line-52" n="52">om.</l>
+            <l xml:id="swift-936-020B-line-53" n="53">Clouded if my Face is seen,</l>
+            <l xml:id="swift-936-020B-line-54" n="54">My Complexion wan and green;</l>
+            <l xml:id="swift-936-020B-line-55" n="55">Languid like the lovesick Maid</l>
+            <l xml:id="swift-936-020B-line-56" n="56">Steel affords me present aid:</l>
+            <l xml:id="swift-936-020B-line-57" n="57">*·Dye, like Lovers as they Gaze,</l>
+            <l xml:id="swift-936-020B-line-58" n="58">Dye, for those I live to please;</l>
+            <l xml:id="swift-936-020B-line-59" n="59">Pine unpitied to my Urn,</l>
+            <l xml:id="swift-936-020B-line-60" n="60">Nor warm the Fair, for whom I burn;</l>
+            <l xml:id="swift-936-020B-line-61" n="61">Unpitied, unrelented too,</l>
+            <l xml:id="swift-936-020B-line-62" n="62">Die, like those that look on you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Lamentation of Glumdalclith,<lb/>  for the Loss of Grildrig. A Pastoral.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 2AU11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M030090A">
+          <head type="note" n="1" xml:id="spp-M030090A-headnote-1">
+            <lg n="1" xml:id="spp-M030090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M030090A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M030090A-headnote-2">
+            <lg n="1" xml:id="spp-M030090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M030090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M030090A-headnote-3">
+            <lg n="1" xml:id="spp-M030090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M030090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M030090A-line-1" n="1"><hi rend="display-initial">S</hi>oon as Glumdalclitch missd her pleasing Care</l>
+            <l xml:id="swift-M030090A-line-2" n="2">She wept she blubberd and she tore her hair</l>
+            <l xml:id="swift-M030090A-line-3" n="3">No British Miss sincerer Grief has known,</l>
+            <l xml:id="swift-M030090A-line-4" n="4">Her Squirrell missing or her Sparrow flown;</l>
+            <l xml:id="swift-M030090A-line-5" n="5">She furld her Sampler &amp; hauld in her thread</l>
+            <l xml:id="swift-M030090A-line-6" n="6">And stuck her Needle in Grildrigs Bed;</l>
+            <l xml:id="swift-M030090A-line-7" n="7">Then Spread her hands &amp; with a Bounce let fall</l>
+            <l xml:id="swift-M030090A-line-8" n="8">Her Baby like the Giant in Guildhall.</l>
+            <l xml:id="swift-M030090A-line-9" n="9">In Peals of Thunder now she roars, and now</l>
+            <l xml:id="swift-M030090A-line-10" n="10">She gently whimpers like a lowing Cow:</l>
+            <l xml:id="swift-M030090A-line-11" n="11">Yet lovely in her Sorrow still appears</l>
+            <l xml:id="swift-M030090A-line-12" n="12">Her Locks dishevell'd &amp; her flood of Tears</l>
+            <l xml:id="swift-M030090A-line-13" n="13">Seem like the lofty Barn of some rich Swain</l>
+            <l xml:id="swift-M030090A-line-14" n="14">When from the Thatch drips fast a Showr of rain.</l>
+            <l rend="indent(1)" xml:id="swift-M030090A-line-15" n="15">In vain she searchd each Cranny of the house</l>
+            <l xml:id="swift-M030090A-line-16" n="16">Each gaping Chink impervious to a Mouse</l>
+            <l xml:id="swift-M030090A-line-17" n="17">“Was it for this she cry'd with daily Care</l>
+            <l xml:id="swift-M030090A-line-18" n="18">Within thy reach I set the Vinegar!</l>
+            <l xml:id="swift-M030090A-line-19" n="19">And filld the Cruet with the acid tide</l>
+            <l xml:id="swift-M030090A-line-20" n="20">While Pepper Water Worms thy bait supplyd;</l>
+            <l xml:id="swift-M030090A-line-21" n="21">Where twin'd the Silver eel around thy Hook,</l>
+            <l xml:id="swift-M030090A-line-22" n="22">And all the little Monsters of the Brook,</l>
+            <l xml:id="swift-M030090A-line-23" n="23">Sure in that Lake he dropt; My Grilly's drown'd,</l>
+            <l xml:id="swift-M030090A-line-24" n="24">She draggd the Cruet, but no Grilldrig found,</l>
+            <l rend="indent(1)" xml:id="swift-M030090A-line-25" n="25">Vain is thy Courage, Grilly, vain thy boast</l>
+            <l xml:id="swift-M030090A-line-26" n="26">But little Creatures enterprize the Most.</l>
+            <l xml:id="swift-M030090A-line-27" n="27">Trembling I've seen thee dare the Kittens paw,</l>
+            <l xml:id="swift-M030090A-line-28" n="28">Nay mix with Children as they play at Taw</l>
+            <l xml:id="swift-M030090A-line-29" n="29">Nor fear the marbles as they bounding flew;</l>
+            <l xml:id="swift-M030090A-line-30" n="30">Marbles to them but rolling Rocks to you.</l>
+            <l rend="indent(1)" xml:id="swift-M030090A-line-31" n="31">Why did I trust thee with that Giddy Youth</l>
+            <l xml:id="swift-M030090A-line-32" n="32">Who from a page can ever learn the Truth?</l>
+            <l xml:id="swift-M030090A-line-33" n="33">Vers'd in Court Tricks that Money loving Boy</l>
+            <l xml:id="swift-M030090A-line-34" n="34">To some Lords Daughter sold the living Toy:</l>
+            <l xml:id="swift-M030090A-line-35" n="35">Or rent him Limb from Limb in cruel play,</l>
+            <l xml:id="swift-M030090A-line-36" n="36">As Children tear the Wings of flies away,</l>
+            <l xml:id="swift-M030090A-line-37" n="37">From place to place o'er Brobdingnag I'll roam\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M030090A-line-38" n="38">And never will return or bring thee home.</l>
+            <l xml:id="swift-M030090A-line-39" n="39">But who hath Eyes to trace the passing wind?</l>
+            <l xml:id="swift-M030090A-line-40" n="40">How then thy fairy footsteps can I find?</l>
+            <l xml:id="swift-M030090A-line-41" n="41">Dost thou bewilderd wander all alone,</l>
+            <l xml:id="swift-M030090A-line-42" n="42">In the green Thicket of a mossy Stone</l>
+            <l xml:id="swift-M030090A-line-43" n="43">Or tumbled from a Toadstools slippry Round</l>
+            <l xml:id="swift-M030090A-line-44" n="44">Perhaps all maimd lie grov'ling on the Ground\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M030090A-line-45" n="45">Dost thou Imbosomd in the lovely Rose</l>
+            <l xml:id="swift-M030090A-line-46" n="46">Or sunk within the Peaches down, repose?</l>
+            <l xml:id="swift-M030090A-line-47" n="47">Within the King Cup if thy Limbs are Spread</l>
+            <l xml:id="swift-M030090A-line-48" n="48">Or in the Golden Cowslips velvet head:</l>
+            <l xml:id="swift-M030090A-line-49" n="49">O shew me Flora midst those Sweets the flower\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M030090A-line-50" n="50">Where sleeps my Grildrig in his fragrant Bow\<hi rend="italics">gutter</hi>\</l>
+            <l rend="indent(1)" xml:id="swift-M030090A-line-51" n="51">But ah! I fear the little fancy roves,</l>
+            <l xml:id="swift-M030090A-line-52" n="52">On little females and on little Loves;</l>
+            <l xml:id="swift-M030090A-line-53" n="53">Thy Pigmy Children and thy tiny Spouse,</l>
+            <l xml:id="swift-M030090A-line-54" n="54">The Baby playthings that adorn thy house,</l>
+            <l xml:id="swift-M030090A-line-55" n="55">Doors, Windows, Chimneys &amp; the Spacious Rooms</l>
+            <l xml:id="swift-M030090A-line-56" n="56">Equal in Size to Cells of Honeycombs</l>
+            <l xml:id="swift-M030090A-line-57" n="57">Hast thou for these now venturd from the Shore</l>
+            <l xml:id="swift-M030090A-line-58" n="58">Thy Bark a Bean Shell and a Straw thy Oar?</l>
+            <l xml:id="swift-M030090A-line-59" n="59">Or in thy Box now bounding on the Main,</l>
+            <l xml:id="swift-M030090A-line-60" n="60">Shall I ne'er bear thyself &amp; house again?</l>
+            <l xml:id="swift-M030090A-line-61" n="61">And shall I sett thee on my hand no more,</l>
+            <l xml:id="swift-M030090A-line-62" n="62">To see the leap the Lines and traverse o'er</l>
+            <l xml:id="swift-M030090A-line-63" n="63">My spacious Palm? of Stature scarce a Span,</l>
+            <l xml:id="swift-M030090A-line-64" n="64">Mimick the Actions of a real man?</l>
+            <l xml:id="swift-M030090A-line-65" n="65">No more behold thee turn my Watche's Key</l>
+            <l xml:id="swift-M030090A-line-66" n="66">As Seamen at a Capstern Anchors weigh?</l>
+            <l xml:id="swift-M030090A-line-67" n="67">How wert thou wont to walk with cautious tread</l>
+            <l xml:id="swift-M030090A-line-68" n="68">A Dish of Tea like Milk pail on thy Head?</l>
+            <l xml:id="swift-M030090A-line-69" n="69">How chase the Mite that bore thy Cheese away</l>
+            <l xml:id="swift-M030090A-line-70" n="70">And keep the rolling Maggott at a Bay?”</l>
+            <l rend="indent(1)" xml:id="swift-M030090A-line-71" n="71">She said but broken Accents stopt her voice</l>
+            <l xml:id="swift-M030090A-line-72" n="72">Soft as the speaking Trumpets mellow Noise;</l>
+            <l xml:id="swift-M030090A-line-73" n="73">She sobbd a Storm and wipd her flowing Eyes,</l>
+            <l xml:id="swift-M030090A-line-74" n="74">Which seemd like two broad Suns in misty Skies!</l>
+            <l xml:id="swift-M030090A-line-75" n="75">Oh! Squander not thy Grief; those Tears comand</l>
+            <l xml:id="swift-M030090A-line-76" n="76">To weep upon our Cod in Newfoundland:</l>
+            <l xml:id="swift-M030090A-line-77" n="77">The plenteous pickle shall preserve the fish</l>
+            <l xml:id="swift-M030090A-line-78" n="78">And Europe taste thy Sorrows in a Dish</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

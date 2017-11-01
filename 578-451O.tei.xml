@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Heathen Day of Iudgment──</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 11MR03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-451O">
+          <head type="note" n="1" xml:id="spp-578-451O-headnote-1">
+            <lg n="1" xml:id="spp-578-451O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-451O-headnote-1-line-group-1-line-1">Copied from Swift <lb/> by mr Will <lb/> Collins the Poet</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-451O-headnote-2">
+            <lg n="1" xml:id="spp-578-451O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-451O-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-451O-headnote-3">
+            <lg n="1" xml:id="spp-578-451O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-451O-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-451O-line-1" n="1">With a whirl of thought opprest</l>
+            <l xml:id="swift-578-451O-line-2" n="2">I sunk from Reverie to Rest</l>
+            <l xml:id="swift-578-451O-line-3" n="3">a Horrid Vision seiz'd my head</l>
+            <l xml:id="swift-578-451O-line-4" n="4">I saw the Graves yawn up their Dead</l>
+            <l xml:id="swift-578-451O-line-5" n="5">Iove arm'd with terrors burst the skies</l>
+            <l xml:id="swift-578-451O-line-6" n="6">and Thunder roars, and Lightning flies</l>
+            <l xml:id="swift-578-451O-line-7" n="7">amaz'd confus'd it's fate unknown</l>
+            <l xml:id="swift-578-451O-line-8" n="8">The World stood trembling round his throne</l>
+            <l xml:id="swift-578-451O-line-9" n="9">While Each Pale Sinner hung his head</l>
+            <l xml:id="swift-578-451O-line-10" n="10">Iove Nodding shook the heavns and said</l>
+            <l xml:id="swift-578-451O-line-11" n="11">`Offending Race of human kind</l>
+            <l xml:id="swift-578-451O-line-12" n="12">`By Nature Custom Learning blind</l>
+            <l xml:id="swift-578-451O-line-13" n="13">`You who thro frailty stepd aside</l>
+            <l xml:id="swift-578-451O-line-14" n="14">`and You who never err'd thro Pride</l>
+            <l xml:id="swift-578-451O-line-15" n="15">`and You whom Diffrent Sects have sham'd</l>
+            <l xml:id="swift-578-451O-line-16" n="16">`and come to see each other Damn'd</l>
+            <l xml:id="swift-578-451O-line-17" n="17">`So some Folks told you, but they knew,</l>
+            <l xml:id="swift-578-451O-line-18" n="18">`no more of Iove's designs than You</l>
+            <l xml:id="swift-578-451O-line-19" n="19">om.</l>
+            <l xml:id="swift-578-451O-line-20" n="20">om.</l>
+            <l xml:id="swift-578-451O-line-21" n="21">`I to such Blockheads set my Wit</l>
+            <l xml:id="swift-578-451O-line-22" n="22">`I damn such Fools! Go Go, you're bit────</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

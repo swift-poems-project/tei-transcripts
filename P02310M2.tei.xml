@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER XXXIII.<lb/>  <hi rend="italics">To the Same</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 14MY16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P02310M2">
+          <head type="note" n="1" xml:id="spp-P02310M2-headnote-1">
+            <lg n="1" xml:id="spp-P02310M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02310M2-headnote-1-line-group-1-line-1">Explain this Proverb,&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P02310M2-headnote-2">
+            <lg n="1" xml:id="spp-P02310M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02310M2-headnote-2-line-group-1-line-1">Yes, you have it i nam o mento time.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P02310M2-headnote-3">
+            <lg n="1" xml:id="spp-P02310M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P02310M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P02310M2-line-1" n="1">
+              <hi rend="italics">Salt dry Fish, and the Wedding-gold,</hi>
+              <lb/>
+            </l>
+            <l xml:id="swift-P02310M2-line-2" n="2">
+              <hi rend="italics">Is the Vice of Women both young and old.</hi>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

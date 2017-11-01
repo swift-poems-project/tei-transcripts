@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Thanksgiving</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 24SE97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X84A760L">
+          <head type="note" n="1" xml:id="spp-X84A760L-headnote-1">
+            <lg n="1" xml:id="spp-X84A760L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A760L-headnote-1-line-group-1-line-1">February 1709&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X84A760L-headnote-2">
+            <lg n="1" xml:id="spp-X84A760L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A760L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X84A760L-headnote-3">
+            <lg n="1" xml:id="spp-X84A760L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A760L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X84A760L-line-1" n="1"><hi rend="display-initial">I</hi>n sounds of Joy Your Tunefull Voices raise</l>
+            <l xml:id="swift-X84A760L-line-2" n="2">And teach the People whom to thank and praise</l>
+            <l xml:id="swift-X84A760L-line-3" n="3">Thank humble Sarah's providential Reigne</l>
+            <l xml:id="swift-X84A760L-line-4" n="4">For Peace, &amp; Plenty both of Coin and Grain</l>
+            <l xml:id="swift-X84A760L-line-5" n="5">Thanks to Volpone for your un-bought Union</l>
+            <l xml:id="swift-X84A760L-line-6" n="6">Thank Bishops for occasional Comunion</l>
+            <l xml:id="swift-X84A760L-line-7" n="7">Thank the Stock jobbers for Your thriving Trade</l>
+            <l xml:id="swift-X84A760L-line-8" n="8">Once more thank Volpe that all Debts are paid</l>
+            <l xml:id="swift-X84A760L-line-9" n="9">Thank Marlborough's Zeale that scorn'd the proffer'd Treaty</l>
+            <l xml:id="swift-X84A760L-line-10" n="10">But thank Eugene the Frenchmen did not beat ye</l>
+            <l xml:id="swift-X84A760L-line-11" n="11">om.</l>
+            <l xml:id="swift-X84A760L-line-12" n="12">om.</l>
+            <l xml:id="swift-X84A760L-line-13" n="13">Thank your own Selves if you'r Tax'd and Sham'd</l>
+            <l xml:id="swift-X84A760L-line-14" n="14">But thanks the Almighty when the Three \<hi rend="italics">add</hi>·are\ damm'd</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A New</hi> S<hi rend="small-caps">IMILE</hi> <hi rend="italics">for the</hi> L<hi rend="small-caps">ADIES</hi>,<lb/>  <hi rend="italics">with useful Annotations</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 26DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="613-32LH">
+          <head type="note" n="1" xml:id="spp-613-32LH-headnote-1">
+            <lg n="1" xml:id="spp-613-32LH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-613-32LH-headnote-1-line-group-1-line-1"><hi rend="italics">To make a writer miss his end, <lb/> You've nothing else to do but mend</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-613-32LH-headnote-2">
+            <lg n="1" xml:id="spp-613-32LH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-613-32LH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-613-32LH-headnote-3">
+            <lg n="1" xml:id="spp-613-32LH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-613-32LH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-613-32LH-line-1" n="1"><hi rend="display-initial">I</hi> Often try'd in vain to find</l>
+            <l xml:id="swift-613-32LH-line-2" n="2">A <note place="foot">·<hi rend="italics">Most ladies in reading call this word a </hi>smile<hi rend="italics">, but they are to note, it consists of three syllables, </hi>si-mi-le<hi rend="italics">. In </hi>English<hi rend="italics">, a likeness.</hi></note> <hi rend="italics">simile</hi> for woman-kind,</l>
+            <l xml:id="swift-613-32LH-line-3" n="3">A <hi rend="italics">simile</hi> I mean to fit 'em,</l>
+            <l xml:id="swift-613-32LH-line-4" n="4">In ev'ry circumstance to <note place="foot">·<hi rend="italics">Not to hurt them.</hi></note> hit 'em.</l>
+            <l xml:id="swift-613-32LH-line-5" n="5">Through ev'ry beast and bird I went,</l>
+            <l xml:id="swift-613-32LH-line-6" n="6">I ransack'd ev'ry element,</l>
+            <l xml:id="swift-613-32LH-line-7" n="7">And after peeping thro' all nature,</l>
+            <l xml:id="swift-613-32LH-line-8" n="8">To find so whimsical a creature,</l>
+            <l xml:id="swift-613-32LH-line-9" n="9">A <hi rend="italics">cloud</hi> <note place="foot">·<hi rend="italics">Not like a gun or pistol.</hi></note> presented to my view,</l>
+            <l xml:id="swift-613-32LH-line-10" n="10">And strait this parallel I drew;</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-11" n="11"><hi rend="italics">Clouds</hi> turn with every wind about,</l>
+            <l xml:id="swift-613-32LH-line-12" n="12">They keep us in suspence and doubt,</l>
+            <l xml:id="swift-613-32LH-line-13" n="13">Yet oft' perverse like woman-kind</l>
+            <l xml:id="swift-613-32LH-line-14" n="14">Are seen to scud against the wind:</l>
+            <l xml:id="swift-613-32LH-line-15" n="15">And are not women just the same?</l>
+            <l xml:id="swift-613-32LH-line-16" n="16">For, who can tell at what they <note place="foot">·<hi rend="italics">This is not meant as to shooting, but resolving</hi>.</note> aim?</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-17" n="17"><hi rend="italics">Clouds</hi> keep the stoutest mortals under,</l>
+            <l xml:id="swift-613-32LH-line-18" n="18">When <note place="foot">·<hi rend="italics">The word</hi> [bellowing].</note> bell'wing they discharge their thunder;</l>
+            <l xml:id="swift-613-32LH-line-19" n="19">So when the alarum bell is rung,</l>
+            <l xml:id="swift-613-32LH-line-20" n="20">Of <note place="foot">·Xanti, <hi rend="italics">a nick name for </hi>Xantippe<hi rend="italics">, that scold of glorious memory, who never let poor </hi>Socrates<hi rend="italics"> have one moment's peace of mind, yet with unexampled patience, he bore her pestilential tongue. I shall beg the ladies pardon, if I insert a few passages concerning her, and at the same time I assure them, it is not to lessen those of the present age, who are possest of the like laudable talents; for I will confess that I know three in the city of </hi>Dublin<hi rend="italics">, no way inferior to </hi>Xantippe<hi rend="italics">, but that they have not as great men to work upon. When a friend asked </hi>Socrates<hi rend="italics">, how he could bear the scolding of his wife </hi>Xantippe<hi rend="italics">, he retorted, and asked him, how he could bear the gagling of his geese; ay, but my geese lay eggs for me, replied his friend; so does my wife bear me children, said </hi>Socrates<hi rend="italics">. </hi>Diog. Laert.<hi rend="italics"> Being asked at another time by a friend, how he could bear her tongue, he said she was of this use to him, that she taught him to bear the impertinencies of others with more ease, when he went abroad. </hi>Plut. de capiend. ex host, utilit. Socrates<hi rend="italics"> invited his friend </hi>Euthydemus<hi rend="italics"> to supper. </hi>Xantippe<hi rend="italics"> in great rage went in to them, and overset the table. </hi>Euthydemus<hi rend="italics"> rising in a passion to go off, my dear friend stay, said </hi>Socrates<hi rend="italics">. Did not a hen do the same thing at your house the other day, and did I shew any resentment? </hi>Plut. de ira cohibenda<hi rend="italics">. I could give many more instances of her termagancy, and his philosophy, if such a proceeding might not look as if I were glad of an opportunity to expose the fair sex; but to shew I have no such design, I declare solemnly, that I had much worse stories to tell of her behaviour to her husband, which I rather pass over on account of the great esteem which I bear for the ladies, especially those in the honourable station of matrimony.</hi></note> <hi rend="italics">Xanti</hi>'s everlasting tongue,</l>
+            <l xml:id="swift-613-32LH-line-21" n="21">The husband dreads its loudness more,</l>
+            <l xml:id="swift-613-32LH-line-22" n="22">Than light-nings flash, or thunder's roar.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-23" n="23"><hi rend="italics">Clouds</hi> weep as they do without pain,</l>
+            <l xml:id="swift-613-32LH-line-24" n="24">And what are tears but womens rain?</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-25" n="25">The <hi rend="italics">clouds</hi> about the welkin <note place="foot">·<hi rend="italics">Ramble.</hi></note> roam,</l>
+            <l xml:id="swift-613-32LH-line-26" n="26">And ladies never stay at home.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-27" n="27">The <hi rend="italics">clouds</hi> build castles in the air,</l>
+            <l xml:id="swift-613-32LH-line-28" n="28">A thing peculiar to the fair;</l>
+            <l xml:id="swift-613-32LH-line-29" n="29">For all the schemes of their <note place="foot">·<hi rend="italics">Not vomiting.</hi></note> fore-casting,</l>
+            <l xml:id="swift-613-32LH-line-30" n="30">Are not more solid nor more lasting.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-31" n="31">A <hi rend="italics">cloud</hi> is light by turns, and dark,</l>
+            <l xml:id="swift-613-32LH-line-32" n="32">Such is a lady with her spark;</l>
+            <l xml:id="swift-613-32LH-line-33" n="33">Now, with a sudden <note place="foot">·<hi rend="italics">Thrusting out the lip.</hi></note> pouting gloom,</l>
+            <l xml:id="swift-613-32LH-line-34" n="34">She seems to darken all the room;</l>
+            <l xml:id="swift-613-32LH-line-35" n="35">Again, she's pleased, his fears <note place="foot">·<hi rend="italics">This is to be understood not in the sense of wort when brewers put yest, or barm in it; but its true meaning is </hi>deceived<hi rend="italics">, or </hi>cheated<hi rend="italics">.</hi></note> beguil'd,</l>
+            <l xml:id="swift-613-32LH-line-36" n="36">And all is clear, when she has smil'd.</l>
+            <l xml:id="swift-613-32LH-line-37" n="37">In this they're wondrously alike,</l>
+            <l xml:id="swift-613-32LH-line-38" n="38">(I hope the <hi rend="italics">simile</hi> will <note place="foot">·<hi rend="italics">Hit your fancy.</hi></note> strike)</l>
+            <l xml:id="swift-613-32LH-line-39" n="39">Tho' in the darkest <note place="foot">·<hi rend="italics">Sullen fits; we have a merry jigg called </hi>Dumpty Deary<hi rend="italics">, invented to rouze ladies from the dumps.</hi></note> dumps you view' em,</l>
+            <l xml:id="swift-613-32LH-line-40" n="40">Stay but a moment you'll see thro' 'em.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-41" n="41">The <hi rend="italics">clouds</hi> are apt to make <note place="foot">·<hi rend="italics">Reflection of the sun.</hi></note> reflection,</l>
+            <l xml:id="swift-613-32LH-line-42" n="42">And frequently produce infection:</l>
+            <l xml:id="swift-613-32LH-line-43" n="43">So <hi rend="italics">Cælia</hi>, with small provocation,</l>
+            <l xml:id="swift-613-32LH-line-44" n="44">Blasts ev'ry neighbour's reputation.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-45" n="45">The <hi rend="italics">clouds</hi> delight in gaudy show,</l>
+            <l xml:id="swift-613-32LH-line-46" n="46">For they like ladies have their bow;</l>
+            <l xml:id="swift-613-32LH-line-47" n="47">The gravest <note place="foot">·<hi rend="italics">Motherly woman.</hi></note> matron will confess,</l>
+            <l xml:id="swift-613-32LH-line-48" n="48">That she herself is fond of dress.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-49" n="49">Observe the <hi rend="italics">clouds</hi> in pomp array'd,</l>
+            <l xml:id="swift-613-32LH-line-50" n="50">What various colours are display'd,</l>
+            <l xml:id="swift-613-32LH-line-51" n="51">The pink, the rose, the vi'lets dye,</l>
+            <l xml:id="swift-613-32LH-line-52" n="52">In that great drawing-room the sky;</l>
+            <l xml:id="swift-613-32LH-line-53" n="53">How do these differ from our <note place="foot">·<hi rend="italics">Not grace before and after meat, nor their graces the dutchesses, but the Graces which attend on Venus.</hi></note> graces,</l>
+            <l xml:id="swift-613-32LH-line-54" n="54">In gardin silks, brocades, and laces?</l>
+            <l xml:id="swift-613-32LH-line-55" n="55">Are they not such another sight,</l>
+            <l xml:id="swift-613-32LH-line-56" n="56">When met upon a birth-day night?</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-57" n="57">The <hi rend="italics">clouds</hi> delight to change their fasion,</l>
+            <l xml:id="swift-613-32LH-line-58" n="58">(Dear ladies be not in a passion)</l>
+            <l xml:id="swift-613-32LH-line-59" n="59">Nor let this whim to you seem strange,</l>
+            <l xml:id="swift-613-32LH-line-60" n="60">Who ev'ry hour delight in change.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-61" n="61">In them and you alike are seen</l>
+            <l xml:id="swift-613-32LH-line-62" n="62">The sullen symptoms of the spleen,</l>
+            <l xml:id="swift-613-32LH-line-63" n="63">The moment that your vapours rise,</l>
+            <l xml:id="swift-613-32LH-line-64" n="64">We see them dropping from your eyes:</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-65" n="65">In ev'ning fair you may behold</l>
+            <l xml:id="swift-613-32LH-line-66" n="66">The <hi rend="italics">clouds</hi> are fring'd with borrow'd gold,</l>
+            <l xml:id="swift-613-32LH-line-67" n="67">And this is many a lady's case,</l>
+            <l xml:id="swift-613-32LH-line-68" n="68">Who flaunts about in <note place="foot">·<hi rend="italics">Not </hi>Flanders<hi rend="italics"> lace, but gold and silver lace. By borrow'd, I mean such as run in honest tradesmen's debts, for what they were not able to pay, as many of them did for </hi>French<hi rend="italics"> silver lace against the last birth-day. </hi>Vid.<hi rend="italics"> the shopkeepers books.</hi></note> borrow'd lace.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-69" n="69">Grave matrons are like clouds of snow,</l>
+            <l xml:id="swift-613-32LH-line-70" n="70">Their words fall thick, and soft, and slow.</l>
+            <l xml:id="swift-613-32LH-line-71" n="71">While brisk <note place="foot">·<hi rend="italics">Girls who love to hear themselves prate, and put on a number of monkey airs to catch men.</hi></note> coquets, like rattling hail,</l>
+            <l xml:id="swift-613-32LH-line-72" n="72">Our ears on every side assail.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-73" n="73"><hi rend="italics">Clouds</hi> when they intercept our sight,</l>
+            <l xml:id="swift-613-32LH-line-74" n="74">Deprive us of celestial light:</l>
+            <l xml:id="swift-613-32LH-line-75" n="75">So when my <hi rend="italics">Chloe</hi> I pursue,</l>
+            <l xml:id="swift-613-32LH-line-76" n="76">No heav'n besides I have in view.</l>
+            <l rend="indent(1)" xml:id="swift-613-32LH-line-77" n="77">Thus on <note place="foot">·<hi rend="italics">I hope none will be so uncomplaisant to the ladies as to think these comparisons odious.</hi></note> comparison you see,</l>
+            <l xml:id="swift-613-32LH-line-78" n="78">In ev'ry instance they agree,</l>
+            <l xml:id="swift-613-32LH-line-79" n="79">So like, so very much the same,</l>
+            <l xml:id="swift-613-32LH-line-80" n="80">That one may go by t'others name.</l>
+            <l xml:id="swift-613-32LH-line-81" n="81">Let me <note place="foot">·<hi rend="italics">Tell it to the whole world, not to proclaim them as robbers and rapparoos.</hi></note> proclaim it then aloud,</l>
+            <l xml:id="swift-613-32LH-line-82" n="82">That ev'ry woman is a <hi rend="italics">cloud</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

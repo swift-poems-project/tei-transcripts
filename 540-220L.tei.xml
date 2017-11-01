@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 20JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-220L">
+          <head type="note" n="1" xml:id="spp-540-220L-headnote-1">
+            <lg n="1" xml:id="spp-540-220L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-220L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-220L-headnote-2">
+            <lg n="1" xml:id="spp-540-220L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-220L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-220L-headnote-3">
+            <lg n="1" xml:id="spp-540-220L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-220L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-220L-line-1" n="1">om.</l>
+            <l xml:id="swift-540-220L-line-2" n="2">om.</l>
+            <l xml:id="swift-540-220L-line-3" n="3">om.</l>
+            <l xml:id="swift-540-220L-line-4" n="4">om.</l>
+            <l xml:id="swift-540-220L-line-5" n="5">om.</l>
+            <l xml:id="swift-540-220L-line-6" n="6">om.</l>
+            <l xml:id="swift-540-220L-line-7" n="7">om.</l>
+            <l xml:id="swift-540-220L-line-8" n="8">om.</l>
+            <l xml:id="swift-540-220L-line-9" n="9">With favour &amp; fortune fastidiously blest</l>
+            <l xml:id="swift-540-220L-line-10" n="10">he's loud in his laugh &amp; he's coarse in his Iest</l>
+            <l xml:id="swift-540-220L-line-11" n="11">of favour &amp; fortune unmerited vain</l>
+            <l xml:id="swift-540-220L-line-12" n="12">a sharper in trifles a dupe in the main</l>
+            <l xml:id="swift-540-220L-line-13" n="13">atchieving of nothing Still promising wonders</l>
+            <l xml:id="swift-540-220L-line-14" n="14">by dint of experience improving in Blunders</l>
+            <l xml:id="swift-540-220L-line-15" n="15">oppressing true merit exalting the base</l>
+            <l xml:id="swift-540-220L-line-16" n="16">and selling his Country to purchase his peace</l>
+            <l xml:id="swift-540-220L-line-17" n="17">a Jobber of Stocks by retailing false news</l>
+            <l xml:id="swift-540-220L-line-18" n="18">a prater at Court in the Stile of the Stews</l>
+            <l xml:id="swift-540-220L-line-19" n="19">of Virtue &amp; worth by profession a giber</l>
+            <l xml:id="swift-540-220L-line-20" n="20">of Juries and Senates the bully &amp; briber</l>
+            <l xml:id="swift-540-220L-line-21" n="21">Tho I name not the wretch you know Who I mean</l>
+            <l xml:id="swift-540-220L-line-22" n="22">T'is the Cur dog of Brittain &amp; spaniel of Spain──</l>
+            <l xml:id="swift-540-220L-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

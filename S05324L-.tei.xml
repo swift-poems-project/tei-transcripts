@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  PROLOGUE,<lb/>  <hi rend="italics">Spoken by Mr</hi>. E<hi rend="small-caps">LRINGTON</hi>, <hi rend="italics">at<lb/>  the </hi>Theatre-Royal<hi rend="italics"> in </hi>Dublin<hi rend="italics">, in<lb/>  behalf of the distressed</hi> W<hi rend="small-caps">EAVERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 12SE96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S05324L-">
+          <head type="note" n="1" xml:id="spp-S05324L--headnote-1">
+            <lg n="1" xml:id="spp-S05324L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S05324L--headnote-1-line-group-1-line-1">By Mr. S<hi rend="small-caps">HERRIDON</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S05324L--headnote-2">
+            <lg n="1" xml:id="spp-S05324L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S05324L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S05324L--headnote-3">
+            <lg n="1" xml:id="spp-S05324L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S05324L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S05324L--line-1" n="1"><hi rend="display-initial">G</hi>Reat Cry and Little Wool────── is now become</l>
+            <l xml:id="swift-S05324L--line-2" n="2">The <hi rend="italics">Plague</hi> and <hi rend="italics">Proverb</hi> of the <hi rend="italics">Weavers-Loom</hi>.</l>
+            <l xml:id="swift-S05324L--line-3" n="3">No <hi rend="italics">Wooll</hi> to work on, neither <hi rend="italics">Weft</hi> nor <hi rend="italics">Warp</hi>;</l>
+            <l xml:id="swift-S05324L--line-4" n="4">Their Pockets empty, and their Stomachs sharp.</l>
+            <l xml:id="swift-S05324L--line-5" n="5">Provok'd, in loud Complaints, to you they cry,</l>
+            <l xml:id="swift-S05324L--line-6" n="6">Ladies relieve the <hi rend="italics">Weavers</hi>, or they dye.</l>
+            <l xml:id="swift-S05324L--line-7" n="7">Forsake your <hi rend="italics">Silks</hi> for <hi rend="italics">Stuffs</hi>, nor think it strange</l>
+            <l xml:id="swift-S05324L--line-8" n="8">To shift your Cloths, since you delight in Change.</l>
+            <l xml:id="swift-S05324L--line-9" n="9">One Thing with Freedom I'll presume to tell,</l>
+            <l xml:id="swift-S05324L--line-10" n="10">The Men will like you ev'ry Bit as well.</l>
+            <l rend="indent(1)" xml:id="swift-S05324L--line-11" n="11"><lb/>See, I am dress'd from Top to Toe in <hi rend="italics">Stuff</hi>,</l>
+            <l xml:id="swift-S05324L--line-12" n="12">And by my <hi rend="italics">Troth</hi> I think I'm fine enough;</l>
+            <l xml:id="swift-S05324L--line-13" n="13">My Wife admires me more, and swears she never</l>
+            <l xml:id="swift-S05324L--line-14" n="14">In any Dress, beheld me look so clever.</l>
+            <l xml:id="swift-S05324L--line-15" n="15">And if a Man be better in such Ware,</l>
+            <l xml:id="swift-S05324L--line-16" n="16">What great Advantage must it give the Fair!</l>
+            <l xml:id="swift-S05324L--line-17" n="17">Our <hi rend="italics">Wooll</hi> from <hi rend="italics">Lambs</hi> of Innocence proceeds;</l>
+            <l xml:id="swift-S05324L--line-18" n="18"><hi rend="italics">Silks</hi> come from <hi rend="italics">Maggots, Callicoes</hi> from <hi rend="italics">Weeds</hi>:</l>
+            <l xml:id="swift-S05324L--line-19" n="19">Hence 'tis, by sad Experience, that we find</l>
+            <l xml:id="swift-S05324L--line-20" n="20">Ladies, in <hi rend="italics">Silks</hi>, to Vapours much inclin'd,</l>
+            <l xml:id="swift-S05324L--line-21" n="21">And what are they but <hi rend="italics">Maggots</hi> in the Mind?</l>
+            <l xml:id="swift-S05324L--line-22" n="22">For which I think it Reason to conclude,</l>
+            <l xml:id="swift-S05324L--line-23" n="23">That Cloaths may change our Tempers like our Food.</l>
+            <l xml:id="swift-S05324L--line-24" n="24"><hi rend="italics">Chinces</hi> are gawdy, and engage our Eyes;</l>
+            <l xml:id="swift-S05324L--line-25" n="25">Too much about the Party-colour'd dies:</l>
+            <l xml:id="swift-S05324L--line-26" n="26">Altho' the Lustre is from you begun,</l>
+            <l xml:id="swift-S05324L--line-27" n="27">We see the Rain-Bow, and neglect the Sun.</l>
+            <l rend="indent(1)" xml:id="swift-S05324L--line-28" n="28"><lb/>How Sweet and Innocent's the Country Maid,</l>
+            <l xml:id="swift-S05324L--line-29" n="29">With small Expence, in Native <hi rend="italics">Wooll</hi> array'd;</l>
+            <l xml:id="swift-S05324L--line-30" n="30">Who copies from the Fields, her homely Green,</l>
+            <l xml:id="swift-S05324L--line-31" n="31">While by her Shepherd with Delight she's seen?</l>
+            <l xml:id="swift-S05324L--line-32" n="32">Should our fair Ladies dress like her in <hi rend="italics">Wooll</hi>,</l>
+            <l xml:id="swift-S05324L--line-33" n="33">How much more lovely, and how beautiful,</l>
+            <l xml:id="swift-S05324L--line-34" n="34">Without their <hi rend="italics">Indian</hi> Drapery they'd prove,</l>
+            <l xml:id="swift-S05324L--line-35" n="35">And <hi rend="italics">Wooll</hi> wou'd help to warm us into Love.</l>
+            <l xml:id="swift-S05324L--line-36" n="36">Then, like the famous <hi rend="italics">Argonauts</hi> of <hi rend="italics">Greece</hi>,</l>
+            <l xml:id="swift-S05324L--line-37" n="37">We'd all contend to gain the <hi rend="italics">Golden-Fleece.</hi></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

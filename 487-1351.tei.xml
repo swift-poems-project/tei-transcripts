@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the IRISH-CLUB.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 28AP07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="487-1351">
+          <head type="note" n="1" xml:id="spp-487-1351-headnote-1">
+            <lg n="1" xml:id="spp-487-1351-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-487-1351-headnote-1-line-group-1-line-1">Written in the Year <hi rend="small-caps">M DCC XXIX</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-487-1351-headnote-2">
+            <lg n="1" xml:id="spp-487-1351-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-487-1351-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-487-1351-headnote-3">
+            <lg n="1" xml:id="spp-487-1351-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-487-1351-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-487-1351-line-1" n="1"><hi rend="display-initial">Y</hi>E paultry underlings of state,</l>
+            <l xml:id="swift-487-1351-line-2" n="2">Ye s────rs, who love to prate;</l>
+            <l xml:id="swift-487-1351-line-3" n="3">Ye r────ls, of inferior note,</l>
+            <l xml:id="swift-487-1351-line-4" n="4">Who, for a dinner, sell a vote;</l>
+            <l xml:id="swift-487-1351-line-5" n="5">Ye pack of pensionary P────rs,</l>
+            <l xml:id="swift-487-1351-line-6" n="6">Whose fingers itch for poets ears;</l>
+            <l xml:id="swift-487-1351-line-7" n="7">Ye bishops far remov'd from saints,</l>
+            <l xml:id="swift-487-1351-line-8" n="8">Why all this rage? Why these complaints?</l>
+            <l xml:id="swift-487-1351-line-9" n="9">Why against Printers all this noise?</l>
+            <l xml:id="swift-487-1351-line-10" n="10">This summoning of blackguard boys?</l>
+            <l xml:id="swift-487-1351-line-11" n="11">Why so sagacious in your guesses?</l>
+            <l xml:id="swift-487-1351-line-12" n="12">Hour <hi rend="italics">effs</hi> and <hi rend="italics">tees</hi>, and <hi rend="italics">arrs</hi>, and <hi rend="italics">esses</hi>?</l>
+            <l xml:id="swift-487-1351-line-13" n="13">Take my advice; to make you safe,</l>
+            <l xml:id="swift-487-1351-line-14" n="14">I know a shorter way by half.</l>
+            <l xml:id="swift-487-1351-line-15" n="15">The point is plain: Remove the cause;</l>
+            <l xml:id="swift-487-1351-line-16" n="16">Defend your liberties and laws.</l>
+            <l xml:id="swift-487-1351-line-17" n="17">Be sometimes to your country true,</l>
+            <l xml:id="swift-487-1351-line-18" n="18">Have once the public good in view:</l>
+            <l xml:id="swift-487-1351-line-19" n="19">Bravely despise Champagne at Court,</l>
+            <l xml:id="swift-487-1351-line-20" n="20">And chuse to dine at home with Port:</l>
+            <l xml:id="swift-487-1351-line-21" n="21">Let Pr────s, by their good behaviour,</l>
+            <l xml:id="swift-487-1351-line-22" n="22">Convince us they believe a Saviour;</l>
+            <l xml:id="swift-487-1351-line-23" n="23">Nor sell what they so dearly bought,</l>
+            <l xml:id="swift-487-1351-line-24" n="24">This country, now their own, for nought,</l>
+            <l xml:id="swift-487-1351-line-25" n="25">Ne'er did a true satyric muse</l>
+            <l xml:id="swift-487-1351-line-26" n="26">Virtue or innocence abuse;</l>
+            <l xml:id="swift-487-1351-line-27" n="27">And 'tis against poetic rules</l>
+            <l xml:id="swift-487-1351-line-28" n="28">To rail at men by nature fools:</l>
+            <l xml:id="swift-487-1351-line-29" n="29">But *·· *·· *·· *·· *·· *·· *·· *·· *</l>
+            <l xml:id="swift-487-1351-line-30" n="30">*·· *·· *·· *·· *·· *·· *·· *·· *·· *·· *</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The A<hi rend="small-caps">MUSEMENTS</hi> of Y<hi rend="small-caps">OUNG </hi>M<hi rend="small-caps">EN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella 30JL14"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y45C76XC">
+          <head type="note" n="1" xml:id="spp-Y45C76XC-headnote-1">
+            <lg n="1" xml:id="spp-Y45C76XC-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y45C76XC-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y45C76XC-headnote-2">
+            <lg n="1" xml:id="spp-Y45C76XC-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y45C76XC-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y45C76XC-headnote-3">
+            <lg n="1" xml:id="spp-Y45C76XC-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y45C76XC-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y45C76XC-line-1" n="1"><hi rend="display-initial">G</hi>AMING, talking, swearing, drinking,</l>
+            <l xml:id="swift-Y45C76XC-line-2" n="2">Hunting, shooting,── never thinking;</l>
+            <l xml:id="swift-Y45C76XC-line-3" n="3">Chattering nonsense all day long;</l>
+            <l xml:id="swift-Y45C76XC-line-4" n="4">Humming half an opera song;</l>
+            <l xml:id="swift-Y45C76XC-line-5" n="5">Choosing baubles, rings, and jewels,</l>
+            <l xml:id="swift-Y45C76XC-line-6" n="6">Writing verses, fighting duels;</l>
+            <l xml:id="swift-Y45C76XC-line-7" n="7">Mincing words in conversation,</l>
+            <l xml:id="swift-Y45C76XC-line-8" n="8">Ridiculing all the nation;</l>
+            <l xml:id="swift-Y45C76XC-line-9" n="9">Admiring their own pretty faces,</l>
+            <l xml:id="swift-Y45C76XC-line-10" n="10">As if possess'd of all the graces;</l>
+            <l xml:id="swift-Y45C76XC-line-11" n="11">And tho' no bigger than a rat,</l>
+            <l xml:id="swift-Y45C76XC-line-12" n="12">Peeping under each girl's hat.</l>
+            <l xml:id="swift-Y45C76XC-line-13" n="13"><hi rend="italics">Grosvenor Square,<lb/>Feb</hi>. 15, 1776.</l>
+            <l xml:id="swift-Y45C76XC-line-14" n="14">L<hi rend="small-caps">AVINIA</hi> and<lb/>L<hi rend="small-caps">UCINDA</hi> G──·──.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

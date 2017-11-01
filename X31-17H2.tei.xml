@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 26JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X31-17H2">
+          <head type="note" n="1" xml:id="spp-X31-17H2-headnote-1">
+            <lg n="1" xml:id="spp-X31-17H2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31-17H2-headnote-1-line-group-1-line-1">“I was at <hi rend="italics">Howth</hi> to-day, and staid abroad a visiting till just now.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X31-17H2-headnote-2">
+            <lg n="1" xml:id="spp-X31-17H2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31-17H2-headnote-2-line-group-1-line-1">“<hi rend="italics">Tuesday</hi> Evening, <hi rend="italics">Nov</hi>. 23, 1731.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X31-17H2-headnote-3">
+            <lg n="1" xml:id="spp-X31-17H2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X31-17H2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X31-17H2-line-1" n="1">“Can you match with me,</l>
+            <l xml:id="swift-X31-17H2-line-2" n="2">“Who send thirty-three?</l>
+            <l xml:id="swift-X31-17H2-line-3" n="3">“You must get fourteen more,</l>
+            <l xml:id="swift-X31-17H2-line-4" n="4">“To make up thirty-four:</l>
+            <l xml:id="swift-X31-17H2-line-5" n="5">“But, if me you can conquer,</l>
+            <l xml:id="swift-X31-17H2-line-6" n="6">“I'll own you a strong cur<note place="foot">·The lines “thus marked” were written by Dr. <hi rend="italics">Swift</hi>, at the bottom of Dr. <hi rend="italics">Helsham's</hi> twenty lines; and the following fourteen were afterwards added on the same paper. N.</note>.”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

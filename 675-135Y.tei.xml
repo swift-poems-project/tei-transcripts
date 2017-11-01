@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Swift upon his Curat complaining of hard Duty (Extempore)</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 28OC02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-135Y">
+          <head type="note" n="1" xml:id="spp-675-135Y-headnote-1">
+            <lg n="1" xml:id="spp-675-135Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-135Y-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-675-135Y-headnote-2">
+            <lg n="1" xml:id="spp-675-135Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-135Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-675-135Y-headnote-3">
+            <lg n="1" xml:id="spp-675-135Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-135Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-675-135Y-line-1" n="1">I march'd three Miles thro' scorching Sand,</l>
+            <l xml:id="swift-675-135Y-line-2" n="2">With Zeal in heart, &amp; Notes in hand;</l>
+            <l xml:id="swift-675-135Y-line-3" n="3">And rode three more to great S<hi rend="superscript">ṭ</hi> Mary,</l>
+            <l xml:id="swift-675-135Y-line-4" n="4">using four legs, when two were weary.</l>
+            <l xml:id="swift-675-135Y-line-5" n="5">to three fair Virgins I did tye men</l>
+            <l xml:id="swift-675-135Y-line-6" n="6">in the close Bands of pleasing Hymen:</l>
+            <l xml:id="swift-675-135Y-line-7" n="7">three Babes \I·<hi rend="italics">correcting</hi>·in\ dipt in holy Water</l>
+            <l xml:id="swift-675-135Y-line-8" n="8">And purified their Mothers after.</l>
+            <l xml:id="swift-675-135Y-line-9" n="9">Within two hours &amp; eke an half</l>
+            <l xml:id="swift-675-135Y-line-10" n="10">I preach'd three Congregations deaf;</l>
+            <l xml:id="swift-675-135Y-line-11" n="11">And in the Compass of one more</l>
+            <l xml:id="swift-675-135Y-line-12" n="12">ran Evening Service o'er and o'er</l>
+            <l xml:id="swift-675-135Y-line-13" n="13">which thundring out with Lungs long winded</l>
+            <l xml:id="swift-675-135Y-line-14" n="14">I chopt so fast that few there minded</l>
+            <l xml:id="swift-675-135Y-line-15" n="15">my Emblem, the Laborious Sun 3}</l>
+            <l xml:id="swift-675-135Y-line-16" n="16">Saw all these mighty Labours done</l>
+            <l xml:id="swift-675-135Y-line-17" n="17">before one Race of his was run</l>
+            <l xml:id="swift-675-135Y-line-18" n="18">All this performed by Robert Hewit</l>
+            <l xml:id="swift-675-135Y-line-19" n="19">What mortal else could e're go through it.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

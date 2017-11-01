@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The following poems in English &amp; Latin are said to be written by Dr Swift</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 30OC02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673A090Y">
+          <head type="note" n="1" xml:id="spp-673A090Y-headnote-1">
+            <lg n="1" xml:id="spp-673A090Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A090Y-headnote-1-line-group-1-line-1">Grub 255&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-673A090Y-headnote-2">
+            <lg n="1" xml:id="spp-673A090Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A090Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-673A090Y-headnote-3">
+            <lg n="1" xml:id="spp-673A090Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A090Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-673A090Y-line-1" n="1">Vertiginosus, inops, surdus, malè gratus amicis</l>
+            <l xml:id="swift-673A090Y-line-2" n="2">Non campana sonans, tonitru ab Jove missum,</l>
+            <l xml:id="swift-673A090Y-line-3" n="3">Quod mage mirandum, saltem si crdere fas est,</l>
+            <l xml:id="swift-673A090Y-line-4" n="4">Vix clamosa meas mulier Jam percutit aures</l>
+            <l xml:id="swift-673A090Y-line-5" n="5">Deaf, giddy, helpless, left alone,</l>
+            <l xml:id="swift-673A090Y-line-6" n="6">To all my freinds a burden grown;</l>
+            <l xml:id="swift-673A090Y-line-7" n="7">No more J hear my church's Bell,</l>
+            <l xml:id="swift-673A090Y-line-8" n="8">Than if it rang out for my Knell</l>
+            <l xml:id="swift-673A090Y-line-9" n="9">At Thunder now noe more J start</l>
+            <l xml:id="swift-673A090Y-line-10" n="10">Than at y<hi rend="superscript">e</hi> rumbling of a cart</l>
+            <l xml:id="swift-673A090Y-line-11" n="11">Now, what's Jncredible, alack.</l>
+            <l xml:id="swift-673A090Y-line-12" n="12">J hardly hear a womans clack</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

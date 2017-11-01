@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The A<hi rend="small-caps">NSWER</hi> by Dr S<hi rend="small-caps">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 9MR11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 1JE14, 5FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="989-06G1">
+          <head type="note" n="1" xml:id="spp-989-06G1-headnote-1">
+            <lg n="1" xml:id="spp-989-06G1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-989-06G1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-989-06G1-headnote-2">
+            <lg n="1" xml:id="spp-989-06G1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-989-06G1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-989-06G1-headnote-3">
+            <lg n="1" xml:id="spp-989-06G1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-989-06G1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-989-06G1-line-1" n="1"><hi rend="italics">SIR</hi>,<lb/><hi rend="display-initial">I</hi> Thank you for your comedies.</l>
+            <l xml:id="swift-989-06G1-line-2" n="2">I'll stay and read 'em now at home a-days.</l>
+            <l xml:id="swift-989-06G1-line-3" n="3">Because Pareus wrote but sorrily,</l>
+            <l xml:id="swift-989-06G1-line-4" n="4">Thy notes I'll read Lambinus thorowly;</l>
+            <l xml:id="swift-989-06G1-line-5" n="5">And then I shall be stoutly set a gog</l>
+            <l xml:id="swift-989-06G1-line-6" n="6">To challenge ev'ry Irish Pædagogue.</l>
+            <l xml:id="swift-989-06G1-line-7" n="7">I like your nice epistle critical,</l>
+            <l xml:id="swift-989-06G1-line-8" n="8">Which does in threefold rhymes so witty fall;</l>
+            <l xml:id="swift-989-06G1-line-9" n="9">Upon the comick dram' and tragedy</l>
+            <l xml:id="swift-989-06G1-line-10" n="10">Your notion's right, but verses maggotty;</l>
+            <l xml:id="swift-989-06G1-line-11" n="11">'Tis but an hour since I heard a man swear it,</l>
+            <l xml:id="swift-989-06G1-line-12" n="12">The Dev'l himself could hardly answer it.</l>
+            <l xml:id="swift-989-06G1-line-13" n="13">As for your friend the sage Euripides,</l>
+            <l xml:id="swift-989-06G1-line-14" n="14"><note place="foot">·N.B. You told me you forgot your Greek.</note>I b'lieve you give him now the slip o'days;</l>
+            <l xml:id="swift-989-06G1-line-15" n="15">But mum for that──── pray come a Saturday</l>
+            <l xml:id="swift-989-06G1-line-16" n="16">And dine with me, you can't a betterday,</l>
+            <l xml:id="swift-989-06G1-line-17" n="17">I·ll give you nothing but a mutton chop,</l>
+            <l xml:id="swift-989-06G1-line-18" n="18">Some nappy mellow'd ale with rotten hop,</l>
+            <l xml:id="swift-989-06G1-line-19" n="19">A pint of wine as good as Falern'</l>
+            <l xml:id="swift-989-06G1-line-20" n="20">Which we poor masters God knows, all earn,</l>
+            <l xml:id="swift-989-06G1-line-21" n="21">We'll have a friend or two Sir at table</l>
+            <l xml:id="swift-989-06G1-line-22" n="22">Right honest men, for few 're comeatable,</l>
+            <l xml:id="swift-989-06G1-line-23" n="23">Then when our liquor makes us talkative</l>
+            <l xml:id="swift-989-06G1-line-24" n="24">We'll to the fields, and take a walk at eve.</l>
+            <l rend="indent(1)" xml:id="swift-989-06G1-line-25" n="25">Because I'm troubled much with laziness,</l>
+            <l rend="indent(1)" xml:id="swift-989-06G1-line-26" n="26">These rhymes I've chosen for their easiness.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

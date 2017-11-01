@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>WRITTEN ON THE DOOR OF A COUNTRY ALE-HOUSE,<lb/>  OVER WHICH A POLE INDICATED THAT THE MASTER<lb/>  OF IT ACTED ALSO AS A BARBER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 24DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y45A97L7">
+          <head type="note" n="1" xml:id="spp-Y45A97L7-headnote-1">
+            <lg n="1" xml:id="spp-Y45A97L7-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y45A97L7-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y45A97L7-headnote-2">
+            <lg n="1" xml:id="spp-Y45A97L7-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y45A97L7-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y45A97L7-headnote-3">
+            <lg n="1" xml:id="spp-Y45A97L7-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y45A97L7-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y45A97L7-line-1" n="1">RANGE not from <hi rend="italics">pole</hi> to <hi rend="italics">pole</hi>, the man lives here,</l>
+            <l xml:id="swift-Y45A97L7-line-2" n="2">Whose razors nought can equal, but his beer;</l>
+            <l xml:id="swift-Y45A97L7-line-3" n="3">Where, in a double sense, each country put,</l>
+            <l xml:id="swift-Y45A97L7-line-4" n="4">May, if he pleases, be completely <hi rend="italics">cut</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

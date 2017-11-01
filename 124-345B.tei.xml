@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Description of the Morning in Town.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12AP09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="124-345B">
+          <head type="note" n="1" xml:id="spp-124-345B-headnote-1">
+            <lg n="1" xml:id="spp-124-345B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-345B-headnote-1-line-group-1-line-1">Tatler vol. 1 p. \lost in gutter\&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-124-345B-headnote-2">
+            <lg n="1" xml:id="spp-124-345B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-345B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-124-345B-headnote-3">
+            <lg n="1" xml:id="spp-124-345B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-345B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-124-345B-line-1" n="1">How hardly here &amp; there an hackney-Coach</l>
+            <l xml:id="swift-124-345B-line-2" n="2">Appearing, shew'd y<hi rend="superscript">e</hi> ruddy morn's approach.</l>
+            <l xml:id="swift-124-345B-line-3" n="3">Now Betty From her Master's bed had flown,</l>
+            <l xml:id="swift-124-345B-line-4" n="4">And Softly Stole to discompose her own.</l>
+            <l xml:id="swift-124-345B-line-5" n="5">The Slipshod 'Prentice from his Masters door,</l>
+            <l xml:id="swift-124-345B-line-6" n="6">Had par'd y<hi rend="superscript">e</hi> Street, &amp; sprinkled round y<hi rend="superscript">e</hi> floor.</l>
+            <l xml:id="swift-124-345B-line-7" n="7">Now Moll had whirl'd her Mop w<hi rend="superscript">tḥ</hi> dextrous Airs,</l>
+            <l xml:id="swift-124-345B-line-8" n="8">Prepar'd to Scrub y<hi rend="superscript">e</hi> entry &amp; y<hi rend="superscript">e</hi> Stairs.</l>
+            <l xml:id="swift-124-345B-line-9" n="9">The Youth w<hi rend="superscript">tḥ</hi> broomy Stumps began to trace</l>
+            <l xml:id="swift-124-345B-line-10" n="10">The kennel edge, where wheels had worn y<hi rend="superscript">e</hi> place.</l>
+            <l xml:id="swift-124-345B-line-11" n="11">The Small-Coal man was heard w<hi rend="superscript">tḥ</hi> cadence deep,</l>
+            <l xml:id="swift-124-345B-line-12" n="12">'Til drown'd in shriller notes of Chimney-sweep.</l>
+            <l xml:id="swift-124-345B-line-13" n="13">Duns at his Lordship's Gate began to meet,</l>
+            <l xml:id="swift-124-345B-line-14" n="14">And brick-dust Moll had scream'd thro' half a street.</l>
+            <l xml:id="swift-124-345B-line-15" n="15">The Turn·key now his flock returning Sees,</l>
+            <l xml:id="swift-124-345B-line-16" n="16">Duly let out for Nighto returning fees.</l>
+            <l xml:id="swift-124-345B-line-17" n="17">The Watchful Bailiffs take their Silent stands</l>
+            <l xml:id="swift-124-345B-line-18" n="18">And Schoolboys lag with Satchels in their hands.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-236-07H1-title-1">An excellent new SONG on a seditious<lb/>  pamphlet. <ref target="#spp-236-07H1-footnote-title-1">1</ref><note n="1" xml:id="spp-236-07H1-footnote-title-1" place="foot">Proposal for the universal use of <hi rend="italics">irish</hi> manufactures, for which <hi rend="italics">Waters</hi> the printer was prosecuted. See vol. X</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 25JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-236-07H1-footnote-title-1 #spp-236-07H1-title-1"/>
+        </linkGrp>
+        <div n="236-07H1">
+          <head type="note" n="1" xml:id="spp-236-07H1-headnote-1">
+            <lg n="1" xml:id="spp-236-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-236-07H1-headnote-1-line-group-1-line-1"><hi rend="italics">To the Tune of</hi> Packington's Pound.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-236-07H1-headnote-2">
+            <lg n="1" xml:id="spp-236-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-236-07H1-headnote-2-line-group-1-line-1">Written in the Year 1720.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-236-07H1-headnote-3">
+            <lg n="1" xml:id="spp-236-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-236-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-236-07H1-line-1" n="1"><hi rend="display-initial">B</hi>ROCADOS and damasks, and tabbies, and gawses,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-2" n="2">Are by <hi rend="italics">Robert Ballentine</hi> lately brought over,</l>
+            <l xml:id="swift-236-07H1-line-3" n="3">With forty things more: now hear what the law says,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-4" n="4">Whoe'er will not wear them, is not the king's lover.</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-5" n="5">|Tho' a printer and dean</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-6" n="6">|Seditiously mean</l>
+            <l xml:id="swift-236-07H1-line-7" n="7">Our true <hi rend="italics">irish</hi> hearts from old <hi rend="italics">England</hi> to wean;</l>
+            <l xml:id="swift-236-07H1-line-8" n="8">We'll buy <hi rend="italics">english</hi> silks for our wives and our daughters,</l>
+            <l xml:id="swift-236-07H1-line-9" n="9">In spite of his deanship and journeyman <hi rend="italics">Waters</hi>.</l>
+            <l rend="center" xml:id="swift-236-07H1-line-10" n="10"><lb/>II._In <hi rend="italics">England</hi> the dead in woollen are clad,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-11" n="11">The dean and his printer then let us cry fye on;</l>
+            <l xml:id="swift-236-07H1-line-12" n="12">To be cloath'd like a carcase would make a teague mad,</l>
+            <l xml:id="swift-236-07H1-line-13" n="13">Since a living dog better is than a dead lyon.</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-14" n="14">|Our wives they grow sullen</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-15" n="15">|At wearing of woollen,</l>
+            <l xml:id="swift-236-07H1-line-16" n="16">And all we poor shopkeepers must our horns pull in.</l>
+            <l xml:id="swift-236-07H1-line-17" n="17">Then we'll buy <hi rend="italics">english</hi> silks for our wives and our daughters,</l>
+            <l xml:id="swift-236-07H1-line-18" n="18">In spite of his deanship and journeyman <hi rend="italics">Waters</hi>.</l>
+            <l rend="center" xml:id="swift-236-07H1-line-19" n="19"><lb/>III._Whoever our trading with <hi rend="italics">England</hi> would hinder,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-20" n="20">To <hi rend="italics">inflame</hi> both the nations do plainly conspire;</l>
+            <l xml:id="swift-236-07H1-line-21" n="21">Because <hi rend="italics">irish</hi> linen will soon turn to tinder;</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-22" n="22">And wool it is greasy, and quickly takes fire.</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-23" n="23">|Therefore I assure ye,</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-24" n="24">|Our noble grand jury,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-25" n="25">When they saw the dean's book they were in a great fury:</l>
+            <l xml:id="swift-236-07H1-line-26" n="26">They would buy <hi rend="italics">english</hi> silks for their wives, and their daughters,</l>
+            <l xml:id="swift-236-07H1-line-27" n="27">In spite of his deanship and journeyman <hi rend="italics">Waters</hi>.</l>
+            <l rend="center" xml:id="swift-236-07H1-line-28" n="28"><lb/>IV._This wicked rogue <hi rend="italics">Waters</hi>, who always is sinning,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-29" n="29">And before <hi rend="italics">Corum nobus</hi> so oft has been call'd,</l>
+            <l xml:id="swift-236-07H1-line-30" n="30">Henceforward shall print neither pamphlets nor linen,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-31" n="31">And, if swearing can do't, shall be swingingly mawl'd:</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-32" n="32">|And as for the dean,</l>
+            <l rend="indent(2)" xml:id="swift-236-07H1-line-33" n="33">|You know whom I mean,</l>
+            <l rend="indent(1)" xml:id="swift-236-07H1-line-34" n="34">If the printer will peach him, he'll scarce come off clean.</l>
+            <l xml:id="swift-236-07H1-line-35" n="35">Then we'll buy <hi rend="italics">english</hi> silks for our wives and our daughters,</l>
+            <l xml:id="swift-236-07H1-line-36" n="36">In spight of his deanship and journeyman <hi rend="italics">Waters</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

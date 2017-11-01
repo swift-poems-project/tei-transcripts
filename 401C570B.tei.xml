@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the Clergy of Chester</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C570B">
+          <head type="note" n="1" xml:id="spp-401C570B-headnote-1">
+            <lg n="1" xml:id="spp-401C570B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C570B-headnote-1-line-group-1-line-1">by Dean Swift&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-401C570B-headnote-2">
+            <lg n="1" xml:id="spp-401C570B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C570B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-401C570B-headnote-3">
+            <lg n="1" xml:id="spp-401C570B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C570B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-401C570B-line-1" n="1">Your mouldring Walls are mending still,</l>
+            <l rend="indent(1)" xml:id="swift-401C570B-line-2" n="2">Your Churches in neglect lye;</l>
+            <l xml:id="swift-401C570B-line-3" n="3">But yet the Scriptures you fulfil</l>
+            <l rend="indent(1)" xml:id="swift-401C570B-line-4" n="4">In walking circumspectly.</l>
+            <l xml:id="swift-401C570B-line-5" n="5">The Church and Clergy here no doubt</l>
+            <l rend="indent(1)" xml:id="swift-401C570B-line-6" n="6">Are very much akin,</l>
+            <l xml:id="swift-401C570B-line-7" n="7">Both weather·beaten are without,</l>
+            <l rend="indent(1)" xml:id="swift-401C570B-line-8" n="8">And empty are within.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

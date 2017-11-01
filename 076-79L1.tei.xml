@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-076-79L1-title-1">A B<hi rend="small-caps">ALLAD</hi>, To the Tune of, T<hi rend="small-caps">HE </hi>C<hi rend="small-caps">UT-PURSE</hi> <ref target="#spp-076-79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-076-79L1-footnote-title-1" place="foot">Lady Betty Berkeley, finding the preceding verses in the author's room unfinished, wrote under them the concluding stanza; which gave occasion to this ballad, written by the author in a counterfeit hand, as if a third person had done it</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 4JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-076-79L1-footnote-title-1 #spp-076-79L1-title-1"/>
+        </linkGrp>
+        <div n="076-79L1">
+          <head type="note" n="1" xml:id="spp-076-79L1-headnote-1">
+            <lg n="1" xml:id="spp-076-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-076-79L1-headnote-2">
+            <lg n="1" xml:id="spp-076-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-076-79L1-headnote-3">
+            <lg n="1" xml:id="spp-076-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-076-79L1-line-1" n="1">I.<lb/><hi rend="display-initial">O</hi>NCE on a time, as old stories rehearse,</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-2" n="2">A friar would needs shew his talent in Latin;</l>
+            <l xml:id="swift-076-79L1-line-3" n="3">But was sorely put to't in the midst of a verse,</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-4" n="4">Because he could find no word to come pat in:</l>
+            <l rend="indent(3)" xml:id="swift-076-79L1-line-5" n="5">||Then all in the place</l>
+            <l rend="indent(3)" xml:id="swift-076-79L1-line-6" n="6">||He left a void space,</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-7" n="7">And so went to bed in a desperate case:</l>
+            <l xml:id="swift-076-79L1-line-8" n="8">When behold the next morning a wonderful riddle!</l>
+            <l xml:id="swift-076-79L1-line-9" n="9">He found it was strangely fill'd up in the middle.</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-10" n="10">Cho. <hi rend="italics">Let censuring criticks then think what they list on't;</hi></l>
+            <l xml:id="swift-076-79L1-line-11" n="11"><hi rend="italics">||Who would not write verses with such an assistant</hi>?</l>
+            <l rend="center" xml:id="swift-076-79L1-line-12" n="12">II.<lb/>This put me the friar into an amazement:</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-13" n="13">For he wisely consider'd it must be a sprite;</l>
+            <l xml:id="swift-076-79L1-line-14" n="14">That he came through the key-hole, or in at the casement:</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-15" n="15">And it needs must be one that could both read and write:</l>
+            <l rend="indent(3)" xml:id="swift-076-79L1-line-16" n="16">||Yet he did not know</l>
+            <l rend="indent(3)" xml:id="swift-076-79L1-line-17" n="17">||If it were friend or foe,</l>
+            <l xml:id="swift-076-79L1-line-18" n="18">Or whether it came from above or below:</l>
+            <l xml:id="swift-076-79L1-line-19" n="19">However, 't was civil in angel or elf,</l>
+            <l xml:id="swift-076-79L1-line-20" n="20">For he ne'er could have fill'd it so well of himself.</l>
+            <l rend="indent(2)" xml:id="swift-076-79L1-line-21" n="21">|Chor. <hi rend="italics">Let censuring</hi>, &amp;c.</l>
+            <l xml:id="swift-076-79L1-line-22" n="22">om.</l>
+            <l rend="center" xml:id="swift-076-79L1-line-23" n="23">III.<lb/>Even so Master Doctor had puzzled his brains</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-24" n="24">In making a ballad, but was at a stand:</l>
+            <l xml:id="swift-076-79L1-line-25" n="25">He had mix'd little wit with a great deal of pains;</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-26" n="26">When he found a new help from invisible hand.</l>
+            <l rend="indent(3)" xml:id="swift-076-79L1-line-27" n="27">||Then, good Doctor Swift</l>
+            <l rend="indent(3)" xml:id="swift-076-79L1-line-28" n="28">||Pay thanks for the gift,</l>
+            <l rend="indent(1)" xml:id="swift-076-79L1-line-29" n="29">For you freely must own, you were at a dead lift:</l>
+            <l xml:id="swift-076-79L1-line-30" n="30">And, though some malicious young spirit did do't,</l>
+            <l xml:id="swift-076-79L1-line-31" n="31">You may know by the hand it had no cloven foot.</l>
+            <l rend="indent(2)" xml:id="swift-076-79L1-line-32" n="32">|Chor. <hi rend="italics">Let censuring</hi>, &amp;c.</l>
+            <l xml:id="swift-076-79L1-line-33" n="33">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

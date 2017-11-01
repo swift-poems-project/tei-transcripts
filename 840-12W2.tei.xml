@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A BALLAD.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 12JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="840-12W2">
+          <head type="note" n="1" xml:id="spp-840-12W2-headnote-1">
+            <lg n="1" xml:id="spp-840-12W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-840-12W2-headnote-1-line-group-1-line-1">W<hi rend="small-caps">RITTEN</hi> by Dean Swift, on the bringing down of the gold coin, and which produced, it is said, a powerful effect upon the public mind. It has never been printed in his works, and was taken down from recitation by my friend Mr Hartstonge.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-840-12W2-headnote-2">
+            <lg n="1" xml:id="spp-840-12W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-840-12W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-840-12W2-headnote-3">
+            <lg n="1" xml:id="spp-840-12W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-840-12W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center indent(1)" xml:id="swift-840-12W2-line-1" n="1">I.<lb/>P<hi rend="small-caps">ATRICK</hi> astore,<note place="foot">·Astore, means my dear, my heart.</note> what news upon the town?</l>
+            <l xml:id="swift-840-12W2-line-2" n="2">By my soul there's bad news, for the gold she was pull'd down,</l>
+            <l xml:id="swift-840-12W2-line-3" n="3">The gold she was pull'd down, of that I'm very sure,</l>
+            <l xml:id="swift-840-12W2-line-4" n="4">For I saw'd them reading upon the towlsel<note place="foot">·The Tholsel, where criminals for the city were tried, and where proclamations, &amp;c. were posted. It was invariably called the Touls'el by the lower class.</note> <hi rend="italics">doore</hi>.</l>
+            <l rend="indent(4)" xml:id="swift-840-12W2-line-5" n="5">|||Sing, och, och, hoh, hoh.<note place="foot">·It would appear that the chorus here introducd, was intended to chime with the howl, the <hi rend="italics">ululatus</hi>, or funeral cry, of the Irish.</note></l>
+            <l rend="center" xml:id="swift-840-12W2-line-6" n="6">II.<lb/>Arrah! who was him reading? 'twas a <hi rend="italics">jauntleman</hi> in ruffles,</l>
+            <l xml:id="swift-840-12W2-line-7" n="7">And Patrick's bell she was ringing all in muffles;</l>
+            <l xml:id="swift-840-12W2-line-8" n="8">She was ringing very sorry, her tongue tied up with rag,</l>
+            <l xml:id="swift-840-12W2-line-9" n="9">Lorsha! and out of her shteeple there was hung a black flag.<note place="foot">·Swift, it is said, caused a muffled peal to be rung from the steeple of St Patrick's, on the day of the proclamation, and a black flag to be displayed from its battlements.</note></l>
+            <l rend="indent(4)" xml:id="swift-840-12W2-line-10" n="10">|||Sing, och, &amp;c.</l>
+            <l rend="center" xml:id="swift-840-12W2-line-11" n="11">III.<lb/>Patrick astore, who was him made this law?</l>
+            <l xml:id="swift-840-12W2-line-12" n="12">Some they do say, 'twas the big man of straw;<note place="foot">·The big man of straw, means the Duke of Dorset, Lord-Lieutenant of Ireland; he had only the name of authority, the essential power being vested in the primate.</note></l>
+            <l xml:id="swift-840-12W2-line-13" n="13">But others they do say, that it was Jug-Joulter,<note place="foot">·Jug-Joulter means Primate <hi rend="italics">Boulter</hi>, whose name is played upon in the succeeding line. In consequence of the public dissatisfaction expressed at the lowering the gold coin, the primate became very unpopular.</note></l>
+            <l xml:id="swift-840-12W2-line-14" n="14">The devil he may take her into hell and <hi rend="italics">Boult-her</hi>!</l>
+            <l rend="indent(4)" xml:id="swift-840-12W2-line-15" n="15">|||Sing, och, &amp;c.</l>
+            <l rend="center" xml:id="swift-840-12W2-line-16" n="16">IV.<lb/>Musha! Why Parliament wouldn't you maul,</l>
+            <l xml:id="swift-840-12W2-line-17" n="17">Those <hi rend="italics">carters</hi>, and paviours, and footmen, and all;<note place="foot">·“Footmen” alludes to a supporter of the measure, said to have been the son or grandson of a servant.</note></l>
+            <l xml:id="swift-840-12W2-line-18" n="18">Those rascally paviours who did us undermine,</l>
+            <l xml:id="swift-840-12W2-line-19" n="19"><note place="foot">·Means “<hi rend="italics">my hundred thousand hearty curses</hi> on the feeders of swine.”.</note>Och ma ceade millia mollighart on the feeders of swine!</l>
+            <l rend="indent(4)" xml:id="swift-840-12W2-line-20" n="20">|||Sing, och, &amp;c.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

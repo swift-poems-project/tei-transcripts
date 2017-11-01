@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>By <hi rend="superscript">Dr</hi> Swift upon the presents made him by the Earl of<lb/>  Orrery and D<hi rend="superscript">r</hi> Delany on his birth day Nov<hi rend="superscript">r</hi> 08. 30<hi rend="superscript">th</hi> 08. 1732.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 18JL97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="611-408P">
+          <head type="note" n="1" xml:id="spp-611-408P-headnote-1">
+            <lg n="1" xml:id="spp-611-408P-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-408P-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-611-408P-headnote-2">
+            <lg n="1" xml:id="spp-611-408P-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-408P-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-611-408P-headnote-3">
+            <lg n="1" xml:id="spp-611-408P-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-408P-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-611-408P-line-1" n="1">A paper book is sent by Boyle,</l>
+            <l xml:id="swift-611-408P-line-2" n="2">Too richly gilt for me to Soil,</l>
+            <l xml:id="swift-611-408P-line-3" n="3">Delany sends a Silver Standish,</l>
+            <l xml:id="swift-611-408P-line-4" n="4">When I no more a pen can brandish,</l>
+            <l xml:id="swift-611-408P-line-5" n="5">Lett both around my Tomb be plac'd,</l>
+            <l xml:id="swift-611-408P-line-6" n="6">For Trophies of a Muse Deceas'd;</l>
+            <l xml:id="swift-611-408P-line-7" n="7">And lett the friendly Lines they writ</l>
+            <l xml:id="swift-611-408P-line-8" n="8">In praise of long departed Witt,</l>
+            <l xml:id="swift-611-408P-line-9" n="9">Be graved on either side in Columns</l>
+            <l xml:id="swift-611-408P-line-10" n="10">More to my fame than All my Volumes;</l>
+            <l xml:id="swift-611-408P-line-11" n="11">To burst with Envy, Spite, &amp; Rage,</l>
+            <l xml:id="swift-611-408P-line-12" n="12">The Vandals of the present Age;</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

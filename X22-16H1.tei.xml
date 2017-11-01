@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X22-16H1-title-2">GEORGE <ref target="#spp-X22-16H1-footnote-title-1">1</ref><note n="1" xml:id="spp-X22-16H1-footnote-title-1" place="foot">In the year 1721, Doctor Swift, Doctor Delany, Doctor Sheridan, Doctor Stopford, the Reverend Dan Jackson, and some other company, spent a great part of the summer at Gallstown, in the county of Westmeath, the seat of George Rochfort, Esq; father to the present Earl of Bellevidere. Many of the gentlemen assembled in this groupe had a genius for poetry, and a taste for the polite arts. In this retirement they passed their hours very agreeably, and frequently amused themselves with poetical jests and whimsies of the brain, which undoubtedly were never designed originally for the press. However, since, by one means or other, several of those ingenious rapid performances have already appeared in some of the former volumes of Doctor Swift's works, it is hoped the two or three following copies of verses, which were communicated to the Editor of these volumes by a gentleman who had them long in his possession, will not meet with an ungracious reception from persons of taste and refinement</note> NIM-DAN-DEAN's<lb/>  INVITATION <ref target="#spp-X22-16H1-footnote-title-2">2</ref><note n="2" xml:id="spp-X22-16H1-footnote-title-2" place="foot">This Invitation seems to have been the joint composition of George Rochfort, John Rochfort, (who was called Nim, or Nimrod, by Doctor Swift, because he was fond of hunting) Dan Jackson, and Doctor Swift, in a vein of whim and merriment; and, in all probability, was sent off directly by the post to Sheridan</note><lb/>  TO<lb/>  M<hi rend="small-caps">R</hi>. THOMAS SHERIDAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 19JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. SK 10JL10; ed. JW 5AU11; ed. JW 21AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X22-16H1-footnote-title-1 #spp-X22-16H1-title-1"/>
+          <link target="#spp-X22-16H1-footnote-title-2 #spp-X22-16H1-title-2"/>
+        </linkGrp>
+        <div n="X22-16H1">
+          <head type="note" n="1" xml:id="spp-X22-16H1-headnote-1">
+            <lg n="1" xml:id="spp-X22-16H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X22-16H1-headnote-1-line-group-1-line-1"><lb/><lb/>Gallstown, August 2d, 1721.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X22-16H1-headnote-2">
+            <lg n="1" xml:id="spp-X22-16H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X22-16H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X22-16H1-headnote-3">
+            <lg n="1" xml:id="spp-X22-16H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X22-16H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X22-16H1-line-1" n="1"><hi rend="display-initial">D</hi>E<hi rend="small-caps">AR</hi> Tom, this verse, which however the beginning may appear, yet in the <hi rend="italics">end's good metre</hi>,</l>
+            <l xml:id="swift-X22-16H1-line-2" n="2">Is sent to desire that, when your August vacation comes, your <hi rend="italics">friends you'd meet here</hi>.</l>
+            <l xml:id="swift-X22-16H1-line-3" n="3">For why should you stay in that filthy hole, I mean the <hi rend="italics">city so smoaky</hi>,</l>
+            <l xml:id="swift-X22-16H1-line-4" n="4">When you have not one friend left in town, or at least not one that's <hi rend="italics">witty, to joke w'ye</hi>?</l>
+            <l xml:id="swift-X22-16H1-line-5" n="5">For, as for honest John<note place="foot">·It is supposed that by <hi rend="italics">John</hi>, in this passage, is meant Dr. Walmsley.</note>, tho' I am not sure on't, yet I'll be <hi rend="italics">hang'd, less he</hi></l>
+            <l xml:id="swift-X22-16H1-line-6" n="6">Be gone down to the county of Wexford with that great peer the Lord <hi rend="italics">Anglesey</hi><note place="foot">·Arthur Earl of Anglesey.</note>.</l>
+            <l xml:id="swift-X22-16H1-line-7" n="7">Oh! but I forgot, perhaps, by this time, you may have one come to town, but I don't know whether he be friend or <hi rend="italics">foe, Delany</hi>:</l>
+            <l xml:id="swift-X22-16H1-line-8" n="8">But, however, if he be come, bring him down, and you shall go back in a fortnight, for I know there's <hi rend="italics">no delaying ye</hi>.</l>
+            <l xml:id="swift-X22-16H1-line-9" n="9">Oh! I forgot too, I believe there may be one more, I mean that great fat joker, <hi rend="italics">friend Helsham, he</hi></l>
+            <l xml:id="swift-X22-16H1-line-10" n="10">That wrote the Prologue<note place="foot">·It was customary with Doctor Sheridan to have a Greek play acted by his head class just before they entered the University; and accordingly, in the year 1720, the Doctor having fixed on Hippolytus, writ a prologue in English, to be spoken by Master Tom Putland, one of the youngest children he had in his school. The prologue was very neat and elegant, but extremely puerile, and quite adapted to the childhood of the speaker, who as regularly was taught, and rehearsed his part, as any of the upper lads did theirs. However, it unfortunately happened, that Doctor King, Archbishop of Dublin, had promised Sheridan that he would go and see his lads perform the tragedy. Upon which Doctor Helsham writ another prologue, wherein he laughed egregiously at Sheridan's, and privately instructed Master Putland how to act his part; and, at the same time, exacted a promise from the child, that no consideration should make him repeat that prologue which he had been taught by Sheridan. When the play was to be acted, the Archbishop attended according to his promise, and Master Putland began Helsham's prologue, and went through it to the amazement of Sheridan; which fired him to such a degree, (although he was one of the best natured men in the world) that he would have entirely put off the play, had it not been in respect to the Archbishop, who was indeed highly complimented in Helsham's performance. When the play was over, the Archbishop was very desirous to hear Sheridan's prologue; but all the entreaties of the Archbishop, the child's father, and Sheridan, could not prevail with Master Putland to repeat it, having, he said, promised faithfully that he would not, upon any account whatever; and therefore insisted that he would keep his word.</note>, and if you stay with him, depend on't, in the <hi rend="italics">end, he'll sham ye</hi>.</l>
+            <l xml:id="swift-X22-16H1-line-11" n="11">Bring down Long Shanks Jim <note place="foot">·Doctor James Stopford, late bishop of Cloyne.</note> too, but now I think on't, he's not come yet from <hi rend="italics">Courtown</hi><note place="foot">·Courtown, the seat of ──────── Hussay, Esq; in the county of Kildare.</note><hi rend="italics">, I fancy</hi>;</l>
+            <l xml:id="swift-X22-16H1-line-12" n="12">For I heard, a month ago, that he was down there a <hi rend="italics">courting Sly Nancy</hi>.</l>
+            <l xml:id="swift-X22-16H1-line-13" n="13">However, bring down yourself, and you bring down all; for, to say it <hi rend="italics">we may venture</hi>,</l>
+            <l xml:id="swift-X22-16H1-line-14" n="14">In thee Delany's spleen, John's mirth, Helsham's jokes, and the soft soul of amorous <hi rend="italics">Jemmy center</hi>.</l>
+            <l rend="center" xml:id="swift-X22-16H1-line-15" n="15"><lb/>POSTSCRIPT._I had forgot to desire you to bring down what I say you have, and you'll believe me as sure as a <hi rend="italics">gun, and own it</hi>;</l>
+            <l xml:id="swift-X22-16H1-line-16" n="16">I mean, what no other mortal in the universe can boast of, your own spirit of <hi rend="italics">pun, and own wit</hi>.</l>
+            <l xml:id="swift-X22-16H1-line-17" n="17">And now I hope you'll excuse this rhyming, which I must say is (tho' written somewhat at <hi rend="italics">large) trim and clean</hi>;</l>
+            <l xml:id="swift-X22-16H1-line-18" n="18">And so I conclude, with humble respects as usual, Your most dutiful and obedient<lb/><hi rend="italics">George Nim-Dan-Dean</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

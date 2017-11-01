@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 5MR03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="949A342B">
+          <head type="note" n="1" xml:id="spp-949A342B-headnote-1">
+            <lg n="1" xml:id="spp-949A342B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-949A342B-headnote-1-line-group-1-line-1">on a Gentleman who refus<hi rend="superscript">d</hi> to eat a Slice of Bacon with an egg, in Lent</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-949A342B-headnote-2">
+            <lg n="1" xml:id="spp-949A342B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-949A342B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-949A342B-headnote-3">
+            <lg n="1" xml:id="spp-949A342B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-949A342B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-949A342B-line-1" n="1">om.</l>
+            <l xml:id="swift-949A342B-line-2" n="2">om.</l>
+            <l xml:id="swift-949A342B-line-3" n="3">om.</l>
+            <l xml:id="swift-949A342B-line-4" n="4">om.</l>
+            <l xml:id="swift-949A342B-line-5" n="5">om.</l>
+            <l xml:id="swift-949A342B-line-6" n="6">om.</l>
+            <l xml:id="swift-949A342B-line-7" n="7">Who can believe, with common sense,</l>
+            <l xml:id="swift-949A342B-line-8" n="8">A Bacon Slice can give offence;</l>
+            <l xml:id="swift-949A342B-line-9" n="9">Or how a Herring hath a Charm</l>
+            <l xml:id="swift-949A342B-line-10" n="10">Th' Almighty's anger to disarm:</l>
+            <l xml:id="swift-949A342B-line-11" n="11">Wrapt up in M<hi rend="small-caps">AJESTY DIVINE</hi></l>
+            <l xml:id="swift-949A342B-line-12" n="12">Does God regard on what we dine?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

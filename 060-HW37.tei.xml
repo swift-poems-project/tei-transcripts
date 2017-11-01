@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES wrote in a Lady's <hi rend="italics">Ivory Table-Book. Anno.</hi> 1698.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="060-HW37">
+          <head type="note" n="1" xml:id="spp-060-HW37-headnote-1">
+            <lg n="1" xml:id="spp-060-HW37-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-060-HW37-headnote-1-line-group-1-line-1">[1] <hi rend="italics">Miscellanies in Prose and Verse</hi>, 1711, p. 351 (2nd edn., 1713, p. 349). <hi rend="italics">Miscellanies. The Last Volume</hi>, 1727, p. 54 (1731, p. 166; 1733, p. 166). Faulkner, 1735, ii. II (1737, ii. 9). [Ref. F.][2] The exact date of composition cannot be fixed. In the <hi rend="italics">Miscellanies</hi> of 1711 it was assigned to 1698. No date is stated in the <hi rend="italics">Miscellanies</hi>, 1727. Faulkner gives 1706. Deane Swift, <hi rend="italics">Essay</hi>, 1755, p. 127, places it between 1703 and 1706. It may have been written early and revised about 1706.[3] The text is reprinted from the <hi rend="italics">Miscellanies</hi>, 1711.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-060-HW37-headnote-2">
+            <lg n="1" xml:id="spp-060-HW37-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-060-HW37-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-060-HW37-headnote-3">
+            <lg n="1" xml:id="spp-060-HW37-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-060-HW37-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-060-HW37-line-1" n="1"><hi rend="italics">Peruse</hi> my Leaves thro' ev'ry Part,</l>
+            <l xml:id="swift-060-HW37-line-2" n="2">And think thou seest my owners Heart,</l>
+            <l xml:id="swift-060-HW37-line-3" n="3">Scrawl'd o'er with Trifles thus, ░ and quite</l>
+            <l xml:id="swift-060-HW37-line-4" n="4">As hard, as sensless, and as light:</l>
+            <l xml:id="swift-060-HW37-line-5" n="5">Expos'd to every Coxcomb's Eyes,</l>
+            <l xml:id="swift-060-HW37-line-6" n="6">But hid with Caution from the Wise.</l>
+            <l xml:id="swift-060-HW37-line-7" n="7">Here you may read (<hi rend="italics">Dear Charming Saint</hi>)</l>
+            <l xml:id="swift-060-HW37-line-8" n="8">Beneath (<hi rend="italics">A new Receit</hi> ░ <hi rend="italics">for Paint</hi>)</l>
+            <l xml:id="swift-060-HW37-line-9" n="9">Here in Beau-spelling (<hi rend="italics">tru tel deth</hi>)</l>
+            <l xml:id="swift-060-HW37-line-10" n="10">There in her own (<hi rend="italics">far an el breth</hi>)</l>
+            <l xml:id="swift-060-HW37-line-11" n="11">Here (<hi rend="italics">lovely Nymph pronounce my doom</hi>)</l>
+            <l xml:id="swift-060-HW37-line-12" n="12">There (<hi rend="italics">A safe way to use Perfume</hi>)</l>
+            <l xml:id="swift-060-HW37-line-13" n="13">Here, a Page fill'd with Billet Doux;</l>
+            <l xml:id="swift-060-HW37-line-14" n="14">On t'other side (<hi rend="italics">laid out for Shoes</hi>)</l>
+            <l xml:id="swift-060-HW37-line-15" n="15">(<hi rend="italics">Madam, I dye without your Grace</hi>)</l>
+            <l xml:id="swift-060-HW37-line-16" n="16">(Item, <hi rend="italics">for half a Yard of Lace</hi>.)</l>
+            <l xml:id="swift-060-HW37-line-17" n="17">Who that had Wit would place it here,</l>
+            <l xml:id="swift-060-HW37-line-18" n="18">For every peeping Fop to Jear. ░</l>
+            <l xml:id="swift-060-HW37-line-19" n="19">To think that your Brains Issue is ░</l>
+            <l xml:id="swift-060-HW37-line-20" n="20">Expos'd to th' Excrement of his, ░</l>
+            <l xml:id="swift-060-HW37-line-21" n="21">In power of Spittle and a Clout</l>
+            <l xml:id="swift-060-HW37-line-22" n="22">When e're he please to blot it out;</l>
+            <l xml:id="swift-060-HW37-line-23" n="23">And then to heighten the Disgrace</l>
+            <l xml:id="swift-060-HW37-line-24" n="24">Clap his own Nonsence in the place.</l>
+            <l xml:id="swift-060-HW37-line-25" n="25">Whoe're expects to hold his part</l>
+            <l xml:id="swift-060-HW37-line-26" n="26">In such a Book and such a Heart,</l>
+            <l xml:id="swift-060-HW37-line-27" n="27">If he be Wealthy and a Fool</l>
+            <l xml:id="swift-060-HW37-line-28" n="28">Is in all Points the fittest Tool,</l>
+            <l xml:id="swift-060-HW37-line-29" n="29">Of whom it may be justly said,</l>
+            <l xml:id="swift-060-HW37-line-30" n="30">He's a Gold ░ Pencil tipt with Lead. ░</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

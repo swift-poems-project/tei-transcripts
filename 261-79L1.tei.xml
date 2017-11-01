@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES, WRITTEN ON A WINDOW,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 24JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="261-79L1">
+          <head type="note" n="1" xml:id="spp-261-79L1-headnote-1">
+            <lg n="1" xml:id="spp-261-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-261-79L1-headnote-1-line-group-1-line-1">At the D<hi rend="small-caps">EANRY </hi>H<hi rend="small-caps">OUSE, ST. </hi>P<hi rend="small-caps">ATRICK'S</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-261-79L1-headnote-2">
+            <lg n="1" xml:id="spp-261-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-261-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-261-79L1-headnote-3">
+            <lg n="1" xml:id="spp-261-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-261-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-261-79L1-line-1" n="1"><hi rend="display-initial">A</hi>RE the guests of this house still doom'd to be cheated?</l>
+            <l xml:id="swift-261-79L1-line-2" n="2">Sure, the fates have decreed they by halves should be treated.</l>
+            <l xml:id="swift-261-79L1-line-3" n="3">In the days of good <note place="foot">·Dean Sterne was distinguished for his hospitality.</note> John, if you came here to dine,</l>
+            <l xml:id="swift-261-79L1-line-4" n="4">You had choice of good meat, but no choice of good wine.</l>
+            <l xml:id="swift-261-79L1-line-5" n="5">In Jonathan's reign, if you come here to eat,</l>
+            <l xml:id="swift-261-79L1-line-6" n="6">You have choice of good wine, but no choice of good meat.</l>
+            <l xml:id="swift-261-79L1-line-7" n="7">Oh, Jove! then how fully might all sides be blest,</l>
+            <l xml:id="swift-261-79L1-line-8" n="8">Would'st thou but agree to this humble request?</l>
+            <l xml:id="swift-261-79L1-line-9" n="9">Put both deans in one; or, if that·'s too much trouble,</l>
+            <l xml:id="swift-261-79L1-line-10" n="10">Instead of the deans, make the deanry double.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

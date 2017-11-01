@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-R07400243X1-title-1">A description of Mother Ludwell's cave<ref target="#spp-R07400243X1-footnote-title-1">1</ref><note n="1" xml:id="spp-R07400243X1-footnote-title-1" place="foot">`In the pleasure grounds of Moor Park, Surrey, S<hi rend="superscript">r</hi> W<hi rend="superscript">m</hi> Temple's Seat' (note on the MS. perhaps written by the late Mrs. F. L. Longe)</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 24MY13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JW 27MY13 agt 600B; ed. JW 11JA14, 10JL16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-R07400243X1-footnote-title-1 #spp-R07400243X1-title-1"/>
+          <link target="# #spp-R07400243X1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="R07400243X1">
+          <head type="note" n="1" xml:id="spp-R07400243X1-headnote-1">
+            <lg n="1" xml:id="spp-R07400243X1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R07400243X1-headnote-1-line-group-1-line-1">hæ latebræ dulces, et si mihi credis, amœnæ<ref target="#spp-R07400243X1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-R07400243X1-footnote-headnote-1" place="foot"><hi rend="italics">hæ latebræ dulces, et si mihi credis, amœnæ</hi>. Horace, <hi rend="italics">Epist</hi>. I. xvi. 15: `Hae latebrae dulces, etiam, si credis, amoenae.' In the MS. this motto precedes <hi rend="italics">A Description</hi>, &amp;c</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R07400243X1-headnote-2">
+            <lg n="1" xml:id="spp-R07400243X1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R07400243X1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R07400243X1-headnote-3">
+            <lg n="1" xml:id="spp-R07400243X1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R07400243X1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

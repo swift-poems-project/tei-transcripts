@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">A Pastoral Dialogue between Richmond Lodge<lb/>  and Marble Hill</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="408-ROGP">
+          <head type="note" n="1" xml:id="spp-408-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-408-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-ROGP-headnote-1-line-group-1-line-1">WRITTEN JUNE l727, JUST AFTER THE NEWS OF THE KING'S DEATH&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-408-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-408-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-408-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-408-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-408-ROGP-line-1" n="1">In spite of Pope, in spite of Gay,</l>
+            <l xml:id="swift-408-ROGP-line-2" n="2">And all that he or they can say;</l>
+            <l xml:id="swift-408-ROGP-line-3" n="3">Sing on I must, and sing I will</l>
+            <l xml:id="swift-408-ROGP-line-4" n="4">Of Richmond·Lodge, and Marble·Hill.</l>
+            <l xml:id="swift-408-ROGP-line-5" n="5"><lb/>Last Friday night, as neighbours use,</l>
+            <l xml:id="swift-408-ROGP-line-6" n="6">This couple met to talk of news.</l>
+            <l xml:id="swift-408-ROGP-line-7" n="7">For by old proverbs it appears,</l>
+            <l xml:id="swift-408-ROGP-line-8" n="8">That walls have tongues, and hedges, ears.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-9" n="9"><lb/>MARBLE·HILL_Quoth Marble·Hill, right well I ween,</l>
+            <l xml:id="swift-408-ROGP-line-10" n="10">Your mistress now is grown a queen;</l>
+            <l xml:id="swift-408-ROGP-line-11" n="11">You'll find it soon by woeful proof,</l>
+            <l xml:id="swift-408-ROGP-line-12" n="12">She'll come no more beneath your roof.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-13" n="13"><lb/>RICHMOND·LODGE_The kingly prophet well evinces,</l>
+            <l xml:id="swift-408-ROGP-line-14" n="14">That we should put no trust in princes;</l>
+            <l xml:id="swift-408-ROGP-line-15" n="15">My royal master promised me</l>
+            <l xml:id="swift-408-ROGP-line-16" n="16">To raise me to a high degree:</l>
+            <l xml:id="swift-408-ROGP-line-17" n="17">But now he's grown a king, God wot,</l>
+            <l xml:id="swift-408-ROGP-line-18" n="18">I fear I shall be soon forgot.</l>
+            <l xml:id="swift-408-ROGP-line-19" n="19">You see, when folks have got their ends,</l>
+            <l xml:id="swift-408-ROGP-line-20" n="20">How quickly they neglect their friends;</l>
+            <l xml:id="swift-408-ROGP-line-21" n="21">Yet I may say 'twixt me and you,</l>
+            <l xml:id="swift-408-ROGP-line-22" n="22">Pray God they now may find as true.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-23" n="23"><lb/>MARBLE·HILL_My house was built but for a show,</l>
+            <l xml:id="swift-408-ROGP-line-24" n="24">My Lady's empty pockets know;</l>
+            <l xml:id="swift-408-ROGP-line-25" n="25">And now she will not have a shilling</l>
+            <l xml:id="swift-408-ROGP-line-26" n="26">To raise the stairs, or build the ceiling;</l>
+            <l xml:id="swift-408-ROGP-line-27" n="27">For, all the courtly madams round,</l>
+            <l xml:id="swift-408-ROGP-line-28" n="28">Now pay four shillings in the pound.</l>
+            <l xml:id="swift-408-ROGP-line-29" n="29">'Tis come to what I always thought;</l>
+            <l xml:id="swift-408-ROGP-line-30" n="30">My dame is hardly worth a groat.</l>
+            <l xml:id="swift-408-ROGP-line-31" n="31">Had you and I been courtiers born,</l>
+            <l xml:id="swift-408-ROGP-line-32" n="32">We should not thus have lain forlorn;</l>
+            <l xml:id="swift-408-ROGP-line-33" n="33">For, those we dexterous courtiers call,</l>
+            <l xml:id="swift-408-ROGP-line-34" n="34">Can <hi rend="italics">rise</hi> upon their master's <hi rend="italics">fall</hi>.</l>
+            <l xml:id="swift-408-ROGP-line-35" n="35">But we, unlucky and unwise,</l>
+            <l xml:id="swift-408-ROGP-line-36" n="36">Must <hi rend="italics">fall</hi>, because our masters rise.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-37" n="37"><lb/>RICHMOND·LODGE_My master scarce a fortnight since,</l>
+            <l xml:id="swift-408-ROGP-line-38" n="38">Was grown as wealthy as a prince;</l>
+            <l xml:id="swift-408-ROGP-line-39" n="39">But now it will be no such thing,</l>
+            <l xml:id="swift-408-ROGP-line-40" n="40">For he'll be poor as any king:</l>
+            <l xml:id="swift-408-ROGP-line-41" n="41">And, by his crown will nothing get;</l>
+            <l xml:id="swift-408-ROGP-line-42" n="42">But, like a king, to run in debt.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-43" n="43"><lb/>MARBLE·HILL_No mote the Dean, that grave divine,</l>
+            <l xml:id="swift-408-ROGP-line-44" n="44">Shall keep the key of my (no) wine;</l>
+            <l xml:id="swift-408-ROGP-line-45" n="45">My ice-house rob as heretofore,</l>
+            <l xml:id="swift-408-ROGP-line-46" n="46">And steal my artichokes no more;</l>
+            <l xml:id="swift-408-ROGP-line-47" n="47">Poor Patty Blount no more be seen</l>
+            <l xml:id="swift-408-ROGP-line-48" n="48">Bedraggled in my walks so green;</l>
+            <l xml:id="swift-408-ROGP-line-49" n="49">Plump Johnny Gay will now elope;</l>
+            <l xml:id="swift-408-ROGP-line-50" n="50">And here no more will dangle Pope.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-51" n="51"><lb/>RICHMOND·LODGE_Here wont the Dean when he's to seek,</l>
+            <l xml:id="swift-408-ROGP-line-52" n="52">To sponge a breakfast once a week;</l>
+            <l xml:id="swift-408-ROGP-line-53" n="53">To cry the bread was stale, and mutter</l>
+            <l xml:id="swift-408-ROGP-line-54" n="54">Complaints against the royal butter.</l>
+            <l xml:id="swift-408-ROGP-line-55" n="55">But, now I fear it will be said,</l>
+            <l xml:id="swift-408-ROGP-line-56" n="56">No butter sticks upon his bread.</l>
+            <l xml:id="swift-408-ROGP-line-57" n="57">We soon shall find him full of spleen,</l>
+            <l xml:id="swift-408-ROGP-line-58" n="58">For want of tattling to the Queen;</l>
+            <l xml:id="swift-408-ROGP-line-59" n="59">Stunning her royal ears with talking,</l>
+            <l xml:id="swift-408-ROGP-line-60" n="60">His Reverence and her Highness walking:</l>
+            <l xml:id="swift-408-ROGP-line-61" n="61">Whilst Lady Charlotte, like a stroller,</l>
+            <l xml:id="swift-408-ROGP-line-62" n="62">Sits mounted on the garden roller.</l>
+            <l xml:id="swift-408-ROGP-line-63" n="63">A goodly sight to see her ride,</l>
+            <l xml:id="swift-408-ROGP-line-64" n="64">With ancient Mirmont at her side.</l>
+            <l xml:id="swift-408-ROGP-line-65" n="65">In velvet cap his head lies warm;</l>
+            <l xml:id="swift-408-ROGP-line-66" n="66">His hat for show, beneath his arm.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-67" n="67"><lb/>MARBLE·HILL_Some South Sea broker from the city,</l>
+            <l xml:id="swift-408-ROGP-line-68" n="68">Will purchase me, the more's the pity,</l>
+            <l xml:id="swift-408-ROGP-line-69" n="69">Lay all my fine plantations waste,</l>
+            <l xml:id="swift-408-ROGP-line-70" n="70">To fit them to his vulgar taste;</l>
+            <l xml:id="swift-408-ROGP-line-71" n="71">Changed for the worse in every part,</l>
+            <l xml:id="swift-408-ROGP-line-72" n="72">My master Pope will break his heart.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-73" n="73"><lb/>RICHMOND·LODGE_In my own Thames may I be drownded,</l>
+            <l xml:id="swift-408-ROGP-line-74" n="74">If e'er I stoop beneath a crowned head:</l>
+            <l xml:id="swift-408-ROGP-line-75" n="75">Except her Majesty prevails</l>
+            <l xml:id="swift-408-ROGP-line-76" n="76">To place me with the Prince of Wales.</l>
+            <l xml:id="swift-408-ROGP-line-77" n="77">And then I shall be free from fears,</l>
+            <l xml:id="swift-408-ROGP-line-78" n="78">For, he'll be prince these fifty years.</l>
+            <l xml:id="swift-408-ROGP-line-79" n="79">I then will turn a courtier too,</l>
+            <l xml:id="swift-408-ROGP-line-80" n="80">And serve the times as others do.</l>
+            <l xml:id="swift-408-ROGP-line-81" n="81">Plain loyalty not built on hope,</l>
+            <l xml:id="swift-408-ROGP-line-82" n="82">I leave to your contriver, Pope:</l>
+            <l xml:id="swift-408-ROGP-line-83" n="83">None loves his king and country better,</l>
+            <l xml:id="swift-408-ROGP-line-84" n="84">Yet none was ever less their debtor.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-85" n="85"><lb/>MARBLE·HILL_Then, let him come and take a nap,</l>
+            <l xml:id="swift-408-ROGP-line-86" n="86">In summer, on my verdant lap:</l>
+            <l xml:id="swift-408-ROGP-line-87" n="87">Prefer our villas where the Thames is,</l>
+            <l xml:id="swift-408-ROGP-line-88" n="88">To Kensington, or hot St James's;</l>
+            <l xml:id="swift-408-ROGP-line-89" n="89">Nor shall I dull in silence sit;</l>
+            <l xml:id="swift-408-ROGP-line-90" n="90">For, 'tis to me he owes his wit;</l>
+            <l xml:id="swift-408-ROGP-line-91" n="91">My groves, my echoes, and my birds,</l>
+            <l xml:id="swift-408-ROGP-line-92" n="92">Have taught him his poetic words.</l>
+            <l xml:id="swift-408-ROGP-line-93" n="93">We gardens, and you wildernesses,</l>
+            <l xml:id="swift-408-ROGP-line-94" n="94">Assist all poets in distresses,</l>
+            <l xml:id="swift-408-ROGP-line-95" n="95">Him twice a week I here expect,</l>
+            <l xml:id="swift-408-ROGP-line-96" n="96">To rattle Moody for neglect;</l>
+            <l xml:id="swift-408-ROGP-line-97" n="97">An idle rogue, who spends his quarterage</l>
+            <l xml:id="swift-408-ROGP-line-98" n="98">In tippling at the Dog and Partridge;</l>
+            <l xml:id="swift-408-ROGP-line-99" n="99">And I can hardly get him down</l>
+            <l xml:id="swift-408-ROGP-line-100" n="100">Three times a week to brush my gown.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-101" n="101"><lb/>RICHMOND·LODGE_I pity you, dear Marble·Hill;</l>
+            <l xml:id="swift-408-ROGP-line-102" n="102">But hope to see you flourish still.</l>
+            <l xml:id="swift-408-ROGP-line-103" n="103">All happiness── and so adieu.</l>
+            <l rend="indent(1)" xml:id="swift-408-ROGP-line-104" n="104"><lb/>MARBLE·HILL_Kind Richmond·Lodge; the same to you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On a certain <lb/>  GENTLEMAN<lb/>  Who losing his <hi rend="italics">Money</hi> at Cards,<lb/>  had his P<hi rend="small-caps">ICTURE</hi> drawn by a<lb/>  L<hi rend="small-caps">ADY</hi> standing by.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 24JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="991A33D4">
+          <head type="note" n="1" xml:id="spp-991A33D4-headnote-1">
+            <lg n="1" xml:id="spp-991A33D4-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A33D4-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-991A33D4-headnote-2">
+            <lg n="1" xml:id="spp-991A33D4-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A33D4-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-991A33D4-headnote-3">
+            <lg n="1" xml:id="spp-991A33D4-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A33D4-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-991A33D4-line-1" n="1"><hi rend="display-initial">T</hi>O fair pretty B<hi rend="small-caps">ETTY, </hi>D<hi rend="small-caps">AN</hi> sat for his Picture,</l>
+            <l xml:id="swift-991A33D4-line-2" n="2">And defy'd her to draw him, so oft that he picqu'd her;</l>
+            <l xml:id="swift-991A33D4-line-3" n="3">He knew she'd no Pencil or colouring by her,</l>
+            <l xml:id="swift-991A33D4-line-4" n="4">And therefore he thought he might safely defy her.</l>
+            <l xml:id="swift-991A33D4-line-5" n="5">Come sit, says fair B<hi rend="small-caps">ETTY</hi>, then whips up her Scizar,</l>
+            <l xml:id="swift-991A33D4-line-6" n="6">And cuts out his Coxcomb in Silk, in a thrice Sir;</l>
+            <l xml:id="swift-991A33D4-line-7" n="7">D<hi rend="small-caps">AN</hi> sat with Attention, and saw with Surprize,</l>
+            <l xml:id="swift-991A33D4-line-8" n="8">How she lengthen'd his Chin, how she hollow'd his Eyes;</l>
+            <l xml:id="swift-991A33D4-line-9" n="9">But flatter'd himself with a secret Conceit,</l>
+            <l xml:id="swift-991A33D4-line-10" n="10">That his Lanthorn Jaws all her Art cou'd defeat;</l>
+            <l xml:id="swift-991A33D4-line-11" n="11">Fair B<hi rend="small-caps">ETTY</hi> observ'd it, then pulls out a Pin,</l>
+            <l xml:id="swift-991A33D4-line-12" n="12">And varies the Stuff of the Grain to his Grin;</l>
+            <l xml:id="swift-991A33D4-line-13" n="13">And to make roasted Silk to resemble his Raw-bone,</l>
+            <l xml:id="swift-991A33D4-line-14" n="14">She rais'd up a Thread to the jett of his Jaw-bone;</l>
+            <l xml:id="swift-991A33D4-line-15" n="15">'Till at length in exactest Proportion he rose,</l>
+            <l xml:id="swift-991A33D4-line-16" n="16">From the Crown of his Head, to the Arch of his Nose,</l>
+            <l xml:id="swift-991A33D4-line-17" n="17">And if pretty B<hi rend="small-caps">ETTY</hi> had drawn him with Wig and all,</l>
+            <l xml:id="swift-991A33D4-line-18" n="18">'Tis certain the Copy had out done the Original.</l>
+            <l xml:id="swift-991A33D4-line-19" n="19">om.</l>
+            <l xml:id="swift-991A33D4-line-20" n="20">om.</l>
+            <l xml:id="swift-991A33D4-line-21" n="21">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

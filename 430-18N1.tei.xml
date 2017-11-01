@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-430-18N1-title-2">EPITAPH,<lb/>  ON<lb/>  GENERAL GORGES<ref target="#spp-430-18N1-footnote-title-1">1</ref><note n="1" xml:id="spp-430-18N1-footnote-title-1" place="foot">Of Kilbrue, in the county of Meath</note>, AND LADY MEATH<ref target="#spp-430-18N1-footnote-title-2">2</ref><note n="2" xml:id="spp-430-18N1-footnote-title-2" place="foot">Dorothy, dowager of Edward, earl of Meath. She was married to the general in 1716; died April 18, 1728. Her Husband survived her but two days</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 3SE13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-430-18N1-footnote-title-1 #spp-430-18N1-title-1"/>
+          <link target="#spp-430-18N1-footnote-title-2 #spp-430-18N1-title-2"/>
+        </linkGrp>
+        <div n="430-18N1">
+          <head type="note" n="1" xml:id="spp-430-18N1-headnote-1">
+            <lg n="1" xml:id="spp-430-18N1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-18N1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-430-18N1-headnote-2">
+            <lg n="1" xml:id="spp-430-18N1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-18N1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-430-18N1-headnote-3">
+            <lg n="1" xml:id="spp-430-18N1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-18N1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-430-18N1-line-1" n="1"><hi rend="display-initial">U</hi>NDER this stone lies Dick and Dolly</l>
+            <l xml:id="swift-430-18N1-line-2" n="2">Doll dying first, Dick grew melancholy;</l>
+            <l xml:id="swift-430-18N1-line-3" n="3">For Dick without Doll thought living a folly.</l>
+            <l xml:id="swift-430-18N1-line-4" n="4"><lb/>Dick lost in Doll a wife tender and dear:</l>
+            <l xml:id="swift-430-18N1-line-5" n="5">But Dick lost by Doll twelve hundred a year;</l>
+            <l xml:id="swift-430-18N1-line-6" n="6">A loss that Dick thought no mortal could bear.</l>
+            <l xml:id="swift-430-18N1-line-7" n="7"><lb/>Dick sigh'd for his Doll, and his mournful arms cross'd;</l>
+            <l xml:id="swift-430-18N1-line-8" n="8">Thought much of his Doll, and the jointure he lost:</l>
+            <l xml:id="swift-430-18N1-line-9" n="9">The first vex'd him much, the other vex'd most.</l>
+            <l xml:id="swift-430-18N1-line-10" n="10"><lb/>Thus loaded with grief, Dick sigh'd and he cried:</l>
+            <l xml:id="swift-430-18N1-line-11" n="11">To live without both full three days he tried;</l>
+            <l xml:id="swift-430-18N1-line-12" n="12">But liked neither loss, and so quietly died.</l>
+            <l xml:id="swift-430-18N1-line-13" n="13">om.</l>
+            <l xml:id="swift-430-18N1-line-14" n="14">om.</l>
+            <l xml:id="swift-430-18N1-line-15" n="15">om.</l>
+            <l xml:id="swift-430-18N1-line-16" n="16"><lb/>Dick left a pattern few will copy after:</l>
+            <l xml:id="swift-430-18N1-line-17" n="17">Then, reader, pray shed some tears of salt water;</l>
+            <l xml:id="swift-430-18N1-line-18" n="18">For so sad a tale is no subject of laughter.</l>
+            <l xml:id="swift-430-18N1-line-19" n="19"><lb/>Meath smiles for the jointure, though gotten so late;</l>
+            <l xml:id="swift-430-18N1-line-20" n="20">The son laughs, that got the hard gotten estate;</l>
+            <l xml:id="swift-430-18N1-line-21" n="21">And Cuffe <note place="foot">·John Cuffe, of Desart, esq., married the general's eldest daughter.</note> grins, for getting the Alicant plate.</l>
+            <l xml:id="swift-430-18N1-line-22" n="22"><lb/>Here quiet they lie, in hopes to rise one day,</l>
+            <l xml:id="swift-430-18N1-line-23" n="23">Both solemnly put in this hole on a Sunday,</l>
+            <l xml:id="swift-430-18N1-line-24" n="24">And here rest------ <hi rend="italics">sic transit gloria mundi</hi>!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

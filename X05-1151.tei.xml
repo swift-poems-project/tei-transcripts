@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>S<hi rend="small-caps">HERIDAN'S </hi>S<hi rend="small-caps">UBMISSION</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 18FE04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X05-1151">
+          <head type="note" n="1" xml:id="spp-X05-1151-headnote-1">
+            <lg n="1" xml:id="spp-X05-1151-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X05-1151-headnote-1-line-group-1-line-1">Written by the D<hi rend="small-caps">EAN</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X05-1151-headnote-2">
+            <lg n="1" xml:id="spp-X05-1151-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X05-1151-headnote-2-line-group-1-line-1"><hi rend="italics">Cedo jam, miseræ cognoscens præmia rixæ, <lb/> Si rixa est, ubi tu pulsas, ego vapulo tantum</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X05-1151-headnote-3">
+            <lg n="1" xml:id="spp-X05-1151-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X05-1151-headnote-3-line-group-1-line-1">Poor <hi rend="italics">Sherry</hi>, inglorious, <lb/> To <hi rend="italics">Dan</hi> the victorious, <lb/> Presents, as 'tis fitting, <lb/> Petition and Greeting.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X05-1151-line-1" n="1"><hi rend="display-initial">T</hi>O you victorious and brave,</l>
+            <l xml:id="swift-X05-1151-line-2" n="2">Your now subdu'd and suppliant Slave</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-3" n="3">Most humbly sues for Pardon.</l>
+            <l xml:id="swift-X05-1151-line-4" n="4">Who when I fought, still cut me down,</l>
+            <l xml:id="swift-X05-1151-line-5" n="5">And when I vanquish'd, fled the Town,</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-6" n="6">Pursu'd and laid me hard on.</l>
+            <l xml:id="swift-X05-1151-line-7" n="7"><lb/>Now lowly crouch'd, I cry <hi rend="italics">Peccavi</hi>,</l>
+            <l xml:id="swift-X05-1151-line-8" n="8">And prostrate, supplicate <hi rend="italics">pour ma vie</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-9" n="9">Your Mercy I rely on.</l>
+            <l xml:id="swift-X05-1151-line-10" n="10">For you, my Conqu'ror and my King,</l>
+            <l xml:id="swift-X05-1151-line-11" n="11">In pard'ning, as in punishing,</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-12" n="12">Will shew yourself a Lion.</l>
+            <l xml:id="swift-X05-1151-line-13" n="13"><lb/>Alas, Sir, I had no Design,</l>
+            <l xml:id="swift-X05-1151-line-14" n="14">But was unwarily drawn in:</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-15" n="15">For Spite I ne'er had any.</l>
+            <l xml:id="swift-X05-1151-line-16" n="16">'Twas the damn'd Squire with the hard Name;</l>
+            <l xml:id="swift-X05-1151-line-17" n="17">The De'il too that ow'd me a Shame,</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-18" n="18">The Devil and <hi rend="italics">Delany</hi>;</l>
+            <l xml:id="swift-X05-1151-line-19" n="19"><lb/>They tempted me to·t'attack your Highness,</l>
+            <l xml:id="swift-X05-1151-line-20" n="20">And then, with wonted Wile and Slyness,</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-21" n="21">They left me in the Lurch.</l>
+            <l xml:id="swift-X05-1151-line-22" n="22">Unhappy Wretch! for now I ween,</l>
+            <l xml:id="swift-X05-1151-line-23" n="23">I've nothing left to vent my Spleen</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-24" n="24">But Ferula and Birch;</l>
+            <l xml:id="swift-X05-1151-line-25" n="25"><lb/>And they, alas, yield small Relief,</l>
+            <l xml:id="swift-X05-1151-line-26" n="26">Seem rather to renew my Grief,</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-27" n="27">My wounds bleed all anew:</l>
+            <l xml:id="swift-X05-1151-line-28" n="28">For ev'ry Stroke goes to my Heart,</l>
+            <l xml:id="swift-X05-1151-line-29" n="29">And at each Lash I feel the Smart</l>
+            <l rend="indent(1)" xml:id="swift-X05-1151-line-30" n="30">Of Lash laid on by you.</l>
+            <l xml:id="swift-X05-1151-line-31" n="31">om.</l>
+            <l xml:id="swift-X05-1151-line-32" n="32">om.</l>
+            <l xml:id="swift-X05-1151-line-33" n="33">om.</l>
+            <l xml:id="swift-X05-1151-line-34" n="34">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

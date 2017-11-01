@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Scriblerian Verses</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="186BROGP">
+          <head type="note" n="1" xml:id="spp-186BROGP-headnote-1">
+            <lg n="1" xml:id="spp-186BROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-186BROGP-headnote-1-line-group-1-line-1"><hi rend="italics">4</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-186BROGP-headnote-2">
+            <lg n="1" xml:id="spp-186BROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-186BROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-186BROGP-headnote-3">
+            <lg n="1" xml:id="spp-186BROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-186BROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="indent(1)" xml:id="swift-186BROGP-line-1" n="1">A pox of all senders</l><l rend="indent(1)" xml:id="swift-186BROGP-line-2" n="2">For any pretenders</l><l xml:id="swift-186BROGP-line-3" n="3">Who tell us these troublesome stories,</l><l rend="indent(1)" xml:id="swift-186BROGP-line-4" n="4">In their dull humdrum key</l><l rend="indent(1)" xml:id="swift-186BROGP-line-5" n="5">Of `<hi rend="italics">arma virumque</hi></l><l xml:id="swift-186BROGP-line-6" n="6">Hannoniae qui primus ab oris .</l>'<l rend="indent(1)" xml:id="swift-186BROGP-line-7" n="7"><lb/>A fig too for Hanmer</l><l rend="indent(1)" xml:id="swift-186BROGP-line-8" n="8">Who prates like his <hi rend="italics">grande mère</hi>,</l><l xml:id="swift-186BROGP-line-9" n="9">And all his old friends would rebuke</l><l rend="indent(1)" xml:id="swift-186BROGP-line-10" n="10">In spite of the carle</l><l rend="indent(1)" xml:id="swift-186BROGP-line-11" n="11">Give us but our Earl,</l><l xml:id="swift-186BROGP-line-12" n="12">And the devil may take their Duke.</l><l rend="indent(1)" xml:id="swift-186BROGP-line-13" n="13"><lb/>Then come and take part in</l><l rend="indent(1)" xml:id="swift-186BROGP-line-14" n="14">The <hi rend="italics">Memoirs of Martin</hi>,</l><l xml:id="swift-186BROGP-line-15" n="15">Lay by your white staff and grey habit,</l><l rend="indent(1)" xml:id="swift-186BROGP-line-16" n="16">For trust us, friend Mortimer,</l><l rend="indent(1)" xml:id="swift-186BROGP-line-17" n="17">Should you live years forty more</l><l xml:id="swift-186BROGP-line-18" n="18"><hi rend="italics">Haec olim meminisse juvabit</hi>.</l><l rend="indent(4)" xml:id="swift-186BROGP-line-19" n="19"><lb/>|||<hi rend="italics">By order of the club</hi></l><l rend="indent(4)" xml:id="swift-186BROGP-line-20" n="20">|||A. Pope</l><l rend="indent(4)" xml:id="swift-186BROGP-line-21" n="21">|||J. Gay</l><l rend="indent(4)" xml:id="swift-186BROGP-line-22" n="22">|||J. Swift</l><l rend="indent(4)" xml:id="swift-186BROGP-line-23" n="23">|||J. Arbuthnot</l><l rend="indent(4)" xml:id="swift-186BROGP-line-24" n="24">|||T. Parnel</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The five Ladies answer to the Beau<lb/>  with the Wig &amp; Wings at his Head</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 15JL11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="427-700B">
+          <head type="note" n="1" xml:id="spp-427-700B-headnote-1">
+            <lg n="1" xml:id="spp-427-700B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-427-700B-headnote-1-line-group-1-line-1">See a poem on the five Ladies at Sots Hole&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-427-700B-headnote-2">
+            <lg n="1" xml:id="spp-427-700B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-427-700B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-427-700B-headnote-3">
+            <lg n="1" xml:id="spp-427-700B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-427-700B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-427-700B-line-1" n="1">You little scribbling Beau,</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-2" n="2">What Demon made you write?</l>
+            <l xml:id="swift-427-700B-line-3" n="3">Because to write you know</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-4" n="4">As much as you can fight.</l>
+            <l xml:id="swift-427-700B-line-5" n="5"><lb/>For Compliment so scurvy,</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-6" n="6">I wish we had you here;</l>
+            <l xml:id="swift-427-700B-line-7" n="7">We'd turn you topsy turvy</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-8" n="8">Into a Mug a Beer.</l>
+            <l xml:id="swift-427-700B-line-9" n="9"><lb/>You thought to make a farce on</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-10" n="10">The Man &amp; Place we chose;</l>
+            <l xml:id="swift-427-700B-line-11" n="11">We're sure a single Parson</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-12" n="12">Is worth a hundred Beaus.</l>
+            <l rend="center" xml:id="swift-427-700B-line-13" n="13">3<lb/>And you would make us Vassals</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-14" n="14">Good M<hi rend="superscript">ṛ</hi> Wig &amp; Wings</l>
+            <l xml:id="swift-427-700B-line-15" n="15">To Silver Clocks &amp; tassels</l>
+            <l xml:id="swift-427-700B-line-16" n="16">You would you Thing of Thing!</l>
+            <l rend="center" xml:id="swift-427-700B-line-17" n="17">4Because around your Cane</l>
+            <l xml:id="swift-427-700B-line-18" n="18">A round of Diamonds is set</l>
+            <l xml:id="swift-427-700B-line-19" n="19">And you in some bye lane</l>
+            <l xml:id="swift-427-700B-line-20" n="20">Have gain'<hi rend="superscript">d</hi> a paltry Grizette</l>
+            <l xml:id="swift-427-700B-line-21" n="21"><lb/>Shall we of sense refin'<hi rend="superscript">d</hi></l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-22" n="22">Your trifling Nonsense bear,</l>
+            <l xml:id="swift-427-700B-line-23" n="23">As Noisy as the wind,</l>
+            <l xml:id="swift-427-700B-line-24" n="24">As empty as the air?</l>
+            <l xml:id="swift-427-700B-line-25" n="25"><lb/>We hate your empty prattle,</l>
+            <l xml:id="swift-427-700B-line-26" n="26">And vow &amp; swear 'tis true</l>
+            <l xml:id="swift-427-700B-line-27" n="27">There's more in one Childs rattle</l>
+            <l rend="indent(1)" xml:id="swift-427-700B-line-28" n="28">Than twenty Fops like you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">APOLLO</hi>: Or, a P<hi rend="small-caps">ROBLEM</hi> <hi rend="italics">solved</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 22JL97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="597-0202">
+          <head type="note" n="1" xml:id="spp-597-0202-headnote-1">
+            <lg n="1" xml:id="spp-597-0202-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-597-0202-headnote-1-line-group-1-line-1">W<hi rend="small-caps">RITTEN</hi> in the Y<hi rend="small-caps">EAR</hi>, 1731.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-597-0202-headnote-2">
+            <lg n="1" xml:id="spp-597-0202-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-597-0202-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-597-0202-headnote-3">
+            <lg n="1" xml:id="spp-597-0202-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-597-0202-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-597-0202-line-1" n="1">
+              <hi rend="display-initial">A<hi rend="italics">POLLO</hi>, God of Light and Wit,</hi>
+            </l>
+            <l xml:id="swift-597-0202-line-2" n="2">Could Verse inspire, but seldom writ:</l>
+            <l xml:id="swift-597-0202-line-3" n="3">Refin'd all Metals with his Looks,</l>
+            <l xml:id="swift-597-0202-line-4" n="4">As well as Chymists by their Books:</l>
+            <l xml:id="swift-597-0202-line-5" n="5">As handsome as my Lady's Page;</l>
+            <l xml:id="swift-597-0202-line-6" n="6">Sweet Five and Twenty was his Age.</l>
+            <l xml:id="swift-597-0202-line-7" n="7">His Wig was made of sunny Rays,</l>
+            <l xml:id="swift-597-0202-line-8" n="8">He crown'd his youthful Head with Bays:</l>
+            <l xml:id="swift-597-0202-line-9" n="9">Not all the Court of Heav'n could shew</l>
+            <l xml:id="swift-597-0202-line-10" n="10">So nice and so compleat a Beau.</l>
+            <l xml:id="swift-597-0202-line-11" n="11">No Heir upon his first Appearance,</l>
+            <l xml:id="swift-597-0202-line-12" n="12">With Twenty Thousand Pounds a Year Rents,</l>
+            <l xml:id="swift-597-0202-line-13" n="13">E'er drove, before he sold his Land,</l>
+            <l xml:id="swift-597-0202-line-14" n="14">So fine a Coach along the Strand;</l>
+            <l xml:id="swift-597-0202-line-15" n="15">The Spokes, we are by <hi rend="italics">Ovid</hi> told,</l>
+            <l xml:id="swift-597-0202-line-16" n="16">Were Silver, and the Axel Gold.</l>
+            <l xml:id="swift-597-0202-line-17" n="17">(I own, 'twas but a Coach and Four,</l>
+            <l xml:id="swift-597-0202-line-18" n="18">For <hi rend="italics">Jupiter</hi> allows no more.)</l>
+            <l rend="indent(1)" xml:id="swift-597-0202-line-19" n="19"><lb/>Y<hi rend="small-caps">ET</hi>, with his Beauty, Wealth, and Parts,</l>
+            <l xml:id="swift-597-0202-line-20" n="20">Enough to win ten Thousand Hearts;</l>
+            <l xml:id="swift-597-0202-line-21" n="21">No vulgar Deity above</l>
+            <l xml:id="swift-597-0202-line-22" n="22">Was so unfortunate in Love.</l>
+            <l rend="indent(1)" xml:id="swift-597-0202-line-23" n="23"><lb/>T<hi rend="small-caps">HREE</hi> weighty Causes were assign'd,</l>
+            <l xml:id="swift-597-0202-line-24" n="24">That mov'd the Nymphs to be unkind.</l>
+            <l xml:id="swift-597-0202-line-25" n="25">Nine Muses always waiting round him,</l>
+            <l xml:id="swift-597-0202-line-26" n="26">He left them Virgins as he found 'em.</l>
+            <l xml:id="swift-597-0202-line-27" n="27">His Singing was another Fault;</l>
+            <l xml:id="swift-597-0202-line-28" n="28">For he could reach to <hi rend="italics">B</hi>. in <hi rend="italics">alt</hi>:</l>
+            <l xml:id="swift-597-0202-line-29" n="29">And, by the Sentiments of <hi rend="italics">Pliny</hi>,</l>
+            <l xml:id="swift-597-0202-line-30" n="30">Such Singers are like <note place="foot">·<hi rend="italics">A famous </hi>Italian<hi rend="italics"> Singer</hi>.</note> <hi rend="italics">Nicolini</hi>.</l>
+            <l xml:id="swift-597-0202-line-31" n="31">At last, the Point was fully clear'd;</l>
+            <l xml:id="swift-597-0202-line-32" n="32">In short; <hi rend="italics">Apollo</hi> had no Beard.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

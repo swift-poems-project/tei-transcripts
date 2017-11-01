@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 29AP98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JW 22OC08 agt WILH; tochk item resolved JW 12MY15; ed. JW 27AU15, 5FE17, 26JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="732-391L">
+          <head type="note" n="1" xml:id="spp-732-391L-headnote-1">
+            <lg n="1" xml:id="spp-732-391L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-732-391L-headnote-1-line-group-1-line-1">Your Friend sent me the\<hi rend="italics">del</hi>·<hi rend="italics">??</hi>\ Verses he promised, w<hi rend="superscript">ch</hi> I here transcribe.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-732-391L-headnote-2">
+            <lg n="1" xml:id="spp-732-391L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-732-391L-headnote-2-line-group-1-line-1">\<hi rend="italics">after the poem</hi>\ In my Opinion these Lines are too grave, and therefore may fit you who I fear \<hi rend="italics">add·caret</hi>·are\ in the Spleen, but that is not fit either for your self or the Person you tend, to whom you ought to read diverting Things.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-732-391L-headnote-3">
+            <lg n="1" xml:id="spp-732-391L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-732-391L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-732-391L-line-1" n="1">Nymph, would you learn the onely Art</l>
+            <l xml:id="swift-732-391L-line-2" n="2">To keep a worthy Lover's heart</l>
+            <l xml:id="swift-732-391L-line-3" n="3">First, to adorn your Person well,</l>
+            <l xml:id="swift-732-391L-line-4" n="4">In utmost Cleanlyness excell</l>
+            <l xml:id="swift-732-391L-line-5" n="5">And thô you must the Fashions take,</l>
+            <l xml:id="swift-732-391L-line-6" n="6">Observe them but for fashion sake.</l>
+            <l rend="indent(1)" xml:id="swift-732-391L-line-7" n="7">The strongest Reason will submit</l>
+            <l xml:id="swift-732-391L-line-8" n="8">To Virtue, Honor, Sense, and Wit.</l>
+            <l xml:id="swift-732-391L-line-9" n="9">To such a Nymph the Wise and Good</l>
+            <l xml:id="swift-732-391L-line-10" n="10">Cannot be faithless if they wou'd:</l>
+            <l xml:id="swift-732-391L-line-11" n="11">For Vices all have diff'rent Ends,</l>
+            <l xml:id="swift-732-391L-line-12" n="12">But Virtue still to Virtue tends</l>
+            <l xml:id="swift-732-391L-line-13" n="13">And when your Lover is not true,</l>
+            <l xml:id="swift-732-391L-line-14" n="14">Tis Virtue fails in Him or You:</l>
+            <l xml:id="swift-732-391L-line-15" n="15">And either he deserves Disdain,</l>
+            <l xml:id="swift-732-391L-line-16" n="16">Or You without a Cause complain.</l>
+            <l xml:id="swift-732-391L-line-17" n="17">But here Vanessa cannot err,</l>
+            <l xml:id="swift-732-391L-line-18" n="18">Nor are these Rules applyd to Her:</l>
+            <l xml:id="swift-732-391L-line-19" n="19">For who could such a Nymph forsake</l>
+            <l xml:id="swift-732-391L-line-20" n="20">Except a Blockhead or a Rake</l>
+            <l xml:id="swift-732-391L-line-21" n="21">Or how could she her Heart bestow</l>
+            <l xml:id="swift-732-391L-line-22" n="22">Except where Wit and Virtue grow</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

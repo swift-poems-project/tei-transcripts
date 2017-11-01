@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Apollo Outwitted</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="119-ROGP">
+          <head type="note" n="1" xml:id="spp-119-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-119-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-119-ROGP-headnote-1-line-group-1-line-1">TO THE HONOURABLE MRS FINCH (SINCE COUNTESS OF WINCHILSEA), UNDER THE NAME OF ARDELIA&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-119-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-119-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-119-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-119-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-119-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-119-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-119-ROGP-line-1" n="1">Phoebus now shortening every shade,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-2" n="2">Up to the Northern Tropic came,</l>
+            <l xml:id="swift-119-ROGP-line-3" n="3">And thence beheld a lovely maid</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-4" n="4">Attending on a royal dame.</l>
+            <l xml:id="swift-119-ROGP-line-5" n="5"><lb/>The god laid down his feeble rays,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-6" n="6">Then lighted from his glittering coach;</l>
+            <l xml:id="swift-119-ROGP-line-7" n="7">But fenced his head with his own bays</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-8" n="8">Before he durst the nymph approach.</l>
+            <l xml:id="swift-119-ROGP-line-9" n="9"><lb/>Under those sacred leaves, secure</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-10" n="10">From common lightning of the skies,</l>
+            <l xml:id="swift-119-ROGP-line-11" n="11">He fondly thought he might endure</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-12" n="12">The flashes of Ardelia's eyes.</l>
+            <l xml:id="swift-119-ROGP-line-13" n="13"><lb/>The nymph, who oft had read in books,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-14" n="14">Of that bright god whom bards invoke,</l>
+            <l xml:id="swift-119-ROGP-line-15" n="15">Soon knew Apollo by his looks,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-16" n="16">And guessed his business ere he spoke.</l>
+            <l xml:id="swift-119-ROGP-line-17" n="17"><lb/>He in the old celestial cant,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-18" n="18">Confessed his flame, and swore by Styx,</l>
+            <l xml:id="swift-119-ROGP-line-19" n="19">Whate'er she would desire, to grant;</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-20" n="20">But wise Ardelia knew his tricks.</l>
+            <l xml:id="swift-119-ROGP-line-21" n="21"><lb/>Ovid had warned her to beware</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-22" n="22">Of strolling gods, whose usual trade is,</l>
+            <l xml:id="swift-119-ROGP-line-23" n="23">Under pretence of taking air,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-24" n="24">To pick up sublunary ladies.</l>
+            <l xml:id="swift-119-ROGP-line-25" n="25"><lb/>Howe'er, she gave no flat denial,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-26" n="26">As having malice in her heart;</l>
+            <l xml:id="swift-119-ROGP-line-27" n="27">And was resolved upon a trial,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-28" n="28">To cheat the god in his own art.</l>
+            <l xml:id="swift-119-ROGP-line-29" n="29"><lb/>'Hear my request,' the virgin said,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-30" n="30">'Let which I please of all the nine</l>
+            <l xml:id="swift-119-ROGP-line-31" n="31">Attend whene'er I want their aid,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-32" n="32">Obey my call, and only mine.'</l>
+            <l xml:id="swift-119-ROGP-line-33" n="33"><lb/>By vow obliged, by passion led,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-34" n="34">The god could not refuse her prayer;</l>
+            <l xml:id="swift-119-ROGP-line-35" n="35">He waved his wreath thrice o'er her head,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-36" n="36">Thrice muttered something to the air.</l>
+            <l xml:id="swift-119-ROGP-line-37" n="37"><lb/>And now he thought to seize his due,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-38" n="38">But she the charm already tried,</l>
+            <l xml:id="swift-119-ROGP-line-39" n="39">Thalia heard the call and flew</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-40" n="40">To wait at bright Ardelia's side.</l>
+            <l xml:id="swift-119-ROGP-line-41" n="41"><lb/>On sight of this celestial prude,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-42" n="42">Apollo thought it vain to stay,</l>
+            <l xml:id="swift-119-ROGP-line-43" n="43">Nor in her presence durst be rude,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-44" n="44">But made his leg and went away.</l>
+            <l xml:id="swift-119-ROGP-line-45" n="45"><lb/>He hoped to find some lucky hour,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-46" n="46">When on their queen the muses wait;</l>
+            <l xml:id="swift-119-ROGP-line-47" n="47">But Pallas owns Ardelia's power,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-48" n="48">For vows divine are kept by fate.</l>
+            <l xml:id="swift-119-ROGP-line-49" n="49"><lb/>Then full of rage Apollo spoke,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-50" n="50">'Deceitful nymph, I see thy art;</l>
+            <l xml:id="swift-119-ROGP-line-51" n="51">And though I can't my gift revoke,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-52" n="52">I'll disappoint its nobler part.</l>
+            <l xml:id="swift-119-ROGP-line-53" n="53"><lb/>'Let stubborn pride possess thee long,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-54" n="54">And be thou negligent of fame,</l>
+            <l xml:id="swift-119-ROGP-line-55" n="55">With every muse to grace thy song,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-56" n="56">Mayst thou despise a poet's name.</l>
+            <l xml:id="swift-119-ROGP-line-57" n="57"><lb/>'Of modest poets thou be first,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-58" n="58">To silent shades repeat thy verse,</l>
+            <l xml:id="swift-119-ROGP-line-59" n="59">Till Fame and Echo almost burst,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-60" n="60">Yet hardly dare one line rehearse.</l>
+            <l xml:id="swift-119-ROGP-line-61" n="61"><lb/>'And last, my vengeance to complete,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-62" n="62">May you descend to take renown,</l>
+            <l xml:id="swift-119-ROGP-line-63" n="63">Prevailed on by the thing you hate,</l>
+            <l rend="indent(1)" xml:id="swift-119-ROGP-line-64" n="64">A Whig, and one that wears a gown.'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

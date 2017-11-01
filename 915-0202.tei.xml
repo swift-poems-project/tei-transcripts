@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A</hi> RIDDLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 20JE97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="915-0202">
+          <head type="note" n="1" xml:id="spp-915-0202-headnote-1">
+            <lg n="1" xml:id="spp-915-0202-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-915-0202-headnote-1-line-group-1-line-1"><hi rend="italics">About nine or ten Years ago, some ingenious Gentlemen, Friends to the Author, used to entertain themselves with writing Riddles, and send them to him and their other Acquaintance, Copies of which ran about, and some of them were printed both here and in </hi>England<hi rend="italics">. The Author, at his leisure Hours, fell into the same Amusement; although it be said, that he thought them of no great Merit, Entertainment, or Use. However, by the Advice of some Persons, for whom the Author hath a great Esteem, and who were pleased to send us the Copies, we have ventured to print the few following, as we have done two or three before, and which are allowed to be genuine; because, we are informed, that several good Judges have a Taste for such Kind of Compositions</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-915-0202-headnote-2">
+            <lg n="1" xml:id="spp-915-0202-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-915-0202-headnote-2-line-group-1-line-1">W<hi rend="small-caps">RITTEN</hi> in the Y<hi rend="small-caps">EAR</hi>, 1724.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-915-0202-headnote-3">
+            <lg n="1" xml:id="spp-915-0202-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-915-0202-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-915-0202-line-1" n="1"><hi rend="display-initial">I</hi>N Youth exalted high in Air,</l>
+            <l xml:id="swift-915-0202-line-2" n="2">Or bathing in the Waters fair,</l>
+            <l xml:id="swift-915-0202-line-3" n="3">Nature to form me took Delight,</l>
+            <l xml:id="swift-915-0202-line-4" n="4">And clad my Body all in white:</l>
+            <l xml:id="swift-915-0202-line-5" n="5">My Person tall, and slender Waist,</l>
+            <l xml:id="swift-915-0202-line-6" n="6">On either Side with Fringes grac'd;</l>
+            <l xml:id="swift-915-0202-line-7" n="7">Till me that Tyrant Man espy'd,</l>
+            <l xml:id="swift-915-0202-line-8" n="8">And dragg'd me from my Mother's Side:</l>
+            <l xml:id="swift-915-0202-line-9" n="9">No Wonder now I look so thin;</l>
+            <l xml:id="swift-915-0202-line-10" n="10">The Tyrant stript me to the Skin:</l>
+            <l xml:id="swift-915-0202-line-11" n="11">My Skin he flay'd, my Hair he cropt;</l>
+            <l xml:id="swift-915-0202-line-12" n="12">At Head and Foot my Body lopt:</l>
+            <l xml:id="swift-915-0202-line-13" n="13">And then, with Heart more hard than Stone,</l>
+            <l xml:id="swift-915-0202-line-14" n="14">He pick't my Marrow from the Bone.</l>
+            <l xml:id="swift-915-0202-line-15" n="15">To vex me more he took a Freak,</l>
+            <l xml:id="swift-915-0202-line-16" n="16">To slit my Tongue, and made me speak:</l>
+            <l xml:id="swift-915-0202-line-17" n="17">But, that which wonderful appears,</l>
+            <l xml:id="swift-915-0202-line-18" n="18">I speak to Eyes and not to Ears.</l>
+            <l xml:id="swift-915-0202-line-19" n="19">He oft employs me in Disguise,</l>
+            <l xml:id="swift-915-0202-line-20" n="20">And makes me tell a thousand Lyes:</l>
+            <l xml:id="swift-915-0202-line-21" n="21">To me he chiefly gives in Trust</l>
+            <l xml:id="swift-915-0202-line-22" n="22">To please his Malice, or his Lust.</l>
+            <l xml:id="swift-915-0202-line-23" n="23">From me no Secret he can hide;</l>
+            <l xml:id="swift-915-0202-line-24" n="24">I see his Vanity and Pride:</l>
+            <l xml:id="swift-915-0202-line-25" n="25">And my Delight is to expose</l>
+            <l xml:id="swift-915-0202-line-26" n="26">His Follies to his greatest Foes.</l>
+            <l rend="indent(1)" xml:id="swift-915-0202-line-27" n="27"><lb/>A<hi rend="small-caps">LL</hi> Languages I can command,</l>
+            <l xml:id="swift-915-0202-line-28" n="28">Yet not a Word I understand.</l>
+            <l xml:id="swift-915-0202-line-29" n="29">Without my Aid, the best Divine</l>
+            <l xml:id="swift-915-0202-line-30" n="30">In Learning would not know a Line:</l>
+            <l xml:id="swift-915-0202-line-31" n="31">The Lawyer must forget his Pleading,</l>
+            <l xml:id="swift-915-0202-line-32" n="32">The Scholar could not shew his Reading.</l>
+            <l xml:id="swift-915-0202-line-33" n="33">Nay; Man, my Master, is my Slave:</l>
+            <l xml:id="swift-915-0202-line-34" n="34">I give Command to kill or save.</l>
+            <l xml:id="swift-915-0202-line-35" n="35">Can grant ten thousand Pounds a Year,</l>
+            <l xml:id="swift-915-0202-line-36" n="36">And make a Beggar's Brat a Peer.</l>
+            <l rend="indent(1)" xml:id="swift-915-0202-line-37" n="37"><lb/>B<hi rend="small-caps">UT</hi>, while I thus my Life relate,</l>
+            <l xml:id="swift-915-0202-line-38" n="38">I only hasten on my Fate.</l>
+            <l xml:id="swift-915-0202-line-39" n="39">My Tongue is black, my Mouth is furr'd,</l>
+            <l xml:id="swift-915-0202-line-40" n="40">I hardly now can force a Word.</l>
+            <l xml:id="swift-915-0202-line-41" n="41">I die unpity'd and forgot;</l>
+            <l xml:id="swift-915-0202-line-42" n="42">And on some Dunghill left to rot.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

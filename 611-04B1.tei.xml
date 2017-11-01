@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses written by Dean Swift, occasioned by the fore-<lb/>  going Presents.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella 14JL14"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="611-04B1">
+          <head type="note" n="1" xml:id="spp-611-04B1-headnote-1">
+            <lg n="1" xml:id="spp-611-04B1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-04B1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-611-04B1-headnote-2">
+            <lg n="1" xml:id="spp-611-04B1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-04B1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-611-04B1-headnote-3">
+            <lg n="1" xml:id="spp-611-04B1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-04B1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-611-04B1-line-1" n="1">A Paper Book is sent by <hi rend="italics">Boyle</hi>,</l>
+            <l xml:id="swift-611-04B1-line-2" n="2">Too neatly gilt for me to soil:</l>
+            <l xml:id="swift-611-04B1-line-3" n="3">Delany sends a silver Standish,</l>
+            <l xml:id="swift-611-04B1-line-4" n="4">When I no more a pen can brandish.</l>
+            <l xml:id="swift-611-04B1-line-5" n="5">Let both around my tomb be plac'd,</l>
+            <l xml:id="swift-611-04B1-line-6" n="6">As trophies of a muse deceas'd:</l>
+            <l xml:id="swift-611-04B1-line-7" n="7">And let the friendly lines they writ,</l>
+            <l xml:id="swift-611-04B1-line-8" n="8">In praise of long departed wit,</l>
+            <l xml:id="swift-611-04B1-line-9" n="9">Be grav'd on either side in columns,</l>
+            <l xml:id="swift-611-04B1-line-10" n="10">More to my praise than all my volumes;</l>
+            <l xml:id="swift-611-04B1-line-11" n="11">To burst with envy, spite, and rage,</l>
+            <l xml:id="swift-611-04B1-line-12" n="12">The Vandals of the present age.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-062-1151-title-1">The D<hi rend="small-caps">ISCOVERY</hi> <ref target="#spp-062-1151-footnote-title-1">1</ref><note n="1" xml:id="spp-062-1151-footnote-title-1" place="foot"><hi rend="italics">When the Earl of</hi> B<hi rend="small-caps">ERKELEY</hi> <hi rend="italics">went over to </hi>Ireland<hi rend="italics"> as one of the Lords Justices, the Author, in Compliance with his Invitation, went over with him as Chaplain and private Secretary. But</hi> B<hi rend="small-caps">USH</hi>, <hi rend="italics">another of the Earl's Attendants, having insinuated, that the Place of Secretary was not proper for a Clergyman, found Means, soon after they arrived at </hi>Dublin<hi rend="italics">, to obtain it for himself</hi>.────── S<hi rend="small-caps">WIFT</hi>, <hi rend="italics">fir'd with Indignation at this injurious Treatment, writ this satirical Copy of Verses</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 12FE04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-062-1151-footnote-title-1 #spp-062-1151-title-1"/>
+        </linkGrp>
+        <div n="062-1151">
+          <head type="note" n="1" xml:id="spp-062-1151-headnote-1">
+            <lg n="1" xml:id="spp-062-1151-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-1151-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-062-1151-headnote-2">
+            <lg n="1" xml:id="spp-062-1151-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-1151-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-062-1151-headnote-3">
+            <lg n="1" xml:id="spp-062-1151-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-1151-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-062-1151-line-1" n="1"><hi rend="display-initial">W</hi>HEN wise Lord <hi rend="italics">Berkeley</hi> first came here,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-2" n="2">Statesmen and Mob expected Wonders;</l>
+            <l xml:id="swift-062-1151-line-3" n="3">Nor thought to find so great a Peer</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-4" n="4">Ere a Week past committing Blunders.</l>
+            <l xml:id="swift-062-1151-line-5" n="5">'Till on a Day cut out by Fate,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-6" n="6">When Folks came thick to make their Court,</l>
+            <l xml:id="swift-062-1151-line-7" n="7">Out slipt a Mystery of State,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-8" n="8">To give the Town and Country Sport.</l>
+            <l xml:id="swift-062-1151-line-9" n="9">Now enters <hi rend="italics">Bush</hi> <note place="foot">·<hi rend="italics">My Lord's wise Secretary</hi>.</note> with new State Airs,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-10" n="10">His Lordship's Premier Minister;</l>
+            <l xml:id="swift-062-1151-line-11" n="11">And who, in all profound Affairs</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-12" n="12">Is held as needful as his Clyster<note place="foot">·<hi rend="italics">Always taken before my Lord went to Council</hi>.</note>,</l>
+            <l xml:id="swift-062-1151-line-13" n="13">With Head reclining on his Shoulder,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-14" n="14">He deals and hears mysterious Chat,</l>
+            <l xml:id="swift-062-1151-line-15" n="15">While every ignorant Beholder</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-16" n="16">Asks of his Neighbour, Who is that?</l>
+            <l xml:id="swift-062-1151-line-17" n="17">With this he put up to my Lord,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-18" n="18">The Courtiers kept their Distance due,</l>
+            <l xml:id="swift-062-1151-line-19" n="19">He twitch'd his Sleeve, and stole a Word;</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-20" n="20">Then to a Corner both withdrew.</l>
+            <l xml:id="swift-062-1151-line-21" n="21">Imagine now my Lord and <hi rend="italics">Bush</hi></l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-22" n="22">Whisp'ring in <hi rend="italics">junto</hi> most profound,</l>
+            <l xml:id="swift-062-1151-line-23" n="23">Like good King <hi rend="italics">Phiz</hi>, and good King <hi rend="italics">Ush</hi><note place="foot">·<hi rend="italics">Vide the </hi>Rehearsal<hi rend="italics">, a Comedy, wrote by the Duke of</hi> Buckingham.</note>,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-24" n="24">While all the rest stood gaping round.</l>
+            <l xml:id="swift-062-1151-line-25" n="25">At length a Spark, not too well bred,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-26" n="26">Of forward Face and Ear acute,</l>
+            <l xml:id="swift-062-1151-line-27" n="27">Advanc'd on Tiptoe, lean'd his Head,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-28" n="28">To overhear the grand Dispute;</l>
+            <l xml:id="swift-062-1151-line-29" n="29">To learn what Northern Kings design,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-30" n="30">Or, from <hi rend="italics">Whitehall</hi> some new Express,</l>
+            <l xml:id="swift-062-1151-line-31" n="31">Papists disarm'd, or Fall of Coin:</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-32" n="32">For sure (thought he) it can't be less.</l>
+            <l xml:id="swift-062-1151-line-33" n="33">My Lord, said <hi rend="italics">Bush</hi>, a Friend and I</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-34" n="34">Disguis'd in two old threadbare Coats,</l>
+            <l xml:id="swift-062-1151-line-35" n="35">Ere Morning's Dawn, stole out to spy</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-36" n="36">How Markets went for Hay and Oats:</l>
+            <l xml:id="swift-062-1151-line-37" n="37">With that he draws two Handfuls out,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-38" n="38">The one was Oats, the other Hay;</l>
+            <l xml:id="swift-062-1151-line-39" n="39">Puts this to's Excellency's Snout,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-40" n="40">And begs he would the other weigh.</l>
+            <l xml:id="swift-062-1151-line-41" n="41">My Lord seems pleas'd, but still directs</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-42" n="42">By all Means to bring down the Rates;</l>
+            <l xml:id="swift-062-1151-line-43" n="43">Then, with a Congee circumflex,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-44" n="44"><hi rend="italics">Bush</hi>, smiling round on all, retreats.</l>
+            <l xml:id="swift-062-1151-line-45" n="45">Our List'ner stood a while confus'd,</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-46" n="46">But gath'ring Spirits wisely ran for't,</l>
+            <l xml:id="swift-062-1151-line-47" n="47">Enrag'd to see the World abus'd</l>
+            <l rend="indent(1)" xml:id="swift-062-1151-line-48" n="48">By two such whisp'ring Kings of <hi rend="italics">Brentford</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

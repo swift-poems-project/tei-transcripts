@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prometheus.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 4SE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="344-100M">
+          <head type="note" n="1" xml:id="spp-344-100M-headnote-1">
+            <lg n="1" xml:id="spp-344-100M-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-100M-headnote-1-line-group-1-line-1">A Poem wrote Anno 1724, upon M<hi rend="superscript">r</hi> Wood's obtaining a Patent to Coin Half\<hi rend="italics">add</hi>·pence\ &amp; Farthings, for the Kingdom of Ireland.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-344-100M-headnote-2">
+            <lg n="1" xml:id="spp-344-100M-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-100M-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-344-100M-headnote-3">
+            <lg n="1" xml:id="spp-344-100M-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-344-100M-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-344-100M-line-1" n="1">When first the Squire and Tinker Wood,</l>
+            <l xml:id="swift-344-100M-line-2" n="2">Gravely consulting Ireland's Good,</l>
+            <l xml:id="swift-344-100M-line-3" n="3">Together mingled in a Mass</l>
+            <l xml:id="swift-344-100M-line-4" n="4">Smith's Dust and Copper, lead and Brass;</l>
+            <l xml:id="swift-344-100M-line-5" n="5">The Mixture, thus by Chymick Art,</l>
+            <l xml:id="swift-344-100M-line-6" n="6">United Close, in every Part,</l>
+            <l xml:id="swift-344-100M-line-7" n="7">In Fillets Roll'd, or cutt in Peices,</l>
+            <l xml:id="swift-344-100M-line-8" n="8">Appear'd like one Continued Species,</l>
+            <l xml:id="swift-344-100M-line-9" n="9">And by the Forming Engine Struck,</l>
+            <l xml:id="swift-344-100M-line-10" n="10">On all the Same Impression Stuck,</l>
+            <l xml:id="swift-344-100M-line-11" n="11">So to Confound this Hated Coin,</l>
+            <l xml:id="swift-344-100M-line-12" n="12">All Parties and Religions Ioyn;</l>
+            <l xml:id="swift-344-100M-line-13" n="13">Whigs, Tories, Trimmers, Hannoverians,</l>
+            <l xml:id="swift-344-100M-line-14" n="14">Quakers, Conformists, Presbyterians,</l>
+            <l xml:id="swift-344-100M-line-15" n="15">Scotch, Irish, English, French Unite</l>
+            <l xml:id="swift-344-100M-line-16" n="16">With Equal Interest: Equal Spite;</l>
+            <l xml:id="swift-344-100M-line-17" n="17">Together Mingled in a Lump</l>
+            <l xml:id="swift-344-100M-line-18" n="18">Do All, in one Opinion Iump</l>
+            <l xml:id="swift-344-100M-line-19" n="19">And Every One begins to find</l>
+            <l xml:id="swift-344-100M-line-20" n="20">The Same Impression on his Mind.</l>
+            <l xml:id="swift-344-100M-line-21" n="21">A Strange Event, whom Gold encites,</l>
+            <l xml:id="swift-344-100M-line-22" n="22">To Blood and Quarrels, Brass Unites.</l>
+            <l xml:id="swift-344-100M-line-23" n="23">So Goldsmiths say, the Coarsest Stuff,</l>
+            <l xml:id="swift-344-100M-line-24" n="24">Will serve, for Sodder well enough,</l>
+            <l xml:id="swift-344-100M-line-25" n="25">So by the Kettle's loud Allarm</l>
+            <l xml:id="swift-344-100M-line-26" n="26">The Bees are Gather'd to a Swarm</l>
+            <l xml:id="swift-344-100M-line-27" n="27">So by the Brazen Trumpets Bluster</l>
+            <l xml:id="swift-344-100M-line-28" n="28">Troops of all Tongues and Nations Muster,</l>
+            <l xml:id="swift-344-100M-line-29" n="29">And So the Harp of Ireland brings,</l>
+            <l xml:id="swift-344-100M-line-30" n="30">Whole Crowds, about it's Brazen Strings.</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-31" n="31"><lb/>There is a Chain, Let Down from Iove</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-32" n="32">But Fasten'd, to his Throne Above,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-33" n="33">So Strong that from the Lower End,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-34" n="34">They Say, all Human things Descend;</l>
+            <l xml:id="swift-344-100M-line-35" n="35">This Chain, as Ancient Poets Hold,</l>
+            <l xml:id="swift-344-100M-line-36" n="36">When Iove was young, was made of Gold;</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-37" n="37">Prometheus, this Chain Purloin'd,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-38" n="38">Dissolv'd, and into Money Coin'd</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-39" n="39">Then Whipp's him on a Chain of Brass,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-40" n="40">Venus was Brib'd, to let itt Pass.</l>
+            <l xml:id="swift-344-100M-line-41" n="41">Now While this Brazen Chain Prevail'd,</l>
+            <l xml:id="swift-344-100M-line-42" n="42">Iove, saw that all Devotion Fail'd,</l>
+            <l xml:id="swift-344-100M-line-43" n="43">No Temple to His Godship Rais'd</l>
+            <l xml:id="swift-344-100M-line-44" n="44">No Sacrifice, on Altars Blaz'd</l>
+            <l xml:id="swift-344-100M-line-45" n="45">In Short such dire Confusions Follow'd</l>
+            <l xml:id="swift-344-100M-line-46" n="46">Earth must have been, in Chaos Swallow'd;</l>
+            <l xml:id="swift-344-100M-line-47" n="47">Iove stood Amaz'd, but Looking Round;</l>
+            <l xml:id="swift-344-100M-line-48" n="48">With much Ado, the cheat he Found.</l>
+            <l xml:id="swift-344-100M-line-49" n="49">'Twas Plain he coud no Longer hold,</l>
+            <l xml:id="swift-344-100M-line-50" n="50">The World, in any Chain but Gold,</l>
+            <l xml:id="swift-344-100M-line-51" n="51">So to the God, of Wealth his Brother</l>
+            <l xml:id="swift-344-100M-line-52" n="52">Sent Mercury to Gett Another.</l>
+            <l xml:id="swift-344-100M-line-53" n="53">Prometheus on a Rock is Laid,</l>
+            <l xml:id="swift-344-100M-line-54" n="54">Ty'd w<hi rend="superscript">tḥ</hi> the Chain himself had made;</l>
+            <l xml:id="swift-344-100M-line-55" n="55">On Icy Caucasus to Shiver</l>
+            <l xml:id="swift-344-100M-line-56" n="56">While Vultures eat his Growing Liver.</l>
+            <l rend="indent(2)" xml:id="swift-344-100M-line-57" n="57"><lb/>|Yee Powers, of Grubb Street, make me Able,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-58" n="58">Discreetly to Apply this Fable,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-59" n="59">Say who is to be Understood,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-60" n="60">By that Old thief Prometheus (Wood)</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-61" n="61">For Iove itt is not hard to Guess him,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-62" n="62">I mean his Majesty God Bless him;</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-63" n="63">This Thief, &amp; Blacksmith was so Bold,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-64" n="64">He Strove to Steal that Chain of Gold,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-65" n="65">W<hi rend="superscript">cḥ</hi> links the Subject to the King,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-66" n="66">And change itt, to a Brazen String.</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-67" n="67">But Sure, if Nothing Else, must Pass</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-68" n="68">Between, the King, and Us but Brass,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-69" n="69">Altho, the Chain, will never Crack,</l>
+            <l rend="indent(1)" xml:id="swift-344-100M-line-70" n="70">Yett, Our Devotion, may Grow Slack;</l>
+            <l rend="indent(2)" xml:id="swift-344-100M-line-71" n="71">|But Iove, will soon convert I hope,</l>
+            <l rend="indent(2)" xml:id="swift-344-100M-line-72" n="72">|The Brazen Chain, into a Rope,</l>
+            <l rend="indent(2)" xml:id="swift-344-100M-line-73" n="73">|With w<hi rend="superscript">cḥ</hi> Prometheus, shall be ty'd</l>
+            <l rend="indent(2)" xml:id="swift-344-100M-line-74" n="74">|And High in Air, for ever Ride;</l>
+            <l rend="indent(3)" xml:id="swift-344-100M-line-75" n="75">||Where if we Find his Liver Grows,</l>
+            <l rend="indent(3)" xml:id="swift-344-100M-line-76" n="76">||For Want of Vultures, we have Crows.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

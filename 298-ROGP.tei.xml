@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Upon the Horrid Plot Discovered by Harlequin the Bishop of Rochester's French Dog</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="298-ROGP">
+          <head type="note" n="1" xml:id="spp-298-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-298-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-298-ROGP-headnote-1-line-group-1-line-1">IN A DIALOGUE BETWEEN A WHIG AND A TORY&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-298-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-298-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-298-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-298-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-298-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-298-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-298-ROGP-line-1" n="1">I asked a Whig the other night,</l>
+            <l xml:id="swift-298-ROGP-line-2" n="2">How came this wicked plot to light:</l>
+            <l xml:id="swift-298-ROGP-line-3" n="3">He answered, that a dog of late</l>
+            <l xml:id="swift-298-ROGP-line-4" n="4">Informed a minister of state.</l>
+            <l xml:id="swift-298-ROGP-line-5" n="5">Said I, from thence I nothing know;</l>
+            <l xml:id="swift-298-ROGP-line-6" n="6">For, are not all informers so?</l>
+            <l xml:id="swift-298-ROGP-line-7" n="7">A villain, who his friend betrays,</l>
+            <l xml:id="swift-298-ROGP-line-8" n="8">We style him by no other phrase;</l>
+            <l xml:id="swift-298-ROGP-line-9" n="9">And so a perjured dog denotes</l>
+            <l xml:id="swift-298-ROGP-line-10" n="10">Porter, and Prendergast, and Oates.</l>
+            <l xml:id="swift-298-ROGP-line-11" n="11">And forty others I could name</l>
+            <l rend="indent(2)" xml:id="swift-298-ROGP-line-12" n="12"><lb/>WHIG|But you must know this dog was lame.</l>
+            <l rend="indent(2)" xml:id="swift-298-ROGP-line-13" n="13"><lb/>TORY|A weighty argument indeed;</l>
+            <l xml:id="swift-298-ROGP-line-14" n="14">Your evidence was lame. Proceed:</l>
+            <l xml:id="swift-298-ROGP-line-15" n="15">Come, help your lame dog o'er the stile.</l>
+            <l rend="indent(2)" xml:id="swift-298-ROGP-line-16" n="16"><lb/>WHIG|Sir, you mistake me all this while:</l>
+            <l xml:id="swift-298-ROGP-line-17" n="17">I mean a dog, without a joke,</l>
+            <l xml:id="swift-298-ROGP-line-18" n="18">Can howl, and bark, but never spoke.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-19" n="19"><lb/>TORY I'm still to seek which dog you mean;</l>
+            <l xml:id="swift-298-ROGP-line-20" n="20">Whether cur Plunket, or whelp Skean,</l>
+            <l xml:id="swift-298-ROGP-line-21" n="21">An English or an Irish hound;</l>
+            <l xml:id="swift-298-ROGP-line-22" n="22">Or t'other puppy that was drowned,</l>
+            <l xml:id="swift-298-ROGP-line-23" n="23">Or Mason that abandoned bitch:</l>
+            <l xml:id="swift-298-ROGP-line-24" n="24">Then pray be free, and tell me which:</l>
+            <l xml:id="swift-298-ROGP-line-25" n="25">For, every stander-by was marking</l>
+            <l xml:id="swift-298-ROGP-line-26" n="26">That all the noise they made was barking:</l>
+            <l xml:id="swift-298-ROGP-line-27" n="27">You pay them well; the dogs have got</l>
+            <l xml:id="swift-298-ROGP-line-28" n="28">Their dog's-heads in a porridge-pot:</l>
+            <l xml:id="swift-298-ROGP-line-29" n="29">And 'twas but just; for, wise men say,</l>
+            <l xml:id="swift-298-ROGP-line-30" n="30">That, `every dog must have his day'.</l>
+            <l xml:id="swift-298-ROGP-line-31" n="31">Dog Walpole laid a quart of nog on't,</l>
+            <l xml:id="swift-298-ROGP-line-32" n="32">He'd either make a hog or dog on't,</l>
+            <l xml:id="swift-298-ROGP-line-33" n="33">And looked since he has got his wish,</l>
+            <l xml:id="swift-298-ROGP-line-34" n="34">As if he had thrown down a dish.</l>
+            <l xml:id="swift-298-ROGP-line-35" n="35">Yet, this I dare foretell you from it,</l>
+            <l xml:id="swift-298-ROGP-line-36" n="36">He'll soon return to his own vomit.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-37" n="37"><lb/>WHIG Besides, this horrid plot was found</l>
+            <l xml:id="swift-298-ROGP-line-38" n="38">By Neno after he was drowned.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-39" n="39"><lb/>TORY Why then the proverb is not right,</l>
+            <l xml:id="swift-298-ROGP-line-40" n="40">Since you can teach dead dogs to bite.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-41" n="41"><lb/>WHIG I proved my proposition full:</l>
+            <l xml:id="swift-298-ROGP-line-42" n="42">But, Jacobites are strangely dull.</l>
+            <l xml:id="swift-298-ROGP-line-43" n="43">Now, let me tell you plainly, sir,</l>
+            <l xml:id="swift-298-ROGP-line-44" n="44">Our witness is a real cur,</l>
+            <l xml:id="swift-298-ROGP-line-45" n="45">A dog of spirit for his years,</l>
+            <l xml:id="swift-298-ROGP-line-46" n="46">Has twice two legs, two hanging ears;</l>
+            <l xml:id="swift-298-ROGP-line-47" n="47">His name is Harlequin, I wot,</l>
+            <l xml:id="swift-298-ROGP-line-48" n="48">And that's a name in every plot:</l>
+            <l xml:id="swift-298-ROGP-line-49" n="49">Resolved to save the British nation,</l>
+            <l xml:id="swift-298-ROGP-line-50" n="50">Though French by birth and education:</l>
+            <l xml:id="swift-298-ROGP-line-51" n="51">His correspondence plainly dated,</l>
+            <l xml:id="swift-298-ROGP-line-52" n="52">Was all deciphered, and translated.</l>
+            <l xml:id="swift-298-ROGP-line-53" n="53">His answers were exceeding pretty</l>
+            <l xml:id="swift-298-ROGP-line-54" n="54">Before the secret wise committee;</l>
+            <l xml:id="swift-298-ROGP-line-55" n="55">Confessed as plain as he could bark;</l>
+            <l xml:id="swift-298-ROGP-line-56" n="56">Then with his fore-foot set his mark.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-57" n="57"><lb/>TORY Then all this while I have been bubbled;</l>
+            <l xml:id="swift-298-ROGP-line-58" n="58">I thought it was a dog in doublet:</l>
+            <l xml:id="swift-298-ROGP-line-59" n="59">The matter now no longer sticks;</l>
+            <l xml:id="swift-298-ROGP-line-60" n="60">For statesmen never want dog-tricks.</l>
+            <l xml:id="swift-298-ROGP-line-61" n="61">But, since it was a real cur,</l>
+            <l xml:id="swift-298-ROGP-line-62" n="62">And not a dog in metaphor,</l>
+            <l xml:id="swift-298-ROGP-line-63" n="63">I'll give you joy of the report,</l>
+            <l xml:id="swift-298-ROGP-line-64" n="64">That he's to have a place at court.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-65" n="65"><lb/>WHIG Yes, and a place he will grow rich in;</l>
+            <l xml:id="swift-298-ROGP-line-66" n="66">A turnspit in the royal kitchen.</l>
+            <l xml:id="swift-298-ROGP-line-67" n="67">Sir, to be plain, I tell you what;</l>
+            <l xml:id="swift-298-ROGP-line-68" n="68">We had occasion for a plot;</l>
+            <l xml:id="swift-298-ROGP-line-69" n="69">And when we found the dog begin it,</l>
+            <l xml:id="swift-298-ROGP-line-70" n="70">We guessed the Bishop's foot was in it.</l>
+            <l rend="indent(1)" xml:id="swift-298-ROGP-line-71" n="71"><lb/>TORY I own it was a dangerous project;</l>
+            <l xml:id="swift-298-ROGP-line-72" n="72">And you have proved it by dog-logic.</l>
+            <l xml:id="swift-298-ROGP-line-73" n="73">Sure such intelligence between</l>
+            <l xml:id="swift-298-ROGP-line-74" n="74">A dog and bishop ne'er was seen,</l>
+            <l xml:id="swift-298-ROGP-line-75" n="75">Till you began to change the breed;</l>
+            <l xml:id="swift-298-ROGP-line-76" n="76">Your bishops all are dogs indeed.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

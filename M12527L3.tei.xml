@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A </hi>LETTER<hi rend="italics"> from the<lb/>  </hi>Quid Nuncs<hi rend="italics"> at </hi>St.<lb/>  James'<hi rend="italics">s Coffee-House</hi>,<lb/>  London, <hi rend="italics">to their Bre-<lb/>  thren at</hi> Lucas<hi rend="italics">'s Coffee-<lb/>  House, in</hi> Dublin.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 18JA00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M12527L3">
+          <head type="note" n="1" xml:id="spp-M12527L3-headnote-1">
+            <lg n="1" xml:id="spp-M12527L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M12527L3-headnote-1-line-group-1-line-1"><hi rend="italics">Quid scribam vobis, vel quid omnino non scribam,<lb/>Dii me Deœque perdant, si satis scio</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M12527L3-headnote-2">
+            <lg n="1" xml:id="spp-M12527L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M12527L3-headnote-2-line-group-1-line-1"><hi rend="italics">To the </hi>President<hi rend="italics">, &amp;c</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M12527L3-headnote-3">
+            <lg n="1" xml:id="spp-M12527L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M12527L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M12527L3-line-1" n="1"><hi rend="display-initial">S</hi>IR, having nothing else to do</l>
+            <l xml:id="swift-M12527L3-line-2" n="2">We send these empty Lines to you;</l>
+            <l xml:id="swift-M12527L3-line-3" n="3">To you these empty Lines we send</l>
+            <l xml:id="swift-M12527L3-line-4" n="4">For Want of News, my worthy Friend:</l>
+            <l xml:id="swift-M12527L3-line-5" n="5">In Hopes e'er long some Spirit kind</l>
+            <l xml:id="swift-M12527L3-line-6" n="6">Will either raise a Storm of Wind,</l>
+            <l xml:id="swift-M12527L3-line-7" n="7">An Earthquake cause, or in the Air</l>
+            <l xml:id="swift-M12527L3-line-8" n="8">Embattled Troops will make appear:</l>
+            <l xml:id="swift-M12527L3-line-9" n="9">Or produce somewhere something new,</l>
+            <l xml:id="swift-M12527L3-line-10" n="10">Cause Stories whether false or true</l>
+            <l xml:id="swift-M12527L3-line-11" n="11">To fly about; for without News</l>
+            <l xml:id="swift-M12527L3-line-12" n="12">Our Ears and Tongues are of no Use;</l>
+            <l xml:id="swift-M12527L3-line-13" n="13">And when there's nothing to be said</l>
+            <l xml:id="swift-M12527L3-line-14" n="14">'Tis better sure that we were dead.</l>
+            <l xml:id="swift-M12527L3-line-15" n="15">Good L────d! what silent Times are these!</l>
+            <l xml:id="swift-M12527L3-line-16" n="16">All's Peace at Home! Abroad all Peace!</l>
+            <l xml:id="swift-M12527L3-line-17" n="17">Our State secure! C────ch out of Danger!</l>
+            <l xml:id="swift-M12527L3-line-18" n="18">D────n it! 'twould make one burst with Anger!</l>
+            <l xml:id="swift-M12527L3-line-19" n="19">Not so, when glorious <hi rend="italics">Anna</hi> reign'd;</l>
+            <l xml:id="swift-M12527L3-line-20" n="20">New Things each Packet then contain'd.</l>
+            <l xml:id="swift-M12527L3-line-21" n="21">Then <hi rend="italics">Marlbro</hi>', thundring from a far,</l>
+            <l xml:id="swift-M12527L3-line-22" n="22">Uprouz'd us by the Din of War;</l>
+            <l xml:id="swift-M12527L3-line-23" n="23">And <hi rend="italics">Oxford</hi> (laying aside his <hi rend="italics">G────e</hi>)</l>
+            <l xml:id="swift-M12527L3-line-24" n="24">Rouz'd us much more by making Peace.</l>
+            <l xml:id="swift-M12527L3-line-25" n="25">Then D'<hi rend="italics">Aumont</hi> drove a right <hi rend="italics">French Trade</hi>,</l>
+            <l xml:id="swift-M12527L3-line-26" n="26">And <hi rend="italics">run his Goods</hi> in <hi rend="italics">Masquerade</hi>:</l>
+            <l xml:id="swift-M12527L3-line-27" n="27">The <hi rend="italics">Pulpits</hi> then were fill'd with Thunder,</l>
+            <l xml:id="swift-M12527L3-line-28" n="28">Each Day at Court produc'd some Wonder.</l>
+            <l xml:id="swift-M12527L3-line-29" n="29">The <hi rend="italics">Fleet</hi> laid up, <hi rend="italics">Army</hi> disbanded,</l>
+            <l xml:id="swift-M12527L3-line-30" n="30">And the <hi rend="italics">Pretender</hi>──── all──── but landed.</l>
+            <l rend="indent(1)" xml:id="swift-M12527L3-line-31" n="31"><lb/>B<hi rend="small-caps">UT</hi> now the D────l a Thing like this,</l>
+            <l xml:id="swift-M12527L3-line-32" n="32">We eat, we drink, we sleep, we kiss.</l>
+            <l xml:id="swift-M12527L3-line-33" n="33">Grow fat as <hi rend="italics">Cooks</hi>, grow rich as <hi rend="italics">Jews</hi>,</l>
+            <l xml:id="swift-M12527L3-line-34" n="34">But what's all this, Sir, without News?</l>
+            <l xml:id="swift-M12527L3-line-35" n="35">No News, Sir, let's see, none has been────</l>
+            <l xml:id="swift-M12527L3-line-36" n="36">These twelve long Months──── no Monster seen────</l>
+            <l xml:id="swift-M12527L3-line-37" n="37">No Bloody Murthers────── Battles none──────</l>
+            <l xml:id="swift-M12527L3-line-38" n="38">Hardly <hi rend="italics">a Fire</hi> in the Town──────</l>
+            <l xml:id="swift-M12527L3-line-39" n="39">No Frolick──── Nay, Men cease to sport on</l>
+            <l xml:id="swift-M12527L3-line-40" n="40">His poor and merry Grace of <hi rend="italics">Wharton</hi>.</l>
+            <l xml:id="swift-M12527L3-line-41" n="41">Dismal indeed! In fine, my Friend,</l>
+            <l xml:id="swift-M12527L3-line-42" n="42">I fear the World's just at an End──────</l>
+            <l xml:id="swift-M12527L3-line-43" n="43">Fear! no! I hope──── if this be true</l>
+            <l xml:id="swift-M12527L3-line-44" n="44">We then shall meet with something new.</l>
+            <l rend="indent(1)" xml:id="swift-M12527L3-line-45" n="45"><lb/>B<hi rend="small-caps">UT</hi> d────n that silly Ass the <hi rend="italics">Turk</hi>──────</l>
+            <l xml:id="swift-M12527L3-line-46" n="46">Well── <hi rend="italics">Alberoni</hi> will make Work──────</l>
+            <l xml:id="swift-M12527L3-line-47" n="47">Nor shall we long, I'm sure complain,</l>
+            <l xml:id="swift-M12527L3-line-48" n="48"><hi rend="italics">Philip</hi> will send us News from <hi rend="italics">Spain</hi>:</l>
+            <l xml:id="swift-M12527L3-line-49" n="49">God bless us! should the <hi rend="italics">French</hi> King dye!</l>
+            <l xml:id="swift-M12527L3-line-50" n="50">The <hi rend="italics">Czar</hi> too!── think you he'll lie by!</l>
+            <l xml:id="swift-M12527L3-line-51" n="51">As least two hundred thousand Men──────</l>
+            <l xml:id="swift-M12527L3-line-52" n="52">Ha! he'll to <hi rend="italics">Persia</hi> back agen──────</l>
+            <l xml:id="swift-M12527L3-line-53" n="53">Or else he'll fight some <hi rend="italics">European</hi>;</l>
+            <l xml:id="swift-M12527L3-line-54" n="54">Or send his Fleet t' invade th' \<hi rend="italics">AE\gæan</hi>.</l>
+            <l xml:id="swift-M12527L3-line-55" n="55">Come──── come────── this Summer I foresee</l>
+            <l xml:id="swift-M12527L3-line-56" n="56">Of new Things will Productive be:</l>
+            <l xml:id="swift-M12527L3-line-57" n="57">And to preserve you from the <hi rend="italics">Hips</hi>,</l>
+            <l xml:id="swift-M12527L3-line-58" n="58">Next <hi rend="italics">May</hi> we shall have an <hi rend="italics">Eclipse</hi>.</l>
+            <l xml:id="swift-M12527L3-line-59" n="59">But this, thank God, this great Event</l>
+            <l xml:id="swift-M12527L3-line-60" n="60">King <hi rend="italics">George</hi> and's Council can't prevent.</l>
+            <l rend="indent(1)" xml:id="swift-M12527L3-line-61" n="61"><lb/>B<hi rend="small-caps">ESIDES</hi>, consider well, my Friend,</l>
+            <l xml:id="swift-M12527L3-line-62" n="62">What Things Star-gazers hence portend.</l>
+            <l xml:id="swift-M12527L3-line-63" n="63">What Wars! What Famines! Great Men dead</l>
+            <l xml:id="swift-M12527L3-line-64" n="64">Women of Monsters brought to Bed!</l>
+            <l xml:id="swift-M12527L3-line-65" n="65">Well──── hang it, Master, never fear;</l>
+            <l xml:id="swift-M12527L3-line-66" n="66">This will be a News-coining Year──────</l>
+            <l xml:id="swift-M12527L3-line-67" n="67"><hi rend="italics">May</hi>'s not far off── No! not one Spark!</l>
+            <l xml:id="swift-M12527L3-line-68" n="68">Ah! we shall all be then in the dark!</l>
+            <l xml:id="swift-M12527L3-line-69" n="69">And yet (altho' as dark as Night)</l>
+            <l xml:id="swift-M12527L3-line-70" n="70">That Day shall bring strange Things to light.</l>
+            <l rend="indent(1)" xml:id="swift-M12527L3-line-71" n="71"><lb/>B<hi rend="small-caps">UT</hi> pray, sir, how goes on your <hi rend="italics">Scheming</hi>?</l>
+            <l xml:id="swift-M12527L3-line-72" n="72">Knows <hi rend="italics">Rythmicus</hi> aught worth your Naming?</l>
+            <l xml:id="swift-M12527L3-line-73" n="73">Does keen <hi rend="italics">Fabricius</hi>, skilful Brother!</l>
+            <l xml:id="swift-M12527L3-line-74" n="74">See still as far as any other</l>
+            <l xml:id="swift-M12527L3-line-75" n="75">Into the Milstone, which before you,</l>
+            <l xml:id="swift-M12527L3-line-76" n="76">Grinds hourly some pretty Story</l>
+            <l xml:id="swift-M12527L3-line-77" n="77">Into a thousand Parts so small,</l>
+            <l xml:id="swift-M12527L3-line-78" n="78">At length they're hardly seen at all.</l>
+            <l xml:id="swift-M12527L3-line-79" n="79">Does <hi rend="italics">Masticator</hi> sage and wise</l>
+            <l xml:id="swift-M12527L3-line-80" n="80">Still worn out Stuff <hi rend="italics">a-new</hi> devise?</l>
+            <l xml:id="swift-M12527L3-line-81" n="81">And find <hi rend="italics">th' inimitable Grace</hi></l>
+            <l xml:id="swift-M12527L3-line-82" n="82">Of all that's said by <hi rend="italics">Bonniface</hi>?</l>
+            <l xml:id="swift-M12527L3-line-83" n="83">Does soft <hi rend="italics">Virginius</hi> still beguile</l>
+            <l xml:id="swift-M12527L3-line-84" n="84">His Hours by that most silent Smile</l>
+            <l xml:id="swift-M12527L3-line-85" n="85">With which h' assents to all that's said?</l>
+            <l xml:id="swift-M12527L3-line-86" n="86">Is old <hi rend="italics">Inany</hi> alive or dead?</l>
+            <l xml:id="swift-M12527L3-line-87" n="87">Is <hi rend="italics">Venter</hi> Ditto? Dull and merry?</l>
+            <l xml:id="swift-M12527L3-line-88" n="88">Whom have ye voted <hi rend="italics">Dean of Derry</hi>?</l>
+            <l xml:id="swift-M12527L3-line-89" n="89">Are ye all i' th' Dark? Or can ye look</l>
+            <l xml:id="swift-M12527L3-line-90" n="90">Into each Secret of the Duke?</l>
+            <l xml:id="swift-M12527L3-line-91" n="91">Tell why Things thus long are deferr'd,</l>
+            <l xml:id="swift-M12527L3-line-92" n="92">And name the Men to be preferr'd?</l>
+            <l xml:id="swift-M12527L3-line-93" n="93">Tell these, my Friend, and what's to follow,</l>
+            <l xml:id="swift-M12527L3-line-94" n="94">And you shall be my <hi rend="italics">great Apollo</hi>.</l>
+            <l xml:id="swift-M12527L3-line-95" n="95">When on dry Ground shall People tread</l>
+            <l xml:id="swift-M12527L3-line-96" n="96">From <hi rend="italics">Hoath</hi>'s high Hill to <hi rend="italics">Holy-Head</hi>?</l>
+            <l xml:id="swift-M12527L3-line-97" n="97">Wide as the <hi rend="italics">Thames</hi> shall <hi rend="italics">Liffy</hi> flow,</l>
+            <l xml:id="swift-M12527L3-line-98" n="98">Amidst the Bogs shall Spices grow.</l>
+            <l xml:id="swift-M12527L3-line-99" n="99">Say, can a better <hi rend="italics">Vice Roy</hi> grace</l>
+            <l xml:id="swift-M12527L3-line-100" n="100">The Duke of <hi rend="italics">Grafton</hi>'s arduous Place?</l>
+            <l xml:id="swift-M12527L3-line-101" n="101">Than him, who'll Faction more despise,</l>
+            <l xml:id="swift-M12527L3-line-102" n="102">And will be factious e'er he wise?</l>
+            <l xml:id="swift-M12527L3-line-103" n="103">Will they <hi rend="italics">to mean somewhat</hi> be taught?</l>
+            <l xml:id="swift-M12527L3-line-104" n="104">Will <hi rend="italics">Quid Nuncs</hi> e'er prove good for ought?</l>
+            <l xml:id="swift-M12527L3-line-105" n="105">When will <hi rend="italics">Miss Eustace</hi> cease to charm,</l>
+            <l xml:id="swift-M12527L3-line-106" n="106">And crafty <hi rend="italics">Clodius</hi> mean no Harm?</l>
+            <l xml:id="swift-M12527L3-line-107" n="107">But <hi rend="italics">just arriv'd one Holland Mail</hi>,</l>
+            <l xml:id="swift-M12527L3-line-108" n="108">And so in Haste we sign and seal.</l>
+            <l xml:id="swift-M12527L3-line-109" n="109">
+              <lb/>
+              <space>Y<hi rend="small-caps">OUR'S</hi>/hi&gt;, c.</space>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Upon seeing some Verses wrote in Circles, by<lb/>  Doctor</hi> S<hi rend="small-caps">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2DE02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 3DE02; ed. JW 27OC08; ed. JW 23AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X27-41XB">
+          <head type="note" n="1" xml:id="spp-X27-41XB-headnote-1">
+            <lg n="1" xml:id="spp-X27-41XB-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-41XB-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X27-41XB-headnote-2">
+            <lg n="1" xml:id="spp-X27-41XB-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-41XB-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X27-41XB-headnote-3">
+            <lg n="1" xml:id="spp-X27-41XB-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-41XB-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X27-41XB-line-1" n="1"><hi rend="display-initial">W</hi>ITH Musick and Poetry equally bless'd,</l>
+            <l xml:id="swift-X27-41XB-line-2" n="2">A Bard thus <hi rend="italics">Apollo</hi> most humbly address'd:</l>
+            <l xml:id="swift-X27-41XB-line-3" n="3">`Great Author of Poetry, Musick, and Light,</l>
+            <l xml:id="swift-X27-41XB-line-4" n="4">`Instructed by thee I both Fiddle and Write;</l>
+            <l xml:id="swift-X27-41XB-line-5" n="5">`Yet unheeded I scrape, or I scribble all Day,</l>
+            <l xml:id="swift-X27-41XB-line-6" n="6">`My Tunes are neglected, my Verse thrown away.</l>
+            <l xml:id="swift-X27-41XB-line-7" n="7">`Thy Substitute here<note place="foot">·<hi rend="italics">Dr</hi>. Swift.</note>, <hi rend="italics">Vice-Apollo</hi> disdains</l>
+            <l xml:id="swift-X27-41XB-line-8" n="8">`To vouch for my Numbers, or list to my Strains;</l>
+            <l xml:id="swift-X27-41XB-line-9" n="9">`Thy manual Signet he refuses to put</l>
+            <l xml:id="swift-X27-41XB-line-10" n="10">`To the Airs I produce from the Pen or the Gut.</l>
+            <l xml:id="swift-X27-41XB-line-11" n="11">`Be thou then propitious, great <hi rend="italics">Phœbus</hi>, and grant</l>
+            <l xml:id="swift-X27-41XB-line-12" n="12">`Relief or Reward to my Merit or Want.</l>
+            <l xml:id="swift-X27-41XB-line-13" n="13">`Tho' the <hi rend="italics">Dean</hi> and <hi rend="italics">D────────y</hi> transcendently shine,</l>
+            <l xml:id="swift-X27-41XB-line-14" n="14">`O brighten one Solo, or Sonnet of mine:</l>
+            <l xml:id="swift-X27-41XB-line-15" n="15">om.</l>
+            <l xml:id="swift-X27-41XB-line-16" n="16">om.</l>
+            <l xml:id="swift-X27-41XB-line-17" n="17">`Make one Work immortal, 'tis all I request.'</l>
+            <l xml:id="swift-X27-41XB-line-18" n="18"><hi rend="italics">Apollo</hi> look'd pleas'd, and resolving to jest,</l>
+            <l xml:id="swift-X27-41XB-line-19" n="19">Reply'd, “Honest Friend, I've consider'd thy Case,</l>
+            <l xml:id="swift-X27-41XB-line-20" n="20">“Nor dislike thy unmeaning and innocent Face:</l>
+            <l xml:id="swift-X27-41XB-line-21" n="21">“Your Petition I grant; the Boon is not great,</l>
+            <l xml:id="swift-X27-41XB-line-22" n="22">“Thy Works shall continue, and here's the Receipt:</l>
+            <l xml:id="swift-X27-41XB-line-23" n="23">On round·O's hereafter your Fiddlestrings spend,</l>
+            <l xml:id="swift-X27-41XB-line-24" n="24">Write Verses in Circles, they never shall End.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

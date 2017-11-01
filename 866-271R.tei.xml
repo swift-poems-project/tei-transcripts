@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The grand Question debated.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 2JL97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> in situ JW 7JA02; ed. JW 4JE02, 7JE02, 28JA03, 11AU14, 4SE15, 6JE16, 23OC17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-866-271R-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="866-271R">
+          <head type="note" n="1" xml:id="spp-866-271R-headnote-1">
+            <lg n="1" xml:id="spp-866-271R-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-866-271R-headnote-1-line-group-1-line-1">Whether <ref target="#spp-866-271R-footnote-headnote-1">1</ref><note n="1" xml:id="spp-866-271R-footnote-headnote-1" place="foot">A large old house two miles from S<hi rend="superscript">r</hi> A A'<hi rend="superscript">s</hi> seat</note> Hamiltons bawn shall be turned into a Malt-house or a Barack.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-866-271R-headnote-2">
+            <lg n="1" xml:id="spp-866-271R-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-866-271R-headnote-2-line-group-1-line-1">Sept<hi rend="superscript">r</hi> 2<hi rend="superscript">d</hi> 1728</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-866-271R-headnote-3">
+            <lg n="1" xml:id="spp-866-271R-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-866-271R-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-866-271R-line-1" n="1">Thus spoke to my <hi rend="underlined">Lady</hi>, the <hi rend="underlined">Knight</hi> full of care;</l>
+            <l xml:id="swift-866-271R-line-2" n="2">Let me have your advice in a weighty affair.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-3" n="3">This <hi rend="underlined">Hamilton's <note place="foot">·\asterisk references the same note as FN1\.</note></hi><hi rend="underlined">bawn</hi>, while it sticks on my hand,</l>
+            <l xml:id="swift-866-271R-line-4" n="4">I lose by the house what I get by the land.</l>
+            <l xml:id="swift-866-271R-line-5" n="5">But, how to dispose of it to the best bidder,</l>
+            <l xml:id="swift-866-271R-line-6" n="6">For a <hi rend="underlined">Barack</hi> or <hi rend="underlined">malt-house</hi>, we now must consider.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-7" n="7">First, let me suppose, I make it a <hi rend="underlined">malt-house</hi>:</l>
+            <l xml:id="swift-866-271R-line-8" n="8">Here, I have computed the profit will fall t' us:</l>
+            <l xml:id="swift-866-271R-line-9" n="9">There's nine hundred pounds for labor and grain;</l>
+            <l xml:id="swift-866-271R-line-10" n="10">I encrease it to twelve: so three hundred remain.</l>
+            <l xml:id="swift-866-271R-line-11" n="11">A handsom addition for wine and good chear;</l>
+            <l xml:id="swift-866-271R-line-12" n="12">Three dishes a day, and three hogsheads a year.</l>
+            <l xml:id="swift-866-271R-line-13" n="13">With a dozen large vessels my vault shall be stor'd,</l>
+            <l xml:id="swift-866-271R-line-14" n="14">No little scrub joynt shall come on my board:</l>
+            <l xml:id="swift-866-271R-line-15" n="15">And you and the Dean no more shall combine</l>
+            <l xml:id="swift-866-271R-line-16" n="16">To stint me at night to one bottle of wine;</l>
+            <l xml:id="swift-866-271R-line-17" n="17">Nor shall I for his humor permit you to purloyn</l>
+            <l xml:id="swift-866-271R-line-18" n="18">A stone and a half of \<hi rend="italics">del</hi>·good\bief from my surloyn.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-19" n="19">If I make it a <hi rend="underlined">Barrack</hi>, the Crown is my tenant.</l>
+            <l xml:id="swift-866-271R-line-20" n="20">My dear, I have ponder'd again and again on't.</l>
+            <l xml:id="swift-866-271R-line-21" n="21">In poundage and draw-backs I lose half my rent,</l>
+            <l xml:id="swift-866-271R-line-22" n="22">And, whatever they give me, I must be content,</l>
+            <l xml:id="swift-866-271R-line-23" n="23">\<hi rend="italics">add</hi>·Or joyn with the Court in evry debate;</l>
+            <l xml:id="swift-866-271R-line-24" n="24">And rather than that, I would lose my estate.\</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-25" n="25">Thus ended the <hi rend="underlined">Knight</hi>: Thus began his <hi rend="underlined">meek</hi> wife.</l>
+            <l xml:id="swift-866-271R-line-26" n="26">It <hi rend="underlined">must</hi>, and it <hi rend="underlined">shall</hi> be a <hi rend="underlined">Barrack</hi>, my life.</l>
+            <l xml:id="swift-866-271R-line-27" n="27">I'm grown a meer Mopus; no company comes,</l>
+            <l xml:id="swift-866-271R-line-28" n="28">But a rabble of tenants, and rusty dull <note place="foot">·A cant word in <hi rend="italics">Ireland</hi> for a poor country Clergyman.</note> Rums.</l>
+            <l xml:id="swift-866-271R-line-29" n="29">With <hi rend="underlined">Parsons</hi> what Lady can keep her self clean?</l>
+            <l xml:id="swift-866-271R-line-30" n="30">I'm all over dawb'd when I sit by the <hi rend="underlined">Dean</hi>.</l>
+            <l xml:id="swift-866-271R-line-31" n="31">om.</l>
+            <l xml:id="swift-866-271R-line-32" n="32">om.</l>
+            <l xml:id="swift-866-271R-line-33" n="33">But, if you will give us a <hi rend="underlined">Barrack</hi>, my dear,</l>
+            <l xml:id="swift-866-271R-line-34" n="34">The Captain, I'm sure, will allways come here:</l>
+            <l xml:id="swift-866-271R-line-35" n="35">I then shall not value his Dean-ship a straw,</l>
+            <l xml:id="swift-866-271R-line-36" n="36">For, the <hi rend="underlined">Captain</hi>, I warrant, will keep him in aw;</l>
+            <l xml:id="swift-866-271R-line-37" n="37">Or, should he pretend to be brisk and <hi rend="underlined">alert</hi></l>
+            <l xml:id="swift-866-271R-line-38" n="38">Will tell him, that <hi rend="underlined">Chaplains</hi> must not be so pert:</l>
+            <l xml:id="swift-866-271R-line-39" n="39">That, men of his coat should be minding their pray'rs,</l>
+            <l xml:id="swift-866-271R-line-40" n="40">And, not among ladyes to give themselves airs.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-41" n="41">Thus argu'd my <hi rend="underlined">lady</hi>, but argu'd in vain:</l>
+            <l xml:id="swift-866-271R-line-42" n="42">The <hi rend="underlined">Knight</hi> his opinion resolv'd to maintain.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-43" n="43">But, <note place="foot">·My Lady's waiting-woman.</note> <hi rend="underlined">Hannah</hi> who listened to all that had pass't,</l>
+            <l xml:id="swift-866-271R-line-44" n="44">And, could not endure so vulgar a tast;</l>
+            <l xml:id="swift-866-271R-line-45" n="45">As soon as her Ladyship call'd to be dress't,</l>
+            <l xml:id="swift-866-271R-line-46" n="46">“Cry'd, Madam; why sure my Master's possess't.</l>
+            <l xml:id="swift-866-271R-line-47" n="47">“S<hi rend="superscript">r</hi> Arthur the Malster! \<hi rend="italics">two</hi>·<hi rend="italics">letters</hi>·<hi rend="italics">del</hi>\·how fine it will sound?</l>
+            <l xml:id="swift-866-271R-line-48" n="48">“I'd rather the <hi rend="underlined">Bawn</hi> were sunk under ground.</l>
+            <l xml:id="swift-866-271R-line-49" n="49">“But, Madam, I guesst there would never come good</l>
+            <l xml:id="swift-866-271R-line-50" n="50">“When I saw him so often with <note place="foot">·Two of S<hi rend="superscript">r</hi> A A'<hi rend="superscript">s</hi> managers.</note> \del·<hi rend="underlined">Norwood</hi>·<hi rend="italics">add</hi>·Darby\ and Wood.</l>
+            <l xml:id="swift-866-271R-line-51" n="51">“And now my dream's out: for I was a-dream'd</l>
+            <l xml:id="swift-866-271R-line-52" n="52">“That I saw a huge rat; O dear, how I scream'd!</l>
+            <l xml:id="swift-866-271R-line-53" n="53">“And after, methought I lost my new shoes;</l>
+            <l xml:id="swift-866-271R-line-54" n="54">“And, <hi rend="underlined">Molly</hi>, she said I should hear some ill news.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-55" n="55">“Dear Madam, had you but the Spirit to teaze,</l>
+            <l xml:id="swift-866-271R-line-56" n="56">“&amp;c·You might have a <hi rend="underlined">Barrack</hi> whenever you please.</l>
+            <l xml:id="swift-866-271R-line-57" n="57">And Madam, I always believ'd you so stout,</l>
+            <l xml:id="swift-866-271R-line-58" n="58">That for twenty denyals you would not give out.</l>
+            <l xml:id="swift-866-271R-line-59" n="59">If I had a husband like him, I <hi rend="underlined">purtest</hi>,</l>
+            <l xml:id="swift-866-271R-line-60" n="60">Till he gave me my will, I would give him no rest:</l>
+            <l xml:id="swift-866-271R-line-61" n="61">And, rather than come in the same pair of sheets</l>
+            <l xml:id="swift-866-271R-line-62" n="62">With such a cross man, I would lye in the streets.</l>
+            <l xml:id="swift-866-271R-line-63" n="63">But Madam I beg you contrive and invent,</l>
+            <l xml:id="swift-866-271R-line-64" n="64">And worry him out till he gives his consent.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-65" n="65">Dear Madam, when e'er of a <hi rend="underlined">Barrack</hi> I think,</l>
+            <l xml:id="swift-866-271R-line-66" n="66">An I were to be hang'd I can't sleep a wink</l>
+            <l xml:id="swift-866-271R-line-67" n="67">For, if a new crotchet comes into my brain,</l>
+            <l xml:id="swift-866-271R-line-68" n="68">I can't get it out though I'd never so fain.</l>
+            <l xml:id="swift-866-271R-line-69" n="69">I fancy already a <hi rend="underlined">Barrack</hi> contriv'd</l>
+            <l xml:id="swift-866-271R-line-70" n="70">At <hi rend="underlined">Hamilton's bawn</hi>, and the troop is arriv'd.</l>
+            <l xml:id="swift-866-271R-line-71" n="71">Of this, to be sure S<hi rend="superscript">r</hi> <hi rend="underlined">Arthur</hi> has warning,</l>
+            <l xml:id="swift-866-271R-line-72" n="72">And waits on the <hi rend="underlined">Captain</hi> betimes the next morning.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-73" n="73">Now, see, when they meet, how their Honors behave,</l>
+            <l xml:id="swift-866-271R-line-74" n="74">Noble <hi rend="underlined">Captain</hi>, Your Servant──── S<hi rend="superscript">r</hi> <hi rend="underlined">Arthur</hi>, Your Slave────</l>
+            <l xml:id="swift-866-271R-line-75" n="75">You honor me much──── The honor is mine────</l>
+            <l xml:id="swift-866-271R-line-76" n="76">`Twas a sad rainy night──── but the morning is fine────</l>
+            <l xml:id="swift-866-271R-line-77" n="77">Pray, how does my Lady?──── My wife's at your service────</l>
+            <l xml:id="swift-866-271R-line-78" n="78">I think I have seen her picture by <hi rend="underlined">Iervis</hi>────</l>
+            <l xml:id="swift-866-271R-line-79" n="79">Good morrow good <hi rend="underlined">Captain</hi>────── I'll wait on you down────</l>
+            <l xml:id="swift-866-271R-line-80" n="80">You sha'n't stir a foot──── You'll think me a-clown────</l>
+            <l xml:id="swift-866-271R-line-81" n="81">For all the world <hi rend="underlined">Captain</hi>, not half an inch farther────</l>
+            <l xml:id="swift-866-271R-line-82" n="82">You must be obeyd: Your Servant S<hi rend="superscript">r</hi> <hi rend="underlined">Arthur</hi>,</l>
+            <l xml:id="swift-866-271R-line-83" n="83">My humble respects to my <hi rend="underlined">Lady</hi> unknown──────</l>
+            <l xml:id="swift-866-271R-line-84" n="84">I hope you will use my house as your own.</l>
+            <l xml:id="swift-866-271R-line-85" n="85">\<hi rend="italics">add</hi>·Go bring me my Smock, and leave off y<hi rend="superscript">r</hi> prate.</l>
+            <l xml:id="swift-866-271R-line-86" n="86">Thou hast certainly gotten \\<hi rend="italics">add</hi>·a\\ cup in thy pate.\</l>
+            <l xml:id="swift-866-271R-line-87" n="87">\<hi rend="italics">add</hi>·Pray Madam be quiet. What was it I said.──</l>
+            <l xml:id="swift-866-271R-line-88" n="88">You had like to have put it quite out of my head\</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-89" n="89">Next day to be sure, the <hi rend="underlined">Captain</hi> will come</l>
+            <l xml:id="swift-866-271R-line-90" n="90">At the head of his troop with trumpet and drum;</l>
+            <l xml:id="swift-866-271R-line-91" n="91">Now Madam, observe how he marches in state;</l>
+            <l xml:id="swift-866-271R-line-92" n="92">The man with the kettel-drum enters the gate:</l>
+            <l xml:id="swift-866-271R-line-93" n="93">Dub dub a dub dub. The trumpeters follow</l>
+            <l xml:id="swift-866-271R-line-94" n="94">Tantara, tantara, while all the boys hollow.</l>
+            <l xml:id="swift-866-271R-line-95" n="95">See, now comes the <hi rend="underlined">Captain</hi> all dawb'd with gold lace:</l>
+            <l xml:id="swift-866-271R-line-96" n="96">O law, the sweet gentleman; look in his face:</l>
+            <l xml:id="swift-866-271R-line-97" n="97">And see how he rides like a lord of the land</l>
+            <l xml:id="swift-866-271R-line-98" n="98">With the fine flaming Sword that he holds in his hand:</l>
+            <l xml:id="swift-866-271R-line-99" n="99">And, his horse, the dear <hi rend="underlined">Creter</hi>, it prances and rears</l>
+            <l xml:id="swift-866-271R-line-100" n="100">With ribbins in knots at it's tail and it's ears.</l>
+            <l xml:id="swift-866-271R-line-101" n="101">At last comes the troop, by the word of command</l>
+            <l xml:id="swift-866-271R-line-102" n="102">When Drawn up in our court, \<hi rend="italics">del</hi>·till·<hi rend="italics">caret·add</hi>·when\\<hi rend="italics">del</hi>·when·<hi rend="italics">add</hi>·<hi rend="italics">by</hi>·<hi rend="italics">marginalium,</hi>·<hi rend="italics">different</hi>·<hi rend="italics">hand</hi>·When\\\ the <hi rend="underlined">Captain</hi> cryes, <hi rend="underlined-double">Stand</hi>.</l>
+            <l xml:id="swift-866-271R-line-103" n="103">Your Ladyship lifts up the sash to be seen;</l>
+            <l xml:id="swift-866-271R-line-104" n="104">(For sure, I had <hi rend="underlined">dizen</hi>'d you out like a <hi rend="underlined">Queen</hi>)</l>
+            <l xml:id="swift-866-271R-line-105" n="105">The <hi rend="underlined">Captain</hi>, to show he is proud of the favor,</l>
+            <l xml:id="swift-866-271R-line-106" n="106">Looks up to your window, and cocks up his beaver.</l>
+            <l xml:id="swift-866-271R-line-107" n="107">(His beaver is cockt: pray Madam, mark that:</l>
+            <l xml:id="swift-866-271R-line-108" n="108">For, a <hi rend="underlined">Captain</hi> of horse never takes off his hat;</l>
+            <l xml:id="swift-866-271R-line-109" n="109">Because he has never a hand that is idle;</l>
+            <l xml:id="swift-866-271R-line-110" n="110">For, the right holds his sword, and the left holds his bridle)</l>
+            <l xml:id="swift-866-271R-line-111" n="111">Then, flourishes thrice his sword in the air</l>
+            <l xml:id="swift-866-271R-line-112" n="112">As a compliment due to a lady so fair.</l>
+            <l xml:id="swift-866-271R-line-113" n="113">How I tremble to think of the blood it hath spilt!</l>
+            <l xml:id="swift-866-271R-line-114" n="114">Then, he low'rs down the point, and kisses the hilt.</l>
+            <l xml:id="swift-866-271R-line-115" n="115">Your <hi rend="underlined">Ladyship</hi> smiles, and thus you begin;</l>
+            <l xml:id="swift-866-271R-line-116" n="116">Pray <hi rend="underlined">Captain</hi> be pleas'd to light and walk in.</l>
+            <l xml:id="swift-866-271R-line-117" n="117">The <hi rend="underlined">Captain</hi> salutes you with congee profound;</l>
+            <l xml:id="swift-866-271R-line-118" n="118">And your <hi rend="underlined">Ladyship</hi> curchyes half way to the ground.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-119" n="119">\<hi rend="italics">del·illegible·word</hi>\·<hi rend="underlined">Kitt</hi>; run to Your master, and bid him come to us,</l>
+            <l xml:id="swift-866-271R-line-120" n="120">I'm sure he'll be proud of the honor you do us.</l>
+            <l xml:id="swift-866-271R-line-121" n="121">And, <hi rend="underlined">Captain</hi>, you'll do us the favor to stay,</l>
+            <l xml:id="swift-866-271R-line-122" n="122">And take a short dinner here with us to day.</l>
+            <l xml:id="swift-866-271R-line-123" n="123">You're heartily welcome. But as for good chear,</l>
+            <l xml:id="swift-866-271R-line-124" n="124">You come in the very worst time of the year.</l>
+            <l xml:id="swift-866-271R-line-125" n="125">If I had \<hi rend="italics">del</hi>·but\ expected so worthy a guest────</l>
+            <l xml:id="swift-866-271R-line-126" n="126">Lord! Madam! your Ladyship sure is in jest.</l>
+            <l xml:id="swift-866-271R-line-127" n="127">You banter me, Madam, the Kingdom must grant──────</l>
+            <l xml:id="swift-866-271R-line-128" n="128">You Officers, <hi rend="underlined">Captain</hi>, are so complaisant.──</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-129" n="129">Hist Huzzy I think I hear some body coming──</l>
+            <l xml:id="swift-866-271R-line-130" n="130">No Madam; tis onely S<hi rend="superscript">r</hi> <hi rend="underlined">Arthur</hi> a humming.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-131" n="131">To shorten my tale (for, I hate a long story)</l>
+            <l xml:id="swift-866-271R-line-132" n="132">The <hi rend="underlined">Captain</hi> at dinner appears in his glory.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-133" n="133">The <hi rend="underlined">Dean</hi> and the <note place="foot">·Doctor Jenny, a \<hi rend="italics">del</hi>·an·eminent<hi rend="italics">?</hi>\·Clergy-man at Armagh.</note> <hi rend="underlined">Doctor</hi> have humbled their pride;</l>
+            <l xml:id="swift-866-271R-line-134" n="134">For, the <hi rend="underlined">Captain</hi>'s entreated to sit by your side.</l>
+            <l xml:id="swift-866-271R-line-135" n="135">And, because he's their betters, you carve for him first;</l>
+            <l xml:id="swift-866-271R-line-136" n="136">The <hi rend="underlined">Parsons</hi> for envy are ready to burst.</l>
+            <l xml:id="swift-866-271R-line-137" n="137">The servants amazd, are scarce ever able</l>
+            <l xml:id="swift-866-271R-line-138" n="138">To keep off their eyes as they wait at the table.</l>
+            <l xml:id="swift-866-271R-line-139" n="139">And, <hi rend="underlined">Molly</hi> and I have thrust in our nose</l>
+            <l xml:id="swift-866-271R-line-140" n="140">To peep on the <hi rend="underlined">Captain</hi> in all his fine <hi rend="underlined">cloze</hi>.</l>
+            <l xml:id="swift-866-271R-line-141" n="141">Dear Madam, be sure, he's a fine-spoken man;</l>
+            <l xml:id="swift-866-271R-line-142" n="142">Do but hear, on the clergymen how his tongue ran.</l>
+            <l xml:id="swift-866-271R-line-143" n="143">om.</l>
+            <l xml:id="swift-866-271R-line-144" n="144">om.</l>
+            <l xml:id="swift-866-271R-line-145" n="145">And, Madam says he, if such dinners you give,</l>
+            <l xml:id="swift-866-271R-line-146" n="146">You'll never want <hi rend="underlined">Parsons</hi> as long as you live.</l>
+            <l xml:id="swift-866-271R-line-147" n="147">I ne'r knew a <hi rend="underlined">Parson</hi> without a good nose;</l>
+            <l xml:id="swift-866-271R-line-148" n="148">But, the Devil's as welcom wherever he goes.</l>
+            <l xml:id="swift-866-271R-line-149" n="149">G── d── me, they bid us reform, and repent;</l>
+            <l xml:id="swift-866-271R-line-150" n="150">But, Z────s by their looks they never keep \<hi rend="italics">del</hi>·l·<hi rend="italics">add</hi>·L\ent.</l>
+            <l xml:id="swift-866-271R-line-151" n="151">\<hi rend="italics">del</hi>·M<hi rend="superscript">r</hi>·<hi rend="italics">add</hi>·Mister\ <hi rend="underlined">Curate</hi>, for all your grave looks, I'm afraid,</l>
+            <l xml:id="swift-866-271R-line-152" n="152">You cast a Sheep's eye on her Ladyship's mayd:</l>
+            <l xml:id="swift-866-271R-line-153" n="153">I wish she would lend you her pretty white hand</l>
+            <l xml:id="swift-866-271R-line-154" n="154">In mending your gown, and smoothing your band.</l>
+            <l xml:id="swift-866-271R-line-155" n="155">(For, the <hi rend="underlined">Dean</hi> was so shabby, and lookt like a <hi rend="underlined">Ninny</hi>,</l>
+            <l xml:id="swift-866-271R-line-156" n="156">That, the Captain suppos'd he was \<hi rend="underlined">C</hi>·<hi rend="italics">overwriting·</hi><hi rend="underlined">c</hi>\<hi rend="underlined">urate</hi> to <hi rend="underlined">Iinny</hi>.)</l>
+            <l xml:id="swift-866-271R-line-157" n="157">\<hi rend="italics">add</hi> Whenever you see \\<hi rend="italics">add·caret,·then·del</hi>·but\\a Cassock and gown,</l>
+            <l xml:id="swift-866-271R-line-158" n="158">A hundred to one it \\<hi rend="italics">add·caret</hi>·but\\·it covers a clown</l>
+            <l xml:id="swift-866-271R-line-159" n="159">Observe how a <hi rend="underlined">Parson</hi> comes into a room</l>
+            <l xml:id="swift-866-271R-line-160" n="160">G── d── me he hobbles as bad as my groom</l>
+            <l xml:id="swift-866-271R-line-161" n="161">A <hi rend="underlined">Scholard</hi> when just from his college broke loose</l>
+            <l xml:id="swift-866-271R-line-162" n="162">Can hardly tell how to cry <hi rend="underlined">Bo</hi> to a goose.</l>
+            <l xml:id="swift-866-271R-line-163" n="163">Your <hi rend="underlined">Noved</hi>'s and <hi rend="underlined">Blutracks</hi>, and <hi rend="underlined">Omurs</hi>, and stuff,</l>
+            <l xml:id="swift-866-271R-line-164" n="164">By G── they don't signify this pinch of Snuff.</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-165" n="165">To give a young gentleman \\<hi rend="italics">del</hi>·good·<hi rend="italics">add</hi> right\\ education</l>
+            <l xml:id="swift-866-271R-line-166" n="166">The army's the onely good School in the Nation</l>
+            <l xml:id="swift-866-271R-line-167" n="167">My Schoolmaster call'd me a dunce and a fool</l>
+            <l xml:id="swift-866-271R-line-168" n="168">But, at cuffs I was always the Cock of the School.</l>
+            <l xml:id="swift-866-271R-line-169" n="169">I never could take to my book for the blood o' me</l>
+            <l xml:id="swift-866-271R-line-170" n="170">And the puppy confesst, he expected no good o' me.</l>
+            <l xml:id="swift-866-271R-line-171" n="171">om.</l>
+            <l xml:id="swift-866-271R-line-172" n="172">om.</l>
+            <l xml:id="swift-866-271R-line-173" n="173">om.</l>
+            <l xml:id="swift-866-271R-line-174" n="174">om.</l>
+            <l xml:id="swift-866-271R-line-175" n="175">Now, Madam you'll think it a strange thing to say;</l>
+            <l xml:id="swift-866-271R-line-176" n="176">But, the Sight of a book makes me sick to this day.\</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-177" n="177">Never since I was born did I hear so much wit:</l>
+            <l xml:id="swift-866-271R-line-178" n="178">And, Madam I laugh'd till I thought I should split:</l>
+            <l xml:id="swift-866-271R-line-179" n="179">So, then you lookt scornfull, and snifft at the Dean,</l>
+            <l xml:id="swift-866-271R-line-180" n="180">As, who should say; <hi rend="underlined-double">Now</hi>, <hi rend="underlined">am </hi>\del·<hi rend="underlined">a</hi>·add·<hi rend="underlined">I</hi>\ <note place="foot">·Nick-names for my Lady.</note> <hi rend="underlined">Skinny and Lean</hi>?</l>
+            <l xml:id="swift-866-271R-line-181" n="181">But, he durst not so much as once open his lips.</l>
+            <l xml:id="swift-866-271R-line-182" n="182">And, the <hi rend="underlined">Doctor</hi> was plaguily down in the Hipps</l>
+            <l rend="indent(1)" xml:id="swift-866-271R-line-183" n="183">Thus, merciless <hi rend="underlined">Hannah</hi> ran on in her talk,</l>
+            <l xml:id="swift-866-271R-line-184" n="184">Till she heard the <hi rend="underlined">Dean</hi> call; <hi rend="underlined">Will your Ladyship walk</hi>?</l>
+            <l xml:id="swift-866-271R-line-185" n="185">Her <hi rend="underlined">Ladyship</hi> answers, I'm just coming down.</l>
+            <l xml:id="swift-866-271R-line-186" n="186">Then, turning to Hannah, and forcing a frown;</l>
+            <l xml:id="swift-866-271R-line-187" n="187">Although it was plain, \<hi rend="italics">del</hi>·as\ in her heart she was glad;</l>
+            <l xml:id="swift-866-271R-line-188" n="188">Cry'd, Huzzy; Why sure the wench is gone mad.</l>
+            <l xml:id="swift-866-271R-line-189" n="189">How could these <hi rend="underlined">Chimeraes</hi> get into your brains?────</l>
+            <l xml:id="swift-866-271R-line-190" n="190">Come hither, and take this old gown for your pains.</l>
+            <l xml:id="swift-866-271R-line-191" n="191">But, the <hi rend="underlined">Dean</hi>, if this secret should come to his ears,</l>
+            <l xml:id="swift-866-271R-line-192" n="192">Will never have done with his gibes and his jears.</l>
+            <l xml:id="swift-866-271R-line-193" n="193">For your life, not a word of the matter, I charge ye:</l>
+            <l xml:id="swift-866-271R-line-194" n="194">Give me but a <hi rend="underlined">Barrack</hi>, a fig for the <hi rend="underlined">Clergy</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

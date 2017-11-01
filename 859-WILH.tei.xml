@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lady A──S──N<lb/>  Weary of the<lb/>  DEAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="859-WILH">
+          <head type="note" n="1" xml:id="spp-859-WILH-headnote-1">
+            <lg n="1" xml:id="spp-859-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-859-WILH-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-859-WILH-headnote-2">
+            <lg n="1" xml:id="spp-859-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-859-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-859-WILH-headnote-3">
+            <lg n="1" xml:id="spp-859-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-859-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-859-WILH-line-1" n="1">I.<lb/><hi rend="display-initial">T</hi>HE Dean wou'd visit Market-hill,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-2" n="2">Our Invitation was but slight</l>
+            <l xml:id="swift-859-WILH-line-3" n="3">I said── why── Let him if he will,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-4" n="4">And so I bid Sir <hi rend="italics">A──r</hi> write.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-5" n="5"><lb/>II._His Manners would not let him wait,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-6" n="6">Least we should think ourselves neglected,</l>
+            <l xml:id="swift-859-WILH-line-7" n="7">And so we saw him at our Gate</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-8" n="8">Three Days before he was expected.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-9" n="9"><lb/>III._After a Week, a Month, a Quarter,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-10" n="10">And Day succeeding after Day,</l>
+            <l xml:id="swift-859-WILH-line-11" n="11">Says not a Word of his Departure</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-12" n="12">Tho' not a Soul would have him stay.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-13" n="13"><lb/>VI.·[IV.]_I've said enough to make him blush</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-14" n="14">Methinks, or else the Devil's in't,</l>
+            <l xml:id="swift-859-WILH-line-15" n="15">But he cares not for it a Rush,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-16" n="16">Nor for my Life will take the Hint.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-17" n="17"><lb/>V._But you, my Life, may let him know,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-18" n="18">In civil Language, if he stays</l>
+            <l xml:id="swift-859-WILH-line-19" n="19">How deep and foul the Roads may grow,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-20" n="20">And that he may command the Chaise.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-21" n="21"><lb/>VI._Or you may say── my Wife intends,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-22" n="22">Tho' I should be exceeding proud,</l>
+            <l xml:id="swift-859-WILH-line-23" n="23">This Winter to invite some Friends,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-24" n="24">And Sir I know you hate a Crowd.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-25" n="25"><lb/>VII._Or, Mr. Dean── I should with Joy</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-26" n="26">Beg you would here continue still,</l>
+            <l xml:id="swift-859-WILH-line-27" n="27">But we must go to <hi rend="italics">Aghnacloy</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-28" n="28">Or Mr. <hi rend="italics">M──r</hi> will take it ill.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-29" n="29"><lb/>VIII._The House Accounts are daily rising</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-30" n="30">So much his Stay do's swell the Bills;</l>
+            <l xml:id="swift-859-WILH-line-31" n="31">My dearest Life it is surprizing,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-32" n="32">How much he eats, how much he swills,</l>
+            <l rend="center" xml:id="swift-859-WILH-line-33" n="33"><lb/>IX._His Brace of Puppies how they stuff,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-34" n="34">And they must have three Meals a Day,</l>
+            <l xml:id="swift-859-WILH-line-35" n="35">Yet never think they get enough;</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-36" n="36">His Horses too eat all our Hay.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-37" n="37"><lb/>X._Oh! if I could, how I would maul</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-38" n="38">His Tallow Face and Wainscot Paws,</l>
+            <l xml:id="swift-859-WILH-line-39" n="39">His Beetle-brows and Eyes of Wall,</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-40" n="40">And make him soon give up the Cause.</l>
+            <l rend="center" xml:id="swift-859-WILH-line-41" n="41"><lb/>XI._Must I be every Moment chid</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-42" n="42">With skinny, boney, snip and lean,</l>
+            <l xml:id="swift-859-WILH-line-43" n="43">Oh! that I could but once be rid</l>
+            <l rend="indent(1)" xml:id="swift-859-WILH-line-44" n="44">Of that insulting Tyrant Dean.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

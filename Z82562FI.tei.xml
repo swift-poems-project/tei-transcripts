@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">An Epitaph designed for Dr. </hi>Swift<hi rend="italics">, written by the late </hi>Richard Bettesworth<hi rend="italics">,<lb/>  Esq; Barrister at Law, and supposed to have laid the real Foundation of<lb/>  that well-known mutual, irreconcilable Hatred which long subsisted<lb/>  between those choice Spirits</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 31JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z82562FI">
+          <head type="note" n="1" xml:id="spp-Z82562FI-headnote-1">
+            <lg n="1" xml:id="spp-Z82562FI-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z82562FI-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z82562FI-headnote-2">
+            <lg n="1" xml:id="spp-Z82562FI-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z82562FI-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z82562FI-headnote-3">
+            <lg n="1" xml:id="spp-Z82562FI-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z82562FI-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z82562FI-line-1" n="1"><hi rend="display-initial">H</hi>ERE lies one Swift, one Harley's master tool,</l>
+            <l xml:id="swift-Z82562FI-line-2" n="2">Spendthrift of wit, who dy'd at length, a fool;</l>
+            <l xml:id="swift-Z82562FI-line-3" n="3">Who, for his jest, ne'er spar'd or friends or foes:</l>
+            <l xml:id="swift-Z82562FI-line-4" n="4">He's gone,──── but where the lord of Oxford knows!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

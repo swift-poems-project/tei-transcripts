@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The <hi rend="italics">Ænigma</hi> in the last Mercury<lb/>  explain'd.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="912-WILH">
+          <head type="note" n="1" xml:id="spp-912-WILH-headnote-1">
+            <lg n="1" xml:id="spp-912-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-912-WILH-headnote-1-line-group-1-line-1">By Mr. <hi rend="italics">S. W.</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-912-WILH-headnote-2">
+            <lg n="1" xml:id="spp-912-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-912-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-912-WILH-headnote-3">
+            <lg n="1" xml:id="spp-912-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-912-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-912-WILH-line-1" n="1"><hi rend="display-initial">Y<hi rend="italics">Our House of Hair and Lady's Hand</hi></hi></l><l xml:id="swift-912-WILH-line-2" n="2">At first did put me to a stand;</l><l xml:id="swift-912-WILH-line-3" n="3">I have it now---- 'Tis plain enough,</l><l xml:id="swift-912-WILH-line-4" n="4">Your hairy Business is a Muff.</l><l xml:id="swift-912-WILH-line-5" n="5">Your Engine fraught with cooling Gales,</l><l xml:id="swift-912-WILH-line-6" n="6">At once so like to Masts or Sails,</l><l xml:id="swift-912-WILH-line-7" n="7">Your Thing of various Shape and Hue,</l><l xml:id="swift-912-WILH-line-8" n="8">Must be some painted Toy I knew;</l><l xml:id="swift-912-WILH-line-9" n="9">Must be some painted Toy I knew;And for the Rhime, </l>to you're the Man<hi rend="italics">,</hi><l xml:id="swift-912-WILH-line-10" n="10">,What fits it better than a Fan</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

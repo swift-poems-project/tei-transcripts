@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON<lb/>  G<hi rend="small-caps">ALLSTOWN</hi>-H<hi rend="small-caps">OUSE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 18JA00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M11027L3">
+          <head type="note" n="1" xml:id="spp-M11027L3-headnote-1">
+            <lg n="1" xml:id="spp-M11027L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11027L3-headnote-1-line-group-1-line-1">By Mr. D<hi rend="small-caps">ELANY</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M11027L3-headnote-2">
+            <lg n="1" xml:id="spp-M11027L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11027L3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M11027L3-headnote-3">
+            <lg n="1" xml:id="spp-M11027L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M11027L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M11027L3-line-1" n="1"><hi rend="display-initial">'T</hi>IS so old, and so ugly, and yet so convenient,</l>
+            <l xml:id="swift-M11027L3-line-2" n="2">You're sometimes in Pleasure, tho' often in Pain in't;</l>
+            <l xml:id="swift-M11027L3-line-3" n="3">'Tis so large you may lodge a Friend or two with Ease in't,</l>
+            <l xml:id="swift-M11027L3-line-4" n="4">You may turn and stretch at your Length if you please in't.</l>
+            <l xml:id="swift-M11027L3-line-5" n="5">'Tis so little, the Family live in a Press in't,</l>
+            <l xml:id="swift-M11027L3-line-6" n="6">And poor Lady B<hi rend="small-caps">ETTY</hi> has scarce Room to dress in't.</l>
+            <l xml:id="swift-M11027L3-line-7" n="7">Tis so cold in the Winter you can't bear to lye in't.</l>
+            <l xml:id="swift-M11027L3-line-8" n="8">And so hot in the Summer you're ready to fry in't.</l>
+            <l xml:id="swift-M11027L3-line-9" n="9">'Tis so brittle 'twould scarce bear the Weight of a Tun,</l>
+            <l xml:id="swift-M11027L3-line-10" n="10">Yet so staunch that it keeps out a great deal of Sun.</l>
+            <l xml:id="swift-M11027L3-line-11" n="11">'Tis so crazy the Weather with Ease beats quite thro' it,</l>
+            <l xml:id="swift-M11027L3-line-12" n="12">And you're forc'd ev'ry Year in some Part to renew it.</l>
+            <l xml:id="swift-M11027L3-line-13" n="13">'Tis so ugly, so useful, so big, and so little,</l>
+            <l xml:id="swift-M11027L3-line-14" n="14">'Tis so staunch and so crazy, so strong and so brittle,</l>
+            <l xml:id="swift-M11027L3-line-15" n="15">'Tis at one Time so hot, and another so cold,</l>
+            <l xml:id="swift-M11027L3-line-16" n="16">It is Part of the New, and Part of the Old,</l>
+            <l xml:id="swift-M11027L3-line-17" n="17">It is just half a Blessing, and just half a Curse,</l>
+            <l xml:id="swift-M11027L3-line-18" n="18">I wish then, dear G<hi rend="small-caps">EORGE</hi>, it were better or worse.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

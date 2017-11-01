@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Charles Ford Esq<hi rend="superscript">r</hi> 08. on his Birth-day</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 14JL97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>$3X3 notes added JW 5NO05; ed. JW 8FE06, 27AU15; √'d JW 24SE08 agt WILH and tochk items added; tochk items resolved SK 8JL15; remark JW 9FE17; EMENDED JW 9FE17, 10FE17, 11FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="311-CWJS">
+          <head type="note" n="1" xml:id="spp-311-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-311-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-311-CWJS-headnote-1-line-group-1-line-1">Jan<hi rend="superscript">ry</hi>. 31<hi rend="superscript">st</hi> for the Year 1722-3</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-311-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-311-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-311-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-311-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-311-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-311-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-311-CWJS-line-1" n="1">Come, be content, since out it must,</l>
+            <l xml:id="swift-311-CWJS-line-2" n="2">For, Stella has betray'd her Trust,</l>
+            <l xml:id="swift-311-CWJS-line-3" n="3">And, whisp'ring, charg'd me not to say</l>
+            <l xml:id="swift-311-CWJS-line-4" n="4">That M<hi rend="superscript">r</hi>. Ford was born to day:</l>
+            <l xml:id="swift-311-CWJS-line-5" n="5">Or if at last, I needs must blab it,</l>
+            <l xml:id="swift-311-CWJS-line-6" n="6">According to my usuall habit,</l>
+            <l xml:id="swift-311-CWJS-line-7" n="7">She bid me with a serious Face</l>
+            <l xml:id="swift-311-CWJS-line-8" n="8">Be sure conceal the Time and Place,</l>
+            <l xml:id="swift-311-CWJS-line-9" n="9">And not my Compliment to spoyl</l>
+            <l xml:id="swift-311-CWJS-line-10" n="10">By calling This your native Soyl,</l>
+            <l xml:id="swift-311-CWJS-line-11" n="11">Or vex the Ladyes, when they knew</l>
+            <l xml:id="swift-311-CWJS-line-12" n="12">That you are turning fourty two.</l>
+            <l xml:id="swift-311-CWJS-line-13" n="13">But if these Topicks should appear</l>
+            <l xml:id="swift-311-CWJS-line-14" n="14">Strong Arguments to keep You here,</l>
+            <l xml:id="swift-311-CWJS-line-15" n="15">We think, though You judge hardly of it,</l>
+            <l xml:id="swift-311-CWJS-line-16" n="16">Good Manners must give Place to Profit.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-17" n="17"><lb/>The Nymphs with whom You first began</l>
+            <l xml:id="swift-311-CWJS-line-18" n="18">Are each become a Harridan;</l>
+            <l xml:id="swift-311-CWJS-line-19" n="19">And Mountague so far decayd,</l>
+            <l xml:id="swift-311-CWJS-line-20" n="20">That now her Lovers must be payd;</l>
+            <l xml:id="swift-311-CWJS-line-21" n="21">And ev'ry Belle that since arose</l>
+            <l xml:id="swift-311-CWJS-line-22" n="22">Has her Cotemporary Beaux.</l>
+            <l xml:id="swift-311-CWJS-line-23" n="23">Your former Comrades, once so bright,</l>
+            <l xml:id="swift-311-CWJS-line-24" n="24">With whom you toasted half the Night,</l>
+            <l xml:id="swift-311-CWJS-line-25" n="25">Of Rheumatism and Pox complain,</l>
+            <l xml:id="swift-311-CWJS-line-26" n="26">And bid adieu to dear Champain:</l>
+            <l xml:id="swift-311-CWJS-line-27" n="27">Your great Protectors, once in Power,</l>
+            <l xml:id="swift-311-CWJS-line-28" n="28">Are now in Exil, or the Tower,</l>
+            <l xml:id="swift-311-CWJS-line-29" n="29">Your Foes, triumphant o'er the Laws,</l>
+            <l xml:id="swift-311-CWJS-line-30" n="30">Who hate Your Person, and Your Cause,</l>
+            <l xml:id="swift-311-CWJS-line-31" n="31">If once they get you on the Spot</l>
+            <l xml:id="swift-311-CWJS-line-32" n="32">You must be guilty of the Plot,</l>
+            <l xml:id="swift-311-CWJS-line-33" n="33">For, true or false, they'll ne'r enquire,</l>
+            <l xml:id="swift-311-CWJS-line-34" n="34">But use You ten times worse than Pri'r.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-35" n="35"><lb/>In London! What would You do there?</l>
+            <l xml:id="swift-311-CWJS-line-36" n="36">Can You, my Friend, with Patience bear,</l>
+            <l xml:id="swift-311-CWJS-line-37" n="37">Nay would it not Your Passion raise</l>
+            <l xml:id="swift-311-CWJS-line-38" n="38">Worse than a Pun, or Irish Phrase,</l>
+            <l xml:id="swift-311-CWJS-line-39" n="39">To see a Scoundrel Strut and hector,</l>
+            <l xml:id="swift-311-CWJS-line-40" n="40">A Foot-boy to some Rogue Director?</l>
+            <l xml:id="swift-311-CWJS-line-41" n="41">To look on Vice triumphant round,</l>
+            <l xml:id="swift-311-CWJS-line-42" n="42">And Virtue trampled on the Ground:</l>
+            <l xml:id="swift-311-CWJS-line-43" n="43">Observe where bloody Townshend stands</l>
+            <l xml:id="swift-311-CWJS-line-44" n="44">With Informations in his Hands,</l>
+            <l xml:id="swift-311-CWJS-line-45" n="45">Hear him Blaspheme; and swear, and Rayl,</l>
+            <l xml:id="swift-311-CWJS-line-46" n="46">Threatning the Pillory and Jayl.</l>
+            <l xml:id="swift-311-CWJS-line-47" n="47">If this you think a pleasing Scene</l>
+            <l xml:id="swift-311-CWJS-line-48" n="48">To London strait return again,</l>
+            <l xml:id="swift-311-CWJS-line-49" n="49">Where you have told us from Experience,</l>
+            <l xml:id="swift-311-CWJS-line-50" n="50">Are swarms of Bugs and Hanoverians.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-51" n="51"><lb/>I thought my very Spleen would burst</l>
+            <l xml:id="swift-311-CWJS-line-52" n="52">When Fortune hither drove me first;</l>
+            <l xml:id="swift-311-CWJS-line-53" n="53">Was full as hard to please as You,</l>
+            <l xml:id="swift-311-CWJS-line-54" n="54">Nor Persons Names, nor Places knew;</l>
+            <l xml:id="swift-311-CWJS-line-55" n="55">But now I act as other Folk,</l>
+            <l xml:id="swift-311-CWJS-line-56" n="56">Like Pris'ners when their Gall is broke.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-57" n="57"><lb/>If you have London still at heart</l>
+            <l xml:id="swift-311-CWJS-line-58" n="58">We'll make a small one here by Art:</l>
+            <l xml:id="swift-311-CWJS-line-59" n="59">The Diff'rence is not much between</l>
+            <l xml:id="swift-311-CWJS-line-60" n="60">S<hi rend="superscript">t</hi> James's Park and Stephen's Green;</l>
+            <l xml:id="swift-311-CWJS-line-61" n="61">And, Dawson street will serve as well</l>
+            <l xml:id="swift-311-CWJS-line-62" n="62">To lead you thither, as Pell-mell,</l>
+            <l xml:id="swift-311-CWJS-line-63" n="63">(Without your passing thro the Palace</l>
+            <l xml:id="swift-311-CWJS-line-64" n="64">To choque your Sight, and raise your Malice)</l>
+            <l xml:id="swift-311-CWJS-line-65" n="65">The Deanry-house may well be match't</l>
+            <l xml:id="swift-311-CWJS-line-66" n="66">(Under Correction) with the thatcht,</l>
+            <l xml:id="swift-311-CWJS-line-67" n="67">Nor shall I, when you hither come,</l>
+            <l xml:id="swift-311-CWJS-line-68" n="68">Demand a Crown a Quart for Stumm.</l>
+            <l xml:id="swift-311-CWJS-line-69" n="69">Then, for a middle-aged Charmer,</l>
+            <l xml:id="swift-311-CWJS-line-70" n="70">Stella may vye with your Mountharmar:</l>
+            <l xml:id="swift-311-CWJS-line-71" n="71">She's Now as handsom ev'ry bit,</l>
+            <l xml:id="swift-311-CWJS-line-72" n="72">And has a thousand times her Wit.</l>
+            <l xml:id="swift-311-CWJS-line-73" n="73">The Dean and Sheridan, I hope,</l>
+            <l xml:id="swift-311-CWJS-line-74" n="74">Will half supply a Gay and Pope,</l>
+            <l xml:id="swift-311-CWJS-line-75" n="75">Corbet, though yet I know his Worth not,</l>
+            <l xml:id="swift-311-CWJS-line-76" n="76">No doubt, will prove a good Arburthnot:</l>
+            <l xml:id="swift-311-CWJS-line-77" n="77">I throw into the Bargain, Jim:</l>
+            <l xml:id="swift-311-CWJS-line-78" n="78">In London can you equall Him?</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-79" n="79"><lb/>What think you of my fav'rite Clan,</l>
+            <l xml:id="swift-311-CWJS-line-80" n="80">Robin, and Jack, and Jack, and Dan?</l>
+            <l xml:id="swift-311-CWJS-line-81" n="81">Fellows of modest Worth and Parts,</l>
+            <l xml:id="swift-311-CWJS-line-82" n="82">With chearfull Looks, and honest Hearts.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-83" n="83"><lb/>Can you on Dublin look with Scorn?</l>
+            <l xml:id="swift-311-CWJS-line-84" n="84">Yet here were You and Ormonde born</l>
+            <l xml:id="swift-311-CWJS-line-85" n="85">Oh, were but You and I so wise</l>
+            <l xml:id="swift-311-CWJS-line-86" n="86">To look with Robin Grattan's Eyes:</l>
+            <l xml:id="swift-311-CWJS-line-87" n="87">Robin adores that Spot of Earth,</l>
+            <l xml:id="swift-311-CWJS-line-88" n="88">That litt'rall Spot which gave him Birth,</l>
+            <l xml:id="swift-311-CWJS-line-89" n="89">And swears, Cushogue <note place="foot">·The true Name of Belcamp.</note> is to his Tast,</l>
+            <l xml:id="swift-311-CWJS-line-90" n="90">As fine as Hampton-court at least.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-91" n="91"><lb/>When to your Friends you would enhance</l>
+            <l xml:id="swift-311-CWJS-line-92" n="92">The Praise of Italy or France</l>
+            <l xml:id="swift-311-CWJS-line-93" n="93">For Grandeur, Elegance and Wit,</l>
+            <l xml:id="swift-311-CWJS-line-94" n="94">We gladly hear you, and submit:</l>
+            <l xml:id="swift-311-CWJS-line-95" n="95">But then, to come and keep a Clutter</l>
+            <l xml:id="swift-311-CWJS-line-96" n="96">For this, or that Side of a Gutter,</l>
+            <l xml:id="swift-311-CWJS-line-97" n="97">To live in this or t'other Isle,</l>
+            <l xml:id="swift-311-CWJS-line-98" n="98">We cannot think it worth your while.</l>
+            <l xml:id="swift-311-CWJS-line-99" n="99">For, take it kindly, or amiss,</l>
+            <l xml:id="swift-311-CWJS-line-100" n="100">The Diff'rence but amounts to this,</l>
+            <l xml:id="swift-311-CWJS-line-101" n="101">They bury, on our Side the Channell</l>
+            <l xml:id="swift-311-CWJS-line-102" n="102">In Linnen, and on Yours, in Flannell.</l>
+            <l xml:id="swift-311-CWJS-line-103" n="103">You, for the News are ne'r to seek,</l>
+            <l xml:id="swift-311-CWJS-line-104" n="104">While We perhaps must wait a Week.</l>
+            <l xml:id="swift-311-CWJS-line-105" n="105">You, happy Folks, are sure to meet</l>
+            <l xml:id="swift-311-CWJS-line-106" n="106">A hundred Whores in ev'ry Street,</l>
+            <l xml:id="swift-311-CWJS-line-107" n="107">While We may search all Dublin o'er</l>
+            <l xml:id="swift-311-CWJS-line-108" n="108">And hardly hear of half a Score.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-109" n="109"><lb/>You see, my Arguments are Strong;</l>
+            <l xml:id="swift-311-CWJS-line-110" n="110">I wonder you held out so long,</l>
+            <l xml:id="swift-311-CWJS-line-111" n="111">But since you are convinc't at last</l>
+            <l xml:id="swift-311-CWJS-line-112" n="112">We'll pardon you for what is past.</l>
+            <l rend="indent(1)" xml:id="swift-311-CWJS-line-113" n="113"><lb/>So──let us now for Whisk prepare;</l>
+            <l xml:id="swift-311-CWJS-line-114" n="114">Twelvepence a Corner, if you dare.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

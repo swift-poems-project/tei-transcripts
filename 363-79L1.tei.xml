@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON DREAMS.<lb/>  AN IMITATION OF PETRONIUS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 29JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="363-79L1">
+          <head type="note" n="1" xml:id="spp-363-79L1-headnote-1">
+            <lg n="1" xml:id="spp-363-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-363-79L1-headnote-1-line-group-1-line-1">“Somnia quæ mentes ludunt volitantibus umbris,” &amp;c.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-363-79L1-headnote-2">
+            <lg n="1" xml:id="spp-363-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-363-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-363-79L1-headnote-3">
+            <lg n="1" xml:id="spp-363-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-363-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-363-79L1-line-1" n="1"><hi rend="display-initial">T</hi>HOSE dreams, that on the silent night intrude,</l>
+            <l xml:id="swift-363-79L1-line-2" n="2">And with false flitting shades our minds delude,</l>
+            <l xml:id="swift-363-79L1-line-3" n="3">Jove never sends us downward from the skies;</l>
+            <l xml:id="swift-363-79L1-line-4" n="4">Nor can they from infernal mansions rise;</l>
+            <l xml:id="swift-363-79L1-line-5" n="5">But are all mere productions of the brain,</l>
+            <l xml:id="swift-363-79L1-line-6" n="6">And fools consult interpreters in vain.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-7" n="7"><lb/>For, when in bed we rest our weary limbs,</l>
+            <l xml:id="swift-363-79L1-line-8" n="8">The mind unburden'd sports in various whims;</l>
+            <l xml:id="swift-363-79L1-line-9" n="9">The busy head with mimic art runs o'er</l>
+            <l xml:id="swift-363-79L1-line-10" n="10">The scenes and actions of the day before.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-11" n="11"><lb/>The drowsy tyrant, by his minions led,</l>
+            <l xml:id="swift-363-79L1-line-12" n="12">To regal rage devotes some patriot's head.</l>
+            <l xml:id="swift-363-79L1-line-13" n="13">With equal terrors, not with equal guilt,</l>
+            <l xml:id="swift-363-79L1-line-14" n="14">The murderer dreams of all the blood he spilt.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-15" n="15"><lb/>The soldier smiling hears the widow's cries,</l>
+            <l xml:id="swift-363-79L1-line-16" n="16">And stabs the son before the mother's eyes.</l>
+            <l xml:id="swift-363-79L1-line-17" n="17">With like remorse his brother of the trade,</l>
+            <l xml:id="swift-363-79L1-line-18" n="18">The butcher, fells the lamb beneath his blade.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-19" n="19"><lb/>The statesman rakes the town to find a plot,</l>
+            <l xml:id="swift-363-79L1-line-20" n="20">And dreams of forfeitures by treason got.</l>
+            <l xml:id="swift-363-79L1-line-21" n="21">Nor less Tom-t──d-man, of true statesman mold,</l>
+            <l xml:id="swift-363-79L1-line-22" n="22">Collects the city filth in search of gold.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-23" n="23"><lb/>Orphans around his bed the lawyer sees,</l>
+            <l xml:id="swift-363-79L1-line-24" n="24">And takes the plaintiff's and defendant's fees.</l>
+            <l xml:id="swift-363-79L1-line-25" n="25">His fellow pick-purse, watching for a job,</l>
+            <l xml:id="swift-363-79L1-line-26" n="26">Fancies his finger·'s in the cully's fob.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-27" n="27"><lb/>The kind physician grants the husband's prayers,</l>
+            <l xml:id="swift-363-79L1-line-28" n="28">Or gives relief to long-expecting heirs.</l>
+            <l xml:id="swift-363-79L1-line-29" n="29">The sleeping hangman ties the fatal noose,</l>
+            <l xml:id="swift-363-79L1-line-30" n="30">Nor unsuccessful waits for dead mens shoes.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-31" n="31"><lb/>The grave divine, with knotty points perplext,</l>
+            <l xml:id="swift-363-79L1-line-32" n="32">As if he was awake, nods o'er his text:</l>
+            <l xml:id="swift-363-79L1-line-33" n="33">While the sly mountebank attends his trade,</l>
+            <l xml:id="swift-363-79L1-line-34" n="34">Harangues the rabble, and is better paid.</l>
+            <l rend="indent(1)" xml:id="swift-363-79L1-line-35" n="35"><lb/>The hireling senator of modern days</l>
+            <l xml:id="swift-363-79L1-line-36" n="36">Bedaubs the guilty great with nauseous praise:</l>
+            <l xml:id="swift-363-79L1-line-37" n="37">And Dick the scavenger with equal grace</l>
+            <l xml:id="swift-363-79L1-line-38" n="38">Flirts from his cart the mud in *·*·*·*·*·'s face.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

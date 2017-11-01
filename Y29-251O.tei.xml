@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Molly Mog</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 19MY98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y29-251O">
+          <head type="note" n="1" xml:id="spp-Y29-251O-headnote-1">
+            <lg n="1" xml:id="spp-Y29-251O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y29-251O-headnote-1-line-group-1-line-1">By M<hi rend="superscript">r</hi> Gay</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y29-251O-headnote-2">
+            <lg n="1" xml:id="spp-Y29-251O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y29-251O-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y29-251O-headnote-3">
+            <lg n="1" xml:id="spp-Y29-251O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y29-251O-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-Y29-251O-line-1" n="1">1<lb/>Says my Uncle I pray you discover</l>
+            <l xml:id="swift-Y29-251O-line-2" n="2">What has been y<hi rend="superscript">e</hi> cause of your Woes</l>
+            <l xml:id="swift-Y29-251O-line-3" n="3">That you Pine and you whine like a lover</l>
+            <l xml:id="swift-Y29-251O-line-4" n="4">I have Seen Molly Mog at y<hi rend="superscript">e</hi> Rose</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-5" n="5">2<lb/>O Nephew your grief is but folly</l>
+            <l xml:id="swift-Y29-251O-line-6" n="6">In Town you may find better prog</l>
+            <l xml:id="swift-Y29-251O-line-7" n="7">Half a Crown there will get you a Molly</l>
+            <l xml:id="swift-Y29-251O-line-8" n="8">A Molly much better than Mog</l>
+            <l xml:id="swift-Y29-251O-line-9" n="9">om.</l>
+            <l xml:id="swift-Y29-251O-line-10" n="10">om.</l>
+            <l xml:id="swift-Y29-251O-line-11" n="11">om.</l>
+            <l xml:id="swift-Y29-251O-line-12" n="12">om.</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-13" n="13">3<lb/>The School Boy's desire is a play Day</l>
+            <l xml:id="swift-Y29-251O-line-14" n="14">The School Master's joy is to flog</l>
+            <l xml:id="swift-Y29-251O-line-15" n="15">The Milk maid's delight is may day</l>
+            <l xml:id="swift-Y29-251O-line-16" n="16">But mine is on Sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-17" n="17">4<lb/>Will a Wisp leads The Trav'ler a gadding</l>
+            <l xml:id="swift-Y29-251O-line-18" n="18">Thro Ditch &amp; thro Quagmire &amp; Bog</l>
+            <l xml:id="swift-Y29-251O-line-19" n="19">Butt no light can sett me a madding</l>
+            <l xml:id="swift-Y29-251O-line-20" n="20">Like the Eyes of my sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-21" n="21">5<lb/>For guineas in other Mens Bretches</l>
+            <l xml:id="swift-Y29-251O-line-22" n="22">Your Gamesters will palm and will Cog</l>
+            <l xml:id="swift-Y29-251O-line-23" n="23">Butt I envy them none of their Riches</l>
+            <l xml:id="swift-Y29-251O-line-24" n="24">So I may win my Sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-25" n="25">6<lb/>The Heart when half wounded is Changing</l>
+            <l xml:id="swift-Y29-251O-line-26" n="26">It hear and there leaps like a Frog</l>
+            <l xml:id="swift-Y29-251O-line-27" n="27">But my Heart can never be ranging</l>
+            <l xml:id="swift-Y29-251O-line-28" n="28">Tis fix'd upon Sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-29" n="29">7<lb/>Who follows all Ladies of Pleasure</l>
+            <l xml:id="swift-Y29-251O-line-30" n="30">To pleasure is counted a Hog</l>
+            <l xml:id="swift-Y29-251O-line-31" n="31">All the Sex cannot give so good measure</l>
+            <l xml:id="swift-Y29-251O-line-32" n="32">Of Ioys, as my sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-33" n="33">8<lb/>I know that by Wits 'tis recited</l>
+            <l xml:id="swift-Y29-251O-line-34" n="34">That Women at best are a Clog</l>
+            <l xml:id="swift-Y29-251O-line-35" n="35">But I am not so easily frighted</l>
+            <l xml:id="swift-Y29-251O-line-36" n="36">From lovin of sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-37" n="37">9<lb/>I feel I'm in love to distraction</l>
+            <l xml:id="swift-Y29-251O-line-38" n="38">My Senses are lost in a Fog</l>
+            <l xml:id="swift-Y29-251O-line-39" n="39">And there's nothing can give satisfaction</l>
+            <l xml:id="swift-Y29-251O-line-40" n="40">But thinking of sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-41" n="41">10<lb/>A letter when I am inditing</l>
+            <l xml:id="swift-Y29-251O-line-42" n="42">Comes Cupid and gives me a jog</l>
+            <l xml:id="swift-Y29-251O-line-43" n="43">And I fill all the paper with writting</l>
+            <l xml:id="swift-Y29-251O-line-44" n="44">Of nothing but sweet Molly Mog</l>
+            <l xml:id="swift-Y29-251O-line-45" n="45">om.</l>
+            <l xml:id="swift-Y29-251O-line-46" n="46">om.</l>
+            <l xml:id="swift-Y29-251O-line-47" n="47">om.</l>
+            <l xml:id="swift-Y29-251O-line-48" n="48">om.</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-49" n="49">11<lb/>\If·<hi rend="italics">add·in·margin</hi>\ I wou'd \<hi rend="italics">add</hi>·not\ give up the Three Graces</l>
+            <l xml:id="swift-Y29-251O-line-50" n="50">I wish I were hang'd like a Dog</l>
+            <l xml:id="swift-Y29-251O-line-51" n="51">And at Court all the Drawing-Room faces</l>
+            <l xml:id="swift-Y29-251O-line-52" n="52">For a glance of sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-53" n="53">12<lb/>Those faces want Nature and Spirit</l>
+            <l xml:id="swift-Y29-251O-line-54" n="54">And Seem as cut out of a log</l>
+            <l xml:id="swift-Y29-251O-line-55" n="55">Iuno Venus &amp; Pallas's merit</l>
+            <l xml:id="swift-Y29-251O-line-56" n="56">Unite in my sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-57" n="57">13<lb/>Those who toast all the Family Royal</l>
+            <l xml:id="swift-Y29-251O-line-58" n="58">In bumpers of Hogan &amp; Nog</l>
+            <l xml:id="swift-Y29-251O-line-59" n="59">Have Hearts not more true nor more loyal</l>
+            <l xml:id="swift-Y29-251O-line-60" n="60">Than mine for my sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-61" n="61">14<lb/>Were Virgil alive with his Phillis</l>
+            <l xml:id="swift-Y29-251O-line-62" n="62">And writting another Ec────log</l>
+            <l xml:id="swift-Y29-251O-line-63" n="63">Both his Phillis and fair Amarillis</l>
+            <l xml:id="swift-Y29-251O-line-64" n="64">He'd \<hi rend="italics">add</hi>·give\ up to sweet Molly Mog</l>
+            <l rend="center" xml:id="swift-Y29-251O-line-65" n="65">15<lb/>When she smiles on each Guest like her liquor</l>
+            <l xml:id="swift-Y29-251O-line-66" n="66">Then Jealousy sets me a-gog</l>
+            <l xml:id="swift-Y29-251O-line-67" n="67">To be sure she's a bitt for the Vicar</l>
+            <l xml:id="swift-Y29-251O-line-68" n="68">And so I shall loose Molly Mog</l>
+            <l xml:id="swift-Y29-251O-line-69" n="69">om.</l>
+            <l xml:id="swift-Y29-251O-line-70" n="70">om.</l>
+            <l xml:id="swift-Y29-251O-line-71" n="71">om.</l>
+            <l xml:id="swift-Y29-251O-line-72" n="72">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

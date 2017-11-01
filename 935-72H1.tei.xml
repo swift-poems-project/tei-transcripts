@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TWO RIDDLES.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 2FE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="935-72H1">
+          <head type="note" n="1" xml:id="spp-935-72H1-headnote-1">
+            <lg n="1" xml:id="spp-935-72H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-935-72H1-headnote-1-line-group-1-line-1">1. ON A SHADOW IN A GLASS.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-935-72H1-headnote-2">
+            <lg n="1" xml:id="spp-935-72H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-935-72H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-935-72H1-headnote-3">
+            <lg n="1" xml:id="spp-935-72H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-935-72H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-935-72H1-line-1" n="1"><hi rend="display-initial">B</hi>Y something form'd, I nothing am,</l>
+            <l xml:id="swift-935-72H1-line-2" n="2">Yet every thing that you can name;</l>
+            <l xml:id="swift-935-72H1-line-3" n="3">In no place have I ever been,</l>
+            <l xml:id="swift-935-72H1-line-4" n="4">Yet every where I may be seen;</l>
+            <l xml:id="swift-935-72H1-line-5" n="5">In all things false, yet always true,</l>
+            <l xml:id="swift-935-72H1-line-6" n="6">I·'m still the same── but ever new.</l>
+            <l xml:id="swift-935-72H1-line-7" n="7">Lifeless, life's perfect form I wear, 3}</l>
+            <l xml:id="swift-935-72H1-line-8" n="8">Can shew a nose, eye, tongue, or ear,</l>
+            <l xml:id="swift-935-72H1-line-9" n="9">Yet neither smell, see, taste, nor hear.</l>
+            <l xml:id="swift-935-72H1-line-10" n="10">All shapes and features I can boast,</l>
+            <l xml:id="swift-935-72H1-line-11" n="11">No flesh, no bones, no blood── no ghost;</l>
+            <l xml:id="swift-935-72H1-line-12" n="12">All colours without paint put on,</l>
+            <l xml:id="swift-935-72H1-line-13" n="13">And change like the cameleon.</l>
+            <l xml:id="swift-935-72H1-line-14" n="14">Swiftly I come, and enter there,</l>
+            <l xml:id="swift-935-72H1-line-15" n="15">Where not a chink lets in the air;</l>
+            <l xml:id="swift-935-72H1-line-16" n="16">Like thought, I·'m in a moment gone,</l>
+            <l xml:id="swift-935-72H1-line-17" n="17">Nor can I ever be alone;</l>
+            <l xml:id="swift-935-72H1-line-18" n="18">All things on earth I imitate,</l>
+            <l xml:id="swift-935-72H1-line-19" n="19">Faster than nature can create;</l>
+            <l xml:id="swift-935-72H1-line-20" n="20">Sometimes imperial robes I wear,</l>
+            <l xml:id="swift-935-72H1-line-21" n="21">Anon in beggars' rags appear;</l>
+            <l xml:id="swift-935-72H1-line-22" n="22">A giant now, and strait an elf,</l>
+            <l xml:id="swift-935-72H1-line-23" n="23">I·'m every one, but ne'er myself;</l>
+            <l xml:id="swift-935-72H1-line-24" n="24">om.</l>
+            <l xml:id="swift-935-72H1-line-25" n="25">om.</l>
+            <l xml:id="swift-935-72H1-line-26" n="26">Ne'er sad I mourn, ne'er glad rejoice,</l>
+            <l xml:id="swift-935-72H1-line-27" n="27">I move my lips, but want a voice;</l>
+            <l xml:id="swift-935-72H1-line-28" n="28">I ne'er was born, nor e'er can die:</l>
+            <l xml:id="swift-935-72H1-line-29" n="29">Then pr'ythee tell me what am I?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

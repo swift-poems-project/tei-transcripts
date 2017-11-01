@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A</hi> REBUS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 23NO10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-715-S826-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="715-S826">
+          <head type="note" n="1" xml:id="spp-715-S826-headnote-1">
+            <lg n="1" xml:id="spp-715-S826-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-S826-headnote-1-line-group-1-line-1"><hi rend="italics">A</hi> R<hi rend="small-caps">EBUS</hi> <hi rend="italics">on Dean</hi> Swift. <hi rend="italics">By a Lady</hi>.<ref target="#spp-715-S826-footnote-headnote-1">1</ref><note n="1" xml:id="spp-715-S826-footnote-headnote-1" place="foot">V<hi rend="small-caps">ANESSA</hi></note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-715-S826-headnote-2">
+            <lg n="1" xml:id="spp-715-S826-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-S826-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-715-S826-headnote-3">
+            <lg n="1" xml:id="spp-715-S826-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-S826-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-715-S826-line-1" n="1"><hi rend="display-initial">P</hi>UT the Name of the <hi rend="italics">Man</hi> <note place="foot">·<hi rend="italics">Jo</hi>.</note> who his <hi rend="italics">Mistress</hi> deny'd, 3}</l>
+            <l xml:id="swift-715-S826-line-2" n="2">And be the first Syllable only apply'd,</l>
+            <l xml:id="swift-715-S826-line-3" n="3">To join with the <hi rend="italics">Prophet</hi> <note place="foot">·<hi rend="italics">Nathan</hi>.</note> who <hi rend="italics">David</hi> did chide.</l>
+            <l xml:id="swift-715-S826-line-4" n="4">Then say what a <hi rend="italics">Horse</hi> is, that runs very fast,<note place="foot">·<hi rend="italics">Swift</hi>.</note></l>
+            <l xml:id="swift-715-S826-line-5" n="5">And that which deserves to be First put the Last.</l>
+            <l xml:id="swift-715-S826-line-6" n="6">Spell all then, and put them together to find</l>
+            <l xml:id="swift-715-S826-line-7" n="7">The Name, and the Virtues, of him I design'd.</l>
+            <l rend="indent(1)" xml:id="swift-715-S826-line-8" n="8"><lb/>Like the <hi rend="italics">Patriarch</hi> in <hi rend="italics">Ægypt</hi> He's vers'd in the <hi rend="italics">State</hi>,</l>
+            <l xml:id="swift-715-S826-line-9" n="9">Like the <hi rend="italics">Prophet</hi> in <hi rend="italics">Jewry</hi> He's <hi rend="italics">free</hi> with the <hi rend="italics">Great</hi>.</l>
+            <l xml:id="swift-715-S826-line-10" n="10">Like a <hi rend="italics">Racer</hi> he flies to succour with Speed,</l>
+            <l xml:id="swift-715-S826-line-11" n="11">Where <hi rend="italics">Want</hi> or <hi rend="italics">Desert</hi> of his Aid stand in need.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

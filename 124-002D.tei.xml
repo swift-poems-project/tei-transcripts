@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Description of The Morning Ap: 1709.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SB 3JL96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> JW in situ 8JE98; remarks corrected JW 23JA98; ed. JW 25AP16, 20AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="124-002D">
+          <head type="note" n="1" xml:id="spp-124-002D-headnote-1">
+            <lg n="1" xml:id="spp-124-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-002D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-124-002D-headnote-2">
+            <lg n="1" xml:id="spp-124-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-124-002D-headnote-3">
+            <lg n="1" xml:id="spp-124-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-124-002D-line-1" n="1">Now hardly here and there an hackney Coach</l>
+            <l xml:id="swift-124-002D-line-2" n="2">Appearing, show'd the Ruddy Morn's Approach.</l>
+            <l xml:id="swift-124-002D-line-3" n="3">Now Betty from her Master's Bed had flown,</l>
+            <l xml:id="swift-124-002D-line-4" n="4">And softly stole to discompose her own.</l>
+            <l xml:id="swift-124-002D-line-5" n="5">The slip-shod 'Prentice from his Master's door,</l>
+            <l xml:id="swift-124-002D-line-6" n="6">Had par'd the Dirt, &amp; sprinkl'd round the Floor.</l>
+            <l xml:id="swift-124-002D-line-7" n="7">Now Moll had whirl'd her Mop w<hi rend="superscript">tḥ</hi> dextrous Airs,</l>
+            <l xml:id="swift-124-002D-line-8" n="8">Prepar'd to Scrub the Entry and the Stairs.</l>
+            <l xml:id="swift-124-002D-line-9" n="9">The Youth with Broomy Stumps began to Trace</l>
+            <l xml:id="swift-124-002D-line-10" n="10">The kennell-Edge, where Wheels had worn the Place.</l>
+            <l xml:id="swift-124-002D-line-11" n="11">The Small-Coal-Man whas heard with Cadence deep,</l>
+            <l xml:id="swift-124-002D-line-12" n="12">'Till drown'd in Shriller Notes of Chimney-Sweep:</l>
+            <l xml:id="swift-124-002D-line-13" n="13">Duns at his Lordship's Gate began to Meet,</l>
+            <l xml:id="swift-124-002D-line-14" n="14">And Brick-dust Moll had Scream'd thrô half a Street.</l>
+            <l xml:id="swift-124-002D-line-15" n="15">The Turnkey now his Flock retuning sees,</l>
+            <l xml:id="swift-124-002D-line-16" n="16">Duely Let out a-Nights to Steal for Fees.</l>
+            <l xml:id="swift-124-002D-line-17" n="17">The Watchfull Bailiffs take their silent Stands,</l>
+            <l xml:id="swift-124-002D-line-18" n="18">And School-Boys Lag with Satchels in their hands.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

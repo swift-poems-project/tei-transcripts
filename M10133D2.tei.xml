@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>N<hi rend="small-caps">AMBY </hi>P<hi rend="small-caps">AMBY</hi>:<lb/>  OR,<lb/>  <hi rend="italics">A Panegyrick on the New Versification<lb/>  address'd to </hi>A──── P────s<hi rend="italics">, Esq</hi>;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 13JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M10133D2">
+          <head type="note" n="1" xml:id="spp-M10133D2-headnote-1">
+            <lg n="1" xml:id="spp-M10133D2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M10133D2-headnote-1-line-group-1-line-1"><hi rend="italics">Nauty Pauty </hi>Jack-a-Dandy<hi rend="italics">, <lb/> Stole a Piece of Sugar-Candy <lb/> From the Grocer's Shoppy-Shop, <lb/> And away did Hoppy-hop</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M10133D2-headnote-2">
+            <lg n="1" xml:id="spp-M10133D2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M10133D2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M10133D2-headnote-3">
+            <lg n="1" xml:id="spp-M10133D2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M10133D2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-M10133D2-line-1" n="1"><hi rend="display-initial">A</hi>LL ye Poets of the Age,</l><l xml:id="swift-M10133D2-line-2" n="2">All ye Witlings of the Stage,</l><l xml:id="swift-M10133D2-line-3" n="3">Learn your Jingles to reform;</l><l xml:id="swift-M10133D2-line-4" n="4">Crop your Numbers and conform:</l><l xml:id="swift-M10133D2-line-5" n="5">Let your little Verses flow,</l><l xml:id="swift-M10133D2-line-6" n="6">Gently, sweetly, Row by Row:</l><l xml:id="swift-M10133D2-line-7" n="7">Let the Verse the Subject fit:</l><l xml:id="swift-M10133D2-line-8" n="8">Little Subject, little Wit:</l><l xml:id="swift-M10133D2-line-9" n="9"><hi rend="italics">Namby Pamby</hi> is your Guide;</l><l xml:id="swift-M10133D2-line-10" n="10"><hi rend="italics">Albion</hi>'s Joy, <hi rend="italics">Hibernia</hi>'s Pride.</l><l xml:id="swift-M10133D2-line-11" n="11"><hi rend="italics">Namby Pamby Pilli-pis</hi>,</l><l xml:id="swift-M10133D2-line-12" n="12">Rhimy pim'd on Missy-Miss;</l><l xml:id="swift-M10133D2-line-13" n="13"><hi rend="italics">Tartaretta Tartaree</hi></l><l xml:id="swift-M10133D2-line-14" n="14">From the Navel to the Knee;</l><l xml:id="swift-M10133D2-line-15" n="15">That her Father's Gracy-Grace</l><l xml:id="swift-M10133D2-line-16" n="16">Might give him a Placy-Place.</l><l xml:id="swift-M10133D2-line-17" n="17">He no longer writes of Mammy,</l><l xml:id="swift-M10133D2-line-18" n="18"><hi rend="italics">Andromache</hi> and her Lammy.</l><l xml:id="swift-M10133D2-line-19" n="19">Hanging panging at her Breast</l><l xml:id="swift-M10133D2-line-20" n="20">Of a Matron most distrest.</l><l xml:id="swift-M10133D2-line-21" n="21">Now the Venal Poet sings,</l><l xml:id="swift-M10133D2-line-22" n="22">Baby Clouts, and Baby Things,</l><l xml:id="swift-M10133D2-line-23" n="23">Baby Dolls and Baby Houses,</l><l xml:id="swift-M10133D2-line-24" n="24">Little Misses, little Spouses;</l><l xml:id="swift-M10133D2-line-25" n="25">Little Play-Things, little Toys,</l><l xml:id="swift-M10133D2-line-26" n="26">Little Girls, and little Boys:</l><l xml:id="swift-M10133D2-line-27" n="27">As an Actor does his Part,</l><l xml:id="swift-M10133D2-line-28" n="28">So the Nurses get by Heart</l><l xml:id="swift-M10133D2-line-29" n="29"><hi rend="italics">Namby Pamby</hi>'s little Rhimes,</l><l xml:id="swift-M10133D2-line-30" n="30">Little Jingle, little Chimes,</l><l xml:id="swift-M10133D2-line-31" n="31">To repeat to little Miss,</l><l xml:id="swift-M10133D2-line-32" n="32">Piddling Ponds of Pissy-Piss;</l><l xml:id="swift-M10133D2-line-33" n="33">Cacking packing like a Lady,</l><l xml:id="swift-M10133D2-line-34" n="34">Or Bye-bying in the Crady.</l><l xml:id="swift-M10133D2-line-35" n="35"><hi rend="italics">Namby Pamby</hi> ne'er will die,</l><l xml:id="swift-M10133D2-line-36" n="36">While the Nurse sings <hi rend="italics">Lullabye.</hi></l><l xml:id="swift-M10133D2-line-37" n="37"><hi rend="italics">Namby Pamby</hi>'s double Mild,</l><l xml:id="swift-M10133D2-line-38" n="38">Once a Man, and twice a Child;</l><l xml:id="swift-M10133D2-line-39" n="39">To his Hanging-Sleeves restor'd;</l><l xml:id="swift-M10133D2-line-40" n="40">Now he foots it like a Lord;</l><l xml:id="swift-M10133D2-line-41" n="41">Now he Pumps his little Wits; 3}</l><l xml:id="swift-M10133D2-line-42" n="42">Sh────ing, Writes, and Writing, Sh──ts,</l><l xml:id="swift-M10133D2-line-43" n="43">All by little tiny Bits.</l><l xml:id="swift-M10133D2-line-44" n="44">Now methinks I hear him say,</l><l xml:id="swift-M10133D2-line-45" n="45"><hi rend="italics">Boys and Girls Come out to Play,</hi></l><l xml:id="swift-M10133D2-line-46" n="46"><hi rend="italics">Moon do's shine as bright as Day</hi>,</l><l xml:id="swift-M10133D2-line-47" n="47">Now my <hi rend="italics">Namby Pamby</hi>'s found</l><l xml:id="swift-M10133D2-line-48" n="48">Sitting on the <hi rend="italics">Friar's Ground,</hi></l><l xml:id="swift-M10133D2-line-49" n="49">Picking Silver, picking Gold,</l><l xml:id="swift-M10133D2-line-50" n="50">Picking Silver, picking Gold,Namby Pamby</l>'s never old.<l xml:id="swift-M10133D2-line-51" n="51"><hi rend="italics">Bally-Cally</hi> they begin,</l><l xml:id="swift-M10133D2-line-52" n="52"><hi rend="italics">Namby Pamby</hi> still keeps in.</l><l xml:id="swift-M10133D2-line-53" n="53"><hi rend="italics">Namby Pamby</hi> is no Clown,</l><l xml:id="swift-M10133D2-line-54" n="54"><hi rend="italics">London-Bridge is broken down</hi>:</l><l xml:id="swift-M10133D2-line-55" n="55">Now he <hi rend="italics">courts the gay Ladee,</hi></l><l xml:id="swift-M10133D2-line-56" n="56"><hi rend="italics">Dancing o'er the Lady-Lee</hi>;</l><l xml:id="swift-M10133D2-line-57" n="57">Now he sings of <hi rend="italics">Lick-spit Liar,</hi></l><l xml:id="swift-M10133D2-line-58" n="58">Burning in the Brimstone Fire;</l><l xml:id="swift-M10133D2-line-59" n="59">Lyar, Lyar, Lick-spit, lick,</l><l xml:id="swift-M10133D2-line-60" n="60">Lyar, Lyar, Lick-spit, lick,Turn about the Candle-stick</l>:<l xml:id="swift-M10133D2-line-61" n="61">Now he sings of <hi rend="italics">Jacky Horner,</hi></l><l xml:id="swift-M10133D2-line-62" n="62">Sitting in the Chimney-Corner,</l><l xml:id="swift-M10133D2-line-63" n="63">Eating of a Christmas-Pie,</l><l xml:id="swift-M10133D2-line-64" n="64">Eating of a Christmas-Pie,Putting in his Thumb</l>, Oh, fie!<l xml:id="swift-M10133D2-line-65" n="65"><hi rend="italics">Putting in</hi>, Oh, fie! <hi rend="italics">his Thumb,</hi></l><l xml:id="swift-M10133D2-line-66" n="66"><hi rend="italics">Pulling out</hi>, Oh, strange! <hi rend="italics">a Plumb</hi>.</l><l xml:id="swift-M10133D2-line-67" n="67">And again, how <hi rend="italics">Nancy Cock</hi>,</l><l xml:id="swift-M10133D2-line-68" n="68">Nasty Girl! <hi rend="italics">besh────t her Smock</hi>.</l><l xml:id="swift-M10133D2-line-69" n="69">Now he acts the <hi rend="italics">Grenadier</hi>,</l><l xml:id="swift-M10133D2-line-70" n="70">Calling for <hi rend="italics">a Pot of Beer:</hi></l><l xml:id="swift-M10133D2-line-71" n="71">Where's his Money? He's forgot:</l><l xml:id="swift-M10133D2-line-72" n="72">Where's his Money? He's forgot:Get him gone a drunken Sot</l>.<l xml:id="swift-M10133D2-line-73" n="73">Now on <hi rend="italics">Cock-horse</hi> does he ride;</l><l xml:id="swift-M10133D2-line-74" n="74">And anon on Timber stride,</l><l xml:id="swift-M10133D2-line-75" n="75"><hi rend="italics">Se-and-Saw</hi> and <hi rend="italics">Sacch'ry-down,</hi></l><l xml:id="swift-M10133D2-line-76" n="76"><hi rend="italics">London is a gallant Town</hi>.</l><l xml:id="swift-M10133D2-line-77" n="77">Now he gathers Riches in,</l><l xml:id="swift-M10133D2-line-78" n="78">Thicker, faster, Pin by Pin;</l><l xml:id="swift-M10133D2-line-79" n="79"><hi rend="italics">Pins a-piece to see his Show</hi>,</l><l xml:id="swift-M10133D2-line-80" n="80">Boys and Girls flock Row by Row;</l><l xml:id="swift-M10133D2-line-81" n="81">From their Cloaths the Pins they take,</l><l xml:id="swift-M10133D2-line-82" n="82">Risque a Whipping for his sake;</l><l xml:id="swift-M10133D2-line-83" n="83">From their Frocks the Pins they pull,</l><l xml:id="swift-M10133D2-line-84" n="84">To fill <hi rend="italics">Namby</hi>'s Cushion full.</l><l xml:id="swift-M10133D2-line-85" n="85">So much Wit at such an Age,</l><l xml:id="swift-M10133D2-line-86" n="86">Does a Genius great presage.</l><l xml:id="swift-M10133D2-line-87" n="87">Second Childhood gone and past,</l><l xml:id="swift-M10133D2-line-88" n="88">Shou'd he prove a Man at last,</l><l xml:id="swift-M10133D2-line-89" n="89">What must second Manhood be,</l><l xml:id="swift-M10133D2-line-90" n="90">In a Child so Bright as he!</l><l rend="indent(1)" xml:id="swift-M10133D2-line-91" n="91"><lb/>Guard him, ye Poetick Powers;</l><l xml:id="swift-M10133D2-line-92" n="92">Watch his Minutes, watch his Hours:</l><l xml:id="swift-M10133D2-line-93" n="93">Let your tuneful <hi rend="italics">Nine</hi> inspire him;</l><l xml:id="swift-M10133D2-line-94" n="94">Let Poetick Fury fire him;</l><l xml:id="swift-M10133D2-line-95" n="95">Let the Poets, One and All,</l><l xml:id="swift-M10133D2-line-96" n="96">To his Genius, Victims fall.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

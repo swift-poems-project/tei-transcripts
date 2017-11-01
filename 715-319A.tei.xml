@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Rebus made upon Ionathan Swift by a Lady, upon his getting a Deanery.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 21NO16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> renamed JW 29AP17; heading rev JW 10JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="715-319A">
+          <head type="note" n="1" xml:id="spp-715-319A-headnote-1">
+            <lg n="1" xml:id="spp-715-319A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-319A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-715-319A-headnote-2">
+            <lg n="1" xml:id="spp-715-319A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-319A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-715-319A-headnote-3">
+            <lg n="1" xml:id="spp-715-319A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-319A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-715-319A-line-1" n="1">Say y<hi rend="superscript">e</hi> name of y<hi rend="superscript">e</hi> Man who his mistress denied 3}</l>
+            <l xml:id="swift-715-319A-line-2" n="2">And be y<hi rend="superscript">e</hi> first part of it only applied</l>
+            <l xml:id="swift-715-319A-line-3" n="3">To joyn with y<hi rend="superscript">e</hi> Prophet whom David did chide.</l>
+            <l xml:id="swift-715-319A-line-4" n="4">Then say what a horse is y<hi rend="superscript">t</hi> runs very fast</l>
+            <l xml:id="swift-715-319A-line-5" n="5">And y<hi rend="superscript">t</hi> w<hi rend="superscript">ch</hi> deserves to be first put y<hi rend="superscript">e</hi> last</l>
+            <l xml:id="swift-715-319A-line-6" n="6">Spell all &amp; put it together to find</l>
+            <l xml:id="swift-715-319A-line-7" n="7">The Name &amp; y<hi rend="superscript">e</hi> Virues of Him I design'd,</l>
+            <l xml:id="swift-715-319A-line-8" n="8">Like y<hi rend="superscript">e</hi> Patriarch in Egypt he's vers'd in y<hi rend="superscript">e</hi> State</l>
+            <l xml:id="swift-715-319A-line-9" n="9">Like y<hi rend="superscript">e</hi> Prophet in Iewry He's free w<hi rend="superscript">th</hi> y<hi rend="superscript">e</hi> Great,</l>
+            <l xml:id="swift-715-319A-line-10" n="10">Like a racer he flies to succour with speed</l>
+            <l xml:id="swift-715-319A-line-11" n="11">When his friends want his Aid or Desert is in need.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

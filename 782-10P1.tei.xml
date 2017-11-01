@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TIM <hi rend="italics">and the</hi> FABLES.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 18JA13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="782-10P1">
+          <head type="note" n="1" xml:id="spp-782-10P1-headnote-1">
+            <lg n="1" xml:id="spp-782-10P1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-782-10P1-headnote-1-line-group-1-line-1">From the Tenth <hi rend="italics">Intelligencer</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-782-10P1-headnote-2">
+            <lg n="1" xml:id="spp-782-10P1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-782-10P1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-782-10P1-headnote-3">
+            <lg n="1" xml:id="spp-782-10P1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-782-10P1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-782-10P1-line-1" n="1"><hi rend="display-initial">M<hi rend="italics">Y Meaning will be best unravell'd,</hi></hi></l><l xml:id="swift-782-10P1-line-2" n="2"><hi rend="display-initial">When I premise that </hi>Tim<hi rend="italics"> has travell'd</hi>.</l><l xml:id="swift-782-10P1-line-3" n="3">In <hi rend="italics">Lucas</hi>'s by Chance there lay</l><l xml:id="swift-782-10P1-line-4" n="4">The <hi rend="italics">Fables</hi> writ by Mr. <hi rend="italics">Gay</hi>.</l><l xml:id="swift-782-10P1-line-5" n="5"><hi rend="italics">Tim</hi> set the Volume on a Table,</l><l xml:id="swift-782-10P1-line-6" n="6">Read over here and there a <hi rend="italics">Fable</hi>;</l><l xml:id="swift-782-10P1-line-7" n="7">And found as he the Pages twirl'd,</l><l xml:id="swift-782-10P1-line-8" n="8">The <hi rend="italics">Monkey</hi> who had seen the World:</l><l xml:id="swift-782-10P1-line-9" n="9">(For <hi rend="italics">Tonson</hi> had, to help the Sale,</l><l xml:id="swift-782-10P1-line-10" n="10">Prefixt a Cut to ev'ry Tale.)</l><l xml:id="swift-782-10P1-line-11" n="11">The <hi rend="italics">Monkey</hi> was completely drest,</l><l xml:id="swift-782-10P1-line-12" n="12">The <hi rend="italics">Beau</hi> in all his Airs exprest.</l><l xml:id="swift-782-10P1-line-13" n="13"><hi rend="italics">Tim</hi> with Surprize and Pleasure staring,</l><l xml:id="swift-782-10P1-line-14" n="14">Ran to the Glass, and then comparing</l><l xml:id="swift-782-10P1-line-15" n="15">His own sweet Figure with the Print,</l><l xml:id="swift-782-10P1-line-16" n="16">Distinguish'd ev'ry Feature in't,</l><l xml:id="swift-782-10P1-line-17" n="17">The Twist, the Squeeze, the Rump, the Fidge an' all,</l><l xml:id="swift-782-10P1-line-18" n="18">Just as they lookt in the Original.</l><l xml:id="swift-782-10P1-line-19" n="19">By ──── says <hi rend="italics">Tim</hi>, (and let a F──t)</l><l xml:id="swift-782-10P1-line-20" n="20">This Graver understood his Art.</l><l xml:id="swift-782-10P1-line-21" n="21">'Tis a true Copy, I'll say that for't,</l><l xml:id="swift-782-10P1-line-22" n="22">I well remember when I sat for't.</l><l xml:id="swift-782-10P1-line-23" n="23">My very Face, at first I knew it,</l><l xml:id="swift-782-10P1-line-24" n="24">Just in this Dress the Painter drew it.</l><l xml:id="swift-782-10P1-line-25" n="25"><hi rend="italics">Tim</hi>, with his Likeness deeply smitten,</l><l xml:id="swift-782-10P1-line-26" n="26">Wou'd read what underneath was written,</l><l xml:id="swift-782-10P1-line-27" n="27">The merry Tale with Moral grave.</l><l xml:id="swift-782-10P1-line-28" n="28">He now began to storm and rave;</l><l xml:id="swift-782-10P1-line-29" n="29">“The cursed Villain! Now I see</l><l xml:id="swift-782-10P1-line-30" n="30">“This was a Libel meant at me;</l><l xml:id="swift-782-10P1-line-31" n="31">“Those Scriblers grow so bold of late</l><l xml:id="swift-782-10P1-line-32" n="32">“Against us Ministers of State!</l><l xml:id="swift-782-10P1-line-33" n="33">“Such Jacobites as he deserve,────</l><l xml:id="swift-782-10P1-line-34" n="34">“Damme, I say, they ought to starve.</l><l rend="indent(1)" xml:id="swift-782-10P1-line-35" n="35"><lb/><hi rend="italics">Dear</hi> Tim, <hi rend="italics">no more such angry Speeches,</hi></l><l xml:id="swift-782-10P1-line-36" n="36">Unbutton, and let down your Breeches,</l><l xml:id="swift-782-10P1-line-37" n="37">Tear out the Tale and wipe your A────,</l><l xml:id="swift-782-10P1-line-38" n="38">Tear out the Tale and wipe your A────,I know you love to act a</l> Farce,<note place="foot">·Of the Xth [Intellig.] I writ only the Verses, and of those, not the four last slovenly Lines. <hi rend="italics">Letters to and from Dr.</hi> Swift, LXI.</note></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>shall I repine</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="419B519V">
+          <head type="note" n="1" xml:id="spp-419B519V-headnote-1">
+            <lg n="1" xml:id="spp-419B519V-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419B519V-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-419B519V-headnote-2">
+            <lg n="1" xml:id="spp-419B519V-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419B519V-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-419B519V-headnote-3">
+            <lg n="1" xml:id="spp-419B519V-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419B519V-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-419B519V-line-1" n="1">Because I my shabby \sable·<hi rend="italics">alt·above</hi>·threadbare\ wastcoat·s torn</l>
+            <l xml:id="swift-419B519V-line-2" n="2">\<hi rend="italics">del</hi>·At·<hi rend="italics">add</hi>·Full\ two years \<hi rend="italics">?</hi>old<hi rend="italics"> blotted</hi>\ or out at elbows worn</l>
+            <l xml:id="swift-419B519V-line-3" n="3">So in the cassock of a ?poor divine</l>
+            <l xml:id="swift-419B519V-line-4" n="4">Worn out at elbows, why should he repine</l>
+            <l xml:id="swift-419B519V-line-5" n="5">If neithr brass nor marble can withstand</l>
+            <l xml:id="swift-419B519V-line-6" n="6">The mortal force of Time's destructive hand</l>
+            <l xml:id="swift-419B519V-line-7" n="7">If mountains sink to vales, if Cityes dye</l>
+            <l xml:id="swift-419B519V-line-8" n="8">And less'ning rivers mourn their fountains dry</l>
+            <l xml:id="swift-419B519V-line-9" n="9">When \<hi rend="italics">add</hi>·my·<hi rend="italics">del</hi>·the\ old cassock \<hi rend="italics">del</hi>·of·<hi rend="italics">add</hi>·says\ a Welsh Divine</l>
+            <l xml:id="swift-419B519V-line-10" n="10">Is out at elbows why should \<hi rend="italics">add</hi>·I·<hi rend="italics">del</hi>·he\ repine?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

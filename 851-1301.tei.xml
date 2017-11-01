@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-851-1301-title-1">My L<hi rend="small-caps">ADY</hi>'s <ref target="#spp-851-1301-footnote-title-1">1</ref><note n="1" xml:id="spp-851-1301-footnote-title-1" place="foot">Lady Acheson, wife to Sir Arthur Acheson</note> LAMENTATION and<lb/>  COMPLAINT against the DEAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 14JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-851-1301-footnote-title-1 #spp-851-1301-title-1"/>
+        </linkGrp>
+        <div n="851-1301">
+          <head type="note" n="1" xml:id="spp-851-1301-headnote-1">
+            <lg n="1" xml:id="spp-851-1301-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-851-1301-headnote-1-line-group-1-line-1">J<hi rend="small-caps">ULY</hi> 28, 1728.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-851-1301-headnote-2">
+            <lg n="1" xml:id="spp-851-1301-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-851-1301-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-851-1301-headnote-3">
+            <lg n="1" xml:id="spp-851-1301-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-851-1301-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-851-1301-line-1" n="1"><hi rend="display-initial">S</hi>URE never did man see</l>
+            <l xml:id="swift-851-1301-line-2" n="2">A wretch like poor Nancy,</l>
+            <l xml:id="swift-851-1301-line-3" n="3">So teaz'd day and night</l>
+            <l xml:id="swift-851-1301-line-4" n="4">By a Dean and a Knight;</l>
+            <l xml:id="swift-851-1301-line-5" n="5">To punish my sins,</l>
+            <l xml:id="swift-851-1301-line-6" n="6">Sir Arthur begins,</l>
+            <l xml:id="swift-851-1301-line-7" n="7">And gives me a wipe</l>
+            <l xml:id="swift-851-1301-line-8" n="8">With Skinny and Snipe:<note place="foot">·The Dean used to call her by those names.</note></l>
+            <l xml:id="swift-851-1301-line-9" n="9">His malice is plain,</l>
+            <l xml:id="swift-851-1301-line-10" n="10">Hallooing the Dean.</l>
+            <l xml:id="swift-851-1301-line-11" n="11">The Dean never stops,</l>
+            <l xml:id="swift-851-1301-line-12" n="12">When he opens his chops;</l>
+            <l xml:id="swift-851-1301-line-13" n="13">I'm quite over--run</l>
+            <l xml:id="swift-851-1301-line-14" n="14">With rebus and pun.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-15" n="15"><lb/>Before he came here</l>
+            <l xml:id="swift-851-1301-line-16" n="16">To spunge for good cheer,</l>
+            <l xml:id="swift-851-1301-line-17" n="17">I sat with delight,</l>
+            <l xml:id="swift-851-1301-line-18" n="18">From morning till night,</l>
+            <l xml:id="swift-851-1301-line-19" n="19">With two bony thumbs</l>
+            <l xml:id="swift-851-1301-line-20" n="20">Could rub my own gums,</l>
+            <l xml:id="swift-851-1301-line-21" n="21">Or scratching my nose,</l>
+            <l xml:id="swift-851-1301-line-22" n="22">And jogging my toes;</l>
+            <l xml:id="swift-851-1301-line-23" n="23">But at present, forsooth,</l>
+            <l xml:id="swift-851-1301-line-24" n="24">I must not rub a tooth:</l>
+            <l xml:id="swift-851-1301-line-25" n="25">When my elbows he sees</l>
+            <l xml:id="swift-851-1301-line-26" n="26">Held up by my knees,</l>
+            <l xml:id="swift-851-1301-line-27" n="27">My arms, like two props,</l>
+            <l xml:id="swift-851-1301-line-28" n="28">Supporting my chops,</l>
+            <l xml:id="swift-851-1301-line-29" n="29">And just as I handle 'em</l>
+            <l xml:id="swift-851-1301-line-30" n="30">Moving all like a pendulum;</l>
+            <l xml:id="swift-851-1301-line-31" n="31">He trips up my props,</l>
+            <l xml:id="swift-851-1301-line-32" n="32">And down my chin drops,</l>
+            <l xml:id="swift-851-1301-line-33" n="33">From my head to my heels,</l>
+            <l xml:id="swift-851-1301-line-34" n="34">Like a clock without wheels;</l>
+            <l xml:id="swift-851-1301-line-35" n="35">I sink in the spleen,</l>
+            <l xml:id="swift-851-1301-line-36" n="36">An useless machine.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-37" n="37"><lb/>If he had his will,</l>
+            <l xml:id="swift-851-1301-line-38" n="38">I should never sit still:</l>
+            <l xml:id="swift-851-1301-line-39" n="39">He comes with his whims,</l>
+            <l xml:id="swift-851-1301-line-40" n="40">I must move my limbs;</l>
+            <l xml:id="swift-851-1301-line-41" n="41">I cannot be sweet</l>
+            <l xml:id="swift-851-1301-line-42" n="42">Without using my feet;</l>
+            <l xml:id="swift-851-1301-line-43" n="43">To lengthen my breath</l>
+            <l xml:id="swift-851-1301-line-44" n="44">He tires me to death.</l>
+            <l xml:id="swift-851-1301-line-45" n="45">By the worst of all Squires,</l>
+            <l xml:id="swift-851-1301-line-46" n="46">Thro' bogs and thro' briers,</l>
+            <l xml:id="swift-851-1301-line-47" n="47">Where a cow would be startled,</l>
+            <l xml:id="swift-851-1301-line-48" n="48">I'm in spite of my heart led:</l>
+            <l xml:id="swift-851-1301-line-49" n="49">And, say what I will,</l>
+            <l xml:id="swift-851-1301-line-50" n="50">Haul'd up every hill;</l>
+            <l xml:id="swift-851-1301-line-51" n="51">'Till, daggled and tatter'd,</l>
+            <l xml:id="swift-851-1301-line-52" n="52">My spirit's quite shatter'd,</l>
+            <l xml:id="swift-851-1301-line-53" n="53">I return home at night,</l>
+            <l xml:id="swift-851-1301-line-54" n="54">And fast out of spite:</l>
+            <l xml:id="swift-851-1301-line-55" n="55">For I'd rather be dead,</l>
+            <l xml:id="swift-851-1301-line-56" n="56">Than it e'er should be said</l>
+            <l xml:id="swift-851-1301-line-57" n="57">I was better for him,</l>
+            <l xml:id="swift-851-1301-line-58" n="58">In stomach or limb.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-59" n="59"><lb/>But, now to my diet,</l>
+            <l xml:id="swift-851-1301-line-60" n="60">No eating in quiet,</l>
+            <l xml:id="swift-851-1301-line-61" n="61">He's still finding fault,</l>
+            <l xml:id="swift-851-1301-line-62" n="62">Too sour or too salt:</l>
+            <l xml:id="swift-851-1301-line-63" n="63">The wing of a chick</l>
+            <l xml:id="swift-851-1301-line-64" n="64">I hardly can pick,</l>
+            <l xml:id="swift-851-1301-line-65" n="65">But trash without measure</l>
+            <l xml:id="swift-851-1301-line-66" n="66">I swallow with pleasure.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-67" n="67"><lb/>Next, for his diversion,</l>
+            <l xml:id="swift-851-1301-line-68" n="68">He rails at my person:</l>
+            <l xml:id="swift-851-1301-line-69" n="69">What court-breeding this is?</l>
+            <l xml:id="swift-851-1301-line-70" n="70">He takes me to pieces.</l>
+            <l xml:id="swift-851-1301-line-71" n="71">From shoulder to flank</l>
+            <l xml:id="swift-851-1301-line-72" n="72">I'm lean and am lank;</l>
+            <l xml:id="swift-851-1301-line-73" n="73">My nose, long and thin,</l>
+            <l xml:id="swift-851-1301-line-74" n="74">Grows down to my chin;</l>
+            <l xml:id="swift-851-1301-line-75" n="75">My chin will not stay,</l>
+            <l xml:id="swift-851-1301-line-76" n="76">But meets it half way:</l>
+            <l xml:id="swift-851-1301-line-77" n="77">My fingers, prolix,</l>
+            <l xml:id="swift-851-1301-line-78" n="78">Are ten crooked sticks:</l>
+            <l xml:id="swift-851-1301-line-79" n="79">He swears my el──bows</l>
+            <l xml:id="swift-851-1301-line-80" n="80">Are two iron crows,</l>
+            <l xml:id="swift-851-1301-line-81" n="81">Or sharp pointed rocks,</l>
+            <l xml:id="swift-851-1301-line-82" n="82">And wear out my smocks:</l>
+            <l xml:id="swift-851-1301-line-83" n="83">To 'scape them, Sir Arthur</l>
+            <l xml:id="swift-851-1301-line-84" n="84">Is forc'd to lie farther,</l>
+            <l xml:id="swift-851-1301-line-85" n="85">Or his sides they would gore,</l>
+            <l xml:id="swift-851-1301-line-86" n="86">Like the tusks of a boar.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-87" n="87"><lb/>Now, changing the scene,</l>
+            <l xml:id="swift-851-1301-line-88" n="88">But still to the Dean:</l>
+            <l xml:id="swift-851-1301-line-89" n="89">He loves to be bitter at</l>
+            <l xml:id="swift-851-1301-line-90" n="90">A lady illiterate;</l>
+            <l xml:id="swift-851-1301-line-91" n="91">If he sees her but once,</l>
+            <l xml:id="swift-851-1301-line-92" n="92">He'll swear she's a dunce;</l>
+            <l xml:id="swift-851-1301-line-93" n="93">Can tell by her looks</l>
+            <l xml:id="swift-851-1301-line-94" n="94">A hater of books:</l>
+            <l xml:id="swift-851-1301-line-95" n="95">Thro' each line of her face</l>
+            <l xml:id="swift-851-1301-line-96" n="96">Her folly can trace;</l>
+            <l xml:id="swift-851-1301-line-97" n="97">Which spoils ev'ry feature</l>
+            <l xml:id="swift-851-1301-line-98" n="98">Bestow'd her by nature,</l>
+            <l xml:id="swift-851-1301-line-99" n="99">But sense gives a grace</l>
+            <l xml:id="swift-851-1301-line-100" n="100">To the homeliest face:</l>
+            <l xml:id="swift-851-1301-line-101" n="101">Wise books and reflection</l>
+            <l xml:id="swift-851-1301-line-102" n="102">Will mend the complexion.</l>
+            <l xml:id="swift-851-1301-line-103" n="103">(A civil Divine!</l>
+            <l xml:id="swift-851-1301-line-104" n="104">I suppose meaning mine.)</l>
+            <l xml:id="swift-851-1301-line-105" n="105">No Lady who wants them</l>
+            <l xml:id="swift-851-1301-line-106" n="106">Can ever be handsome.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-107" n="107"><lb/>I guess well enough</l>
+            <l xml:id="swift-851-1301-line-108" n="108">What he means by this stuff:</l>
+            <l xml:id="swift-851-1301-line-109" n="109">He haws and he hums,</l>
+            <l xml:id="swift-851-1301-line-110" n="110">At last out it comes.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-111" n="111"><lb/>What, Madam? No walking,</l>
+            <l xml:id="swift-851-1301-line-112" n="112">No reading, nor talking?</l>
+            <l xml:id="swift-851-1301-line-113" n="113">You're now in your prime,</l>
+            <l xml:id="swift-851-1301-line-114" n="114">Make use of your time.</l>
+            <l xml:id="swift-851-1301-line-115" n="115">Consider, before</l>
+            <l xml:id="swift-851-1301-line-116" n="116">You come to threescore,</l>
+            <l xml:id="swift-851-1301-line-117" n="117">How the hussies will fleer</l>
+            <l xml:id="swift-851-1301-line-118" n="118">Where'er you appear:</l>
+            <l xml:id="swift-851-1301-line-119" n="119">That silly old puss</l>
+            <l xml:id="swift-851-1301-line-120" n="120">Would fain be like us,</l>
+            <l xml:id="swift-851-1301-line-121" n="121">What a figure she made</l>
+            <l xml:id="swift-851-1301-line-122" n="122">In her tarnish'd brocade?</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-123" n="123"><lb/>And then he grows mild:</l>
+            <l xml:id="swift-851-1301-line-124" n="124">Come, be a good child:</l>
+            <l xml:id="swift-851-1301-line-125" n="125">If you are inclin'd</l>
+            <l xml:id="swift-851-1301-line-126" n="126">To polish your mind,</l>
+            <l xml:id="swift-851-1301-line-127" n="127">Be ador'd by the men</l>
+            <l xml:id="swift-851-1301-line-128" n="128">'Till threescore and ten,</l>
+            <l xml:id="swift-851-1301-line-129" n="129">And kill with the spleen</l>
+            <l xml:id="swift-851-1301-line-130" n="130">The jades of sixteen,</l>
+            <l xml:id="swift-851-1301-line-131" n="131">I'll shew you the way:</l>
+            <l xml:id="swift-851-1301-line-132" n="132">Read six hours a-day.</l>
+            <l xml:id="swift-851-1301-line-133" n="133">The wits will frequent ye,</l>
+            <l xml:id="swift-851-1301-line-134" n="134">And think you but twenty.</l>
+            <l xml:id="swift-851-1301-line-135" n="135">om.</l>
+            <l xml:id="swift-851-1301-line-136" n="136">om.</l>
+            <l xml:id="swift-851-1301-line-137" n="137">om.</l>
+            <l xml:id="swift-851-1301-line-138" n="138">om.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-139" n="139"><lb/>Thus was I drawn in,</l>
+            <l xml:id="swift-851-1301-line-140" n="140">Forgive me my sin.</l>
+            <l xml:id="swift-851-1301-line-141" n="141">At breakfast he'll ask</l>
+            <l xml:id="swift-851-1301-line-142" n="142">An account of my task.</l>
+            <l xml:id="swift-851-1301-line-143" n="143">Put a word out of joint,</l>
+            <l xml:id="swift-851-1301-line-144" n="144">Or miss but a point,</l>
+            <l xml:id="swift-851-1301-line-145" n="145">He rages and frets,</l>
+            <l xml:id="swift-851-1301-line-146" n="146">His manners forgets;</l>
+            <l xml:id="swift-851-1301-line-147" n="147">And, as I am serious,</l>
+            <l xml:id="swift-851-1301-line-148" n="148">Is very imperious.</l>
+            <l xml:id="swift-851-1301-line-149" n="149">No book for delight</l>
+            <l xml:id="swift-851-1301-line-150" n="150">Must come in my sight:</l>
+            <l xml:id="swift-851-1301-line-151" n="151">But, instead of new plays,</l>
+            <l xml:id="swift-851-1301-line-152" n="152">Dull Bacon's Essay's,</l>
+            <l xml:id="swift-851-1301-line-153" n="153">And pore ev'ry day on</l>
+            <l xml:id="swift-851-1301-line-154" n="154">That nasty Pantheon.</l>
+            <l xml:id="swift-851-1301-line-155" n="155">If I be not a drudge,</l>
+            <l xml:id="swift-851-1301-line-156" n="156">Let all the world judge,</l>
+            <l xml:id="swift-851-1301-line-157" n="157">'Twere better be blind,</l>
+            <l xml:id="swift-851-1301-line-158" n="158">Than thus be confin'd.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-159" n="159"><lb/>But, while in an ill tone,</l>
+            <l xml:id="swift-851-1301-line-160" n="160">I murder poor Milton,</l>
+            <l xml:id="swift-851-1301-line-161" n="161">The Dean, you will swear,</l>
+            <l xml:id="swift-851-1301-line-162" n="162">Is at study or pray'r.</l>
+            <l xml:id="swift-851-1301-line-163" n="163">He's all the day saunt'ring,</l>
+            <l xml:id="swift-851-1301-line-164" n="164">With labourers bant'ring,</l>
+            <l xml:id="swift-851-1301-line-165" n="165">Among his colleagues,</l>
+            <l xml:id="swift-851-1301-line-166" n="166">A parcel of Teagues,</l>
+            <l xml:id="swift-851-1301-line-167" n="167">(Whom he brings in among us</l>
+            <l xml:id="swift-851-1301-line-168" n="168">And bribes with mundungus.)</l>
+            <l xml:id="swift-851-1301-line-169" n="169">om.</l>
+            <l xml:id="swift-851-1301-line-170" n="170">om.</l>
+            <l xml:id="swift-851-1301-line-171" n="171">Hail fellow, well met,</l>
+            <l xml:id="swift-851-1301-line-172" n="172">All dirty and wet:</l>
+            <l xml:id="swift-851-1301-line-173" n="173">Find out, if you can,</l>
+            <l xml:id="swift-851-1301-line-174" n="174">Who's master, who's man;</l>
+            <l xml:id="swift-851-1301-line-175" n="175">Who makes the best figure,</l>
+            <l xml:id="swift-851-1301-line-176" n="176">The Dean or the digger;</l>
+            <l xml:id="swift-851-1301-line-177" n="177">And which is the best</l>
+            <l xml:id="swift-851-1301-line-178" n="178">At cracking a jest.</l>
+            <l xml:id="swift-851-1301-line-179" n="179">om.</l>
+            <l xml:id="swift-851-1301-line-180" n="180">om.</l>
+            <l xml:id="swift-851-1301-line-181" n="181">om.</l>
+            <l xml:id="swift-851-1301-line-182" n="182">om.</l>
+            <l xml:id="swift-851-1301-line-183" n="183">How proudly he talks</l>
+            <l xml:id="swift-851-1301-line-184" n="184">Of zigzags and walks;</l>
+            <l xml:id="swift-851-1301-line-185" n="185">And all the day raves</l>
+            <l xml:id="swift-851-1301-line-186" n="186">Of cradles and caves;</l>
+            <l xml:id="swift-851-1301-line-187" n="187">And boasts of his feats,</l>
+            <l xml:id="swift-851-1301-line-188" n="188">His grottos and seats;</l>
+            <l xml:id="swift-851-1301-line-189" n="189">Shews all his gew──gaws</l>
+            <l xml:id="swift-851-1301-line-190" n="190">And gapes for applause?</l>
+            <l xml:id="swift-851-1301-line-191" n="191">A fine occupation</l>
+            <l xml:id="swift-851-1301-line-192" n="192">For one in his station!</l>
+            <l xml:id="swift-851-1301-line-193" n="193">A hole where a rabbit</l>
+            <l xml:id="swift-851-1301-line-194" n="194">Would scorn to inhabit,</l>
+            <l xml:id="swift-851-1301-line-195" n="195">Dug out in an hour,</l>
+            <l xml:id="swift-851-1301-line-196" n="196">He calls it a bow'r.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-197" n="197"><lb/>But, Oh, how we laugh,</l>
+            <l xml:id="swift-851-1301-line-198" n="198">To see a wild calf</l>
+            <l xml:id="swift-851-1301-line-199" n="199">Come, driven by heat,</l>
+            <l xml:id="swift-851-1301-line-200" n="200">And foul the green seat;</l>
+            <l xml:id="swift-851-1301-line-201" n="201">Or run helter skelter</l>
+            <l xml:id="swift-851-1301-line-202" n="202">To his arbor for shelter,</l>
+            <l xml:id="swift-851-1301-line-203" n="203">Where all goes to ruin</l>
+            <l xml:id="swift-851-1301-line-204" n="204">The Dean has been doing.</l>
+            <l xml:id="swift-851-1301-line-205" n="205">The girls of the village</l>
+            <l xml:id="swift-851-1301-line-206" n="206">Come flocking for pillage,</l>
+            <l xml:id="swift-851-1301-line-207" n="207">Pull down the fine briers,</l>
+            <l xml:id="swift-851-1301-line-208" n="208">And thorns, to make fires;</l>
+            <l xml:id="swift-851-1301-line-209" n="209">But yet are so kind</l>
+            <l xml:id="swift-851-1301-line-210" n="210">To leave something behind:</l>
+            <l xml:id="swift-851-1301-line-211" n="211">No more need be said on't,</l>
+            <l xml:id="swift-851-1301-line-212" n="212">I smell when I tread on't.</l>
+            <l rend="indent(1)" xml:id="swift-851-1301-line-213" n="213"><lb/>Dear friend, Doctor Jenny,</l>
+            <l xml:id="swift-851-1301-line-214" n="214">If I could but win ye,</l>
+            <l xml:id="swift-851-1301-line-215" n="215">Or Walmsley or Whaley,</l>
+            <l xml:id="swift-851-1301-line-216" n="216">To come hither daily,</l>
+            <l xml:id="swift-851-1301-line-217" n="217">Since fortune, my foe,</l>
+            <l xml:id="swift-851-1301-line-218" n="218">Will needs have it so,</l>
+            <l xml:id="swift-851-1301-line-219" n="219">That I'm, by her frowns,</l>
+            <l xml:id="swift-851-1301-line-220" n="220">Condemn'd to black gowns;</l>
+            <l xml:id="swift-851-1301-line-221" n="221">No Squire to be found</l>
+            <l xml:id="swift-851-1301-line-222" n="222">The neighbourhood round,</l>
+            <l xml:id="swift-851-1301-line-223" n="223">(For, under the rose,</l>
+            <l xml:id="swift-851-1301-line-224" n="224">I would rather chuse those:)</l>
+            <l xml:id="swift-851-1301-line-225" n="225">If your wives will permit ye,</l>
+            <l xml:id="swift-851-1301-line-226" n="226">Come here out of pity,</l>
+            <l xml:id="swift-851-1301-line-227" n="227">To ease a poor Lady,</l>
+            <l xml:id="swift-851-1301-line-228" n="228">And beg her a play-day.</l>
+            <l xml:id="swift-851-1301-line-229" n="229">So may you be seen</l>
+            <l xml:id="swift-851-1301-line-230" n="230">No more in the spleen:</l>
+            <l xml:id="swift-851-1301-line-231" n="231">May Walmsley give wine,</l>
+            <l xml:id="swift-851-1301-line-232" n="232">Like a hearty divine;</l>
+            <l xml:id="swift-851-1301-line-233" n="233">May Whaley disgrace</l>
+            <l xml:id="swift-851-1301-line-234" n="234">Dull Daniel's whey-face;</l>
+            <l xml:id="swift-851-1301-line-235" n="235">And may your three spouses</l>
+            <l xml:id="swift-851-1301-line-236" n="236">Let you lie at friends houses.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

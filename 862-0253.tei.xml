@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To JANUS on N<hi rend="small-caps">EW-</hi>Y<hi rend="small-caps">EAR'</hi>s D<hi rend="small-caps">AY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 3AU08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="862-0253">
+          <head type="note" n="1" xml:id="spp-862-0253-headnote-1">
+            <lg n="1" xml:id="spp-862-0253-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-862-0253-headnote-1-line-group-1-line-1">Written in the Year 1729.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-862-0253-headnote-2">
+            <lg n="1" xml:id="spp-862-0253-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-862-0253-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-862-0253-headnote-3">
+            <lg n="1" xml:id="spp-862-0253-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-862-0253-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-862-0253-line-1" n="1"><hi rend="display-initial">T</hi>WO-fac'd <hi rend="italics">Janus</hi>, God of Time,</l>
+            <l xml:id="swift-862-0253-line-2" n="2">Be my <hi rend="italics">Phœbus</hi> while I rhyme,</l>
+            <l xml:id="swift-862-0253-line-3" n="3">To oblige your Crony <hi rend="italics">Swift</hi>,</l>
+            <l xml:id="swift-862-0253-line-4" n="4">Bring our Dame a New-Year's Gift:</l>
+            <l xml:id="swift-862-0253-line-5" n="5">She has got but half a Face:</l>
+            <l xml:id="swift-862-0253-line-6" n="6"><hi rend="italics">Janus</hi>, since thou hast a Brace,</l>
+            <l xml:id="swift-862-0253-line-7" n="7">To my Lady once be kind;</l>
+            <l xml:id="swift-862-0253-line-8" n="8">Give her half thy Face behind.</l>
+            <l rend="indent(1)" xml:id="swift-862-0253-line-9" n="9"><lb/>G<hi rend="small-caps">OD</hi> of Time, if you be wise,</l>
+            <l xml:id="swift-862-0253-line-10" n="10">Look not with your future Eyes:</l>
+            <l xml:id="swift-862-0253-line-11" n="11">What imports thy forward Sight?</l>
+            <l xml:id="swift-862-0253-line-12" n="12">Well, if you could lose it quite.</l>
+            <l xml:id="swift-862-0253-line-13" n="13">Can you take Delight in viewing</l>
+            <l xml:id="swift-862-0253-line-14" n="14">This poor Isle's approaching Ruin?</l>
+            <l xml:id="swift-862-0253-line-15" n="15">When thy Retrospection vast</l>
+            <l xml:id="swift-862-0253-line-16" n="16">Sees the glorious Ages past.</l>
+            <l rend="indent(1)" xml:id="swift-862-0253-line-17" n="17"><lb/>H<hi rend="small-caps">APPY</hi> Nation were we blind,</l>
+            <l xml:id="swift-862-0253-line-18" n="18">Or had only Eyes behind.────</l>
+            <l rend="indent(1)" xml:id="swift-862-0253-line-19" n="19"><lb/>D<hi rend="small-caps">ROWN</hi> your Morals, Madam cryes;</l>
+            <l xml:id="swift-862-0253-line-20" n="20">I'll have none but forward Eyes:</l>
+            <l xml:id="swift-862-0253-line-21" n="21">Prudes decay'd about may tack,</l>
+            <l xml:id="swift-862-0253-line-22" n="22">Strain their Necks with looking back:</l>
+            <l xml:id="swift-862-0253-line-23" n="23">Give me <hi rend="italics">Time</hi> when coming on;</l>
+            <l xml:id="swift-862-0253-line-24" n="24">Who regards him when he's gone?</l>
+            <l xml:id="swift-862-0253-line-25" n="25">By the Dean though gravely told,</l>
+            <l xml:id="swift-862-0253-line-26" n="26">New Years help to make me old;</l>
+            <l xml:id="swift-862-0253-line-27" n="27">Yet I find, a New-Year's Lace</l>
+            <l xml:id="swift-862-0253-line-28" n="28">Burnishes an old Year's Face.</l>
+            <l xml:id="swift-862-0253-line-29" n="29">Give me Velvet and Quadrille,</l>
+            <l xml:id="swift-862-0253-line-30" n="30"><hi rend="italics">I'll have Youth and Beauty still</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

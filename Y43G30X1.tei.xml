@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="small-caps-italic">A New S</hi>ONG<hi rend="italics"><lb/>  For young </hi>Mother<hi rend="italics">s, &amp;</hi> Nurses.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 21AP09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G30X1">
+          <head type="note" n="1" xml:id="spp-Y43G30X1-headnote-1">
+            <lg n="1" xml:id="spp-Y43G30X1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G30X1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y43G30X1-headnote-2">
+            <lg n="1" xml:id="spp-Y43G30X1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G30X1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y43G30X1-headnote-3">
+            <lg n="1" xml:id="spp-Y43G30X1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G30X1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y43G30X1-line-1" n="1">Oh my Kitten, a Kitten, and oh my Kitten my Deary,</l>
+            <l xml:id="swift-Y43G30X1-line-2" n="2">such a sweet Pap as this, there is not far nor neary.</l>
+            <l xml:id="swift-Y43G30X1-line-3" n="3">Here we go up, up, up, and here we go down, down, downy,</l>
+            <l xml:id="swift-Y43G30X1-line-4" n="4">Here we go backwards and forwards, &amp; here we go round, round, roundy.</l>
+            <l rend="center" xml:id="swift-Y43G30X1-line-5" n="5">2<lb/>Chucky, Chuckow, my Illicock, see-saw sucky downy,</l>
+            <l xml:id="swift-Y43G30X1-line-6" n="6">Gallop a trot, trot, trot, &amp; high for <hi rend="italics">Dublin</hi> Town a,</l>
+            <l xml:id="swift-Y43G30X1-line-7" n="7">This Pig went to Market, then creep Mouse, Mouse, Mouse, Mousey,</l>
+            <l xml:id="swift-Y43G30X1-line-8" n="8">Then shoe, shoe, shoe, y<hi rend="superscript">e</hi> wild Colt, &amp; here's to your own Dolly Dousey.</l>
+            <l rend="center" xml:id="swift-Y43G30X1-line-9" n="9">3<lb/>We was a Jewel &amp; Petesy, &amp; we was a Sugar Spicy,</l>
+            <l xml:id="swift-Y43G30X1-line-10" n="10">Hush a Bie, bie in a Cradle, we'll go abroad in a Tricy,</l>
+            <l xml:id="swift-Y43G30X1-line-11" n="11">Did a <hi rend="italics">Papa</hi> torment it, did he vex <hi rend="italics">Baby</hi> did he,</l>
+            <l xml:id="swift-Y43G30X1-line-12" n="12">Hush in <hi rend="italics">Mammy</hi>'s own Bosom, &amp; take our own suck a didy.</l>
+            <l rend="center" xml:id="swift-Y43G30X1-line-13" n="13">4<lb/>Good Morrow, Oh! there's a Pedding broke, slobber, ah, Threds of Christal,</l>
+            <l xml:id="swift-Y43G30X1-line-14" n="14">Oh! sweet Posset, y<hi rend="superscript">e</hi> Posset, who said my Child was pist all,</l>
+            <l xml:id="swift-Y43G30X1-line-15" n="15">Water my Chickens, my Chickens, come Cock a du dudel dee,</l>
+            <l xml:id="swift-Y43G30X1-line-16" n="16">Give me a Hand 'till I beat him, ah, ah, will you vex my Baby.</l>
+            <l rend="center" xml:id="swift-Y43G30X1-line-17" n="17">5<lb/>Where was a laughest a Crow, &amp; where was a Gigling Boy,</l>
+            <l xml:id="swift-Y43G30X1-line-18" n="18">Goody Child shall be fed, but naughty Pack shall have noney,</l>
+            <l xml:id="swift-Y43G30X1-line-19" n="19">Get gone Raw-head &amp; bloody Bones, here's a Child does not fear ye,</l>
+            <l xml:id="swift-Y43G30X1-line-20" n="20">Come Gissy, &amp; Pissy my Jewel, &amp; then eh, eh, eh, my Deary.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

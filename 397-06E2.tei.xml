@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-397-06E2-title-1">To the Earl of P<hi rend="small-caps">ETERBOROW</hi>, who com-<lb/>  manded the British forces in Spain <ref target="#spp-397-06E2-footnote-title-1">1</ref><note n="1" xml:id="spp-397-06E2-footnote-title-1" place="foot">This Noble Lord had made a most considerable figure in his day. His character was amiable and uncommon. His life was a continued series of variety. In his public and private conduct he differed from most men. He had visited all climates, but had staid in none. He was a citizen of the world. He conquered and maintained armies without money. His actions and expressions were peculiar to himself. He was of a vivacity superior to all fatigue, and his courage was beyond any conception of danger. He verified, in many instances, whatever has been said of romantic heroes. He seems to have been fixed only in his friendships and moral principles. He had a most true regard and affection for Swift and Pope. The Dean has here described him in a very particular manner, but so justly, that the four last stanzas will give a most perfect and complete idea of Lord Peterborow's person and military virtue. His wit in the letter, vol. 8. p 204. is easy and unaffected. At the time when he wrote that letter, he had hung up his helmet and his buckler, and was retired to his plough and his wheelbarrow, wearied of courts, and disgusted with statesmen. <hi rend="italics">Orrery</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 8JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-397-06E2-footnote-title-1 #spp-397-06E2-title-1"/>
+        </linkGrp>
+        <div n="397-06E2">
+          <head type="note" n="1" xml:id="spp-397-06E2-headnote-1">
+            <lg n="1" xml:id="spp-397-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-397-06E2-headnote-1-line-group-1-line-1">Written in the year 1706.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-397-06E2-headnote-2">
+            <lg n="1" xml:id="spp-397-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-397-06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-397-06E2-headnote-3">
+            <lg n="1" xml:id="spp-397-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-397-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-397-06E2-line-1" n="1"><hi rend="display-initial">M</hi>Ordanto fills the trump of fame,</l>
+            <l xml:id="swift-397-06E2-line-2" n="2">The Christian world his deeds proclaim,</l>
+            <l xml:id="swift-397-06E2-line-3" n="3">And prints are crouded with his name.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-4" n="4"><lb/>In journeys he outrides the post,</l>
+            <l xml:id="swift-397-06E2-line-5" n="5">Sits up till midnight with his host,</l>
+            <l xml:id="swift-397-06E2-line-6" n="6">Talks politics, and gives the toast.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-7" n="7"><lb/>Knows ev'ry prince in Europe's face,</l>
+            <l xml:id="swift-397-06E2-line-8" n="8">Flies like a squib from place to place,</l>
+            <l xml:id="swift-397-06E2-line-9" n="9">And travels not, but runs a race.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-10" n="10"><lb/>From Paris gazette A-la-main,</l>
+            <l xml:id="swift-397-06E2-line-11" n="11">This day arriv'd, without his train,</l>
+            <l xml:id="swift-397-06E2-line-12" n="12">Mordanto in a week from Spain.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-13" n="13"><lb/>A messenger comes all a-reek</l>
+            <l xml:id="swift-397-06E2-line-14" n="14">Mordanto at Madrid to seek;</l>
+            <l xml:id="swift-397-06E2-line-15" n="15">He left the town above a week.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-16" n="16"><lb/>Next day the postboy winds his horn,</l>
+            <l xml:id="swift-397-06E2-line-17" n="17">And rides through Dover in the morn:</l>
+            <l xml:id="swift-397-06E2-line-18" n="18">Mordanto's landed from Leghorn.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-19" n="19"><lb/>Mordanto gallops on alone,</l>
+            <l xml:id="swift-397-06E2-line-20" n="20">The roads are with his foll'wers strown,</l>
+            <l xml:id="swift-397-06E2-line-21" n="21">This breaks a girth, and that a bone:</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-22" n="22"><lb/>His body active as his mind,</l>
+            <l xml:id="swift-397-06E2-line-23" n="23">Returning sound in limb and wind,</l>
+            <l xml:id="swift-397-06E2-line-24" n="24">Except some leather lost behind.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-25" n="25"><lb/>A skeleton in outward figure,</l>
+            <l xml:id="swift-397-06E2-line-26" n="26">His meagre corpse, though full of vigour,</l>
+            <l xml:id="swift-397-06E2-line-27" n="27">Would halt behind him, were it bigger.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-28" n="28"><lb/>So wonderful his expedition,</l>
+            <l xml:id="swift-397-06E2-line-29" n="29">When you have not the least suspicion,</l>
+            <l xml:id="swift-397-06E2-line-30" n="30">He's with you like an apparition.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-31" n="31"><lb/>Shines in all climates like a star;</l>
+            <l xml:id="swift-397-06E2-line-32" n="32">In senates bold, and fierce in war;</l>
+            <l xml:id="swift-397-06E2-line-33" n="33">A land-commander, and a tar.</l>
+            <l rend="indent(1)" xml:id="swift-397-06E2-line-34" n="34"><lb/>Heroic actions early bred in,</l>
+            <l xml:id="swift-397-06E2-line-35" n="35">Ne'er to be match'd in modern reading,</l>
+            <l xml:id="swift-397-06E2-line-36" n="36">But by his name-sake Charles of Sweden.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

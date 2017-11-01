@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>S<hi rend="small-caps">HERIDAN</hi>'<hi rend="italics">s Submission. Written by the Dean</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AMP 20NO95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JIF 27SE07 agt X04-10M1; PReid 10OC07; √'d JW 26OC08 agt WILH; ed. JW 19AP17; the two files merged and EMENDED JW 19AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X04-CWJS">
+          <head type="note" n="1" xml:id="spp-X04-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-X04-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X04-CWJS-headnote-1-line-group-1-line-1"><hi rend="italics">Cedo jam, miseræ cognoscens præmia rixæ,</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X04-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-X04-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X04-CWJS-headnote-2-line-group-1-line-1"><hi rend="italics">Si rixa est, ubi tu pulsas, ego vapulo tantum</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X04-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-X04-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X04-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(2)" xml:id="swift-X04-CWJS-line-1" n="1">|Poor <hi rend="italics">Sherry</hi>, inglorious,</l>
+            <l rend="indent(2)" xml:id="swift-X04-CWJS-line-2" n="2">|To <hi rend="italics">Dan</hi> the victorious,</l>
+            <l rend="indent(2)" xml:id="swift-X04-CWJS-line-3" n="3">|Presents, as 'tis fitting,</l>
+            <l rend="indent(2)" xml:id="swift-X04-CWJS-line-4" n="4">|Petition and Greeting.</l>
+            <l xml:id="swift-X04-CWJS-line-5" n="5">
+              <lb/>
+              <hi rend="display-initial">T<hi rend="small-caps">O YOU</hi> victorious and brave,</hi>
+            </l>
+            <l xml:id="swift-X04-CWJS-line-6" n="6">Your now subdu'd and suppliant Slave</l>
+            <l rend="indent(2)" xml:id="swift-X04-CWJS-line-7" n="7">|Most humbly sues for Pardon.</l>
+            <l xml:id="swift-X04-CWJS-line-8" n="8">Who when I fought still cut me down,</l>
+            <l xml:id="swift-X04-CWJS-line-9" n="9">And when I, vanquish'd, fled the Town,</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-10" n="10">Pursu'd and laid me hard on.</l>
+            <l xml:id="swift-X04-CWJS-line-11" n="11"><lb/>Now lowly crouch'd, I cry Peccavi,</l>
+            <l xml:id="swift-X04-CWJS-line-12" n="12">And prostrate, supplicate <hi rend="italics">pour ma vie</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-13" n="13">Your Mercy I rely on.</l>
+            <l xml:id="swift-X04-CWJS-line-14" n="14">For you, my Conq'ror and my King,</l>
+            <l xml:id="swift-X04-CWJS-line-15" n="15">In pard'ning, as in punishing,</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-16" n="16">Will shew yourself a Lion.</l>
+            <l xml:id="swift-X04-CWJS-line-17" n="17"><lb/>Alas, Sir, I had no Design,</l>
+            <l xml:id="swift-X04-CWJS-line-18" n="18">But was unwarily drawn in;</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-19" n="19">For Spight I ne'er had any.</l>
+            <l xml:id="swift-X04-CWJS-line-20" n="20">'Twas the damn'd 'Squire with the hard Name,</l>
+            <l xml:id="swift-X04-CWJS-line-21" n="21">The De'el too that ow'd me a Shame,</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-22" n="22">The Devil and <hi rend="italics">Delany</hi>;</l>
+            <l xml:id="swift-X04-CWJS-line-23" n="23"><lb/>They tempted me t' attack your Highness,</l>
+            <l xml:id="swift-X04-CWJS-line-24" n="24">And then, with wonted Wile and Slyness,</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-25" n="25">They left me in the Lurch.</l>
+            <l xml:id="swift-X04-CWJS-line-26" n="26">Unhappy Wretch! for now, I ween,</l>
+            <l xml:id="swift-X04-CWJS-line-27" n="27">I've nothing left to vent my Spleen</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-28" n="28">But Ferula and Birch;</l>
+            <l xml:id="swift-X04-CWJS-line-29" n="29"><lb/>And they, alas, yield small Relief,</l>
+            <l xml:id="swift-X04-CWJS-line-30" n="30">Seem rather to renew my Grief,</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-31" n="31">My Wounds Bleed all anew:</l>
+            <l xml:id="swift-X04-CWJS-line-32" n="32">For ev'ry Stroke goes to my Heart,</l>
+            <l xml:id="swift-X04-CWJS-line-33" n="33">And at each Lash I feel the Smart</l>
+            <l rend="indent(1)" xml:id="swift-X04-CWJS-line-34" n="34">Of Lash laid on by you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

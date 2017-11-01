@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Parson's Case</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="676-ROGP">
+          <head type="note" n="1" xml:id="spp-676-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-676-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-676-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-676-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-676-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-676-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-676-ROGP-line-1" n="1">That you, friend Marcus, like a Stoic,</l>
+            <l xml:id="swift-676-ROGP-line-2" n="2">Can wish to die, in strain heroic,</l>
+            <l xml:id="swift-676-ROGP-line-3" n="3">No real fortitude implies:</l>
+            <l xml:id="swift-676-ROGP-line-4" n="4">Yet, all must own, thy wish is wise.</l>
+            <l rend="indent(1)" xml:id="swift-676-ROGP-line-5" n="5"><lb/>Thy curate's place, thy fruitful wife,</l>
+            <l xml:id="swift-676-ROGP-line-6" n="6">Thy busy, drudging scene of life,</l>
+            <l xml:id="swift-676-ROGP-line-7" n="7">Thy insolent illiterate vicar,</l>
+            <l xml:id="swift-676-ROGP-line-8" n="8">Thy want of all-consoling liquor,</l>
+            <l xml:id="swift-676-ROGP-line-9" n="9">Thy threadbare gown, thy cassock rent,</l>
+            <l xml:id="swift-676-ROGP-line-10" n="10">Thy credit sunk, thy money spent,</l>
+            <l xml:id="swift-676-ROGP-line-11" n="11">Thy week made up of fasting days,</l>
+            <l xml:id="swift-676-ROGP-line-12" n="12">Thy grate unconscious of a blaze,</l>
+            <l xml:id="swift-676-ROGP-line-13" n="13">om.</l>
+            <l xml:id="swift-676-ROGP-line-14" n="14">om.</l>
+            <l xml:id="swift-676-ROGP-line-15" n="15">om.</l>
+            <l xml:id="swift-676-ROGP-line-16" n="16">om.</l>
+            <l xml:id="swift-676-ROGP-line-17" n="17">And, to complete thy other curses,</l>
+            <l xml:id="swift-676-ROGP-line-18" n="18">The quarterly demand of nurses,</l>
+            <l xml:id="swift-676-ROGP-line-19" n="19">Are ills you wisely wish to leave,</l>
+            <l xml:id="swift-676-ROGP-line-20" n="20">And fly for refuge to the grave:</l>
+            <l xml:id="swift-676-ROGP-line-21" n="21">And, O what virtue you express</l>
+            <l xml:id="swift-676-ROGP-line-22" n="22">In wishing such afflictions less!</l>
+            <l rend="indent(1)" xml:id="swift-676-ROGP-line-23" n="23"><lb/>But, now should fortune shift the scene,</l>
+            <l xml:id="swift-676-ROGP-line-24" n="24">And make thy curateship a dean;</l>
+            <l xml:id="swift-676-ROGP-line-25" n="25">Or some rich benefice provide,</l>
+            <l xml:id="swift-676-ROGP-line-26" n="26">To pamper luxury and pride;</l>
+            <l xml:id="swift-676-ROGP-line-27" n="27">With labour small, and income great;</l>
+            <l xml:id="swift-676-ROGP-line-28" n="28">With chariot less for use than state;</l>
+            <l xml:id="swift-676-ROGP-line-29" n="29">With swelling scarf, and glossy gown,</l>
+            <l xml:id="swift-676-ROGP-line-30" n="30">And licence to reside in town;</l>
+            <l xml:id="swift-676-ROGP-line-31" n="31">To shine, where all the gay resort,</l>
+            <l xml:id="swift-676-ROGP-line-32" n="32">At concert, coffee-house, or court;</l>
+            <l xml:id="swift-676-ROGP-line-33" n="33">And weekly persecute his Grace</l>
+            <l xml:id="swift-676-ROGP-line-34" n="34">With visits, or to beg a place;</l>
+            <l xml:id="swift-676-ROGP-line-35" n="35">With underlings thy flocks to teach,</l>
+            <l xml:id="swift-676-ROGP-line-36" n="36">With no desire to pray or preach;</l>
+            <l xml:id="swift-676-ROGP-line-37" n="37">With haughty spouse in vesture fine,</l>
+            <l xml:id="swift-676-ROGP-line-38" n="38">With plenteous meals, and generous wine;</l>
+            <l xml:id="swift-676-ROGP-line-39" n="39">Wouldst thou not wish, in so much ease,</l>
+            <l xml:id="swift-676-ROGP-line-40" n="40">Thy years as numerous as thy days?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

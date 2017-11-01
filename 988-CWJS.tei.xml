@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dean Swift to Tho: Sheridan.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 16JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 22AP09; EMENDED JW 3AP17; macrons and breves added JW 10AP17; 8n emended JW 15AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="988-CWJS">
+          <head type="note" n="1" xml:id="spp-988-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-988-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-988-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-988-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-988-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-988-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-988-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-988-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-988-CWJS-headnote-3-line-group-1-line-1">S<hi rend="superscript">r</hi></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-988-CWJS-line-1" n="1">Whate'er Your Predecessors taught us,</l>
+            <l xml:id="swift-988-CWJS-line-2" n="2">I have a great Esteem for Plautus,</l>
+            <l xml:id="swift-988-CWJS-line-3" n="3">And think Your Boys may gather there-hence</l>
+            <l xml:id="swift-988-CWJS-line-4" n="4">More Wit and Humour than from Terence</l>
+            <l xml:id="swift-988-CWJS-line-5" n="5">But as to Comick Aristophanes</l>
+            <l xml:id="swift-988-CWJS-line-6" n="6">The Rogue too Bawdy and too proⁿphaªne iªs</l>
+            <l xml:id="swift-988-CWJS-line-7" n="7">I went in vain to look for Eupolis</l>
+            <l xml:id="swift-988-CWJS-line-8" n="8">Down in the <note place="foot">·NB. the Strand in London.<lb/>The Fact may be false but the Rhyme cost me some Trouble.</note> Strand just where the Neⁿw Poªle iªs</l>
+            <l xml:id="swift-988-CWJS-line-9" n="9">For I can tell you One thing that I can</l>
+            <l xml:id="swift-988-CWJS-line-10" n="10">You will not find it in the Vatican</l>
+            <l xml:id="swift-988-CWJS-line-11" n="11">He and Cratinus us'd as Hoⁿraªce saªys,</l>
+            <l xml:id="swift-988-CWJS-line-12" n="12">To take the Greatest Grandees for Asses.</l>
+            <l xml:id="swift-988-CWJS-line-13" n="13">Poets in those days us'd to Veⁿntuªre hiªgh</l>
+            <l xml:id="swift-988-CWJS-line-14" n="14">But these are lost full many a Century.</l>
+            <l rend="indent(1)" xml:id="swift-988-CWJS-line-15" n="15"><lb/>Thus You may see, Dear Friend, ex peⁿdeª heªnce</l>
+            <l xml:id="swift-988-CWJS-line-16" n="16">My Judgement of the Old Comedians.</l>
+            <l rend="indent(1)" xml:id="swift-988-CWJS-line-17" n="17"><lb/>Proceed to Tragicks. First Euripides</l>
+            <l xml:id="swift-988-CWJS-line-18" n="18">(An Author where I sometimes dip a days)</l>
+            <l xml:id="swift-988-CWJS-line-19" n="19">Is rightly censur'd by the Stagirite</l>
+            <l xml:id="swift-988-CWJS-line-20" n="20">Who says his Numbers do not faⁿdge aª riªght</l>
+            <l xml:id="swift-988-CWJS-line-21" n="21">A Friend of mine that Author deⁿspiªseªs  3}</l>
+            <l xml:id="swift-988-CWJS-line-22" n="22">So much that he swears the Very beⁿst pieªce iªs</l>
+            <l xml:id="swift-988-CWJS-line-23" n="23">For ought he knows as bad as Thespis's.</l>
+            <l xml:id="swift-988-CWJS-line-24" n="24">And that a Woman in these Tragedys</l>
+            <l xml:id="swift-988-CWJS-line-25" n="25">Commonly speaking but a sad Jade is.</l>
+            <l xml:id="swift-988-CWJS-line-26" n="26">At least I'm well assur'd that noⁿ foªlk laªys</l>
+            <l xml:id="swift-988-CWJS-line-27" n="27">The Weight on him they do on Sophocles.</l>
+            <l xml:id="swift-988-CWJS-line-28" n="28">But above all I prefer Æschylus</l>
+            <l xml:id="swift-988-CWJS-line-29" n="29">Whose moving touches when they please kill us</l>
+            <l rend="indent(1)" xml:id="swift-988-CWJS-line-30" n="30"><lb/>And now I find My Muse but iⁿll aªbleª</l>
+            <l xml:id="swift-988-CWJS-line-31" n="31">To hold out longer in Tryssylable</l>
+            <l rend="indent(1)" xml:id="swift-988-CWJS-line-32" n="32"><lb/>I chose these Rhymes out for their diⁿfficuªltyª</l>
+            <l xml:id="swift-988-CWJS-line-33" n="33">Will You return as hard ones if I call t' Ye<lb/>«LD»Jonathan Swift.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

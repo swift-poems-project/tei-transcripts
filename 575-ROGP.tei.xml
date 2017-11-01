@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Place of the Damned</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="575-ROGP">
+          <head type="note" n="1" xml:id="spp-575-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-575-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-575-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-575-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-575-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-575-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-575-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-575-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-575-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-575-ROGP-line-1" n="1">All folks who pretend to religion and grace,</l>
+            <l xml:id="swift-575-ROGP-line-2" n="2">Allow there's a hell, but dispute of the place;</l>
+            <l xml:id="swift-575-ROGP-line-3" n="3">But if hell may by logical rules be defined,</l>
+            <l xml:id="swift-575-ROGP-line-4" n="4">The place of the damned── I will tell you my mind.</l>
+            <l rend="indent(1)" xml:id="swift-575-ROGP-line-5" n="5"><lb/>Wherever the damned do chiefly abound,</l>
+            <l xml:id="swift-575-ROGP-line-6" n="6">Most certainly there is hell to be found;</l>
+            <l xml:id="swift-575-ROGP-line-7" n="7">Damned poets, damned critics, damned blockheads, damned knaves,</l>
+            <l xml:id="swift-575-ROGP-line-8" n="8">Damned senators bribed, damned prostitute slaves;</l>
+            <l xml:id="swift-575-ROGP-line-9" n="9">Damned lawyers and judges, damned lords and damned squires,</l>
+            <l xml:id="swift-575-ROGP-line-10" n="10">Damned spies and informers, damned friends and damned liars;</l>
+            <l xml:id="swift-575-ROGP-line-11" n="11">Damned villains, corrupted in every station,</l>
+            <l xml:id="swift-575-ROGP-line-12" n="12">Damned time-serving priests all over the nation.</l>
+            <l xml:id="swift-575-ROGP-line-13" n="13">om.</l>
+            <l xml:id="swift-575-ROGP-line-14" n="14">om.</l>
+            <l xml:id="swift-575-ROGP-line-15" n="15">om.</l>
+            <l xml:id="swift-575-ROGP-line-16" n="16">om.</l>
+            <l xml:id="swift-575-ROGP-line-17" n="17">And into the bargain I'll readily give you,</l>
+            <l xml:id="swift-575-ROGP-line-18" n="18">Damned ignorant prelates, and councillors privy.</l>
+            <l xml:id="swift-575-ROGP-line-19" n="19">Then let us no longer by parsons be flammed,</l>
+            <l xml:id="swift-575-ROGP-line-20" n="20">For we know by these marks, the place of the damned:</l>
+            <l xml:id="swift-575-ROGP-line-21" n="21">And hell to be sure is at Paris or Rome,</l>
+            <l xml:id="swift-575-ROGP-line-22" n="22">How happy for us, that it is not at home!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

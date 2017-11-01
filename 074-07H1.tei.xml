@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-074-07H1-title-1"><ref target="#spp-074-07H1-footnote-title-1">1</ref><note n="1" xml:id="spp-074-07H1-footnote-title-1" place="foot"><lb/>This ballad occasioned another to the tune of the cut-purse. See Vol. VI. p. 76</note> <hi rend="italics">A </hi>BALLAD<hi rend="italics"> on the Game of</hi><lb/>  TRAFFIC.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 6JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-074-07H1-footnote-title-1 #spp-074-07H1-title-1"/>
+        </linkGrp>
+        <div n="074-07H1">
+          <head type="note" n="1" xml:id="spp-074-07H1-headnote-1">
+            <lg n="1" xml:id="spp-074-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-07H1-headnote-1-line-group-1-line-1"><hi rend="italics">Written at the castle of </hi>Dublin<hi rend="italics">, in the time of the earl of </hi>Berkley's<hi rend="italics"> government</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-074-07H1-headnote-2">
+            <lg n="1" xml:id="spp-074-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-07H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-074-07H1-headnote-3">
+            <lg n="1" xml:id="spp-074-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-074-07H1-line-1" n="1"><hi rend="display-initial">M</hi>Y <note place="foot">·The earl of <hi rend="italics">Berkley</hi>.</note> <hi rend="italics">lord</hi> to find out who must deal</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-2" n="2">Delivers cards about,</l>
+            <l xml:id="swift-074-07H1-line-3" n="3">But the first knave does seldom fail</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-4" n="4">To find the <hi rend="italics">doctor</hi> out.</l>
+            <l xml:id="swift-074-07H1-line-5" n="5"><lb/>But then his <hi rend="italics">honour</hi> cry'd, godzooks!</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-6" n="6">And seem'd to knit his brow;</l>
+            <l xml:id="swift-074-07H1-line-7" n="7">For on a knave he never looks</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-8" n="8">But h'thinks upon <hi rend="italics">Jack How</hi>.</l>
+            <l xml:id="swift-074-07H1-line-9" n="9"><lb/>My <hi rend="italics">lady</hi>, though she is no player,</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-10" n="10">Some bungling partner takes,</l>
+            <l xml:id="swift-074-07H1-line-11" n="11">And wedg'd in corner of a chair</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-12" n="12">Takes snuff, and holds the stakes.</l>
+            <l xml:id="swift-074-07H1-line-13" n="13"><lb/>Dame <hi rend="italics">Floyd</hi> <note place="foot">·<hi rend="italics">Biddy Floyd</hi>, see letter to col. <hi rend="italics">Hunter</hi>.</note> looks out in grave suspence</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-14" n="14">For pair-royals and sequents;</l>
+            <l xml:id="swift-074-07H1-line-15" n="15">But wisely cautious of her pence,</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-16" n="16">The castle seldom frequents.</l>
+            <l xml:id="swift-074-07H1-line-17" n="17"><lb/>Quoth <hi rend="italics">Herries</hi>, fairly putting cases,</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-18" n="18">I'd won it on my word,</l>
+            <l xml:id="swift-074-07H1-line-19" n="19">If I had but a pair of aces,</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-20" n="20">And could pick up a third.</l>
+            <l xml:id="swift-074-07H1-line-21" n="21"><lb/>But <hi rend="italics">Weston</hi> has a new-cast gown</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-22" n="22">On <hi rend="italics">Sundays</hi> to be fine in,</l>
+            <l xml:id="swift-074-07H1-line-23" n="23">And, if she can but win a <hi rend="italics">crown</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-24" n="24">'Twill just new dye the lining.</l>
+            <l xml:id="swift-074-07H1-line-25" n="25"><lb/>“With these is parson <hi rend="italics">Swift</hi></l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-26" n="26">“Not knowing how to spend his time,</l>
+            <l xml:id="swift-074-07H1-line-27" n="27">“Does make a wretched shift,</l>
+            <l rend="indent(1)" xml:id="swift-074-07H1-line-28" n="28">“To deafen them with puns and rhime.</l>
+            <l xml:id="swift-074-07H1-line-29" n="29">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

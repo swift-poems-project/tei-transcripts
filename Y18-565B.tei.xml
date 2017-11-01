@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Wisdoms Defeat<lb/>  In a learned Debate.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="David Hayton"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y18-565B">
+          <head type="note" n="1" xml:id="spp-Y18-565B-headnote-1">
+            <lg n="1" xml:id="spp-Y18-565B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y18-565B-headnote-1-line-group-1-line-1">Quid est sapientia? Semper idem velle atq; idem nolle.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y18-565B-headnote-2">
+            <lg n="1" xml:id="spp-Y18-565B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y18-565B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y18-565B-headnote-3">
+            <lg n="1" xml:id="spp-Y18-565B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y18-565B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y18-565B-line-1" n="1">Minerva has vow'd, since the Bishops do slight her</l>
+            <l xml:id="swift-Y18-565B-line-2" n="2">Shou'd the Reverend Peers, by chance ere invite her,</l>
+            <l xml:id="swift-Y18-565B-line-3" n="3">She's resolv'd never more to be known by the mitre.</l>
+            <l xml:id="swift-Y18-565B-line-4" n="4"><lb/>The temporal Lords, who voted against her,</l>
+            <l xml:id="swift-Y18-565B-line-5" n="5">She frankly forgives, as not having incenst her,</l>
+            <l xml:id="swift-Y18-565B-line-6" n="6">For securing their pensions is best proof of their sense S<hi rend="superscript">ṛ</hi></l>
+            <l xml:id="swift-Y18-565B-line-7" n="7"><lb/>At first putting the question, their Lordships were for't</l>
+            <l xml:id="swift-Y18-565B-line-8" n="8">And his Graces wise motion did bravely support.</l>
+            <l xml:id="swift-Y18-565B-line-9" n="9">Till positive orders was whisper'd from Court.</l>
+            <l xml:id="swift-Y18-565B-line-10" n="10"><lb/>Soe this they allege in their justification</l>
+            <l xml:id="swift-Y18-565B-line-11" n="11">They vote for their bread in undoing the Nation</l>
+            <l xml:id="swift-Y18-565B-line-12" n="12">And the first Law of nature is self preservation</l>
+            <l rend="indent(4)" xml:id="swift-Y18-565B-line-13" n="13"><lb/>|||Rose Comon</l>
+            <l rend="indent(4)" xml:id="swift-Y18-565B-line-14" n="14">|||Shamelesse Woman</l>
+            <l xml:id="swift-Y18-565B-line-15" n="15">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

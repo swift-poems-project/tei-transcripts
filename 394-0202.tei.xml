@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ADVICE<hi rend="italics"> to the </hi>Grub-street<hi rend="italics"> Verse-<lb/>  Writers</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 19JE97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="394-0202">
+          <head type="note" n="1" xml:id="spp-394-0202-headnote-1">
+            <lg n="1" xml:id="spp-394-0202-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-394-0202-headnote-1-line-group-1-line-1">W<hi rend="small-caps">RITTEN</hi> in the Y<hi rend="small-caps">EAR</hi>, 1726.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-394-0202-headnote-2">
+            <lg n="1" xml:id="spp-394-0202-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-394-0202-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-394-0202-headnote-3">
+            <lg n="1" xml:id="spp-394-0202-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-394-0202-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-394-0202-line-1" n="1"><hi rend="display-initial">Y</hi>E Poets ragged and forlorn,</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-2" n="2">Down from your Garrets haste,</l>
+            <l xml:id="swift-394-0202-line-3" n="3">Ye Rhimers, dead as soon as born,</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-4" n="4">Not yet consign'd to Paste;</l>
+            <l xml:id="swift-394-0202-line-5" n="5"><lb/>I know a Trick to make you thrive;</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-6" n="6">O, 'tis a quaint Device:</l>
+            <l xml:id="swift-394-0202-line-7" n="7">Your still-born Poems shall revive,</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-8" n="8">And scorn to wrap up Spice.</l>
+            <l xml:id="swift-394-0202-line-9" n="9"><lb/>Get all your Verses printed fair,</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-10" n="10">Then let them well be dry'd;</l>
+            <l xml:id="swift-394-0202-line-11" n="11">And, <hi rend="italics">Curl</hi> must have a special Care</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-12" n="12">To leave the Margin wide.</l>
+            <l xml:id="swift-394-0202-line-13" n="13"><lb/>Lend these to Paper-sparing <hi rend="italics">Pope</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-14" n="14">And, when he sits to write,</l>
+            <l xml:id="swift-394-0202-line-15" n="15">No Letter with an <hi rend="italics">Envelope</hi></l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-16" n="16">Could give him more Delight.</l>
+            <l xml:id="swift-394-0202-line-17" n="17"><lb/>When <hi rend="italics">Pope</hi> has fill'd the Margins round,</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-18" n="18">Why, then recal your Loan;</l>
+            <l xml:id="swift-394-0202-line-19" n="19">Sell them to <hi rend="italics">Curl</hi> for Fifty Pound,</l>
+            <l rend="indent(1)" xml:id="swift-394-0202-line-20" n="20">And swear they are your own.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

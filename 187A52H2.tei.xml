@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER CXIV.<lb/>  More Lines of humour, by Lord TREA-<lb/>  SURER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 2JL13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="187A52H2">
+          <head type="note" n="1" xml:id="spp-187A52H2-headnote-1">
+            <lg n="1" xml:id="spp-187A52H2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-187A52H2-headnote-1-line-group-1-line-1">April 14, 1714.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-187A52H2-headnote-2">
+            <lg n="1" xml:id="spp-187A52H2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-187A52H2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-187A52H2-headnote-3">
+            <lg n="1" xml:id="spp-187A52H2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-187A52H2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-1" n="1"><hi rend="display-initial">I</hi> Honour the men, Sir,</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-2" n="2">Who are ready to answer,</l>
+            <l xml:id="swift-187A52H2-line-3" n="3">When I ask them to stand by the queen;</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-4" n="4">In spite of orâtors,</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-5" n="5">And blood-thirsty praters,</l>
+            <l xml:id="swift-187A52H2-line-6" n="6">Whose hatred I highly esteem.</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-7" n="7">Let our faith's defender</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-8" n="8">Keep out ev'ry pretender,</l>
+            <l xml:id="swift-187A52H2-line-9" n="9">And long enjoy her own;</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-10" n="10">Thus you four, five,</l>
+            <l rend="indent(1)" xml:id="swift-187A52H2-line-11" n="11">May merrily live,</l>
+            <l xml:id="swift-187A52H2-line-12" n="12">Till faction is dead as a stone.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advice to a <hi rend="italics">PARSON</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 12JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="807-S870">
+          <head type="note" n="1" xml:id="spp-807-S870-headnote-1">
+            <lg n="1" xml:id="spp-807-S870-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-S870-headnote-1-line-group-1-line-1">An <hi rend="italics">EPIGRAM</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-807-S870-headnote-2">
+            <lg n="1" xml:id="spp-807-S870-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-S870-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-807-S870-headnote-3">
+            <lg n="1" xml:id="spp-807-S870-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-807-S870-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-807-S870-line-1" n="1"><hi rend="display-initial">W</hi>OU'D you rise in the <hi rend="italics">Church</hi>, be <hi rend="italics">Stupid</hi> and <hi rend="italics">Dull</hi>,</l>
+            <l xml:id="swift-807-S870-line-2" n="2">Be empty of <hi rend="italics">Learning</hi>, of <hi rend="italics">Insolence</hi> full:</l>
+            <l xml:id="swift-807-S870-line-3" n="3">Tho' Lewd and Immoral, be Formal and Grave,</l>
+            <l xml:id="swift-807-S870-line-4" n="4">In <hi rend="italics">Flatt'ry</hi> an <hi rend="italics">Artist</hi>, in <hi rend="italics">Fawning</hi> a <hi rend="italics">Slave</hi>,</l>
+            <l xml:id="swift-807-S870-line-5" n="5">No Merit, no Science, no Virtue is wanting</l>
+            <l xml:id="swift-807-S870-line-6" n="6">In him, that's accomplish'd in <hi rend="italics">Cringing</hi> and <hi rend="italics">Canting</hi>:</l>
+            <l xml:id="swift-807-S870-line-7" n="7">Be studious to practice true <hi rend="italics">Meanness of Spirit</hi>;</l>
+            <l xml:id="swift-807-S870-line-8" n="8">For who but <hi rend="italics">Lord Bolton</hi> <note place="foot">·Archbishop of <hi rend="italics">Cashel</hi>.</note> was <hi rend="italics">mitred</hi> for <hi rend="italics">Merit</hi>?</l>
+            <l xml:id="swift-807-S870-line-9" n="9">Wou'd you wish to be wrap'd in a <hi rend="italics">Rochet</hi>──── In short.</l>
+            <l xml:id="swift-807-S870-line-10" n="10">Be as <hi rend="italics">Pox'd</hi> and <hi rend="italics">Profane</hi> as <hi rend="italics">Fanatical H</hi>────</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

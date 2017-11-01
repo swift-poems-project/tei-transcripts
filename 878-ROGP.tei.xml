@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Robin and Harry</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="878-ROGP">
+          <head type="note" n="1" xml:id="spp-878-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-878-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-878-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-878-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-878-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-878-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-878-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-878-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-878-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-878-ROGP-line-1" n="1">Robin, to beggars, with a curse</l>
+            <l xml:id="swift-878-ROGP-line-2" n="2">Throws the last shilling in his purse,</l>
+            <l xml:id="swift-878-ROGP-line-3" n="3">And when the coachman comes for pay,</l>
+            <l xml:id="swift-878-ROGP-line-4" n="4">The rogue must call another day.</l>
+            <l rend="indent(1)" xml:id="swift-878-ROGP-line-5" n="5"><lb/>Grave Harry, when the poor are pressing</l>
+            <l xml:id="swift-878-ROGP-line-6" n="6">Gives them a penny, and God's blessing;</l>
+            <l xml:id="swift-878-ROGP-line-7" n="7">But, always careful of the main,</l>
+            <l xml:id="swift-878-ROGP-line-8" n="8">With twopence left, walks home in rain.</l>
+            <l rend="indent(1)" xml:id="swift-878-ROGP-line-9" n="9"><lb/>Robin from noon to night will prate,</l>
+            <l xml:id="swift-878-ROGP-line-10" n="10">Runs out in tongue, as in estate;</l>
+            <l xml:id="swift-878-ROGP-line-11" n="11">And e'er a twelvemonth and a day</l>
+            <l xml:id="swift-878-ROGP-line-12" n="12">Will not have one new thing to say.</l>
+            <l xml:id="swift-878-ROGP-line-13" n="13">Much talking is not Harry's vice,</l>
+            <l xml:id="swift-878-ROGP-line-14" n="14">He need not tell a story twice,</l>
+            <l xml:id="swift-878-ROGP-line-15" n="15">And, if he always be so thrifty,</l>
+            <l xml:id="swift-878-ROGP-line-16" n="16">His fund may last to five and fifty.</l>
+            <l rend="indent(1)" xml:id="swift-878-ROGP-line-17" n="17"><lb/>It so fell out, that cautious Harry</l>
+            <l xml:id="swift-878-ROGP-line-18" n="18">As soldiers use, for love must marry,</l>
+            <l xml:id="swift-878-ROGP-line-19" n="19">And with his dame the ocean crossed,</l>
+            <l xml:id="swift-878-ROGP-line-20" n="20">All for love, or the world well lost.</l>
+            <l xml:id="swift-878-ROGP-line-21" n="21">Repairs a cabin gone to ruin,</l>
+            <l xml:id="swift-878-ROGP-line-22" n="22">Just big enough to shelter two in;</l>
+            <l xml:id="swift-878-ROGP-line-23" n="23">And, in his house, if anybody come,</l>
+            <l xml:id="swift-878-ROGP-line-24" n="24">Will make them welcome to his modicum:</l>
+            <l xml:id="swift-878-ROGP-line-25" n="25">Where goody Julia milks the cows,</l>
+            <l xml:id="swift-878-ROGP-line-26" n="26">And boils potatoes for her spouse,</l>
+            <l xml:id="swift-878-ROGP-line-27" n="27">Or darns his hose, or mends his breeches,</l>
+            <l xml:id="swift-878-ROGP-line-28" n="28">While Harry's fencing up his ditches.</l>
+            <l rend="indent(1)" xml:id="swift-878-ROGP-line-29" n="29"><lb/>Robin, who ne'er his mind could fix</l>
+            <l xml:id="swift-878-ROGP-line-30" n="30">To live without a coach and six,</l>
+            <l xml:id="swift-878-ROGP-line-31" n="31">To patch his broken fortunes, found</l>
+            <l xml:id="swift-878-ROGP-line-32" n="32">A mistress worth five thousand pound;</l>
+            <l xml:id="swift-878-ROGP-line-33" n="33">Swears, he could get her in an hour</l>
+            <l xml:id="swift-878-ROGP-line-34" n="34">If Gaffer Harry would endow her;</l>
+            <l xml:id="swift-878-ROGP-line-35" n="35">And sell, to pacify his wrath,</l>
+            <l xml:id="swift-878-ROGP-line-36" n="36">A birthright for a mess of broth.</l>
+            <l rend="indent(1)" xml:id="swift-878-ROGP-line-37" n="37"><lb/>Young Harry, as all Europe knows,</l>
+            <l xml:id="swift-878-ROGP-line-38" n="38">Was long the quintessence of beaux;</l>
+            <l xml:id="swift-878-ROGP-line-39" n="39">But, when espoused, he ran the fate</l>
+            <l xml:id="swift-878-ROGP-line-40" n="40">That must attend the married state;</l>
+            <l xml:id="swift-878-ROGP-line-41" n="41">From gold brocade, and shining armour,</l>
+            <l xml:id="swift-878-ROGP-line-42" n="42">Was metamorphosed to a farmer;</l>
+            <l xml:id="swift-878-ROGP-line-43" n="43">His grazier's coat with dirt besmeared,</l>
+            <l xml:id="swift-878-ROGP-line-44" n="44">Nor, twice a week will shave his beard.</l>
+            <l rend="indent(1)" xml:id="swift-878-ROGP-line-45" n="45"><lb/>Old Robin, all his youth a sloven,</l>
+            <l xml:id="swift-878-ROGP-line-46" n="46">At fifty-two, when he grew loving,</l>
+            <l xml:id="swift-878-ROGP-line-47" n="47">Clad in a coat of paduasoy,</l>
+            <l xml:id="swift-878-ROGP-line-48" n="48">A flaxen wig, and waistcoat gay,</l>
+            <l xml:id="swift-878-ROGP-line-49" n="49">Powdered from shoulder down to flank,</l>
+            <l xml:id="swift-878-ROGP-line-50" n="50">In courtly style addresses Frank;</l>
+            <l xml:id="swift-878-ROGP-line-51" n="51">Twice ten years older than his wife,</l>
+            <l xml:id="swift-878-ROGP-line-52" n="52">Is doomed to be a beau for life;</l>
+            <l xml:id="swift-878-ROGP-line-53" n="53">Supplying those defects by dress</l>
+            <l xml:id="swift-878-ROGP-line-54" n="54">Which I must leave the world to guess.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

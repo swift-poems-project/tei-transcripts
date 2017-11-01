@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN INVITATION, BY DR DELANY,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 9AU04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-M40914W2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="M40914W2">
+          <head type="note" n="1" xml:id="spp-M40914W2-headnote-1">
+            <lg n="1" xml:id="spp-M40914W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40914W2-headnote-1-line-group-1-line-1">IN THE NAME OF DR SWIFT.<ref target="#spp-M40914W2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-M40914W2-footnote-headnote-1" place="foot">See Mrs Pilkington's Memoirs, Vol. III. page 65.── N</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M40914W2-headnote-2">
+            <lg n="1" xml:id="spp-M40914W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40914W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M40914W2-headnote-3">
+            <lg n="1" xml:id="spp-M40914W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40914W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-M40914W2-line-1" n="1">M<hi rend="small-caps">IGHTY</hi> Thomas, <note place="foot">·From their diminutive size, the Dean used to call Mr Pilkington “Tom Thumb,” and his wife “his lady fair.”── N.</note> a solemn senatus <note place="foot">·To correct Mrs Barber's poems; which were published at London, in 4to, by subscription.</note> I call,</l>
+            <l xml:id="swift-M40914W2-line-2" n="2">To consult for Sapphira; <note place="foot">·The name by which Mrs Barber was distinguished by her friends.── N.</note> so come one and all;</l>
+            <l xml:id="swift-M40914W2-line-3" n="3">Quit books, and quit business, your cure and your care,</l>
+            <l xml:id="swift-M40914W2-line-4" n="4">For a long winding walk, and a short bill of fare.</l>
+            <l xml:id="swift-M40914W2-line-5" n="5">I've mutton for you, sir; and as for the ladies,</l>
+            <l xml:id="swift-M40914W2-line-6" n="6">As friend Virgil has it, I've <hi rend="italics">aliud mercedis</hi>;</l>
+            <l xml:id="swift-M40914W2-line-7" n="7">For Letty, <note place="foot">·Mrs Pilkington.── N.</note> one filbert, whereon to regale;</l>
+            <l xml:id="swift-M40914W2-line-8" n="8">And a peach for pale Constance, <note place="foot">·Mrs Constantia Grierson, a very learned young lady, who died in 1733, at the age of 27.── N.</note> to make a full meal;</l>
+            <l xml:id="swift-M40914W2-line-9" n="9">And for your cruel part, <note place="foot">·Mrs Van Lewen, (Mrs Pilkington's mother,) who used to argue with Dr Swift, about his declamation against eating blood.── N.</note> who take pleasure in blood,</l>
+            <l xml:id="swift-M40914W2-line-10" n="10">I have that of the grape, which is ten times as good:</l>
+            <l xml:id="swift-M40914W2-line-11" n="11">Flow wit to her honour, flow wine to her health:</l>
+            <l xml:id="swift-M40914W2-line-12" n="12">High raised be her worth above titles or wealth.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`I like your collyrium'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 24AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 30JE13; EMENDED JW 17MR17; filename corrected JW 19MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S016CWJS">
+          <head type="note" n="1" xml:id="spp-S016CWJS-headnote-1">
+            <lg n="1" xml:id="spp-S016CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S016CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S016CWJS-headnote-2">
+            <lg n="1" xml:id="spp-S016CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S016CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S016CWJS-headnote-3">
+            <lg n="1" xml:id="spp-S016CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S016CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S016CWJS-line-1" n="1">I Like Your Collyrium</l>
+            <l xml:id="swift-S016CWJS-line-2" n="2">Take My Eyes S<hi rend="superscript">ṛ</hi> and clear ye 'um,</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-3" n="3">|Twill gain You a great reputation;</l>
+            <l xml:id="swift-S016CWJS-line-4" n="4">By this You may rise</l>
+            <l xml:id="swift-S016CWJS-line-5" n="5">Like the Doctor so Wise</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-6" n="6">|Who open'd the Eyes of the Nation.</l>
+            <l xml:id="swift-S016CWJS-line-7" n="7">And these I must Tell Ye</l>
+            <l xml:id="swift-S016CWJS-line-8" n="8">Are bigger than its Belly</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-9" n="9">|You know there's in Livy a story</l>
+            <l xml:id="swift-S016CWJS-line-10" n="10">Of the hands and the Feet</l>
+            <l xml:id="swift-S016CWJS-line-11" n="11">Denying of Meat,</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-12" n="12">|Don't I write in the Dark like a Tory?</l>
+            <l xml:id="swift-S016CWJS-line-13" n="13">Your Water so far goes</l>
+            <l xml:id="swift-S016CWJS-line-14" n="14">Twou'd serve for an Argus</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-15" n="15">|Were all his Whole hundred sore.</l>
+            <l xml:id="swift-S016CWJS-line-16" n="16">So many We read</l>
+            <l xml:id="swift-S016CWJS-line-17" n="17">He had in his head</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-18" n="18">|Or Ovid's a Son of a Whore.</l>
+            <l xml:id="swift-S016CWJS-line-19" n="19">For Your Recipe Sir</l>
+            <l xml:id="swift-S016CWJS-line-20" n="20">May my Lids never stir</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-21" n="21">|If ever I think once to fee You;</l>
+            <l xml:id="swift-S016CWJS-line-22" n="22">For I'd have You to know</l>
+            <l xml:id="swift-S016CWJS-line-23" n="23">When Abroad I can go</l>
+            <l rend="indent(2)" xml:id="swift-S016CWJS-line-24" n="24">|That it's honour enough if I see You.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN ELEGY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 30JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="233-14W2">
+          <head type="note" n="1" xml:id="spp-233-14W2-headnote-1">
+            <lg n="1" xml:id="spp-233-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-233-14W2-headnote-1-line-group-1-line-1">ON THE DEATH OF DEMAR, THE USURER;&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-233-14W2-headnote-2">
+            <lg n="1" xml:id="spp-233-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-233-14W2-headnote-2-line-group-1-line-1">WHO DIED ON THE 6TH OF JULY, 1720.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-233-14W2-headnote-3">
+            <lg n="1" xml:id="spp-233-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-233-14W2-headnote-3-line-group-1-line-1">M<hi rend="small-caps">Y</hi> late regretted friend, Mr Cooper Walker, favoured me with the following notices concerning this elegy:── “The subject was John Demar, a great merchant in Dublin, who died 6th July, 1720. Swift, with some of his usual party, happened to be in Mr Sheridan's, in Capel Street, when the news of Demar's death was brought to them; and the elegy was the joint composition of the company.”</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-233-14W2-line-1" n="1">K<hi rend="small-caps">NOW</hi> all men by these presents, Death, the tamer,</l>
+            <l xml:id="swift-233-14W2-line-2" n="2">By mortgage has secured the corpse of Demar;</l>
+            <l xml:id="swift-233-14W2-line-3" n="3">Nor can four hundred thousand sterling pound</l>
+            <l xml:id="swift-233-14W2-line-4" n="4">Redeem him from his prison under ground.</l>
+            <l xml:id="swift-233-14W2-line-5" n="5">His heirs might well, of all his wealth possess'd,</l>
+            <l xml:id="swift-233-14W2-line-6" n="6">Bestow to bury him one iron chest.</l>
+            <l xml:id="swift-233-14W2-line-7" n="7">Plutus, the god of wealth, will joy to know</l>
+            <l xml:id="swift-233-14W2-line-8" n="8">His faithful steward in the shades below.</l>
+            <l xml:id="swift-233-14W2-line-9" n="9">He walk'd the streets, and wore a threadbare cloak;</l>
+            <l xml:id="swift-233-14W2-line-10" n="10">He dined and supp'd at charge of other folk:</l>
+            <l xml:id="swift-233-14W2-line-11" n="11">And by his looks, had he held out his palms,</l>
+            <l xml:id="swift-233-14W2-line-12" n="12">He might be thought an object fit for alms.</l>
+            <l xml:id="swift-233-14W2-line-13" n="13">So, to the poor if he refused his pelf,</l>
+            <l xml:id="swift-233-14W2-line-14" n="14">He used them full as kindly as himself.</l>
+            <l rend="indent(1)" xml:id="swift-233-14W2-line-15" n="15">Where'er he went, he never saw his betters;</l>
+            <l xml:id="swift-233-14W2-line-16" n="16">Lords, knights, and squires, were all his humble debtors;</l>
+            <l xml:id="swift-233-14W2-line-17" n="17">And under hand and seal, the Irish nation</l>
+            <l xml:id="swift-233-14W2-line-18" n="18">Were forced to own to him their obligation.</l>
+            <l rend="indent(1)" xml:id="swift-233-14W2-line-19" n="19">He that could once have half a kingdom bought,</l>
+            <l xml:id="swift-233-14W2-line-20" n="20">In half a minute is not worth a groat.</l>
+            <l xml:id="swift-233-14W2-line-21" n="21">His coffers from the coffin could not save,</l>
+            <l xml:id="swift-233-14W2-line-22" n="22">Nor all his interest keep him from the grave.</l>
+            <l xml:id="swift-233-14W2-line-23" n="23">A golden monument would not be right,</l>
+            <l xml:id="swift-233-14W2-line-24" n="24">Because we wish the earth upon him light.</l>
+            <l rend="indent(1)" xml:id="swift-233-14W2-line-25" n="25">Oh London Tavern! <note place="foot">·A tavern in Dublin, where Demar kept his office.── F.<lb/>Mr Walker found this note in the diary of a deceased friend;_“As I passed through Smithfield (Dublin,) I saw the house, No. 34, in which the remarkable John Demar, the usurer, lived and died. He was buried in the S. W. corner of St Paul's Churchyard── No tombstone for many years.”.</note> thou hast lost a friend,</l>
+            <l xml:id="swift-233-14W2-line-26" n="26">Though in thy walls he ne'er did farthing spend;</l>
+            <l xml:id="swift-233-14W2-line-27" n="27">He touch'd the pence when others touch'd the pot;</l>
+            <l xml:id="swift-233-14W2-line-28" n="28">The hand that sign'd the mortgage paid the shot.</l>
+            <l rend="indent(1)" xml:id="swift-233-14W2-line-29" n="29">Old as he was, no vulgar known disease</l>
+            <l xml:id="swift-233-14W2-line-30" n="30">On him could ever boast a power to seize;</l>
+            <l xml:id="swift-233-14W2-line-31" n="31">“<note place="foot">·These four lines were written by Stella.── F.</note>But as he weigh'd his gold, grim Death in spite</l>
+            <l xml:id="swift-233-14W2-line-32" n="32">Cast in his dart, which made three moidores light;</l>
+            <l xml:id="swift-233-14W2-line-33" n="33">And, as he saw his darling money fail,</l>
+            <l xml:id="swift-233-14W2-line-34" n="34">Blew his last breath to sink the lighter scale.”</l>
+            <l xml:id="swift-233-14W2-line-35" n="35">He who so long was current, 'twould be strange</l>
+            <l xml:id="swift-233-14W2-line-36" n="36">If he should now be cried down since his change.</l>
+            <l rend="indent(1)" xml:id="swift-233-14W2-line-37" n="37">The sexton shall green sods on thee bestow;</l>
+            <l xml:id="swift-233-14W2-line-38" n="38">Alas, the sexton is thy banker now!</l>
+            <l xml:id="swift-233-14W2-line-39" n="39">A dismal banker must that banker be,</l>
+            <l xml:id="swift-233-14W2-line-40" n="40">Who gives no bills but of mortality!</l>
+            <l rend="center" xml:id="swift-233-14W2-line-41" n="41">EPITAPH ON·THE·SAME.<lb/>B<hi rend="small-caps">ENEATH</hi> this verdant hillock lies</l>
+            <l xml:id="swift-233-14W2-line-42" n="42">Demar, the wealthy and the wise,</l>
+            <l xml:id="swift-233-14W2-line-43" n="43">om.</l>
+            <l xml:id="swift-233-14W2-line-44" n="44">om.</l>
+            <l xml:id="swift-233-14W2-line-45" n="45">His heirs, that he might safely rest,</l>
+            <l xml:id="swift-233-14W2-line-46" n="46">Have put his carcase in a chest;</l>
+            <l xml:id="swift-233-14W2-line-47" n="47">The very chest in which, they say,</l>
+            <l xml:id="swift-233-14W2-line-48" n="48">His other self, his money, lay.</l>
+            <l xml:id="swift-233-14W2-line-49" n="49">And, if his heirs continue kind</l>
+            <l xml:id="swift-233-14W2-line-50" n="50">To that dear self he left behind,</l>
+            <l xml:id="swift-233-14W2-line-51" n="51">I dare believe, that four in five</l>
+            <l xml:id="swift-233-14W2-line-52" n="52">Will think his better half alive.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

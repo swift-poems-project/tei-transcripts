@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>P<hi rend="small-caps">AULUS</hi>, by Mr. L-----<hi rend="small-caps">Y</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 25JL08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="432A54L-">
+          <head type="note" n="1" xml:id="spp-432A54L--headnote-1">
+            <lg n="1" xml:id="spp-432A54L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A54L--headnote-1-line-group-1-line-1">D<hi rend="small-caps">UBLIN</hi>, Sept. 7th, 1728.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-432A54L--headnote-2">
+            <lg n="1" xml:id="spp-432A54L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A54L--headnote-2-line-group-1-line-1">This Passage in my D<hi rend="small-caps">REAM</hi> may be illustrated by a poem of Dr. S<hi rend="small-caps">WIFT</hi>'s, which hath been communicated to me by a particular friend; and which I here present to my reader, since it has never been published in any edition of the D<hi rend="small-caps">EAN</hi>'s works. It was occasioned by the following epigram, written by Mr. L────<hi rend="small-caps">Y</hi>, a polite and elegant scholar, who was at that time an eminent pleader at the bar in D<hi rend="small-caps">UBLIN</hi>, and was afterwards advanced to a more honourable employment.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-432A54L--headnote-3">
+            <lg n="1" xml:id="spp-432A54L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A54L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-432A54L--line-1" n="1"><hi rend="display-initial">A</hi> Slave to crouds, scorch'd with the summer's heats,</l>
+            <l xml:id="swift-432A54L--line-2" n="2">In court the wretched lawyer toils, and sweats:</l>
+            <l xml:id="swift-432A54L--line-3" n="3">While smiling nature, in her best attire,</l>
+            <l xml:id="swift-432A54L--line-4" n="4">Doth sooth each sense, and joy and love inspire.</l>
+            <l xml:id="swift-432A54L--line-5" n="5">Can he, who knows, that real good should please,</l>
+            <l xml:id="swift-432A54L--line-6" n="6">Barter for gold his liberty and ease?</l>
+            <l xml:id="swift-432A54L--line-7" n="7">Thus P<hi rend="small-caps">AULUS</hi> preach'd: when entring at the door</l>
+            <l xml:id="swift-432A54L--line-8" n="8">Upon his board a client pours the ore:</l>
+            <l xml:id="swift-432A54L--line-9" n="9">He grasps the shining gift, pores o'er the cause,</l>
+            <l xml:id="swift-432A54L--line-10" n="10">Forgets the sun, and dozes on the laws.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

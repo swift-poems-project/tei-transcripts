@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 7JL98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="389-760L">
+          <head type="note" n="1" xml:id="spp-389-760L-headnote-1">
+            <lg n="1" xml:id="spp-389-760L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-760L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-389-760L-headnote-2">
+            <lg n="1" xml:id="spp-389-760L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-760L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-389-760L-headnote-3">
+            <lg n="1" xml:id="spp-389-760L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-760L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-389-760L-line-1" n="1">Quoth King Robin our Ribbons I see are so few</l>
+            <l xml:id="swift-389-760L-line-2" n="2">S<hi rend="superscript">ṭ</hi>. Andrew's the Green, and S<hi rend="superscript">ṭ</hi> George's the blew</l>
+            <l xml:id="swift-389-760L-line-3" n="3">I must find out a Red one a Colour more gay</l>
+            <l xml:id="swift-389-760L-line-4" n="4">Which will tye up my Subjects with Pride to obey</l>
+            <l xml:id="swift-389-760L-line-5" n="5">Th' Exchequer may suffer by Prodigal Donors</l>
+            <l xml:id="swift-389-760L-line-6" n="6">The King has ne'er Exhausted the Fountain of Honours</l>
+            <l xml:id="swift-389-760L-line-7" n="7">Men of more wit than Money our Pensions will fit</l>
+            <l xml:id="swift-389-760L-line-8" n="8">But these will Bribe those of more Money than Wit;</l>
+            <l xml:id="swift-389-760L-line-9" n="9">Who with Faith most implicit obey my Commands</l>
+            <l xml:id="swift-389-760L-line-10" n="10">Tho' as Empty as Young, and as saucy as Sandy's</l>
+            <l xml:id="swift-389-760L-line-11" n="11">Who will soonest leap over a Stick for the King</l>
+            <l xml:id="swift-389-760L-line-12" n="12">Shall be qualified best for a Dog in a String.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

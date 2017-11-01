@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On a certain Lady at Court</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 3JE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M05039D-">
+          <head type="note" n="1" xml:id="spp-M05039D--headnote-1">
+            <lg n="1" xml:id="spp-M05039D--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M05039D--headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M05039D--headnote-2">
+            <lg n="1" xml:id="spp-M05039D--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M05039D--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M05039D--headnote-3">
+            <lg n="1" xml:id="spp-M05039D--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M05039D--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M05039D--line-1" n="1"><hi rend="display-initial">I</hi> Know the thing that's most uncommon;</l>
+            <l rend="indent(1)" xml:id="swift-M05039D--line-2" n="2">(Envy be silent and attend!)</l>
+            <l xml:id="swift-M05039D--line-3" n="3">I know a Reasonable Woman,</l>
+            <l rend="indent(1)" xml:id="swift-M05039D--line-4" n="4">Handsome and witty, yet a Friend.</l>
+            <l xml:id="swift-M05039D--line-5" n="5">Not warp'd by Passion, aw'd by Rumour,</l>
+            <l rend="indent(1)" xml:id="swift-M05039D--line-6" n="6">Not grave thro' Pride, or gay thro' Folly,</l>
+            <l xml:id="swift-M05039D--line-7" n="7">An equal Mixture of good Humour,</l>
+            <l rend="indent(1)" xml:id="swift-M05039D--line-8" n="8">And sensible soft Melancholy.</l>
+            <l xml:id="swift-M05039D--line-9" n="9">“Has she no Faults then (Envy says) Sir?”</l>
+            <l rend="indent(1)" xml:id="swift-M05039D--line-10" n="10">Yes she has one, I must aver:</l>
+            <l xml:id="swift-M05039D--line-11" n="11">When all the World conspires to praise her,</l>
+            <l rend="indent(1)" xml:id="swift-M05039D--line-12" n="12">The Woman's deaf, and does not hear.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

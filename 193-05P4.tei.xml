@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The A<hi rend="small-caps">UTHOR</hi> upon himself.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 31MY01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="193-05P4">
+          <head type="note" n="1" xml:id="spp-193-05P4-headnote-1">
+            <lg n="1" xml:id="spp-193-05P4-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-193-05P4-headnote-1-line-group-1-line-1">Written in the Year 1713.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-193-05P4-headnote-2">
+            <lg n="1" xml:id="spp-193-05P4-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-193-05P4-headnote-2-line-group-1-line-1"><hi rend="italics">A few of the first Lines were wanting in the Copy sent us by a Friend of the Author</hi>'s.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-193-05P4-headnote-3">
+            <lg n="1" xml:id="spp-193-05P4-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-193-05P4-headnote-3-line-group-1-line-1">*********************+<lb/>********************+*</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-193-05P4-line-1" n="1"><hi rend="display-initial">B</hi>Y an ──────────────────── pursu'd,</l>
+            <l xml:id="swift-193-05P4-line-2" n="2">A crazy P─────, and a R──── Prude.</l>
+            <l xml:id="swift-193-05P4-line-3" n="3">By dull Divines, who look with envious Eyes,</l>
+            <l xml:id="swift-193-05P4-line-4" n="4">On ev'ry Genius that attempts to rise;</l>
+            <l xml:id="swift-193-05P4-line-5" n="5">And pausing o'er a Pipe, with doubtful Nod,</l>
+            <l xml:id="swift-193-05P4-line-6" n="6">Give Hints, that Poets ne'er believe in God,</l>
+            <l xml:id="swift-193-05P4-line-7" n="7">So, Clowns on Scholars as on Wizards look,</l>
+            <l xml:id="swift-193-05P4-line-8" n="8">And take a Folio for a conju'ring Book.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-9" n="9"><hi rend="italics">S</hi>──── had the Sin of Wit, no venial Crime</l>
+            <l xml:id="swift-193-05P4-line-10" n="10">Nay, 'twas affirm'd, he sometimes dealt in Rhime;</l>
+            <l xml:id="swift-193-05P4-line-11" n="11">Humour, and Mirth, had Place in all he writ:</l>
+            <l xml:id="swift-193-05P4-line-12" n="12">He reconcil'd Divinity and Wit.</l>
+            <l xml:id="swift-193-05P4-line-13" n="13">He mov'd and bow'd and talk'd with too much Grace;</l>
+            <l xml:id="swift-193-05P4-line-14" n="14">Now shew'd the <hi rend="italics">Parson</hi> in his Gait or Face;</l>
+            <l xml:id="swift-193-05P4-line-15" n="15">Despis'd luxurious Wines, and costly Meat;</l>
+            <l xml:id="swift-193-05P4-line-16" n="16">Yet still was at the Tables of the Great,</l>
+            <l xml:id="swift-193-05P4-line-17" n="17">Frequented Lords; <hi rend="italics">saw those that saw the Queen</hi>;</l>
+            <l xml:id="swift-193-05P4-line-18" n="18">At <hi rend="italics">Child</hi>'s or <hi rend="italics">Truby</hi>'s never once had been;</l>
+            <l xml:id="swift-193-05P4-line-19" n="19">Where Town and Country Vicars flock in Tribes,</l>
+            <l xml:id="swift-193-05P4-line-20" n="20">Secur'd by Numbers from the Lay-mens Gibes;</l>
+            <l xml:id="swift-193-05P4-line-21" n="21">And deal in Vices of the Graver Sort,</l>
+            <l xml:id="swift-193-05P4-line-22" n="22">Tobacco, Censure, Coffee, Pride, and Port.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-23" n="23"><lb/>B<hi rend="small-caps">UT</hi>, after sage Monitions from his Friends,</l>
+            <l xml:id="swift-193-05P4-line-24" n="24">His Talents to employ for nobler Ends;</l>
+            <l xml:id="swift-193-05P4-line-25" n="25">To better Judgments willing to submit,</l>
+            <l xml:id="swift-193-05P4-line-26" n="26">He turns to Politicks his dang'rous Wit.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-27" n="27"><lb/>A<hi rend="small-caps">ND</hi> now the publick Int'rest to support,</l>
+            <l xml:id="swift-193-05P4-line-28" n="28">By <hi rend="italics">Harley, S</hi>────── invited, comes to Court.</l>
+            <l xml:id="swift-193-05P4-line-29" n="29">In Favour grows with Ministers of State;</l>
+            <l xml:id="swift-193-05P4-line-30" n="30">Admitted private, when Superiors wait:</l>
+            <l xml:id="swift-193-05P4-line-31" n="31">And, <hi rend="italics">Harley</hi>, not asham'd his Choice to own,</l>
+            <l xml:id="swift-193-05P4-line-32" n="32">Takes him to <hi rend="italics">Windsor</hi> in his Coach, alone.</l>
+            <l xml:id="swift-193-05P4-line-33" n="33">At <hi rend="italics">Windsor S</hi>────── no sooner can appear,</l>
+            <l xml:id="swift-193-05P4-line-34" n="34">But <note place="foot">·<hi rend="italics">Then Secretary of State, now Lord</hi> Bolingbroke.</note> <hi rend="italics">St. John</hi> comes and whispers in his Ear,</l>
+            <l xml:id="swift-193-05P4-line-35" n="35">The Waiters stand in Ranks; the Yeomen cry</l>
+            <l xml:id="swift-193-05P4-line-36" n="36"><hi rend="italics">Make Room</hi>; as if a Duke were passing by.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-37" n="37"><lb/>N<hi rend="small-caps">OW</hi> <hi rend="italics">F</hi>──── alarms the Lords; he hears for certain,</l>
+            <l xml:id="swift-193-05P4-line-38" n="38">This dang'rous Priest is got behind the Curtain.</l>
+            <l xml:id="swift-193-05P4-line-39" n="39"><hi rend="italics">F</hi>──── fam'd for tedious Elocution, proves</l>
+            <l xml:id="swift-193-05P4-line-40" n="40">That <hi rend="italics">S</hi>──── oils many a Spring which <hi rend="italics">Harley</hi> moves.</l>
+            <l xml:id="swift-193-05P4-line-41" n="41"><hi rend="italics">W</hi>──── and <hi rend="italics">A</hi>──── to clear the Doubt,</l>
+            <l xml:id="swift-193-05P4-line-42" n="42">Inform the Commons, that the Secret's out:</l>
+            <l xml:id="swift-193-05P4-line-43" n="43">“A certain Doctor is observ'd of late,</l>
+            <l xml:id="swift-193-05P4-line-44" n="44">“To haunt a certain Minister of State:</l>
+            <l xml:id="swift-193-05P4-line-45" n="45">“From whence, with half an Eye we may discover,</l>
+            <l xml:id="swift-193-05P4-line-46" n="46">“The Peace is made, and <hi rend="italics">Perkin</hi> must come over.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-47" n="47"><hi rend="italics">Y</hi>──── is from <hi rend="italics">Lambeth</hi> sent, to shew the Queen</l>
+            <l xml:id="swift-193-05P4-line-48" n="48">A dang'rous Treatise writ against the Spleen:</l>
+            <l xml:id="swift-193-05P4-line-49" n="49">Which by the Style, the Matter, and the Drift,</l>
+            <l xml:id="swift-193-05P4-line-50" n="50">'Tis thought could be the Work of none but <hi rend="italics">S</hi>──</l>
+            <l xml:id="swift-193-05P4-line-51" n="51">Poor <hi rend="italics">Y</hi>───! the harmless Tool of others Hate;</l>
+            <l xml:id="swift-193-05P4-line-52" n="52">He sues for Pardon<note place="foot">·His Grace was sorry for what he had said, and sent a Message to the Author to desire his Pardon.</note>, and repents too late.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-53" n="53"><lb/>N<hi rend="small-caps">OW</hi>, ────────── her Vengeance vows</l>
+            <l xml:id="swift-193-05P4-line-54" n="54">On <hi rend="italics">S</hi>──────'s Reproaches for her ────────:</l>
+            <l xml:id="swift-193-05P4-line-55" n="55">From her red Locks her Mouth with Venom fills;</l>
+            <l xml:id="swift-193-05P4-line-56" n="56">And thence into the R──────l Ear instills.</l>
+            <l xml:id="swift-193-05P4-line-57" n="57">The Q──── incens'd, his Services forgot,</l>
+            <l xml:id="swift-193-05P4-line-58" n="58"><note place="foot">·The Proclamation was against the Author of a Pamphlet called, <hi rend="italics">The publick Spirit of the Whigs</hi>, against which the <hi rend="italics">Scotch</hi> Lords complained.</note> Leaves him a Victim to the vengeful <hi rend="italics">Scot</hi>.</l>
+            <l xml:id="swift-193-05P4-line-59" n="59">Now thro' the Realm a Proclamation spread,</l>
+            <l xml:id="swift-193-05P4-line-60" n="60">To fix a Price on his devoted Head.</l>
+            <l xml:id="swift-193-05P4-line-61" n="61">While innocent, he scorns ignoble Flight;</l>
+            <l xml:id="swift-193-05P4-line-62" n="62">His watchful Friends preserve him by a Sleight.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-63" n="63"><lb/>B<hi rend="small-caps">Y</hi> <hi rend="italics">Harley</hi>'s Favour once again he shines;</l>
+            <l xml:id="swift-193-05P4-line-64" n="64">Is now caress'd by Candidates Divines;</l>
+            <l xml:id="swift-193-05P4-line-65" n="65">Who change Opinions with the changing Scene:</l>
+            <l xml:id="swift-193-05P4-line-66" n="66">Lord! how were they mistaken in the Dean!</l>
+            <l xml:id="swift-193-05P4-line-67" n="67">Now: <hi rend="italics">D</hi>──── again familiar grows;</l>
+            <l xml:id="swift-193-05P4-line-68" n="68">And, in <hi rend="italics">S────t</hi>'s Ear thrusts half his powder'd Nose.</l>
+            <l xml:id="swift-193-05P4-line-69" n="69">The <hi rend="italics">Scottish</hi> Nation, whom he durst offend,</l>
+            <l xml:id="swift-193-05P4-line-70" n="70">Again apply that <hi rend="italics">S</hi>────── would be their Friend.</l>
+            <l rend="indent(1)" xml:id="swift-193-05P4-line-71" n="71"><lb/>B<hi rend="small-caps">Y</hi> Faction tir'd, with Grief he waits awhile,</l>
+            <l xml:id="swift-193-05P4-line-72" n="72">His great contending Friends to reconcile.</l>
+            <l xml:id="swift-193-05P4-line-73" n="73">Performs what Friendship, Justice, Truth require:</l>
+            <l xml:id="swift-193-05P4-line-74" n="74">What could he more, but decently retire?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

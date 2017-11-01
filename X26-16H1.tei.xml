@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO<lb/>  M<hi rend="small-caps">R</hi>. THOMAS SHERIDAN,<lb/>  Upon his V<hi rend="small-caps">ERSES</hi> written in Circles.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 19JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 11DE15, 21AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X26-16H1">
+          <head type="note" n="1" xml:id="spp-X26-16H1-headnote-1">
+            <lg n="1" xml:id="spp-X26-16H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X26-16H1-headnote-1-line-group-1-line-1">By DOCTOR SWIFT.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X26-16H1-headnote-2">
+            <lg n="1" xml:id="spp-X26-16H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X26-16H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X26-16H1-headnote-3">
+            <lg n="1" xml:id="spp-X26-16H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X26-16H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X26-16H1-line-1" n="1"><hi rend="display-initial">I</hi>T never was known that circular letters,</l>
+            <l xml:id="swift-X26-16H1-line-2" n="2">By humble companions were sent to their betters:</l>
+            <l xml:id="swift-X26-16H1-line-3" n="3">And, as to the subject, our judgment mehercle</l>
+            <l xml:id="swift-X26-16H1-line-4" n="4">Is this, that you argue like fools in a circle.</l>
+            <l xml:id="swift-X26-16H1-line-5" n="5">But now for your verses; we tell you, <hi rend="italics">imprimis</hi>,</l>
+            <l xml:id="swift-X26-16H1-line-6" n="6">The segment so large 'twixt your reason and rhyme is,</l>
+            <l xml:id="swift-X26-16H1-line-7" n="7">That we walk all about, like a horse in a pound,</l>
+            <l xml:id="swift-X26-16H1-line-8" n="8">And, before we find either, our noddles turn round.</l>
+            <l xml:id="swift-X26-16H1-line-9" n="9">Sufficient it were, one would think, in your mad rant,</l>
+            <l xml:id="swift-X26-16H1-line-10" n="10">To give us your measures of lines by a quadrant.</l>
+            <l xml:id="swift-X26-16H1-line-11" n="11">But we took our dividers, and found your d----n'd metre,</l>
+            <l xml:id="swift-X26-16H1-line-12" n="12">In each single verse, took up a diameter.</l>
+            <l xml:id="swift-X26-16H1-line-13" n="13">But how, Mr. Sheridan, came you to venture</l>
+            <l xml:id="swift-X26-16H1-line-14" n="14">George, Dan, Dean, and Nim to place in the center<note place="foot">·There were four human figures in the center of the circular verses.</note>?</l>
+            <l xml:id="swift-X26-16H1-line-15" n="15">'Twill appear, to your cost, you are fairly trepann'd,</l>
+            <l xml:id="swift-X26-16H1-line-16" n="16">For the cord of your circle is now in their hand;</l>
+            <l xml:id="swift-X26-16H1-line-17" n="17">The cord, or the radius, it matters not whether,</l>
+            <l xml:id="swift-X26-16H1-line-18" n="18">By which your jade Pegasus fixt in a tether,</l>
+            <l xml:id="swift-X26-16H1-line-19" n="19">As his betters are us'd, shall be lash'd round the ring,</l>
+            <l xml:id="swift-X26-16H1-line-20" n="20">Three fellows with whips, and the Dean holds the string.</l>
+            <l xml:id="swift-X26-16H1-line-21" n="21">Will Hancock declares you are out of your compass,</l>
+            <l xml:id="swift-X26-16H1-line-22" n="22">To encroach on his art by writing of bombas';</l>
+            <l xml:id="swift-X26-16H1-line-23" n="23">And has taken just now a firm resolution</l>
+            <l xml:id="swift-X26-16H1-line-24" n="24">To answer your style without circumlocution.</l>
+            <l rend="indent(1)" xml:id="swift-X26-16H1-line-25" n="25">Lady Betty <note place="foot">·Daughter of the Earl of Drogheda, and married to George Rochford, Esq.</note> presents you her service most humble,</l>
+            <l xml:id="swift-X26-16H1-line-26" n="26">And is not afraid your Worship will grumble,</l>
+            <l xml:id="swift-X26-16H1-line-27" n="27">That she makes of your verses a hoop for Miss Tam<note place="foot">·Miss Tam, [a short name for Thomason] Lady Betty's daughter, then perhaps about a year old. She is now married to Gustavus Lambert, Esq; of Paynstown, in the county of Meath.</note>,</l>
+            <l xml:id="swift-X26-16H1-line-28" n="28">Which is all at present; and so I remain──</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

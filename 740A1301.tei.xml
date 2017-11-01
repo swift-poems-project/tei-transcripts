@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the GREAT BURIED BOTTLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 13JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="740A1301">
+          <head type="note" n="1" xml:id="spp-740A1301-headnote-1">
+            <lg n="1" xml:id="spp-740A1301-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-740A1301-headnote-1-line-group-1-line-1">By Dr. DELANY.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-740A1301-headnote-2">
+            <lg n="1" xml:id="spp-740A1301-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-740A1301-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-740A1301-headnote-3">
+            <lg n="1" xml:id="spp-740A1301-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-740A1301-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-740A1301-line-1" n="1"><hi rend="display-initial">A</hi>M<hi rend="small-caps">PHORA</hi>, quæ mœstum linquis, lætumque revises</l>
+            <l rend="indent(1)" xml:id="swift-740A1301-line-2" n="2">Arentem dominum, sit tibi terra levis.</l>
+            <l xml:id="swift-740A1301-line-3" n="3">Tu quoque depositum serves, neve opprime marmor,</l>
+            <l rend="indent(1)" xml:id="swift-740A1301-line-4" n="4">Amphora non meruit tam pretiosa mori.</l>
+            <l rend="center" xml:id="swift-740A1301-line-5" n="5"><lb/>E<hi rend="small-caps">PITAPH</hi>·on·the·G<hi rend="small-caps">REAT</hi>·B<hi rend="small-caps">URIED</hi>·B<hi rend="small-caps">OTTLE</hi>.__By·the·same.__<hi rend="display-initial">H</hi>ôc tumulata jacet proles Lenæa sepulchro,</l>
+            <l rend="indent(1)" xml:id="swift-740A1301-line-6" n="6">Immortale genus, nec peritura jacet,</l>
+            <l xml:id="swift-740A1301-line-7" n="7">Quin oritura iterum, matris concreditur alvo:</l>
+            <l rend="indent(1)" xml:id="swift-740A1301-line-8" n="8">Bis natum referunt te quoque Bacche Pater.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

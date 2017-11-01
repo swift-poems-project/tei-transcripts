@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DEATH AND DAPHNE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 21JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="903-14W2">
+          <head type="note" n="1" xml:id="spp-903-14W2-headnote-1">
+            <lg n="1" xml:id="spp-903-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-903-14W2-headnote-1-line-group-1-line-1">TO AN AGREEABLE YOUNG LADY, BUT EXTREMELY LEAN. 1730.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-903-14W2-headnote-2">
+            <lg n="1" xml:id="spp-903-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-903-14W2-headnote-2-line-group-1-line-1">Lord Orrery gives us the following curious anecdote respecting this poem:──</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-903-14W2-headnote-3">
+            <lg n="1" xml:id="spp-903-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-903-14W2-headnote-3-line-group-1-line-1">“I have just now cast my eye over a poem called Death and Daphne, which makes me recollect an odd incident, relating to that nymph. Swift, soon after our acquaintance, introduced me to her as to one of his female favourites. I had scarce been half an hour in her company, before she asked me, if I had seen the Dean's poem upon Death and Daphne. As I told her I had not, she immediately unlocked a cabinet, and, bringing out the manuscript, read it to me with a seeming satisfaction, of which, at that time, I doubted the sincerity. While she was reading, the Dean was perpetually correcting her for bad pronunciation, and for placing a wrong emphasis upon particular words. As soon as she had gone through the composition, she assured me smilingly, that the portrait of Daphne was drawn for herself. I begged to be excused from believing it; and protested that I could not see one feature that had the least resemblance; but the Dean immediately burst into a fit of laughter. `You fancy,' says he, `that you are very polite, but you are much mistaken. That lady had rather be a Daphne drawn by me, than a Sacharissa by any other pencil.' She confirmed what he had said with great earnestness, so that I had no other method of retrieving my error, than by whispering in her ear, as I was conducting her down stairs to dinner, that indeed I found</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-903-14W2-headnote-4">
+            <lg n="1" xml:id="spp-903-14W2-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-903-14W2-headnote-4-line-group-1-line-1">`Her hand as dry and cold as lead!”'</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-903-14W2-headnote-5">
+            <lg n="1" xml:id="spp-903-14W2-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-903-14W2-headnote-5-line-group-1-line-1">── Lord Orrery's remarks on the Life of Swift, Lond. 1752, p. 81.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-903-14W2-line-1" n="1">D<hi rend="small-caps">EATH</hi> went upon a solemn day</l>
+            <l xml:id="swift-903-14W2-line-2" n="2">At Pluto's hall his court to pay;</l>
+            <l xml:id="swift-903-14W2-line-3" n="3">The phantom having humbly kiss'd</l>
+            <l xml:id="swift-903-14W2-line-4" n="4">His grisly monarch's sooty fist,</l>
+            <l xml:id="swift-903-14W2-line-5" n="5">Presented him the weekly bills</l>
+            <l xml:id="swift-903-14W2-line-6" n="6">Of doctors, fevers, plagues, and pills.</l>
+            <l xml:id="swift-903-14W2-line-7" n="7">Pluto, observing since the peace</l>
+            <l xml:id="swift-903-14W2-line-8" n="8">The burial article decrease,</l>
+            <l xml:id="swift-903-14W2-line-9" n="9">And vex'd to see affairs miscarry,</l>
+            <l xml:id="swift-903-14W2-line-10" n="10">Declared in council Death must marry;</l>
+            <l xml:id="swift-903-14W2-line-11" n="11">Vow'd he no longer could support</l>
+            <l xml:id="swift-903-14W2-line-12" n="12">Old bachelors about his court;</l>
+            <l xml:id="swift-903-14W2-line-13" n="13">The interest of his realm had need</l>
+            <l xml:id="swift-903-14W2-line-14" n="14">That Death should get a numerous breed;</l>
+            <l xml:id="swift-903-14W2-line-15" n="15">Young deathlings, who, by practice made</l>
+            <l xml:id="swift-903-14W2-line-16" n="16">Proficient in their father's trade,</l>
+            <l xml:id="swift-903-14W2-line-17" n="17">With colonies might stock around</l>
+            <l xml:id="swift-903-14W2-line-18" n="18">His large dominions under ground.</l>
+            <l rend="indent(1)" xml:id="swift-903-14W2-line-19" n="19">A consult of coquettes below</l>
+            <l xml:id="swift-903-14W2-line-20" n="20">Was call'd, to rig him out a beau;</l>
+            <l xml:id="swift-903-14W2-line-21" n="21">From her own head Megara takes</l>
+            <l xml:id="swift-903-14W2-line-22" n="22">A periwig of twisted snakes:</l>
+            <l xml:id="swift-903-14W2-line-23" n="23">Which in the nicest fashion curl'd,</l>
+            <l xml:id="swift-903-14W2-line-24" n="24">(Like toupees<note place="foot">·Periwigs with long tails.── F.</note> of this upper world)</l>
+            <l xml:id="swift-903-14W2-line-25" n="25">With flower of sulphur powder'd well,</l>
+            <l xml:id="swift-903-14W2-line-26" n="26">That graceful on his shoulders fell;</l>
+            <l xml:id="swift-903-14W2-line-27" n="27">An adder of the sable kind</l>
+            <l xml:id="swift-903-14W2-line-28" n="28">In line direct hung down behind:</l>
+            <l xml:id="swift-903-14W2-line-29" n="29">The owl, the raven, and the bat,</l>
+            <l xml:id="swift-903-14W2-line-30" n="30">Clubb'd for a feather to his hat:</l>
+            <l xml:id="swift-903-14W2-line-31" n="31">His coat, a usurer's velvet pall,</l>
+            <l xml:id="swift-903-14W2-line-32" n="32">Bequeathed to Pluto, corpse and all.</l>
+            <l xml:id="swift-903-14W2-line-33" n="33">But, loath his person to expose</l>
+            <l xml:id="swift-903-14W2-line-34" n="34">Bare, like a carcase pick'd by crows,</l>
+            <l xml:id="swift-903-14W2-line-35" n="35">A lawyer o'er his hands and face</l>
+            <l xml:id="swift-903-14W2-line-36" n="36">Stuck artfully a parchment case.</l>
+            <l xml:id="swift-903-14W2-line-37" n="37">No new flux'd rake shew'd fairer skin;</l>
+            <l xml:id="swift-903-14W2-line-38" n="38">Nor Phyllis after lying in.</l>
+            <l xml:id="swift-903-14W2-line-39" n="39">With snuff was fill'd his ebon box,</l>
+            <l xml:id="swift-903-14W2-line-40" n="40">Of shin-bones rotted by the pox.</l>
+            <l xml:id="swift-903-14W2-line-41" n="41">Nine spirits of blaspheming fops,</l>
+            <l xml:id="swift-903-14W2-line-42" n="42">With aconite anoint his chops;</l>
+            <l xml:id="swift-903-14W2-line-43" n="43">And give him words of dreadful sounds,</l>
+            <l xml:id="swift-903-14W2-line-44" n="44">G──d d──n his blood! and b──d and w──ds!</l>
+            <l rend="indent(1)" xml:id="swift-903-14W2-line-45" n="45">Thus furnish'd out, he sent his train</l>
+            <l xml:id="swift-903-14W2-line-46" n="46">To take a house in Warwick-lane:<note place="foot">·The College of Physicians.── F.</note></l>
+            <l xml:id="swift-903-14W2-line-47" n="47">The faculty, his humble friends,</l>
+            <l xml:id="swift-903-14W2-line-48" n="48">A complimental message sends:</l>
+            <l xml:id="swift-903-14W2-line-49" n="49">Their president in scarlet gown</l>
+            <l xml:id="swift-903-14W2-line-50" n="50">Harangued, and welcomed him to town.</l>
+            <l rend="indent(1)" xml:id="swift-903-14W2-line-51" n="51">But Death had business to dispatch;</l>
+            <l xml:id="swift-903-14W2-line-52" n="52">His mind was running on his match.</l>
+            <l xml:id="swift-903-14W2-line-53" n="53">And hearing much of Daphne's fame,</l>
+            <l xml:id="swift-903-14W2-line-54" n="54">His majesty of terrors came,</l>
+            <l xml:id="swift-903-14W2-line-55" n="55">Fine as a colonel of the guards,</l>
+            <l xml:id="swift-903-14W2-line-56" n="56">To visit where she sat at cards;</l>
+            <l xml:id="swift-903-14W2-line-57" n="57">She, as he came into the room,</l>
+            <l xml:id="swift-903-14W2-line-58" n="58">Thought him Adonis in his bloom.</l>
+            <l xml:id="swift-903-14W2-line-59" n="59">And now her heart with pleasure jumps,</l>
+            <l xml:id="swift-903-14W2-line-60" n="60">She scarce remembers what is trumps;</l>
+            <l xml:id="swift-903-14W2-line-61" n="61">For such a shape of skin and bone</l>
+            <l xml:id="swift-903-14W2-line-62" n="62">Was never seen except her own.</l>
+            <l xml:id="swift-903-14W2-line-63" n="63">Charm'd with his eyes, and chin, and snout,</l>
+            <l xml:id="swift-903-14W2-line-64" n="64">Her pocket-glass drew slyly out;</l>
+            <l xml:id="swift-903-14W2-line-65" n="65">And grew enamour'd with her phiz,</l>
+            <l xml:id="swift-903-14W2-line-66" n="66">As just the counterpart of his.</l>
+            <l xml:id="swift-903-14W2-line-67" n="67">She darted many a private glance,</l>
+            <l xml:id="swift-903-14W2-line-68" n="68">And freely made the first advance;</l>
+            <l xml:id="swift-903-14W2-line-69" n="69">Was of her beauty grown so vain,</l>
+            <l xml:id="swift-903-14W2-line-70" n="70">She doubted not to win the swain;</l>
+            <l xml:id="swift-903-14W2-line-71" n="71">Nothing she thought could sooner gain him,</l>
+            <l xml:id="swift-903-14W2-line-72" n="72">Than with her wit to entertain him.</l>
+            <l xml:id="swift-903-14W2-line-73" n="73">She ask'd about her friends below;</l>
+            <l xml:id="swift-903-14W2-line-74" n="74">This meagre fop, that batter'd beau;</l>
+            <l xml:id="swift-903-14W2-line-75" n="75">Whether some late departed toasts</l>
+            <l xml:id="swift-903-14W2-line-76" n="76">Had got gallants among the ghosts?</l>
+            <l xml:id="swift-903-14W2-line-77" n="77">If Chloe were a sharper still</l>
+            <l xml:id="swift-903-14W2-line-78" n="78">As great as ever at quadrille?</l>
+            <l xml:id="swift-903-14W2-line-79" n="79">(The ladies there must needs be rooks,</l>
+            <l xml:id="swift-903-14W2-line-80" n="80">For cards, we know, are Pluto's books.)</l>
+            <l xml:id="swift-903-14W2-line-81" n="81">If Florimel had found her love,</l>
+            <l xml:id="swift-903-14W2-line-82" n="82">For whom she hang'd herself above?</l>
+            <l xml:id="swift-903-14W2-line-83" n="83">How oft a-week was kept a ball</l>
+            <l xml:id="swift-903-14W2-line-84" n="84">By Proserpine at Pluto's hall?</l>
+            <l xml:id="swift-903-14W2-line-85" n="85">She fancied these Elysian shades</l>
+            <l xml:id="swift-903-14W2-line-86" n="86">The sweetest place for masquerades;</l>
+            <l xml:id="swift-903-14W2-line-87" n="87">How pleasant on the banks of Styx,</l>
+            <l xml:id="swift-903-14W2-line-88" n="88">To troll it in a coach and six!</l>
+            <l rend="indent(1)" xml:id="swift-903-14W2-line-89" n="89">What pride a female heart inflames!</l>
+            <l xml:id="swift-903-14W2-line-90" n="90">How endless are ambition's aims:</l>
+            <l xml:id="swift-903-14W2-line-91" n="91">Cease, haughty nymph; the Fates decree</l>
+            <l xml:id="swift-903-14W2-line-92" n="92">Death must not be a spouse for thee;</l>
+            <l xml:id="swift-903-14W2-line-93" n="93">For, when by chance the meagre shade</l>
+            <l xml:id="swift-903-14W2-line-94" n="94">Upon thy hand his finger laid,</l>
+            <l xml:id="swift-903-14W2-line-95" n="95">Thy hand as dry and cold as lead,</l>
+            <l xml:id="swift-903-14W2-line-96" n="96">His matrimonial spirit fled;</l>
+            <l xml:id="swift-903-14W2-line-97" n="97">He felt about his heart a damp,</l>
+            <l xml:id="swift-903-14W2-line-98" n="98">That quite extinguish'd Cupid's lamp;</l>
+            <l xml:id="swift-903-14W2-line-99" n="99">Away the frighted spectre scuds,</l>
+            <l xml:id="swift-903-14W2-line-100" n="100">And leaves my lady in the suds.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

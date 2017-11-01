@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">A Character, Panegyric,<lb/>  and Description of the Legion Club</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="829-ROGP">
+          <head type="note" n="1" xml:id="spp-829-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-829-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-829-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-829-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-829-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-829-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-829-ROGP-line-1" n="1">As I stroll the city, oft I</l>
+            <l xml:id="swift-829-ROGP-line-2" n="2">Spy a building large and lofty,</l>
+            <l xml:id="swift-829-ROGP-line-3" n="3">Not a bow-shot from the College,</l>
+            <l xml:id="swift-829-ROGP-line-4" n="4">Half a globe from sense and knowledge.</l>
+            <l xml:id="swift-829-ROGP-line-5" n="5">By the prudent architect</l>
+            <l xml:id="swift-829-ROGP-line-6" n="6">Placed against the church direct;</l>
+            <l xml:id="swift-829-ROGP-line-7" n="7">Making good my grandam's jest,</l>
+            <l xml:id="swift-829-ROGP-line-8" n="8"><hi rend="italics">Near the church</hi>── you know the rest.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-9" n="9"><lb/>Tell us, what this pile contains?</l>
+            <l xml:id="swift-829-ROGP-line-10" n="10">Many a head that holds no brains.</l>
+            <l xml:id="swift-829-ROGP-line-11" n="11">These demoniacs let me dub</l>
+            <l xml:id="swift-829-ROGP-line-12" n="12">With the name of 'Legion Club.'</l>
+            <l xml:id="swift-829-ROGP-line-13" n="13">Such assemblies, you might swear,</l>
+            <l xml:id="swift-829-ROGP-line-14" n="14">Meet when butchers bait a bear;</l>
+            <l xml:id="swift-829-ROGP-line-15" n="15">Such a noise, and such haranguing,</l>
+            <l xml:id="swift-829-ROGP-line-16" n="16">When a brother thief is hanging.</l>
+            <l xml:id="swift-829-ROGP-line-17" n="17">Such a rout and such a rabble</l>
+            <l xml:id="swift-829-ROGP-line-18" n="18">Run to hear jack-pudding gabble;</l>
+            <l xml:id="swift-829-ROGP-line-19" n="19">Such a crowd their ordure throws</l>
+            <l xml:id="swift-829-ROGP-line-20" n="20">On a far less villain's nose.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-21" n="21"><lb/>Could I from the building's top</l>
+            <l xml:id="swift-829-ROGP-line-22" n="22">Hear the rattling thunder drop,</l>
+            <l xml:id="swift-829-ROGP-line-23" n="23">While the devil upon the roof,</l>
+            <l xml:id="swift-829-ROGP-line-24" n="24">If the devil be thunder-proof,</l>
+            <l xml:id="swift-829-ROGP-line-25" n="25">Should with poker fiery red</l>
+            <l xml:id="swift-829-ROGP-line-26" n="26">Crack the stones, and melt the lead;</l>
+            <l xml:id="swift-829-ROGP-line-27" n="27">Drive them down on every skull,</l>
+            <l xml:id="swift-829-ROGP-line-28" n="28">While the den of thieves is full,</l>
+            <l xml:id="swift-829-ROGP-line-29" n="29">Quite destroy that harpies' nest,</l>
+            <l xml:id="swift-829-ROGP-line-30" n="30">How might then our isle be blessed?</l>
+            <l xml:id="swift-829-ROGP-line-31" n="31">For divines allow, that God</l>
+            <l xml:id="swift-829-ROGP-line-32" n="32">Sometimes makes the devil his rod:</l>
+            <l xml:id="swift-829-ROGP-line-33" n="33">And the gospel will inform us,</l>
+            <l xml:id="swift-829-ROGP-line-34" n="34">He can punish sins enormous.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-35" n="35"><lb/>Yet should Swift endow the schools</l>
+            <l xml:id="swift-829-ROGP-line-36" n="36">For his lunatics and fools,</l>
+            <l xml:id="swift-829-ROGP-line-37" n="37">With a rood or two of land,</l>
+            <l xml:id="swift-829-ROGP-line-38" n="38">I allow the pile may stand.</l>
+            <l xml:id="swift-829-ROGP-line-39" n="39">You perhaps will ask me, why so?</l>
+            <l xml:id="swift-829-ROGP-line-40" n="40">But it is with this proviso,</l>
+            <l xml:id="swift-829-ROGP-line-41" n="41">Since the House is like to last,</l>
+            <l xml:id="swift-829-ROGP-line-42" n="42">Let a royal grant be passed,</l>
+            <l xml:id="swift-829-ROGP-line-43" n="43">That the club have right to dwell</l>
+            <l xml:id="swift-829-ROGP-line-44" n="44">Each within his proper cell;</l>
+            <l xml:id="swift-829-ROGP-line-45" n="45">With a passage left to creep in,</l>
+            <l xml:id="swift-829-ROGP-line-46" n="46">And a hole above for peeping.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-47" n="47"><lb/>Let them, when they once get in</l>
+            <l xml:id="swift-829-ROGP-line-48" n="48">Sell the nation for a pin;</l>
+            <l xml:id="swift-829-ROGP-line-49" n="49">While they sit a-picking straws</l>
+            <l xml:id="swift-829-ROGP-line-50" n="50">Let them rave of making laws;</l>
+            <l xml:id="swift-829-ROGP-line-51" n="51">While they never hold their tongue,</l>
+            <l xml:id="swift-829-ROGP-line-52" n="52">Let them dabble in their dung;</l>
+            <l xml:id="swift-829-ROGP-line-53" n="53">Let them form a grand committee,</l>
+            <l xml:id="swift-829-ROGP-line-54" n="54">How to plague and starve the city;</l>
+            <l xml:id="swift-829-ROGP-line-55" n="55">Let them stare and storm and frown,</l>
+            <l xml:id="swift-829-ROGP-line-56" n="56">When they see a clergy-gown.</l>
+            <l xml:id="swift-829-ROGP-line-57" n="57">Let them, 'ere they crack a louse,</l>
+            <l xml:id="swift-829-ROGP-line-58" n="58">Call for the orders of the House;</l>
+            <l xml:id="swift-829-ROGP-line-59" n="59">Let them with their gosling quills,</l>
+            <l xml:id="swift-829-ROGP-line-60" n="60">Scribble senseless heads of bills;</l>
+            <l xml:id="swift-829-ROGP-line-61" n="61">We may, while they strain their throats,</l>
+            <l xml:id="swift-829-ROGP-line-62" n="62">Wipe our arses with their votes.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-63" n="63"><lb/>Let Sir Tom, that rampant ass,</l>
+            <l xml:id="swift-829-ROGP-line-64" n="64">Stuff his guts with flax and grass;</l>
+            <l xml:id="swift-829-ROGP-line-65" n="65">But before the priest he fleeces</l>
+            <l xml:id="swift-829-ROGP-line-66" n="66">Tear the bible all to pieces.</l>
+            <l xml:id="swift-829-ROGP-line-67" n="67">At the parsons, Tom, halloo boy,</l>
+            <l xml:id="swift-829-ROGP-line-68" n="68">Worthy offspring of a shoe-boy,</l>
+            <l xml:id="swift-829-ROGP-line-69" n="69">Footman, traitor, vile seducer,</l>
+            <l xml:id="swift-829-ROGP-line-70" n="70">Perjured rebel, bribed accuser;</l>
+            <l xml:id="swift-829-ROGP-line-71" n="71">Lay the paltry privilege aside,</l>
+            <l xml:id="swift-829-ROGP-line-72" n="72">Sprung from papists and a regicide;</l>
+            <l xml:id="swift-829-ROGP-line-73" n="73">Fall a-working like a mole,</l>
+            <l xml:id="swift-829-ROGP-line-74" n="74">Raise the dirt about your hole.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-75" n="75"><lb/>Come, assist me, muse obedient,</l>
+            <l xml:id="swift-829-ROGP-line-76" n="76">Let us try some new expedient;</l>
+            <l xml:id="swift-829-ROGP-line-77" n="77">Shift the scene for half an hour,</l>
+            <l xml:id="swift-829-ROGP-line-78" n="78">Time and place are in thy power.</l>
+            <l xml:id="swift-829-ROGP-line-79" n="79">Thither, gentle muse, conduct me,</l>
+            <l xml:id="swift-829-ROGP-line-80" n="80">I shall ask, and thou instruct me.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-81" n="81"><lb/>See, the muse unbars the gate;</l>
+            <l xml:id="swift-829-ROGP-line-82" n="82">Hark, the monkeys, how they prate!</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-83" n="83"><lb/>All ye gods, who rule the soul;</l>
+            <l xml:id="swift-829-ROGP-line-84" n="84">Styx, through hell whose waters roll!</l>
+            <l xml:id="swift-829-ROGP-line-85" n="85">Let me be allowed to tell</l>
+            <l xml:id="swift-829-ROGP-line-86" n="86">What I heard in yonder hell.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-87" n="87"><lb/>Near the door an entrance gapes,</l>
+            <l xml:id="swift-829-ROGP-line-88" n="88">Crowded round with antic shapes;</l>
+            <l xml:id="swift-829-ROGP-line-89" n="89">Poverty, and Grief, and Care,</l>
+            <l xml:id="swift-829-ROGP-line-90" n="90">Causeless Joy, and true Despair;</l>
+            <l xml:id="swift-829-ROGP-line-91" n="91">Discord periwigged with snakes,</l>
+            <l xml:id="swift-829-ROGP-line-92" n="92">See the dreadful strides she takes.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-93" n="93"><lb/>By this odious crew beset,</l>
+            <l xml:id="swift-829-ROGP-line-94" n="94">I began to rage and fret,</l>
+            <l xml:id="swift-829-ROGP-line-95" n="95">And resolved to break their pates,</l>
+            <l xml:id="swift-829-ROGP-line-96" n="96">Ere we entered at the gates;</l>
+            <l xml:id="swift-829-ROGP-line-97" n="97">Had not Clio in the nick,</l>
+            <l xml:id="swift-829-ROGP-line-98" n="98">Whispered me, 'Let down your stick';</l>
+            <l xml:id="swift-829-ROGP-line-99" n="99">'What,' said I, 'is this the madhouse?'</l>
+            <l xml:id="swift-829-ROGP-line-100" n="100">'These,' she answered, 'are but shadows,</l>
+            <l xml:id="swift-829-ROGP-line-101" n="101">Phantoms, bodiless and vain,</l>
+            <l xml:id="swift-829-ROGP-line-102" n="102">Empty visions of the brain.'</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-103" n="103"><lb/>In the porch Briareus stands,</l>
+            <l xml:id="swift-829-ROGP-line-104" n="104">Shows a bribe in all his hands:</l>
+            <l xml:id="swift-829-ROGP-line-105" n="105">Briareus the secretary,</l>
+            <l xml:id="swift-829-ROGP-line-106" n="106">But we mortals call him Carey.</l>
+            <l xml:id="swift-829-ROGP-line-107" n="107">When the rogues their country fleece,</l>
+            <l xml:id="swift-829-ROGP-line-108" n="108">They may hope for pence apiece.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-109" n="109"><lb/>Clio, who had been so wise</l>
+            <l xml:id="swift-829-ROGP-line-110" n="110">To put on a fool's disguise,</l>
+            <l xml:id="swift-829-ROGP-line-111" n="111">To bespeak some approbation,</l>
+            <l xml:id="swift-829-ROGP-line-112" n="112">And be thought a near relation;</l>
+            <l xml:id="swift-829-ROGP-line-113" n="113">When she saw three hundred brutes,</l>
+            <l xml:id="swift-829-ROGP-line-114" n="114">All involved in wild disputes;</l>
+            <l xml:id="swift-829-ROGP-line-115" n="115">Roaring till their lungs were spent,</l>
+            <l xml:id="swift-829-ROGP-line-116" n="116">'Privilege of parliament',</l>
+            <l xml:id="swift-829-ROGP-line-117" n="117">Now a new misfortune feels,</l>
+            <l xml:id="swift-829-ROGP-line-118" n="118">Dreading to be laid by the heels.</l>
+            <l xml:id="swift-829-ROGP-line-119" n="119">Never durst a muse before</l>
+            <l xml:id="swift-829-ROGP-line-120" n="120">Enter that infernal door;</l>
+            <l xml:id="swift-829-ROGP-line-121" n="121">Clio stifled with the smell,</l>
+            <l xml:id="swift-829-ROGP-line-122" n="122">Into spleen and vapours fell;</l>
+            <l xml:id="swift-829-ROGP-line-123" n="123">By the Stygian steams that flew,</l>
+            <l xml:id="swift-829-ROGP-line-124" n="124">From the dire infectious crew.</l>
+            <l xml:id="swift-829-ROGP-line-125" n="125">Not the stench of Lake Avernus,</l>
+            <l xml:id="swift-829-ROGP-line-126" n="126">Could have more offended her nose;</l>
+            <l xml:id="swift-829-ROGP-line-127" n="127">Had she flown but o'er the top,</l>
+            <l xml:id="swift-829-ROGP-line-128" n="128">She would feel her pinions drop,</l>
+            <l xml:id="swift-829-ROGP-line-129" n="129">And by exhalations dire,</l>
+            <l xml:id="swift-829-ROGP-line-130" n="130">Though a goddess, must expire.</l>
+            <l xml:id="swift-829-ROGP-line-131" n="131">In a fright she crept away,</l>
+            <l xml:id="swift-829-ROGP-line-132" n="132">Bravely I resolved to stay.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-133" n="133"><lb/>When I saw the keeper frown,</l>
+            <l xml:id="swift-829-ROGP-line-134" n="134">Tipping him with half a crown;</l>
+            <l xml:id="swift-829-ROGP-line-135" n="135">'Now,' said I, 'we are alone,</l>
+            <l xml:id="swift-829-ROGP-line-136" n="136">Name your heroes, one by one.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-137" n="137"><lb/>'Who is that hell-featured bawler,</l>
+            <l xml:id="swift-829-ROGP-line-138" n="138">Is it Satan? No, 'tis Waller.</l>
+            <l xml:id="swift-829-ROGP-line-139" n="139">In what figure can a bard dress</l>
+            <l xml:id="swift-829-ROGP-line-140" n="140">Jack, the grandson of Sir Hardress?</l>
+            <l xml:id="swift-829-ROGP-line-141" n="141">Honest keeper, drive him further,</l>
+            <l xml:id="swift-829-ROGP-line-142" n="142">In his looks are hell and murther;</l>
+            <l xml:id="swift-829-ROGP-line-143" n="143">See the scowling visage drop,</l>
+            <l xml:id="swift-829-ROGP-line-144" n="144">Just as when he's murdered Throp.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-145" n="145"><lb/>'Keeper, show me where to fix</l>
+            <l xml:id="swift-829-ROGP-line-146" n="146">On the puppy pair of Dicks;</l>
+            <l xml:id="swift-829-ROGP-line-147" n="147">By their lantern jaws and leathern,</l>
+            <l xml:id="swift-829-ROGP-line-148" n="148">You might swear they both are brethren:</l>
+            <l xml:id="swift-829-ROGP-line-149" n="149">Dick Fitz-Baker, Dick the player,</l>
+            <l xml:id="swift-829-ROGP-line-150" n="150">Old acquaintance, are you there?</l>
+            <l xml:id="swift-829-ROGP-line-151" n="151">Dear companions hug and kiss,</l>
+            <l xml:id="swift-829-ROGP-line-152" n="152">Toast old Glorious in your piss.</l>
+            <l xml:id="swift-829-ROGP-line-153" n="153">Tie them, keeper, in a tether,</l>
+            <l xml:id="swift-829-ROGP-line-154" n="154">Let them stare and stink together;</l>
+            <l xml:id="swift-829-ROGP-line-155" n="155">Both are apt to be unruly,</l>
+            <l xml:id="swift-829-ROGP-line-156" n="156">Lash them daily, lash them duly,</l>
+            <l xml:id="swift-829-ROGP-line-157" n="157">Though 'tis hopeless to reclaim them,</l>
+            <l xml:id="swift-829-ROGP-line-158" n="158">Scorpion rods perhaps may tame them.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-159" n="159"><lb/>'Keeper, yon old dotard smoke,</l>
+            <l xml:id="swift-829-ROGP-line-160" n="160">Sweetly snoring in his cloak.</l>
+            <l xml:id="swift-829-ROGP-line-161" n="161">Who is he? 'Tis humdrum Wynne,</l>
+            <l xml:id="swift-829-ROGP-line-162" n="162">Half encompassed by his kin:</l>
+            <l xml:id="swift-829-ROGP-line-163" n="163">There observe the tribe of Bingham,</l>
+            <l xml:id="swift-829-ROGP-line-164" n="164">For he never fails to bring 'em;</l>
+            <l xml:id="swift-829-ROGP-line-165" n="165">om.</l>
+            <l xml:id="swift-829-ROGP-line-166" n="166">om.</l>
+            <l xml:id="swift-829-ROGP-line-167" n="167">While he sleeps the whole debate,</l>
+            <l xml:id="swift-829-ROGP-line-168" n="168">They submissive round him wait;</l>
+            <l xml:id="swift-829-ROGP-line-169" n="169">Yet would gladly see the hunks</l>
+            <l xml:id="swift-829-ROGP-line-170" n="170">In his grave, and search his trunks.</l>
+            <l xml:id="swift-829-ROGP-line-171" n="171">See they gently twitch his coat,</l>
+            <l xml:id="swift-829-ROGP-line-172" n="172">Just to yawn, and give his vote;</l>
+            <l xml:id="swift-829-ROGP-line-173" n="173">Always firm in his vocation,</l>
+            <l xml:id="swift-829-ROGP-line-174" n="174">For the court against the nation.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-175" n="175"><lb/>'Those are Aliens, Jack and Bob,</l>
+            <l xml:id="swift-829-ROGP-line-176" n="176">First in every wicked job,</l>
+            <l xml:id="swift-829-ROGP-line-177" n="177">Son and brother to a queer,</l>
+            <l xml:id="swift-829-ROGP-line-178" n="178">Brainsick brute, they call a peer.</l>
+            <l xml:id="swift-829-ROGP-line-179" n="179">We must give them better quarter,</l>
+            <l xml:id="swift-829-ROGP-line-180" n="180">For their ancestor trod mortar;</l>
+            <l xml:id="swift-829-ROGP-line-181" n="181">And at Howth to boast his fame,</l>
+            <l xml:id="swift-829-ROGP-line-182" n="182">On a chimney cut his name.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-183" n="183"><lb/>'There sit Clements, Dilkes, and Harrison,</l>
+            <l xml:id="swift-829-ROGP-line-184" n="184">How they swagger from their garrison.</l>
+            <l xml:id="swift-829-ROGP-line-185" n="185">Such a triplet could you tell</l>
+            <l xml:id="swift-829-ROGP-line-186" n="186">Where to find on this side hell?</l>
+            <l xml:id="swift-829-ROGP-line-187" n="187">Harrison, and Dilkes, and Clements,</l>
+            <l xml:id="swift-829-ROGP-line-188" n="188">Souse them, in their own excrements.</l>
+            <l xml:id="swift-829-ROGP-line-189" n="189">om.</l>
+            <l xml:id="swift-829-ROGP-line-190" n="190">om.</l>
+            <l xml:id="swift-829-ROGP-line-191" n="191">Every mischief in their hearts,</l>
+            <l xml:id="swift-829-ROGP-line-192" n="192">If they fail 'tis want of parts.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-193" n="193"><lb/>'Bless us, Morgan! Art thou there, man?</l>
+            <l xml:id="swift-829-ROGP-line-194" n="194">Bless mine eyes! Art thou the chairman?</l>
+            <l xml:id="swift-829-ROGP-line-195" n="195">Chairman to yon damned committee!</l>
+            <l xml:id="swift-829-ROGP-line-196" n="196">Yet I look on thee with pity.</l>
+            <l xml:id="swift-829-ROGP-line-197" n="197">Dreadful sight! What, learned Morgan,</l>
+            <l xml:id="swift-829-ROGP-line-198" n="198">Metamorphosed to a gorgon!</l>
+            <l xml:id="swift-829-ROGP-line-199" n="199">For thy horrid looks, I own,</l>
+            <l xml:id="swift-829-ROGP-line-200" n="200">Half convert me to a stone.</l>
+            <l xml:id="swift-829-ROGP-line-201" n="201">Hast thou been so long at school,</l>
+            <l xml:id="swift-829-ROGP-line-202" n="202">Now to turn a factious tool!</l>
+            <l xml:id="swift-829-ROGP-line-203" n="203">Alma Mater was thy mother,</l>
+            <l xml:id="swift-829-ROGP-line-204" n="204">Every young divine thy brother.</l>
+            <l xml:id="swift-829-ROGP-line-205" n="205">Thou a disobedient varlet,</l>
+            <l xml:id="swift-829-ROGP-line-206" n="206">Treat thy mother like a harlot!</l>
+            <l xml:id="swift-829-ROGP-line-207" n="207">Thou, ungrateful to thy teachers,</l>
+            <l xml:id="swift-829-ROGP-line-208" n="208">Who are all grown reverend preachers!</l>
+            <l xml:id="swift-829-ROGP-line-209" n="209">Morgan! Would it not surprise one?</l>
+            <l xml:id="swift-829-ROGP-line-210" n="210">Turn thy nourishment to poison!</l>
+            <l xml:id="swift-829-ROGP-line-211" n="211">When you walk among your books,</l>
+            <l xml:id="swift-829-ROGP-line-212" n="212">They reproach you with their looks;</l>
+            <l xml:id="swift-829-ROGP-line-213" n="213">Bind them fast, or from the shelves</l>
+            <l xml:id="swift-829-ROGP-line-214" n="214">They'll come down to right themselves:</l>
+            <l xml:id="swift-829-ROGP-line-215" n="215">Homer, Plutarch, Virgil, Flaccus,</l>
+            <l xml:id="swift-829-ROGP-line-216" n="216">All in arms prepare to back us:</l>
+            <l xml:id="swift-829-ROGP-line-217" n="217">Soon repent, or put to slaughter</l>
+            <l xml:id="swift-829-ROGP-line-218" n="218">Every Greek and Roman author.</l>
+            <l xml:id="swift-829-ROGP-line-219" n="219">While you in your faction's phrase</l>
+            <l xml:id="swift-829-ROGP-line-220" n="220">Send the clergy all to graze;</l>
+            <l xml:id="swift-829-ROGP-line-221" n="221">And to make your project pass,</l>
+            <l xml:id="swift-829-ROGP-line-222" n="222">Leave them not a blade of grass.</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-223" n="223"><lb/>'How I want thee, humorous Hogart!</l>
+            <l xml:id="swift-829-ROGP-line-224" n="224">Thou I hear, a pleasant rogue art;</l>
+            <l xml:id="swift-829-ROGP-line-225" n="225">Were but you and I acquainted,</l>
+            <l xml:id="swift-829-ROGP-line-226" n="226">Every monster should be painted;</l>
+            <l xml:id="swift-829-ROGP-line-227" n="227">You should try your graving tools</l>
+            <l xml:id="swift-829-ROGP-line-228" n="228">On this odious group of fools;</l>
+            <l xml:id="swift-829-ROGP-line-229" n="229">Draw the beasts as I describe 'em,</l>
+            <l xml:id="swift-829-ROGP-line-230" n="230">Form their features, while I gibe them;</l>
+            <l xml:id="swift-829-ROGP-line-231" n="231">Draw them like, for I assure you,</l>
+            <l xml:id="swift-829-ROGP-line-232" n="232">You will need no caricatura;</l>
+            <l xml:id="swift-829-ROGP-line-233" n="233">Draw them so that we may trace</l>
+            <l xml:id="swift-829-ROGP-line-234" n="234">All the soul in every face.</l>
+            <l xml:id="swift-829-ROGP-line-235" n="235">Keeper, I must now retire,</l>
+            <l xml:id="swift-829-ROGP-line-236" n="236">You have done what I desire:</l>
+            <l xml:id="swift-829-ROGP-line-237" n="237">But I feel my spirits spent,</l>
+            <l xml:id="swift-829-ROGP-line-238" n="238">With the noise, the sight, the scent.'</l>
+            <l rend="indent(1)" xml:id="swift-829-ROGP-line-239" n="239"><lb/>'Pray be patient, you shall find</l>
+            <l xml:id="swift-829-ROGP-line-240" n="240">Half the best are still behind:</l>
+            <l xml:id="swift-829-ROGP-line-241" n="241">You have hardly seen a score,</l>
+            <l xml:id="swift-829-ROGP-line-242" n="242">I can show two hundred more.'</l>
+            <l xml:id="swift-829-ROGP-line-243" n="243">'Keeper, I have seen enough,'</l>
+            <l xml:id="swift-829-ROGP-line-244" n="244">Taking then a pinch of snuff;</l>
+            <l xml:id="swift-829-ROGP-line-245" n="245">I concluded, looking round 'em,</l>
+            <l xml:id="swift-829-ROGP-line-246" n="246">May their god, the devil confound 'em.</l>
+            <l xml:id="swift-829-ROGP-line-247" n="247">om.</l>
+            <l xml:id="swift-829-ROGP-line-248" n="248">om.</l>
+            <l xml:id="swift-829-ROGP-line-249" n="249">om.</l>
+            <l xml:id="swift-829-ROGP-line-250" n="250">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

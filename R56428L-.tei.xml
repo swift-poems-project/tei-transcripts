@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 1MY03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R56428L-">
+          <head type="note" n="1" xml:id="spp-R56428L--headnote-1">
+            <lg n="1" xml:id="spp-R56428L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R56428L--headnote-1-line-group-1-line-1">\<hi rend="italics">from Gulliveriana's introductory "Critique," and printed above 20</hi>\ 1. A C<hi rend="small-caps">OMPARISON BETWEEN AN </hi>OX<hi rend="small-caps"> AND AN</hi> ELEPHANT.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R56428L--headnote-2">
+            <lg n="1" xml:id="spp-R56428L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R56428L--headnote-2-line-group-1-line-1">\<hi rend="italics">above 25</hi>\ 2. B<hi rend="small-caps">ETWEEN AN </hi>ELEPHANT<hi rend="small-caps"> AND A</hi> PARLIAMENT-MAN.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R56428L--headnote-3">
+            <lg n="1" xml:id="spp-R56428L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R56428L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-R56428L--line-1" n="1">om.</l>
+            <l xml:id="swift-R56428L--line-2" n="2">om.</l>
+            <l xml:id="swift-R56428L--line-3" n="3">om.</l>
+            <l xml:id="swift-R56428L--line-4" n="4">om.</l>
+            <l xml:id="swift-R56428L--line-5" n="5">om.</l>
+            <l xml:id="swift-R56428L--line-6" n="6">om.</l>
+            <l xml:id="swift-R56428L--line-7" n="7">om.</l>
+            <l xml:id="swift-R56428L--line-8" n="8">om.</l>
+            <l xml:id="swift-R56428L--line-9" n="9">om.</l>
+            <l xml:id="swift-R56428L--line-10" n="10">om.</l>
+            <l xml:id="swift-R56428L--line-11" n="11">om.</l>
+            <l xml:id="swift-R56428L--line-12" n="12">om.</l>
+            <l xml:id="swift-R56428L--line-13" n="13">om.</l>
+            <l xml:id="swift-R56428L--line-14" n="14">om.</l>
+            <l xml:id="swift-R56428L--line-15" n="15">om.</l>
+            <l xml:id="swift-R56428L--line-16" n="16">om.</l>
+            <l xml:id="swift-R56428L--line-17" n="17">om.</l>
+            <l xml:id="swift-R56428L--line-18" n="18">om.</l>
+            <l xml:id="swift-R56428L--line-19" n="19">om.</l>
+            <l xml:id="swift-R56428L--line-20" n="20"><hi rend="italics">One's </hi>Teeth<hi rend="italics"> are sold, and t'other's</hi> Tongue.</l>
+            <l xml:id="swift-R56428L--line-21" n="21">om.</l>
+            <l xml:id="swift-R56428L--line-22" n="22">om.</l>
+            <l xml:id="swift-R56428L--line-23" n="23">om.</l>
+            <l xml:id="swift-R56428L--line-24" n="24">om.</l>
+            <l xml:id="swift-R56428L--line-25" n="25">
+              <hi rend="italics">To get their Masters Half a Crown</hi>
+            </l>
+            <l xml:id="swift-R56428L--line-26" n="26"><hi rend="italics">They spread the Flag, or lay it down</hi>.</l>
+            <l xml:id="swift-R56428L--line-27" n="27">om.</l>
+            <l xml:id="swift-R56428L--line-28" n="28">om.</l>
+            <l xml:id="swift-R56428L--line-29" n="29">om.</l>
+            <l xml:id="swift-R56428L--line-30" n="30">om.</l>
+            <l xml:id="swift-R56428L--line-31" n="31">om.</l>
+            <l xml:id="swift-R56428L--line-32" n="32">om.</l>
+            <l xml:id="swift-R56428L--line-33" n="33">om.</l>
+            <l xml:id="swift-R56428L--line-34" n="34">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

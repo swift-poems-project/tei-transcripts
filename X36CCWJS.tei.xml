@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Lines embedded in Swift's letter to Pope, 25 November 1725]</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 23AU12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 5FE17, 9FE17; experimentally emended JW 11FE17; underbar added in HN4 JW 12FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X36CCWJS">
+          <head type="note" n="1" xml:id="spp-X36CCWJS-headnote-1">
+            <lg n="1" xml:id="spp-X36CCWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X36CCWJS-headnote-1-line-group-1-line-1">I guess your Modern Imitator; and desire to be a Sub-imitator thô I must bestow 4 lines upon one sect&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X36CCWJS-headnote-2">
+            <lg n="1" xml:id="spp-X36CCWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X36CCWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X36CCWJS-headnote-3">
+            <lg n="1" xml:id="spp-X36CCWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X36CCWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X36CCWJS-line-1" n="1">The Heathen doth believe in Christ</l>
+            <l rend="indent(1)" xml:id="swift-X36CCWJS-line-2" n="2">And doth all Christians hate</l>
+            <l xml:id="swift-X36CCWJS-line-3" n="3">For never was Informer he</l>
+            <l rend="indent(1)" xml:id="swift-X36CCWJS-line-4" n="4">Nor Minister of State.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CARBERY ROCKS,<lb/>  TRANSLATED BY DR. DUNKIN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 26JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="318-79L1">
+          <head type="note" n="1" xml:id="spp-318-79L1-headnote-1">
+            <lg n="1" xml:id="spp-318-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-318-79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-318-79L1-headnote-2">
+            <lg n="1" xml:id="spp-318-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-318-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-318-79L1-headnote-3">
+            <lg n="1" xml:id="spp-318-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-318-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-318-79L1-line-1" n="1"><hi rend="display-initial">L</hi>O! from the top of yonder cliff, that shrouds</l>
+            <l xml:id="swift-318-79L1-line-2" n="2">Its airy head amidst the azure clouds,</l>
+            <l xml:id="swift-318-79L1-line-3" n="3">Hangs a huge fragment; destitute of props,</l>
+            <l xml:id="swift-318-79L1-line-4" n="4">Prone on the waves the rocky ruin drops;</l>
+            <l xml:id="swift-318-79L1-line-5" n="5">With hoarse rebuff the swelling seas rebound,</l>
+            <l xml:id="swift-318-79L1-line-6" n="6">From shore to shore the rocks return the sound:</l>
+            <l xml:id="swift-318-79L1-line-7" n="7">The dreadful murmur heaven's high convex cleaves,</l>
+            <l xml:id="swift-318-79L1-line-8" n="8">And Neptune shrinks beneath his subject waves:</l>
+            <l xml:id="swift-318-79L1-line-9" n="9">For long the whirling winds and beating tides</l>
+            <l xml:id="swift-318-79L1-line-10" n="10">Had scoop'd a vault into its nether sides.</l>
+            <l xml:id="swift-318-79L1-line-11" n="11">Now yields the base, the summits nod, now urge</l>
+            <l xml:id="swift-318-79L1-line-12" n="12">Their headlong course, and lash the sounding surge.</l>
+            <l xml:id="swift-318-79L1-line-13" n="13">Not louder noise could shake the guilty world,</l>
+            <l xml:id="swift-318-79L1-line-14" n="14">When Jove heap'd mountains upon mountains hurl'd;</l>
+            <l xml:id="swift-318-79L1-line-15" n="15">Retorting Pelion from his dread abode,</l>
+            <l xml:id="swift-318-79L1-line-16" n="16">To crush Earth's rebel-sons beneath the load.</l>
+            <l rend="indent(1)" xml:id="swift-318-79L1-line-17" n="17">Oft' too with hideous yawn the cavern wide</l>
+            <l xml:id="swift-318-79L1-line-18" n="18">Presents an orifice on either side,</l>
+            <l xml:id="swift-318-79L1-line-19" n="19">A dismal orifice, from sea to sea</l>
+            <l xml:id="swift-318-79L1-line-20" n="20">Extended, pervious to the God of Day:</l>
+            <l xml:id="swift-318-79L1-line-21" n="21">Uncouthly join'd, the rocks stupendous form</l>
+            <l xml:id="swift-318-79L1-line-22" n="22">An arch, the ruin of a future storm:</l>
+            <l xml:id="swift-318-79L1-line-23" n="23">High on the cliff their nests the Woodquests make,</l>
+            <l xml:id="swift-318-79L1-line-24" n="24">And Sea-calves stable in the oozy lake.</l>
+            <l rend="indent(1)" xml:id="swift-318-79L1-line-25" n="25">But when bleak Winter with his sullen train</l>
+            <l xml:id="swift-318-79L1-line-26" n="26">Awakes the winds to vex the watery plain;</l>
+            <l xml:id="swift-318-79L1-line-27" n="27">When o'er the craggy steep without control,</l>
+            <l xml:id="swift-318-79L1-line-28" n="28">Big with the blast, the raging billows roll;</l>
+            <l xml:id="swift-318-79L1-line-29" n="29">Not towns beleaguer'd, not the flaming brand,</l>
+            <l xml:id="swift-318-79L1-line-30" n="30">Darted from Heaven by Jove's avenging hand,</l>
+            <l xml:id="swift-318-79L1-line-31" n="31">Oft' as on impious men his wrath he pours,</l>
+            <l xml:id="swift-318-79L1-line-32" n="32">Humbles their pride, and blasts their gilded towers,</l>
+            <l xml:id="swift-318-79L1-line-33" n="33">Equal the tumult of this wild uproar:</l>
+            <l xml:id="swift-318-79L1-line-34" n="34">Waves rush o'er waves, rebellows shore to shore.</l>
+            <l xml:id="swift-318-79L1-line-35" n="35">The neighbouring race, though wont to brave the shocks</l>
+            <l xml:id="swift-318-79L1-line-36" n="36">Of angry seas, and run along the rocks,</l>
+            <l xml:id="swift-318-79L1-line-37" n="37">Now pale with terror, while the ocean foams,</l>
+            <l xml:id="swift-318-79L1-line-38" n="38">Fly far and wide, nor trust their native homes.</l>
+            <l rend="indent(1)" xml:id="swift-318-79L1-line-39" n="39">The goats, while pendent from the mountain-top</l>
+            <l xml:id="swift-318-79L1-line-40" n="40">The wither'd herb improvident they crop,</l>
+            <l xml:id="swift-318-79L1-line-41" n="41">Wash'd down the precipice with sudden sweep,</l>
+            <l xml:id="swift-318-79L1-line-42" n="42">Leave their sweet lives beneath th' unfathom'd deep.</l>
+            <l rend="indent(1)" xml:id="swift-318-79L1-line-43" n="43">The frighted fisher, with desponding eyes,</l>
+            <l xml:id="swift-318-79L1-line-44" n="44">Though safe, yet trembling in the harbour lies,</l>
+            <l xml:id="swift-318-79L1-line-45" n="45">Nor hoping to behold the skies serene,</l>
+            <l xml:id="swift-318-79L1-line-46" n="46">Wearies with vows the monarch of the main.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

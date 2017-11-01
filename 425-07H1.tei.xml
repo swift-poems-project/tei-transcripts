@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-425-07H1-title-2"><hi rend="italics">On the five Ladies at </hi><ref target="#spp-425-07H1-footnote-title-1">1</ref><note n="1" xml:id="spp-425-07H1-footnote-title-1" place="foot">An alehouse in <hi rend="italics">Dublin</hi> famous for beef steaks</note><hi rend="italics"> </hi>Sot's-Hole<hi rend="italics">,<lb/>  with the Doctor </hi><ref target="#spp-425-07H1-footnote-title-2">2</ref><note n="2" xml:id="spp-425-07H1-footnote-title-2" place="foot">Dr. <hi rend="italics">Thomas Sheridan</hi></note><hi rend="italics"> at their Head</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 31JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-425-07H1-footnote-title-1 #spp-425-07H1-title-1"/>
+          <link target="#spp-425-07H1-footnote-title-2 #spp-425-07H1-title-2"/>
+        </linkGrp>
+        <div n="425-07H1">
+          <head type="note" n="1" xml:id="spp-425-07H1-headnote-1">
+            <lg n="1" xml:id="spp-425-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-425-07H1-headnote-1-line-group-1-line-1">N.B. <hi rend="italics">The Ladies treated the Doctor</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-425-07H1-headnote-2">
+            <lg n="1" xml:id="spp-425-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-425-07H1-headnote-2-line-group-1-line-1"><hi rend="italics">Sent as from an Officer in the Army</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-425-07H1-headnote-3">
+            <lg n="1" xml:id="spp-425-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-425-07H1-headnote-3-line-group-1-line-1">Written in the Year 1728.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-425-07H1-line-1" n="1"><hi rend="display-initial">F</hi>AIR ladies, number five,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-2" n="2">Who in your merry freaks</l>
+            <l xml:id="swift-425-07H1-line-3" n="3">With little <hi rend="italics">Tom</hi> contrive</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-4" n="4">To feast on ale and steaks.</l>
+            <l xml:id="swift-425-07H1-line-5" n="5"><lb/>While he sits by a grinning,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-6" n="6">To see you safe in <hi rend="italics">Sot's-hole</hi>,</l>
+            <l xml:id="swift-425-07H1-line-7" n="7">Set up with greasy linen,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-8" n="8">And neither mugs nor pots whole.</l>
+            <l xml:id="swift-425-07H1-line-9" n="9"><lb/>Alas! I never thought,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-10" n="10">A priest would please your palate;</l>
+            <l xml:id="swift-425-07H1-line-11" n="11">Besides I'll hold a groat,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-12" n="12">He'll put you in a ballad;</l>
+            <l xml:id="swift-425-07H1-line-13" n="13"><lb/>Where I shall see your faces</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-14" n="14">On paper daub'd so foul,</l>
+            <l xml:id="swift-425-07H1-line-15" n="15">They'll be no more like graces,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-16" n="16">Than <hi rend="italics">Venus</hi> like an owl;</l>
+            <l xml:id="swift-425-07H1-line-17" n="17"><lb/>And we shall take you rather</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-18" n="18">To be a midnight pack</l>
+            <l xml:id="swift-425-07H1-line-19" n="19">Of witches met together</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-20" n="20">With <hi rend="italics">Belzebub</hi> in black.</l>
+            <l xml:id="swift-425-07H1-line-21" n="21"><lb/>It fills my heart with woe</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-22" n="22">To think, such ladies fine</l>
+            <l xml:id="swift-425-07H1-line-23" n="23">Should be reduc'd so low</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-24" n="24">To treat a dull divine.</l>
+            <l xml:id="swift-425-07H1-line-25" n="25"><lb/>Be by a parson cheated!</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-26" n="26">Had you been cunning stagers,</l>
+            <l xml:id="swift-425-07H1-line-27" n="27">You might your selves be treated</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-28" n="28">By captains and by majors.</l>
+            <l xml:id="swift-425-07H1-line-29" n="29"><lb/>See how corruption grows,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-30" n="30">While mothers, daughters, aunts,</l>
+            <l xml:id="swift-425-07H1-line-31" n="31">Instead of powder'd beaus,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-32" n="32">From pulpits chuse gallants.</l>
+            <l xml:id="swift-425-07H1-line-33" n="33"><lb/>If we who wear our wigs</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-34" n="34">With fan-tail and with snake,</l>
+            <l xml:id="swift-425-07H1-line-35" n="35">Are bubbled thus by prigs;</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-36" n="36">Z──────ds, who wou'd be a rake?</l>
+            <l xml:id="swift-425-07H1-line-37" n="37"><lb/>Had I a heart to fight,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-38" n="38">I'd knock the doctor down;</l>
+            <l xml:id="swift-425-07H1-line-39" n="39">Or could I read or write,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-40" n="40">I'gad I'd wear a gown.</l>
+            <l xml:id="swift-425-07H1-line-41" n="41"><lb/>Then leave him to his birch<note place="foot">·He kept a school.</note>,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-42" n="42">And at the <hi rend="italics">rose</hi> on <hi rend="italics">Sunday</hi>,</l>
+            <l xml:id="swift-425-07H1-line-43" n="43">The parson safe at church,</l>
+            <l rend="indent(1)" xml:id="swift-425-07H1-line-44" n="44">I'll treat you with <hi rend="italics">burgundy</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

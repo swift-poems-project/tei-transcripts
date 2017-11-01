@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO THE DEAN OF ST PATRICK'S,<«FN1·>Whimsical Medley, p. 352»</«FN1·></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 9NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="969-15W1">
+          <head type="note" n="1" xml:id="spp-969-15W1-headnote-1">
+            <lg n="1" xml:id="spp-969-15W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-969-15W1-headnote-1-line-group-1-line-1">IN ANSWER TO HIS LEFT-HANDED LETTER.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-969-15W1-headnote-2">
+            <lg n="1" xml:id="spp-969-15W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-969-15W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-969-15W1-headnote-3">
+            <lg n="1" xml:id="spp-969-15W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-969-15W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-969-15W1-line-1" n="1">S<hi rend="small-caps">INCE</hi> your poetic prancer is turn'd into Cancer,</l>
+            <l xml:id="swift-969-15W1-line-2" n="2">I'll tell you at once, Sir, I'm now not your man, Sir;</l>
+            <l xml:id="swift-969-15W1-line-3" n="3">For pray, Sir, what pleasure in fighting is found</l>
+            <l xml:id="swift-969-15W1-line-4" n="4">With a coward, who studies to traverse his ground?</l>
+            <l xml:id="swift-969-15W1-line-5" n="5">When I drew forth my pen, with your pen you ran back;</l>
+            <l xml:id="swift-969-15W1-line-6" n="6">But I found out the way to your den by its track:</l>
+            <l xml:id="swift-969-15W1-line-7" n="7">From thence the black monster I drew, o' my conscience,</l>
+            <l xml:id="swift-969-15W1-line-8" n="8">And so brought to light what before was stark non-sense.</l>
+            <l xml:id="swift-969-15W1-line-9" n="9">When I with my right hand did stoutly pursue,</l>
+            <l xml:id="swift-969-15W1-line-10" n="10">You turn'd to your left, and you writ like a Jew;</l>
+            <l xml:id="swift-969-15W1-line-11" n="11">Which, good Mister Dean, I can't think so fair,</l>
+            <l xml:id="swift-969-15W1-line-12" n="12">Therefore turn about to the right, as you were;</l>
+            <l xml:id="swift-969-15W1-line-13" n="13">Then if with true courage your ground you maintain,</l>
+            <l xml:id="swift-969-15W1-line-14" n="14">My fame is immortal, when Jonathan's slain:</l>
+            <l xml:id="swift-969-15W1-line-15" n="15">Who's greater by far than great Alexander,</l>
+            <l xml:id="swift-969-15W1-line-16" n="16">As much as a teal surpasses a gander;</l>
+            <l xml:id="swift-969-15W1-line-17" n="17">As much as a game-cock's excell'd by a sparrow;</l>
+            <l xml:id="swift-969-15W1-line-18" n="18">As much as a coach is below a wheelbarrow:</l>
+            <l xml:id="swift-969-15W1-line-19" n="19">As much and much more as the most handsome man</l>
+            <l xml:id="swift-969-15W1-line-20" n="20">Of all the whole world is exceeded by Dan.</l>
+            <l xml:id="swift-969-15W1-line-21" n="21">
+              <space>T. S<hi rend="small-caps">HERIDAN</hi>/hi&gt;.</space>
+            </l>
+            <l xml:id="swift-969-15W1-line-22" n="22"><lb/>This was written with that hand which in others is commonly called the left-hand.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN<lb/>  Excellent New Song,<lb/>  <hi rend="italics">To a good Old Tune</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 21DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y28AE589">
+          <head type="note" n="1" xml:id="spp-Y28AE589-headnote-1">
+            <lg n="1" xml:id="spp-Y28AE589-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28AE589-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y28AE589-headnote-2">
+            <lg n="1" xml:id="spp-Y28AE589-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28AE589-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y28AE589-headnote-3">
+            <lg n="1" xml:id="spp-Y28AE589-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28AE589-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y28AE589-line-1" n="1"><hi rend="display-initial">I</hi> <hi rend="italics">Synge</hi> of a <hi rend="italics">Sermon</hi>, a Sermon of <hi rend="italics">Worth</hi>,</l>
+            <l xml:id="swift-Y28AE589-line-2" n="2">Which newly was Printed, and newly come forth;</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-3" n="3">||A <hi rend="italics">Sermon</hi> of late,</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-4" n="4">||Which rais'd a Debate,</l>
+            <l xml:id="swift-Y28AE589-line-5" n="5">And many Opinions, of Church and of State:</l>
+            <l xml:id="swift-Y28AE589-line-6" n="6">It was made by a Priest of six Foot and more,</l>
+            <l xml:id="swift-Y28AE589-line-7" n="7">But the like of it, scarce has been heard of before.</l>
+            <l xml:id="swift-Y28AE589-line-8" n="8"><lb/>Most are at a loss to find out his true meaning;</l>
+            <l xml:id="swift-Y28AE589-line-9" n="9">Whilst others of some dark Design are complaining.</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-10" n="10">||Some think <hi rend="italics">He</hi>'s for <hi rend="italics">Martin</hi>,</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-11" n="11">||Some for <hi rend="italics">Jack</hi> his Heart in,</l>
+            <l xml:id="swift-Y28AE589-line-12" n="12">But most do agree <hi rend="italics">He</hi>'s for <hi rend="italics">Peter</hi>, for certain:</l>
+            <l xml:id="swift-Y28AE589-line-13" n="13">O <hi rend="italics">S────nge</hi> who won't think thou wert Bred at St. <hi rend="italics">Germains</hi>,</l>
+            <l xml:id="swift-Y28AE589-line-14" n="14">Who reads what <hi rend="italics">Opinions</hi> you've Broach'd in your Sermons.</l>
+            <l xml:id="swift-Y28AE589-line-15" n="15"><lb/>Some say it is new, some say what is stranger;</l>
+            <l xml:id="swift-Y28AE589-line-16" n="16">That all you have said is taken from <hi rend="italics">Bangor</hi>:</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-17" n="17">||Then looks it not odly</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-18" n="18">||T'Extract from <hi rend="italics">Ben Hoadly</hi></l>
+            <l xml:id="swift-Y28AE589-line-19" n="19">A Scheme that seems <hi rend="italics">Popish</hi> to all that are Godly.</l>
+            <l xml:id="swift-Y28AE589-line-20" n="20">O <hi rend="italics">S────nge</hi> thou had'st better been hang'd in a Rope,</l>
+            <l xml:id="swift-Y28AE589-line-21" n="21">Than thus to turn Stickler for <hi rend="italics">Rome</hi> and the <hi rend="italics">Pope</hi>.</l>
+            <l xml:id="swift-Y28AE589-line-22" n="22"><lb/>Now, who will not say you are for the <hi rend="italics">Pretender</hi>,</l>
+            <l xml:id="swift-Y28AE589-line-23" n="23">When yo' oppose the <hi rend="italics">true Faith</hi>, and the Faith's <hi rend="italics">true Defender</hi>?</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-24" n="24">||For you open a Door</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-25" n="25">||For <hi rend="italics">Babylon's Whore</hi>,</l>
+            <l xml:id="swift-Y28AE589-line-26" n="26">And for all <hi rend="italics">Sects</hi> that are in the World, and much-more:</l>
+            <l xml:id="swift-Y28AE589-line-27" n="27">O <hi rend="italics">S────nge</hi> thou had'st better have dy'd in thy Youth,</l>
+            <l xml:id="swift-Y28AE589-line-28" n="28">Than thus to be plagu'd for opposing the <hi rend="italics">Truth</hi>.</l>
+            <l xml:id="swift-Y28AE589-line-29" n="29"><lb/>This <hi rend="italics">Sermon</hi> was lately attack'd in a <hi rend="italics">Letter</hi>,</l>
+            <l xml:id="swift-Y28AE589-line-30" n="30">Which some People think might have been somewhat better;</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-31" n="31">||Be that as it will,</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-32" n="32">||He got a damn'd Pill,</l>
+            <l xml:id="swift-Y28AE589-line-33" n="33">Which in vain he since thought to expell by his Quill:</l>
+            <l xml:id="swift-Y28AE589-line-34" n="34">O <hi rend="italics">S────nge</hi> thou had'st better by far held thy Peace,</l>
+            <l xml:id="swift-Y28AE589-line-35" n="35">Than thus to be slav'd by the <hi rend="italics">Vicar of Naas</hi>.</l>
+            <l xml:id="swift-Y28AE589-line-36" n="36"><lb/>Beware of this <hi rend="italics">Vicar</hi> and dread his Attack,</l>
+            <l xml:id="swift-Y28AE589-line-37" n="37">For surely he'll lay you, at length, on your Back;</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-38" n="38">||For he shews you've perplex'd</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-39" n="39">||And murther'd your Text,</l>
+            <l xml:id="swift-Y28AE589-line-40" n="40">And quoted ──── Of which you'll hear more in his next:</l>
+            <l xml:id="swift-Y28AE589-line-41" n="41">O <hi rend="italics">S────nge</hi> thou had'st better a Blanket been tost in,</l>
+            <l xml:id="swift-Y28AE589-line-42" n="42">Than thus to be pelted for quoting St. <hi rend="italics">Austin</hi>.</l>
+            <l xml:id="swift-Y28AE589-line-43" n="43"><lb/>This Truth from Experience is always allow'd,</l>
+            <l xml:id="swift-Y28AE589-line-44" n="44">That Men of <hi rend="italics">Low Parts</hi> may pass in the Crowd,</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-45" n="45">||Without vain pretence</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-46" n="46">||To superior sense,</l>
+            <l xml:id="swift-Y28AE589-line-47" n="47">Or more than kind Nature does wisely dispense;</l>
+            <l xml:id="swift-Y28AE589-line-48" n="48">But when they pretend to soar up 'bove their Pitch,</l>
+            <l xml:id="swift-Y28AE589-line-49" n="49">It is twenty to one, but they fall in a Ditch.</l>
+            <l xml:id="swift-Y28AE589-line-50" n="50"><lb/>How-e'er he's abus'd here, he's sure that in <hi rend="italics">Britain</hi></l>
+            <l xml:id="swift-Y28AE589-line-51" n="51">He'll meet with Applause both from <hi rend="italics">Whiston</hi> and <hi rend="italics">Ditton</hi>.</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-52" n="52">||So <hi rend="italics">S────nge</hi> be not Sh────t on</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE589-line-53" n="53">||By <hi rend="italics">Whiston</hi> or <hi rend="italics">Ditton</hi>,</l>
+            <l xml:id="swift-Y28AE589-line-54" n="54">He cares not what <hi rend="italics">Irish</hi> Folk say of what's written;</l>
+            <l xml:id="swift-Y28AE589-line-55" n="55"><hi rend="italics">Synge, Ditton</hi> and <hi rend="italics">Whiston: Synge, Whiston</hi> and <hi rend="italics">Ditton</hi>:</l>
+            <l xml:id="swift-Y28AE589-line-56" n="56">Synge, Shitt on and Pist on, Synge, Pist on and Shitt on.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

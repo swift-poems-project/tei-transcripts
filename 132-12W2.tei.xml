@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE VIRTUES OF SID HAMET THE<lb/>  MAGICIAN'S ROD. 1710.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 22JA16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="132-12W2">
+          <head type="note" n="1" xml:id="spp-132-12W2-headnote-1">
+            <lg n="1" xml:id="spp-132-12W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-132-12W2-headnote-1-line-group-1-line-1">W<hi rend="small-caps">HEN</hi> Swift came to London, in 1710, just about the time the ministry was changed, his reception from Lord-Treasurer Godolphin was, as he stated to Archbishop King, “different from what he had received from any great man in his life; altogether short, dry, and morose.” To Stella, he owns that this coldness had so enraged him that he was vowing revenge. The fruits of his resentment was the following lampoon on the treasurer's abdication. It was read at Harley's, on the 15th October, 1710; but was not then suspected to be Swift's. The success of this <hi rend="italics">jeu d'esprit</hi> was prodigious. The allusion to Godolphin's family name, Sidney, and to his staff of office, are sufficiently obvious.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-132-12W2-headnote-2">
+            <lg n="1" xml:id="spp-132-12W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-132-12W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-132-12W2-headnote-3">
+            <lg n="1" xml:id="spp-132-12W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-132-12W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-132-12W2-line-1" n="1">T<hi rend="small-caps">HE</hi> rod was but a harmless wand,</l>
+            <l xml:id="swift-132-12W2-line-2" n="2">While Moses held it in his hand;</l>
+            <l xml:id="swift-132-12W2-line-3" n="3">But, soon as e'er he laid it down,</l>
+            <l xml:id="swift-132-12W2-line-4" n="4">'Twas a devouring serpent grown.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-5" n="5">Our great magician, Hamet Sid,</l>
+            <l xml:id="swift-132-12W2-line-6" n="6">Reverses what the prophet did:</l>
+            <l xml:id="swift-132-12W2-line-7" n="7">His rod was honest English wood,</l>
+            <l xml:id="swift-132-12W2-line-8" n="8">That senseless in a corner stood,</l>
+            <l xml:id="swift-132-12W2-line-9" n="9">Till metamorphosed by his grasp,</l>
+            <l xml:id="swift-132-12W2-line-10" n="10">It grew an all-devouring asp;</l>
+            <l xml:id="swift-132-12W2-line-11" n="11">Would hiss, and sting, and roll, and twist,</l>
+            <l xml:id="swift-132-12W2-line-12" n="12">By the mere virtue of his fist:</l>
+            <l xml:id="swift-132-12W2-line-13" n="13">But, when he laid it down, as quick</l>
+            <l xml:id="swift-132-12W2-line-14" n="14">Resumed the figure of a stick.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-15" n="15">So, to her midnight feasts, the hag</l>
+            <l xml:id="swift-132-12W2-line-16" n="16">Rides on a broomstick for a nag,</l>
+            <l xml:id="swift-132-12W2-line-17" n="17">That, raised by magic of her breech,</l>
+            <l xml:id="swift-132-12W2-line-18" n="18">O'er sea and land conveys the witch;</l>
+            <l xml:id="swift-132-12W2-line-19" n="19">But with the morning dawn resumes</l>
+            <l xml:id="swift-132-12W2-line-20" n="20">The peaceful state of common brooms.</l>
+            <l xml:id="swift-132-12W2-line-21" n="21">They tell us something strange and odd,</l>
+            <l xml:id="swift-132-12W2-line-22" n="22">About a certain magic rod,<note place="foot">·The <hi rend="italics">virgula divina</hi>, said to be attracted by minerals. S<hi rend="small-caps">WIFT</hi>.</note></l>
+            <l xml:id="swift-132-12W2-line-23" n="23">That, bending down its top, divines</l>
+            <l xml:id="swift-132-12W2-line-24" n="24">Whene'er the soil has golden mines;</l>
+            <l xml:id="swift-132-12W2-line-25" n="25">Where there are none, it stands erect,</l>
+            <l xml:id="swift-132-12W2-line-26" n="26">Scorning to show the least respect:</l>
+            <l xml:id="swift-132-12W2-line-27" n="27">As ready was the wand of Sid</l>
+            <l xml:id="swift-132-12W2-line-28" n="28">To bend where golden mines were hid:</l>
+            <l xml:id="swift-132-12W2-line-29" n="29">In Scottish hills found precious ore,<note place="foot">·Supposed to allude to the Union. S<hi rend="small-caps">WIFT</hi>.</note></l>
+            <l xml:id="swift-132-12W2-line-30" n="30">Where none e'er look'd for it before;</l>
+            <l xml:id="swift-132-12W2-line-31" n="31">And by a gentle bow divined</l>
+            <l xml:id="swift-132-12W2-line-32" n="32">How well a cully's purse was lined;</l>
+            <l xml:id="swift-132-12W2-line-33" n="33">To a forlorn and broken rake,</l>
+            <l xml:id="swift-132-12W2-line-34" n="34">Stood without motion like a stake.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-35" n="35">The rod of Hermes was renown'd</l>
+            <l xml:id="swift-132-12W2-line-36" n="36">For charms above and under ground;</l>
+            <l xml:id="swift-132-12W2-line-37" n="37">To sleep could mortal eyelids fix,</l>
+            <l xml:id="swift-132-12W2-line-38" n="38">And drive departed souls to Styx.</l>
+            <l xml:id="swift-132-12W2-line-39" n="39">That rod was a just type of Sid's,</l>
+            <l xml:id="swift-132-12W2-line-40" n="40">Which o'er a British senate's lids</l>
+            <l xml:id="swift-132-12W2-line-41" n="41">Could scatter opium full as well,</l>
+            <l xml:id="swift-132-12W2-line-42" n="42">And drive as many souls to hell.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-43" n="43">Sid's rod was slender, white, and tall,</l>
+            <l xml:id="swift-132-12W2-line-44" n="44">Which oft he used to fish withal;</l>
+            <l xml:id="swift-132-12W2-line-45" n="45">A place was fasten'd to the hook,</l>
+            <l xml:id="swift-132-12W2-line-46" n="46">And many score of gudgeons took;</l>
+            <l xml:id="swift-132-12W2-line-47" n="47">Yet still so happy was his fate,</l>
+            <l xml:id="swift-132-12W2-line-48" n="48">He caught his fish and saved his bait.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-49" n="49">Sid's brethren of the conjuring tribe,</l>
+            <l xml:id="swift-132-12W2-line-50" n="50">A circle with their rod describe,</l>
+            <l xml:id="swift-132-12W2-line-51" n="51">Which proves a magical redoubt,</l>
+            <l xml:id="swift-132-12W2-line-52" n="52">To keep mischievous spirits out.</l>
+            <l xml:id="swift-132-12W2-line-53" n="53">Sid's rod was of a larger stride,</l>
+            <l xml:id="swift-132-12W2-line-54" n="54">And made a circle thrice as wide,</l>
+            <l xml:id="swift-132-12W2-line-55" n="55">Where spirits throng with hideous din,</l>
+            <l xml:id="swift-132-12W2-line-56" n="56">And he stood there to take them in;</l>
+            <l xml:id="swift-132-12W2-line-57" n="57">But when th' enchanted rod was broke,</l>
+            <l xml:id="swift-132-12W2-line-58" n="58">They vanish'd in a stinking smoke.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-59" n="59">Achilles' sceptre was of wood,</l>
+            <l xml:id="swift-132-12W2-line-60" n="60">Like Sid's, but nothing near so good;</l>
+            <l xml:id="swift-132-12W2-line-61" n="61">Though down from ancestors divine</l>
+            <l xml:id="swift-132-12W2-line-62" n="62">Transmitted to the hero's line;</l>
+            <l xml:id="swift-132-12W2-line-63" n="63">Thence, through a long descent of kings,</l>
+            <l xml:id="swift-132-12W2-line-64" n="64">Came an <hi rend="small-caps">HEIRLOOM</hi>, <note place="foot">·Godolphin's favour arose from his connection with the family of Marlborough.</note> as Homer sings.</l>
+            <l xml:id="swift-132-12W2-line-65" n="65">Though this description looks so big,</l>
+            <l xml:id="swift-132-12W2-line-66" n="66">That sceptre was a sapless twig,</l>
+            <l xml:id="swift-132-12W2-line-67" n="67">Which, from the fatal day, when first</l>
+            <l xml:id="swift-132-12W2-line-68" n="68">It left the forest where 'twas nursed,</l>
+            <l xml:id="swift-132-12W2-line-69" n="69">As Homer tells us o'er and o'er,</l>
+            <l xml:id="swift-132-12W2-line-70" n="70">Nor leaf, nor fruit, nor blossom bore.</l>
+            <l xml:id="swift-132-12W2-line-71" n="71">Sid's sceptre, full of juice, did shoot</l>
+            <l xml:id="swift-132-12W2-line-72" n="72">In golden boughs, and golden fruit;</l>
+            <l xml:id="swift-132-12W2-line-73" n="73">And he, the dragon never sleeping,</l>
+            <l xml:id="swift-132-12W2-line-74" n="74">Guarded each fair Hesperian Pippin.</l>
+            <l xml:id="swift-132-12W2-line-75" n="75">No hobby-horse, with gorgeous top,</l>
+            <l xml:id="swift-132-12W2-line-76" n="76">The dearest in Charles Mather's <note place="foot">·An eminent toyman in Fleet-street.</note> shop,</l>
+            <l xml:id="swift-132-12W2-line-77" n="77">Or glittering tinsel of May-fair,</l>
+            <l xml:id="swift-132-12W2-line-78" n="78">Could with the rod of Sid compare.</l>
+            <l rend="indent(1)" xml:id="swift-132-12W2-line-79" n="79">Dear Sid, then why wert thou so mad</l>
+            <l xml:id="swift-132-12W2-line-80" n="80">To break thy rod like naughty lad?<note place="foot">·When Godolphin received the queen's message, removing him from the office of treasurer, he broke his whole rod into two pieces, and threw them into the chimney, desiring the messenger to bear witness he had obeyed her majesty's commands.</note></l>
+            <l xml:id="swift-132-12W2-line-81" n="81">You should have kiss'd it in your distress,</l>
+            <l xml:id="swift-132-12W2-line-82" n="82">And then returned to your mistress;</l>
+            <l xml:id="swift-132-12W2-line-83" n="83">Or made it a Newmarket switch,<note place="foot">·Lord Godolphin is satirized by Mr Pope, for a strong attachment to the turf. See his Moral Essays.</note></l>
+            <l xml:id="swift-132-12W2-line-84" n="84">And not a rod for thy own breech.</l>
+            <l xml:id="swift-132-12W2-line-85" n="85">But since old Sid has broken this,</l>
+            <l xml:id="swift-132-12W2-line-86" n="86">His next may be a rod in piss.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">POSTSCRIPT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 7JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X12-1101">
+          <head type="note" n="1" xml:id="spp-X12-1101-headnote-1">
+            <lg n="1" xml:id="spp-X12-1101-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X12-1101-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X12-1101-headnote-2">
+            <lg n="1" xml:id="spp-X12-1101-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X12-1101-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X12-1101-headnote-3">
+            <lg n="1" xml:id="spp-X12-1101-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X12-1101-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X12-1101-line-1" n="1">Lean <hi rend="italics">Tom</hi>, when I saw him, last Week, on his Horse, awry,</l>
+            <l xml:id="swift-X12-1101-line-2" n="2">Threat'n'd loudly to turn me to Stone with his Sorcery.</l>
+            <l xml:id="swift-X12-1101-line-3" n="3">But I think, little <hi rend="italics">Dan</hi>, that in Spight of what our Foe says,</l>
+            <l xml:id="swift-X12-1101-line-4" n="4">He will find I read <hi rend="italics">Ovid</hi>, and his Metamorphoses.</l>
+            <l xml:id="swift-X12-1101-line-5" n="5">For omitting the first (where I make a Comparison,</l>
+            <l xml:id="swift-X12-1101-line-6" n="6">With a Sort of Allusion to <hi rend="italics">Putland</hi> or <hi rend="italics">Harrison</hi>,)</l>
+            <l xml:id="swift-X12-1101-line-7" n="7">Yet by my Description, you'll find he in short is</l>
+            <l xml:id="swift-X12-1101-line-8" n="8">A Pack and a Garran, a Top and a Tortoise.</l>
+            <l xml:id="swift-X12-1101-line-9" n="9">So I hope from hence·forward you ne'er will ask, can I maul</l>
+            <l xml:id="swift-X12-1101-line-10" n="10">This teazing, conceited, rude, insolent, Animal?</l>
+            <l xml:id="swift-X12-1101-line-11" n="11">And, if this Rebuke might turn to his Benefit,</l>
+            <l xml:id="swift-X12-1101-line-12" n="12">(For I pity the Man) I should be then glad of it.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

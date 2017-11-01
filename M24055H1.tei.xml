@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 18AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M24055H1">
+          <head type="note" n="1" xml:id="spp-M24055H1-headnote-1">
+            <lg n="1" xml:id="spp-M24055H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M24055H1-headnote-1-line-group-1-line-1">Mrs. <hi rend="italics">Pilkington</hi>, when she was about sixteen, having been teazed by her brother to write some verse as a school exercise for him, asked him what she should write upon: Why, said he pertly, what should you write upon but the paper? So taking it for her subject, she writ the following lines; which, four years after, were printed in one of the <hi rend="italics">London</hi> news-papers. Vide <hi rend="italics">Pilkington</hi>'s Memoirs, vol. i. p. 88.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M24055H1-headnote-2">
+            <lg n="1" xml:id="spp-M24055H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M24055H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M24055H1-headnote-3">
+            <lg n="1" xml:id="spp-M24055H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M24055H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M24055H1-line-1" n="1">O spotless paper, fair and white!</l>
+            <l xml:id="swift-M24055H1-line-2" n="2">On whom, by force, constrain'd I write,</l>
+            <l xml:id="swift-M24055H1-line-3" n="3">How cruel am I to destroy</l>
+            <l xml:id="swift-M24055H1-line-4" n="4">Thy purity, to please a boy?</l>
+            <l xml:id="swift-M24055H1-line-5" n="5">Ungrateful I, thus to abuse</l>
+            <l xml:id="swift-M24055H1-line-6" n="6">The fairest servant of the Muse.</l>
+            <l xml:id="swift-M24055H1-line-7" n="7">Dear friend, to whom I oft impart</l>
+            <l xml:id="swift-M24055H1-line-8" n="8">The choicest secrets of my heart;</l>
+            <l xml:id="swift-M24055H1-line-9" n="9">Ah, what atonement can be made</l>
+            <l xml:id="swift-M24055H1-line-10" n="10">For spotless innocence betray'd?</l>
+            <l xml:id="swift-M24055H1-line-11" n="11">How fair, how lovely didst thou show,</l>
+            <l xml:id="swift-M24055H1-line-12" n="12">Like lilly'd banks, or falling snow!</l>
+            <l xml:id="swift-M24055H1-line-13" n="13">But now, alas! become my prey,</l>
+            <l xml:id="swift-M24055H1-line-14" n="14">No floods can wash thy stains away;</l>
+            <l xml:id="swift-M24055H1-line-15" n="15">Yet this small comfort I can give,</l>
+            <l xml:id="swift-M24055H1-line-16" n="16">That which destroy'd, shall make thee live.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>on Reviving y<hi rend="superscript">e</hi> K<hi rend="superscript">ts</hi> of the B</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 14JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="389-040L">
+          <head type="note" n="1" xml:id="spp-389-040L-headnote-1">
+            <lg n="1" xml:id="spp-389-040L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-040L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-389-040L-headnote-2">
+            <lg n="1" xml:id="spp-389-040L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-040L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-389-040L-headnote-3">
+            <lg n="1" xml:id="spp-389-040L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-389-040L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-389-040L-line-1" n="1">Quoth R──n or Ribbons, I see, are to few</l>
+            <l xml:id="swift-389-040L-line-2" n="2">S<hi rend="superscript">t</hi> Andrews y<hi rend="superscript">e</hi> green &amp; S<hi rend="superscript">t</hi> George's y<hi rend="superscript">e</hi> Blew</l>
+            <l xml:id="swift-389-040L-line-3" n="3">I must find out a red one a Colo<hi rend="superscript">r</hi> more gay</l>
+            <l xml:id="swift-389-040L-line-4" n="4">W<hi rend="superscript">c</hi>h will tye up my Subject's w<hi rend="superscript">th</hi> pride to obey</l>
+            <l xml:id="swift-389-040L-line-5" n="5">Thô the 'Chequre may suffr by Prodigal Donors</l>
+            <l xml:id="swift-389-040L-line-6" n="6">Yet y<hi rend="superscript">e</hi> King's n'ere exhausted y<hi rend="superscript">t</hi> Fountrin of Hon<hi rend="superscript">rs</hi></l>
+            <l xml:id="swift-389-040L-line-7" n="7">Men of more wit than money o<hi rend="superscript">r</hi> Pensions may fit</l>
+            <l xml:id="swift-389-040L-line-8" n="8">But this will bribe those of \<hi rend="italics">add</hi>·more\ money than Wit</l>
+            <l xml:id="swift-389-040L-line-9" n="9">Who w<hi rend="superscript">tḥ</hi> Faith most implicit obeys my Command</l>
+            <l xml:id="swift-389-040L-line-10" n="10">Thô as noisy as <hi rend="underlined">Young</hi>, or as cruel as Sands</l>
+            <l xml:id="swift-389-040L-line-11" n="11">Who soonest leaps over a stick for y<hi rend="superscript">e</hi> King</l>
+            <l xml:id="swift-389-040L-line-12" n="12">Shall be qualified best for a dog in a string.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

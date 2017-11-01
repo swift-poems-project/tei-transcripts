@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Life and Genuine Character of Dr Swift</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="545-ROGP">
+          <head type="note" n="1" xml:id="spp-545-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-1-line-group-1-line-1">WRITTEN BY HIMSELF&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-545-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-2-line-group-1-line-1">TO THE READER</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-545-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-3-line-group-1-line-1">This poetical account of the life and character of the Reverend Dean Swift, so celebrated through the world for his many ingenious writings, was occasioned by a maxim of Rochefoucauld: and is now published from the author's last corrected copy, being dedicated by the publisher, to Alexander Pope, of Twickenham, Esq.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-545-ROGP-headnote-4">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-4-line-group-1-line-1">To ALEXANDER POPE, Esq., of Twickenham in the county of Middlesex.</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-545-ROGP-headnote-5">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-5-line-group-1-line-1">As you have been long an intimate friend of the author of the following poem, I thought you would not be displeased with being informed of some particulars, how he came to write it, and how I, very innocently, procured a copy. It seems the Dean, in conversation with some friends, said, he could guess the discourse of the world concerning his character after his death, and thought it might be no improper subject for a poem. This happened above a year before he finished it; for it was written by small pieces, just as leisure or humour allowed him. He showed some parts of it to several friends, and when it was completed, he seldom refused the sight of it to any visitor: so that, probably, it has been perused by fifty persons; which, being against his usual practice, many people judged, likely enough, that he had a desire to make the people of Dublin impatient to see it published, and at the same time resolved to disappoint them; for, he would never be prevailed on to grant a copy, and yet several lines were retained by memory, and are often repeated in Dublin. It is thought, that one of his servants in whom he had great confidence, and who had access to his closet, took an opportunity, while his master was riding some miles out of town, to transcribe the whole poem: and it is probable, that the servant lent it to others, who were not trusty (as it is generally the case). By this accident, I, having got a very correct copy from a friend in Dublin, lie under no obligation to conceal it. I have shown it to very good judges, and friends of the Dean, (if I may venture to say so to you, who are such a superior judge and poet), who are well acquainted with the author's style and manner, and they all allow it to be genuine, as well as perfectly finished and correct; his particular genius appearing in every line, together with his peculiar way of thinking and writing. I should be very sorry to offend the Dean, although I am a perfect stranger to his person: but since the poem will infallibly be soon printed, either here, or in Dublin, I take myself to have the best title to send it to the press; and I shall direct the printer to commit as few errors as possible. I am, sir, with the greatest respect, Your most obedient and humble servant, L.M.</l>
+            </lg>
+          </head>
+          <head type="note" n="6" xml:id="spp-545-ROGP-headnote-6">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-6-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-6-line-group-1-line-1">From my chambers in the Inner Temple, London. April I, l733.</l>
+            </lg>
+          </head>
+          <head type="note" n="7" xml:id="spp-545-ROGP-headnote-7">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-7-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-7-line-group-1-line-1">THE LIFE AND CHARACTER OF DEAN SWIFT</l>
+            </lg>
+          </head>
+          <head type="note" n="8" xml:id="spp-545-ROGP-headnote-8">
+            <lg n="1" xml:id="spp-545-ROGP-headnote-8-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-545-ROGP-headnote-8-line-group-1-line-1">Upon a maxim in Rochefoucauld</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-545-ROGP-line-1" n="1">Wise Rochefoucauld a maxim writ,</l>
+            <l xml:id="swift-545-ROGP-line-2" n="2">Made up of malice, truth, and wit:</l>
+            <l xml:id="swift-545-ROGP-line-3" n="3">If, what he says be not a joke,</l>
+            <l xml:id="swift-545-ROGP-line-4" n="4">We mortals are strange kind of folk.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-5" n="5"><lb/>But hold── before we farther go,</l>
+            <l xml:id="swift-545-ROGP-line-6" n="6">'Tis fit the maxim we should know.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-7" n="7"><lb/>He says, `Whenever fortune sends</l>
+            <l xml:id="swift-545-ROGP-line-8" n="8">Disasters, to our dearest friends,</l>
+            <l xml:id="swift-545-ROGP-line-9" n="9">Although, we outwardly may grieve,</l>
+            <l xml:id="swift-545-ROGP-line-10" n="10">We oft, are laughing in our sleeve.'</l>
+            <l xml:id="swift-545-ROGP-line-11" n="11">And when I think upon't, this minute,</l>
+            <l xml:id="swift-545-ROGP-line-12" n="12">I fancy, there is something in it.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-13" n="13"><lb/>We see a comrade get a fall,</l>
+            <l xml:id="swift-545-ROGP-line-14" n="14">Yet laugh our hearts out, one and all.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-15" n="15"><lb/>Tom for a wealthy wife looks round,</l>
+            <l xml:id="swift-545-ROGP-line-16" n="16">A nymph, that brings ten thousand pound:</l>
+            <l xml:id="swift-545-ROGP-line-17" n="17">He nowhere could have better picked;</l>
+            <l xml:id="swift-545-ROGP-line-18" n="18">A rival comes, and Tom── is nicked.</l>
+            <l xml:id="swift-545-ROGP-line-19" n="19">See, how behave his friends professed,</l>
+            <l xml:id="swift-545-ROGP-line-20" n="20">They turn the matter to a jest;</l>
+            <l xml:id="swift-545-ROGP-line-21" n="21">Loll out their tongues, and thus they talk,</l>
+            <l xml:id="swift-545-ROGP-line-22" n="22">`Poor Tom has got a plaguy balk!'</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-23" n="23"><lb/>I could give instances enough,</l>
+            <l xml:id="swift-545-ROGP-line-24" n="24">That human friendship is but stuff.</l>
+            <l xml:id="swift-545-ROGP-line-25" n="25">Whene'er a flattering puppy cries</l>
+            <l xml:id="swift-545-ROGP-line-26" n="26">You are his dearest friend── he lies:</l>
+            <l xml:id="swift-545-ROGP-line-27" n="27">To lose a guinea at piquet,</l>
+            <l xml:id="swift-545-ROGP-line-28" n="28">Would make him rage, and storm, and fret,</l>
+            <l xml:id="swift-545-ROGP-line-29" n="29">Bring from his heart sincerer groans,</l>
+            <l xml:id="swift-545-ROGP-line-30" n="30">Than if he heard you broke your bones.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-31" n="31"><lb/>Come, tell me truly, would you take well,</l>
+            <l xml:id="swift-545-ROGP-line-32" n="32">Suppose your friend and you, were equal,</l>
+            <l xml:id="swift-545-ROGP-line-33" n="33">To see him always foremost stand,</l>
+            <l xml:id="swift-545-ROGP-line-34" n="34">Affect to take the upper hand,</l>
+            <l xml:id="swift-545-ROGP-line-35" n="35">And strive to pass, in public view,</l>
+            <l xml:id="swift-545-ROGP-line-36" n="36">For a much better man than you?</l>
+            <l xml:id="swift-545-ROGP-line-37" n="37">Envy, I doubt, would powerful prove,</l>
+            <l xml:id="swift-545-ROGP-line-38" n="38">And get the better of your love;</l>
+            <l xml:id="swift-545-ROGP-line-39" n="39">'Twould please your palate, like a feast,</l>
+            <l xml:id="swift-545-ROGP-line-40" n="40">To see him mortified at least.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-41" n="41"><lb/>'Tis true, we talk of friendship much,</l>
+            <l xml:id="swift-545-ROGP-line-42" n="42">But, who are they that can keep touch?</l>
+            <l xml:id="swift-545-ROGP-line-43" n="43">True friendship in two breasts requires</l>
+            <l xml:id="swift-545-ROGP-line-44" n="44">The same aversions, and desires;</l>
+            <l xml:id="swift-545-ROGP-line-45" n="45">My friend should have, when I complain,</l>
+            <l xml:id="swift-545-ROGP-line-46" n="46">A fellow-feeling of my pain.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-47" n="47"><lb/>Yet, by experience, oft we find,</l>
+            <l xml:id="swift-545-ROGP-line-48" n="48">Our friends are of a different mind;</l>
+            <l xml:id="swift-545-ROGP-line-49" n="49">And, were I tortured with the gout, 3}</l>
+            <l xml:id="swift-545-ROGP-line-50" n="50">They'd laugh, to see me make a rout,</l>
+            <l xml:id="swift-545-ROGP-line-51" n="51">Glad, that themselves could walk about.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-52" n="52"><lb/>Let me suppose, two special friends,</l>
+            <l xml:id="swift-545-ROGP-line-53" n="53">And, each to poetry pretends:</l>
+            <l xml:id="swift-545-ROGP-line-54" n="54">Would either poet take it well,</l>
+            <l xml:id="swift-545-ROGP-line-55" n="55">To hear, the other bore the bell?</l>
+            <l xml:id="swift-545-ROGP-line-56" n="56">His rival, for the chiefest reckoned,</l>
+            <l xml:id="swift-545-ROGP-line-57" n="57">Himself, pass only for the second?</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-58" n="58"><lb/>When you are sick, your friends, you say,</l>
+            <l xml:id="swift-545-ROGP-line-59" n="59">Will send their how d'ye's every day:</l>
+            <l xml:id="swift-545-ROGP-line-60" n="60">Alas! that gives you small relief!</l>
+            <l xml:id="swift-545-ROGP-line-61" n="61">They send for manners── not for grief:</l>
+            <l xml:id="swift-545-ROGP-line-62" n="62">Nor, if you died, would fail to go</l>
+            <l xml:id="swift-545-ROGP-line-63" n="63">That evening to a puppet-show:</l>
+            <l xml:id="swift-545-ROGP-line-64" n="64">Yet, come in time to show their loves,</l>
+            <l xml:id="swift-545-ROGP-line-65" n="65">And get a hatband, scarf, and gloves.</l>
+            <l xml:id="swift-545-ROGP-line-66" n="66"><lb/>To make these truths the better known,</l>
+            <l xml:id="swift-545-ROGP-line-67" n="67">Let me suppose the case my own.</l>
+            <l xml:id="swift-545-ROGP-line-68" n="68"><lb/>The day will come, when't shall be said,</l>
+            <l xml:id="swift-545-ROGP-line-69" n="69">`D'ye hear the news? The Dean is dead!</l>
+            <l xml:id="swift-545-ROGP-line-70" n="70">Poor man! he went, all on a sudden!'</l>
+            <l xml:id="swift-545-ROGP-line-71" n="71">He's dropped, and given the crow a pudding!</l>
+            <l xml:id="swift-545-ROGP-line-72" n="72">What money was behind him found?</l>
+            <l xml:id="swift-545-ROGP-line-73" n="73">`I hear about two thousand pound──</l>
+            <l xml:id="swift-545-ROGP-line-74" n="74">'Tis owned he was a man of wit──'</l>
+            <l xml:id="swift-545-ROGP-line-75" n="75">Yet many a foolish thing he writ;</l>
+            <l xml:id="swift-545-ROGP-line-76" n="76">`And, sure he must be deeply learned!'</l>
+            <l xml:id="swift-545-ROGP-line-77" n="77">That's more than ever I discerned;</l>
+            <l xml:id="swift-545-ROGP-line-78" n="78">`I know his nearest friends complain,</l>
+            <l xml:id="swift-545-ROGP-line-79" n="79">He was too airy for a Dean──</l>
+            <l xml:id="swift-545-ROGP-line-80" n="80">He was an honest man, I'll swear'──</l>
+            <l xml:id="swift-545-ROGP-line-81" n="81">Why sir, I differ from you there,</l>
+            <l xml:id="swift-545-ROGP-line-82" n="82">For, I have heard another story,</l>
+            <l xml:id="swift-545-ROGP-line-83" n="83">He was a most confounded Tory!</l>
+            <l xml:id="swift-545-ROGP-line-84" n="84">`Yet here we had a strong report,</l>
+            <l xml:id="swift-545-ROGP-line-85" n="85">That he was well received at court.'</l>
+            <l xml:id="swift-545-ROGP-line-86" n="86">Why, then it was, I do assert,</l>
+            <l xml:id="swift-545-ROGP-line-87" n="87">Their goodness, more than his desert.</l>
+            <l xml:id="swift-545-ROGP-line-88" n="88">He grew, or else his comrades lied,</l>
+            <l xml:id="swift-545-ROGP-line-89" n="89">Confounded dull, before he died.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-90" n="90"><lb/>He hoped to have a lucky hit, 3}</l>
+            <l xml:id="swift-545-ROGP-line-91" n="91">Some medals sent him for his wit;</l>
+            <l xml:id="swift-545-ROGP-line-92" n="92">But, truly there the Dean was bit.</l>
+            <l xml:id="swift-545-ROGP-line-93" n="93">`And yet, I think, for all your jokes,</l>
+            <l xml:id="swift-545-ROGP-line-94" n="94">His claim as good as other folks'.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-95" n="95"><lb/>`Must we the Drapier then forget?</l>
+            <l xml:id="swift-545-ROGP-line-96" n="96">Is not our nation in his debt?</l>
+            <l xml:id="swift-545-ROGP-line-97" n="97">'Twas he that writ the Drapier's Letters!'</l>
+            <l xml:id="swift-545-ROGP-line-98" n="98">He should have left them for his betters;</l>
+            <l xml:id="swift-545-ROGP-line-99" n="99">We had a hundred abler men,</l>
+            <l xml:id="swift-545-ROGP-line-100" n="100">Nor need depend upon his pen.</l>
+            <l xml:id="swift-545-ROGP-line-101" n="101">Say what you will about his reading,</l>
+            <l xml:id="swift-545-ROGP-line-102" n="102">You never can defend his breeding!</l>
+            <l xml:id="swift-545-ROGP-line-103" n="103">Who, in his satires running riot,</l>
+            <l xml:id="swift-545-ROGP-line-104" n="104">Could never leave the world in quiet;</l>
+            <l xml:id="swift-545-ROGP-line-105" n="105">Attacking, when he took the whim,</l>
+            <l xml:id="swift-545-ROGP-line-106" n="106">Court, city, camp, all one to him.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-107" n="107"><lb/>But, why would he, except he slobbered,</l>
+            <l xml:id="swift-545-ROGP-line-108" n="108">Offend our patriot, great Sir Robert,</l>
+            <l xml:id="swift-545-ROGP-line-109" n="109">Whose councils aid the sovereign power,</l>
+            <l xml:id="swift-545-ROGP-line-110" n="110">To save the nation every hour?</l>
+            <l xml:id="swift-545-ROGP-line-111" n="111">What scenes of evil he unravels,</l>
+            <l xml:id="swift-545-ROGP-line-112" n="112">In satires, libels, lying travels!</l>
+            <l xml:id="swift-545-ROGP-line-113" n="113">Not sparing his own clergy-cloth,</l>
+            <l xml:id="swift-545-ROGP-line-114" n="114">But, eats into it, like a moth!</l>
+            <l xml:id="swift-545-ROGP-line-115" n="115">`If he makes mankind bad as elves,</l>
+            <l xml:id="swift-545-ROGP-line-116" n="116">I answer, they may thank themselves;</l>
+            <l xml:id="swift-545-ROGP-line-117" n="117">If vice can ever be abashed,</l>
+            <l xml:id="swift-545-ROGP-line-118" n="118">It must be ridiculed, or lashed.'</l>
+            <l xml:id="swift-545-ROGP-line-119" n="119">But, if I chance to make a slip,</l>
+            <l xml:id="swift-545-ROGP-line-120" n="120">What right had he to hold the whip?</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-121" n="121"><lb/>`If you resent it, who's to blame?</l>
+            <l xml:id="swift-545-ROGP-line-122" n="122">He neither knew you, nor your name;</l>
+            <l xml:id="swift-545-ROGP-line-123" n="123">Should vice expect to 'scape rebuke,</l>
+            <l xml:id="swift-545-ROGP-line-124" n="124">Because its owner is a duke?</l>
+            <l xml:id="swift-545-ROGP-line-125" n="125">Vice is a vermin; sportsmen say 3}</l>
+            <l xml:id="swift-545-ROGP-line-126" n="126">No vermin can demand fair play,</l>
+            <l xml:id="swift-545-ROGP-line-127" n="127">But, every hand may justly slay.'</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-128" n="128"><lb/>I envy not the wits who write</l>
+            <l xml:id="swift-545-ROGP-line-129" n="129">Merely to gratify their spite;</l>
+            <l xml:id="swift-545-ROGP-line-130" n="130">Thus did the Dean: his only scope</l>
+            <l xml:id="swift-545-ROGP-line-131" n="131">Was, to be held a misanthrope.</l>
+            <l xml:id="swift-545-ROGP-line-132" n="132">This into general odium drew him,</l>
+            <l xml:id="swift-545-ROGP-line-133" n="133">Which if he liked, much good may do him:</l>
+            <l xml:id="swift-545-ROGP-line-134" n="134">This gave him enemies in plenty,</l>
+            <l xml:id="swift-545-ROGP-line-135" n="135">Throughout two realms nineteen in twenty.</l>
+            <l xml:id="swift-545-ROGP-line-136" n="136">His zeal was not to lash our crimes,</l>
+            <l xml:id="swift-545-ROGP-line-137" n="137">But, discontent against the times;</l>
+            <l xml:id="swift-545-ROGP-line-138" n="138">For, had we made him timely offers,</l>
+            <l xml:id="swift-545-ROGP-line-139" n="139">To raise his post, or fill his coffers,</l>
+            <l xml:id="swift-545-ROGP-line-140" n="140">Perhaps he might have truckled down,</l>
+            <l xml:id="swift-545-ROGP-line-141" n="141">Like other brethren of his gown,</l>
+            <l xml:id="swift-545-ROGP-line-142" n="142">For party he would scarce have bled:</l>
+            <l xml:id="swift-545-ROGP-line-143" n="143">I say no more── because he's dead.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-144" n="144"><lb/>`But who could charge him, to his face,</l>
+            <l xml:id="swift-545-ROGP-line-145" n="145">That e'er he cringed to men in place?</l>
+            <l xml:id="swift-545-ROGP-line-146" n="146">His principles, of ancient date,</l>
+            <l xml:id="swift-545-ROGP-line-147" n="147">Ill suit with those professed of late:</l>
+            <l xml:id="swift-545-ROGP-line-148" n="148">The Pope, or Calvin he'd oppose,</l>
+            <l xml:id="swift-545-ROGP-line-149" n="149">And thought they both were equal foes:</l>
+            <l xml:id="swift-545-ROGP-line-150" n="150">That church and state had suffered more</l>
+            <l xml:id="swift-545-ROGP-line-151" n="151">By Calvin, than the Scarlet Whore:</l>
+            <l xml:id="swift-545-ROGP-line-152" n="152">Thought popish and fanatic zeal,</l>
+            <l xml:id="swift-545-ROGP-line-153" n="153">Both bitter foes to Britain's weal.</l>
+            <l xml:id="swift-545-ROGP-line-154" n="154">The Pope would of our faith bereave us,</l>
+            <l xml:id="swift-545-ROGP-line-155" n="155">But, still our monarchy would leave us.</l>
+            <l xml:id="swift-545-ROGP-line-156" n="156">Not so, the vile fanatic crew;</l>
+            <l xml:id="swift-545-ROGP-line-157" n="157">That ruined church and monarch too.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-158" n="158"><lb/>`Supposing these reflections just;</l>
+            <l xml:id="swift-545-ROGP-line-159" n="159">We should indulge the Dean's disgust,</l>
+            <l xml:id="swift-545-ROGP-line-160" n="160">Who saw this factious tribe caressed,</l>
+            <l xml:id="swift-545-ROGP-line-161" n="161">And lovers of the church distressed:</l>
+            <l xml:id="swift-545-ROGP-line-162" n="162">The patrons of the good old cause,</l>
+            <l xml:id="swift-545-ROGP-line-163" n="163">In senates sit, at making laws;</l>
+            <l xml:id="swift-545-ROGP-line-164" n="164">The most malignant of the herd,</l>
+            <l xml:id="swift-545-ROGP-line-165" n="165">In surest way to be preferred;</l>
+            <l xml:id="swift-545-ROGP-line-166" n="166">And preachers, find the better quarter,</l>
+            <l xml:id="swift-545-ROGP-line-167" n="167">For railing at the royal martyr.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-168" n="168"><lb/>`Whole swarms of sects, with grief, he saw</l>
+            <l xml:id="swift-545-ROGP-line-169" n="169">More favoured, than the church by law:</l>
+            <l xml:id="swift-545-ROGP-line-170" n="170">Thought Protestant too good a name</l>
+            <l xml:id="swift-545-ROGP-line-171" n="171">For canting hypocrites to claim,</l>
+            <l xml:id="swift-545-ROGP-line-172" n="172">Whose protestation hides a sting</l>
+            <l xml:id="swift-545-ROGP-line-173" n="173">Destructive to the church and king:</l>
+            <l xml:id="swift-545-ROGP-line-174" n="174">Which might as well, in his opinion,</l>
+            <l xml:id="swift-545-ROGP-line-175" n="175">Become an atheist, or Socinian.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-176" n="176"><lb/>`A Protestant's a special clinker;</l>
+            <l xml:id="swift-545-ROGP-line-177" n="177">It serves for sceptic, and freethinker,</l>
+            <l xml:id="swift-545-ROGP-line-178" n="178">It serves for stubble, hay, and wood,</l>
+            <l xml:id="swift-545-ROGP-line-179" n="179">For everything, but what it should.'</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-180" n="180"><lb/>What writings had he left behind?</l>
+            <l xml:id="swift-545-ROGP-line-181" n="181">`I hear, they're of a different kind:</l>
+            <l xml:id="swift-545-ROGP-line-182" n="182">A few, in verse; but most, in prose.'</l>
+            <l xml:id="swift-545-ROGP-line-183" n="183">Some highflown pamphlets, I suppose:</l>
+            <l xml:id="swift-545-ROGP-line-184" n="184">All scribbled in the worst of times,</l>
+            <l xml:id="swift-545-ROGP-line-185" n="185">To palliate his friend Oxford's crimes,</l>
+            <l xml:id="swift-545-ROGP-line-186" n="186">To praise Queen Anne, nay more, defend her,</l>
+            <l xml:id="swift-545-ROGP-line-187" n="187">As never favouring the Pretender:</l>
+            <l xml:id="swift-545-ROGP-line-188" n="188">Or libels yet concealed from sight,</l>
+            <l xml:id="swift-545-ROGP-line-189" n="189">Against the court to show his spite.</l>
+            <l xml:id="swift-545-ROGP-line-190" n="190">Perhaps his Travels, part the third;</l>
+            <l xml:id="swift-545-ROGP-line-191" n="191">A lie, at every second word:</l>
+            <l xml:id="swift-545-ROGP-line-192" n="192">Offensive to a loyal ear:</l>
+            <l xml:id="swift-545-ROGP-line-193" n="193">But── not one sermon, you may swear.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-194" n="194"><lb/>`Sir, our accounts are different quite,</l>
+            <l xml:id="swift-545-ROGP-line-195" n="195">And your conjectures are not right;</l>
+            <l xml:id="swift-545-ROGP-line-196" n="196">'Tis plain, his writings were designed</l>
+            <l xml:id="swift-545-ROGP-line-197" n="197">To please, and to reform mankind;</l>
+            <l xml:id="swift-545-ROGP-line-198" n="198">And, if he often missed his aim,</l>
+            <l xml:id="swift-545-ROGP-line-199" n="199">The world must own it, to their shame;</l>
+            <l xml:id="swift-545-ROGP-line-200" n="200">The praise is his, and theirs the blame.</l>
+            <l rend="indent(1)" xml:id="swift-545-ROGP-line-201" n="201"><lb/>`Then, since you dread no further lashes,</l>
+            <l xml:id="swift-545-ROGP-line-202" n="202">You freely may forgive his ashes.'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

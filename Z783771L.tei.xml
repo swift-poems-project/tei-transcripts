@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The most impudent Democritus of this Age.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 6JE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z783771L">
+          <head type="note" n="1" xml:id="spp-Z783771L-headnote-1">
+            <lg n="1" xml:id="spp-Z783771L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z783771L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z783771L-headnote-2">
+            <lg n="1" xml:id="spp-Z783771L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z783771L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z783771L-headnote-3">
+            <lg n="1" xml:id="spp-Z783771L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z783771L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z783771L-line-1" n="1">If Hell's the Sink of all the foulest Sin</l>
+            <l xml:id="swift-Z783771L-line-2" n="2">Seek it no farther than thy Breast within.</l>
+            <l xml:id="swift-Z783771L-line-3" n="3">Nor mention Rome, Britannia's what you mean</l>
+            <l xml:id="swift-Z783771L-line-4" n="4">For Rome's the Heaven of St Patricks Dean</l>
+            <l xml:id="swift-Z783771L-line-5" n="5">And yet you'd lash the place you like so well</l>
+            <l xml:id="swift-Z783771L-line-6" n="6">In Hopes of rising to this British Hell;</l>
+            <l xml:id="swift-Z783771L-line-7" n="7">Nay worse than Hell if George's palace were</l>
+            <l xml:id="swift-Z783771L-line-8" n="8">You'd wish to be the meanest Devil there</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN ANSWER <hi rend="small-caps">TO</hi> A SCANDALOUS POEM,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="DMills 10MY15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-617M15W2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="617M15W2">
+          <head type="note" n="1" xml:id="spp-617M15W2-headnote-1">
+            <lg n="1" xml:id="spp-617M15W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-617M15W2-headnote-1-line-group-1-line-1"><hi rend="italics">Wherein the Author most audaciously presumes to cast an indignity upon their highnesses the Clouds, by comparing them to a woman. Written by </hi>D<hi rend="small-caps">ERMOT</hi> O'N<hi rend="small-caps">EPHELY</hi>, <hi rend="italics">Chief Cape of Howth</hi>.<ref target="#spp-617M15W2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-617M15W2-footnote-headnote-1" place="foot">The highest point of Howth is called the Cape of Howth.── F</note> BY DR SWIFT.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-617M15W2-headnote-2">
+            <lg n="1" xml:id="spp-617M15W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-617M15W2-headnote-2-line-group-1-line-1">ADVERTISEMENT FROM THE CLOUDS.N.B. The following answer to that scurrilous libel against us, should have been published long ago in our own justification: But it was advised, that, considering the high importance of the subject, it should be deferred until the meeting of the General Assembly of the Nation.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-617M15W2-headnote-3">
+            <lg n="1" xml:id="spp-617M15W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-617M15W2-headnote-3-line-group-1-line-1">[Two passages within crotchets are added to this poem, from a copy found amongst Mr Swift's papers. It is indorsed, “Quære, should it go.” And a little lower, “More, but of no use.”]</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-617M15W2-line-1" n="1">P<hi rend="small-caps">RESUMPTUOUS</hi> bard! how could you dare</l>
+            <l xml:id="swift-617M15W2-line-2" n="2">A woman with a cloud compare?</l>
+            <l xml:id="swift-617M15W2-line-3" n="3">Strange pride and insolence you shew,</l>
+            <l xml:id="swift-617M15W2-line-4" n="4">Inferior mortals there below.</l>
+            <l xml:id="swift-617M15W2-line-5" n="5">And is our thunder in your ears</l>
+            <l xml:id="swift-617M15W2-line-6" n="6">So frequent or so loud as theirs?</l>
+            <l xml:id="swift-617M15W2-line-7" n="7">Alas! our thunder soon goes out;</l>
+            <l xml:id="swift-617M15W2-line-8" n="8">And only makes you more devout.</l>
+            <l xml:id="swift-617M15W2-line-9" n="9">Then is not female clatter worse,</l>
+            <l xml:id="swift-617M15W2-line-10" n="10">That drives you not to pray, but curse?</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-11" n="11">We hardly thunder thrice a-year;</l>
+            <l xml:id="swift-617M15W2-line-12" n="12">The bolt discharged, the sky grows clear;</l>
+            <l xml:id="swift-617M15W2-line-13" n="13">But every sublunary dowdy,</l>
+            <l xml:id="swift-617M15W2-line-14" n="14">The more she scolds, the more she's cloudy.</l>
+            <l xml:id="swift-617M15W2-line-15" n="15">[How useful were a woman's thunder,</l>
+            <l xml:id="swift-617M15W2-line-16" n="16">If she, like us, would burst asunder!</l>
+            <l xml:id="swift-617M15W2-line-17" n="17">Yet, though her stays hath often cursed her,</l>
+            <l xml:id="swift-617M15W2-line-18" n="18">And, whisp'ring, wish'd the devil burst her:</l>
+            <l xml:id="swift-617M15W2-line-19" n="19">For hourly thund'ring in his face,</l>
+            <l xml:id="swift-617M15W2-line-20" n="20">She ne'er was known to burst a lace.]</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-21" n="21">Some critic may object, perhaps,</l>
+            <l xml:id="swift-617M15W2-line-22" n="22">That clouds are blamed for giving claps;</l>
+            <l xml:id="swift-617M15W2-line-23" n="23">But what, alas! are claps ethereal,</l>
+            <l xml:id="swift-617M15W2-line-24" n="24">Compared for mischief to venereal?</l>
+            <l xml:id="swift-617M15W2-line-25" n="25">Can clouds give buboes, ulcers, blotches,</l>
+            <l xml:id="swift-617M15W2-line-26" n="26">Or from your noses dig out notches?</l>
+            <l xml:id="swift-617M15W2-line-27" n="27">We leave the body sweet and sound;</l>
+            <l xml:id="swift-617M15W2-line-28" n="28">We kill, 'tis true, but never wound.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-29" n="29">You know a cloudy sky bespeaks</l>
+            <l xml:id="swift-617M15W2-line-30" n="30">Fair weather when the morning breaks;</l>
+            <l xml:id="swift-617M15W2-line-31" n="31">But women in a cloudy plight,</l>
+            <l xml:id="swift-617M15W2-line-32" n="32">Foretell a storm to last till night.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-33" n="33">A cloud in proper season pours</l>
+            <l xml:id="swift-617M15W2-line-34" n="34">His blessings down in fruitful showers;</l>
+            <l xml:id="swift-617M15W2-line-35" n="35">But woman was by fate design'd</l>
+            <l xml:id="swift-617M15W2-line-36" n="36">To pour down curses on mankind.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-37" n="37">When Sirius o'er the welkin rages,</l>
+            <l xml:id="swift-617M15W2-line-38" n="38">Our kindly help his fire assuages;</l>
+            <l xml:id="swift-617M15W2-line-39" n="39">But woman is a cursed inflamer,</l>
+            <l xml:id="swift-617M15W2-line-40" n="40">No parish ducking-stool can tame her:</l>
+            <l xml:id="swift-617M15W2-line-41" n="41">To kindle strife, dame Nature taught her;</l>
+            <l xml:id="swift-617M15W2-line-42" n="42">Like fireworks, she can burn in water.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-43" n="43">For fickleness how durst you blame us,</l>
+            <l xml:id="swift-617M15W2-line-44" n="44">Who for our constancy are famous?</l>
+            <l xml:id="swift-617M15W2-line-45" n="45">om.</l>
+            <l xml:id="swift-617M15W2-line-46" n="46">om.</l>
+            <l xml:id="swift-617M15W2-line-47" n="47">om.</l>
+            <l xml:id="swift-617M15W2-line-48" n="48">om.</l>
+            <l xml:id="swift-617M15W2-line-49" n="49">You'll see a cloud in gentle weather</l>
+            <l xml:id="swift-617M15W2-line-50" n="50">Keep the same face an hour together;</l>
+            <l xml:id="swift-617M15W2-line-51" n="51">While women, if it could be reckon'd,</l>
+            <l xml:id="swift-617M15W2-line-52" n="52">Change every feature every second.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-53" n="53">Observe our figure in the morning,</l>
+            <l xml:id="swift-617M15W2-line-54" n="54">Of foul or fair we give you warning;</l>
+            <l xml:id="swift-617M15W2-line-55" n="55">But can you guess from women's air</l>
+            <l xml:id="swift-617M15W2-line-56" n="56">One minute, whether foul or fair?</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-57" n="57">Go read in ancient books enroll'd</l>
+            <l xml:id="swift-617M15W2-line-58" n="58">What honours we possess'd of old.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-59" n="59">To disappoint Ixion's rape</l>
+            <l xml:id="swift-617M15W2-line-60" n="60">Jove dress'd a cloud in Juno's shape;</l>
+            <l xml:id="swift-617M15W2-line-61" n="61">Which when he had enjoy'd, he swore,</l>
+            <l xml:id="swift-617M15W2-line-62" n="62">No goddess could have pleased him more;</l>
+            <l xml:id="swift-617M15W2-line-63" n="63">No difference could he find between</l>
+            <l xml:id="swift-617M15W2-line-64" n="64">His cloud and Jove's imperial queen;</l>
+            <l xml:id="swift-617M15W2-line-65" n="65">His cloud produced a race of Centaurs,</l>
+            <l xml:id="swift-617M15W2-line-66" n="66">Famed for a thousand bold adventures;</l>
+            <l xml:id="swift-617M15W2-line-67" n="67">From us descended <hi rend="italics">ab origine</hi>,</l>
+            <l xml:id="swift-617M15W2-line-68" n="68">By learned authors, called <hi rend="italics">nubigen</hi>\<hi rend="italics">ae</hi>\;</l>
+            <l xml:id="swift-617M15W2-line-69" n="69">But say, what earthly nymph do you know,</l>
+            <l xml:id="swift-617M15W2-line-70" n="70">So beautiful to pass for Juno?</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-71" n="71">Before Æneas durst aspire</l>
+            <l xml:id="swift-617M15W2-line-72" n="72">To court her majesty of Tyre,</l>
+            <l xml:id="swift-617M15W2-line-73" n="73">His mother begg'd of us to dress him,</l>
+            <l xml:id="swift-617M15W2-line-74" n="74">That Dido might the more caress him:</l>
+            <l xml:id="swift-617M15W2-line-75" n="75">A coat we gave him, dyed in grain,</l>
+            <l xml:id="swift-617M15W2-line-76" n="76">A flaxen wig, and clouded cane,</l>
+            <l xml:id="swift-617M15W2-line-77" n="77">(The wig was powder'd round with sleet,</l>
+            <l xml:id="swift-617M15W2-line-78" n="78">Which fell in clouds beneath his feet)</l>
+            <l xml:id="swift-617M15W2-line-79" n="79">With which he made a tearing show;</l>
+            <l xml:id="swift-617M15W2-line-80" n="80">And Dido quickly smoked the beau.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-81" n="81">Among your females make inquiries,</l>
+            <l xml:id="swift-617M15W2-line-82" n="82">What nymph on earth so fair as Iris?</l>
+            <l xml:id="swift-617M15W2-line-83" n="83">With heavenly beauty so endow'd?</l>
+            <l xml:id="swift-617M15W2-line-84" n="84">And yet her father is a cloud.</l>
+            <l xml:id="swift-617M15W2-line-85" n="85">We dress'd her in a gold brocade,</l>
+            <l xml:id="swift-617M15W2-line-86" n="86">Befitting Juno's favorite maid.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-87" n="87">'Tis known, that Socrates the wise</l>
+            <l xml:id="swift-617M15W2-line-88" n="88">Adored us clouds as deities:</l>
+            <l xml:id="swift-617M15W2-line-89" n="89">To us he made his daily prayers,</l>
+            <l xml:id="swift-617M15W2-line-90" n="90">As Aristophanes declares;</l>
+            <l xml:id="swift-617M15W2-line-91" n="91">From Jupiter took all dominion,</l>
+            <l xml:id="swift-617M15W2-line-92" n="92">And died defending his opinion.</l>
+            <l xml:id="swift-617M15W2-line-93" n="93">By his authority 'tis plain</l>
+            <l xml:id="swift-617M15W2-line-94" n="94">You worship other gods in vain;</l>
+            <l xml:id="swift-617M15W2-line-95" n="95">And from your own experience know</l>
+            <l xml:id="swift-617M15W2-line-96" n="96">We govern all things there below.</l>
+            <l xml:id="swift-617M15W2-line-97" n="97">You follow where we please to guide;</l>
+            <l xml:id="swift-617M15W2-line-98" n="98">O'er all your passions we preside,</l>
+            <l xml:id="swift-617M15W2-line-99" n="99">Can raise them up, or sink them down,</l>
+            <l xml:id="swift-617M15W2-line-100" n="100">As we think fit to smile or frown:</l>
+            <l xml:id="swift-617M15W2-line-101" n="101">And, just as we dispose your brain,</l>
+            <l xml:id="swift-617M15W2-line-102" n="102">Are witty, dull, rejoice, complain.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-103" n="103">Compare us then to female race!</l>
+            <l xml:id="swift-617M15W2-line-104" n="104">We, to whom all the gods give place!</l>
+            <l xml:id="swift-617M15W2-line-105" n="105">Who better challenge your allegiance,</l>
+            <l xml:id="swift-617M15W2-line-106" n="106">Because we dwell in higher regions.</l>
+            <l xml:id="swift-617M15W2-line-107" n="107">You find the gods in Homer dwell</l>
+            <l xml:id="swift-617M15W2-line-108" n="108">In seas and streams, or low as Hell:</l>
+            <l xml:id="swift-617M15W2-line-109" n="109">Ev'n Jove, and Mercury his pimp,</l>
+            <l xml:id="swift-617M15W2-line-110" n="110">No higher climb than mount Olymp.</l>
+            <l xml:id="swift-617M15W2-line-111" n="111">Who makes you think the clouds he pierces?</l>
+            <l xml:id="swift-617M15W2-line-112" n="112">He pierce the clouds! he kiss their a──es;</l>
+            <l xml:id="swift-617M15W2-line-113" n="113">While we, o'er Teneriffa placed,</l>
+            <l xml:id="swift-617M15W2-line-114" n="114">Are loftier by a mile at least:</l>
+            <l xml:id="swift-617M15W2-line-115" n="115">And, when Apollo struts on Pindus,</l>
+            <l xml:id="swift-617M15W2-line-116" n="116">We see him from our kitchen windows;</l>
+            <l xml:id="swift-617M15W2-line-117" n="117">Or, to Parnassus looking down,</l>
+            <l xml:id="swift-617M15W2-line-118" n="118">Can piss upon his laurel crown.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-119" n="119">Fate never form'd the gods to fly;</l>
+            <l xml:id="swift-617M15W2-line-120" n="120">In vehicles they mount the sky:</l>
+            <l xml:id="swift-617M15W2-line-121" n="121">When Jove would some fair nymph inveigle,</l>
+            <l xml:id="swift-617M15W2-line-122" n="122">He comes full gallop on his eagle;</l>
+            <l xml:id="swift-617M15W2-line-123" n="123">Though Venus be as light as air,</l>
+            <l xml:id="swift-617M15W2-line-124" n="124">She must have doves to draw her chair;</l>
+            <l xml:id="swift-617M15W2-line-125" n="125">om.</l>
+            <l xml:id="swift-617M15W2-line-126" n="126">om.</l>
+            <l xml:id="swift-617M15W2-line-127" n="127">om.</l>
+            <l xml:id="swift-617M15W2-line-128" n="128">om.</l>
+            <l xml:id="swift-617M15W2-line-129" n="129">Apollo stirs not out of door,</l>
+            <l xml:id="swift-617M15W2-line-130" n="130">Without his lacquer'd coach and four;</l>
+            <l xml:id="swift-617M15W2-line-131" n="131">And jealous Juno, ever snarling,</l>
+            <l xml:id="swift-617M15W2-line-132" n="132">Is drawn by peacocks in her berlin:</l>
+            <l xml:id="swift-617M15W2-line-133" n="133">But we can fly where'er we please,</l>
+            <l xml:id="swift-617M15W2-line-134" n="134">O'er cities, rivers, hills, and seas:</l>
+            <l xml:id="swift-617M15W2-line-135" n="135">From east to west the world we roam,</l>
+            <l xml:id="swift-617M15W2-line-136" n="136">And in all climates are at home;</l>
+            <l xml:id="swift-617M15W2-line-137" n="137">With care provide you as we go</l>
+            <l xml:id="swift-617M15W2-line-138" n="138">With sunshine, rain, and hail, or snow.</l>
+            <l xml:id="swift-617M15W2-line-139" n="139">You, when it rains, like fools, believe</l>
+            <l xml:id="swift-617M15W2-line-140" n="140">Jove pisses on you through a sieve:</l>
+            <l xml:id="swift-617M15W2-line-141" n="141">An idle tale, 'tis no such matter;</l>
+            <l xml:id="swift-617M15W2-line-142" n="142">We only dip a spunge in water,</l>
+            <l xml:id="swift-617M15W2-line-143" n="143">Then squeeze it close between our thumbs,</l>
+            <l xml:id="swift-617M15W2-line-144" n="144">And shake it well, and down it comes;</l>
+            <l xml:id="swift-617M15W2-line-145" n="145">As you shall to your sorrow know;</l>
+            <l xml:id="swift-617M15W2-line-146" n="146">We'll watch your steps where'er you go;</l>
+            <l xml:id="swift-617M15W2-line-147" n="147">And, since we find you walk a-foot,</l>
+            <l xml:id="swift-617M15W2-line-148" n="148">We'll soundly souse your frieze surtout.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-149" n="149">'Tis but by our peculiar grace,</l>
+            <l xml:id="swift-617M15W2-line-150" n="150">That Phœbus ever shews his face;</l>
+            <l xml:id="swift-617M15W2-line-151" n="151">For, when we please, we open wide</l>
+            <l xml:id="swift-617M15W2-line-152" n="152">Our curtains blue from side to side;</l>
+            <l xml:id="swift-617M15W2-line-153" n="153">And then how saucily he shews</l>
+            <l xml:id="swift-617M15W2-line-154" n="154">His brazen face and fiery nose;</l>
+            <l xml:id="swift-617M15W2-line-155" n="155">And gives himself a haughty air,</l>
+            <l xml:id="swift-617M15W2-line-156" n="156">As if he made the weather fair!</l>
+            <l xml:id="swift-617M15W2-line-157" n="157">'Tis sung, wherever Celia treads,</l>
+            <l xml:id="swift-617M15W2-line-158" n="158">The violets ope their purple heads;</l>
+            <l xml:id="swift-617M15W2-line-159" n="159">The roses blow, the cowslip springs;</l>
+            <l xml:id="swift-617M15W2-line-160" n="160">'Tis sung; but we know better things.</l>
+            <l xml:id="swift-617M15W2-line-161" n="161">'Tis true, a woman on her mettle</l>
+            <l xml:id="swift-617M15W2-line-162" n="162">Will often piss upon a nettle;</l>
+            <l xml:id="swift-617M15W2-line-163" n="163">But though we own she makes it wetter,</l>
+            <l xml:id="swift-617M15W2-line-164" n="164">The nettle never thrives the better;</l>
+            <l xml:id="swift-617M15W2-line-165" n="165">While we, by soft prolific showers,</l>
+            <l xml:id="swift-617M15W2-line-166" n="166">Can every spring produce you flowers.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-167" n="167">Your poets, Chloe's beauty height'ning,</l>
+            <l xml:id="swift-617M15W2-line-168" n="168">Compare her radiant eyes to lightning;</l>
+            <l xml:id="swift-617M15W2-line-169" n="169">And yet I hope 'twill be allow'd,</l>
+            <l xml:id="swift-617M15W2-line-170" n="170">That lightning comes but from a cloud.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-171" n="171">But gods like us have too much sense</l>
+            <l xml:id="swift-617M15W2-line-172" n="172">At poets' flights to take offence;</l>
+            <l xml:id="swift-617M15W2-line-173" n="173">Nor can hyperboles demean us;</l>
+            <l xml:id="swift-617M15W2-line-174" n="174">Each drab has been compared to Venus.</l>
+            <l xml:id="swift-617M15W2-line-175" n="175">We own your verses are melodious;</l>
+            <l xml:id="swift-617M15W2-line-176" n="176">But such comparisons are odious.</l>
+            <l xml:id="swift-617M15W2-line-177" n="177">[Observe the case── I state it thus:</l>
+            <l xml:id="swift-617M15W2-line-178" n="178">Though you compare your trull to us,</l>
+            <l xml:id="swift-617M15W2-line-179" n="179">But think how damnably you err</l>
+            <l xml:id="swift-617M15W2-line-180" n="180">When you compare us clouds to her;</l>
+            <l xml:id="swift-617M15W2-line-181" n="181">From whence you draw such bold conclusions;</l>
+            <l xml:id="swift-617M15W2-line-182" n="182">But poets love profuse allusions.</l>
+            <l xml:id="swift-617M15W2-line-183" n="183">And, if you now so little spare us,</l>
+            <l xml:id="swift-617M15W2-line-184" n="184">Who knows how soon you may compare us</l>
+            <l xml:id="swift-617M15W2-line-185" n="185">To Chartres, Walpole, or a king,</l>
+            <l xml:id="swift-617M15W2-line-186" n="186">If once we let you have your swing.</l>
+            <l xml:id="swift-617M15W2-line-187" n="187">Such a wicked insolence appears</l>
+            <l xml:id="swift-617M15W2-line-188" n="188">Offensive to all pious ears.</l>
+            <l xml:id="swift-617M15W2-line-189" n="189">To flatter women by a metaphor!</l>
+            <l xml:id="swift-617M15W2-line-190" n="190">What profit could you hope to get of her?</l>
+            <l xml:id="swift-617M15W2-line-191" n="191">And, for her sake, turn base detractor</l>
+            <l xml:id="swift-617M15W2-line-192" n="192">Against your greatest benefactor.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-193" n="193">But we shall keep revenge in store</l>
+            <l xml:id="swift-617M15W2-line-194" n="194">If ever you provoke us more:</l>
+            <l xml:id="swift-617M15W2-line-195" n="195">For, since we know you walk a-foot,</l>
+            <l xml:id="swift-617M15W2-line-196" n="196">We'll soundly drench your frieze surtout;</l>
+            <l xml:id="swift-617M15W2-line-197" n="197">Or may we never thunder throw,</l>
+            <l xml:id="swift-617M15W2-line-198" n="198">Nor souse to death a birth-day beau.</l>
+            <l rend="indent(1)" xml:id="swift-617M15W2-line-199" n="199">We own your verses are melodious;</l>
+            <l xml:id="swift-617M15W2-line-200" n="200">But such comparisons are odious.]</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

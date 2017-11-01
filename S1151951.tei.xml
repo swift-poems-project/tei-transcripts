@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER CXXIII.<lb/>  Dr. SHERIDAN to Dr. SWIFT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 22JE04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>JW 9AP06, 24JE16, 2OC16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S1151951">
+          <head type="note" n="1" xml:id="spp-S1151951-headnote-1">
+            <lg n="1" xml:id="spp-S1151951-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1151951-headnote-1-line-group-1-line-1">June 5th, 1736.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S1151951-headnote-2">
+            <lg n="1" xml:id="spp-S1151951-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1151951-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S1151951-headnote-3">
+            <lg n="1" xml:id="spp-S1151951-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1151951-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S1151951-line-1" n="1">My hens are hatching, my house is thatching, my geese a gagling, my wife a dragling, my corn a threshing, my sheep a washing, my turf a drawing, my timber sawing, my gravel-walk raking, my rolling-stone making, my ale a brewing, myself a stewing, my boys a teaching, my webs a bleaching, my daughter's reading, my garden weeding, my lime a burning, my milk a churning.</l>
+            <l xml:id="swift-S1151951-line-2" n="2">In short, all nature seems to be at work,</l>
+            <l xml:id="swift-S1151951-line-3" n="3">Busy as <hi rend="italics">Kouly Kan</hi> against the <hi rend="italics">Turk</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

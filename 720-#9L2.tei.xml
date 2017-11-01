@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">In Stellæ Natalem</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 20JL15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="720-00239L2">
+          <head type="note" n="1" xml:id="spp-720-00239L2-headnote-1">
+            <lg n="1" xml:id="spp-720-00239L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-00239L2-headnote-1-line-group-1-line-1">A. L. 1 page 4to. To Stella. <hi rend="italics">March</hi> 13, 1726</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-720-00239L2-headnote-2">
+            <lg n="1" xml:id="spp-720-00239L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-00239L2-headnote-2-line-group-1-line-1">Madam,</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-720-00239L2-headnote-3">
+            <lg n="1" xml:id="spp-720-00239L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-00239L2-headnote-3-line-group-1-line-1">	This being your Birthday, my unkle ordered me to give my opinion on in a dispute about your age. I have decided it as well as I could in the short time allowed me, and I hope you will excuse any harsh expression in a language which is much more familiar to you, than to</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-720-00239L2-headnote-4">
+            <lg n="1" xml:id="spp-720-00239L2-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-00239L2-headnote-4-line-group-1-line-1">Madam,</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-720-00239L2-headnote-5">
+            <lg n="1" xml:id="spp-720-00239L2-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-00239L2-headnote-5-line-group-1-line-1">Your most obed.</l>
+            </lg>
+          </head>
+          <head type="note" n="6" xml:id="spp-720-00239L2-headnote-6">
+            <lg n="1" xml:id="spp-720-00239L2-headnote-6-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-00239L2-headnote-6-line-group-1-line-1">humble servant.</l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

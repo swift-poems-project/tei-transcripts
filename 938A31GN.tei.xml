@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A </hi>RIDDLE<hi rend="italics">, to Lady</hi> C────t.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 19AP12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938A31GN">
+          <head type="note" n="1" xml:id="spp-938A31GN-headnote-1">
+            <lg n="1" xml:id="spp-938A31GN-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A31GN-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-938A31GN-headnote-2">
+            <lg n="1" xml:id="spp-938A31GN-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A31GN-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-938A31GN-headnote-3">
+            <lg n="1" xml:id="spp-938A31GN-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A31GN-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-938A31GN-line-1" n="1"><hi rend="display-initial">I</hi> Reach all things near me, and far off to boot,</l>
+            <l xml:id="swift-938A31GN-line-2" n="2">Without stretching a finger, or fleeting a foot,</l>
+            <l xml:id="swift-938A31GN-line-3" n="3">I take them all in too, to add to your wonder,</l>
+            <l xml:id="swift-938A31GN-line-4" n="4">Tho' many and various, and large, and asunder.</l>
+            <l xml:id="swift-938A31GN-line-5" n="5">Without jostling or crowding they pass side by side.</l>
+            <l xml:id="swift-938A31GN-line-6" n="6">Thro' a wonderful <hi rend="italics">wicket</hi> not half an inch wide;</l>
+            <l xml:id="swift-938A31GN-line-7" n="7">Tho' I lodge them at ease in a very large store,</l>
+            <l xml:id="swift-938A31GN-line-8" n="8">Of no breadth or length, with a hundred things more.</l>
+            <l xml:id="swift-938A31GN-line-9" n="9">All this I can do, without witchcraft or charm;</l>
+            <l xml:id="swift-938A31GN-line-10" n="10">Tho' sometimes, they say, I bewitch and do harm.</l>
+            <l xml:id="swift-938A31GN-line-11" n="11">Tho' cold I enflame, and tho' quiet invade,</l>
+            <l xml:id="swift-938A31GN-line-12" n="12">And nothing can shield from my spell, but a shade.</l>
+            <l xml:id="swift-938A31GN-line-13" n="13">A thief that has robb'd you or done you disgrace,</l>
+            <l xml:id="swift-938A31GN-line-14" n="14">In magical mirrour I'll shew you his face;</l>
+            <l xml:id="swift-938A31GN-line-15" n="15">Nay, if you'll believe what the poets have said,</l>
+            <l xml:id="swift-938A31GN-line-16" n="16">They'll tell you, I kill and call back the dead;</l>
+            <l xml:id="swift-938A31GN-line-17" n="17">Like conjurors in my circle I dwell,</l>
+            <l xml:id="swift-938A31GN-line-18" n="18">I love to look black too, it heightens my spell,</l>
+            <l xml:id="swift-938A31GN-line-19" n="19">Tho' my magic is mighty in every hue,</l>
+            <l xml:id="swift-938A31GN-line-20" n="20">Who sees all my power, must see it in you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

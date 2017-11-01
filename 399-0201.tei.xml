@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Clever </hi>Tom Clinch<hi rend="italics"> going to be hanged</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SS 13JE90"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> corr. SS; √'d JW 14JL90; √'d JW 16SE95 agt 05P1; √'d JW 9NO95 agt 0251; HN3 added JW 25NO95; ed. JW 25NO05, 26SE08; √'d JW 27SE08 agt WILH; ed. JW 6SE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="399-0201">
+          <head type="note" n="1" xml:id="spp-399-0201-headnote-1">
+            <lg n="1" xml:id="spp-399-0201-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-399-0201-headnote-1-line-group-1-line-1">Written in the Year 1726.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-399-0201-headnote-2">
+            <lg n="1" xml:id="spp-399-0201-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-399-0201-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-399-0201-headnote-3">
+            <lg n="1" xml:id="spp-399-0201-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-399-0201-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-399-0201-line-1" n="1"><hi rend="display-initial">A</hi>S clever <hi rend="italics">Tom Clinch</hi>, while the Rabble was bawling,</l>
+            <l xml:id="swift-399-0201-line-2" n="2">Rode stately through <hi rend="italics">Holbourn</hi>, to die in his Calling;</l>
+            <l xml:id="swift-399-0201-line-3" n="3">He stopt at the <hi rend="italics">George</hi> for a Bottle of Sack,</l>
+            <l xml:id="swift-399-0201-line-4" n="4">And promis'd to pay for it when he'd come back.</l>
+            <l xml:id="swift-399-0201-line-5" n="5">His Waistcoat and Stockings, and Breeches were white,</l>
+            <l xml:id="swift-399-0201-line-6" n="6">His Cap had a new Cherry Ribbon to ty't.</l>
+            <l xml:id="swift-399-0201-line-7" n="7">The Maids to the Doors and the Balconies ran,</l>
+            <l xml:id="swift-399-0201-line-8" n="8">And said, lack-a-day! he's a proper young Man.</l>
+            <l xml:id="swift-399-0201-line-9" n="9">But, as from the Windows the Ladies he spy'd,</l>
+            <l xml:id="swift-399-0201-line-10" n="10">Like a Beau in the Box, he bow'd low on each Side;</l>
+            <l xml:id="swift-399-0201-line-11" n="11">And when his last Speech the loud Hawkers did cry,</l>
+            <l xml:id="swift-399-0201-line-12" n="12">He swore from his Cart, it was all a damn'd Lye.</l>
+            <l xml:id="swift-399-0201-line-13" n="13">The Hangman for Pardon fell down on his Knee;</l>
+            <l xml:id="swift-399-0201-line-14" n="14"><hi rend="italics">Tom</hi> gave him a Kick in the Guts for his Fee.</l>
+            <l xml:id="swift-399-0201-line-15" n="15">Then said, I must speak to the People a little,</l>
+            <l xml:id="swift-399-0201-line-16" n="16">But I'll see you all damn'd before I will <note place="foot">·<hi rend="italics">A Cant Word for confessing at the Gallows</hi>.</note> <hi rend="italics">whittle</hi>.</l>
+            <l xml:id="swift-399-0201-line-17" n="17">My honest Friend <note place="foot">·<hi rend="italics">The noted Thief-Catcher</hi>.</note> <hi rend="italics">Wild</hi>, may he long hold his Place,</l>
+            <l xml:id="swift-399-0201-line-18" n="18">He lengthen'd my Life with a whole Year of Grace.</l>
+            <l xml:id="swift-399-0201-line-19" n="19">Take Courage, dear Comrades, and be not afraid,</l>
+            <l xml:id="swift-399-0201-line-20" n="20">Nor slip this Occasion to follow your Trade.</l>
+            <l xml:id="swift-399-0201-line-21" n="21">My Conscience is clear, and my Spirits are calm,</l>
+            <l xml:id="swift-399-0201-line-22" n="22">And thus I go off without Pray'r-Book or Psalm.</l>
+            <l xml:id="swift-399-0201-line-23" n="23">Then follow the Practice of clever <hi rend="italics">Tom Clinch</hi>,</l>
+            <l xml:id="swift-399-0201-line-24" n="24">Who hung like a Hero, and never would flinch.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

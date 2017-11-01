@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 21DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="P00731D2">
+          <head type="note" n="1" xml:id="spp-P00731D2-headnote-1">
+            <lg n="1" xml:id="spp-P00731D2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00731D2-headnote-1-line-group-1-line-1"><hi rend="italics">Steel</hi> was buried in the Church-Yard of <hi rend="italics">Lithmahegow</hi>, by some of his Friends; who, after the <hi rend="italics">Revolution</hi>, erected a fair <hi rend="italics">Monument</hi>, on <hi rend="italics">Pillars</hi>, over his <hi rend="italics">Grave</hi>, and caused an <hi rend="italics">Epitaph</hi> to be engraved on the <hi rend="italics">Stone</hi>, in Words to this Effect.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-P00731D2-headnote-2">
+            <lg n="1" xml:id="spp-P00731D2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00731D2-headnote-2-line-group-1-line-1"><hi rend="italics">Here lyeth the Body of </hi>Captain David Steel, <hi rend="italics">a Saint, who was murdered by </hi>John Creichton<hi rend="italics"> (with the Date underneath</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-P00731D2-headnote-3">
+            <lg n="1" xml:id="spp-P00731D2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00731D2-headnote-3-line-group-1-line-1">Some of my <hi rend="italics">Friends Burlesqued</hi> this <hi rend="italics">Epitaph</hi>, in the following Manner.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-P00731D2-headnote-4">
+            <lg n="1" xml:id="spp-P00731D2-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00731D2-headnote-4-line-group-1-line-1">Duke <hi rend="italics">Hamilton</hi>, in <hi rend="italics">Queen Ann</hi>'s Time, informed me of this Honour done to that infamous <hi rend="italics">Rebel</hi>, and when I had said to his <hi rend="italics">Grace</hi>, that I wished he had ordered his <hi rend="italics">Foot-Men</hi> to <hi rend="italics">demolish</hi> the <hi rend="italics">Monument</hi>; the Duke answered, he would not have done so for <hi rend="italics">Five Hundred Pounds</hi>, because it would be an Honour to me as long as it lasted.</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-P00731D2-headnote-5">
+            <lg n="1" xml:id="spp-P00731D2-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-P00731D2-headnote-5-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-P00731D2-line-1" n="1">Here lies the Body of Saint <hi rend="italics">Steel</hi>,</l>
+            <l xml:id="swift-P00731D2-line-2" n="2">Murdered by <hi rend="italics">John Creichton</hi>, that <hi rend="italics">Dee'l</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Scriblerian Verses</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="185AROGP">
+          <head type="note" n="1" xml:id="spp-185AROGP-headnote-1">
+            <lg n="1" xml:id="spp-185AROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185AROGP-headnote-1-line-group-1-line-1"><hi rend="italics">1</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-185AROGP-headnote-2">
+            <lg n="1" xml:id="spp-185AROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185AROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-185AROGP-headnote-3">
+            <lg n="1" xml:id="spp-185AROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185AROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-185AROGP-line-1" n="1">The Doctor and Dean, Pope, Parnell and Gay</l>
+            <l xml:id="swift-185AROGP-line-2" n="2">In manner submissive most humbly do pray,</l>
+            <l xml:id="swift-185AROGP-line-3" n="3">That your Lordship would once let your cares all alone</l>
+            <l xml:id="swift-185AROGP-line-4" n="4">And climb the dark stairs to your friends who have none:</l>
+            <l xml:id="swift-185AROGP-line-5" n="5">To your friends who at least have no cares but to please you</l>
+            <l xml:id="swift-185AROGP-line-6" n="6">To a good honest Junta that never will tease you.</l>
+            <l xml:id="swift-185AROGP-line-7" n="7"><lb/>From the Doctor's chamber,</l>
+            <l xml:id="swift-185AROGP-line-8" n="8">past eight.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

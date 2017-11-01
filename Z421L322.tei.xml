@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Lullaby<lb/>  For the D--n of St. <hi rend="italics">P--ks</hi>:<lb/>  OR,<lb/>  The D--r fed with his own Spoon</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 29NO10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z421L322">
+          <head type="note" n="1" xml:id="spp-Z421L322-headnote-1">
+            <lg n="1" xml:id="spp-Z421L322-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z421L322-headnote-1-line-group-1-line-1"><hi rend="italics">To the Tune of the Nurse's Ballad</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z421L322-headnote-2">
+            <lg n="1" xml:id="spp-Z421L322-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z421L322-headnote-2-line-group-1-line-1">Risum teneatis amici.	<hi rend="italics">Hor, de Art, Poet,</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z421L322-headnote-3">
+            <lg n="1" xml:id="spp-Z421L322-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z421L322-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z421L322-line-1" n="1"><hi rend="display-initial">O</hi> MY sweet <hi rend="italics">J──n──n, J──n-----n</hi>,</l>
+            <l xml:id="swift-Z421L322-line-2" n="2">O my sweet <hi rend="italics">J----n-----n S────ftee</hi>,</l>
+            <l xml:id="swift-Z421L322-line-3" n="3">Goody good D────n be so kind,</l>
+            <l xml:id="swift-Z421L322-line-4" n="4">T'accept of a <hi rend="italics">New-Years-Giftee</hi>:</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-5" n="5">Sure thy <hi rend="italics">Lilliput, Lilliput</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-6" n="6">Sure thy <hi rend="italics">Tale of a Tubbee</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-7" n="7">Shews us that you have been Sucking,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-8" n="8">Each MUSES lilly-white Bubbee.</l>
+            <l xml:id="swift-Z421L322-line-9" n="9"><lb/>Chucky chuckow my prety Face,</l>
+            <l xml:id="swift-Z421L322-line-10" n="10">Fair as Alabaster,</l>
+            <l xml:id="swift-Z421L322-line-11" n="11">Kneel on both Knees to his G────ce,</l>
+            <l xml:id="swift-Z421L322-line-12" n="12">And he'll make a B──sh──p of Master:</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-13" n="13">A B──sh──p, indeed, you shall be,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-14" n="14">If you'll quit your Pen, Ink, and Paper;</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-15" n="15">But, if you Rail at G<hi rend="small-caps">REAT </hi>F<hi rend="small-caps">OLKS</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-16" n="16">You still shall continue the <hi rend="italics">Dr──p──r</hi>.</l>
+            <l xml:id="swift-Z421L322-line-17" n="17"><lb/>We was the D──n of St. <hi rend="italics">P──t──k's</hi>,</l>
+            <l xml:id="swift-Z421L322-line-18" n="18">And we was a Womanee Hater;</l>
+            <l xml:id="swift-Z421L322-line-19" n="19">If ever we get us a Wife,</l>
+            <l xml:id="swift-Z421L322-line-20" n="20">Efekins, we'll sorely beat Her:</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-21" n="21">We'll beat her from Morn 'till Night,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-22" n="22">If she do's n't do what we bid her;</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-23" n="23">And when the poor Soul dies for <hi rend="italics">Grief</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-24" n="24">The dear D──n must die a Wid'er.</l>
+            <l xml:id="swift-Z421L322-line-25" n="25"><lb/>Were was a Laugh and a Jest?</l>
+            <l xml:id="swift-Z421L322-line-26" n="26">And, were was a Punn and a Quibble?</l>
+            <l xml:id="swift-Z421L322-line-27" n="27">Were was a Song and a Poem?</l>
+            <l xml:id="swift-Z421L322-line-28" n="28">And, were was a Ballad and Scribble?</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-29" n="29">When <hi rend="italics">People</hi> grow <hi rend="italics">old</hi> they grow <hi rend="italics">peevish</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-30" n="30">And that is thy Case, dear D──nee;</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-31" n="31">You shall have a Nurse and a Cradle,</l>
+            <l rend="indent(1)" xml:id="swift-Z421L322-line-32" n="32">As well as the Child of <hi rend="italics">D──l────ny</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

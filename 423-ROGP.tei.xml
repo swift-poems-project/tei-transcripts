@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">On Lord Carteret's Arms</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="423-ROGP">
+          <head type="note" n="1" xml:id="spp-423-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-423-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-423-ROGP-headnote-1-line-group-1-line-1">GIVEN, AS THE CUSTOM IS, AT EVERY INN WHERE THE LORD LIEUTENANT DINES OR LIES, WITH ALL THE TITLES IN A LONG PARCHMENT&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-423-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-423-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-423-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-423-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-423-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-423-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-423-ROGP-line-1" n="1">'Tis forty to one</l>
+            <l xml:id="swift-423-ROGP-line-2" n="2">When Carteret is gone,</l>
+            <l xml:id="swift-423-ROGP-line-3" n="3">These praises we blot out;</l>
+            <l xml:id="swift-423-ROGP-line-4" n="4">The truth will be got out;</l>
+            <l xml:id="swift-423-ROGP-line-5" n="5">And then we'll be smart on</l>
+            <l xml:id="swift-423-ROGP-line-6" n="6">His Lordship as Wharton.</l>
+            <l xml:id="swift-423-ROGP-line-7" n="7">Or Shrewsbury's Duke</l>
+            <l xml:id="swift-423-ROGP-line-8" n="8">With many rebuke.</l>
+            <l xml:id="swift-423-ROGP-line-9" n="9">Or Bolton the wise</l>
+            <l xml:id="swift-423-ROGP-line-10" n="10">With his Spanish flies.</l>
+            <l xml:id="swift-423-ROGP-line-11" n="11">Or Grafton the deep,</l>
+            <l xml:id="swift-423-ROGP-line-12" n="12">Either drunk or asleep.</l>
+            <l xml:id="swift-423-ROGP-line-13" n="13">These titles and arms</l>
+            <l xml:id="swift-423-ROGP-line-14" n="14">Will then lose their charms,</l>
+            <l xml:id="swift-423-ROGP-line-15" n="15">If somebody's grace</l>
+            <l xml:id="swift-423-ROGP-line-16" n="16">Should come in his place,</l>
+            <l xml:id="swift-423-ROGP-line-17" n="17">And thus it goes round:</l>
+            <l xml:id="swift-423-ROGP-line-18" n="18">We praise and confound.</l>
+            <l xml:id="swift-423-ROGP-line-19" n="19">They can do no good,</l>
+            <l xml:id="swift-423-ROGP-line-20" n="20">Nor would if they could,</l>
+            <l xml:id="swift-423-ROGP-line-21" n="21">To injure the nation</l>
+            <l xml:id="swift-423-ROGP-line-22" n="22">Is recommendation,</l>
+            <l xml:id="swift-423-ROGP-line-23" n="23">And why should they save her,</l>
+            <l xml:id="swift-423-ROGP-line-24" n="24">By losing their favour?</l>
+            <l xml:id="swift-423-ROGP-line-25" n="25">Poor kingdom, thou wouldst be that governor's debtor,</l>
+            <l xml:id="swift-423-ROGP-line-26" n="26">Who kindly would leave thee no worse nor no better.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

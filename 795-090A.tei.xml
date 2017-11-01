@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Traulus.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 30JL11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="795-090A">
+          <head type="note" n="1" xml:id="spp-795-090A-headnote-1">
+            <lg n="1" xml:id="spp-795-090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-795-090A-headnote-1-line-group-1-line-1">In A Dialogue between Tom and Robin&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-795-090A-headnote-2">
+            <lg n="1" xml:id="spp-795-090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-795-090A-headnote-2-line-group-1-line-1">The first Part written 1730. D Swift.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-795-090A-headnote-3">
+            <lg n="1" xml:id="spp-795-090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-795-090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-795-090A-line-1" n="1">Tom. Say, Robin, what can Traulus mean</l>
+            <l xml:id="swift-795-090A-line-2" n="2">By bell'wing thus against the D──an?</l>
+            <l xml:id="swift-795-090A-line-3" n="3">Why does he call him paultry Scribler,</l>
+            <l xml:id="swift-795-090A-line-4" n="4">Papist, and Jacobite, and Lib'ller?</l>
+            <l xml:id="swift-795-090A-line-5" n="5">Yet cannot prove a single Fact.</l>
+            <l xml:id="swift-795-090A-line-6" n="6">Robin. Forgive him, Tom, his Head is crackt</l>
+            <l xml:id="swift-795-090A-line-7" n="7">Tom. What Mischeif can the D── have done him,</l>
+            <l xml:id="swift-795-090A-line-8" n="8">That Traulus calls for Vengeance on him?</l>
+            <l xml:id="swift-795-090A-line-9" n="9">Why must he sputter, spawl, and slaver it</l>
+            <l xml:id="swift-795-090A-line-10" n="10">In vain against the People's Fav'rite?</l>
+            <l xml:id="swift-795-090A-line-11" n="11">Revile that Nation-saving Paper,</l>
+            <l xml:id="swift-795-090A-line-12" n="12">Which gave the D── the Name of Draper?</l>
+            <l xml:id="swift-795-090A-line-13" n="13">Robin. Why, Tom, I think the Case is plain,</l>
+            <l xml:id="swift-795-090A-line-14" n="14">Party and Spleen have turnd his Brain.</l>
+            <l xml:id="swift-795-090A-line-15" n="15">Tom. Such Friendship never Man profest,</l>
+            <l xml:id="swift-795-090A-line-16" n="16">The D── was never so carest;</l>
+            <l xml:id="swift-795-090A-line-17" n="17">For Traulus long his Rancour nurst,</l>
+            <l xml:id="swift-795-090A-line-18" n="18">Till, God knows why, at last it burst.</l>
+            <l xml:id="swift-795-090A-line-19" n="19">That clumsy Outside of a Porter,</l>
+            <l xml:id="swift-795-090A-line-20" n="20">How could it thus conceal a Courtier.</l>
+            <l xml:id="swift-795-090A-line-21" n="21">Robin. I own Appearances are bad;</l>
+            <l xml:id="swift-795-090A-line-22" n="22">Yet still insist the Man is mad.</l>
+            <l xml:id="swift-795-090A-line-23" n="23">Tom. Yet many a Wretch in Bedlum knows</l>
+            <l xml:id="swift-795-090A-line-24" n="24">How to distinguish Friends from Foes;</l>
+            <l xml:id="swift-795-090A-line-25" n="25">And tho perhaps among the rout,</l>
+            <l xml:id="swift-795-090A-line-26" n="26">He wildly flings his Filth-about;</l>
+            <l xml:id="swift-795-090A-line-27" n="27">He still has Gratitude and Sap'ence</l>
+            <l xml:id="swift-795-090A-line-28" n="28">To spare the Folks that give him Ha'pence;</l>
+            <l xml:id="swift-795-090A-line-29" n="29">Nor in their Eyes at Random pisses,</l>
+            <l xml:id="swift-795-090A-line-30" n="30">But turns aside like mad Ulysses:</l>
+            <l xml:id="swift-795-090A-line-31" n="31">While Traulus all his Ordure scatters,</l>
+            <l xml:id="swift-795-090A-line-32" n="32">To foul the Man he chiefly flatters.</l>
+            <l xml:id="swift-795-090A-line-33" n="33">Whence come these inconsistent Fits?</l>
+            <l xml:id="swift-795-090A-line-34" n="34">Robin. Why, Tom, the Man has lost his Wits!</l>
+            <l xml:id="swift-795-090A-line-35" n="35">Tom. Agreed. And yet when Towzers snaps</l>
+            <l xml:id="swift-795-090A-line-36" n="36">At Peoples Heels with frothy Chaps;</l>
+            <l xml:id="swift-795-090A-line-37" n="37">Hangs down his Head and drops his Tail,</l>
+            <l xml:id="swift-795-090A-line-38" n="38">To say he's mad will not avail:</l>
+            <l xml:id="swift-795-090A-line-39" n="39">The Neighbours all cry, Shoot him dead,</l>
+            <l xml:id="swift-795-090A-line-40" n="40">Hang, drown, or knock him on the Head.</l>
+            <l xml:id="swift-795-090A-line-41" n="41">So Traulus when he first harangu'd,</l>
+            <l xml:id="swift-795-090A-line-42" n="42">I wonder why he was not hang'd;</l>
+            <l xml:id="swift-795-090A-line-43" n="43">For of the Two without Dispute,</l>
+            <l xml:id="swift-795-090A-line-44" n="44">Towzer's the less offensive Brute.</l>
+            <l xml:id="swift-795-090A-line-45" n="45">Robin. Tom, you mistake the matter quite:</l>
+            <l xml:id="swift-795-090A-line-46" n="46">Your barking Curs will seldom bite;</l>
+            <l xml:id="swift-795-090A-line-47" n="47">And though you hear him Stut-tut-tut-ter,</l>
+            <l xml:id="swift-795-090A-line-48" n="48">He barks as fast as he can utter.</l>
+            <l xml:id="swift-795-090A-line-49" n="49">He prates in Spite of all Impediment,</l>
+            <l xml:id="swift-795-090A-line-50" n="50">While none believes y<hi rend="superscript">ṭ</hi> w<hi rend="superscript">ṭ</hi> he said he meant;</l>
+            <l xml:id="swift-795-090A-line-51" n="51">Puts in his Finger and his Thumb,</l>
+            <l xml:id="swift-795-090A-line-52" n="52">To grope for Words and out they come,</l>
+            <l xml:id="swift-795-090A-line-53" n="53">He calls you Rogue; there's nothing in it</l>
+            <l xml:id="swift-795-090A-line-54" n="54">He fawns upon you in a Minute.</l>
+            <l xml:id="swift-795-090A-line-55" n="55">Begs Leave to rail, but d──n his Blood</l>
+            <l xml:id="swift-795-090A-line-56" n="56">He only meant it for your Good.</l>
+            <l xml:id="swift-795-090A-line-57" n="57">His Friendship was exactly timd,</l>
+            <l xml:id="swift-795-090A-line-58" n="58">He shot before your Foes were prim'd;</l>
+            <l xml:id="swift-795-090A-line-59" n="59">By this Contrivance M<hi rend="superscript">r</hi>. D────</l>
+            <l xml:id="swift-795-090A-line-60" n="60">By G──d I'll bring you off as clean<note place="foot">·\<hi rend="italics">footnote cue but scribe omits note</hi>\.</note></l>
+            <l xml:id="swift-795-090A-line-61" n="61">Then let him use you e'er so rough</l>
+            <l xml:id="swift-795-090A-line-62" n="62">'Twas all for Love, and thats enough.</l>
+            <l xml:id="swift-795-090A-line-63" n="63">But tho he Sputter thro a Session</l>
+            <l xml:id="swift-795-090A-line-64" n="64">It never makes the least Impression:</l>
+            <l xml:id="swift-795-090A-line-65" n="65">Whate'er he speaks for Madness goes,</l>
+            <l xml:id="swift-795-090A-line-66" n="66">With no Effect on Friends or foes.</l>
+            <l xml:id="swift-795-090A-line-67" n="67">Tom. The scrubest Cur in all the Pack,</l>
+            <l xml:id="swift-795-090A-line-68" n="68">Can set the Mastiff on your Back.</l>
+            <l xml:id="swift-795-090A-line-69" n="69">I own, his Madness is a Jest,</l>
+            <l xml:id="swift-795-090A-line-70" n="70">If that were all. But he's possest;</l>
+            <l xml:id="swift-795-090A-line-71" n="71">Incarnate with a Thousand Imps,</l>
+            <l xml:id="swift-795-090A-line-72" n="72">To work whose Ends his M\<hi rend="italics">add</hi>·a\dness pimps;</l>
+            <l xml:id="swift-795-090A-line-73" n="73">Who o'er each String and Wire preside,</l>
+            <l xml:id="swift-795-090A-line-74" n="74">Fill ev'ry Pipe each Motion guide.</l>
+            <l xml:id="swift-795-090A-line-75" n="75">Directing ev'ry Vice we find</l>
+            <l xml:id="swift-795-090A-line-76" n="76">In Scripture to the Dev'l assignd:</l>
+            <l xml:id="swift-795-090A-line-77" n="77">Sent from the dark infernal Region,</l>
+            <l xml:id="swift-795-090A-line-78" n="78">In him they lodge and make him Legion.</l>
+            <l xml:id="swift-795-090A-line-79" n="79">Of Brethren he's a false Accuser:</l>
+            <l xml:id="swift-795-090A-line-80" n="80">A Sland'rer, Traytor and Seducer;</l>
+            <l xml:id="swift-795-090A-line-81" n="81">A fawning base trepanning Liar;</l>
+            <l xml:id="swift-795-090A-line-82" n="82">The Marks peculiar of his Sire.</l>
+            <l xml:id="swift-795-090A-line-83" n="83">Or grant him but a Drone at best:</l>
+            <l xml:id="swift-795-090A-line-84" n="84">A Drone can raise a Hornets Nest.</l>
+            <l xml:id="swift-795-090A-line-85" n="85">The D── hath felt their Stings before;</l>
+            <l xml:id="swift-795-090A-line-86" n="86">And must their Malice ne'er give o'er?</l>
+            <l xml:id="swift-795-090A-line-87" n="87">Still swarm and buzz about his Nose?</l>
+            <l xml:id="swift-795-090A-line-88" n="88">But Irelands Friend ne'er wanted Foes.</l>
+            <l xml:id="swift-795-090A-line-89" n="89">A Patriot is a dang'rous Post</l>
+            <l xml:id="swift-795-090A-line-90" n="90">When wanted by his Country most;</l>
+            <l xml:id="swift-795-090A-line-91" n="91">Perversely comes in evil Times,</l>
+            <l xml:id="swift-795-090A-line-92" n="92">Where Virtues are imputed Crimes.</l>
+            <l xml:id="swift-795-090A-line-93" n="93">His Guilt is clear the Proofs are pregnant</l>
+            <l xml:id="swift-795-090A-line-94" n="94">A Traytor to the Vices regnant.</l>
+            <l rend="indent(1)" xml:id="swift-795-090A-line-95" n="95">What Spirit since the World began,</l>
+            <l xml:id="swift-795-090A-line-96" n="96">Could always bear to strive with Man?</l>
+            <l xml:id="swift-795-090A-line-97" n="97">Which God pronouncd he never woud,</l>
+            <l xml:id="swift-795-090A-line-98" n="98">And soon convincd them by a Flood.</l>
+            <l xml:id="swift-795-090A-line-99" n="99">Yet still the D── on Freedom raves,</l>
+            <l xml:id="swift-795-090A-line-100" n="100">His Spirit always strives with Slaves,</l>
+            <l xml:id="swift-795-090A-line-101" n="101">Tis Time at last to spare his Ink,</l>
+            <l xml:id="swift-795-090A-line-102" n="102">And let them rot, or hang, or Sink.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

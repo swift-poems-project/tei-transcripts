@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  FAMILIAR<lb/>  EPISTLE<lb/>  TO HIS EXCELLENCY<lb/>  <hi rend="italics">Charles</hi> EARL of <hi rend="italics">Sunderland</hi>.<lb/>  ONE OF THE<lb/>  LORDS JUSTICES<lb/>  OF<lb/>  ENGLAND.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 6AU12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z260S502">
+          <head type="note" n="1" xml:id="spp-Z260S502-headnote-1">
+            <lg n="1" xml:id="spp-Z260S502-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z260S502-headnote-1-line-group-1-line-1">────────────────In publica Commoda peccem, <lb/> Si, longo Sermone, morer tua Tempora-------- <lb/> <note rend="flush right">Hor.</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z260S502-headnote-2">
+            <lg n="1" xml:id="spp-Z260S502-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z260S502-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z260S502-headnote-3">
+            <lg n="1" xml:id="spp-Z260S502-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z260S502-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z260S502-line-1" n="1"><hi rend="display-initial">L</hi>Oaded, my L<hi rend="small-caps">ORD</hi>, with Cares of State;</l>
+            <l xml:id="swift-Z260S502-line-2" n="2">Press'd by the Wealthy and the Great;</l>
+            <l xml:id="swift-Z260S502-line-3" n="3">Fatigu'd for <hi rend="italics">GEORGE</hi> and <hi rend="italics">Britain</hi>'s Good;</l>
+            <l xml:id="swift-Z260S502-line-4" n="4">Crown'd with Success, tho' much withstood:</l>
+            <l xml:id="swift-Z260S502-line-5" n="5">Postpone Your Toil: Deign to peruse</l>
+            <l xml:id="swift-Z260S502-line-6" n="6">The <hi rend="small-caps">LITTLE </hi>L<hi rend="small-caps">EVITIES</hi>, a M<hi rend="small-caps">USE</hi>,</l>
+            <l xml:id="swift-Z260S502-line-7" n="7">Not over-gay, at present, sends,</l>
+            <l xml:id="swift-Z260S502-line-8" n="8">To <hi rend="small-caps">MAKE </hi>Y<hi rend="small-caps">OU </hi>S<hi rend="small-caps">MILE, AND PLEASE </hi>Y<hi rend="small-caps">OUR </hi>F<hi rend="small-caps">RIENDS</hi>.</l>
+            <l xml:id="swift-Z260S502-line-9" n="9">'Tis no New Thing for Bards, with Letters,</l>
+            <l xml:id="swift-Z260S502-line-10" n="10">In Metre, to address their Betters,</l>
+            <l xml:id="swift-Z260S502-line-11" n="11">Without being thought U<hi rend="small-caps">NBRED OR </hi>R<hi rend="small-caps">UDE</hi>:</l>
+            <l xml:id="swift-Z260S502-line-12" n="12">Verse must be very bad <hi rend="small-caps">T' INTRUDE</hi>.</l>
+            <l xml:id="swift-Z260S502-line-13" n="13">This was the constant Trade of <hi rend="italics">Horace</hi>,</l>
+            <l xml:id="swift-Z260S502-line-14" n="14">And Others (whom you've read) before Us.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-15" n="15"><lb/>But stop, adventurous Muse, thy Flight;</l>
+            <l xml:id="swift-Z260S502-line-16" n="16">C<hi rend="small-caps">ONSIDER WELL, BEFORE YOU WRITE</hi>,</l>
+            <l xml:id="swift-Z260S502-line-17" n="17">Important are His Lordship's Hours;</l>
+            <l xml:id="swift-Z260S502-line-18" n="18">Not <hi rend="black-letter">Voide</hi> and Humorous, like yours:</l>
+            <l xml:id="swift-Z260S502-line-19" n="19">The Fate of Empires is His Care,</l>
+            <l xml:id="swift-Z260S502-line-20" n="20">A Glorious Peace! or Lawful War!</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-21" n="21"><lb/>Besides, you must not write in Haste;</l>
+            <l xml:id="swift-Z260S502-line-22" n="22">His J<hi rend="small-caps">UDGMENT'</hi>s<hi rend="small-caps"> GOOD</hi>; refin'd His T<hi rend="small-caps">ASTE</hi>.</l>
+            <l xml:id="swift-Z260S502-line-23" n="23">
+              <hi rend="italics">Politest Learning; brightest Wit;</hi>
+            </l>
+            <l xml:id="swift-Z260S502-line-24" n="24"><hi rend="italics">Whatever with Applause is writ</hi>;</l>
+            <l xml:id="swift-Z260S502-line-25" n="25">(Whether recorded be the L<hi rend="small-caps">ORE</hi></l>
+            <l xml:id="swift-Z260S502-line-26" n="26">In Ancient Archives dusty Store;</l>
+            <l xml:id="swift-Z260S502-line-27" n="27">Or, whether to the Height are brought</l>
+            <l xml:id="swift-Z260S502-line-28" n="28">Sciences, by <hi rend="black-letter">Modern Thought</hi>)</l>
+            <l xml:id="swift-Z260S502-line-29" n="29">These are His Favourites; and, of course,</l>
+            <l xml:id="swift-Z260S502-line-30" n="30">His C<hi rend="small-caps">ONVERSATIONS</hi> can't be worse.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-31" n="31"><lb/><hi rend="italics">Think I, These Thoughts</hi> are Just and True;</l>
+            <l xml:id="swift-Z260S502-line-32" n="32">A L<hi rend="small-caps">ETTER FROM</hi> <hi rend="italics">Kinsale</hi> <hi rend="small-caps">WON'T DO</hi>:</l>
+            <l xml:id="swift-Z260S502-line-33" n="33">Cloudy's the Climate, Poor the Land;</l>
+            <l xml:id="swift-Z260S502-line-34" n="34">Verse thrives not on the Barren Sand:</l>
+            <l xml:id="swift-Z260S502-line-35" n="35">Forc'd too from TOWN; <hi rend="small-caps">NAY</hi>, Banish'd quite,</l>
+            <l xml:id="swift-Z260S502-line-36" n="36"><hi rend="italics">It is impossible to write</hi>!</l>
+            <l xml:id="swift-Z260S502-line-37" n="37"><hi rend="black-letter">Albeit</hi>, herein some Comfort lies,</l>
+            <l xml:id="swift-Z260S502-line-38" n="38"><hi rend="italics">Bank-Stock</hi> and <hi rend="italics">South-Sea</hi> <hi rend="black-letter">MAINLY RISE</hi>;</l>
+            <l xml:id="swift-Z260S502-line-39" n="39">N<hi rend="small-caps">AY</hi>, <hi rend="italics">Bubbles</hi> turn to solid Good;</l>
+            <l xml:id="swift-Z260S502-line-40" n="40"><hi rend="italics">Discharge my Rent, and buy me Food</hi>.</l>
+            <l xml:id="swift-Z260S502-line-41" n="41">And, as kind Fate increases Wealth,</l>
+            <l xml:id="swift-Z260S502-line-42" n="42">So, <hi rend="black-letter">Wife</hi> and <hi rend="italics">Children</hi> are in Health.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-43" n="43"><lb/>But, <hi rend="small-caps">IF</hi> I <hi rend="small-caps">WRITE</hi>, what shall I say?</l>
+            <l xml:id="swift-Z260S502-line-44" n="44">An <hi rend="italics">Irish Tale!──── Once on a Day</hi>, &amp;c.</l>
+            <l xml:id="swift-Z260S502-line-45" n="45">No, No! <hi rend="italics">Be wise</hi>; sink, for this Time,</l>
+            <l xml:id="swift-Z260S502-line-46" n="46">Thy <hi rend="italics">Love</hi> for S<hi rend="small-caps">UNDERLAND</hi> and R<hi rend="small-caps">HIME</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-47" n="47"><lb/>What is't to Him, that at <hi rend="italics">Kinsale</hi></l>
+            <l xml:id="swift-Z260S502-line-48" n="48">Our <hi rend="italics">Claret</hi>'s Bad, and Worse our <hi rend="italics">Ale</hi>?</l>
+            <l xml:id="swift-Z260S502-line-49" n="49">Or, that our <hi rend="black-letter">Rum</hi> and <hi rend="italics">Brandy</hi>'s Good,</l>
+            <l xml:id="swift-Z260S502-line-50" n="50">As e'er was <hi rend="italics">tipp'd</hi>, or <hi rend="italics">fir'd</hi> Mens <hi rend="italics">Blood</hi>?</l>
+            <l xml:id="swift-Z260S502-line-51" n="51">And that there is no cheaper Thing</l>
+            <l xml:id="swift-Z260S502-line-52" n="52">Sold in this T<hi rend="small-caps">OWN</hi>?──── G<hi rend="small-caps">OD BLESS THE </hi>K<hi rend="small-caps">ING</hi>!</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-53" n="53"><lb/>It must, <hi rend="small-caps">FOR CERTAIN</hi>, be amiss,</l>
+            <l xml:id="swift-Z260S502-line-54" n="54">To send such trifling Stuff, as <hi rend="small-caps">THIS</hi>:</l>
+            <l xml:id="swift-Z260S502-line-55" n="55">To tell him, That the <hi rend="italics">Folk</hi> in Town,</l>
+            <l xml:id="swift-Z260S502-line-56" n="56">For want of <hi rend="italics">War, are</hi> quite undone;</l>
+            <l xml:id="swift-Z260S502-line-57" n="57"><hi rend="italics">That</hi> they have no Estates in Lands;</l>
+            <l xml:id="swift-Z260S502-line-58" n="58">And <hi rend="italics">that</hi> their Time hangs on their Hands:</l>
+            <l xml:id="swift-Z260S502-line-59" n="59">How <hi rend="italics">Haddock</hi> snarls at <hi rend="italics">Griffy Beven</hi>; 3}</l>
+            <l xml:id="swift-Z260S502-line-60" n="60">How <hi rend="italics">Jerry</hi> laughs from S<hi rend="small-caps">IX</hi> <hi rend="italics">t' Eleven</hi>;</l>
+            <l xml:id="swift-Z260S502-line-61" n="61">How most Men live at S<hi rend="small-caps">IX</hi> and Seven.</l>
+            <l xml:id="swift-Z260S502-line-62" n="62">In short, The Humours of this Town,</l>
+            <l xml:id="swift-Z260S502-line-63" n="63">In <hi rend="italics">Piccadilly</hi>, will not down:</l>
+            <l xml:id="swift-Z260S502-line-64" n="64">Neither the <hi rend="italics">Billingsgate</hi> of <hi rend="italics">Scilly</hi>;</l>
+            <l xml:id="swift-Z260S502-line-65" n="65">Nor the dry <hi rend="black-letter">Jokes</hi> of <hi rend="italics">Bowler Billy</hi>.</l>
+            <l xml:id="swift-Z260S502-line-66" n="66">And, if I steer <hi rend="italics">Killala-Course</hi>,</l>
+            <l xml:id="swift-Z260S502-line-67" n="67">That <hi rend="italics">Journal</hi> will be <hi rend="italics">worse</hi> and <hi rend="italics">worse</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-68" n="68"><lb/><hi rend="black-letter">Think</hi>, <hi rend="small-caps">THEN</hi>, <hi rend="italics">I must</hi>, before I write:</l>
+            <l xml:id="swift-Z260S502-line-69" n="69"><hi rend="italics">And so</hi>, bethinking what <hi rend="italics">t' indite</hi>;</l>
+            <l xml:id="swift-Z260S502-line-70" n="70">I found, in this <hi rend="black-letter">Corrected</hi> Age,</l>
+            <l xml:id="swift-Z260S502-line-71" n="71">Our <hi rend="italics">Diction Chaste</hi>, and <hi rend="italics">Just</hi> our <hi rend="italics">Rage</hi>:</l>
+            <l xml:id="swift-Z260S502-line-72" n="72">I found the <hi rend="italics">Wits</hi> were strictly <hi rend="italics">taught</hi></l>
+            <l xml:id="swift-Z260S502-line-73" n="73">Propriety of Stile and <hi rend="italics">Thought</hi>:</l>
+            <l xml:id="swift-Z260S502-line-74" n="74">And straight on choicest Modern Rhime,</l>
+            <l xml:id="swift-Z260S502-line-75" n="75">Imploy'd my <hi rend="small-caps">CURIOUS, WELL-SPENT</hi> Time!</l>
+            <l xml:id="swift-Z260S502-line-76" n="76">For, truly, of the <hi rend="italics">Classick-kind</hi>,</l>
+            <l xml:id="swift-Z260S502-line-77" n="77">L<hi rend="small-caps">ITTLE, IN OUR </hi>O<hi rend="small-caps">LD </hi>B<hi rend="small-caps">ARDS, I FIND</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-78" n="78"><lb/>To A<hi rend="small-caps">DDISON</hi> I first apply'd;</l>
+            <l xml:id="swift-Z260S502-line-79" n="79">Poet, and Orator <hi rend="italics">beside</hi>!</l>
+            <l xml:id="swift-Z260S502-line-80" n="80">Much his Great Name to J<hi rend="small-caps">USTNESS</hi> owes</l>
+            <l xml:id="swift-Z260S502-line-81" n="81">When highest swell'd, he <hi rend="italics">ne'er o'er</hi>flows;</l>
+            <l xml:id="swift-Z260S502-line-82" n="82">And, when the dangerous Deep he shuns,</l>
+            <l xml:id="swift-Z260S502-line-83" n="83">Tho' <hi rend="italics">Low</hi>, yet <hi rend="italics">Clear</hi> and <hi rend="italics">Sweet</hi> he runs:</l>
+            <l xml:id="swift-Z260S502-line-84" n="84"><hi rend="italics">Cool</hi> Judgment tempers <hi rend="italics">Hot</hi>test Fire:</l>
+            <l xml:id="swift-Z260S502-line-85" n="85">A<hi rend="small-caps">RT</hi> guides, what <hi rend="black-letter">Genius</hi> does inspire.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-86" n="86"><lb/>While G<hi rend="small-caps">ARTH</hi>, with Labour, strives to please.</l>
+            <l xml:id="swift-Z260S502-line-87" n="87">P<hi rend="small-caps">OPE</hi> <hi rend="italics">versifies with perfect Ease</hi>:</l>
+            <l xml:id="swift-Z260S502-line-88" n="88">While P<hi rend="small-caps">OPE</hi>, in <hi rend="italics">Female Softness</hi>, shines,</l>
+            <l xml:id="swift-Z260S502-line-89" n="89">G<hi rend="small-caps">ARTH</hi> languishes in M<hi rend="small-caps">ANLIER</hi> L<hi rend="small-caps">INES</hi>.</l>
+            <l xml:id="swift-Z260S502-line-90" n="90">Both have their Beauties; Both excell</l>
+            <l xml:id="swift-Z260S502-line-91" n="91">In <hi rend="italics">Thinking</hi>, and in <hi rend="italics">Writing</hi> well.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-92" n="92"><lb/>P<hi rend="small-caps">HILIPS</hi> I've read: H<hi rend="small-caps">E</hi>'s <hi rend="black-letter">Pure</hi>, <hi rend="small-caps">HE</hi>'s <hi rend="italics">Terse</hi>;</l>
+            <l xml:id="swift-Z260S502-line-93" n="93">Sound is <hi rend="italics">his</hi> Sense, and Smooth <hi rend="italics">his</hi> Verse.</l>
+            <l xml:id="swift-Z260S502-line-94" n="94">A<hi rend="small-caps">H</hi>! would he court the Groves again;</l>
+            <l xml:id="swift-Z260S502-line-95" n="95">And charm, <hi rend="italics">anew, th' ad</hi>miring Swain!</l>
+            <l xml:id="swift-Z260S502-line-96" n="96">Again, frequent the Muses <hi rend="italics">Throng</hi>,</l>
+            <l xml:id="swift-Z260S502-line-97" n="97">And finish <hi rend="italics">Thule</hi>'s Heavenly Song!</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-98" n="98"><lb/>I'<hi rend="small-caps">VE READ TOO</hi> (not without Delight)</l>
+            <l xml:id="swift-Z260S502-line-99" n="99">What T<hi rend="small-caps">ICKELL</hi>, and what W<hi rend="small-caps">ELSTED</hi> write;</l>
+            <l xml:id="swift-Z260S502-line-100" n="100">Nature's own Beauties they pursue;</l>
+            <l xml:id="swift-Z260S502-line-101" n="101">Their Stile Correct, their Manner N<hi rend="small-caps">EW</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-102" n="102"><lb/>This when <hi rend="italics">I'd</hi> done, with strictest Care,</l>
+            <l xml:id="swift-Z260S502-line-103" n="103">I stopp'd my <hi rend="italics">own vain</hi>, <hi rend="small-caps">FOND</hi> <hi rend="italics">Career</hi>;</l>
+            <l xml:id="swift-Z260S502-line-104" n="104">And said, N<hi rend="small-caps">ONE</hi>, but the First-rate Wit,</l>
+            <l xml:id="swift-Z260S502-line-105" n="105">To sing <hi rend="black-letter">my</hi> S<hi rend="small-caps">PENCER</hi> can be <hi rend="small-caps">FIT</hi>:</l>
+            <l xml:id="swift-Z260S502-line-106" n="106">The Noble Blood, let such Men show,</l>
+            <l xml:id="swift-Z260S502-line-107" n="107">Which, thro' His Purple Veins, <hi rend="italics">does</hi> flow;</l>
+            <l xml:id="swift-Z260S502-line-108" n="108">Those Honours, which He does inherit;</l>
+            <l xml:id="swift-Z260S502-line-109" n="109">Or Those which <hi rend="italics">GEORGE</hi> bestows on Merit.</l>
+            <l xml:id="swift-Z260S502-line-110" n="110">How (good as Guardian Angels are)</l>
+            <l xml:id="swift-Z260S502-line-111" n="111">H<hi rend="small-caps">E</hi> Reconcil'd the <hi rend="italics">ROYAL PAIR</hi>!</l>
+            <l xml:id="swift-Z260S502-line-112" n="112">How <hi rend="italics">Faction sick</hi>, nay, <hi rend="italics">dead</hi>'s become,</l>
+            <l xml:id="swift-Z260S502-line-113" n="113">While He administers at Home!</l>
+            <l xml:id="swift-Z260S502-line-114" n="114">And, How all <hi rend="italics">Europe</hi>'s more at Peace,</l>
+            <l xml:id="swift-Z260S502-line-115" n="115">Than, <hi rend="italics">ever yet</hi>, in Former Days!</l>
+            <l xml:id="swift-Z260S502-line-116" n="116">Our Credit H<hi rend="small-caps">IGH</hi>! Inrich'd our T<hi rend="small-caps">RADE!</hi></l>
+            <l xml:id="swift-Z260S502-line-117" n="117"><hi rend="small-caps"/>O<hi rend="small-caps">UR </hi>D<hi rend="small-caps">EBTS, EVEN WITHOUT </hi>M<hi rend="small-caps">ONEY, PAID</hi>!</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-118" n="118"><lb/><hi rend="black-letter">Yes</hi>! certainly, it must be so.</l>
+            <l xml:id="swift-Z260S502-line-119" n="119">For these <hi rend="italics">High Themes</hi>, my <hi rend="italics">Rhime</hi>'s too <hi rend="italics">Low</hi>.</l>
+            <l xml:id="swift-Z260S502-line-120" n="120">I <hi rend="small-caps">CANNOT, MUST NOT</hi>, on them dwell:</l>
+            <l xml:id="swift-Z260S502-line-121" n="121">For though, in Metre, I might tell,</l>
+            <l xml:id="swift-Z260S502-line-122" n="122">(And M<hi rend="small-caps">ETRE GOOD</hi>) how I withdraw</l>
+            <l xml:id="swift-Z260S502-line-123" n="123">To <hi rend="italics">Ireland</hi>, to go to <hi rend="black-letter">Law</hi>;</l>
+            <l xml:id="swift-Z260S502-line-124" n="124">Y<hi rend="small-caps">ET</hi>, surely, this will ne'er suffice</l>
+            <l xml:id="swift-Z260S502-line-125" n="125">To sing the Statesman, <hi rend="italics">Learn'd</hi> and <hi rend="italics">Wise</hi>;</l>
+            <l xml:id="swift-Z260S502-line-126" n="126">Nor make my V<hi rend="small-caps">ERSE SWELL</hi>, to the End,</l>
+            <l xml:id="swift-Z260S502-line-127" n="127">With <hi rend="italics">GEORGE</hi>'s Favourite and Friend:</l>
+            <l xml:id="swift-Z260S502-line-128" n="128">And so I'm in <hi rend="italics">a bad Condition</hi>!────</l>
+            <l xml:id="swift-Z260S502-line-129" n="129">W<hi rend="small-caps">ELL</hi>! Since I can't Rhime, <hi rend="italics">I'll Petition</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-130" n="130"><lb/>My L<hi rend="small-caps">ORD</hi>, <hi rend="black-letter">then</hi>, that I may conclude,</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-131" n="131">(For, being Tedious, <hi rend="italics">is</hi> being Rude)</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-132" n="132">Make me (to fill my earnest W<hi rend="small-caps">ISH UP</hi>)</l>
+            <l rend="indent(1)" xml:id="swift-Z260S502-line-133" n="133"><lb/>An <hi rend="italics">English</hi> D<hi rend="small-caps">EAN</hi>, <hi rend="display-initial">or</hi> <hi rend="italics">Irish</hi> <hi rend="black-letter">Bishop</hi>.</l>
+            <l rend="indent(3)" xml:id="swift-Z260S502-line-134" n="134">||<hi rend="italics">And Your Petitioner will Ever Pray</hi>.</l>
+            <l rend="indent(4)" xml:id="swift-Z260S502-line-135" n="135">|||J.S.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

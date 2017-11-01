@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 19NO07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="0021W72501B">
+          <head type="note" n="1" xml:id="spp-0021W72501B-headnote-1">
+            <lg n="1" xml:id="spp-0021W72501B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W72501B-headnote-1-line-group-1-line-1">... from thence to Armagh 7 Miles distant you pass Market Hill, the seat of S<hi rend="superscript">r</hi> Archi<hi rend="superscript">ld</hi> Atcheson, now a Peer, where Dean Swift wrote many of his Poems, in particular Hamiltons Bawn, which according to my Ladys wish still keeps its Ground as a Barrack, you will pass by it in your way to Armagh. Doctor Johnson who wishd to insert in his Dictionary evry word authorised by Swift asked me what a Bawn meant &amp; I told him, yet he has neglected to insert it. Lady Atcheson was very much offended at this poem, its a pity y<hi rend="superscript">e</hi> Dean has so often sacrificed his Friends to his Wit, makeing but a bad return for their Hospitaly.──Armagh is but 3 Miles from Market Hill, you will be pleased with the primate's House, it is a very elegant Modern building, alas! it is but half finishd, for no Woman is ever sufferd even within the Vestibule, from Armagh to Glass Lough 8 Miles, this is the Seat of M<hi rend="superscript">r</hi> Leslie, a Sprightly agreeable Young Man, married to an amiable Woman, daughter to the late Lord Dungannon. he inherited his estate from his Uncle Doctor Lesslie who had lived much in Spain. on his return he was always one of the party w<hi rend="superscript">th</hi> Dean Swift &amp; S<hi rend="superscript">r</hi> Arthur, the Dean ridicules their Taciturnity in a little Poem which I dont recollect to have seen in his Works──</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-0021W72501B-headnote-2">
+            <lg n="1" xml:id="spp-0021W72501B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W72501B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-0021W72501B-headnote-3">
+            <lg n="1" xml:id="spp-0021W72501B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W72501B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

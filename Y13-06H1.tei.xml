@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>* NEWGATE'S GARLAND:</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 2JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y13-06H1">
+          <head type="note" n="1" xml:id="spp-Y13-06H1-headnote-1">
+            <lg n="1" xml:id="spp-Y13-06H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y13-06H1-headnote-1-line-group-1-line-1"><hi rend="italics">Being a new ballad, shewing how Mr. </hi>Jonathan Wild's<hi rend="italics"> throat was cut from ear to ear with a penknife by Mr. </hi>Blake<hi rend="italics">, alias </hi>Blueskin<hi rend="italics">, the bold highwayman, as he stood at his trial in the</hi> Old-Baily, 1725.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y13-06H1-headnote-2">
+            <lg n="1" xml:id="spp-Y13-06H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y13-06H1-headnote-2-line-group-1-line-1"><hi rend="italics">To the Tune of the</hi> Cut-purse.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y13-06H1-headnote-3">
+            <lg n="1" xml:id="spp-Y13-06H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y13-06H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-Y13-06H1-line-1" n="1">I.<lb/><hi rend="display-initial">Y</hi>E gallants of <hi rend="italics">Newgate</hi>, whose fingers are nice</l>
+            <l xml:id="swift-Y13-06H1-line-2" n="2">In diving in pockets, or cogging of dice;</l>
+            <l xml:id="swift-Y13-06H1-line-3" n="3">Ye sharpers so rich, who can buy off the noose,</l>
+            <l xml:id="swift-Y13-06H1-line-4" n="4">Ye honester poor rogues, who die in your shoes,</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-5" n="5">Attend and draw near,</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-6" n="6">Good news ye shall hear,</l>
+            <l xml:id="swift-Y13-06H1-line-7" n="7">How <hi rend="italics">Jonathan's</hi> throat was cut from ear to ear,</l>
+            <l xml:id="swift-Y13-06H1-line-8" n="8">How <hi rend="italics">Blueskin's</hi> sharp penknife hath set you at ease,</l>
+            <l xml:id="swift-Y13-06H1-line-9" n="9">And ev'ry man round me may rob, if he please.</l>
+            <l rend="center" xml:id="swift-Y13-06H1-line-10" n="10">II.<lb/>When to the <hi rend="italics">Old-Baily</hi> this <hi rend="italics">Blueskin</hi> was led,</l>
+            <l xml:id="swift-Y13-06H1-line-11" n="11">He held up his hand; his indictment was read;</l>
+            <l xml:id="swift-Y13-06H1-line-12" n="12">Loud rattled his chains; near him <hi rend="italics">Jonathan</hi> stood;</l>
+            <l xml:id="swift-Y13-06H1-line-13" n="13">For full forty pounds was the price of his blood.</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-14" n="14">Then, hopeless of life,</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-15" n="15">He drew his penknife,</l>
+            <l xml:id="swift-Y13-06H1-line-16" n="16">And made a sad widow of <hi rend="italics">Jonathan's</hi> wife.</l>
+            <l xml:id="swift-Y13-06H1-line-17" n="17">But forty pounds paid her her grief shall appease;</l>
+            <l xml:id="swift-Y13-06H1-line-18" n="18">And ev'ry man round me may rob, if he please.</l>
+            <l rend="center" xml:id="swift-Y13-06H1-line-19" n="19">III.<lb/>Some say there are courtiers of highest renown,</l>
+            <l xml:id="swift-Y13-06H1-line-20" n="20">Who steal the king's gold, and leave him but a <hi rend="italics">crown</hi>:</l>
+            <l xml:id="swift-Y13-06H1-line-21" n="21">Some say there are peers, and some parliament-men,</l>
+            <l xml:id="swift-Y13-06H1-line-22" n="22">Who meet once a year to rob courtiers agen.</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-23" n="23">Let them all take their swing</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-24" n="24">To pillage the king,</l>
+            <l xml:id="swift-Y13-06H1-line-25" n="25">And get a blue ribbon, instead of a string.</l>
+            <l xml:id="swift-Y13-06H1-line-26" n="26">Now <hi rend="italics">Blueskin's</hi> sharp penknife hath set you at ease;</l>
+            <l xml:id="swift-Y13-06H1-line-27" n="27">And ev'ry man round me may rob, if he please.</l>
+            <l rend="center" xml:id="swift-Y13-06H1-line-28" n="28">IV.<lb/>Knaves of old, to hide guilt by their cunning inventions,</l>
+            <l xml:id="swift-Y13-06H1-line-29" n="29">Call'd briberies grants, and plain robberies pensions:</l>
+            <l xml:id="swift-Y13-06H1-line-30" n="30">Physicians and lawyers (who take their degrees</l>
+            <l xml:id="swift-Y13-06H1-line-31" n="31">To be learned rogues) call'd their pilfering fees.</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-32" n="32">Since this happy day</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-33" n="33">Now ev'ry man may</l>
+            <l xml:id="swift-Y13-06H1-line-34" n="34">Rob (as safe as in office) upon the highway.</l>
+            <l xml:id="swift-Y13-06H1-line-35" n="35">For <hi rend="italics">Blueskin's</hi> sharp penknife hath set you at ease;</l>
+            <l xml:id="swift-Y13-06H1-line-36" n="36">And ev'ry man round me may rob, if he please.</l>
+            <l rend="center" xml:id="swift-Y13-06H1-line-37" n="37">V.<lb/>Some cheat in the customs, some rob the excise;</l>
+            <l xml:id="swift-Y13-06H1-line-38" n="38">But he who robs both is esteemed most wise.</l>
+            <l xml:id="swift-Y13-06H1-line-39" n="39">Church-wardens, too prudent to hazard the halter,</l>
+            <l xml:id="swift-Y13-06H1-line-40" n="40">As yet only venture to steal from the altar.</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-41" n="41">But now to get gold,</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-42" n="42">They may be more bold,</l>
+            <l xml:id="swift-Y13-06H1-line-43" n="43">And rob on the highway, since <hi rend="italics">Jonathan's</hi> cold:</l>
+            <l xml:id="swift-Y13-06H1-line-44" n="44">For <hi rend="italics">Blueskin's</hi> sharp penknife hath set you at ease;</l>
+            <l xml:id="swift-Y13-06H1-line-45" n="45">And ev'ry man round me may rob, if he please.</l>
+            <l rend="center" xml:id="swift-Y13-06H1-line-46" n="46">VI.<lb/>Some by publick revenues, which pass'd through their hands,</l>
+            <l xml:id="swift-Y13-06H1-line-47" n="47">Have purchas'd clean houses, and bought dirty lands:</l>
+            <l xml:id="swift-Y13-06H1-line-48" n="48">Some to steal from a charity think it no sin,</l>
+            <l xml:id="swift-Y13-06H1-line-49" n="49">Which at home (says the proverb) does always begin.</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-50" n="50">But, if ever you be</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-51" n="51">Assign'd a trustee,</l>
+            <l xml:id="swift-Y13-06H1-line-52" n="52">Treat not orphans like masters of the chancery;</l>
+            <l xml:id="swift-Y13-06H1-line-53" n="53">But take the highway, and more honestly seize;</l>
+            <l xml:id="swift-Y13-06H1-line-54" n="54">For ev'ry man round me may rob, if he please.</l>
+            <l rend="center" xml:id="swift-Y13-06H1-line-55" n="55">VII.<lb/>What a pother has here been with <hi rend="italics">Wood</hi> and his brass,</l>
+            <l xml:id="swift-Y13-06H1-line-56" n="56">Who would modestly make a few half-pennies pass!</l>
+            <l xml:id="swift-Y13-06H1-line-57" n="57">The patent is good, and the precedent's old,</l>
+            <l xml:id="swift-Y13-06H1-line-58" n="58">For <hi rend="italics">Diomede</hi> changed his copper for gold:</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-59" n="59">But, if <hi rend="italics">Ireland</hi> despise</l>
+            <l rend="indent(1)" xml:id="swift-Y13-06H1-line-60" n="60">The new half-pennies,</l>
+            <l xml:id="swift-Y13-06H1-line-61" n="61">With more safety to rob on the road I advise:</l>
+            <l xml:id="swift-Y13-06H1-line-62" n="62">For <hi rend="italics">Blueskin's</hi> sharp penknife hath set thee at ease;</l>
+            <l xml:id="swift-Y13-06H1-line-63" n="63">And ev'ry man round me may rob, if he please.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

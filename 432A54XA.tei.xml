@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>P<hi rend="small-caps">AULUS</hi>, <hi rend="italics">by Mr</hi>. L──────<hi rend="small-caps">Y</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella 12FE14"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="432A54XA">
+          <head type="note" n="1" xml:id="spp-432A54XA-headnote-1">
+            <lg n="1" xml:id="spp-432A54XA-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A54XA-headnote-1-line-group-1-line-1"><hi rend="italics">In a Piece lately published, called </hi>The Dreamer<hi rend="italics">, is inserted a Poem of Dean</hi> S<hi rend="small-caps">WIFT</hi>'<hi rend="italics">s, which we shall here give our Readers. It was occasioned by the following Epigram, written by Mr</hi>. L──────<hi rend="small-caps">Y</hi>, <hi rend="italics">a polite and elegant Scholar, who was at that Time an eminent Pleader at the Bar in </hi>Dublin<hi rend="italics">, and was afterwards advanced to a more honourable Employment</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-432A54XA-headnote-2">
+            <lg n="1" xml:id="spp-432A54XA-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A54XA-headnote-2-line-group-1-line-1">Dublin, Sept. 7, 1728.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-432A54XA-headnote-3">
+            <lg n="1" xml:id="spp-432A54XA-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-432A54XA-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-432A54XA-line-1" n="1">A Slave to crouds, scorch'd with the summer's heats,</l>
+            <l xml:id="swift-432A54XA-line-2" n="2">In court the wretched lawyer toils, and sweats:</l>
+            <l xml:id="swift-432A54XA-line-3" n="3">While smiling nature, in her best attire,</l>
+            <l xml:id="swift-432A54XA-line-4" n="4">Doth sooth each sense, and joy and love inspire,</l>
+            <l xml:id="swift-432A54XA-line-5" n="5">Can he, who knows, that real good should please,</l>
+            <l xml:id="swift-432A54XA-line-6" n="6">Barter for gold his liberty and ease?</l>
+            <l xml:id="swift-432A54XA-line-7" n="7">Thus Paulus preach'd: when ent'ring at the door</l>
+            <l xml:id="swift-432A54XA-line-8" n="8">Upon his board a client pours the ore:</l>
+            <l xml:id="swift-432A54XA-line-9" n="9">He grasps the shining gift, pores o'er the cause</l>
+            <l xml:id="swift-432A54XA-line-10" n="10">Forgets the sun, and dozes on the laws.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

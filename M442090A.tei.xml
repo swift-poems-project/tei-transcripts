@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Epigram on Two great men.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 2AU11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M442090A">
+          <head type="note" n="1" xml:id="spp-M442090A-headnote-1">
+            <lg n="1" xml:id="spp-M442090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M442090A-headnote-1-line-group-1-line-1">written in 1725.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M442090A-headnote-2">
+            <lg n="1" xml:id="spp-M442090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M442090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M442090A-headnote-3">
+            <lg n="1" xml:id="spp-M442090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M442090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M442090A-line-1" n="1"><hi rend="display-initial">T</hi>wo genius's one age and nation grace</l>
+            <l xml:id="swift-M442090A-line-2" n="2">Pride of our Isles and boast of human race</l>
+            <l xml:id="swift-M442090A-line-3" n="3">Great sage! Great bard supreme in knowledge</l>
+            <l xml:id="swift-M442090A-line-4" n="4">The world to mend, enlighten and adorn!</l>
+            <l xml:id="swift-M442090A-line-5" n="5">Truth on Cimerian darkness pours the Day</l>
+            <l xml:id="swift-M442090A-line-6" n="6">Wit drives in miles the gloom of minds \<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-7" n="7">Ye kindred suns on high ye glorious sphe\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-8" n="8">Whom have ye seen in twice three thousand \<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-9" n="9">Whom have ye seeen like these, of mortal bir\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-10" n="10">Tho Archimede and Horace blest the eart\<hi rend="italics">gutter</hi>\</l>
+            <l rend="indent(1)" xml:id="swift-M442090A-line-11" n="11"><hi rend="large-writing">Barbarians</hi> from th'equator \<hi rend="italics">add</hi> to\ the Poles.</l>
+            <l xml:id="swift-M442090A-line-12" n="12">Hark! reason calls! wisdom awakes y<hi rend="superscript">ṛ</hi> soul\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-13" n="13">Ye regions ignorant of Walpole's name;</l>
+            <l xml:id="swift-M442090A-line-14" n="14">Ye climes, where kings shall ne'er extend thi\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-15" n="15">Where men miscall'd Gods image have di\<hi rend="italics">gutter\</hi></l>
+            <l xml:id="swift-M442090A-line-16" n="16">Their form bely'd, and human shape disg\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-17" n="17">Ye two leg'd wolves! slaves! superstitious \<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-18" n="18">Lords! Soldiers! holy vandals! moders hun\<hi rend="italics">gutter</hi>\</l>
+            <l xml:id="swift-M442090A-line-19" n="19">Boors! muffies! monks! in Russia Turkia; Spain,</l>
+            <l xml:id="swift-M442090A-line-20" n="20">────── Who does no know Sir Isaac and the Dean?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

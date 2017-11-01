@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  Beasts Confession<lb/>  TO THE<lb/>  PRIEST,<lb/>  ON<lb/>  Observing how most Men mis-<lb/>  take their own Talents.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 23JE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-601-11M2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="601-11M2">
+          <head type="note" n="1" xml:id="spp-601-11M2-headnote-1">
+            <lg n="1" xml:id="spp-601-11M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-601-11M2-headnote-1-line-group-1-line-1">W<hi rend="small-caps">RITTEN</hi> in the Y<hi rend="small-caps">EAR</hi> 1732.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-601-11M2-headnote-2">
+            <lg n="1" xml:id="spp-601-11M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-601-11M2-headnote-2-line-group-1-line-1">PREFACE.<lb/><hi rend="display-initial">I</hi> <hi rend="italics">Have been long of Opinion, that there is not a more general and greater Mistake, or of worse Consequences through the Commerce of Mankind, than the wrong Judgments they are apt to entertain of their own Talents: I knew a fluttering Alderman in </hi>London<hi rend="italics">, a great Frequenter of Coffee-Houses; who, when a fresh News-paper was brought in, constantly seiz'd it first, and read it aloud to his Brother Citizens; but in a Manner, as little intelligible to the Standers-by as to him-<lb/>self. How many Pretenders to Learning expose themselves by chusing to discourse on those very Parts of Science wherewith they are least acquainted? It is the same Case in every other Qualification. By the Multitude of those who deal in Rhimes from Half a Sheet to Twenty, which come out every Minute, there must be at least five Hundred Poets in the City and Suburbs of </hi>London<hi rend="italics">; half as many Coffee-House Orators, exclusive of the Clergy; forty Thousand Politicians; and four Thousand five Hundred profound Scholars: Not to mention the Wits, the Raillers, the smart Fellows, and Critics; all as illiterate and impudent as a suburb Whore. What are we to think of the fine-dressed Sparks, proud of their own personal Deformities, which appear the more hideous by the </hi>Contrast<hi rend="italics"> of wearing Scarlet and Gold, with what they call </hi><ref target="#spp-601-11M2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-601-11M2-footnote-headnote-1" place="foot">Wigs with long black Tails, worn for some Years past. <hi rend="italics">November</hi> 1738</note> Toupees on their Heads, and all the Frippery of a modern Beau, to make a Figure before Women; some of them with Hump-Backs, others hardly five Feet high, and every Feature of their Faces distorted. I have seen many of these insipid Pretenders entering into Conversation with Persons of Learning, constantly making the grossest Blunders in every Sentence, without conveying one single Idea fit for a rational Creature to spend a Thought on; perpetually confounding all Chronology and Geography even of present Times. I compute, that London<hi rend="italics"> hath eleven native Fools of the Beau and Puppy-kind, for one among us in </hi>Dublin<hi rend="italics">; besides two Thirds of ours transplanted thither, who are now naturaliz'd; whereby that overgrown Capital exceeds ours in the Article of Dunces, by forty to one; and, what is more to our further Mortification, there is not one distinguish'd fool of </hi>Irish<hi rend="italics"> Birth or Education, who makes any Noise in that famous Metropolis, unless the </hi>London<hi rend="italics"> Prints be very partial or defective; whereas </hi>London<hi rend="italics"> is seldom without a Dozen of their own educating, who engross the Vogue for half a Winter together, and are never heard of more, but give Place to a new Sett. This hath been the constant Progress for at least thirty Years past, only allowing for the Change of Breed and Fashion</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-601-11M2-headnote-3">
+            <lg n="1" xml:id="spp-601-11M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-601-11M2-headnote-3-line-group-1-line-1">Advertisement.<lb/><hi rend="display-initial">T</hi><hi rend="italics">HE following Poem is grounded upon the universal Folly of Mankind, of mistaking their Talents; by which the Author doth a great Honour to his own Species, almost equalling them with certain Brutes; wherein, indeed, he is too partial, as he freely confesseth: And, yet he hath gone as low as he well could, by specifying four Animals; the Wolf, the Ass, the Swine, and the Ape; all equally mischievous, except the last, who outdoes them in the Article of Cunning: So great is the Pride of Man</hi>.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-601-11M2-line-1" n="1"><hi rend="display-initial">W</hi>HEN Beasts could speak, (the Learned say</l>
+            <l xml:id="swift-601-11M2-line-2" n="2">They still can do so every Day)</l>
+            <l xml:id="swift-601-11M2-line-3" n="3">It seems, they had Religion then,</l>
+            <l xml:id="swift-601-11M2-line-4" n="4">As much as now we find in Men.</l>
+            <l xml:id="swift-601-11M2-line-5" n="5">It happen'd when a Plague broke out</l>
+            <l xml:id="swift-601-11M2-line-6" n="6">(Which therefore made them more devout)</l>
+            <l xml:id="swift-601-11M2-line-7" n="7">The King of Brutes (to make it plain,</l>
+            <l xml:id="swift-601-11M2-line-8" n="8">Of Quadrupeds I only mean)</l>
+            <l xml:id="swift-601-11M2-line-9" n="9">By Proclamation gave Command,</l>
+            <l xml:id="swift-601-11M2-line-10" n="10">That ev'ry Subject in the Land</l>
+            <l xml:id="swift-601-11M2-line-11" n="11">Should to the Priest confess their Sins;</l>
+            <l xml:id="swift-601-11M2-line-12" n="12">And thus the pious Wolf begins:</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-13" n="13"><lb/>G<hi rend="small-caps">OOD</hi> Father, I must own with Shame,</l>
+            <l xml:id="swift-601-11M2-line-14" n="14">That, often I have been to blame:</l>
+            <l xml:id="swift-601-11M2-line-15" n="15">I must confess, on <hi rend="italics">Friday</hi> last,</l>
+            <l xml:id="swift-601-11M2-line-16" n="16">Wretch that I was, I broke my Fast:</l>
+            <l xml:id="swift-601-11M2-line-17" n="17">But, I defy the basest Tongue</l>
+            <l xml:id="swift-601-11M2-line-18" n="18">To prove I did my Neighbour wrong;</l>
+            <l xml:id="swift-601-11M2-line-19" n="19">Or ever went to seek my Food</l>
+            <l xml:id="swift-601-11M2-line-20" n="20">By Rapine, Theft, or Thirst of Blood.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-21" n="21"><lb/>T<hi rend="small-caps">HE</hi> Ass approaching next, confess'd,</l>
+            <l xml:id="swift-601-11M2-line-22" n="22">That in his Heart he lov'd a Jest:</l>
+            <l xml:id="swift-601-11M2-line-23" n="23">A Wag he was, he needs must own,</l>
+            <l xml:id="swift-601-11M2-line-24" n="24">And could not let a Dunce alone:</l>
+            <l xml:id="swift-601-11M2-line-25" n="25">Sometimes his Friend he would not spare,</l>
+            <l xml:id="swift-601-11M2-line-26" n="26">And might perhaps be too severe:</l>
+            <l xml:id="swift-601-11M2-line-27" n="27">But yet, the worst that could be said,</l>
+            <l xml:id="swift-601-11M2-line-28" n="28">He was a <hi rend="italics">Wit</hi> both born and bred;</l>
+            <l xml:id="swift-601-11M2-line-29" n="29">And, if it be a Sin or Shame,</l>
+            <l xml:id="swift-601-11M2-line-30" n="30">Nature alone must bear the Blame:</l>
+            <l xml:id="swift-601-11M2-line-31" n="31">One Fault he hath, is sorry for't,</l>
+            <l xml:id="swift-601-11M2-line-32" n="32">His Ears are half a Foot too short;</l>
+            <l xml:id="swift-601-11M2-line-33" n="33">Which could he to the Standard bring,</l>
+            <l xml:id="swift-601-11M2-line-34" n="34">He'd shew his Face before the K──·──:</l>
+            <l xml:id="swift-601-11M2-line-35" n="35">Then, for his Voice, there's none disputes</l>
+            <l xml:id="swift-601-11M2-line-36" n="36">That he's the Nightingale of Brutes.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-37" n="37"><lb/>T<hi rend="small-caps">HE</hi> Swine with contrite Heart allow'd,</l>
+            <l xml:id="swift-601-11M2-line-38" n="38">His Shape and Beauty made him proud:</l>
+            <l xml:id="swift-601-11M2-line-39" n="39">In Diet was perhaps too nice,</l>
+            <l xml:id="swift-601-11M2-line-40" n="40">But Gluttony was ne'er his Vice:</l>
+            <l xml:id="swift-601-11M2-line-41" n="41">In ev'ry Turn of Life content,</l>
+            <l xml:id="swift-601-11M2-line-42" n="42">And meekly took what Fortune sent:</l>
+            <l xml:id="swift-601-11M2-line-43" n="43">Enquire through all the Parish round,</l>
+            <l xml:id="swift-601-11M2-line-44" n="44">A better Neighbour ne'er was found:</l>
+            <l xml:id="swift-601-11M2-line-45" n="45">His Vigilance might some displease;</l>
+            <l xml:id="swift-601-11M2-line-46" n="46">'Tis true, he hated Sloth like Pease.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-47" n="47"><lb/>T<hi rend="small-caps">HE</hi> mimic Ape began his Chatter,</l>
+            <l xml:id="swift-601-11M2-line-48" n="48">How evil Tongues his Life bespatter:</l>
+            <l xml:id="swift-601-11M2-line-49" n="49">Much of the cens'ring World complain'd,</l>
+            <l xml:id="swift-601-11M2-line-50" n="50">Who said, his Gravity was feign'd:</l>
+            <l xml:id="swift-601-11M2-line-51" n="51">Indeed, the Strictness of his Morals</l>
+            <l xml:id="swift-601-11M2-line-52" n="52">Engag'd him in an Hundred Quarrels:</l>
+            <l xml:id="swift-601-11M2-line-53" n="53">He saw, and he was griev'd to see't,</l>
+            <l xml:id="swift-601-11M2-line-54" n="54">His Zeal was sometimes indiscreet:</l>
+            <l xml:id="swift-601-11M2-line-55" n="55">He found his Virtues too severe</l>
+            <l xml:id="swift-601-11M2-line-56" n="56">For our corrupted Times to bear:</l>
+            <l xml:id="swift-601-11M2-line-57" n="57">Yet, such a leud licentious Age</l>
+            <l xml:id="swift-601-11M2-line-58" n="58">Might well excuse a Stoic's Rage.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-59" n="59"><lb/>T<hi rend="small-caps">HE</hi> Goat advanc'd with decent Pace:</l>
+            <l xml:id="swift-601-11M2-line-60" n="60">And, first excus'd his youthful Face;</l>
+            <l xml:id="swift-601-11M2-line-61" n="61">Forgiveness begg'd, that he appear'd</l>
+            <l xml:id="swift-601-11M2-line-62" n="62">('Twas Nature's Fault) without a Beard.</l>
+            <l xml:id="swift-601-11M2-line-63" n="63">'Tis true, he was not much inclin'd</l>
+            <l xml:id="swift-601-11M2-line-64" n="64">To Fondness for the Female Kind;</l>
+            <l xml:id="swift-601-11M2-line-65" n="65">Not, as his Enemies object,</l>
+            <l xml:id="swift-601-11M2-line-66" n="66">From Chance, or natural Defect;</l>
+            <l xml:id="swift-601-11M2-line-67" n="67">Not by his frigid Constitution,</l>
+            <l xml:id="swift-601-11M2-line-68" n="68">But through a pious Resolution;</l>
+            <l xml:id="swift-601-11M2-line-69" n="69">For he had made a holy Vow,</l>
+            <l xml:id="swift-601-11M2-line-70" n="70">Of Chastity, as Monks do now;</l>
+            <l xml:id="swift-601-11M2-line-71" n="71">Which he resolv'd to keep for ever hence,</l>
+            <l xml:id="swift-601-11M2-line-72" n="72">As strictly too, as doth his <note place="foot">·The Priest his Confessor.</note> Reverence.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-73" n="73"><lb/>A<hi rend="small-caps">PPLY</hi> the Tale, and you shall find</l>
+            <l xml:id="swift-601-11M2-line-74" n="74">How just it suits with Human-kind.</l>
+            <l xml:id="swift-601-11M2-line-75" n="75">Some Faults we own: But, can you guess?</l>
+            <l xml:id="swift-601-11M2-line-76" n="76">Why?──── Virtue's carried to excess;</l>
+            <l xml:id="swift-601-11M2-line-77" n="77">Wherewith our Vanity endows us,</l>
+            <l xml:id="swift-601-11M2-line-78" n="78">Though neither Foe nor Friend allows us.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-79" n="79"><lb/>T<hi rend="small-caps">HE</hi> Lawyer swears, you may rely on't,</l>
+            <l xml:id="swift-601-11M2-line-80" n="80">He never squeez'd a needy Client:</l>
+            <l xml:id="swift-601-11M2-line-81" n="81">And, this he makes his constant Rule;</l>
+            <l xml:id="swift-601-11M2-line-82" n="82">For which his Brethren call him Fool:</l>
+            <l xml:id="swift-601-11M2-line-83" n="83">His Conscience always was so nice,</l>
+            <l xml:id="swift-601-11M2-line-84" n="84">He freely gave the Poor Advice;</l>
+            <l xml:id="swift-601-11M2-line-85" n="85">By which he lost, he may affirm,</l>
+            <l xml:id="swift-601-11M2-line-86" n="86">A Hundred Fees last <hi rend="italics">Easter</hi> Term.</l>
+            <l xml:id="swift-601-11M2-line-87" n="87">While others of the learned Robe</l>
+            <l xml:id="swift-601-11M2-line-88" n="88">Would break the Patience of a <hi rend="italics">Job</hi>;</l>
+            <l xml:id="swift-601-11M2-line-89" n="89">No Pleader at the Bar could match</l>
+            <l xml:id="swift-601-11M2-line-90" n="90">His Diligence and quick Dispatch;</l>
+            <l xml:id="swift-601-11M2-line-91" n="91">Ne'er kept a Cause, he well may boast,</l>
+            <l xml:id="swift-601-11M2-line-92" n="92">Above a Term or two at most.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-93" n="93"><lb/>T<hi rend="small-caps">HE</hi> cringing Knave, who seeks a Place</l>
+            <l xml:id="swift-601-11M2-line-94" n="94">Without Success, thus tells his Case:</l>
+            <l xml:id="swift-601-11M2-line-95" n="95">Why should he longer mince the Matter?</l>
+            <l xml:id="swift-601-11M2-line-96" n="96">He fail'd, because he could not flatter;</l>
+            <l xml:id="swift-601-11M2-line-97" n="97">He had not learn'd to turn his Coat,</l>
+            <l xml:id="swift-601-11M2-line-98" n="98">Nor for a Party give his Vote:</l>
+            <l xml:id="swift-601-11M2-line-99" n="99">His Crime he quickly understood;</l>
+            <l xml:id="swift-601-11M2-line-100" n="100">Too zealous for the Nation's Good:</l>
+            <l xml:id="swift-601-11M2-line-101" n="101">He found, the Ministers resent it,</l>
+            <l xml:id="swift-601-11M2-line-102" n="102">Yet could not for his Heart repent it.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-103" n="103"><lb/>T<hi rend="small-caps">HE</hi> Chaplain vows he cannot fawn,</l>
+            <l xml:id="swift-601-11M2-line-104" n="104">Though it would raise him to the Lawn:</l>
+            <l xml:id="swift-601-11M2-line-105" n="105">He pass'd his Hours among his Books;</l>
+            <l xml:id="swift-601-11M2-line-106" n="106">You find it in his meagre Looks:</l>
+            <l xml:id="swift-601-11M2-line-107" n="107">He might if he were worldly wise,</l>
+            <l xml:id="swift-601-11M2-line-108" n="108">Preferment get and spare his Eyes:</l>
+            <l xml:id="swift-601-11M2-line-109" n="109">But own'd, he had a stubborn Spirit,</l>
+            <l xml:id="swift-601-11M2-line-110" n="110">That made him trust alone in Merit:</l>
+            <l xml:id="swift-601-11M2-line-111" n="111">Would rise by Merit to Promotion;</l>
+            <l xml:id="swift-601-11M2-line-112" n="112">Alas! a mere chimeric Notion.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-113" n="113"><lb/>T<hi rend="small-caps">HE</hi> Doctor, if you will believe him,</l>
+            <l xml:id="swift-601-11M2-line-114" n="114">Confess'd a Sin, and God forgive him:</l>
+            <l xml:id="swift-601-11M2-line-115" n="115">Call'd up at Midnight, ran to save</l>
+            <l xml:id="swift-601-11M2-line-116" n="116">A blind old Beggar from the Grave:</l>
+            <l xml:id="swift-601-11M2-line-117" n="117">But, see how <hi rend="italics">Satan</hi> spreads his Snares;</l>
+            <l xml:id="swift-601-11M2-line-118" n="118">He quite forgot to say his Pray'rs.</l>
+            <l xml:id="swift-601-11M2-line-119" n="119">He cannot help it for his Heart</l>
+            <l xml:id="swift-601-11M2-line-120" n="120">Sometimes to act the Parson's Part:</l>
+            <l xml:id="swift-601-11M2-line-121" n="121">Quotes from the Bible many a Sentence</l>
+            <l xml:id="swift-601-11M2-line-122" n="122">That moves his Patients to Repentance:</l>
+            <l xml:id="swift-601-11M2-line-123" n="123">And, when his Med'cines do no Good,</l>
+            <l xml:id="swift-601-11M2-line-124" n="124">Supports their Minds with heav'nly Food.</l>
+            <l xml:id="swift-601-11M2-line-125" n="125">At which, however well intended,</l>
+            <l xml:id="swift-601-11M2-line-126" n="126">He hears the Clergy are offended;</l>
+            <l xml:id="swift-601-11M2-line-127" n="127">And grown so bold behind his Back,</l>
+            <l xml:id="swift-601-11M2-line-128" n="128">To call him Hypocrite and Quack.</l>
+            <l xml:id="swift-601-11M2-line-129" n="129">In his own Church he keeps a Seat;</l>
+            <l xml:id="swift-601-11M2-line-130" n="130">Says Grace before, and after Meat;</l>
+            <l xml:id="swift-601-11M2-line-131" n="131">And calls, without affecting Airs,</l>
+            <l xml:id="swift-601-11M2-line-132" n="132">His Houshold twice a Day to Pray'rs.</l>
+            <l xml:id="swift-601-11M2-line-133" n="133">He shuns Apothecaries Shops;</l>
+            <l xml:id="swift-601-11M2-line-134" n="134">And hates to cram the Sick with Slops:</l>
+            <l xml:id="swift-601-11M2-line-135" n="135">He scorns to make his Art a Trade;</l>
+            <l xml:id="swift-601-11M2-line-136" n="136">Nor bribes my Lady's fav'rite Maid.</l>
+            <l xml:id="swift-601-11M2-line-137" n="137">Old Nurse-keepers would never hire</l>
+            <l xml:id="swift-601-11M2-line-138" n="138">To recommend him to the Squire;</l>
+            <l xml:id="swift-601-11M2-line-139" n="139">Which others, whom he will not name,</l>
+            <l xml:id="swift-601-11M2-line-140" n="140">Have often practis'd to their Shame.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-141" n="141"><lb/>T<hi rend="small-caps">HE</hi> Statesman tells you with a <hi rend="italics">Sneer</hi>,</l>
+            <l xml:id="swift-601-11M2-line-142" n="142">His Fault is to be too <hi rend="italics">sincere</hi>;</l>
+            <l xml:id="swift-601-11M2-line-143" n="143">And, having no sinister Ends,</l>
+            <l xml:id="swift-601-11M2-line-144" n="144">Is apt to disoblige his Friends.</l>
+            <l xml:id="swift-601-11M2-line-145" n="145">The Nation's Good, his Master's Glory,</l>
+            <l xml:id="swift-601-11M2-line-146" n="146">Without Regard to <hi rend="italics">Whig</hi> or <hi rend="italics">Tory</hi>,</l>
+            <l xml:id="swift-601-11M2-line-147" n="147">Were all the Schemes he had in View;</l>
+            <l xml:id="swift-601-11M2-line-148" n="148">Yet he was seconded by few:</l>
+            <l xml:id="swift-601-11M2-line-149" n="149">Though some had spread a Thousand Lyes,</l>
+            <l xml:id="swift-601-11M2-line-150" n="150">'Twas <hi rend="italics">He</hi> defeated the E<hi rend="small-caps">XCISE</hi>.</l>
+            <l xml:id="swift-601-11M2-line-151" n="151">'Twas known, though he had born Aspersion,</l>
+            <l xml:id="swift-601-11M2-line-152" n="152">That <hi rend="italics">Standing Troops</hi> were his Aversion:</l>
+            <l xml:id="swift-601-11M2-line-153" n="153">His Practice was, in ev'ry Station,</l>
+            <l xml:id="swift-601-11M2-line-154" n="154">To serve the King, and please the Nation.</l>
+            <l xml:id="swift-601-11M2-line-155" n="155">Though hard to find in ev'ry Case</l>
+            <l xml:id="swift-601-11M2-line-156" n="156">The fittest Man to fill a Place:</l>
+            <l xml:id="swift-601-11M2-line-157" n="157">His Promises he ne'er forgot,</l>
+            <l xml:id="swift-601-11M2-line-158" n="158">But took Memorials on the Spot:</l>
+            <l xml:id="swift-601-11M2-line-159" n="159">His Enemies for want of Charity,</l>
+            <l xml:id="swift-601-11M2-line-160" n="160">Said, he affected Popularity:</l>
+            <l xml:id="swift-601-11M2-line-161" n="161">'Tis true, the People understood,</l>
+            <l xml:id="swift-601-11M2-line-162" n="162">That all he did was for their Good;</l>
+            <l xml:id="swift-601-11M2-line-163" n="163">Their kind Affections he has try'd;</l>
+            <l xml:id="swift-601-11M2-line-164" n="164">No Love is lost on either Side.</l>
+            <l xml:id="swift-601-11M2-line-165" n="165">He came to Court with Fortune clear,</l>
+            <l xml:id="swift-601-11M2-line-166" n="166">Which now he runs out ev'ry Year;</l>
+            <l xml:id="swift-601-11M2-line-167" n="167">Must, at the Rate that he goes on,</l>
+            <l xml:id="swift-601-11M2-line-168" n="168">Inevitably be undone.</l>
+            <l xml:id="swift-601-11M2-line-169" n="169">Oh! if his Majesty would please</l>
+            <l xml:id="swift-601-11M2-line-170" n="170">To give him but a Writ of Ease,</l>
+            <l xml:id="swift-601-11M2-line-171" n="171">Would grant him Licence to retire,</l>
+            <l xml:id="swift-601-11M2-line-172" n="172">As it hath long been his Desire,</l>
+            <l xml:id="swift-601-11M2-line-173" n="173">By fair Accounts it would be found,</l>
+            <l xml:id="swift-601-11M2-line-174" n="174">He's poorer by ten Thousand Pound.</l>
+            <l xml:id="swift-601-11M2-line-175" n="175">He owns, and hopes it is no Sin,</l>
+            <l xml:id="swift-601-11M2-line-176" n="176">He ne'er was partial to his Kin;</l>
+            <l xml:id="swift-601-11M2-line-177" n="177">He thought it base for Men in Stations,</l>
+            <l xml:id="swift-601-11M2-line-178" n="178">To crowd the Court with their Relations:</l>
+            <l xml:id="swift-601-11M2-line-179" n="179">His Country was his dearest Mother,</l>
+            <l xml:id="swift-601-11M2-line-180" n="180">And ev'ry virtuous Man his Brother;</l>
+            <l xml:id="swift-601-11M2-line-181" n="181">Through Modesty or aukward Shame,</l>
+            <l xml:id="swift-601-11M2-line-182" n="182">(For which he owns himself to blame)</l>
+            <l xml:id="swift-601-11M2-line-183" n="183">He found the wisest Men he cou'd,</l>
+            <l xml:id="swift-601-11M2-line-184" n="184">Without Respect to Friends, or Blood;</l>
+            <l xml:id="swift-601-11M2-line-185" n="185">Nor ever acts on private Views,</l>
+            <l xml:id="swift-601-11M2-line-186" n="186">When he hath Liberty to chuse.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-187" n="187"><lb/>T<hi rend="small-caps">HE</hi> Sharper swore he hated Play,</l>
+            <l xml:id="swift-601-11M2-line-188" n="188">Except to pass an Hour away:</l>
+            <l xml:id="swift-601-11M2-line-189" n="189">And well he might; for to his Cost,</l>
+            <l xml:id="swift-601-11M2-line-190" n="190">By want of Skill, he always lost;</l>
+            <l xml:id="swift-601-11M2-line-191" n="191">He heard there was a Club of Cheats,</l>
+            <l xml:id="swift-601-11M2-line-192" n="192">Who had contriv'd a Thousand Feats;</l>
+            <l xml:id="swift-601-11M2-line-193" n="193">Could change the Stock, or cog a Dye,</l>
+            <l xml:id="swift-601-11M2-line-194" n="194">And thus deceive the sharpest Eye:</l>
+            <l xml:id="swift-601-11M2-line-195" n="195">No wonder how his Fortune sunk,</l>
+            <l xml:id="swift-601-11M2-line-196" n="196">His Brothers fleece him when he's drunk.</l>
+            <l rend="indent(1)" xml:id="swift-601-11M2-line-197" n="197"><lb/>I <hi rend="small-caps">OWN</hi> the Moral not exact;</l>
+            <l xml:id="swift-601-11M2-line-198" n="198">Besides, the Tale is false in Fact;</l>
+            <l xml:id="swift-601-11M2-line-199" n="199">And, so absurd, that, could I raise up</l>
+            <l xml:id="swift-601-11M2-line-200" n="200">From Fields <hi rend="italics">Elyzian</hi>, fabling <hi rend="italics">Esop</hi>;</l>
+            <l xml:id="swift-601-11M2-line-201" n="201">I would accuse him to his Face,</l>
+            <l xml:id="swift-601-11M2-line-202" n="202">For libelling the <hi rend="italics">Four-foot</hi> Race.</l>
+            <l xml:id="swift-601-11M2-line-203" n="203">Creatures of ev'ry Kind but ours</l>
+            <l xml:id="swift-601-11M2-line-204" n="204">Well comprehend their nat'ral Pow'rs;</l>
+            <l xml:id="swift-601-11M2-line-205" n="205">While We, whom <hi rend="italics">Reason</hi> ought to sway,</l>
+            <l xml:id="swift-601-11M2-line-206" n="206">Mistake our Talents ev'ry Day:</l>
+            <l xml:id="swift-601-11M2-line-207" n="207">The Ass was never known so stupid</l>
+            <l xml:id="swift-601-11M2-line-208" n="208">To act the Part of <hi rend="italics">Tray</hi> or <hi rend="italics">Cupid</hi>;</l>
+            <l xml:id="swift-601-11M2-line-209" n="209">Nor leaps upon his Master's Lap,</l>
+            <l xml:id="swift-601-11M2-line-210" n="210">There to be stroak'd, and fed with Pap;</l>
+            <l xml:id="swift-601-11M2-line-211" n="211">As <hi rend="italics">Esop</hi> would the World persuade;</l>
+            <l xml:id="swift-601-11M2-line-212" n="212">He better understands his Trade:</l>
+            <l xml:id="swift-601-11M2-line-213" n="213">Nor comes whene'er his Lady whistles;</l>
+            <l xml:id="swift-601-11M2-line-214" n="214">But carries Loads, and feeds on Thistles;</l>
+            <l xml:id="swift-601-11M2-line-215" n="215">Our Author's Meaning, I presume, is</l>
+            <l xml:id="swift-601-11M2-line-216" n="216">A Creature <note place="foot">·<hi rend="italics">A Definition of Man disapproved by all Logicians</hi>: Homo est Animal bipes, implume, erecto vultu.</note> <hi rend="italics">bipes  implumis</hi>;</l>
+            <l xml:id="swift-601-11M2-line-217" n="217">Wherein the Moralist design'd</l>
+            <l xml:id="swift-601-11M2-line-218" n="218">A Compliment on Human-kind:</l>
+            <l xml:id="swift-601-11M2-line-219" n="219">For, here he owns, that now and then</l>
+            <l xml:id="swift-601-11M2-line-220" n="220"><note place="foot">·<hi rend="italics">Vide </hi>Gulliver<hi rend="italics"> in his Account of the </hi>Hounyhnhnms.</note> Beasts may <hi rend="italics">degen'rate</hi> into Men.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

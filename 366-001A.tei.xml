@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr Delany wrote to Dr Swift, in order<lb/>  to be admitted to speak to him when he<lb/>  was Deaf. to which the Dean sent the<lb/>  following Answer.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 22AP09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="366-001A">
+          <head type="note" n="1" xml:id="spp-366-001A-headnote-1">
+            <lg n="1" xml:id="spp-366-001A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-366-001A-headnote-1-line-group-1-line-1">Written in the Year 1724.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-366-001A-headnote-2">
+            <lg n="1" xml:id="spp-366-001A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-366-001A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-366-001A-headnote-3">
+            <lg n="1" xml:id="spp-366-001A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-366-001A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-366-001A-line-1" n="1">The wise pretend to make it clear,</l>
+            <l xml:id="swift-366-001A-line-2" n="2">'Tis no great loss to lose an ear.</l>
+            <l xml:id="swift-366-001A-line-3" n="3">Why are we then so fond of two,</l>
+            <l xml:id="swift-366-001A-line-4" n="4">When by experience one would do.</l>
+            <l rend="indent(1)" xml:id="swift-366-001A-line-5" n="5"><lb/>'Tis true, say they, cut off the head,</l>
+            <l xml:id="swift-366-001A-line-6" n="6">And there's an end, the man is dead;</l>
+            <l xml:id="swift-366-001A-line-7" n="7">Because among all human race,</l>
+            <l xml:id="swift-366-001A-line-8" n="8">None e'er was known to have a brace;</l>
+            <l xml:id="swift-366-001A-line-9" n="9">But confidently they maintain,</l>
+            <l xml:id="swift-366-001A-line-10" n="10">That where we find the Members twain,</l>
+            <l xml:id="swift-366-001A-line-11" n="11">The loss of one is no such trouble,</l>
+            <l xml:id="swift-366-001A-line-12" n="12">Since t'other will in Strength be double:</l>
+            <l xml:id="swift-366-001A-line-13" n="13">The limb Surviving you may swear,</l>
+            <l xml:id="swift-366-001A-line-14" n="14">Becomes his brothers lawful heir.</l>
+            <l xml:id="swift-366-001A-line-15" n="15">Thus for a trial let me beg of</l>
+            <l xml:id="swift-366-001A-line-16" n="16">Your Rev'rence but to cut one Leg off</l>
+            <l xml:id="swift-366-001A-line-17" n="17">And you shall find by this device</l>
+            <l xml:id="swift-366-001A-line-18" n="18">The other will be stronger twice.</l>
+            <l xml:id="swift-366-001A-line-19" n="19">For ev'ry day you shall be gaining</l>
+            <l xml:id="swift-366-001A-line-20" n="20">New Vigor to the leg remaining:</l>
+            <l xml:id="swift-366-001A-line-21" n="21">So when an Eye hath lost its Brother,</l>
+            <l xml:id="swift-366-001A-line-22" n="22">You see the better with the other:</l>
+            <l xml:id="swift-366-001A-line-23" n="23">Cut off your hand and you may do</l>
+            <l xml:id="swift-366-001A-line-24" n="24">With t'other hand the Work of two:</l>
+            <l xml:id="swift-366-001A-line-25" n="25">Because the Soul her pow'r Contracts,</l>
+            <l xml:id="swift-366-001A-line-26" n="26">And on the Brother Limb <hi rend="italics">reacts</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-366-001A-line-27" n="27">But yet the point is not so clear in</l>
+            <l xml:id="swift-366-001A-line-28" n="28">Another Case, the sense of hearing;</l>
+            <l xml:id="swift-366-001A-line-29" n="29">For tho' the place of either Ear</l>
+            <l xml:id="swift-366-001A-line-30" n="30">Be distant as one head can bear;</l>
+            <l xml:id="swift-366-001A-line-31" n="31">Yet Galen most acutely shews you</l>
+            <l xml:id="swift-366-001A-line-32" n="32">(Consult his book <hi rend="italics">de partiam usu,)</hi></l>
+            <l xml:id="swift-366-001A-line-33" n="33">That from each ear as he observes,</l>
+            <l xml:id="swift-366-001A-line-34" n="34">There crept two auditory nerves,</l>
+            <l xml:id="swift-366-001A-line-35" n="35">Not to be seen without a Glass,</l>
+            <l xml:id="swift-366-001A-line-36" n="36">Which near the Os <hi rend="italics">petrosum</hi> pass,</l>
+            <l xml:id="swift-366-001A-line-37" n="37">Thence to the Neck, and moving thorough there</l>
+            <l xml:id="swift-366-001A-line-38" n="38">One goes to this, and one to t'other ear.</l>
+            <l xml:id="swift-366-001A-line-39" n="39">Which made my grand-dame always stuff her Ears,</l>
+            <l xml:id="swift-366-001A-line-40" n="40">Both right and left as fellow sufferrers.</l>
+            <l xml:id="swift-366-001A-line-41" n="41">You see my Learning; but to shorten it,</l>
+            <l xml:id="swift-366-001A-line-42" n="42">When my left ear was deaf a fortnigt,</l>
+            <l xml:id="swift-366-001A-line-43" n="43">To t'other ear I felt it coming on</l>
+            <l xml:id="swift-366-001A-line-44" n="44">And thus I solve this hard <hi rend="italics">Phænomenon</hi>.</l>
+            <l xml:id="swift-366-001A-line-45" n="45">Tis true a glass will bring supplies</l>
+            <l xml:id="swift-366-001A-line-46" n="46">To weak, or old, or clouded Eyes:</l>
+            <l xml:id="swift-366-001A-line-47" n="47">Your Arms, tho' both your eyes were lost,</l>
+            <l xml:id="swift-366-001A-line-48" n="48">Would guard your nose against a post:</l>
+            <l xml:id="swift-366-001A-line-49" n="49">Without your legs two Legs of Wood</l>
+            <l xml:id="swift-366-001A-line-50" n="50">Are stronger and almost as good:</l>
+            <l xml:id="swift-366-001A-line-51" n="51">And as for Hands there have been those,</l>
+            <l xml:id="swift-366-001A-line-52" n="52">Who wanting both, have us'd their Toes<note place="foot">·There was about this Time a man shew'd who wrote with his foot.</note>;</l>
+            <l xml:id="swift-366-001A-line-53" n="53">But no Contrivance yet appears,</l>
+            <l xml:id="swift-366-001A-line-54" n="54">To furnish artificial Ears.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

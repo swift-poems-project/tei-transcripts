@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Lady </hi>Betty Berkley<hi rend="italics"> finding in the Author's Room some<lb/>  Verses unfinished; underwrit a </hi>Stanza<hi rend="italics"> of her own, with<lb/>  Raillery upon him, which gave Occasion to this Ballad</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 14JA99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d PWingert 4JA01 agt 0251; ed. JW 9MR08, 27JL14, 10OC14, 8OC16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="076-36L-">
+          <head type="note" n="1" xml:id="spp-076-36L--headnote-1">
+            <lg n="1" xml:id="spp-076-36L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-36L--headnote-1-line-group-1-line-1">Written in the Year 1703.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-076-36L--headnote-2">
+            <lg n="1" xml:id="spp-076-36L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-36L--headnote-2-line-group-1-line-1"><hi rend="italics">To the Tune of, the Cut-purse</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-076-36L--headnote-3">
+            <lg n="1" xml:id="spp-076-36L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-36L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-076-36L--line-1" n="1">I.<lb/><hi rend="display-initial">O</hi>NCE on a Time, as old Stories rehearse,</l>
+            <l xml:id="swift-076-36L--line-2" n="2">A <note place="foot">·A Monk attempting to compose the Epitaph of <hi rend="italics">Bede</hi>, a celebrated writer of this Island, in a <hi rend="italics">Leonine</hi> or Rhiming Verse, after the manner of those times, wrote thus, <hi rend="italics">····Condimus hac fossa Bedæ</hi> ──────── Ossa. and after much Study not being able to supply the vacancy, left it unfinish'd on the Table, which he found in the Morning compleated thus, as was suppos'd, by an Angel. <hi rend="italics">····Condimus hæc fossa Bedæ Venerabilis Ossa</hi>. This Miracle was so firmly credited as to entail upon <hi rend="italics">Bede</hi> the epithet of Venerable to all posterity.</note> Friar would needs shew his Talent in <hi rend="italics">Latin</hi></l>
+            <l xml:id="swift-076-36L--line-3" n="3">But was sorely put to't in the Midst of a Verse,</l>
+            <l rend="indent(1)" xml:id="swift-076-36L--line-4" n="4">Because he could find out no Word to come pat in.</l>
+            <l rend="indent(2)" xml:id="swift-076-36L--line-5" n="5">|Then all in the Place</l>
+            <l rend="indent(2)" xml:id="swift-076-36L--line-6" n="6">|He left a void Space;</l>
+            <l xml:id="swift-076-36L--line-7" n="7">And so went to Bed in a desperate Case.</l>
+            <l xml:id="swift-076-36L--line-8" n="8">When behold, the next Morning a wonderful Riddle,</l>
+            <l xml:id="swift-076-36L--line-9" n="9">He found it was strangely fill'd up in the Middle.</l>
+            <l rend="indent(1)" xml:id="swift-076-36L--line-10" n="10">Cho. <hi rend="italics">Let censuring Criticks then think what they list on't,</hi></l>
+            <l xml:id="swift-076-36L--line-11" n="11"><hi rend="italics">Who would not write Verses with such an Assistant</hi>?</l>
+            <l rend="center" xml:id="swift-076-36L--line-12" n="12">II.<lb/>This put me the Friar into an Amazement;</l>
+            <l rend="indent(1)" xml:id="swift-076-36L--line-13" n="13">For he wisely consider'd it must be a Sprite,</l>
+            <l xml:id="swift-076-36L--line-14" n="14">That came thro' the Key-Hole; or in at the Casement;</l>
+            <l xml:id="swift-076-36L--line-15" n="15">And it needs must be one that could both read and write:</l>
+            <l rend="indent(2)" xml:id="swift-076-36L--line-16" n="16">|Yet did he not know</l>
+            <l rend="indent(2)" xml:id="swift-076-36L--line-17" n="17">|If it were Friend or Foe,</l>
+            <l xml:id="swift-076-36L--line-18" n="18">Or whether it came from above or below.</l>
+            <l xml:id="swift-076-36L--line-19" n="19">Howe'er, it was civil in Angel or Elf;</l>
+            <l xml:id="swift-076-36L--line-20" n="20">For he ne'er could have fill'd it so well of himself.</l>
+            <l rend="indent(1)" xml:id="swift-076-36L--line-21" n="21">Cho. <hi rend="italics">Let censuring</hi>, &amp;c.</l>
+            <l xml:id="swift-076-36L--line-22" n="22">om.</l>
+            <l rend="center" xml:id="swift-076-36L--line-23" n="23">III.<lb/>Even so Master Doctor had puzzled his Brains</l>
+            <l rend="indent(1)" xml:id="swift-076-36L--line-24" n="24">In making a Ballad, but was at a stand;</l>
+            <l xml:id="swift-076-36L--line-25" n="25">He had mix'd little Wit with a great deal of Pains;</l>
+            <l xml:id="swift-076-36L--line-26" n="26">When he found a new Help from invisible Hand.</l>
+            <l rend="indent(2)" xml:id="swift-076-36L--line-27" n="27">|Then good Dr. <hi rend="italics">S</hi>────,</l>
+            <l rend="indent(2)" xml:id="swift-076-36L--line-28" n="28">|Pay thanks for the Gift,</l>
+            <l xml:id="swift-076-36L--line-29" n="29">For you freely must own you were at a dead Lift:</l>
+            <l xml:id="swift-076-36L--line-30" n="30">And tho' some malicious young Spirit did do't,</l>
+            <l xml:id="swift-076-36L--line-31" n="31">You may see by the <hi rend="italics">Hand</hi> it had no cloven <hi rend="italics">Foot</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-076-36L--line-32" n="32">Cho. <hi rend="italics">Let censuring</hi>, &amp;c.</l>
+            <l xml:id="swift-076-36L--line-33" n="33">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

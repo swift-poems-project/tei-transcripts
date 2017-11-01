@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7AU16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> --</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="368A25YC">
+          <head type="note" n="1" xml:id="spp-368A25YC-headnote-1">
+            <lg n="1" xml:id="spp-368A25YC-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A25YC-headnote-1-line-group-1-line-1">Dublin, Feb. 18. We hear that when the Reverend Dean Swift went (lately) to attend upon his Excellency, the Lord Lieutenant, after tarrying some time in the Levee-Room, he wrote the following Distich on an old Card.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-368A25YC-headnote-2">
+            <lg n="1" xml:id="spp-368A25YC-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A25YC-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-368A25YC-headnote-3">
+            <lg n="1" xml:id="spp-368A25YC-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A25YC-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-368A25YC-line-1" n="1">
+              <hi rend="italics">My very Good Lord, it is a very hard Task,</hi>
+            </l>
+            <l xml:id="swift-368A25YC-line-2" n="2"><hi rend="italics">That I shou'd thus wait who have nothing to ask</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

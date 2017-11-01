@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On</hi> D<hi rend="small-caps">AN</hi> J<hi rend="small-caps">ACKSON</hi>'<hi rend="italics">s Picture cut<lb/>  in Paper</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 21JA00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="991A10M1">
+          <head type="note" n="1" xml:id="spp-991A10M1-headnote-1">
+            <lg n="1" xml:id="spp-991A10M1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A10M1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-991A10M1-headnote-2">
+            <lg n="1" xml:id="spp-991A10M1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A10M1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-991A10M1-headnote-3">
+            <lg n="1" xml:id="spp-991A10M1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A10M1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-991A10M1-line-1" n="1"><hi rend="display-initial">T</hi>O fair Lady <hi rend="italics">Betty, Dan</hi> sat for his Picture,</l>
+            <l xml:id="swift-991A10M1-line-2" n="2">And defy'd her to draw him so oft as he piqu'd her.</l>
+            <l xml:id="swift-991A10M1-line-3" n="3">He knew she'd no Pencil or Colouring by her,</l>
+            <l xml:id="swift-991A10M1-line-4" n="4">And therefore he thought he might safely defy her.</l>
+            <l xml:id="swift-991A10M1-line-5" n="5">Come sit, says my Lady, then whips up her Scissar,</l>
+            <l xml:id="swift-991A10M1-line-6" n="6">And cuts out his Coxcomb in Silk in a Trice, Sir,</l>
+            <l xml:id="swift-991A10M1-line-7" n="7"><hi rend="italics">Dan</hi> sat with Attention, and saw with Surprize</l>
+            <l xml:id="swift-991A10M1-line-8" n="8">How she lengthen'd his Chin, how she hollow'd his Eyes,</l>
+            <l xml:id="swift-991A10M1-line-9" n="9">But flatter'd himself with a secret Conceit,</l>
+            <l xml:id="swift-991A10M1-line-10" n="10">That his thin leathern Jaws all her Art wou'd defeat.</l>
+            <l xml:id="swift-991A10M1-line-11" n="11">Lady <hi rend="italics">Betty</hi> observ'd it, then pulls out a Pin,</l>
+            <l xml:id="swift-991A10M1-line-12" n="12">And varies the Grain of the Stuff to his Grin;</l>
+            <l xml:id="swift-991A10M1-line-13" n="13">And to make roasted Silk to resemble his rawbone,</l>
+            <l xml:id="swift-991A10M1-line-14" n="14">She rais'd up a Thread to the jett of his Jawbone;</l>
+            <l xml:id="swift-991A10M1-line-15" n="15">Till at length, in exactest Proportion he rose,</l>
+            <l xml:id="swift-991A10M1-line-16" n="16">From the Crown of his Head to the Arch of his Nose.</l>
+            <l xml:id="swift-991A10M1-line-17" n="17">And if Lady <hi rend="italics">Betty</hi> had drawn him with Wig and all,</l>
+            <l xml:id="swift-991A10M1-line-18" n="18">'Tis certain the Copy had out-done the Original.</l>
+            <l rend="indent(1)" xml:id="swift-991A10M1-line-19" n="19"><lb/>Well, that's but my Outside, says <hi rend="italics">Dan</hi> with a Vapour.</l>
+            <l xml:id="swift-991A10M1-line-20" n="20">Say you so? says my Lady; I've lin'd it with Paper.</l>
+            <l xml:id="swift-991A10M1-line-21" n="21">
+              <space>P──── D──── <hi rend="italics">Sculpsit</hi>/hi&gt;.</space>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

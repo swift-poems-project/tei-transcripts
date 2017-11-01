@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>GEORGE NIM-DAN-DEAN's INVITATION<lb/>  TO M<hi rend="small-caps">R</hi>. THOMAS SHERIDAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 19JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. SK 10JL10; ed. JW 5AU11; EMENDED JW 21AP17, 25AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X22-CWJS">
+          <head type="note" n="1" xml:id="spp-X22-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-X22-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X22-CWJS-headnote-1-line-group-1-line-1">
+                <note rend="flush right">Gallstown, August 2d, 1721.<note rend="flush left"></note></note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X22-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-X22-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X22-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X22-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-X22-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X22-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X22-CWJS-line-1" n="1">
+              <hi rend="display-initial">D<hi rend="small-caps">EAR</hi> Tom, this verse, which however the beginning may appear, yet in the end's good metre,</hi>
+            </l>
+            <l xml:id="swift-X22-CWJS-line-2" n="2">Is sent to desire that, when your August vacation comes, your friends you'd meet here.</l>
+            <l xml:id="swift-X22-CWJS-line-3" n="3">For why should you stay in that filthy hole, I mean the city so smoaky,</l>
+            <l xml:id="swift-X22-CWJS-line-4" n="4">When you have not one friend left in town, or at least not one that's witty, to joke w'ye?</l>
+            <l xml:id="swift-X22-CWJS-line-5" n="5">For, as for honest John, tho' I am not sure on't, yet I'll be hang'd, less he</l>
+            <l xml:id="swift-X22-CWJS-line-6" n="6">Be gone down to the county of Wexford with that great peer the Lord Anglesey<hi rend="italics"/>.</l>
+            <l xml:id="swift-X22-CWJS-line-7" n="7">Oh! but I forgot, perhaps, by this time, you may have one come to town, but I don't know whether he be friend or foe, Delany:</l>
+            <l xml:id="swift-X22-CWJS-line-8" n="8">But, however, if he be come, bring him down, and you shall go back in a fortnight, for I know there's no delaying ye.</l>
+            <l xml:id="swift-X22-CWJS-line-9" n="9">Oh! I forgot too, I believe there may be one more, I mean that great fat joker, friend Helsham, he<hi rend="italics"/></l>
+            <l xml:id="swift-X22-CWJS-line-10" n="10">That wrote the Prologue, and if you stay with him, depend on't, in the end, he'll sham ye.</l>
+            <l xml:id="swift-X22-CWJS-line-11" n="11">Bring down Long Shanks Jim too, but now I think on't, he's not come yet from Courtown<hi rend="italics"/>, I fancy;</l>
+            <l xml:id="swift-X22-CWJS-line-12" n="12">For I heard, a month ago, that he was down there a courting Sly Nancy.</l>
+            <l xml:id="swift-X22-CWJS-line-13" n="13">However, bring down yourself, and you bring down all; for, to say it we may venture,</l>
+            <l xml:id="swift-X22-CWJS-line-14" n="14">In thee Delany's spleen, John's mirth, Helsham's jokes, and the soft soul of amorous Jemmy center.</l>
+            <l rend="center" xml:id="swift-X22-CWJS-line-15" n="15"><lb/>POSTSCRIPT._I had forgot to desire you to bring down what I say you have, and you'll believe me as sure as a gun, and own it;</l>
+            <l xml:id="swift-X22-CWJS-line-16" n="16">I mean, what no other mortal in the universe can boast of, your own spirit of pun, and own wit.</l>
+            <l xml:id="swift-X22-CWJS-line-17" n="17">And now I hope you'll excuse this rhyming, which I must say is (tho' written somewhat at large) trim and clean;</l>
+            <l rend="indent(1)" xml:id="swift-X22-CWJS-line-18" n="18">And so I conclude, with humble respects as usual, Your most dutiful and obedient<lb/>«LD»George Nim-Dan-Dean.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

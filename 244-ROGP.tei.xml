@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Description of an Irish Feast</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="244-ROGP">
+          <head type="note" n="1" xml:id="spp-244-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-244-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-ROGP-headnote-1-line-group-1-line-1">TRANSLATED ALMOST LITERALLY OUT OF THE ORIGINAL IRISH&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-244-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-244-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-244-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-244-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-244-ROGP-line-1" n="1">O'Rourk's noble fare</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-2" n="2">Will ne'er be forgot,</l>
+            <l xml:id="swift-244-ROGP-line-3" n="3">By those who were there,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-4" n="4">And those who were not.</l>
+            <l xml:id="swift-244-ROGP-line-5" n="5">His revels to keep,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-6" n="6">We sup and we dine,</l>
+            <l xml:id="swift-244-ROGP-line-7" n="7">On seven score sheep,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-8" n="8">Fat bullock and swine.</l>
+            <l xml:id="swift-244-ROGP-line-9" n="9">Usquebaugh to our feast</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-10" n="10">In pails was brought up,</l>
+            <l xml:id="swift-244-ROGP-line-11" n="11">An hundred at least,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-12" n="12">And a madder our cup.</l>
+            <l xml:id="swift-244-ROGP-line-13" n="13">O there is the sport,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-14" n="14">We rise with the light,</l>
+            <l xml:id="swift-244-ROGP-line-15" n="15">In disorderly sort,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-16" n="16">From snoring all night.</l>
+            <l xml:id="swift-244-ROGP-line-17" n="17">O how was I tricked,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-18" n="18">My pipe it was broke,</l>
+            <l xml:id="swift-244-ROGP-line-19" n="19">My pocket was picked,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-20" n="20">I lost my new cloak.</l>
+            <l xml:id="swift-244-ROGP-line-21" n="21">I'm rifled, quoth Nell,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-22" n="22">Of mantle and kercher,</l>
+            <l xml:id="swift-244-ROGP-line-23" n="23">Why then fare them well,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-24" n="24">The de'il take the searcher.</l>
+            <l xml:id="swift-244-ROGP-line-25" n="25">Come, harper, strike up,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-26" n="26">But first by your favour,</l>
+            <l xml:id="swift-244-ROGP-line-27" n="27">Boy, give us a cup;</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-28" n="28">Ay, this has some savour:</l>
+            <l xml:id="swift-244-ROGP-line-29" n="29">O'Rourk's jolly boys</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-30" n="30">Ne'er dreamt of the matter,</l>
+            <l xml:id="swift-244-ROGP-line-31" n="31">Till roused by the noise,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-32" n="32">And musical clatter,</l>
+            <l xml:id="swift-244-ROGP-line-33" n="33">They bounce from their nest,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-34" n="34">No longer will tarry,</l>
+            <l xml:id="swift-244-ROGP-line-35" n="35">They rise ready dressed,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-36" n="36">Without one <hi rend="italics">Ave Mary</hi>.</l>
+            <l xml:id="swift-244-ROGP-line-37" n="37">They dance in a round,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-38" n="38">Cutting capers and ramping,</l>
+            <l xml:id="swift-244-ROGP-line-39" n="39">A mercy the ground</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-40" n="40">Did not burst with their stamping,</l>
+            <l xml:id="swift-244-ROGP-line-41" n="41">The floor is all wet</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-42" n="42">With leaps and with jumps,</l>
+            <l xml:id="swift-244-ROGP-line-43" n="43">While the water and sweat,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-44" n="44">Splishsplash in their pumps.</l>
+            <l xml:id="swift-244-ROGP-line-45" n="45">Bless you late and early,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-46" n="46">Laughlin O' Enagin,</l>
+            <l xml:id="swift-244-ROGP-line-47" n="47">By my hand you dance rarely,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-48" n="48">Margery Grinagin.</l>
+            <l xml:id="swift-244-ROGP-line-49" n="49">Bring straw for our bed,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-50" n="50">Shake it down to the feet,</l>
+            <l xml:id="swift-244-ROGP-line-51" n="51">Then over us spread,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-52" n="52">The winnowing sheet.</l>
+            <l xml:id="swift-244-ROGP-line-53" n="53">To show, I don't flinch,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-54" n="54">Fill the bowl up again,</l>
+            <l xml:id="swift-244-ROGP-line-55" n="55">Then give us a pinch</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-56" n="56">Of your sneezing, a Yean.</l>
+            <l xml:id="swift-244-ROGP-line-57" n="57">Good Lord, what a sight,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-58" n="58">After all their good cheer,</l>
+            <l xml:id="swift-244-ROGP-line-59" n="59">For people to fight</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-60" n="60">In the midst of their beer:</l>
+            <l xml:id="swift-244-ROGP-line-61" n="61">They rise from their feast,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-62" n="62">And hot are their brains,</l>
+            <l xml:id="swift-244-ROGP-line-63" n="63">A cubit at least</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-64" n="64">The length of their skenes.</l>
+            <l xml:id="swift-244-ROGP-line-65" n="65">What stabs and what cuts,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-66" n="66">What clattering of sticks,</l>
+            <l xml:id="swift-244-ROGP-line-67" n="67">What strokes on the guts,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-68" n="68">What bastings and kicks!</l>
+            <l xml:id="swift-244-ROGP-line-69" n="69">With cudgels of oak,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-70" n="70">Well hardened in flame,</l>
+            <l xml:id="swift-244-ROGP-line-71" n="71">An hundred heads broke,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-72" n="72">An hundred struck lame.</l>
+            <l xml:id="swift-244-ROGP-line-73" n="73">You churl, I'll maintain</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-74" n="74">My father built Lusk,</l>
+            <l xml:id="swift-244-ROGP-line-75" n="75">The castle of Slane,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-76" n="76">And Carrickdrumrusk:</l>
+            <l xml:id="swift-244-ROGP-line-77" n="77">The Earl of Kildare,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-78" n="78">And Moynalta, his brother,</l>
+            <l xml:id="swift-244-ROGP-line-79" n="79">As great as they are,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-80" n="80">I was nursed by their mother.</l>
+            <l xml:id="swift-244-ROGP-line-81" n="81">Ask that of old Madam,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-82" n="82">She'll tell you who's who,</l>
+            <l xml:id="swift-244-ROGP-line-83" n="83">As far up as Adam,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-84" n="84">She knows it is true,</l>
+            <l xml:id="swift-244-ROGP-line-85" n="85">Come down with that beam,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-86" n="86">If cudgels are scarce,</l>
+            <l xml:id="swift-244-ROGP-line-87" n="87">A blow on the wame,</l>
+            <l rend="indent(1)" xml:id="swift-244-ROGP-line-88" n="88">Or a kick on the arse.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

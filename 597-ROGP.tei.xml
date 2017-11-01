@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Apollo</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="597-ROGP">
+          <head type="note" n="1" xml:id="spp-597-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-597-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-597-ROGP-headnote-1-line-group-1-line-1">OR, A PROBLEM SOLVED&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-597-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-597-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-597-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-597-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-597-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-597-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-597-ROGP-line-1" n="1">Apollo, god of light and wit,</l>
+            <l xml:id="swift-597-ROGP-line-2" n="2">Could verse inspire, but seldom writ:</l>
+            <l xml:id="swift-597-ROGP-line-3" n="3">Refined all metals with his looks,</l>
+            <l xml:id="swift-597-ROGP-line-4" n="4">As well as chemists by their books:</l>
+            <l xml:id="swift-597-ROGP-line-5" n="5">As handsome as my Lady's page;</l>
+            <l xml:id="swift-597-ROGP-line-6" n="6">Sweet five and twenty was his age.</l>
+            <l xml:id="swift-597-ROGP-line-7" n="7">His wig was made of sunny rays,</l>
+            <l xml:id="swift-597-ROGP-line-8" n="8">He crowned his youthful head with bays:</l>
+            <l xml:id="swift-597-ROGP-line-9" n="9">Not all the court of heaven could show</l>
+            <l xml:id="swift-597-ROGP-line-10" n="10">So nice and so complete a beau.</l>
+            <l xml:id="swift-597-ROGP-line-11" n="11">No heir, upon his first appearance,</l>
+            <l xml:id="swift-597-ROGP-line-12" n="12">With twenty thousand pounds a year rents,</l>
+            <l xml:id="swift-597-ROGP-line-13" n="13">E'er drove, before he sold his land,</l>
+            <l xml:id="swift-597-ROGP-line-14" n="14">So fine a coach along the Strand;</l>
+            <l xml:id="swift-597-ROGP-line-15" n="15">The spokes, we are by Ovid told,</l>
+            <l xml:id="swift-597-ROGP-line-16" n="16">Were silver, and the axle gold.</l>
+            <l xml:id="swift-597-ROGP-line-17" n="17">(I own, 'twas but a coach and four,</l>
+            <l xml:id="swift-597-ROGP-line-18" n="18">For Jupiter allows no more.)</l>
+            <l rend="indent(1)" xml:id="swift-597-ROGP-line-19" n="19"><lb/>Yet with his beauty, wealth, and parts,</l>
+            <l xml:id="swift-597-ROGP-line-20" n="20">Enough to win ten thousand hearts;</l>
+            <l xml:id="swift-597-ROGP-line-21" n="21">No vulgar deity above</l>
+            <l xml:id="swift-597-ROGP-line-22" n="22">Was so unfortunate in love.</l>
+            <l rend="indent(1)" xml:id="swift-597-ROGP-line-23" n="23"><lb/>Three weighty causes were assigned,</l>
+            <l xml:id="swift-597-ROGP-line-24" n="24">That moved the nymphs to be unkind.</l>
+            <l xml:id="swift-597-ROGP-line-25" n="25">Nine muses always waiting round him,</l>
+            <l xml:id="swift-597-ROGP-line-26" n="26">He left them virgins as he found 'em.</l>
+            <l xml:id="swift-597-ROGP-line-27" n="27">His singing was another fault;</l>
+            <l xml:id="swift-597-ROGP-line-28" n="28">For he could reach to B <hi rend="italics">in alt</hi>:</l>
+            <l xml:id="swift-597-ROGP-line-29" n="29">And, by the sentiments of Pliny,</l>
+            <l xml:id="swift-597-ROGP-line-30" n="30">Such singers are like Nicolini.</l>
+            <l xml:id="swift-597-ROGP-line-31" n="31">At last, the point was fully cleared;</l>
+            <l xml:id="swift-597-ROGP-line-32" n="32">In short; Apollo had no beard.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

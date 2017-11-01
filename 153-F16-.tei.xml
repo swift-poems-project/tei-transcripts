@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  FABLE<lb/>  OF THE<lb/>  Widow and her Cat.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="153-F16-">
+          <head type="note" n="1" xml:id="spp-153-F16--headnote-1">
+            <lg n="1" xml:id="spp-153-F16--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-153-F16--headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-153-F16--headnote-2">
+            <lg n="1" xml:id="spp-153-F16--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-153-F16--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-153-F16--headnote-3">
+            <lg n="1" xml:id="spp-153-F16--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-153-F16--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="center" xml:id="swift-153-F16--line-1" n="1">I<lb/>_<hi rend="display-initial">A</hi> WIDOW kept a Favourite Cat,</l><l rend="indent(1)" xml:id="swift-153-F16--line-2" n="2">At first a gentle Creature,</l><l xml:id="swift-153-F16--line-3" n="3">But when he was grown Sleek and Fat,</l><l xml:id="swift-153-F16--line-4" n="4">With many a Mouse and many a Rat,</l><l rend="indent(1)" xml:id="swift-153-F16--line-5" n="5">He soon disclos'd his Nature.</l><l rend="center" xml:id="swift-153-F16--line-6" n="6"><lb/>II.__The <hi rend="italics">Fox</hi> and He were Friends of old,</l><l rend="indent(1)" xml:id="swift-153-F16--line-7" n="7">Nor cou'd they now be parted;</l><l xml:id="swift-153-F16--line-8" n="8">They Nightly slunk to rob the Fold,</l><l xml:id="swift-153-F16--line-9" n="9">Devour'd the Lambs, the Fleeces sold,</l><l rend="indent(1)" xml:id="swift-153-F16--line-10" n="10">And Puss grew Lion-hearted.</l><l rend="center" xml:id="swift-153-F16--line-11" n="11"><lb/>III.__He scratch'd her Maid, he stole the Cream,</l><l rend="indent(1)" xml:id="swift-153-F16--line-12" n="12">He tore her best Lac'd Pinner;</l><l xml:id="swift-153-F16--line-13" n="13">Nor Chanticleer upon the Beam,</l><l xml:id="swift-153-F16--line-14" n="14">Nor Chick, nor Duckling 'scapes, when <hi rend="italics">Grim</hi></l><l rend="indent(1)" xml:id="swift-153-F16--line-15" n="15">Invites the <hi rend="italics">Fox</hi> to Dinner.</l><l rend="center" xml:id="swift-153-F16--line-16" n="16"><lb/>IV.__The Dame full wisely did Decree,</l><l rend="indent(1)" xml:id="swift-153-F16--line-17" n="17">For fear he shou'd dispatch more,</l><l xml:id="swift-153-F16--line-18" n="18">That the false Wretch shou'd worry'd be:</l><l xml:id="swift-153-F16--line-19" n="19">But in a sawcy manner He</l><l rend="indent(1)" xml:id="swift-153-F16--line-20" n="20">Thus Speech'd it like a <hi rend="italics">L────re</hi>.</l><l rend="center" xml:id="swift-153-F16--line-21" n="21"><lb/>V.__<hi rend="italics">Must I, against all Right and Law,</hi></l><l rend="indent(1)" xml:id="swift-153-F16--line-22" n="22">Like Pole-Cat vile be treated?</l><l xml:id="swift-153-F16--line-23" n="23">I! who so long with Tooth and Claw</l><l xml:id="swift-153-F16--line-24" n="24">Have kept Domestick Mice in awe,</l><l xml:id="swift-153-F16--line-25" n="25">Have kept Domestick Mice in awe,And foreign Foes defeated</l>.<l rend="center" xml:id="swift-153-F16--line-26" n="26"><lb/>VI.__<hi rend="italics">Your Golden Pippins, and your Pies,</hi></l><l rend="indent(1)" xml:id="swift-153-F16--line-27" n="27"><hi rend="italics">How oft have I defended!</hi></l><l xml:id="swift-153-F16--line-28" n="28">'Tis 'true, the Pinner which you prize,</l><l xml:id="swift-153-F16--line-29" n="29">I tore in Frolick, to your Eyes</l><l rend="indent(1)" xml:id="swift-153-F16--line-30" n="30">I never Harm intended.</l><l rend="center" xml:id="swift-153-F16--line-31" n="31"><lb/>VII.__<hi rend="italics">I am a Cat of Honour</hi>.──── Stay,</l><l rend="indent(1)" xml:id="swift-153-F16--line-32" n="32">Quo' she, no longer parly;</l><l xml:id="swift-153-F16--line-33" n="33">Whate're you did in Battle slay,</l><l xml:id="swift-153-F16--line-34" n="34">By Law of Arms became your Prey,</l><l rend="indent(1)" xml:id="swift-153-F16--line-35" n="35">I hope you won it fairly.</l><l rend="center" xml:id="swift-153-F16--line-36" n="36"><lb/>VIII.__Of this we'll grant you stand acquit,</l><l rend="indent(1)" xml:id="swift-153-F16--line-37" n="37">But not of your Outrages:</l><l xml:id="swift-153-F16--line-38" n="38">Tell me, Perfidious! was it fit</l><l xml:id="swift-153-F16--line-39" n="39">To make my Cream a PERQUISITE,</l><l rend="indent(1)" xml:id="swift-153-F16--line-40" n="40">And Steal to mend your Wages?</l><l rend="center" xml:id="swift-153-F16--line-41" n="41"><lb/>IX.__So flagrant is thy Insolence,</l><l rend="indent(1)" xml:id="swift-153-F16--line-42" n="42">So vile thy Breach of Trust is,</l><l xml:id="swift-153-F16--line-43" n="43">That longer with Thee to dispense,</l><l xml:id="swift-153-F16--line-44" n="44">Were want of Pow'r, or want of Sence:</l><l rend="indent(1)" xml:id="swift-153-F16--line-45" n="45">Here, <hi rend="italics">Towzer</hi>!──── Do him Justice.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

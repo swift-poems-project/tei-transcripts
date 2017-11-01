@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another Reply by the Dean</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X02-ROGP">
+          <head type="note" n="1" xml:id="spp-X02-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-X02-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X02-ROGP-headnote-1-line-group-1-line-1">IN DAN JACKSON'S NAME&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X02-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-X02-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X02-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X02-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-X02-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X02-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X02-ROGP-line-1" n="1">Three days for an answer I have waited,</l>
+            <l xml:id="swift-X02-ROGP-line-2" n="2">I thought an ace you'd ne'er have bated,</l>
+            <l xml:id="swift-X02-ROGP-line-3" n="3">And art thou forced to yield, ill-fated</l>
+            <l rend="indent(3)" xml:id="swift-X02-ROGP-line-4" n="4">||Poetaster?</l>
+            <l xml:id="swift-X02-ROGP-line-5" n="5"><lb/>Henceforth acknowledge, that a nose</l>
+            <l xml:id="swift-X02-ROGP-line-6" n="6">Of thy dimension's fit for prose,</l>
+            <l xml:id="swift-X02-ROGP-line-7" n="7">But everyone that knows Dan, knows</l>
+            <l rend="indent(3)" xml:id="swift-X02-ROGP-line-8" n="8">||Thy master.</l>
+            <l xml:id="swift-X02-ROGP-line-9" n="9"><lb/>Blush for ill spelling, for ill lines,</l>
+            <l xml:id="swift-X02-ROGP-line-10" n="10">And fly with hurry to Ramines;</l>
+            <l xml:id="swift-X02-ROGP-line-11" n="11">Thy fame, thy genius now declines,</l>
+            <l rend="indent(3)" xml:id="swift-X02-ROGP-line-12" n="12">||Proud boaster.</l>
+            <l xml:id="swift-X02-ROGP-line-13" n="13"><lb/>I hear with some concern you roar,</l>
+            <l xml:id="swift-X02-ROGP-line-14" n="14">And flying think to quit the score,</l>
+            <l xml:id="swift-X02-ROGP-line-15" n="15">By clapping billets on your door</l>
+            <l rend="indent(3)" xml:id="swift-X02-ROGP-line-16" n="16">||And posts, sir.</l>
+            <l xml:id="swift-X02-ROGP-line-17" n="17"><lb/>Thy ruin, Tom, I never meant,</l>
+            <l xml:id="swift-X02-ROGP-line-18" n="18">I'm grieved to hear your banishment,</l>
+            <l xml:id="swift-X02-ROGP-line-19" n="19">But pleased to find you do relent</l>
+            <l rend="indent(3)" xml:id="swift-X02-ROGP-line-20" n="20">||And cry on.</l>
+            <l xml:id="swift-X02-ROGP-line-21" n="21"><lb/>I mauled you when you looked so bluff,</l>
+            <l xml:id="swift-X02-ROGP-line-22" n="22">But now I'll secret keep your stuff;</l>
+            <l xml:id="swift-X02-ROGP-line-23" n="23">For know, prostration is enough</l>
+            <l rend="indent(3)" xml:id="swift-X02-ROGP-line-24" n="24">||To the lion.</l>
+            <l xml:id="swift-X02-ROGP-line-25" n="25">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

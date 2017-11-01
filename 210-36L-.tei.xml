@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">To the Earl of </hi>Oxford<hi rend="italics">, late Lord Trea-<lb/>  surer. Sent to him when he was in<lb/>  the Tower, before his Tryal</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 13JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="210-36L-">
+          <head type="note" n="1" xml:id="spp-210-36L--headnote-1">
+            <lg n="1" xml:id="spp-210-36L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-210-36L--headnote-1-line-group-1-line-1"><hi rend="italics">Out of</hi> H<hi rend="small-caps">ORACE</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-210-36L--headnote-2">
+            <lg n="1" xml:id="spp-210-36L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-210-36L--headnote-2-line-group-1-line-1"><hi rend="italics">Written in the Year</hi> 1716.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-210-36L--headnote-3">
+            <lg n="1" xml:id="spp-210-36L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-210-36L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-210-36L--line-1" n="1"><hi rend="display-initial">H</hi>OW blest is he, who for his Country dies;</l>
+            <l xml:id="swift-210-36L--line-2" n="2">Since Death pursue the Coward as he flies,</l>
+            <l xml:id="swift-210-36L--line-3" n="3">The Youth, in vain, would fly from Fate's Attack,</l>
+            <l xml:id="swift-210-36L--line-4" n="4">With trembling Knees, and Terror at his Back;</l>
+            <l xml:id="swift-210-36L--line-5" n="5">Though Fear should lend him Pinions like the wind,</l>
+            <l xml:id="swift-210-36L--line-6" n="6">Yet swifter Fate will seize him from behind.</l>
+            <l rend="indent(1)" xml:id="swift-210-36L--line-7" n="7"><lb/>Virtue repuls't, yet knows not to repine;</l>
+            <l xml:id="swift-210-36L--line-8" n="8">But shall with unattainted Honour shine;</l>
+            <l xml:id="swift-210-36L--line-9" n="9">Nor stoops to take the <hi rend="italics">Staff</hi>, nor lays it down,</l>
+            <l xml:id="swift-210-36L--line-10" n="10">Just as the Rabble please to smile or frown.</l>
+            <l rend="indent(1)" xml:id="swift-210-36L--line-11" n="11"><lb/>Virtue, to crown her Fav'rites, loves to try</l>
+            <l xml:id="swift-210-36L--line-12" n="12">Some new unbeaten Passage to the Sky;</l>
+            <l xml:id="swift-210-36L--line-13" n="13">Where <hi rend="italics">Jove</hi> a Seat among the Gods will give</l>
+            <l xml:id="swift-210-36L--line-14" n="14">To those who die, for meriting to live.</l>
+            <l rend="indent(1)" xml:id="swift-210-36L--line-15" n="15"><lb/>Next, faithful Silence hath a sure Reward:</l>
+            <l xml:id="swift-210-36L--line-16" n="16">Within our Breast be ev'ry Secret barr'd:</l>
+            <l xml:id="swift-210-36L--line-17" n="17">He who betrays his Friend, shall never be</l>
+            <l xml:id="swift-210-36L--line-18" n="18">Under one Roof, or in one Ship with me.</l>
+            <l xml:id="swift-210-36L--line-19" n="19">For, who with Traytors would his Safety trust,</l>
+            <l xml:id="swift-210-36L--line-20" n="20">Lest with the wicked Heaven involve the Just?</l>
+            <l xml:id="swift-210-36L--line-21" n="21">And, though the Villain 'scape a while, he feels</l>
+            <l xml:id="swift-210-36L--line-22" n="22">Slow Vengeance, like a Blood-hound at his Heels.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Tho: Sheridan</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 2AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 11MR06, 18MY16; √'d JW 23MY14 agt WILH; 23 emended JW 27SE16; remark about 14 del JW 10FE17; EMENDED JW 10FE17, 11FE17; 18 emended per MD 16MR17; 28 emended per MD 17MR17; 17n emended JW 20MR17; 18 unemended per MD 5AP17; 28 Rupis emended to rumpens per MD 10AP17; 28 emended per MD 14AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="980-CWJS">
+          <head type="note" n="1" xml:id="spp-980-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-980-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-980-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-980-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-980-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-980-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-980-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-980-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-980-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-980-CWJS-line-1" n="1">Dear Tom, I'm surpriz'd that Your Verse did not jingle</l>
+            <l xml:id="swift-980-CWJS-line-2" n="2">But Your Rhyme was not double, cause y<hi rend="superscript">r</hi> sight was but single</l>
+            <l xml:id="swift-980-CWJS-line-3" n="3">For as Helsham observes there's nothing can Chyme,</l>
+            <l xml:id="swift-980-CWJS-line-4" n="4">Or fit more Exact than One Eye and One Rhyme.</l>
+            <l xml:id="swift-980-CWJS-line-5" n="5">If You had not took Physick, I'd pay off Your Bacon</l>
+            <l xml:id="swift-980-CWJS-line-6" n="6">But now I'll write short, for fear You're short taken.</l>
+            <l xml:id="swift-980-CWJS-line-7" n="7">Besides Dick forbid me, and call'd me a Fool</l>
+            <l xml:id="swift-980-CWJS-line-8" n="8">For he says short as 'tis it will give You a stool.</l>
+            <l xml:id="swift-980-CWJS-line-9" n="9"><lb/>In Libris bellis tu parum parcis ocellis;</l>
+            <l xml:id="swift-980-CWJS-line-10" n="10">Dum nimium scribis, Vel Talpâ cæcior ibis,</l>
+            <l xml:id="swift-980-CWJS-line-11" n="11">Aut ad Vina redis, nam sic tua Lumina Lædis.</l>
+            <l xml:id="swift-980-CWJS-line-12" n="12">Sed tibi Cœnanti sunt Collyria tanti?</l>
+            <l xml:id="swift-980-CWJS-line-13" n="13">Nunquid eges Visu dum comples omnia risu?</l>
+            <l rend="indent(1)" xml:id="swift-980-CWJS-line-14" n="14"><lb/>Heu! Sheridan cæcus, heu eris nunc Circopithecus</l>
+            <l xml:id="swift-980-CWJS-line-15" n="15">Nunc bene Nasutus mittet tibi carmina tutus,</l>
+            <l xml:id="swift-980-CWJS-line-16" n="16">Nunc ope Burgundi malus Helsham ridet Abunde</l>
+            <l xml:id="swift-980-CWJS-line-17" n="17">Nec Phœbi fili Versum <note place="foot">·pro potes. Hor:.</note> <hi rend="underlined">quis</hi> mittere Ryly</l>
+            <l rend="indent(1)" xml:id="swift-980-CWJS-line-18" n="18"><lb/>Quid Tibi cum Libris, relavet tua Lumina <note place="foot">·pro quovis fluvio: Virg:.</note> Tybris</l>
+            <l xml:id="swift-980-CWJS-line-19" n="19">Mixtus <note place="foot">·Saccharo saturni.</note> Saturno, penso sed parce diurno</l>
+            <l xml:id="swift-980-CWJS-line-20" n="20">Observes hoc tu, nec scriptis utere noctu.</l>
+            <l xml:id="swift-980-CWJS-line-21" n="21">Nonnulli mingunt, et palpebras sibi tingunt</l>
+            <l xml:id="swift-980-CWJS-line-22" n="22">Quidam purgantes, libros in stercore nantes</l>
+            <l xml:id="swift-980-CWJS-line-23" n="23">Linquunt, sic Vinces, Videndo, mi bone Lynces.</l>
+            <l xml:id="swift-980-CWJS-line-24" n="24">Culum Oculum tergis, dum scripta hoc flumine mergis.</l>
+            <l xml:id="swift-980-CWJS-line-25" n="25">Tunc Oculi et Nates, ni fallor agent tibi grates.</l>
+            <l xml:id="swift-980-CWJS-line-26" n="26">Vim fuge Decani, nec sit tibi cura Delani,</l>
+            <l xml:id="swift-980-CWJS-line-27" n="27">Heu tibi si scribant, aut si tibi fercula libant</l>
+            <l xml:id="swift-980-CWJS-line-28" n="28">Pone loco Mortis rumpens fera pocula fortis,</l>
+            <l xml:id="swift-980-CWJS-line-29" n="29">Hæc tibi pauca dedi, sed Consule Betty Mi Lady,</l>
+            <l xml:id="swift-980-CWJS-line-30" n="30">Huic te des Solæ, nec Egebis Pharmacapolæ.</l>
+            <l xml:id="swift-980-CWJS-line-31" n="31"><lb/>«LD»Hæc somnians cecini</l>
+            <l xml:id="swift-980-CWJS-line-32" n="32">
+              <space>Octob: 23<hi rend="superscript">d</hi>/hi&gt; 1718</space>
+            </l>
+            <l xml:id="swift-980-CWJS-line-33" n="33">
+              <space>J<hi rend="superscript">n</hi>/hi&gt;: Swift.</space>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

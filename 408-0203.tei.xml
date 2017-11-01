@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A </hi>Pastoral DIALOGUE<hi rend="italics">, between</hi><lb/>  R<hi rend="small-caps">ICHMOND-</hi>L<hi rend="small-caps">ODGE</hi> <hi rend="italics">and</hi> M<hi rend="small-caps">ARBLE-</hi>H<hi rend="small-caps">ILL</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 27JE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="408-0203">
+          <head type="note" n="1" xml:id="spp-408-0203-headnote-1">
+            <lg n="1" xml:id="spp-408-0203-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-0203-headnote-1-line-group-1-line-1">Written <hi rend="italics">June</hi> 1727, just after the News of the Death of <hi rend="italics">George</hi> I. who died the 11th of that Month, in <hi rend="italics">Germany</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-408-0203-headnote-2">
+            <lg n="1" xml:id="spp-408-0203-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-0203-headnote-2-line-group-1-line-1">R<hi rend="small-caps">ICHMOND-</hi>L<hi rend="small-caps">ODGE</hi> <hi rend="italics">is a House with a small Park belonging to the Crown: It was usually granted by the Crown for a Lease of Years; the Duke of </hi>Ormonde<hi rend="italics"> was the last who had it. After his Exile, it was given to the Prince of </hi>Wales<hi rend="italics">, by the King. The Prince and Princess usually passed their </hi>Summer<hi rend="italics"> there. It is within a Mile of</hi> Richmond.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-408-0203-headnote-3">
+            <lg n="1" xml:id="spp-408-0203-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-0203-headnote-3-line-group-1-line-1">M<hi rend="small-caps">ARBLE-</hi>H<hi rend="small-caps">ILL</hi> <hi rend="italics">is a House built by Mrs. </hi>Howard<hi rend="italics">, then of the Bed-chamber, now Countess of </hi>Suffolk<hi rend="italics">, and Groom of the Stole to the Queen. It is on the </hi>Middlesex<hi rend="italics"> Side, near </hi>Twickenham<hi rend="italics">, where Mr. </hi>Pope<hi rend="italics"> lives, and about two Miles from </hi>Richmond-Lodge<hi rend="italics">. Mr. </hi>Pope<hi rend="italics"> was the Contriver of the Gardens, Lord </hi>Herbert<hi rend="italics"> the Architect, and the Dean of St. </hi>Patrick's<hi rend="italics"> chief Butler, and Keeper of the </hi>Ice-House<hi rend="italics">. Upon King </hi>George<hi rend="italics">'s Death, these two Houses met, and had the following Dialogue</hi>.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-408-0203-line-1" n="1"><note place="foot">·<hi rend="italics">Note</hi>, This Poem was carried to Court, and read to King G<hi rend="small-caps">EORGE</hi> II, and Queen C<hi rend="small-caps">AROLINE</hi> his Consort.</note><hi rend="display-initial">I</hi>N Spight of <hi rend="italics">Pope</hi>, in Spight of <hi rend="italics">Gay</hi>,</l>
+            <l xml:id="swift-408-0203-line-2" n="2">And all that He or They can say;</l>
+            <l xml:id="swift-408-0203-line-3" n="3">Sing on I must, and sing I will</l>
+            <l xml:id="swift-408-0203-line-4" n="4">Of <hi rend="italics">Richmond-Lodge</hi>, and <hi rend="italics">Marble-Hill</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-5" n="5"><lb/>L<hi rend="small-caps">AST</hi> <hi rend="italics">Friday</hi> Night, as Neighbours use,</l>
+            <l xml:id="swift-408-0203-line-6" n="6">This Couple met to talk of News.</l>
+            <l xml:id="swift-408-0203-line-7" n="7">For, by old Proverbs, it appears,</l>
+            <l xml:id="swift-408-0203-line-8" n="8">That Walls have Tongues, and Hedges, Ears.</l>
+            <l rend="center indent(1)" xml:id="swift-408-0203-line-9" n="9"><hi rend="italics">MARBLE-HILL</hi>.<lb/>Quoth <hi rend="italics">Marble-Hill</hi>, right well I ween,</l>
+            <l xml:id="swift-408-0203-line-10" n="10">Your Mistress now is grown a Queen;</l>
+            <l xml:id="swift-408-0203-line-11" n="11">You'll find it soon, by woful Proof,</l>
+            <l xml:id="swift-408-0203-line-12" n="12">She'll come no more beneath your Roof.</l>
+            <l rend="center indent(1)" xml:id="swift-408-0203-line-13" n="13"><hi rend="italics">RICHMOND-LODGE</hi>.<lb/>The kingly Prophet well evinces,</l>
+            <l xml:id="swift-408-0203-line-14" n="14">That we should put no Trust in Princes;</l>
+            <l xml:id="swift-408-0203-line-15" n="15">My Royal Master promis'd me</l>
+            <l xml:id="swift-408-0203-line-16" n="16">To raise me to a high Degree:</l>
+            <l xml:id="swift-408-0203-line-17" n="17">But, now He's grown a King, God wot,</l>
+            <l xml:id="swift-408-0203-line-18" n="18">I fear I shall be soon forgot.</l>
+            <l xml:id="swift-408-0203-line-19" n="19">You see, when Folks have got their Ends,</l>
+            <l xml:id="swift-408-0203-line-20" n="20">How quickly they neglect their Friends;</l>
+            <l xml:id="swift-408-0203-line-21" n="21">Yet I may say 'twixt me and you,</l>
+            <l xml:id="swift-408-0203-line-22" n="22">Pray God they now may find as true.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-23" n="23"><hi rend="italics">Marble-H</hi>. My House was built but for a Show,</l>
+            <l xml:id="swift-408-0203-line-24" n="24">My Lady's empty Pockets know:</l>
+            <l xml:id="swift-408-0203-line-25" n="25">And, now she will not have a Shilling</l>
+            <l xml:id="swift-408-0203-line-26" n="26">To raise the Stairs, or build the Ceiling;</l>
+            <l xml:id="swift-408-0203-line-27" n="27">For, all the courtly Madams round,</l>
+            <l xml:id="swift-408-0203-line-28" n="28">Now pay four Shillings in the Pound.</l>
+            <l xml:id="swift-408-0203-line-29" n="29">'Tis come to what I always thought;</l>
+            <l xml:id="swift-408-0203-line-30" n="30">My Dame is hardly worth a Groat.</l>
+            <l xml:id="swift-408-0203-line-31" n="31">Had you and I been Courtiers born,</l>
+            <l xml:id="swift-408-0203-line-32" n="32">We should not thus have lain forlorn;</l>
+            <l xml:id="swift-408-0203-line-33" n="33">For, those we dext'rous Courtiers call,</l>
+            <l xml:id="swift-408-0203-line-34" n="34">Can <hi rend="italics">rise</hi> upon their Master's <hi rend="italics">Fall</hi>.</l>
+            <l xml:id="swift-408-0203-line-35" n="35">But we unlucky and unwise,</l>
+            <l xml:id="swift-408-0203-line-36" n="36">Must <hi rend="italics">fall</hi>, because our Masters <hi rend="italics">rise.</hi></l>
+            <l xml:id="swift-408-0203-line-37" n="37"><hi rend="italics">Richmond-L</hi>. My Master, scarce a Fortnight since,</l>
+            <l xml:id="swift-408-0203-line-38" n="38">Was grown as wealthy as a Prince;</l>
+            <l xml:id="swift-408-0203-line-39" n="39">But now it will be no such thing,</l>
+            <l xml:id="swift-408-0203-line-40" n="40">For he'll be poor as any <hi rend="italics">King</hi>:</l>
+            <l xml:id="swift-408-0203-line-41" n="41">And by his Crown will nothing get;</l>
+            <l xml:id="swift-408-0203-line-42" n="42">But, like a King, to run in Debt.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-43" n="43"><hi rend="italics">Marble-H</hi>. No more the Dean, that grave Divine,</l>
+            <l xml:id="swift-408-0203-line-44" n="44">Shall keep the Key of my (no) Wine;</l>
+            <l xml:id="swift-408-0203-line-45" n="45">My Ice-house rob as heretofore,</l>
+            <l xml:id="swift-408-0203-line-46" n="46">And steal my Artichoaks no more;</l>
+            <l xml:id="swift-408-0203-line-47" n="47">Poor <hi rend="italics">Patty Blount</hi> no more be seen</l>
+            <l xml:id="swift-408-0203-line-48" n="48">Bedraggled in my Walks so green:</l>
+            <l xml:id="swift-408-0203-line-49" n="49">Plump <hi rend="italics">Johnny Gay</hi> will now elope;</l>
+            <l xml:id="swift-408-0203-line-50" n="50">And here no more will dangle <hi rend="italics">Pope.</hi></l>
+            <l xml:id="swift-408-0203-line-51" n="51"><hi rend="italics">Richmond-L</hi>. Here won't the Dean, when he's to seek,</l>
+            <l xml:id="swift-408-0203-line-52" n="52">To spunge a Breakfast once a Week;</l>
+            <l xml:id="swift-408-0203-line-53" n="53">To cry the Bread was stale, and mutter</l>
+            <l xml:id="swift-408-0203-line-54" n="54">Complaints against the Royal Butter.</l>
+            <l xml:id="swift-408-0203-line-55" n="55">But, now I fear, it will be said,</l>
+            <l xml:id="swift-408-0203-line-56" n="56">No Butter sticks upon his Bread,</l>
+            <l xml:id="swift-408-0203-line-57" n="57">We soon shall find him full of Spleen,</l>
+            <l xml:id="swift-408-0203-line-58" n="58">For want of tattling to the Queen;</l>
+            <l xml:id="swift-408-0203-line-59" n="59">Stunning her Royal Ears with talking;</l>
+            <l xml:id="swift-408-0203-line-60" n="60">His <hi rend="italics">Rev'rence</hi> and her <hi rend="italics">Highness</hi> walking:</l>
+            <l xml:id="swift-408-0203-line-61" n="61">Whilst <note place="foot">·Lady C<hi rend="small-caps">HARLOTTE</hi> <hi rend="small-caps">DE</hi> R<hi rend="small-caps">OUSSY</hi>, a <hi rend="italics">French</hi> Lady.</note> Lady <hi rend="italics">Charlotte</hi>, like a Stroller,</l>
+            <l xml:id="swift-408-0203-line-62" n="62">Sits mounted on the Garden Roller,</l>
+            <l xml:id="swift-408-0203-line-63" n="63">A goodly Sight to see her ride,</l>
+            <l xml:id="swift-408-0203-line-64" n="64">With ancient <note place="foot">·Marquis de M<hi rend="small-caps">IRMONT</hi>, a <hi rend="italics">French</hi> Man of Quality.</note> <hi rend="italics">Mirmont</hi> at her Side.</l>
+            <l xml:id="swift-408-0203-line-65" n="65">In Velvet Cap his Head lies warm;</l>
+            <l xml:id="swift-408-0203-line-66" n="66">His Hat for Show, beneath his Arm.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-67" n="67"><hi rend="italics">Marble-H</hi>. Some <hi rend="italics">South-Sea</hi> Broker from the City,</l>
+            <l xml:id="swift-408-0203-line-68" n="68">Will purchase me, the more's the Pity,</l>
+            <l xml:id="swift-408-0203-line-69" n="69">Lay all my fine Plantations waste,</l>
+            <l xml:id="swift-408-0203-line-70" n="70">To fit them to his vulgar Taste;</l>
+            <l xml:id="swift-408-0203-line-71" n="71">Chang'd for the worse in ev'ry Part,</l>
+            <l xml:id="swift-408-0203-line-72" n="72">My Master <hi rend="italics">Pope</hi> will break his Heart.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-73" n="73"><hi rend="italics">Richmond-L</hi>. In my own <hi rend="italics">Thames</hi> may I be drownded,</l>
+            <l xml:id="swift-408-0203-line-74" n="74">If e'er I stoop beneath a crown'd Head:</l>
+            <l xml:id="swift-408-0203-line-75" n="75">Except her Majesty prevails,</l>
+            <l xml:id="swift-408-0203-line-76" n="76">To place me with the Prince of <hi rend="italics">Wales</hi>.</l>
+            <l xml:id="swift-408-0203-line-77" n="77">And then I shall be free from Fears,</l>
+            <l xml:id="swift-408-0203-line-78" n="78">For, he'll be Prince these fifty Years.</l>
+            <l xml:id="swift-408-0203-line-79" n="79">I then will turn a Courtier too,</l>
+            <l xml:id="swift-408-0203-line-80" n="80">And serve the Times as others do.</l>
+            <l xml:id="swift-408-0203-line-81" n="81">Plain Loyalty, not built on <hi rend="italics">Hope</hi>,</l>
+            <l xml:id="swift-408-0203-line-82" n="82">I leave to your Contriver, <hi rend="italics">Pope</hi>:</l>
+            <l xml:id="swift-408-0203-line-83" n="83">None loves his King and Country better,</l>
+            <l xml:id="swift-408-0203-line-84" n="84">Yet none was ever less their Debtor.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-85" n="85"><lb/><hi rend="italics">Marble-H</hi>. Then, let him come and take a Nap,</l>
+            <l xml:id="swift-408-0203-line-86" n="86">In <hi rend="italics">Summer</hi>, on my verdant Lap:</l>
+            <l xml:id="swift-408-0203-line-87" n="87">Prefer our <hi rend="italics">Villa's</hi>, where the <hi rend="italics">Thames</hi> is,</l>
+            <l xml:id="swift-408-0203-line-88" n="88">To <hi rend="italics">Kensington</hi>, or hot St. <hi rend="italics">James</hi>'s;</l>
+            <l xml:id="swift-408-0203-line-89" n="89">Nor shall I dull in Silence sit;</l>
+            <l xml:id="swift-408-0203-line-90" n="90">For, 'tis to me he owes his Wit;</l>
+            <l xml:id="swift-408-0203-line-91" n="91">My Groves, my Ecchoes, and my Birds,</l>
+            <l xml:id="swift-408-0203-line-92" n="92">Have taught him his poetick Words.</l>
+            <l xml:id="swift-408-0203-line-93" n="93">We Gardens, and you Wildernesses,</l>
+            <l xml:id="swift-408-0203-line-94" n="94">Assist all Poets in Distresses.</l>
+            <l xml:id="swift-408-0203-line-95" n="95">Him twice a Week I here expect,</l>
+            <l xml:id="swift-408-0203-line-96" n="96">To rattle <note place="foot">·The Gardener.</note> <hi rend="italics">Moody</hi> for Neglect;</l>
+            <l xml:id="swift-408-0203-line-97" n="97">An idle Rogue, who spends his Quartridge</l>
+            <l xml:id="swift-408-0203-line-98" n="98">In tipling at the <hi rend="italics">Dog</hi> and <hi rend="italics">Partridge</hi>;</l>
+            <l xml:id="swift-408-0203-line-99" n="99">And I can hardly get him down</l>
+            <l xml:id="swift-408-0203-line-100" n="100">Three times a Week to brush my Gown.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-101" n="101"><hi rend="italics">Richmond-L</hi>. I pity you, dear <hi rend="italics">Marble-Hill</hi>;</l>
+            <l xml:id="swift-408-0203-line-102" n="102">But, hope to see you flourish still,</l>
+            <l xml:id="swift-408-0203-line-103" n="103">All Happiness──── and so adieu.</l>
+            <l rend="indent(1)" xml:id="swift-408-0203-line-104" n="104"><hi rend="italics">Marble-H</hi>. Kind <hi rend="italics">Richmond-Lodge</hi>; the same to you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

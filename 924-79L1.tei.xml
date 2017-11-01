@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RIDDLES,<lb/>  BY DR. SWIFT AND HIS FRIENDS,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 1JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-924-79L1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="924-79L1">
+          <head type="note" n="1" xml:id="spp-924-79L1-headnote-1">
+            <lg n="1" xml:id="spp-924-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-924-79L1-headnote-1-line-group-1-line-1">Written in or about the Year 1724.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-924-79L1-headnote-2">
+            <lg n="1" xml:id="spp-924-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-924-79L1-headnote-2-line-group-1-line-1">VIII.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-924-79L1-headnote-3">
+            <lg n="1" xml:id="spp-924-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-924-79L1-headnote-3-line-group-1-line-1"><hi rend="italics">LOUISA</hi> <ref target="#spp-924-79L1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-924-79L1-footnote-headnote-1" place="foot">This Riddle is solved by an Anagram</note> to STREPHON.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-924-79L1-line-1" n="1"><hi rend="display-initial">A</hi>H! Strephon, how can you despise</l>
+            <l xml:id="swift-924-79L1-line-2" n="2">Her, who without thy pity dies?</l>
+            <l xml:id="swift-924-79L1-line-3" n="3">To Strephon I have still been true,</l>
+            <l xml:id="swift-924-79L1-line-4" n="4">And of as noble blood as you;</l>
+            <l xml:id="swift-924-79L1-line-5" n="5">Fair issue of the genial bed,</l>
+            <l xml:id="swift-924-79L1-line-6" n="6">A virgin in thy bosom bred;</l>
+            <l xml:id="swift-924-79L1-line-7" n="7">Embrac'd thee closer than a wife;</l>
+            <l xml:id="swift-924-79L1-line-8" n="8">When thee I leave, I leave my life.</l>
+            <l xml:id="swift-924-79L1-line-9" n="9">Why should my shepherd take amiss,</l>
+            <l xml:id="swift-924-79L1-line-10" n="10">That oft' I wake thee with a kiss?</l>
+            <l xml:id="swift-924-79L1-line-11" n="11">Yet you of every kiss complain;</l>
+            <l xml:id="swift-924-79L1-line-12" n="12">Ah! is not love a pleasing pain?</l>
+            <l xml:id="swift-924-79L1-line-13" n="13">A pain which every happy night</l>
+            <l xml:id="swift-924-79L1-line-14" n="14">You cure with ease and with delight;</l>
+            <l xml:id="swift-924-79L1-line-15" n="15">With pleasure, as the poet sings,</l>
+            <l xml:id="swift-924-79L1-line-16" n="16">Too great for mortals less than kings.</l>
+            <l rend="indent(1)" xml:id="swift-924-79L1-line-17" n="17">Cloe, when on thy breast I lie,</l>
+            <l xml:id="swift-924-79L1-line-18" n="18">Observes me with revengeful eye:</l>
+            <l xml:id="swift-924-79L1-line-19" n="19">If Cloe o'er thy heart prevails,</l>
+            <l xml:id="swift-924-79L1-line-20" n="20">She·'ll tear me with her desperate nails;</l>
+            <l xml:id="swift-924-79L1-line-21" n="21">And with relentless hands destroy</l>
+            <l xml:id="swift-924-79L1-line-22" n="22">The tender pledges of our joy.</l>
+            <l xml:id="swift-924-79L1-line-23" n="23">Nor have I bred a spurious race;</l>
+            <l xml:id="swift-924-79L1-line-24" n="24">They all were born from thy embrace.</l>
+            <l rend="indent(1)" xml:id="swift-924-79L1-line-25" n="25">Consider, Strephon, what you do;</l>
+            <l xml:id="swift-924-79L1-line-26" n="26">For, should I die for love of you,</l>
+            <l xml:id="swift-924-79L1-line-27" n="27">I·'ll haunt thy dreams, a bloodless ghost;</l>
+            <l xml:id="swift-924-79L1-line-28" n="28">And all my kin (a numerous host,</l>
+            <l xml:id="swift-924-79L1-line-29" n="29">Who down direct our lineage bring</l>
+            <l xml:id="swift-924-79L1-line-30" n="30">From victors o'er the Memphian king;</l>
+            <l xml:id="swift-924-79L1-line-31" n="31">Renown'd in sieges and campaigns,</l>
+            <l xml:id="swift-924-79L1-line-32" n="32">Who never fled the bloody plains,</l>
+            <l xml:id="swift-924-79L1-line-33" n="33">Who in tempestuous seas can sport,</l>
+            <l xml:id="swift-924-79L1-line-34" n="34">And scorn the pleasures of a court,</l>
+            <l xml:id="swift-924-79L1-line-35" n="35">From whom great Sylla found his doom,</l>
+            <l xml:id="swift-924-79L1-line-36" n="36">Who scourg'd to death that scourge of Rome)</l>
+            <l xml:id="swift-924-79L1-line-37" n="37">Shall on thee take a vengeance dire;</l>
+            <l xml:id="swift-924-79L1-line-38" n="38">Thou, like Alcides, shalt expire,</l>
+            <l xml:id="swift-924-79L1-line-39" n="39">When his envenom'd shirt he wore,</l>
+            <l xml:id="swift-924-79L1-line-40" n="40">And skin and flesh in pieces tore.</l>
+            <l xml:id="swift-924-79L1-line-41" n="41">Nor less that shirt, my rival's gift,</l>
+            <l xml:id="swift-924-79L1-line-42" n="42">Cut from the piece that made her shift,</l>
+            <l xml:id="swift-924-79L1-line-43" n="43">Shall in thy dearest blood be dy'd,</l>
+            <l xml:id="swift-924-79L1-line-44" n="44">And make thee tear thy tainted hide.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

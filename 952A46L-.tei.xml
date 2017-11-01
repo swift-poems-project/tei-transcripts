@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES <hi rend="italics">made for Women who cry<lb/>  Apples</hi>, &amp;c.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 17SE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="952A46L-">
+          <head type="note" n="1" xml:id="spp-952A46L--headnote-1">
+            <lg n="1" xml:id="spp-952A46L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952A46L--headnote-1-line-group-1-line-1">ASPARAGUS.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-952A46L--headnote-2">
+            <lg n="1" xml:id="spp-952A46L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952A46L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-952A46L--headnote-3">
+            <lg n="1" xml:id="spp-952A46L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952A46L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-952A46L--line-1" n="1"><hi rend="display-initial">R</hi>IPE 'Sparagrass, 3}</l>
+            <l xml:id="swift-952A46L--line-2" n="2">Fit for Lad or Lass,</l>
+            <l xml:id="swift-952A46L--line-3" n="3">To make their Water pass:</l>
+            <l rend="indent(1)" xml:id="swift-952A46L--line-4" n="4">O, 'tis pretty Picking</l>
+            <l rend="indent(1)" xml:id="swift-952A46L--line-5" n="5">With a tender Chicken.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

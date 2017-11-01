@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The French Gentleman upon breaking a fast day.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 13JL05"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="949A014I">
+          <head type="note" n="1" xml:id="spp-949A014I-headnote-1">
+            <lg n="1" xml:id="spp-949A014I-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-949A014I-headnote-1-line-group-1-line-1">Some gentlemen dining at an eating house in <hi rend="underlined">Paris</hi> upon a <hi rend="underlined">Iour maigre</hi>, one of the company had a mind for a rasher of bacon, but the rest diswaded him from it, as a thing that God would be offended at. Upon w<hi rend="superscript">ch</hi> he writ these lines.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-949A014I-headnote-2">
+            <lg n="1" xml:id="spp-949A014I-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-949A014I-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-949A014I-headnote-3">
+            <lg n="1" xml:id="spp-949A014I-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-949A014I-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="indent(1)" xml:id="swift-949A014I-line-1" n="1"><hi rend="underlined">Peut on croire avec bon sens</hi></l><l rend="indent(1)" xml:id="swift-949A014I-line-2" n="2">Qu'un lardon le mit en colere,</l><l rend="indent(1)" xml:id="swift-949A014I-line-3" n="3">Ou que manger un harang</l><l rend="indent(1)" xml:id="swift-949A014I-line-4" n="4">C'·est un secret pour luy plaire:</l><l rend="indent(1)" xml:id="swift-949A014I-line-5" n="5">En sa gloire envelopè</l><l xml:id="swift-949A014I-line-6" n="6">En sa gloire envelopèSonge t'·il bien de nos soupez</l>.<l xml:id="swift-949A014I-line-7" n="7">Pag.·125<lb/>Who can believe w<hi rend="superscript">tḥ</hi> common sense</l><l xml:id="swift-949A014I-line-8" n="8">A Bacon Slice gives God offence</l><l xml:id="swift-949A014I-line-9" n="9">Or that a Herring hath y<hi rend="superscript">e</hi> Charm</l><l xml:id="swift-949A014I-line-10" n="10">Almighty Vengeance to disarm</l><l xml:id="swift-949A014I-line-11" n="11">Wrapt up in Majesty divine</l><l xml:id="swift-949A014I-line-12" n="12">Does he regard on what we dine?</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

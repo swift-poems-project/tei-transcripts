@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A DESCRIPTION OF THE MORNING.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 30JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="124-14W2">
+          <head type="note" n="1" xml:id="spp-124-14W2-headnote-1">
+            <lg n="1" xml:id="spp-124-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-14W2-headnote-1-line-group-1-line-1">WRITTEN IN APRIL 1709,&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-124-14W2-headnote-2">
+            <lg n="1" xml:id="spp-124-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-14W2-headnote-2-line-group-1-line-1">AND FIRST PRINTED IN THE TATLER,</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-124-14W2-headnote-3">
+            <lg n="1" xml:id="spp-124-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-124-14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-124-14W2-line-1" n="1">N<hi rend="small-caps">OW</hi> hardly here and there a hackney-coach</l>
+            <l xml:id="swift-124-14W2-line-2" n="2">Appearing, shew'd the ruddy morn's approach.</l>
+            <l xml:id="swift-124-14W2-line-3" n="3">Now Betty from her master's bed had flown,</l>
+            <l xml:id="swift-124-14W2-line-4" n="4">And softly stole to discompose her own;</l>
+            <l xml:id="swift-124-14W2-line-5" n="5">The slip-shod 'prentice from his master's door</l>
+            <l xml:id="swift-124-14W2-line-6" n="6">Had pared the dirt, and sprinkled round the floor.</l>
+            <l xml:id="swift-124-14W2-line-7" n="7">Now Moll had whirl'd her mop with dext'rous airs,</l>
+            <l xml:id="swift-124-14W2-line-8" n="8">Prepared to scrub the entry and the stairs.</l>
+            <l xml:id="swift-124-14W2-line-9" n="9">The youth with broomy stumps began to trace</l>
+            <l xml:id="swift-124-14W2-line-10" n="10">The kennel's edge, where wheels had worn the place,<note place="foot">·To find old nails.── F<hi rend="small-caps">AULKNER</hi>.</note></l>
+            <l xml:id="swift-124-14W2-line-11" n="11">The small-coal man was heard with cadence deep,</l>
+            <l xml:id="swift-124-14W2-line-12" n="12">Till drown'd in shriller notes of chimney-sweep:</l>
+            <l xml:id="swift-124-14W2-line-13" n="13">Duns at his lordship's gate began to meet;</l>
+            <l xml:id="swift-124-14W2-line-14" n="14">And brickdust Moll had scream'd through half the street.</l>
+            <l xml:id="swift-124-14W2-line-15" n="15">The turnkey now his flock returning sees,</l>
+            <l xml:id="swift-124-14W2-line-16" n="16">Duly let out a-nights to steal for fees:</l>
+            <l xml:id="swift-124-14W2-line-17" n="17">The watchful bailiffs take their silent stands,</l>
+            <l xml:id="swift-124-14W2-line-18" n="18">And schoolboys lag with satchels in their hands.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

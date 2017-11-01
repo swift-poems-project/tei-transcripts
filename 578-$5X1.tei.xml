@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dooms-day</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 10NO06"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-00245X1">
+          <head type="note" n="1" xml:id="spp-578-00245X1-headnote-1">
+            <lg n="1" xml:id="spp-578-00245X1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-00245X1-headnote-1-line-group-1-line-1">The foregoing Verses were communicated to <hi rend="italics">Mr. Shenstone</hi> by <hi rend="italics">Mr. Dodsley</hi>, as the Composition of <hi rend="italics">Dean Swift</hi> ... [erasure of three lines] ... they are not consistent with the Dean's known principles. P.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-00245X1-headnote-2">
+            <lg n="1" xml:id="spp-578-00245X1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-00245X1-headnote-2-line-group-1-line-1">The foregoing Verses are printed but very defectively in a publication of Mr. Griffith's (author of The Letters from Henry to Frances) intitled The Friends or Original Letters of a Person deceased. Lond. 1773 2 vol. 12. See page 77 of Vol. 2nd, they are ascribd. to Dean Swift, in that Work. [Footnotes by Percy.]</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-00245X1-headnote-3">
+            <lg n="1" xml:id="spp-578-00245X1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-00245X1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

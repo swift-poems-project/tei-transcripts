@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>EPISTLE TO DR SHERIDAN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 10MR11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R27610W1">
+          <head type="note" n="1" xml:id="spp-R27610W1-headnote-1">
+            <lg n="1" xml:id="spp-R27610W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R27610W1-headnote-1-line-group-1-line-1">[From the original manuscript in possession of Leonard Macnally, Esq. Barrister at Law, Dublin.]&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R27610W1-headnote-2">
+            <lg n="1" xml:id="spp-R27610W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R27610W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R27610W1-headnote-3">
+            <lg n="1" xml:id="spp-R27610W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R27610W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-R27610W1-line-1" n="1">S<hi rend="small-caps">OME</hi> ancient authors wisely write,</l>
+            <l xml:id="swift-R27610W1-line-2" n="2">That he who drinks will wake at night,</l>
+            <l xml:id="swift-R27610W1-line-3" n="3">Will never fail to lose his rest,</l>
+            <l xml:id="swift-R27610W1-line-4" n="4">And feel a streightness in his chest;</l>
+            <l xml:id="swift-R27610W1-line-5" n="5">A streightness in a double sense,</l>
+            <l xml:id="swift-R27610W1-line-6" n="6">A streightness both of breath and pence:</l>
+            <l xml:id="swift-R27610W1-line-7" n="7">Physicians say, it is but reasonable,</l>
+            <l xml:id="swift-R27610W1-line-8" n="8">He that comes home at hour unseasonable,</l>
+            <l xml:id="swift-R27610W1-line-9" n="9">(Besides a fall and broken shins,</l>
+            <l xml:id="swift-R27610W1-line-10" n="10">Those smaller judgments for his sins;)</l>
+            <l xml:id="swift-R27610W1-line-11" n="11">If, when he goes to bed, he meets</l>
+            <l xml:id="swift-R27610W1-line-12" n="12">A teazing wife between the sheets,</l>
+            <l xml:id="swift-R27610W1-line-13" n="13">'Tis six to five he'll never sleep,</l>
+            <l xml:id="swift-R27610W1-line-14" n="14">But rave and toss till morning-peep.</l>
+            <l xml:id="swift-R27610W1-line-15" n="15">Yet harmless Betty must be blamed</l>
+            <l xml:id="swift-R27610W1-line-16" n="16">Because you feel your lungs inflamed;</l>
+            <l xml:id="swift-R27610W1-line-17" n="17">But if you would not get a fever,</l>
+            <l xml:id="swift-R27610W1-line-18" n="18">You never must one moment leave her.</l>
+            <l xml:id="swift-R27610W1-line-19" n="19">This comes of all your drunken tricks,</l>
+            <l xml:id="swift-R27610W1-line-20" n="20">Your Parry's and your brace of Dicks;</l>
+            <l xml:id="swift-R27610W1-line-21" n="21">Your hunting Helsham in his laboratory</l>
+            <l xml:id="swift-R27610W1-line-22" n="22">Too, was the time you saw that Drab lae a Pery. <note place="foot">·So in the manuscript.</note></l>
+            <l xml:id="swift-R27610W1-line-23" n="23">But like the prelate who lives yonder-a</l>
+            <l xml:id="swift-R27610W1-line-24" n="24">And always cries he is like Cassandra;</l>
+            <l xml:id="swift-R27610W1-line-25" n="25">I always told you, Mr Sheridan,</l>
+            <l xml:id="swift-R27610W1-line-26" n="26">If once this company you were rid on,</l>
+            <l xml:id="swift-R27610W1-line-27" n="27">Frequented honest folk, and very few,</l>
+            <l xml:id="swift-R27610W1-line-28" n="28">You'd live till all your friends were weary of you.</l>
+            <l xml:id="swift-R27610W1-line-29" n="29">But if rack punch you still would swallow,</l>
+            <l xml:id="swift-R27610W1-line-30" n="30">I then forewarned you what would follow.</l>
+            <l xml:id="swift-R27610W1-line-31" n="31">Are the Deanery sober hours?</l>
+            <l xml:id="swift-R27610W1-line-32" n="32">Be witness for me all ye powers.</l>
+            <l xml:id="swift-R27610W1-line-33" n="33">The cloth is laid at eight, and then</l>
+            <l xml:id="swift-R27610W1-line-34" n="34">We sit till half an hour past ten;</l>
+            <l xml:id="swift-R27610W1-line-35" n="35">One bottle well might serve for three</l>
+            <l xml:id="swift-R27610W1-line-36" n="36">If Mrs Robinson drank like me.</l>
+            <l xml:id="swift-R27610W1-line-37" n="37">Ask how I fret when she has beckon'd</l>
+            <l xml:id="swift-R27610W1-line-38" n="38">To Robert to bring up a second;</l>
+            <l xml:id="swift-R27610W1-line-39" n="39">I hate to have it in my sight,</l>
+            <l xml:id="swift-R27610W1-line-40" n="40">And drink my share in perfect spite.</l>
+            <l xml:id="swift-R27610W1-line-41" n="41">If Robin brings the ladies word,</l>
+            <l xml:id="swift-R27610W1-line-42" n="42">The coach is come, I 'scape a third;</l>
+            <l xml:id="swift-R27610W1-line-43" n="43">If not, why then I fall a talking</l>
+            <l xml:id="swift-R27610W1-line-44" n="44">How sweet a night it is for walking;</l>
+            <l xml:id="swift-R27610W1-line-45" n="45">For in all conscience, were my treasure able,</l>
+            <l xml:id="swift-R27610W1-line-46" n="46">I'd think a quart a piece unreasonable;</l>
+            <l xml:id="swift-R27610W1-line-47" n="47">It strikes eleven,── get out of doors.──</l>
+            <l xml:id="swift-R27610W1-line-48" n="48">This is my constant farewell.</l>
+            <l rend="indent(2)" xml:id="swift-R27610W1-line-49" n="49">|Yours,</l>
+            <l rend="indent(3)" xml:id="swift-R27610W1-line-50" n="50">||J.S.</l>
+            <l xml:id="swift-R27610W1-line-51" n="51">Oct. 18th 1724, nine in the morning.</l>
+            <l rend="indent(1)" xml:id="swift-R27610W1-line-52" n="52"><lb/>You had best hap yourself up in a chair, and dine with me than with the provost.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

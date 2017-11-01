@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The distrest maid, being put to her last shift,<lb/>  Makes her humble petition to the Rev. Dr. Swift,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 10FE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="0021W1264ZL">
+          <head type="note" n="1" xml:id="spp-0021W1264ZL-headnote-1">
+            <lg n="1" xml:id="spp-0021W1264ZL-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W1264ZL-headnote-1-line-group-1-line-1">To the PRINTER.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-0021W1264ZL-headnote-2">
+            <lg n="1" xml:id="spp-0021W1264ZL-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W1264ZL-headnote-2-line-group-1-line-1">A friend of mine who was acquainted with Dr. Swift, found lately a copy of the following production of his. The paper was so damaged, and ink so bad, that the whole could not be made out; nor can I say this is correct. But as it is probable some of your readers who were intimate with the Dean may be able to correct and compleat it, and also furnish his reply, I send it to you for publication.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-0021W1264ZL-headnote-3">
+            <lg n="1" xml:id="spp-0021W1264ZL-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-0021W1264ZL-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

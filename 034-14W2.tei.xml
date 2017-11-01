@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODE TO DR WILLIAM SANCROFT,<lb/>  LATE LORD BISHOP OF CANTERBURY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 27JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="034-14W2">
+          <head type="note" n="1" xml:id="spp-034-14W2-headnote-1">
+            <lg n="1" xml:id="spp-034-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-034-14W2-headnote-1-line-group-1-line-1">WRITTEN IN MAY 1689, AT THE DESIRE OF THE LATE LORD BISHOP OF ELY.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-034-14W2-headnote-2">
+            <lg n="1" xml:id="spp-034-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-034-14W2-headnote-2-line-group-1-line-1">S<hi rend="small-caps">ANCROFT</hi>, Primate of England, at the Revolution, joined with his brethren in resisting the encroachments of James upon liberty and religion. But as his conscience did not permit him to take the oaths to William and Mary, he was deprived of his see, and died in retirement. That Swift should have addressed an Ode to him under such circumstances, is a proof that, whatever were his principles in civil politics, he was uniformly a staunch High-Church-man. This, with the verses to Congreve, and those on Temple's illness, were first published by Mr Nicol in 1789, from an authentic manuscript.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-034-14W2-headnote-3">
+            <lg n="1" xml:id="spp-034-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-034-14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-034-14W2-line-1" n="1">I.<lb/><hi rend="display-initial">T<hi rend="small-caps">RUTH</hi> is eternal, and the Son of Heaven,</hi></l>
+            <l xml:id="swift-034-14W2-line-2" n="2">Bright effluence of th' immortal ray,</l>
+            <l xml:id="swift-034-14W2-line-3" n="3">Chief cherub, and chief lamp, of that high sacred Seven,</l>
+            <l xml:id="swift-034-14W2-line-4" n="4">Which guard the throne by night, and are its light by day;</l>
+            <l rend="indent(3)" xml:id="swift-034-14W2-line-5" n="5">||First of God's darling attributes,</l>
+            <l rend="indent(3)" xml:id="swift-034-14W2-line-6" n="6">||Thou daily seest him face to face,</l>
+            <l xml:id="swift-034-14W2-line-7" n="7">Nor does thy essence fix'd depend on giddy circumstance</l>
+            <l rend="indent(3)" xml:id="swift-034-14W2-line-8" n="8">||Of time or place,</l>
+            <l xml:id="swift-034-14W2-line-9" n="9">Two foolish guides in ev'ry sublunary dance;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-10" n="10">How shall we find Thee then in dark disputes?</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-11" n="11">How shall we search Thee in a battle gain'd,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-12" n="12">Or a weak argument by force maintain'd?</l>
+            <l xml:id="swift-034-14W2-line-13" n="13">In dagger contests, and th' artillery of words,</l>
+            <l xml:id="swift-034-14W2-line-14" n="14">(For swords are madmen's tongues, and tongues are madmen's swords,)</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-15" n="15">|Contrived to tire all patience out,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-16" n="16">|And not to satisfy the doubt?</l>
+            <l rend="center indent(1)" xml:id="swift-034-14W2-line-17" n="17"><lb/>II._But where is even thy Image on our earth?</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-18" n="18">|For of the person much I fear,</l>
+            <l xml:id="swift-034-14W2-line-19" n="19">Since Heaven will claim its residence, as well as birth,</l>
+            <l xml:id="swift-034-14W2-line-20" n="20">And God himself has said, He shall not find it here.</l>
+            <l xml:id="swift-034-14W2-line-21" n="21">For this inferior world is but Heaven's dusky shade,</l>
+            <l xml:id="swift-034-14W2-line-22" n="22">By dark reverted rays from its reflection made;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-23" n="23">Whence the weak shapes wild and imperfect pass,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-24" n="24">Like sunbeams shot at too far distance from a glass;</l>
+            <l rend="indent(3)" xml:id="swift-034-14W2-line-25" n="25">||Which all the mimic forms express,</l>
+            <l xml:id="swift-034-14W2-line-26" n="26">Though in strange uncouth postures, and uncomely dress;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-27" n="27">|So when Cartesian artists try</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-28" n="28">To solve appearances of sight</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-29" n="29">|In its reception to the eye,</l>
+            <l xml:id="swift-034-14W2-line-30" n="30">And catch the living landscape through a scanty light,<note place="foot">·The experiment of the dark chamber, to demonstrate light to be by reception of the object, and not by emission.── S.</note></l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-31" n="31">|The figures all inverted shew,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-32" n="32">|And colours of a faded hue;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-33" n="33">Here a pale shape with upward footstep treads,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-34" n="34">|And men seem walking on their heads;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-35" n="35">|There whole herds suspended lie,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-36" n="36">Ready to tumble down into the sky;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-37" n="37">Such are the ways ill-guided mortals go</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-38" n="38">To judge of things above by things below.</l>
+            <l xml:id="swift-034-14W2-line-39" n="39">Disjointing shapes as in the fairy land of dreams,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-40" n="40">|Or images that sink in streams;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-41" n="41">|No wonder, then, we talk amiss</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-42" n="42">|Of truth, and what, or where it is;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-43" n="43">|Say, Muse, for thou, if any, know'st,</l>
+            <l xml:id="swift-034-14W2-line-44" n="44">Since the bright essence fled, where haunts the reverend ghost?</l>
+            <l rend="center" xml:id="swift-034-14W2-line-45" n="45"><lb/>III._If all that our weak knowledge titles virtue, be</l>
+            <l xml:id="swift-034-14W2-line-46" n="46">(High Truth) the best resemblance of exalted Thee,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-47" n="47">|If a mind fix'd to combat fate</l>
+            <l xml:id="swift-034-14W2-line-48" n="48">With those two powerful swords, submission and humility,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-49" n="49">|Sounds truly good, or truly great;</l>
+            <l xml:id="swift-034-14W2-line-50" n="50">Ill may I live, if the good Sancroft, in his holy rest,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-51" n="51">|In the divin'ty of retreat,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-52" n="52">Be not the brightest pattern earth can shew</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-53" n="53">|Of heav'n-born Truth below;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-54" n="54">But foolish man still judges what is best</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-55" n="55">|In his own balance, false and light,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-56" n="56">|Foll'wing opinion, dark and blind,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-57" n="57">|That vagrant leader of the mind,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-58" n="58">Till honesty and conscience are clear out of sight.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-59" n="59"><lb/>IV._And some, to be large ciphers in a state,</l>
+            <l xml:id="swift-034-14W2-line-60" n="60">Pleased with an empty swelling to be counted great,</l>
+            <l xml:id="swift-034-14W2-line-61" n="61">Make their minds travel o'er infinity of space,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-62" n="62">Rapt through the wide expanse of thought,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-63" n="63">And oft in contradiction's vortex caught,</l>
+            <l xml:id="swift-034-14W2-line-64" n="64">To keep that worthless clod, the body, in one place;</l>
+            <l xml:id="swift-034-14W2-line-65" n="65">Errors like this did old astronomers misguide,</l>
+            <l xml:id="swift-034-14W2-line-66" n="66">Led blindly on by gross philosophy and pride,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-67" n="67">|Who, like hard masters, taught the sun</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-68" n="68">|Through many a heedless sphere to run,</l>
+            <l xml:id="swift-034-14W2-line-69" n="69">Many an eccentric and unthrifty motion make,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-70" n="70">And thousand incoherent journeys take,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-71" n="71">|Whilst all th' advantage by it got,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-72" n="72">Was but to light earth's inconsiderable spot.</l>
+            <l xml:id="swift-034-14W2-line-73" n="73">The herd beneath, who see the weathercock of state</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-74" n="74">Hung loosely on the church's pinnacle,</l>
+            <l xml:id="swift-034-14W2-line-75" n="75">Believe it firm, because perhaps the day is mild and still;</l>
+            <l xml:id="swift-034-14W2-line-76" n="76">But when they find it turn with the first blast of fate,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-77" n="77">|By gazing upward giddy grow,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-78" n="78">|And think the church itself does so;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-79" n="79">Thus fools, for being strong and num'rous known,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-80" n="80">Suppose the truth, like all the world, their own;</l>
+            <l xml:id="swift-034-14W2-line-81" n="81">And holy Sancroft's motion quite irregular appears,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-82" n="82">|Because 'tis opposite to theirs.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-83" n="83"><lb/>V._In vain then would the Muse the multitude advise,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-84" n="84">Whose peevish knowledge thus perversely lies</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-85" n="85">|In gath'ring follies from the wise;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-86" n="86">Rather put on thy anger and thy spite,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-87" n="87">|And some kind pow'r for once dispense</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-88" n="88">Through the dark mass, the dawn of so much sense,</l>
+            <l xml:id="swift-034-14W2-line-89" n="89">To make them understand, and feel me when I write;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-90" n="90">The muse and I no more revenge desire,</l>
+            <l xml:id="swift-034-14W2-line-91" n="91">Each line shall stab, shall blast, like daggers and like fire;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-92" n="92">Ah, Britain, land of angels! which of all thy sins,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-93" n="93">|(Say, hapless isle, although</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-94" n="94">|It is a bloody list we know,)</l>
+            <l xml:id="swift-034-14W2-line-95" n="95">Has given thee up a dwelling-place to fiends?</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-96" n="96">|Sin and the plague ever abound</l>
+            <l xml:id="swift-034-14W2-line-97" n="97">In governments too easy, and too fruitful ground;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-98" n="98">|Evils which a too gentle king,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-99" n="99">|Too flourishing a spring,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-100" n="100">|And too warm summers bring:</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-101" n="101">Our British soil is over rank, and breeds</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-102" n="102">Among the noblest flowers a thousand pois'nous weeds,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-103" n="103">And every stinking weed so lofty grows,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-104" n="104">As if 'twould overshade the Royal Rose;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-105" n="105">The Royal Rose, the glory of our morn,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-106" n="106">|But, ah! too much without a thorn.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-107" n="107"><lb/>VI._Forgive (original mildness) this ill-govern'd zeal,</l>
+            <l xml:id="swift-034-14W2-line-108" n="108">'Tis all the angry slighted Muse can do</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-109" n="109">|In the pollution of these days;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-110" n="110">No province now is left her but to rail,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-111" n="111">And poetry has lost the art to praise,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-112" n="112">|Alas, the occasions are so few:</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-113" n="113">|None e'er but you,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-114" n="114">|And your Almighty Master, knew</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-115" n="115">With heavenly peace of mind to bear</l>
+            <l xml:id="swift-034-14W2-line-116" n="116">(Free from our tyrant passions, anger, scorn, or fear)</l>
+            <l xml:id="swift-034-14W2-line-117" n="117">The giddy turns of pop'lar rage,</l>
+            <l xml:id="swift-034-14W2-line-118" n="118">And all the contradictions of a poison'd age;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-119" n="119">The Son of God pronounced by the same breath</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-120" n="120">|Which straight pronounced his death;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-121" n="121">And though I should but ill be understood,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-122" n="122">In wholly equalling our sin and theirs,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-123" n="123">And measuring by the scanty thread of wit</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-124" n="124">What we call holy, and great, and just, and good,</l>
+            <l xml:id="swift-034-14W2-line-125" n="125">(Methods in talk whereof our pride and ignorance make use,)</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-126" n="126">And which our wild ambition foolishly compares</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-127" n="127">|With endless and with infinite;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-128" n="128">Yet pardon, native Albion, when I say,</l>
+            <l xml:id="swift-034-14W2-line-129" n="129">Among thy stubborn sons there haunts that spirit of the Jews,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-130" n="130">That those forsaken wretches who to-day</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-131" n="131">|Revile his great ambassador,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-132" n="132">Seem to discover what they would have done</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-133" n="133">(Were his humanity on earth once more)</l>
+            <l xml:id="swift-034-14W2-line-134" n="134">To his undoubted Master, Heaven's Almighty Son.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-135" n="135"><lb/>VII._But zeal is weak and ignorant, though wondrous proud,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-136" n="136">Though very turbulent and very loud;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-137" n="137">|The crazy composition shews,</l>
+            <l xml:id="swift-034-14W2-line-138" n="138">Like that fantastic medley in the idol's toes,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-139" n="139">Made up of iron mixt with clay,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-140" n="140">This crumbles into dust,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-141" n="141">That moulders into rust,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-142" n="142">Or melts by the first shower away.</l>
+            <l xml:id="swift-034-14W2-line-143" n="143">Nothing is fix'd that mortals see or know,</l>
+            <l xml:id="swift-034-14W2-line-144" n="144">Unless, perhaps, some stars above be so;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-145" n="145">|And those, alas, do shew,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-146" n="146">Like all transcendent excellence below;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-147" n="147">|In both, false mediums cheat our sight,</l>
+            <l xml:id="swift-034-14W2-line-148" n="148">And far exalted objects lessen by their height:</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-149" n="149">|Thus primitive Sancroft moves too high</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-150" n="150">|To be observed by vulgar eye,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-151" n="151">|And rolls the silent year</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-152" n="152">|On his own secret regular sphere,</l>
+            <l xml:id="swift-034-14W2-line-153" n="153">And sheds, though all unseen, his sacred influence here.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-154" n="154"><lb/>VIII._Kind star, still may'st thou shed thy sacred influence here,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-155" n="155">Or from thy private peaceful orb appear;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-156" n="156">For, sure, we want some guide from Heaven, to shew</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-157" n="157">The way which every wand'ring fool below</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-158" n="158">|Pretends so perfectly to know;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-159" n="159">And which, for aught I see, and much I fear,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-160" n="160">|The world has wholly miss'd;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-161" n="161">I mean the way which leads to Christ:</l>
+            <l xml:id="swift-034-14W2-line-162" n="162">Mistaken idiots! see how giddily they run,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-163" n="163">Led blindly on by avarice and pride,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-164" n="164">|What mighty numbers follow them;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-165" n="165">|Each fond of erring with his guide:</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-166" n="166">Some whom ambition drives, seek Heaven's high Son</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-167" n="167">In Cæsar's court, or in Jerusalem:</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-168" n="168">|Others, ignorantly wise,</l>
+            <l xml:id="swift-034-14W2-line-169" n="169">Among proud doctors and disputing Pharisees:</l>
+            <l xml:id="swift-034-14W2-line-170" n="170">What could the sages gain but unbelieving scorn;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-171" n="171">Their faith was so uncourtly, when they said</l>
+            <l xml:id="swift-034-14W2-line-172" n="172">That Heaven's high Son was in a village born;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-173" n="173">|That the world's Saviour had been</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-174" n="174">|In a vile manger laid,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-175" n="175">|And foster'd in a wretched inn?</l>
+            <l rend="center" xml:id="swift-034-14W2-line-176" n="176"><lb/>IX._Necessity, thou tyrant conscience of the great,</l>
+            <l xml:id="swift-034-14W2-line-177" n="177">Say, why the church is still led blindfold by the state;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-178" n="178">Why should the first be ruin'd and laid waste,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-179" n="179">To mend dilapidations in the last?</l>
+            <l xml:id="swift-034-14W2-line-180" n="180">And yet the world, whose eyes are on our mighty Prince,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-181" n="181">|Thinks Heaven has cancell'd all our sins,</l>
+            <l xml:id="swift-034-14W2-line-182" n="182">And that his subjects share his happy influence;</l>
+            <l xml:id="swift-034-14W2-line-183" n="183">Follow the model close, for so I'm sure they should,</l>
+            <l xml:id="swift-034-14W2-line-184" n="184">But wicked kings draw more examples than the good:</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-185" n="185">And divine Sancroft, weary with the weight</l>
+            <l xml:id="swift-034-14W2-line-186" n="186">Of a declining church, by faction, her worst foe, oppress'd,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-187" n="187">|Finding the mitre almost grown</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-188" n="188">|A load as heavy as the crown,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-189" n="189">Wisely retreated to his heavenly rest.</l>
+            <l rend="center indent(1)" xml:id="swift-034-14W2-line-190" n="190"><lb/>X._Ah! may no unkind earthquake of the state,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-191" n="191">|Nor hurricano from the crown,</l>
+            <l xml:id="swift-034-14W2-line-192" n="192">Disturb the present mitre, as that fearful storm of late,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-193" n="193">Which, in its dusky march along the plain,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-194" n="194">|Swept up whole churches as it list,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-195" n="195">|Wrapp'd in a whirlwind and a mist;</l>
+            <l xml:id="swift-034-14W2-line-196" n="196">Like that prophetic tempest in the virgin reign,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-197" n="197">And swallow'd them at last, or flung them down.</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-198" n="198">Such were the storms good Sancroft long has borne;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-199" n="199">The mitre, which his sacred head has worn,</l>
+            <l xml:id="swift-034-14W2-line-200" n="200">Was, like his Master's Crown, inwreath'd with thorn.</l>
+            <l xml:id="swift-034-14W2-line-201" n="201">Death's sting is swallow'd up in victory at last,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-202" n="202">|The bitter cup is from him past:</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-203" n="203">|Fortune in both extremes</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-204" n="204">Though blasts from contrariety of winds,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-205" n="205">|Yet to firm heavenly minds,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-206" n="206">Is but one thing under two different names;</l>
+            <l xml:id="swift-034-14W2-line-207" n="207">And even the sharpest eye that has the prospect seen,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-208" n="208">Confesses ignorance to judge between;</l>
+            <l xml:id="swift-034-14W2-line-209" n="209">And must to human reasoning opposite conclude,</l>
+            <l xml:id="swift-034-14W2-line-210" n="210">To point out which is moderation, which is fortitude.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-211" n="211"><lb/>XI._Thus Sancroft, in the exaltation of retreat,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-212" n="212">Shews lustre that was shaded in his seat;</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-213" n="213">|Short glimm'rings of the prelate glorified;</l>
+            <l xml:id="swift-034-14W2-line-214" n="214">Which the disguise of greatness only served to hide.</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-215" n="215">|Why should the Sun, alas! be proud</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-216" n="216">|To lodge behind a golden cloud?</l>
+            <l xml:id="swift-034-14W2-line-217" n="217">Though fringed with evening gold the cloud appears so gay,</l>
+            <l xml:id="swift-034-14W2-line-218" n="218">'Tis but a low-born vapour kindled by a ray:</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-219" n="219">|At length 'tis overblown and past,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-220" n="220">|Puff'd by the people's spiteful blast,</l>
+            <l xml:id="swift-034-14W2-line-221" n="221">The dazzling glory dims their prostituted sight,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-222" n="222">No deflower'd eye can face the naked light:</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-223" n="223">Yet does this high perfection well proceed</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-224" n="224">|From strength of its own native seed,</l>
+            <l xml:id="swift-034-14W2-line-225" n="225">This wilderness, the world, like that poetic wood of old,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-226" n="226">|Bears one, and but one branch of gold,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-227" n="227">Where the bless'd spirit lodges like the dove,</l>
+            <l xml:id="swift-034-14W2-line-228" n="228">And which (to heavenly soil transplanted) will improve,</l>
+            <l xml:id="swift-034-14W2-line-229" n="229">To be, as 'twas below, the brightest plant above;</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-230" n="230">For, whate'er theologic lev'llers dream,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-231" n="231">|There are degrees above, I know,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-232" n="232">|As well as here below,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-233" n="233">(The goddess Muse herself has told me so,)</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-234" n="234">Where high patrician souls, dress'd heavenly gay,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-235" n="235">Sit clad in lawn of purer woven day.</l>
+            <l xml:id="swift-034-14W2-line-236" n="236">There some high-spirited throne to Sancroft shall be given,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-237" n="237">|In the metropolis of Heaven;</l>
+            <l xml:id="swift-034-14W2-line-238" n="238">Chief of the mitred saints, and from archprelate here,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-239" n="239">|Translated to archangel there.</l>
+            <l rend="center" xml:id="swift-034-14W2-line-240" n="240"><lb/>XII._Since, happy saint, since it has been of late</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-241" n="241">Either our blindness or our fate,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-242" n="242">To lose the providence of thy cares,</l>
+            <l xml:id="swift-034-14W2-line-243" n="243">Pity a miserable church's tears,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-244" n="244">That begs the powerful blessing of thy pray'rs.</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-245" n="245">Some angel, say, what were the nation's crimes,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-246" n="246">That sent these wild reformers to our times:</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-247" n="247">|Say what their senseless malice meant,</l>
+            <l rend="indent(2)" xml:id="swift-034-14W2-line-248" n="248">|To tear religion's lovely face:</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-249" n="249">Strip her of ev'ry ornament and grace;</l>
+            <l xml:id="swift-034-14W2-line-250" n="250">In striving to wash off th' imaginary paint?</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-251" n="251">Religion now does on her death-bed lie,</l>
+            <l xml:id="swift-034-14W2-line-252" n="252">Heart-sick of a high fever and consuming atrophy;</l>
+            <l xml:id="swift-034-14W2-line-253" n="253">How the physicians swarm to shew their mortal skill,</l>
+            <l xml:id="swift-034-14W2-line-254" n="254">And by their college arts methodically kill:</l>
+            <l xml:id="swift-034-14W2-line-255" n="255">Reformers and physicians differ but in name,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-256" n="256">One end in both, and the design the same;</l>
+            <l xml:id="swift-034-14W2-line-257" n="257">Cordials are in their talk, while all they mean</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-258" n="258">Is but the patient's death, and gain───</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-259" n="259">Check in thy satire, angry Muse,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-260" n="260">Or a more worthy subject choose:</l>
+            <l xml:id="swift-034-14W2-line-261" n="261">Let not the outcasts of an outcast age</l>
+            <l xml:id="swift-034-14W2-line-262" n="262">Provoke the honour of my Muse's rage,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-263" n="263">Nor be thy mighty spirit rais'd,</l>
+            <l rend="indent(1)" xml:id="swift-034-14W2-line-264" n="264">Since Heaven and Cato both are pleas'd───</l>
+            <l rend="indent(4)" xml:id="swift-034-14W2-line-265" n="265">|||[The rest of the poem is lost.]</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PANEGYRICK on the<lb/>  D──n, in the Person of a La-<lb/>  dy in the <hi rend="italics">North</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWhite 6JA92"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="887-0251">
+          <head type="note" n="1" xml:id="spp-887-0251-headnote-1">
+            <lg n="1" xml:id="spp-887-0251-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-887-0251-headnote-1-line-group-1-line-1">Written in the Year 1730.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-887-0251-headnote-2">
+            <lg n="1" xml:id="spp-887-0251-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-887-0251-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-887-0251-headnote-3">
+            <lg n="1" xml:id="spp-887-0251-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-887-0251-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-887-0251-line-1" n="1"><hi rend="display-initial">R</hi>E<hi rend="small-caps">SOLV'D</hi> my Gratitude to show,</l>
+            <l xml:id="swift-887-0251-line-2" n="2">Thrice Rev'rend D────n for all I owe;</l>
+            <l xml:id="swift-887-0251-line-3" n="3">Too long I have my Thanks delay'd;</l>
+            <l xml:id="swift-887-0251-line-4" n="4">Your Favours left too long unpay'd;</l>
+            <l xml:id="swift-887-0251-line-5" n="5">But now in all our Sexes Name,</l>
+            <l xml:id="swift-887-0251-line-6" n="6">My artless Muse shall sing your Fame.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-7" n="7"><lb/>I<hi rend="small-caps">NDULGENT</hi> you to Female Kind,</l>
+            <l xml:id="swift-887-0251-line-8" n="8">To all their weaker Sides are blind;</l>
+            <l xml:id="swift-887-0251-line-9" n="9">Nine more such Champions as the D────n,</l>
+            <l xml:id="swift-887-0251-line-10" n="10">Would soon restore our antient Reign.</l>
+            <l xml:id="swift-887-0251-line-11" n="11">How well to win the Ladies Hearts,</l>
+            <l xml:id="swift-887-0251-line-12" n="12">You celebrate their Wit and Parts!</l>
+            <l xml:id="swift-887-0251-line-13" n="13">How have I felt my Spirits rais'd,</l>
+            <l xml:id="swift-887-0251-line-14" n="14">By you so oft, so highly prais'd!</l>
+            <l xml:id="swift-887-0251-line-15" n="15">Transform'd by your convincing Tongue</l>
+            <l xml:id="swift-887-0251-line-16" n="16">To witty, beautiful, and young.</l>
+            <l xml:id="swift-887-0251-line-17" n="17">I hope to quit that awkward Shame</l>
+            <l xml:id="swift-887-0251-line-18" n="18">Affected by each vulgar Dame;</l>
+            <l xml:id="swift-887-0251-line-19" n="19">To Modesty a weak Pretence;</l>
+            <l xml:id="swift-887-0251-line-20" n="20">And soon grow pert on Men of Sense;</l>
+            <l xml:id="swift-887-0251-line-21" n="21">To show my Face with scornful Air;</l>
+            <l xml:id="swift-887-0251-line-22" n="22">Let others match it if they dare.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-23" n="23"><lb/>I<hi rend="small-caps">MPATIENT</hi> to be out of Debt,</l>
+            <l xml:id="swift-887-0251-line-24" n="24">O, may I never once forget</l>
+            <l xml:id="swift-887-0251-line-25" n="25">The Bard, who humbly deigns to chuse</l>
+            <l xml:id="swift-887-0251-line-26" n="26">Me for the Subject of his Muse.</l>
+            <l xml:id="swift-887-0251-line-27" n="27">Behind my Back, before my Nose,</l>
+            <l xml:id="swift-887-0251-line-28" n="28">He sounds my Praise in Verse and Prose.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-29" n="29"><lb/>M<hi rend="small-caps">Y</hi> Heart with Emulation burns</l>
+            <l xml:id="swift-887-0251-line-30" n="30">To make you suitable Returns;</l>
+            <l xml:id="swift-887-0251-line-31" n="31">My Gratitude the World shall know:</l>
+            <l xml:id="swift-887-0251-line-32" n="32">And, see, the Printer's Boy below:</l>
+            <l xml:id="swift-887-0251-line-33" n="33">Ye Hawkers all, your Voices lift;</l>
+            <l xml:id="swift-887-0251-line-34" n="34">A Panegyrick on D──────n <hi rend="italics">S</hi>──────.</l>
+            <l xml:id="swift-887-0251-line-35" n="35">And then, to mend the Matter still;</l>
+            <l xml:id="swift-887-0251-line-36" n="36">By Lady <hi rend="italics">Anne</hi> of <note place="foot">·<hi rend="italics">A Village near Sir </hi>A────── A<hi rend="italics">──────'s House, where the Author passed two Summers</hi>.</note> <hi rend="italics">Market-Hill</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-37" n="37"><lb/>I <hi rend="small-caps">THUS</hi> begin. My grateful Muse</l>
+            <l xml:id="swift-887-0251-line-38" n="38">Salutes the D────n in diff'rent Views;</l>
+            <l xml:id="swift-887-0251-line-39" n="39">D──n, Butler, Usher, Jester, Tutor;</l>
+            <l xml:id="swift-887-0251-line-40" n="40"><note place="foot">·<hi rend="italics">The Names of two Overseers</hi>.</note><hi rend="italics">Robert</hi> and <hi rend="italics">Darby</hi>'s Coadjutor:</l>
+            <l xml:id="swift-887-0251-line-41" n="41">And, as you in Commission sit;</l>
+            <l xml:id="swift-887-0251-line-42" n="42">To rule the Dairy next to <note place="foot">·<hi rend="italics">My Lady's Footman</hi>.</note> <hi rend="italics">Kit</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-43" n="43"><lb/>I<hi rend="small-caps">N</hi> each Capacity I mean</l>
+            <l xml:id="swift-887-0251-line-44" n="44">To sing your Praise. And, first as D────n:</l>
+            <l xml:id="swift-887-0251-line-45" n="45">Envy must own, you understand your</l>
+            <l xml:id="swift-887-0251-line-46" n="46">Precedence, and support your Grandeur:</l>
+            <l xml:id="swift-887-0251-line-47" n="47">Nor, of your Rank will bate an Ace,</l>
+            <l xml:id="swift-887-0251-line-48" n="48">Except to give D────n <hi rend="italics">D────l</hi> place.</l>
+            <l xml:id="swift-887-0251-line-49" n="49">In you such Dignity appears;</l>
+            <l xml:id="swift-887-0251-line-50" n="50">So suited to your State, and Years!</l>
+            <l xml:id="swift-887-0251-line-51" n="51">With Ladies what a strict Decorum!</l>
+            <l xml:id="swift-887-0251-line-52" n="52">With what Devotion you adore 'um!</l>
+            <l xml:id="swift-887-0251-line-53" n="53">Treat me with so much Complaisance,</l>
+            <l xml:id="swift-887-0251-line-54" n="54">As fits a Princess in Romance.</l>
+            <l xml:id="swift-887-0251-line-55" n="55">By your Example and Assistance,</l>
+            <l xml:id="swift-887-0251-line-56" n="56">The <hi rend="italics">Fellows</hi> learn to know their Distance.</l>
+            <l xml:id="swift-887-0251-line-57" n="57">Sir <hi rend="italics">A────r</hi>, since you set the Pattern,</l>
+            <l xml:id="swift-887-0251-line-58" n="58">No longer calls me <hi rend="italics">Snipe</hi> and <hi rend="italics">Slattern</hi>;</l>
+            <l xml:id="swift-887-0251-line-59" n="59">Nor dares he, though he were a Duke,</l>
+            <l xml:id="swift-887-0251-line-60" n="60">Offend me with the least Rebuke.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-61" n="61"><lb/>P<hi rend="small-caps">ROCEED</hi> we to your <note place="foot">·<hi rend="italics">The Author preached but once while he was there</hi>.</note> preaching next:</l>
+            <l xml:id="swift-887-0251-line-62" n="62">How nice you split the hardest Text!</l>
+            <l xml:id="swift-887-0251-line-63" n="63">How your superior Learning shines</l>
+            <l xml:id="swift-887-0251-line-64" n="64">Above our neighb'ring dull Divines!</l>
+            <l xml:id="swift-887-0251-line-65" n="65">At <hi rend="italics">Beggar</hi>'s-<hi rend="italics">Op'ra</hi> not so full Pit</l>
+            <l xml:id="swift-887-0251-line-66" n="66">Is seen, as when you mount our Pulpit.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-67" n="67"><lb/>C<hi rend="small-caps">ONSIDER</hi> now your Conversation;</l>
+            <l xml:id="swift-887-0251-line-68" n="68">Regardful of your Age and Station,</l>
+            <l xml:id="swift-887-0251-line-69" n="69">You ne'er was known, by Passion stir'd,</l>
+            <l xml:id="swift-887-0251-line-70" n="70">To give the least offensive Word;</l>
+            <l xml:id="swift-887-0251-line-71" n="71">But still, whene'er you Silence break,</l>
+            <l xml:id="swift-887-0251-line-72" n="72">Watch ev'ry Syllable you speak:</l>
+            <l xml:id="swift-887-0251-line-73" n="73">Your Style so clear, and so concise,</l>
+            <l xml:id="swift-887-0251-line-74" n="74">We never ask to hear you twice.</l>
+            <l xml:id="swift-887-0251-line-75" n="75">But then, a Parson so genteel,</l>
+            <l xml:id="swift-887-0251-line-76" n="76">So nicely clad from Head to Heel;</l>
+            <l xml:id="swift-887-0251-line-77" n="77">So fine a Gown, a Band so clean,</l>
+            <l xml:id="swift-887-0251-line-78" n="78">As well become St. <hi rend="italics">P────k</hi>'s D──n;</l>
+            <l xml:id="swift-887-0251-line-79" n="79">Such reverential Awe express,</l>
+            <l xml:id="swift-887-0251-line-80" n="80">That Cow-boys know you by your Dress!</l>
+            <l xml:id="swift-887-0251-line-81" n="81">Then, if our neighb'ring Friends come here,</l>
+            <l xml:id="swift-887-0251-line-82" n="82">How proud are we when you appear!</l>
+            <l xml:id="swift-887-0251-line-83" n="83">With such Address, and graceful Port,</l>
+            <l xml:id="swift-887-0251-line-84" n="84">As clearly shows you bred at Court!</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-85" n="85"><lb/>N<hi rend="small-caps">OW</hi> raise your Spirits, Mr. D────n:</l>
+            <l xml:id="swift-887-0251-line-86" n="86">I lead you to a nobler Scene;</l>
+            <l xml:id="swift-887-0251-line-87" n="87">When to the Vault you walk in State,</l>
+            <l xml:id="swift-887-0251-line-88" n="88">In Quality of <note place="foot">·<hi rend="italics">He sometimes used to direct the Butler</hi>.</note> Butler's Mate;</l>
+            <l xml:id="swift-887-0251-line-89" n="89">You, next to <hi rend="italics">Dennis</hi> bear the Sway:</l>
+            <l xml:id="swift-887-0251-line-90" n="90">To you we often trust the Key:</l>
+            <l xml:id="swift-887-0251-line-91" n="91">Nor, can he judge with all his Art</l>
+            <l xml:id="swift-887-0251-line-92" n="92">So well, what Bottle holds a Quart:</l>
+            <l xml:id="swift-887-0251-line-93" n="93">What Pints may best for Bottles pass,</l>
+            <l xml:id="swift-887-0251-line-94" n="94">Just to give ev'ry Man his Glass:</l>
+            <l xml:id="swift-887-0251-line-95" n="95">When proper to produce the best;</l>
+            <l xml:id="swift-887-0251-line-96" n="96">And, what may serve a common Guest.</l>
+            <l xml:id="swift-887-0251-line-97" n="97">With <note place="foot">·<hi rend="italics">The Butler</hi>.</note> <hi rend="italics">Dennis</hi> you did ne'er combine,</l>
+            <l xml:id="swift-887-0251-line-98" n="98">Not you, to steal your Master's Wine;</l>
+            <l xml:id="swift-887-0251-line-99" n="99">Except a Bottle now and then,</l>
+            <l xml:id="swift-887-0251-line-100" n="100">To welcome <hi rend="italics">Brother</hi> Serving-men;</l>
+            <l xml:id="swift-887-0251-line-101" n="101">But, that is with a good Design,</l>
+            <l xml:id="swift-887-0251-line-102" n="102">To drink Sir <hi rend="italics">A────r</hi>'s Health and mine:</l>
+            <l xml:id="swift-887-0251-line-103" n="103">Your Master's Honour to maintain;</l>
+            <l xml:id="swift-887-0251-line-104" n="104">And get the like Returns again.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-105" n="105"><lb/>Y<hi rend="small-caps">OUR</hi> <note place="foot">·<hi rend="italics">He sometimes used to walk with the Lady</hi>.</note> Usher's Post must next be handled:</l>
+            <l xml:id="swift-887-0251-line-106" n="106">How bless't am I by such a Man led!</l>
+            <l xml:id="swift-887-0251-line-107" n="107">Under whose wise and careful Guardship,</l>
+            <l xml:id="swift-887-0251-line-108" n="108">I now despise Fatigue and Hardship:</l>
+            <l xml:id="swift-887-0251-line-109" n="109">Familiar grown to Dirt and Wet,</l>
+            <l xml:id="swift-887-0251-line-110" n="110">Though daggled round, I scorn to fret:</l>
+            <l xml:id="swift-887-0251-line-111" n="111">From you my Chamber-Damsels learn</l>
+            <l xml:id="swift-887-0251-line-112" n="112">My broken Hose to patch and dern.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-113" n="113"><lb/>N<hi rend="small-caps">OW</hi>, as a Jester, I accost you;</l>
+            <l xml:id="swift-887-0251-line-114" n="114">Which never yet one Friend has lost you.</l>
+            <l xml:id="swift-887-0251-line-115" n="115">You judge so nicely to a Hair,</l>
+            <l xml:id="swift-887-0251-line-116" n="116">How far to go, and when to spare:</l>
+            <l xml:id="swift-887-0251-line-117" n="117">By long Experience grown so wise,</l>
+            <l xml:id="swift-887-0251-line-118" n="118">Of ev'ry Taste to know the Size;</l>
+            <l xml:id="swift-887-0251-line-119" n="119">There's none so ignorant or weak</l>
+            <l xml:id="swift-887-0251-line-120" n="120"><note place="foot">·<hi rend="italics">The neighbouring Ladies were no great Understanders of Raillery</hi>.</note>To take Offence at what you speak.</l>
+            <l xml:id="swift-887-0251-line-121" n="121">Whene'er you joke, 'tis all a Case;</l>
+            <l xml:id="swift-887-0251-line-122" n="122">Whether with <hi rend="italics">Dermot</hi>, or <hi rend="italics">His Grace</hi>;</l>
+            <l xml:id="swift-887-0251-line-123" n="123">With <hi rend="italics">Teague O'Murphy</hi>, or an Earl;</l>
+            <l xml:id="swift-887-0251-line-124" n="124">A Dutchess or a Kitchen Girl.</l>
+            <l xml:id="swift-887-0251-line-125" n="125">With such Dexterity you fit</l>
+            <l xml:id="swift-887-0251-line-126" n="126">Their sev'ral Talents to your Wit,</l>
+            <l xml:id="swift-887-0251-line-127" n="127">That <hi rend="italics">Moll</hi> the Chamber-maid can smoak,</l>
+            <l xml:id="swift-887-0251-line-128" n="128">And <hi rend="italics">Gaghagan</hi> take ev'ry Joke.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-129" n="129"><lb/>I <hi rend="small-caps">NOW</hi> become your humble Suitor,</l>
+            <l xml:id="swift-887-0251-line-130" n="130">To let me praise you as my <note place="foot">·<hi rend="italics">In bad Weather the Author used to direct my Lady in her Reading</hi>.</note> Tutor.</l>
+            <l xml:id="swift-887-0251-line-131" n="131">Poor I, a Savage bred and born,</l>
+            <l xml:id="swift-887-0251-line-132" n="132">By you instructed ev'ry Morn,</l>
+            <l xml:id="swift-887-0251-line-133" n="133">Already have improv'd so well,</l>
+            <l xml:id="swift-887-0251-line-134" n="134">That I have almost learn't to spell:</l>
+            <l xml:id="swift-887-0251-line-135" n="135">The Neighbours who come here to dine,</l>
+            <l xml:id="swift-887-0251-line-136" n="136">Admire to hear me speak so <hi rend="italics">fine</hi>.</l>
+            <l xml:id="swift-887-0251-line-137" n="137">How enviously the Ladies look,</l>
+            <l xml:id="swift-887-0251-line-138" n="138">When they surprize me at my Book!</l>
+            <l xml:id="swift-887-0251-line-139" n="139">And, sure as they're alive, at Night;</l>
+            <l xml:id="swift-887-0251-line-140" n="140">As soon as gone, will show their Spight:</l>
+            <l xml:id="swift-887-0251-line-141" n="141">Good Lord! what can my Lady mean,</l>
+            <l xml:id="swift-887-0251-line-142" n="142">Conversing with that rusty D──n!</l>
+            <l xml:id="swift-887-0251-line-143" n="143">She's grown so nice, and so <note place="foot">·<hi rend="italics">Ignorant Ladies often mistake the Word </hi>Penurious<hi rend="italics"> for </hi>nice<hi rend="italics">, and</hi> dainty.</note> <hi rend="italics">penurious</hi>,</l>
+            <l xml:id="swift-887-0251-line-144" n="144">With <hi rend="italics">Socratus</hi> and <hi rend="italics">Epicurius</hi>.</l>
+            <l xml:id="swift-887-0251-line-145" n="145">How could she sit the live-long Day,</l>
+            <l xml:id="swift-887-0251-line-146" n="146">Yet never ask us once to play?</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-147" n="147"><lb/>B<hi rend="small-caps">UT</hi>, I admire your Patience most;</l>
+            <l xml:id="swift-887-0251-line-148" n="148">That, when I'm duller than a Post,</l>
+            <l xml:id="swift-887-0251-line-149" n="149">Nor can the plainest Word pronounce,</l>
+            <l xml:id="swift-887-0251-line-150" n="150">You neither fume, nor fret, nor flounce;</l>
+            <l xml:id="swift-887-0251-line-151" n="151">Are so indulgent, and so mild,</l>
+            <l xml:id="swift-887-0251-line-152" n="152">As if I were a darling Child.</l>
+            <l xml:id="swift-887-0251-line-153" n="153">So gentle is your whole Proceeding,</l>
+            <l xml:id="swift-887-0251-line-154" n="154">That I could spend my Life in reading.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-155" n="155"><lb/>Y<hi rend="small-caps">OU</hi> merit new Employments daily:</l>
+            <l xml:id="swift-887-0251-line-156" n="156">Our Thatcher, Ditcher, Gard'ner, Baily.</l>
+            <l xml:id="swift-887-0251-line-157" n="157">And, to a Genius so extensive,</l>
+            <l xml:id="swift-887-0251-line-158" n="158">No Work is grievous or offensive.</l>
+            <l xml:id="swift-887-0251-line-159" n="159">Whether, your fruitful Fancy lies</l>
+            <l xml:id="swift-887-0251-line-160" n="160">To make for Pigs convenient Styes:</l>
+            <l xml:id="swift-887-0251-line-161" n="161">Or, ponder long with anxious Thought,</l>
+            <l xml:id="swift-887-0251-line-162" n="162">To banish Rats that haunt our Vault.</l>
+            <l xml:id="swift-887-0251-line-163" n="163">Nor have you grumbled, rev'rend D──n,</l>
+            <l xml:id="swift-887-0251-line-164" n="164">To keep our Poultry sweet and clean;</l>
+            <l xml:id="swift-887-0251-line-165" n="165">To sweep the Mansion-house they dwell in;</l>
+            <l xml:id="swift-887-0251-line-166" n="166">And cure the rank unsav'ry Smelling.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-167" n="167"><lb/>N<hi rend="small-caps">OW</hi>, enter as the Dairy Hand-maid:</l>
+            <l xml:id="swift-887-0251-line-168" n="168">Such charming <note place="foot">·<hi rend="italics">A Way of making Butter for Breakfast, by filling a Bottle with Cream, and shaking it till the Butter comes</hi>.</note> Butter never Man made.</l>
+            <l xml:id="swift-887-0251-line-169" n="169">Let others with Fanatick Face,</l>
+            <l xml:id="swift-887-0251-line-170" n="170">Talk of their <hi rend="italics">Milk</hi> for <hi rend="italics">Babes of Grace</hi>;</l>
+            <l xml:id="swift-887-0251-line-171" n="171">From <hi rend="italics">Tubs</hi> their snuffling Nonsense utter:</l>
+            <l xml:id="swift-887-0251-line-172" n="172">Thy <hi rend="italics">Milk</hi> shall make us <hi rend="italics">Tubs</hi> of Butter.</l>
+            <l xml:id="swift-887-0251-line-173" n="173">The Bishop with his <hi rend="italics">Foot</hi> may burn it;</l>
+            <l xml:id="swift-887-0251-line-174" n="174">But, with his <hi rend="italics">Hand</hi>, the D────n can churn it.</l>
+            <l xml:id="swift-887-0251-line-175" n="175">How are the Servants overjoy'd</l>
+            <l xml:id="swift-887-0251-line-176" n="176">To see thy D──nship thus employ'd!</l>
+            <l xml:id="swift-887-0251-line-177" n="177">Instead of poring on a Book,</l>
+            <l xml:id="swift-887-0251-line-178" n="178">Providing Butter for the Cook.</l>
+            <l xml:id="swift-887-0251-line-179" n="179">Three Morning-Hours you toss and shake</l>
+            <l xml:id="swift-887-0251-line-180" n="180">The Bottle, till your Fingers ake:</l>
+            <l xml:id="swift-887-0251-line-181" n="181">Hard is the Toil, nor small the Art,</l>
+            <l xml:id="swift-887-0251-line-182" n="182">The Butter from the Whey to part:</l>
+            <l xml:id="swift-887-0251-line-183" n="183">Behold; a frothy Substance rise;</l>
+            <l xml:id="swift-887-0251-line-184" n="184">Be cautious, or your Bottle flies.</l>
+            <l xml:id="swift-887-0251-line-185" n="185">The Butter comes; our Fears are ceas't;</l>
+            <l xml:id="swift-887-0251-line-186" n="186">And, out you squeeze an Ounce at least.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-187" n="187"><lb/>Y<hi rend="small-caps">OUR</hi> Rev'rence thus, with like Success,</l>
+            <l xml:id="swift-887-0251-line-188" n="188">Nor is your Skill, or Labour less,</l>
+            <l xml:id="swift-887-0251-line-189" n="189">When bent upon some smart Lampoon,</l>
+            <l xml:id="swift-887-0251-line-190" n="190">You toss and turn your Brain till Noon;</l>
+            <l xml:id="swift-887-0251-line-191" n="191">Which, in its Jumblings round the Skull,</l>
+            <l xml:id="swift-887-0251-line-192" n="192">Dilates, and makes the Vessel full;</l>
+            <l xml:id="swift-887-0251-line-193" n="193">While nothing comes but Froth at first,</l>
+            <l xml:id="swift-887-0251-line-194" n="194">You think your giddy Head will burst:</l>
+            <l xml:id="swift-887-0251-line-195" n="195">But, squeezing out four Lines in Rhime,</l>
+            <l xml:id="swift-887-0251-line-196" n="196">Are largely paid for all your time.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-197" n="197"><lb/>B<hi rend="small-caps">UT</hi>, you have rais'd your gen'rous Mind</l>
+            <l xml:id="swift-887-0251-line-198" n="198">To Works of more exalted Kind.</l>
+            <l xml:id="swift-887-0251-line-199" n="199"><hi rend="italics">Palladio</hi> was not half so skill'd in</l>
+            <l xml:id="swift-887-0251-line-200" n="200">The Grandeur or the Art of Building.</l>
+            <l xml:id="swift-887-0251-line-201" n="201">Two Temples of magnifick Size,</l>
+            <l xml:id="swift-887-0251-line-202" n="202">Attract the curious Trav'llers Eyes,</l>
+            <l xml:id="swift-887-0251-line-203" n="203">That might be envy'd by the <hi rend="italics">Greeks</hi>;</l>
+            <l xml:id="swift-887-0251-line-204" n="204">Rais'd up by you in twenty Weeks:</l>
+            <l xml:id="swift-887-0251-line-205" n="205">Here, gentle Goddess <hi rend="italics">Cloacine</hi></l>
+            <l xml:id="swift-887-0251-line-206" n="206">Receives all Off'rings at her Shrine.</l>
+            <l xml:id="swift-887-0251-line-207" n="207">In sep'rate Cells the He's and She's</l>
+            <l xml:id="swift-887-0251-line-208" n="208">Here pay their Vows with <hi rend="italics">bended Knees</hi>:</l>
+            <l xml:id="swift-887-0251-line-209" n="209">(For, 'tis prophane when Sexes mingle;</l>
+            <l xml:id="swift-887-0251-line-210" n="210">And ev'ry Nymph must enter single;</l>
+            <l xml:id="swift-887-0251-line-211" n="211">And when she feels an <hi rend="italics">inward Motion</hi>,</l>
+            <l xml:id="swift-887-0251-line-212" n="212">Comes fill'd with <hi rend="italics">Rev'rence</hi> and Devotion.)</l>
+            <l xml:id="swift-887-0251-line-213" n="213">The bashful Maid, to hide her Blush,</l>
+            <l xml:id="swift-887-0251-line-214" n="214">Shall creep no more behind a Bush;</l>
+            <l xml:id="swift-887-0251-line-215" n="215">Here unobserv'd, she boldly goes,</l>
+            <l xml:id="swift-887-0251-line-216" n="216">As who shall say, to <hi rend="italics">pluck a Rose</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-217" n="217"><lb/>Y<hi rend="small-caps">E</hi> who frequent this hallow'd Scene,</l>
+            <l xml:id="swift-887-0251-line-218" n="218">Be not ungrateful to the D──────n;</l>
+            <l xml:id="swift-887-0251-line-219" n="219">But, duly e'er you leave your Station,</l>
+            <l xml:id="swift-887-0251-line-220" n="220">Offer to him a pure Libation;</l>
+            <l xml:id="swift-887-0251-line-221" n="221">Or, of his own, or <note place="foot">·<hi rend="italics">See his Character hereafter</hi>.</note> <hi rend="italics">Smedly</hi>'s Lay,</l>
+            <l xml:id="swift-887-0251-line-222" n="222">Or Billet-doux, or Lock of Hay:</l>
+            <l xml:id="swift-887-0251-line-223" n="223">And, O! may all who hither come,</l>
+            <l xml:id="swift-887-0251-line-224" n="224">Return with unpolluted Thumb.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-225" n="225"><lb/>Y<hi rend="small-caps">ET</hi>, when your lofty Domes I praise,</l>
+            <l xml:id="swift-887-0251-line-226" n="226">I sigh to think of antient Days.</l>
+            <l xml:id="swift-887-0251-line-227" n="227">Permit me then to raise my Style,</l>
+            <l xml:id="swift-887-0251-line-228" n="228">And sweetly moralize a while.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-229" n="229"><lb/>T<hi rend="small-caps">HEE</hi> bounteous Goddess <hi rend="italics">Cloacine</hi>,</l>
+            <l xml:id="swift-887-0251-line-230" n="230">To Temples why do we confine?</l>
+            <l xml:id="swift-887-0251-line-231" n="231">Forbid in open Air to breath;</l>
+            <l xml:id="swift-887-0251-line-232" n="232">Why are thine Altars fix't beneath?</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-233" n="233"><lb/>W<hi rend="small-caps">HEN</hi> <hi rend="italics">Saturn</hi> rul'd the Skies alone,</l>
+            <l xml:id="swift-887-0251-line-234" n="234">That <hi rend="italics">golden</hi> Age, to <hi rend="italics">Gold</hi> unknown;</l>
+            <l xml:id="swift-887-0251-line-235" n="235">This earthly Globe to thee assign'd,</l>
+            <l xml:id="swift-887-0251-line-236" n="236">Receiv'd the Gifts of all Mankind.</l>
+            <l xml:id="swift-887-0251-line-237" n="237">Ten Thousand Altars <hi rend="italics">smoaking</hi> round</l>
+            <l xml:id="swift-887-0251-line-238" n="238">Were built to thee, with Off'rings crown'd:</l>
+            <l xml:id="swift-887-0251-line-239" n="239">And here thy daily Vot'ries plac't</l>
+            <l xml:id="swift-887-0251-line-240" n="240">Their Sacrifice with Zeal and Haste:</l>
+            <l xml:id="swift-887-0251-line-241" n="241">The Margin of a purling Stream,</l>
+            <l xml:id="swift-887-0251-line-242" n="242">Sent up to thee a greatful Steam.</l>
+            <l xml:id="swift-887-0251-line-243" n="243">(Though sometimes thou wer't pleas'd to wink,</l>
+            <l xml:id="swift-887-0251-line-244" n="244">If <hi rend="italics">Nayads</hi> swept them from the Brink)</l>
+            <l xml:id="swift-887-0251-line-245" n="245">Or, where appointing Lovers rove,</l>
+            <l xml:id="swift-887-0251-line-246" n="246">The Shelter of a shady Grove:</l>
+            <l xml:id="swift-887-0251-line-247" n="247">Or, offer'd in some flow'ry Vale,</l>
+            <l xml:id="swift-887-0251-line-248" n="248">Were wafted by a gentle Gale.</l>
+            <l xml:id="swift-887-0251-line-249" n="249">There, many a Flow'r abstersive grew,</l>
+            <l xml:id="swift-887-0251-line-250" n="250">Thy fav'rite Flow'rs of yellow Hue;</l>
+            <l xml:id="swift-887-0251-line-251" n="251">The Crocus and the Daffodil,</l>
+            <l xml:id="swift-887-0251-line-252" n="252">The Cowslip soft, and sweet Jonquil.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-253" n="253"><lb/>B<hi rend="small-caps">UT</hi>, when at last usurping <hi rend="italics">Jove</hi></l>
+            <l xml:id="swift-887-0251-line-254" n="254">Old <hi rend="italics">Saturn</hi> from his Empire drove;</l>
+            <l xml:id="swift-887-0251-line-255" n="255">Then <hi rend="italics">Gluttony</hi> with greasy Paws,</l>
+            <l xml:id="swift-887-0251-line-256" n="256">Her Napkin pinn'd up to her Jaws,</l>
+            <l xml:id="swift-887-0251-line-257" n="257">With watry Chaps, and wagging Chin,</l>
+            <l xml:id="swift-887-0251-line-258" n="258">Brac'd like a Drum her oily Skin;</l>
+            <l xml:id="swift-887-0251-line-259" n="259">Wedg'd in a spacious Elbow-Chair,</l>
+            <l xml:id="swift-887-0251-line-260" n="260">And on her Plate a treble Share,</l>
+            <l xml:id="swift-887-0251-line-261" n="261">As if she ne'er could have enuff;</l>
+            <l xml:id="swift-887-0251-line-262" n="262">Taught harmless Man to cram and stuff.</l>
+            <l xml:id="swift-887-0251-line-263" n="263">She sent her Priests in Wooden Shoes</l>
+            <l xml:id="swift-887-0251-line-264" n="264">From haughty <hi rend="italics">Gaul</hi> to make Ragous.</l>
+            <l xml:id="swift-887-0251-line-265" n="265">Instead of wholesome Bread and Cheese,</l>
+            <l xml:id="swift-887-0251-line-266" n="266">To dress their Soupes and Fricassyes;</l>
+            <l xml:id="swift-887-0251-line-267" n="267">And for our home-bred <hi rend="italics">British</hi> Chear,</l>
+            <l xml:id="swift-887-0251-line-268" n="268">Botargo, Catsup, and Caveer.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-269" n="269"><lb/>T<hi rend="small-caps">HIS</hi> bloated Harpy sprung from Hell,</l>
+            <l xml:id="swift-887-0251-line-270" n="270">Confin'd Thee Goddess to a Cell:</l>
+            <l xml:id="swift-887-0251-line-271" n="271">Sprung from her Womb that impious Line,</l>
+            <l xml:id="swift-887-0251-line-272" n="272">Contemners of thy Rites divine.</l>
+            <l xml:id="swift-887-0251-line-273" n="273">First, lolling <hi rend="italics">Sloth</hi> in Woolen Cap,</l>
+            <l xml:id="swift-887-0251-line-274" n="274">Taking her After-dinner Nap:</l>
+            <l xml:id="swift-887-0251-line-275" n="275">Pale <hi rend="italics">Dropsy</hi> with a sallow Face,</l>
+            <l xml:id="swift-887-0251-line-276" n="276">Her Belly burst, and slow her Pace:</l>
+            <l xml:id="swift-887-0251-line-277" n="277">And, lordly <hi rend="italics">Gout</hi> wrapt up in Furr:</l>
+            <l xml:id="swift-887-0251-line-278" n="278">And, wheezing <hi rend="italics">Asthma</hi>, loth to stir:</l>
+            <l xml:id="swift-887-0251-line-279" n="279">Voluptuous <hi rend="italics">Ease</hi>, the Child of <hi rend="italics">Wealth</hi>,</l>
+            <l xml:id="swift-887-0251-line-280" n="280">Infecting thus our Hearts by Stealth;</l>
+            <l xml:id="swift-887-0251-line-281" n="281">None seek thee now in open Air;</l>
+            <l xml:id="swift-887-0251-line-282" n="282">To thee no verdant Altars rear;</l>
+            <l xml:id="swift-887-0251-line-283" n="283">But, in their Cells and Vaults obscene</l>
+            <l xml:id="swift-887-0251-line-284" n="284">Present a Sacrifice unclean;</l>
+            <l xml:id="swift-887-0251-line-285" n="285">From whence unsav'ry Vapours rose,</l>
+            <l xml:id="swift-887-0251-line-286" n="286">Offensive to thy nicer Nose.</l>
+            <l xml:id="swift-887-0251-line-287" n="287">Ah! who in our degen'rate Days</l>
+            <l xml:id="swift-887-0251-line-288" n="288">As Nature prompts, his Off'ring pays?</l>
+            <l xml:id="swift-887-0251-line-289" n="289">Here, Nature never Diff'rence made</l>
+            <l xml:id="swift-887-0251-line-290" n="290">Between the Scepter and the Spade.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-291" n="291"><lb/>Y<hi rend="small-caps">E</hi> Great ones, why will ye disdain</l>
+            <l xml:id="swift-887-0251-line-292" n="292">To pay your Tribute on the Plain?</l>
+            <l xml:id="swift-887-0251-line-293" n="293">Why will you place in lazy Pride</l>
+            <l xml:id="swift-887-0251-line-294" n="294">Your Altars near your Couches Side?</l>
+            <l xml:id="swift-887-0251-line-295" n="295"><note place="foot">·Vide <hi rend="italics">Virgil</hi> and <hi rend="italics">Lucretius</hi>.</note>When from the homeliest Earthen Ware</l>
+            <l xml:id="swift-887-0251-line-296" n="296">Are sent up Off'rings more sincere</l>
+            <l xml:id="swift-887-0251-line-297" n="297">Than where the haughty Dutchess Locks,</l>
+            <l xml:id="swift-887-0251-line-298" n="298">Her Silver Vase in Cedar-Box.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-299" n="299"><lb/>Y<hi rend="small-caps">ET</hi>, some Devotion still remains</l>
+            <l xml:id="swift-887-0251-line-300" n="300">Among our harmless Northern Swains;</l>
+            <l xml:id="swift-887-0251-line-301" n="301">Whose Off'rings plac't in golden Ranks,</l>
+            <l xml:id="swift-887-0251-line-302" n="302">Adorn our chrystal River's Banks:</l>
+            <l xml:id="swift-887-0251-line-303" n="303">Nor seldom grace the flow'ry Downs,</l>
+            <l xml:id="swift-887-0251-line-304" n="304">With spiral Tops, and Copple-Crowns:</l>
+            <l xml:id="swift-887-0251-line-305" n="305">Or gilding in a sunny Morn</l>
+            <l xml:id="swift-887-0251-line-306" n="306">The humble Branches of a Thorn.</l>
+            <l xml:id="swift-887-0251-line-307" n="307">(So Poets sing, with <note place="foot">·<hi rend="italics">Virg. lib. 6</hi>.</note> golded Bough</l>
+            <l xml:id="swift-887-0251-line-308" n="308">The <hi rend="italics">Trojan</hi> Hero paid his Vow.)</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-309" n="309"><lb/>H<hi rend="small-caps">ITHER</hi> by luckless Error led,</l>
+            <l xml:id="swift-887-0251-line-310" n="310">The crude Consistence oft I tread.</l>
+            <l xml:id="swift-887-0251-line-311" n="311">Here, when my Shoes are out of Case,</l>
+            <l xml:id="swift-887-0251-line-312" n="312">Unweeting gild the tarnish'd Lace:</l>
+            <l xml:id="swift-887-0251-line-313" n="313">Here, by the sacred Bramble ting'd,</l>
+            <l xml:id="swift-887-0251-line-314" n="314">My Petticoat is doubly fring'd.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-315" n="315">B<hi rend="small-caps">E</hi> Witness for me, Nymph divine,</l>
+            <l xml:id="swift-887-0251-line-316" n="316">I never robb'd thee with Design:</l>
+            <l xml:id="swift-887-0251-line-317" n="317">Nor, will the zealous <hi rend="italics">Hannah</hi> pout</l>
+            <l xml:id="swift-887-0251-line-318" n="318">To wash thy injur'd Off'rings out.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-319" n="319">B<hi rend="small-caps">UT</hi>, stop ambitious Muse, in time;</l>
+            <l xml:id="swift-887-0251-line-320" n="320">Nor dwell on Subjects too sublime.</l>
+            <l xml:id="swift-887-0251-line-321" n="321">In vain on lofty Heels I tread,</l>
+            <l xml:id="swift-887-0251-line-322" n="322">Aspiring to exalt my Head:</l>
+            <l xml:id="swift-887-0251-line-323" n="323">With Hoop expanded wide and light,</l>
+            <l xml:id="swift-887-0251-line-324" n="324">In vain I tempt too high a Flight.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-325" n="325"><lb/>M<hi rend="small-caps">E</hi> <note place="foot">·<hi rend="italics">Cynthius aurem vellit</hi>. ·Hor.</note> <hi rend="italics">Phœbus</hi> in a <note place="foot">·<hi rend="italics">Cum somina vera</hi>. ·Hor.</note> midnight Dream</l>
+            <l xml:id="swift-887-0251-line-326" n="326">Accosting; said, <note place="foot">·<hi rend="italics">In the Bottle to make Butter</hi>.</note> <hi rend="italics">Go shake your Cream</hi>.</l>
+            <l xml:id="swift-887-0251-line-327" n="327">Be humbly minded; know your Post;</l>
+            <l xml:id="swift-887-0251-line-328" n="328">Sweeten your Tea, and watch your Toast.</l>
+            <l xml:id="swift-887-0251-line-329" n="329">Thee best befits a lowly Style:</l>
+            <l xml:id="swift-887-0251-line-330" n="330">Teach <hi rend="italics">Dennis</hi> how to stir the Guile:</l>
+            <l xml:id="swift-887-0251-line-331" n="331">With <note place="foot">·<hi rend="italics">Mrs. </hi>Dixon<hi rend="italics"> the House-Keeper</hi>.</note> <hi rend="italics">Peggy Dixon</hi> thoughtful sit,</l>
+            <l xml:id="swift-887-0251-line-332" n="332">Contriving for the Pot and Spit.</l>
+            <l xml:id="swift-887-0251-line-333" n="333">Take down thy proudly swelling Sails,</l>
+            <l xml:id="swift-887-0251-line-334" n="334">And rub thy Teeth, and pair thy Nails.</l>
+            <l xml:id="swift-887-0251-line-335" n="335">At nicely carving show thy Wit;</l>
+            <l xml:id="swift-887-0251-line-336" n="336">But ne'er presume to eat a Bit:</l>
+            <l xml:id="swift-887-0251-line-337" n="337">Turn ev'ry Way thy watchful Eye;</l>
+            <l xml:id="swift-887-0251-line-338" n="338">And ev'ry Guest be sure to ply;</l>
+            <l xml:id="swift-887-0251-line-339" n="339">Let never at your Board be known</l>
+            <l xml:id="swift-887-0251-line-340" n="340">An empty Plate except your own.</l>
+            <l xml:id="swift-887-0251-line-341" n="341"><note place="foot">·<hi rend="italics">Hæ tibi erunt artes</hi>. Virg.</note>Be these thy Arts; nor higher Aim</l>
+            <l xml:id="swift-887-0251-line-342" n="342">Than what befits a rural Dame.</l>
+            <l rend="indent(1)" xml:id="swift-887-0251-line-343" n="343"><lb/>B<hi rend="small-caps">UT</hi>, <hi rend="italics">Cloacina</hi> Goddess bright,</l>
+            <l xml:id="swift-887-0251-line-344" n="344">Sleek ──── claims her as his Right:</l>
+            <l xml:id="swift-887-0251-line-345" n="345">And <note place="foot">·<hi rend="italics">A very stupid, insolent, factious, deformed, conceited Parson, a vile Pretender to Poetry, preferred by the D. of </hi>Grafton<hi rend="italics"> for his Wit</hi>.</note> <hi rend="italics">Smedly</hi>, Flow'r of all Divines,</l>
+            <l xml:id="swift-887-0251-line-346" n="346">Shall sing the D────n in <hi rend="italics">Smedley</hi>'s Lines.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

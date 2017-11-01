@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Description of an Irish Feast translated almost literally out of the Original Irish in the Year 1720.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 27AP02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="244-007D">
+          <head type="note" n="1" xml:id="spp-244-007D-headnote-1">
+            <lg n="1" xml:id="spp-244-007D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-007D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-244-007D-headnote-2">
+            <lg n="1" xml:id="spp-244-007D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-007D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-244-007D-headnote-3">
+            <lg n="1" xml:id="spp-244-007D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-244-007D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-244-007D-line-1" n="1">\<hi rend="italics">12·Irish·lines·(written·in·11·lines)·precede</hi>\ O Rork's noble Fare<lb/></l>
+            <l xml:id="swift-244-007D-line-2" n="2">will ne'er be forgot,</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-3" n="3">by those who were there,<lb/></l>
+            <l xml:id="swift-244-007D-line-4" n="4">or those who were not.</l>
+            <l xml:id="swift-244-007D-line-5" n="5">His Revells to keep,<lb/></l>
+            <l xml:id="swift-244-007D-line-6" n="6">we sup and we dine,</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-7" n="7">On Seven Score Sheep,<lb/></l>
+            <l xml:id="swift-244-007D-line-8" n="8">fat Bullocks and Swine.</l>
+            <l xml:id="swift-244-007D-line-9" n="9">Usquebagh to our Feast,<lb/></l>
+            <l xml:id="swift-244-007D-line-10" n="10">in Pails was brought up.</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-11" n="11">an hundred at least,<lb/></l>
+            <l xml:id="swift-244-007D-line-12" n="12">and a <note place="foot">·wooden vessell.</note> Madder our Cup.</l>
+            <l xml:id="swift-244-007D-line-13" n="13">O there is the Sport,<lb/></l>
+            <l xml:id="swift-244-007D-line-14" n="14">we rise with the Light</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-15" n="15">in disorderly Sort,<lb/></l>
+            <l xml:id="swift-244-007D-line-16" n="16">from Snoring all Night.</l>
+            <l xml:id="swift-244-007D-line-17" n="17">Oh how was I trickt·.<lb/></l>
+            <l xml:id="swift-244-007D-line-18" n="18">my Pipe it was broke</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-19" n="19">my Pocket was pick't·.<lb/></l>
+            <l xml:id="swift-244-007D-line-20" n="20">I lost my new Cloak</l>
+            <l xml:id="swift-244-007D-line-21" n="21">I'm rifled, quoth Nell,<lb/></l>
+            <l xml:id="swift-244-007D-line-22" n="22">of Mantle and Kerchief</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-23" n="23">why then fare them well,<lb/></l>
+            <l xml:id="swift-244-007D-line-24" n="24">the De'ill take the Searcher</l>
+            <l xml:id="swift-244-007D-line-25" n="25">Come Harper, strike up,<lb/></l>
+            <l xml:id="swift-244-007D-line-26" n="26">but first by your Favour</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-27" n="27">Boy, gi\<hi rend="italics">blot</hi>\ us a Cup,<lb/></l>
+            <l xml:id="swift-244-007D-line-28" n="28">ay, this has Some Savour.<lb/>\<hi rend="italics">12·Irish·lines·follow,·then.</hi>\</l>
+            <l xml:id="swift-244-007D-line-29" n="29">O Rourk's jolly Boys·.<lb/></l>
+            <l xml:id="swift-244-007D-line-30" n="30">ne'er dreamt of the Matter</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-31" n="31">'till rous'd by the Noise·.<lb/></l>
+            <l xml:id="swift-244-007D-line-32" n="32">and musicall Clatter</l>
+            <l xml:id="swift-244-007D-line-33" n="33">They bounce from their Nest·.<lb/></l>
+            <l xml:id="swift-244-007D-line-34" n="34">no longer will tarry</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-35" n="35">they rise ready drest·.<lb/></l>
+            <l xml:id="swift-244-007D-line-36" n="36">without one Ave-Mary.</l>
+            <l xml:id="swift-244-007D-line-37" n="37">They dance in a round·.<lb/></l>
+            <l xml:id="swift-244-007D-line-38" n="38">cuting Capers and ramping</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-39" n="39">a Mercy the Ground·.<lb/></l>
+            <l xml:id="swift-244-007D-line-40" n="40">did not burst with their Stamping</l>
+            <l xml:id="swift-244-007D-line-41" n="41">The Floor is all wet·.<lb/></l>
+            <l xml:id="swift-244-007D-line-42" n="42">with Leaps and with Jumps</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-43" n="43">while the Water and Sweat·.<lb/></l>
+            <l xml:id="swift-244-007D-line-44" n="44">Splish Splash in their Pumps</l>
+            <l xml:id="swift-244-007D-line-45" n="45">Bless you late and early·.<lb/></l>
+            <l xml:id="swift-244-007D-line-46" n="46">Loughlen O Enakin</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-47" n="47">by my hand you dance rarely·.<lb/></l>
+            <l xml:id="swift-244-007D-line-48" n="48">Margery Greenagan</l>
+            <l xml:id="swift-244-007D-line-49" n="49">Bring Straw for our bed·.<lb/></l>
+            <l xml:id="swift-244-007D-line-50" n="50">Shake it down to the Feet</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-51" n="51">then over us spread·.<lb/></l>
+            <l xml:id="swift-244-007D-line-52" n="52">the winnowing Sheet</l>
+            <l xml:id="swift-244-007D-line-53" n="53">To shew I don't flinch·.<lb/></l>
+            <l xml:id="swift-244-007D-line-54" n="54">fill the Bowl up again</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-55" n="55">then give us a Pinch·.<lb/></l>
+            <l xml:id="swift-244-007D-line-56" n="56">of your Sneezing, a Yean.<lb/>\<hi rend="italics">12·Irish·lines·follow,·then.</hi>\</l>
+            <l xml:id="swift-244-007D-line-57" n="57">Good Lord, what a Sight·.<lb/></l>
+            <l xml:id="swift-244-007D-line-58" n="58">after all their good Chear</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-59" n="59">for People to fight·.<lb/></l>
+            <l xml:id="swift-244-007D-line-60" n="60">in the midst of their Beer:</l>
+            <l xml:id="swift-244-007D-line-61" n="61">They rise from their Feast·.<lb/></l>
+            <l xml:id="swift-244-007D-line-62" n="62">and hot are their Brains</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-63" n="63">a Cubit at least·.<lb/></l>
+            <l xml:id="swift-244-007D-line-64" n="64">the Length of their Skeans</l>
+            <l xml:id="swift-244-007D-line-65" n="65">What Stabs and what Cuts·.<lb/></l>
+            <l xml:id="swift-244-007D-line-66" n="66">what Clatt'ring of Sticks</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-67" n="67">what Strokes on Guts·.<lb/></l>
+            <l xml:id="swift-244-007D-line-68" n="68">what bastings and kicks!</l>
+            <l xml:id="swift-244-007D-line-69" n="69">With Cudgels of Oak·.<lb/></l>
+            <l xml:id="swift-244-007D-line-70" n="70">well harden'd in Flame</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-71" n="71">an hundred heads broke·.<lb/></l>
+            <l xml:id="swift-244-007D-line-72" n="72">an hundred Struck lame</l>
+            <l xml:id="swift-244-007D-line-73" n="73">You Churl, I'll maintain·.<lb/></l>
+            <l xml:id="swift-244-007D-line-74" n="74">my Father built Lusk</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-75" n="75">the Castle of Slane·.<lb/></l>
+            <l xml:id="swift-244-007D-line-76" n="76">and Carrick Drumrusk</l>
+            <l xml:id="swift-244-007D-line-77" n="77">The Earl of Kidare·.<lb/></l>
+            <l xml:id="swift-244-007D-line-78" n="78">and Moynalta his brother</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-79" n="79">as great as they are·.<lb/></l>
+            <l xml:id="swift-244-007D-line-80" n="80">I was nurs'd by their Mother</l>
+            <l xml:id="swift-244-007D-line-81" n="81">Ask that of old Madam·.<lb/></l>
+            <l xml:id="swift-244-007D-line-82" n="82">She'll tell you who's who</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-83" n="83">so far up as Adam·.<lb/></l>
+            <l xml:id="swift-244-007D-line-84" n="84">She knows it is true</l>
+            <l xml:id="swift-244-007D-line-85" n="85">Come down with that Beam·.<lb/></l>
+            <l xml:id="swift-244-007D-line-86" n="86">if Cudgells are Scarce</l>
+            <l rend="indent(1)" xml:id="swift-244-007D-line-87" n="87">a Blow on the Weam·.<lb/></l>
+            <l xml:id="swift-244-007D-line-88" n="88">and Kick on the A──se.<lb/>\<hi rend="italics">12·Irish·lines·follow</hi>\</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

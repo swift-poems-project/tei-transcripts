@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Riddle by the Rev<hi rend="superscript">d</hi> Doctor<lb/>  D-----y inscrib'd to The Lady C-------t</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 29AP03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938A004K">
+          <head type="note" n="1" xml:id="spp-938A004K-headnote-1">
+            <lg n="1" xml:id="spp-938A004K-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A004K-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-938A004K-headnote-2">
+            <lg n="1" xml:id="spp-938A004K-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A004K-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-938A004K-headnote-3">
+            <lg n="1" xml:id="spp-938A004K-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A004K-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-938A004K-line-1" n="1">I reach all things near me and far off to boot,</l>
+            <l xml:id="swift-938A004K-line-2" n="2">Without Stretching a Finger or Stirring a Foot.</l>
+            <l xml:id="swift-938A004K-line-3" n="3">I take them all in too to add to your wonder</l>
+            <l xml:id="swift-938A004K-line-4" n="4">Tho many and various and large and aSunder────</l>
+            <l xml:id="swift-938A004K-line-5" n="5">Without Jostling or crowding they pass Side by Side</l>
+            <l xml:id="swift-938A004K-line-6" n="6">Thro' a Wonderful Wicket not half an Inch wide</l>
+            <l xml:id="swift-938A004K-line-7" n="7">Then I lodge them at ease in a very large Store</l>
+            <l xml:id="swift-938A004K-line-8" n="8">Of no breadth or length with a thousand things more</l>
+            <l xml:id="swift-938A004K-line-9" n="9">All this J can do without Witchcraft or Charm</l>
+            <l xml:id="swift-938A004K-line-10" n="10">Tho' sometimes they say I bewitch and do harm</l>
+            <l xml:id="swift-938A004K-line-11" n="11">Tho' cold J inflame and tho' quiet invade</l>
+            <l xml:id="swift-938A004K-line-12" n="12">And nothing can Shield from my spell but a Shade</l>
+            <l xml:id="swift-938A004K-line-13" n="13">A Thief that has robb'd you or done you disgrace</l>
+            <l xml:id="swift-938A004K-line-14" n="14">Jn magical Mirror Ile shew you his face</l>
+            <l xml:id="swift-938A004K-line-15" n="15">Nai, if you'll believe what the Poets have said,</l>
+            <l xml:id="swift-938A004K-line-16" n="16">They'll tell you J kill and call back the Dead:</l>
+            <l xml:id="swift-938A004K-line-17" n="17">Like Conjurers safe in my circle J dwell</l>
+            <l xml:id="swift-938A004K-line-18" n="18">J love to look black too it heightens my Spell</l>
+            <l xml:id="swift-938A004K-line-19" n="19">Tho my Magick is mighty in every Hue</l>
+            <l xml:id="swift-938A004K-line-20" n="20">Who sees all my power must see it in you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

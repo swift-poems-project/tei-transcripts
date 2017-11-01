@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In Stellæ Natalem</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 14JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 16MR17; EMENDED JW 16MR17; HNs renumbered JW 19MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="720-CWJS">
+          <head type="note" n="1" xml:id="spp-720-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-1-line-group-1-line-1">March <hi rend="strikethrough">the</hi> 13:1726Madam</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-720-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-2-line-group-1-line-1"><lb/><lb/><lb/>This being y<hi rend="superscript">r</hi> 08: Birth-D</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-720-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-3-line-group-1-line-1"><lb/><lb/>Madam</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-720-CWJS-headnote-4">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-4-line-group-1-line-1"><lb/>This being your Birth day, my Unkle order'd me to give my opinion in a dispute about your Age. I <hi rend="strikethrough">I</hi> have decided it as well as I could in the short time he allow'd me, &amp; I hope you will <hi rend="strikethrough">pardon</hi> excuse any harsh Expression in a Language which is much more familiar to you, than to</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-720-CWJS-headnote-5">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-5-line-group-1-line-1"><lb/><lb/><lb/><lb/>Madam</l>
+            </lg>
+          </head>
+          <head type="note" n="6" xml:id="spp-720-CWJS-headnote-6">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-6-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-6-line-group-1-line-1"><lb/><lb/><lb/><lb/><lb/>your most obedient</l>
+            </lg>
+          </head>
+          <head type="note" n="7" xml:id="spp-720-CWJS-headnote-7">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-7-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-7-line-group-1-line-1"><lb/><lb/><lb/><lb/><lb/><lb/>humble servant</l>
+            </lg>
+          </head>
+          <head type="note" n="8" xml:id="spp-720-CWJS-headnote-8">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-8-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-8-line-group-1-line-1"><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>J:S.</l>
+            </lg>
+          </head>
+          <head type="note" n="9" xml:id="spp-720-CWJS-headnote-9">
+            <lg n="1" xml:id="spp-720-CWJS-headnote-9-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-720-CWJS-headnote-9-line-group-1-line-1"><hi rend="strikethrough">In Stellæ Nata</hi></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-720-CWJS-line-1" n="1">Natalis Stellæ rediens nova jurgia gignit,</l>
+            <l rend="indent(1)" xml:id="swift-720-CWJS-line-2" n="2">Præteritos annos quot numerare potest.</l>
+            <l xml:id="swift-720-CWJS-line-3" n="3">Florentis dum vultum Helenæ spectamus in illâ,</l>
+            <l rend="indent(1)" xml:id="swift-720-CWJS-line-4" n="4">Nestoris audimus mellea verba senis.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

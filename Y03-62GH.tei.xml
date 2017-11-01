@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The</hi> PUPPET-SHOW.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 6JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y03-62GH">
+          <head type="note" n="1" xml:id="spp-Y03-62GH-headnote-1">
+            <lg n="1" xml:id="spp-Y03-62GH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y03-62GH-headnote-1-line-group-1-line-1"><hi rend="italics">The three following Pieces are selected from two Posthumous Volumes of the Writings of the late Dr </hi>Swift<hi rend="italics">, and his Friends, just published, of which a farther Account will be given in our next</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y03-62GH-headnote-2">
+            <lg n="1" xml:id="spp-Y03-62GH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y03-62GH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y03-62GH-headnote-3">
+            <lg n="1" xml:id="spp-Y03-62GH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y03-62GH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y03-62GH-line-1" n="1"><hi rend="display-initial">T</hi>HE life of man to represent,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-2" n="2">And turn it all to ridicule,</l>
+            <l xml:id="swift-Y03-62GH-line-3" n="3">Wit did a <hi rend="italics">puppet-show</hi> invent,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-4" n="4">Where the chief actor is a fool.</l>
+            <l xml:id="swift-Y03-62GH-line-5" n="5"><lb/>The gods of old were logs of wood,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-6" n="6">And worship was to <hi rend="italics">puppets</hi> paid,</l>
+            <l xml:id="swift-Y03-62GH-line-7" n="7">In antic dress the idol stood,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-8" n="8">And priests and people bow'd the head.</l>
+            <l xml:id="swift-Y03-62GH-line-9" n="9"><lb/>No wonder then, if art began,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-10" n="10">The simple votaries to frame,</l>
+            <l xml:id="swift-Y03-62GH-line-11" n="11">To shape in <hi rend="italics">timber</hi> foolish man,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-12" n="12">And consecrate the <hi rend="italics">block</hi> to fame.</l>
+            <l xml:id="swift-Y03-62GH-line-13" n="13"><lb/>From hence poetic fancy learn'd</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-14" n="14">That trees might rise from human forms,</l>
+            <l xml:id="swift-Y03-62GH-line-15" n="15">The body to a trunk be turn'd,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-16" n="16">And branches issue from the arms.</l>
+            <l xml:id="swift-Y03-62GH-line-17" n="17"><lb/>Thus <hi rend="italics">Dædalus</hi> and <hi rend="italics">Ovid</hi> too,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-18" n="18">That man's a blockhead have confest,</l>
+            <l xml:id="swift-Y03-62GH-line-19" n="19"><hi rend="italics">Powel</hi> and <hi rend="italics">Stretch</hi> <note place="foot">·<hi rend="italics">Two puppet-show men</hi>.</note> the hint pursue,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-20" n="20">Life is a farce, the world a jest.</l>
+            <l xml:id="swift-Y03-62GH-line-21" n="21"><lb/>The same great truth <hi rend="italics">South-Sea</hi> hath prov'd</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-22" n="22">On that fam'd theatre, the <hi rend="italics">alley</hi>,</l>
+            <l xml:id="swift-Y03-62GH-line-23" n="23">Where thousands by directors mov'd</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-24" n="24">Are now sad monuments of folly.</l>
+            <l xml:id="swift-Y03-62GH-line-25" n="25"><lb/>What <hi rend="italics">Momus</hi> was of old to <hi rend="italics">Jove</hi></l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-26" n="26">The same a <hi rend="italics">harlequin</hi> is now;</l>
+            <l xml:id="swift-Y03-62GH-line-27" n="27">The former was <hi rend="italics">buffoon</hi> above,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-28" n="28">The latter is a <hi rend="italics">punch</hi> below.</l>
+            <l xml:id="swift-Y03-62GH-line-29" n="29"><lb/>This fleeting scene is but a stage,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-30" n="30">Where various images appear,</l>
+            <l xml:id="swift-Y03-62GH-line-31" n="31">In different parts of youth and age</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-32" n="32">Alike the prince and peasant share.</l>
+            <l xml:id="swift-Y03-62GH-line-33" n="33"><lb/>Some draw our eyes by being great,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-34" n="34">False pomp conceals mere wood within,</l>
+            <l xml:id="swift-Y03-62GH-line-35" n="35">And legislators rang'd in state</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-36" n="36">Are oft but wisdom in machine.</l>
+            <l xml:id="swift-Y03-62GH-line-37" n="37"><lb/>A stock may chance to wear a crown,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-38" n="38">And timber as a lord take place,</l>
+            <l xml:id="swift-Y03-62GH-line-39" n="39">A statue may put on a frown</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-40" n="40">And cheat us with a thinking face.</l>
+            <l xml:id="swift-Y03-62GH-line-41" n="41"><lb/>Others are blindly led away,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-42" n="42">And made to act for ends unknown,</l>
+            <l xml:id="swift-Y03-62GH-line-43" n="43">By the mere spring of wires they play</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-44" n="44">And speak in langurge not their own.</l>
+            <l xml:id="swift-Y03-62GH-line-45" n="45"><lb/>Too oft, alas! a scolding wife</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-46" n="46">Usurps a jolly fellow's throne,</l>
+            <l xml:id="swift-Y03-62GH-line-47" n="47">And many drink the cup of life,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-48" n="48">Mix'd and embitter'd by a <hi rend="italics">Joan</hi>.</l>
+            <l xml:id="swift-Y03-62GH-line-49" n="49"><lb/>In short, whatever men pursue</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-50" n="50">Of pleasure, folly, war, or love;</l>
+            <l xml:id="swift-Y03-62GH-line-51" n="51">This mimic-race brings all to view,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-52" n="52">Alike they dress, they talk, they move.</l>
+            <l xml:id="swift-Y03-62GH-line-53" n="53"><lb/>Go on, great <hi rend="italics">Stretch</hi>, with artful hand,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-54" n="54">Mortals to please and to deride,</l>
+            <l xml:id="swift-Y03-62GH-line-55" n="55">And when death breaks thy vital band,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-56" n="56">Thou shalt put on a <hi rend="italics">puppet</hi>'s pride.</l>
+            <l xml:id="swift-Y03-62GH-line-57" n="57"><lb/>Thou shalt in puny wood be shewn,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-58" n="58">Thy image shall preserve thy fame,</l>
+            <l xml:id="swift-Y03-62GH-line-59" n="59">Ages to come thy worth shall own,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-60" n="60">Point at thy limbs, and tell thy name.</l>
+            <l xml:id="swift-Y03-62GH-line-61" n="61"><lb/>Tell <hi rend="italics">Tom</hi> he draws a <hi rend="italics">farce</hi> in vain,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-62" n="62">Before he looks in nature's glass,</l>
+            <l xml:id="swift-Y03-62GH-line-63" n="63"><hi rend="italics">Puns</hi> cannot form a witty scene,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-64" n="64">Nor <hi rend="italics">pedantry</hi> for humour pass.</l>
+            <l xml:id="swift-Y03-62GH-line-65" n="65"><lb/>To make men act as senseless wood,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-66" n="66">And chatter in a mystic strain,</l>
+            <l xml:id="swift-Y03-62GH-line-67" n="67">Is a mere force on flesh and blood,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-68" n="68">And shews some error in the brain.</l>
+            <l xml:id="swift-Y03-62GH-line-69" n="69"><lb/>He that would thus refine on thee,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-70" n="70">And turn thy stage into a school,</l>
+            <l xml:id="swift-Y03-62GH-line-71" n="71">The jest of <hi rend="italics">punch</hi> will ever be,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-62GH-line-72" n="72">And stand confest the greater fool.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

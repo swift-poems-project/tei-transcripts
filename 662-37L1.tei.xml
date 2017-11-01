@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Hardship put upon</hi> L<hi rend="small-caps">ADIES</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 6JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="662-37L1">
+          <head type="note" n="1" xml:id="spp-662-37L1-headnote-1">
+            <lg n="1" xml:id="spp-662-37L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-662-37L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-662-37L1-headnote-2">
+            <lg n="1" xml:id="spp-662-37L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-662-37L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-662-37L1-headnote-3">
+            <lg n="1" xml:id="spp-662-37L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-662-37L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-662-37L1-line-1" n="1">
+              <hi rend="display-initial">P<hi rend="small-caps">OOR</hi> ladies! tho' their <hi rend="italics">bus'ness</hi> be to <hi rend="italics">play</hi>,</hi>
+            </l>
+            <l xml:id="swift-662-37L1-line-2" n="2">'Tis hard they must be busy <hi rend="italics">night</hi> and <hi rend="italics">day</hi>:</l>
+            <l xml:id="swift-662-37L1-line-3" n="3">Why shou'd they want the privilege of men,</l>
+            <l xml:id="swift-662-37L1-line-4" n="4">And take some small <hi rend="italics">diversions</hi>, now and then?</l>
+            <l xml:id="swift-662-37L1-line-5" n="5">Had women been the makers of our laws,</l>
+            <l xml:id="swift-662-37L1-line-6" n="6">(And why they were not, I can see no cause)</l>
+            <l xml:id="swift-662-37L1-line-7" n="7">The men shou'd <hi rend="italics">slave</hi> at <hi rend="italics">cards</hi> from morn to night,</l>
+            <l xml:id="swift-662-37L1-line-8" n="8">And female pleasure be to <hi rend="italics">read</hi> and <hi rend="italics">write</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

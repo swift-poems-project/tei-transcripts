@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODE to KING WILLIAM, ON HIS SUCCESSES IN IRELAND</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="011-HW37">
+          <head type="note" n="1" xml:id="spp-011-HW37-headnote-1">
+            <lg n="1" xml:id="spp-011-HW37-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-011-HW37-headnote-1-line-group-1-line-1">
+                <note rend="flush left">[1] <hi rend="italics">The Gentleman's Journal: Or the Monthly Miscellany</hi>, July, 1692, p. 13. <hi rend="italics">The Whimsical Medley</hi>, ii. 391. [Ref. <hi rend="italics">W.M.</hi>][2] <hi rend="italics">A Select Collection of Poems: ... London: Printed by and for J. Nichols, Red Lion Passage, Fleet-Street. MDCCLXXX</hi>. iv. 303.[3] <hi rend="italics">Miscellaneous Pieces, in Prose and Verse. By the Rev. Dr. Jonathan Swift, ... Not inserted in Mr. Sheridan's Edition of the Dean's Works. London: Printed for C. Dilly, in the Poultry. MDCCLXXXIX</hi>. p. 239.[4] The text of this ode, attributed to Swift by Nichols, and since included in editions of the Dean's <hi rend="italics">Works</hi>, is reprinted from <hi rend="italics">The Gentleman's Journal</hi>, 1692. The poem found a place in the manuscript miscellany, <hi rend="italics">The Whimsical Medley</hi>, preserved in the library of Trinity College, Dublin. The poem is there headed,<note rend="align(center)">[5] 'On King William's Success in Ireland.[6] To the King.'<note rend="flush left">[7] Two variants in the manuscript are noted.</note></note></note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-011-HW37-headnote-2">
+            <lg n="1" xml:id="spp-011-HW37-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-011-HW37-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-011-HW37-headnote-3">
+            <lg n="1" xml:id="spp-011-HW37-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-011-HW37-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-011-HW37-line-1" n="1">I.<lb/><hi rend="italics">To<hi rend="italics"> purchase Kingdoms, and to buy Renown,</hi></hi></l>
+            <l xml:id="swift-011-HW37-line-2" n="2"><hi rend="italics">Are</hi> Arts <hi rend="italics">peculiar to dissembling</hi> France:</l>
+            <l xml:id="swift-011-HW37-line-3" n="3"><hi rend="italics">You, Mighty Monarch, Nobler Actions Crown</hi>,</l>
+            <l xml:id="swift-011-HW37-line-4" n="4"><hi rend="italics">And solid Virtue does Your Name advance</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-5" n="5"><lb/>II._<hi rend="italics">Your matchless Courage with Your Prudence joins</hi></l>
+            <l xml:id="swift-011-HW37-line-6" n="6"><hi rend="italics">The glorious Structure of Your Fame to raise</hi>;</l>
+            <l xml:id="swift-011-HW37-line-7" n="7"><hi rend="italics">With its own Light Your dazling Glory shines</hi>,</l>
+            <l xml:id="swift-011-HW37-line-8" n="8"><hi rend="italics">And into Adoration turns our</hi> ░ <hi rend="italics">Praise</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-9" n="9"><lb/>III._<hi rend="italics">Had You by dull Succession gain'd Your Crown</hi>,</l>
+            <l xml:id="swift-011-HW37-line-10" n="10">(<hi rend="italics">Cowards are Monarchs by that Title made</hi>)</l>
+            <l xml:id="swift-011-HW37-line-11" n="11"><hi rend="italics">Part of Your Merit Chance wou'd call her own</hi>,</l>
+            <l xml:id="swift-011-HW37-line-12" n="12"><hi rend="italics">And half Your Virtues had been lost in Shade</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-13" n="13"><lb/>IV._<hi rend="italics">But now Your Worth its just Reward shall have</hi>;</l>
+            <l xml:id="swift-011-HW37-line-14" n="14"><hi rend="italics">What Trophies and what Triumphs are Your Due!</hi> ░</l>
+            <l xml:id="swift-011-HW37-line-15" n="15"><hi rend="italics">Who cou'd so well a dying Nation save</hi>,</l>
+            <l xml:id="swift-011-HW37-line-16" n="16"><hi rend="italics">At once deserve a Crown, and gain it too</hi>. ░</l>
+            <l rend="center" xml:id="swift-011-HW37-line-17" n="17"><lb/>V._<hi rend="italics">You saw how near we were to Ruin brought</hi>,</l>
+            <l xml:id="swift-011-HW37-line-18" n="18"><hi rend="italics">You saw th' impetuous Torrent rolling on</hi>;</l>
+            <l xml:id="swift-011-HW37-line-19" n="19"><hi rend="italics">And timely on the coming Danger thought</hi>,</l>
+            <l xml:id="swift-011-HW37-line-20" n="20"><hi rend="italics">Which we cou'd neither obviate, nor shun</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-21" n="21"><lb/>VI._Britannia <hi rend="italics">stript from her sole</hi> Guard <hi rend="italics">the</hi> Laws,</l>
+            <l xml:id="swift-011-HW37-line-22" n="22"><hi rend="italics">Ready to fall</hi> Rome'<hi rend="italics">s bloody Sacrifice</hi>;</l>
+            <l xml:id="swift-011-HW37-line-23" n="23"><hi rend="italics">You strait stept in, and from the</hi> Monster's <hi rend="italics">Jaws</hi></l>
+            <l xml:id="swift-011-HW37-line-24" n="24"><hi rend="italics">Did bravely snatch the lovely helpless Prize</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-25" n="25"><lb/>VII._<hi rend="italics">Nor is this all: As glorious is the Care</hi></l>
+            <l xml:id="swift-011-HW37-line-26" n="26"><hi rend="italics">To preserve Conquests, as at first to gain</hi>:</l>
+            <l xml:id="swift-011-HW37-line-27" n="27"><hi rend="italics">In this Your Virtue claims a double share</hi>,</l>
+            <l xml:id="swift-011-HW37-line-28" n="28"><hi rend="italics">Which, what it bravely Won, do's well Maintain</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-29" n="29"><lb/>VIII._<hi rend="italics">Your Arm has now Your Rightful Title show'd</hi>;</l>
+            <l xml:id="swift-011-HW37-line-30" n="30"><hi rend="italics">An Arm on which all</hi> Europe's <hi rend="italics">Hopes depend</hi>,</l>
+            <l xml:id="swift-011-HW37-line-31" n="31"><hi rend="italics">To which they look as to some</hi> Guardian God</l>
+            <l xml:id="swift-011-HW37-line-32" n="32"><hi rend="italics">That must their doubtful</hi> Liberty <hi rend="italics">defend</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-33" n="33"><lb/>IX._<hi rend="italics">Amaz'd Thy Action at the</hi> BOYNE <hi rend="italics">we see!</hi> ░</l>
+            <l xml:id="swift-011-HW37-line-34" n="34"><hi rend="italics">When</hi> Schonberg ░ <hi rend="italics">Started at the</hi> Vast <hi rend="italics">Design</hi>:</l>
+            <l xml:id="swift-011-HW37-line-35" n="35"><hi rend="italics">The boundless Glory all Redounds to Thee</hi>,</l>
+            <l xml:id="swift-011-HW37-line-36" n="36"><hi rend="italics">Th</hi>'Impulse, <hi rend="italics">the</hi> Fight, <hi rend="italics">th</hi>'Event, <hi rend="italics">were wholly Thine</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-37" n="37"><lb/>X._<hi rend="italics">The brave Attempt do's all our Foes disarm</hi>,</l>
+            <l xml:id="swift-011-HW37-line-38" n="38"><hi rend="italics">You need but now give Orders and Command</hi>;</l>
+            <l xml:id="swift-011-HW37-line-39" n="39"><hi rend="italics">Your Name shall the remaining Work perform</hi>,</l>
+            <l xml:id="swift-011-HW37-line-40" n="40"><hi rend="italics">And spare the Labour of Your Conquering</hi> Hand.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-41" n="41"><lb/>XI._France <hi rend="italics">do's in vain her feeble</hi> Arts <hi rend="italics">apply</hi></l>
+            <l xml:id="swift-011-HW37-line-42" n="42"><hi rend="italics">To interrupt the Fortune of</hi> Your Course:</l>
+            <l xml:id="swift-011-HW37-line-43" n="43">
+              <hi rend="italics">Your Influence do's the vain Attacks defy</hi>
+            </l>
+            <l xml:id="swift-011-HW37-line-44" n="44"><hi rend="italics">Of secret Malice, or of open Force</hi>.</l>
+            <l rend="center" xml:id="swift-011-HW37-line-45" n="45"><lb/>XII._<hi rend="italics">Boldly we hence the brave Commencement Date</hi></l>
+            <l xml:id="swift-011-HW37-line-46" n="46"><hi rend="italics">Of glorious Deeds, that must all Tongues Employ</hi>:</l>
+            <l xml:id="swift-011-HW37-line-47" n="47">WILLIAM'<hi rend="italics">s the</hi> Pledge <hi rend="italics">and</hi> Earnest <hi rend="italics">given by Fate</hi></l>
+            <l xml:id="swift-011-HW37-line-48" n="48"><hi rend="italics">Of</hi> England'<hi rend="italics">s Glory, and her lasting</hi> Joy.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

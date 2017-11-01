@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">To </hi>Quilca,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="DDS 17OC88"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 15NO95 agt 0251; √'d SB 25JA96 agt 05P1; ed. JW 8JL01, 26SE08; √'d JW 27OC08 agt WILH; EMENDED JW 2JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X35ACWJS">
+          <head type="note" n="1" xml:id="spp-X35ACWJS-headnote-1">
+            <lg n="1" xml:id="spp-X35ACWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35ACWJS-headnote-1-line-group-1-line-1"><hi rend="italics">a Country House in no very good Repair,</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X35ACWJS-headnote-2">
+            <lg n="1" xml:id="spp-X35ACWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35ACWJS-headnote-2-line-group-1-line-1"><hi rend="italics">where the supposed Author, and some of his Friends,</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X35ACWJS-headnote-3">
+            <lg n="1" xml:id="spp-X35ACWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35ACWJS-headnote-3-line-group-1-line-1"><hi rend="italics">spent a Summer, in the Year</hi> 1725.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X35ACWJS-line-1" n="1">
+              <hi rend="display-initial">L<hi rend="small-caps">ET</hi> me thy Properties explain,</hi>
+            </l>
+            <l xml:id="swift-X35ACWJS-line-2" n="2">A rotten Cabbin, dropping Rain;</l>
+            <l xml:id="swift-X35ACWJS-line-3" n="3">Chimnies with Scorn rejecting Smoak;</l>
+            <l xml:id="swift-X35ACWJS-line-4" n="4">Stools, Tables, Chairs, and Bed-steds broke:</l>
+            <l xml:id="swift-X35ACWJS-line-5" n="5">Here Elements have lost their Uses,</l>
+            <l xml:id="swift-X35ACWJS-line-6" n="6">Air ripens not, nor Earth produces:</l>
+            <l xml:id="swift-X35ACWJS-line-7" n="7">In vain we make poor <hi rend="italics">Sheelah</hi> toil,</l>
+            <l xml:id="swift-X35ACWJS-line-8" n="8">Fire will not roast, nor Water boil.</l>
+            <l xml:id="swift-X35ACWJS-line-9" n="9">Thro' all the Vallies, Hills, and Plains,</l>
+            <l xml:id="swift-X35ACWJS-line-10" n="10">The Goddess <hi rend="italics">Want</hi> in Triumph reigns;</l>
+            <l xml:id="swift-X35ACWJS-line-11" n="11">And her chief Officers of State,</l>
+            <l xml:id="swift-X35ACWJS-line-12" n="12"><hi rend="italics">Sloth, Dirt</hi>, and <hi rend="italics">Theft</hi> around her wait.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

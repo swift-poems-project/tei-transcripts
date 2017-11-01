@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER XXXVIII.<lb/>  <hi rend="italics">Dr</hi>. S<hi rend="small-caps">WIFT</hi> <hi rend="italics">to Dr</hi>. S<hi rend="small-caps">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 9OC13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X37B12H1">
+          <head type="note" n="1" xml:id="spp-X37B12H1-headnote-1">
+            <lg n="1" xml:id="spp-X37B12H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X37B12H1-headnote-1-line-group-1-line-1">
+                <note rend="flush right"><hi rend="italics">Dub. June</hi> 5, 1736.</note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X37B12H1-headnote-2">
+            <lg n="1" xml:id="spp-X37B12H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X37B12H1-headnote-2-line-group-1-line-1">──── As to your venison, <hi rend="italics">vain is one</hi> who expects it. I am <hi rend="italics">checking</hi> you for your <hi rend="italics">chickens</hi>, and could <hi rend="italics">lamb</hi> you for your <hi rend="italics">lambs</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X37B12H1-headnote-3">
+            <lg n="1" xml:id="spp-X37B12H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X37B12H1-headnote-3-line-group-1-line-1"><hi rend="italics">Addenda quaedam</hi>.</l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="indent(1)" xml:id="swift-X37B12H1-line-1" n="1"><hi rend="italics">My wife a rattling,</hi></l><l rend="indent(1)" xml:id="swift-X37B12H1-line-2" n="2">My children tattling.</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-3" n="3">My money spent is,</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-4" n="4">And due my rent is.</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-5" n="5">My school decreasing,</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-6" n="6">My income ceasing.</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-7" n="7">All people tease me,</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-8" n="8">But no man pays me.</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-9" n="9">My worship is bit,</l><l xml:id="swift-X37B12H1-line-10" n="10">My worship is bit,By that rogue </l>Nisbit<hi rend="italics">.</hi><l rend="indent(1)" xml:id="swift-X37B12H1-line-11" n="11">To take the right way,</l><l xml:id="swift-X37B12H1-line-12" n="12">To take the right way,Consult friend </l>Whiteway<hi rend="italics">.</hi><l rend="indent(1)" xml:id="swift-X37B12H1-line-13" n="13">Would you get still more?</l><l xml:id="swift-X37B12H1-line-14" n="14">Would you get still more?Go flatter </l>Kilmore<note place="foot">·Dr. <hi rend="italics">Josiah Hort</hi>, then bishop of <hi rend="italics">Kilmore</hi>.</note><hi rend="italics">.</hi><l rend="indent(1)" xml:id="swift-X37B12H1-line-15" n="15">Your geese are old,</l><l rend="indent(1)" xml:id="swift-X37B12H1-line-16" n="16">Your wife a scold.</l><l xml:id="swift-X37B12H1-line-17" n="17">You live among ill<lb/></l><l xml:id="swift-X37B12H1-line-18" n="18">folks in a dunghill.</l><l xml:id="swift-X37B12H1-line-19" n="19">You never have an<lb/></l><l xml:id="swift-X37B12H1-line-20" n="20"><lb/>old friend at</l> Cavan.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN<lb/>  EPITAPH<lb/>  ON<lb/>  General G****S and Lady M**TH.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 17JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="430-16H1">
+          <head type="note" n="1" xml:id="spp-430-16H1-headnote-1">
+            <lg n="1" xml:id="spp-430-16H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-16H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-430-16H1-headnote-2">
+            <lg n="1" xml:id="spp-430-16H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-16H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-430-16H1-headnote-3">
+            <lg n="1" xml:id="spp-430-16H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-430-16H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-430-16H1-line-1" n="1"><hi rend="display-initial">U</hi>N<hi rend="small-caps">DER</hi> this stone lie Dicky and Dolly;</l>
+            <l xml:id="swift-430-16H1-line-2" n="2">Doll dying first, Dick grew melancholy;</l>
+            <l xml:id="swift-430-16H1-line-3" n="3">For Dick without Doll thought living a folly.</l>
+            <l rend="indent(1)" xml:id="swift-430-16H1-line-4" n="4"><lb/>Dick lost in Doll a wife tender and dear,</l>
+            <l xml:id="swift-430-16H1-line-5" n="5">But Dick lost by Doll twelve hundred a year.</l>
+            <l xml:id="swift-430-16H1-line-6" n="6">A loss that Dick thought no mortal could bear.</l>
+            <l rend="indent(1)" xml:id="swift-430-16H1-line-7" n="7"><lb/>Dick sigh'd for his Doll, and his mournful arms crost;</l>
+            <l xml:id="swift-430-16H1-line-8" n="8">Thought much of his Doll, and the jointure he lost:</l>
+            <l xml:id="swift-430-16H1-line-9" n="9">The first vex'd him much, the other vex'd most.</l>
+            <l rend="indent(1)" xml:id="swift-430-16H1-line-10" n="10"><lb/>Thus loaded with grief, Dick sigh'd and he cry'd;</l>
+            <l xml:id="swift-430-16H1-line-11" n="11">To live without both full three days he try'd:</l>
+            <l xml:id="swift-430-16H1-line-12" n="12">But lik'd neither loss, and so quietly dy'd.</l>
+            <l xml:id="swift-430-16H1-line-13" n="13">om.</l>
+            <l xml:id="swift-430-16H1-line-14" n="14">om.</l>
+            <l xml:id="swift-430-16H1-line-15" n="15">om.</l>
+            <l rend="indent(1)" xml:id="swift-430-16H1-line-16" n="16"><lb/>Dick left a pattern few will copy after:</l>
+            <l xml:id="swift-430-16H1-line-17" n="17">Then, reader, pray shed some tears of salt water;</l>
+            <l xml:id="swift-430-16H1-line-18" n="18">For so sad a tale is no subject of laughter.</l>
+            <l rend="indent(1)" xml:id="swift-430-16H1-line-19" n="19"><lb/>M---th smiles for the jointure, tho' gotten so late;</l>
+            <l xml:id="swift-430-16H1-line-20" n="20">The son laughs that got the hard-gotten estate;</l>
+            <l xml:id="swift-430-16H1-line-21" n="21">And <note place="foot">·General G────s's son-in-law.</note> Cuff grins, forgetting the Alicant plate.</l>
+            <l rend="indent(1)" xml:id="swift-430-16H1-line-22" n="22"><lb/>Here quiet they lie, in hopes to rise one day,</l>
+            <l xml:id="swift-430-16H1-line-23" n="23">Both solemnly put in this hole on a Sunday,</l>
+            <l xml:id="swift-430-16H1-line-24" n="24">And here rest; <hi rend="italics">sic transit gloria mundi</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

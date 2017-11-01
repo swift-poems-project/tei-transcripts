@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AY <hi rend="italics">and</hi> NO. A T<hi rend="small-caps">ALE</hi> <hi rend="italics">from </hi>Dublin<hi rend="italics">, done<lb/>  into Verse</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 6JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="843A37LK">
+          <head type="note" n="1" xml:id="spp-843A37LK-headnote-1">
+            <lg n="1" xml:id="spp-843A37LK-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843A37LK-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-843A37LK-headnote-2">
+            <lg n="1" xml:id="spp-843A37LK-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843A37LK-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-843A37LK-headnote-3">
+            <lg n="1" xml:id="spp-843A37LK-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843A37LK-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-843A37LK-line-1" n="1"><hi rend="display-initial">A</hi>T <hi rend="italics">Dublin</hi>'s high feast sat primate and dean,</l>
+            <l xml:id="swift-843A37LK-line-2" n="2">Both dress'd like divines, with band and face clean.</l>
+            <l xml:id="swift-843A37LK-line-3" n="3">Quoth <hi rend="italics">Hugh</hi> of <hi rend="italics">Armagh</hi>, the mob is grown bold.</l>
+            <l xml:id="swift-843A37LK-line-4" n="4">Ay, ay, quoth the dean, the cause is old gold.</l>
+            <l xml:id="swift-843A37LK-line-5" n="5">No, no, quoth the prime── if causes we sift,</l>
+            <l xml:id="swift-843A37LK-line-6" n="6">This mischief arises from witty dean <hi rend="italics">Swift</hi>.</l>
+            <l xml:id="swift-843A37LK-line-7" n="7">The smart one replied, there's no wit in the case;</l>
+            <l xml:id="swift-843A37LK-line-8" n="8">And nothing of that e'er troubl'd your grace.</l>
+            <l xml:id="swift-843A37LK-line-9" n="9">Tho' with your state-sieve your own notions you split,</l>
+            <l xml:id="swift-843A37LK-line-10" n="10">A Bolter by name is no bolter of wit.</l>
+            <l xml:id="swift-843A37LK-line-11" n="11">'Tis matter of weight, and a mere money job;</l>
+            <l xml:id="swift-843A37LK-line-12" n="12">But the lower the coin, the higher the mob.</l>
+            <l xml:id="swift-843A37LK-line-13" n="13">Go tell your friend <hi rend="italics">Bob</hi>, and other great folk,</l>
+            <l xml:id="swift-843A37LK-line-14" n="14">That sinking the coin is a dangerous joke.</l>
+            <l xml:id="swift-843A37LK-line-15" n="15">The <hi rend="italics">Irish</hi> dear joys have enough common sense</l>
+            <l xml:id="swift-843A37LK-line-16" n="16">To treat gold reduc'd like <hi rend="italics">Wood</hi>'s copper-pence.</l>
+            <l xml:id="swift-843A37LK-line-17" n="17">'Tis pity a prelate should die without law;</l>
+            <l xml:id="swift-843A37LK-line-18" n="18">But if I say the word── take care of <hi rend="italics">Armagh</hi>.</l>
+            <l xml:id="swift-843A37LK-line-19" n="19">
+              <lb/>
+              <space><hi rend="italics">Punsibi Hipponensis.</hi>/hi&gt;</space>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

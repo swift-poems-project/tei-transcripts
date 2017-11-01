@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 2AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 26JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="982-002D">
+          <head type="note" n="1" xml:id="spp-982-002D-headnote-1">
+            <lg n="1" xml:id="spp-982-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-982-002D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-982-002D-headnote-2">
+            <lg n="1" xml:id="spp-982-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-982-002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-982-002D-headnote-3">
+            <lg n="1" xml:id="spp-982-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-982-002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-982-002D-line-1" n="1">Tom for a Goose You keep but base Quills</l>
+            <l xml:id="swift-982-002D-line-2" n="2">They're fit for nothing ellse but Pasquills</l>
+            <l xml:id="swift-982-002D-line-3" n="3">I've often heard it from the Wise,</l>
+            <l xml:id="swift-982-002D-line-4" n="4">That Inflamations in the Eyes</l>
+            <l xml:id="swift-982-002D-line-5" n="5">Will quickly fall upon the Tongue</l>
+            <l xml:id="swift-982-002D-line-6" n="6">And thence as fam'd John Bunyan sung,</l>
+            <l xml:id="swift-982-002D-line-7" n="7">From out the Pen will presently</l>
+            <l xml:id="swift-982-002D-line-8" n="8">On Paper dribble daintily.</l>
+            <l xml:id="swift-982-002D-line-9" n="9">Suppose I call'd You goose, it is hard</l>
+            <l xml:id="swift-982-002D-line-10" n="10">One Word shou'd stick thus in Y<hi rend="superscript">ṛ</hi> Gizard</l>
+            <l xml:id="swift-982-002D-line-11" n="11">You're My Goose and no other man's</l>
+            <l xml:id="swift-982-002D-line-12" n="12">And You know all my Geese are Swans:</l>
+            <l xml:id="swift-982-002D-line-13" n="13">Only One scurvy thing I find</l>
+            <l xml:id="swift-982-002D-line-14" n="14">Swans sing when dying, Geese when Blind.</l>
+            <l xml:id="swift-982-002D-line-15" n="15">But now I smoak where lies the slander</l>
+            <l xml:id="swift-982-002D-line-16" n="16">I call'd You Goose instead of Gander;</l>
+            <l xml:id="swift-982-002D-line-17" n="17">For that Dear Tom, ne're fret and Vex</l>
+            <l xml:id="swift-982-002D-line-18" n="18">I'm sure You cackle like the sex.</l>
+            <l xml:id="swift-982-002D-line-19" n="19">I know the Gander allways goes</l>
+            <l xml:id="swift-982-002D-line-20" n="20">With a Quill stuck across his Nose;</l>
+            <l xml:id="swift-982-002D-line-21" n="21">So Your Eternal Pen is still,</l>
+            <l xml:id="swift-982-002D-line-22" n="22">Or in Your Claw, or in Your Bill.</l>
+            <l xml:id="swift-982-002D-line-23" n="23">But whither You can Tread or Hatch</l>
+            <l xml:id="swift-982-002D-line-24" n="24">I've something else to do than Watch.</l>
+            <l xml:id="swift-982-002D-line-25" n="25">As for You're writing I am Dead</l>
+            <l xml:id="swift-982-002D-line-26" n="26">I leave it for the second head.</l>
+            <l rend="indent(3)" xml:id="swift-982-002D-line-27" n="27">||Dean'ry house</l>
+            <l rend="indent(4)" xml:id="swift-982-002D-line-28" n="28">|||Oct<hi rend="superscript">br</hi>: 27<hi rend="superscript">th</hi>: 1718.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

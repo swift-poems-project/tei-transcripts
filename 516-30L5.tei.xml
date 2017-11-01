@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">An excellent new Ballad from </hi>Ireland:<hi rend="italics"> Or, the<lb/>  True </hi>En---sh D---n<hi rend="italics"> to be hang'd for a</hi> R-pe.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 19JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="516-30L5">
+          <head type="note" n="1" xml:id="spp-516-30L5-headnote-1">
+            <lg n="1" xml:id="spp-516-30L5-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-516-30L5-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-516-30L5-headnote-2">
+            <lg n="1" xml:id="spp-516-30L5-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-516-30L5-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-516-30L5-headnote-3">
+            <lg n="1" xml:id="spp-516-30L5-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-516-30L5-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-516-30L5-line-1" n="1">I.<lb/><hi rend="display-initial">O</hi>UR Brethren of <hi rend="italics">E──────d</hi> who love us so dear,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-2" n="2">And in all they do for us so kindly do mean,</l>
+            <l xml:id="swift-516-30L5-line-3" n="3">(A Blessing upon them) have sent us this Year</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-4" n="4">For the good of our Church a true E────sh D────n;</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-5" n="5">|A holier Priest was ne'er wrapt up in Crape,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-6" n="6">|The worst you can say, he committed a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-7" n="7">II.<lb/>In his Journey to <hi rend="italics">D-bl-n</hi> he lighted at <hi rend="italics">Ch-st-r</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-8" n="8">And there he grew fond of another Man's Wife,</l>
+            <l xml:id="swift-516-30L5-line-9" n="9">Burst into her Chamber, and wou'd have caress'd her;</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-10" n="10">But she valu'd her Honour much more than her Life.</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-11" n="11">|She bustled and struggled, and made her Escape</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-12" n="12">|To a Room full of Guests, for fear of a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-13" n="13">III.<lb/>The D────n he pursued to recover his Game,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-14" n="14">And now to attack her again he prepares;</l>
+            <l xml:id="swift-516-30L5-line-15" n="15">But the Company stood in Defence of the Dame;</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-16" n="16">They cudgell'd, and cuft him, and kick'd him down stairs;</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-17" n="17">|His D────nship was now in a damnable Scrape,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-18" n="18">|And this was no Time for committing a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-19" n="19">IV.<lb/>To D-bl-n he comes, to the Bagnio he goes,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-20" n="20">And orders the Landlord to bring him a Whore;</l>
+            <l xml:id="swift-516-30L5-line-21" n="21">No scruple came on him, his Gown to expose,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-22" n="22">'Twas what all his Life he practis'd before:</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-23" n="23">|He made himself drunk with the Juice of the Grape</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-24" n="24">|And got a good <hi rend="italics">Clap</hi>, but committed no R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-25" n="25">V.<lb/>The D────n and his Landlord, a jolly Comrade,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-26" n="26">Resolv'd for a Fortnight to swim in Delight;</l>
+            <l xml:id="swift-516-30L5-line-27" n="27">For why, they had both been brought up to the Trade</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-28" n="28">Of drinking all Day, and whoring all Night.</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-29" n="29">|My Landlord was ready his D────nship to ape</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-30" n="30">|In ev'ry Debauch, but committing a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-31" n="31">VI.<lb/>This Protestant Zealot, this <hi rend="italics">E──────sh</hi> Divine,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-32" n="32">In Church and in State, was of Principles sound;</l>
+            <l xml:id="swift-516-30L5-line-33" n="33">Was truer than <hi rend="italics">Steele</hi> to the <hi rend="italics">H────n────r</hi> Line,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-34" n="34">And griev'd that a Tory should live above Ground.</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-35" n="35">|Shall a Subject so Loyal be hang'd by the Nape,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-36" n="36">|For no other Crime but committing a R-pe?</l>
+            <l rend="center" xml:id="swift-516-30L5-line-37" n="37">VII.<lb/>By old Popish-Canons, as wise Men have penn'd 'em,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-38" n="38">Each Priest had a Concubine, <hi rend="italics">jure Ecclesiæ</hi>;</l>
+            <l xml:id="swift-516-30L5-line-39" n="39">For who would have <hi rend="italics">Ferns</hi> without a Commendum?</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-40" n="40">And Precedents we can produce, if it please ye:</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-41" n="41">|Then why should the D--n when Whores are so cheap,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-42" n="42">|Be put to the Peril and Toil of a R-pe?</l>
+            <l rend="center" xml:id="swift-516-30L5-line-43" n="43">VIII.<lb/>If Fortune shou'd please to take such a Crotchet,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-44" n="44">(To Thee I apply, great <hi rend="italics">Smedley</hi>'s Successor,)</l>
+            <l xml:id="swift-516-30L5-line-45" n="45">To give Thee Lawn-sleeves, a Mitre, and Rochet,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-46" n="46">Whom wou'dst thou resemble? I'll leave thee a Ghesser:</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-47" n="47">|But I only behold Thee in <hi rend="italics">Atherton</hi>'s shape,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-48" n="48">|For Sodomy hang'd, as thou for a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-49" n="49">IX.<lb/>Ah! dost not thou envy the brave Col. <hi rend="italics">Ch-rtr-s</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-50" n="50">Condemn'd for thy Crime at Threescore and Ten,</l>
+            <l xml:id="swift-516-30L5-line-51" n="51">To hang whom all <hi rend="italics">En────nd</hi> would lend him their Garters;</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-52" n="52">Yet he lives, and is ready to ravish again.</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-53" n="53">|Then throttle thy self with a Yard of strong Tape,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-54" n="54">|For thou hast not a Groat t'atone for a Rape.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-55" n="55">X.<lb/>The D--n he was vext that his Whores were so willing,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-56" n="56">He long'd for a Girl that would struggle and squall;</l>
+            <l xml:id="swift-516-30L5-line-57" n="57">He ravish'd her fairly, and sav'd a good Shilling;</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-58" n="58">But here was to pay the Devil and all.</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-59" n="59">|His Troubles and Sorrows now come in a heap,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-60" n="60">|And hang'd he must be for committing a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-61" n="61">XI.<lb/>If Maidens are ravish'd, it is their own Choice,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-62" n="62">Why are they so willful to struggle with Men?</l>
+            <l xml:id="swift-516-30L5-line-63" n="63">If they would but lie still, and stifle their Voice,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-64" n="64">No Devil or D────n could ravish 'em then,</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-65" n="65">|Nor would there be need of a strong Hempen Cape</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-66" n="66">|Ty'd round the D---n's Neck for committing a R-pe.</l>
+            <l rend="center" xml:id="swift-516-30L5-line-67" n="67">XII.<lb/>Our Church and our State dear <hi rend="italics">E──────nd</hi> maintains,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-68" n="68">For which all true Protestant Hearts should be glad;</l>
+            <l xml:id="swift-516-30L5-line-69" n="69">She sends us our B────ps, our Jud────s and D────ns,</l>
+            <l rend="indent(1)" xml:id="swift-516-30L5-line-70" n="70">And better wou'd give us, if better she had;</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-71" n="71">|But Lord! how the Rabble will stare and will gape</l>
+            <l rend="indent(2)" xml:id="swift-516-30L5-line-72" n="72">|When the good <hi rend="italics">En──sh</hi> D──n is hang'd up for a R-pe.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

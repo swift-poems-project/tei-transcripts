@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title rend="align(center) flush left">HN01 To M<hi rend="superscript">r</hi> 08. Tho: Sheridan</title>
+        <title>HN02 	Rev<hi rend="superscript">d</hi> 08: and Learned S<hi rend="superscript">r</hi> 08.</title>
+        <title>HN03 				I am Teacher of English for a want of a better to a poor Charity School in the Lower end of S<hi rend="superscript">t</hi> 08. Thomas Street, but in my time I have been a Virgilian, tho' I am now forc'd to Teach English, w<hi rend="superscript">ch</hi> 08. I understand less than my own Native Language, or even than Latin it Self; therefore I make bold to send Y<hi rend="superscript">u</hi> the inclosed, the Fruit of My Muse, in hopes it may qualifye me for the honour of being one of Your most inferiour Ushers: if You will Vouchsafe to send me an Answer, direct it to me next door but one to the Harrow on the Left hand in Crocker's-Lane. I am Y<hi rend="superscript">rs</hi> 08.</title>
+        <title>HN04 				Rev<hi rend="superscript">d</hi> 08: S<hi rend="superscript">r</hi> 08. to Command</title>
+        <title>HN05 						Pat: Reyly.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 30JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 3SE09; Reyly letter added JW 26MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="212-002D">
+          <head type="note" n="1" xml:id="spp-212-002D-headnote-1">
+            <lg n="1" xml:id="spp-212-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-212-002D-headnote-1-line-group-1-line-1">Scribimus Indocti, doctiq; Poemata passim. Horat:&#13;</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-212-002D-line-1" n="1">Deliciæ Sheridam, Musarum dulcis Amice,</l>
+            <l xml:id="swift-212-002D-line-2" n="2">Sic tibi propitius Permessi ad Flumen Apollo</l>
+            <l xml:id="swift-212-002D-line-3" n="3">Occurrat, seu te Mimum convivia rident</l>
+            <l xml:id="swift-212-002D-line-4" n="4">Æquivocosve sales spargis, seu Ludere Versu</l>
+            <l xml:id="swift-212-002D-line-5" n="5">Malles; Dic Sheridan, quisnam fuit ille Deorum</l>
+            <l xml:id="swift-212-002D-line-6" n="6">Quæ melior Natura Orto Tibi Tradidit Artem</l>
+            <l xml:id="swift-212-002D-line-7" n="7">Rimandi Genium puerorum atq; Ima Cerebri</l>
+            <l xml:id="swift-212-002D-line-8" n="8">Scrutandi? Tibi Nascenti ad Cunabula Pallas</l>
+            <l xml:id="swift-212-002D-line-9" n="9">Astitit, et Dixit, mentis præsaga futuræ.</l>
+            <l xml:id="swift-212-002D-line-10" n="10">Heu Puer Infælix: Nostro sub sidere Natus</l>
+            <l xml:id="swift-212-002D-line-11" n="11">Nam tu Pectus eris sine Corpore, Corporis Umbra,</l>
+            <l xml:id="swift-212-002D-line-12" n="12">Sed Levitate Umbram superabis, Voce Cicadam,</l>
+            <l xml:id="swift-212-002D-line-13" n="13">Non Crassæ tibi erunt Tibiæ non Venter Obesus;</l>
+            <l xml:id="swift-212-002D-line-14" n="14">Musca Femur, Palmas tibi Mus dabit, Ardea Crura</l>
+            <l xml:id="swift-212-002D-line-15" n="15">Corpore sed tenui; tibi quod Natura negabit,</l>
+            <l xml:id="swift-212-002D-line-16" n="16">Hoc Animi Dotes Explebunt: Teq; docente</l>
+            <l xml:id="swift-212-002D-line-17" n="17">Nec longum Tempus, surget tibi docta Iuventus</l>
+            <l xml:id="swift-212-002D-line-18" n="18">Artibus egregiis Animas instructa Novellas.</l>
+            <l xml:id="swift-212-002D-line-19" n="19">Hinc strenuus prodit Dux, hinc Neptunia proles,</l>
+            <l xml:id="swift-212-002D-line-20" n="20">Pæonis hinc proles Venit ecce Salutifer Orbi</l>
+            <l xml:id="swift-212-002D-line-21" n="21">Ast illi causas orant, his infula Visa est.</l>
+            <l xml:id="swift-212-002D-line-22" n="22">Divinam Capiti nodo constringere Mitram.</l>
+            <l xml:id="swift-212-002D-line-23" n="23">Natalis te horæ non fallunt signa, sed usq;</l>
+            <l xml:id="swift-212-002D-line-24" n="24">Conscius Expedias, puero seu Lætus Apollo</l>
+            <l xml:id="swift-212-002D-line-25" n="25">Nascenti Arrisit, sive illum frigidus horror</l>
+            <l xml:id="swift-212-002D-line-26" n="26">Saturni premit, aut septem inflavere Triones.</l>
+            <l xml:id="swift-212-002D-line-27" n="27">Quin tu altè penitusq; latentia semina cernis,</l>
+            <l xml:id="swift-212-002D-line-28" n="28">Quæq; diu obtundendo olim sub luminis Aur\<hi rend="italics">add</hi>·e\as</l>
+            <l xml:id="swift-212-002D-line-29" n="29">Eruptura promis; quo risu sæpe puella</l>
+            <l xml:id="swift-212-002D-line-30" n="30">Sub cinere immundo sopitos suscitat ignes,</l>
+            <l xml:id="swift-212-002D-line-31" n="31">Te Dominum Agnoscit quo·cunq; sub aere natus</l>
+            <l xml:id="swift-212-002D-line-32" n="32">Quos indulgentis nimium Custodia Matris</l>
+            <l xml:id="swift-212-002D-line-33" n="33">Pessundat, nam sæpe Vides in stipite Matrem</l>
+            <l xml:id="swift-212-002D-line-34" n="34">Aureus iste Arbor, Venerandæ Dona Sibyllæ</l>
+            <l xml:id="swift-212-002D-line-35" n="35">Æneæ sedes tantum patefecit Avernos;</l>
+            <l xml:id="swift-212-002D-line-36" n="36">Sæpe Puer Tua quem tetigit semel Aurea Virga</l>
+            <l xml:id="swift-212-002D-line-37" n="37">Cœlumq; terrasq; Videt Noctemq; profundum.</l>
+            <l xml:id="swift-212-002D-line-38" n="38">«LD»sic cecini.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

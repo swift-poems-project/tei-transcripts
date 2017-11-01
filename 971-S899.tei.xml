@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANSWERED</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBehr 3MY96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="971-S899">
+          <head type="note" n="1" xml:id="spp-971-S899-headnote-1">
+            <lg n="1" xml:id="spp-971-S899-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-971-S899-headnote-1-line-group-1-line-1">By Mr, S──g,&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-971-S899-headnote-2">
+            <lg n="1" xml:id="spp-971-S899-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-971-S899-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-971-S899-headnote-3">
+            <lg n="1" xml:id="spp-971-S899-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-971-S899-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-971-S899-line-1" n="1"><hi rend="display-initial">D</hi>EAR Sir since in Cruxes and Puns, you and I deal,</l>
+            <l xml:id="swift-971-S899-line-2" n="2">Pray tell me, why is a Woman a <hi rend="italics">Sieve</hi> and a <hi rend="italics">Riddle</hi>.</l>
+            <l xml:id="swift-971-S899-line-3" n="3">'Tis a Thought that came into my Noddle this Morning,</l>
+            <l xml:id="swift-971-S899-line-4" n="4">In Bed as I lay Sir a tossing and turning.</l>
+            <l xml:id="swift-971-S899-line-5" n="5">You'll find if you read but a few of your Histories,</l>
+            <l xml:id="swift-971-S899-line-6" n="6">All Women as <hi rend="italics">Eve</hi>, all Women are Mysteries.</l>
+            <l xml:id="swift-971-S899-line-7" n="7">To find out this <hi rend="italics">Riddle</hi>, I know you'l be eager,</l>
+            <l xml:id="swift-971-S899-line-8" n="8">And make every one of the Sex a Bell-phagor.</l>
+            <l xml:id="swift-971-S899-line-9" n="9">But that will not doe, for I mean to come-mend 'em,</l>
+            <l xml:id="swift-971-S899-line-10" n="10">I swear without jest, I an honour intend 'em.</l>
+            <l xml:id="swift-971-S899-line-11" n="11">But to tell you a thing that wants Interpretation,</l>
+            <l xml:id="swift-971-S899-line-12" n="12">What name for a Maid, was the first Man's Damnation.</l>
+            <l xml:id="swift-971-S899-line-13" n="13">A <hi rend="italics">Damsel-Adam's-Hell</hi>, O! there I have hit it,</l>
+            <l xml:id="swift-971-S899-line-14" n="14">Just as you conceiv'd it, just so have I writ it.</l>
+            <l xml:id="swift-971-S899-line-15" n="15">But now from henceforwards I'l make you to know it,</l>
+            <l xml:id="swift-971-S899-line-16" n="16">That now I'm your <hi rend="italics">Phœbus</hi>, and you are my <hi rend="italics">Poet</hi>.</l>
+            <l xml:id="swift-971-S899-line-17" n="17">The reason I send you these Lines of Rhymes double,</l>
+            <l xml:id="swift-971-S899-line-18" n="18">Is meerly thro' Pity to save you the Trouble</l>
+            <l xml:id="swift-971-S899-line-19" n="19">Of thinking 2 hours for a Rhyme as you did last,</l>
+            <l xml:id="swift-971-S899-line-20" n="20">When your <hi rend="italics">Pegasus</hi> canter'd in triple and rid fast.</l>
+            <l xml:id="swift-971-S899-line-21" n="21">As for my little Nag which I keep at <hi rend="italics">Parnassus</hi>,</l>
+            <l xml:id="swift-971-S899-line-22" n="22">With <hi rend="italics">Phœbus</hi>'s Leave to run with his Asses,</l>
+            <l xml:id="swift-971-S899-line-23" n="23">He goes, slow, and sure, and he never is jaded,</l>
+            <l xml:id="swift-971-S899-line-24" n="24">Whilst you fiery Steed is whipp'd, spur'd, Bastinaded.</l>
+            <l xml:id="swift-971-S899-line-25" n="25">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

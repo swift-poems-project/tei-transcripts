@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>JEUX D'ESPRIT<lb/>  OF THE<lb/>  SCRIBLERUS CLUB</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="187BWILH">
+          <head type="note" n="1" xml:id="spp-187BWILH-headnote-1">
+            <lg n="1" xml:id="spp-187BWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-187BWILH-headnote-1-line-group-1-line-1">VI&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-187BWILH-headnote-2">
+            <lg n="1" xml:id="spp-187BWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-187BWILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-187BWILH-headnote-3">
+            <lg n="1" xml:id="spp-187BWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-187BWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-187BWILH-line-1" n="1">My Lord, forsake your Politick Utopians,</l>
+            <l xml:id="swift-187BWILH-line-2" n="2">To sup, like Jove, with blameless Ethiopians.</l>
+            <l rend="indent(6)" xml:id="swift-187BWILH-line-3" n="3">|||||Pope.</l>
+            <l xml:id="swift-187BWILH-line-4" n="4">In other Words, You with the Staff,</l>
+            <l xml:id="swift-187BWILH-line-5" n="5">Leave John of Bucks, come here and laugh.</l>
+            <l rend="indent(6)" xml:id="swift-187BWILH-line-6" n="6">|||||Dean.</l>
+            <l xml:id="swift-187BWILH-line-7" n="7">For Frolick Mirth give ore affairs of State,</l>
+            <l xml:id="swift-187BWILH-line-8" n="8">To night be happy, be to morrow great.</l>
+            <l rend="indent(6)" xml:id="swift-187BWILH-line-9" n="9">|||||Parnell</l>
+            <l xml:id="swift-187BWILH-line-10" n="10">Give Clans your money, us your smile</l>
+            <l xml:id="swift-187BWILH-line-11" n="11">your Scorn to T──end &amp; Ar──ile</l>
+            <l rend="indent(6)" xml:id="swift-187BWILH-line-12" n="12">|||||Doctor</l>
+            <l xml:id="swift-187BWILH-line-13" n="13">Leave Courts, and hye to simple Swains,</l>
+            <l xml:id="swift-187BWILH-line-14" n="14">Who feed <hi rend="italics">no</hi> Flock Upon <hi rend="italics">no</hi> Plains</l>
+            <l rend="indent(6)" xml:id="swift-187BWILH-line-15" n="15">|||||Gay.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

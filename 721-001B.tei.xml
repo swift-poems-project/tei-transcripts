@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Stella's Birth-day<lb/>  Written AD. 1718.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KZeigler 12MR96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 22OC08 agt WILH; ed. JW 2AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="721-001B">
+          <head type="note" n="1" xml:id="spp-721-001B-headnote-1">
+            <lg n="1" xml:id="spp-721-001B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-721-001B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-721-001B-headnote-2">
+            <lg n="1" xml:id="spp-721-001B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-721-001B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-721-001B-headnote-3">
+            <lg n="1" xml:id="spp-721-001B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-721-001B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-721-001B-line-1" n="1">Stella this Day is thirty four,</l>
+            <l xml:id="swift-721-001B-line-2" n="2">(We won't dispute a Year or more)</l>
+            <l xml:id="swift-721-001B-line-3" n="3">However Stella, be not troubled,</l>
+            <l xml:id="swift-721-001B-line-4" n="4">Although thy Size and Years are doubled,</l>
+            <l xml:id="swift-721-001B-line-5" n="5">Since first I saw Thee at Sixteen</l>
+            <l xml:id="swift-721-001B-line-6" n="6">The brightest Virgin of the Green,</l>
+            <l xml:id="swift-721-001B-line-7" n="7">So little is thy Form declin'd</l>
+            <l xml:id="swift-721-001B-line-8" n="8">Made up so largly in thy Mind.</l>
+            <l xml:id="swift-721-001B-line-9" n="9">Oh, would it please the Gods to Split</l>
+            <l xml:id="swift-721-001B-line-10" n="10">Thy Beauty, Size, and Years, and Wit,</l>
+            <l xml:id="swift-721-001B-line-11" n="11">No Age could furnish out a Pair</l>
+            <l xml:id="swift-721-001B-line-12" n="12">Of Nymphs so gracefull, Wise and fair</l>
+            <l xml:id="swift-721-001B-line-13" n="13">With half the Lustre of Your Eyes,</l>
+            <l xml:id="swift-721-001B-line-14" n="14">With half thy Wit, thy Years and Size:</l>
+            <l xml:id="swift-721-001B-line-15" n="15">And then before it grew too late,</l>
+            <l xml:id="swift-721-001B-line-16" n="16">How should I beg of gentle Fate,</l>
+            <l xml:id="swift-721-001B-line-17" n="17">(That either Nymph might have her Swain,)</l>
+            <l xml:id="swift-721-001B-line-18" n="18">To Split my Worship too in twain.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Author<lb/>  of the aforeSd Lines on Fasting.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 31DE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z749281L">
+          <head type="note" n="1" xml:id="spp-Z749281L-headnote-1">
+            <lg n="1" xml:id="spp-Z749281L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z749281L-headnote-1-line-group-1-line-1">1734-5. ························I. C.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z749281L-headnote-2">
+            <lg n="1" xml:id="spp-Z749281L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z749281L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z749281L-headnote-3">
+            <lg n="1" xml:id="spp-Z749281L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z749281L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z749281L-line-1" n="1">If thou'rt a Deist, thy Plea I'l let pass;</l>
+            <l xml:id="swift-Z749281L-line-2" n="2">But if a Xian, thou talkst like an Ass.</l>
+            <l xml:id="swift-Z749281L-line-3" n="3">For if by Scripture thy Doctrine We trye</l>
+            <l xml:id="swift-Z749281L-line-4" n="4">Thy pittyfull Iest will prove but a Lye.</l>
+            <l xml:id="swift-Z749281L-line-5" n="5">But Since (as a Beast) thou'st right to a Stall,</l>
+            <l xml:id="swift-Z749281L-line-6" n="6">Lett me recomend Thee to Saltor's Hall.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Aye and No: A Fable</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R565ROGP">
+          <head type="note" n="1" xml:id="spp-R565ROGP-headnote-1">
+            <lg n="1" xml:id="spp-R565ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R565ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R565ROGP-headnote-2">
+            <lg n="1" xml:id="spp-R565ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R565ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R565ROGP-headnote-3">
+            <lg n="1" xml:id="spp-R565ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R565ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-R565ROGP-line-1" n="1">In fable all things hold discourse;</l>
+            <l xml:id="swift-R565ROGP-line-2" n="2">Then words, no doubt, must talk of course.</l>
+            <l rend="indent(1)" xml:id="swift-R565ROGP-line-3" n="3"><lb/>Once on a time, near Channel Row,</l>
+            <l xml:id="swift-R565ROGP-line-4" n="4">Two hostile adverbs, Aye and No,</l>
+            <l xml:id="swift-R565ROGP-line-5" n="5">Were hastening to the field of fight,</l>
+            <l xml:id="swift-R565ROGP-line-6" n="6">And front to front stood opposite.</l>
+            <l xml:id="swift-R565ROGP-line-7" n="7">Before each general joined the van,</l>
+            <l xml:id="swift-R565ROGP-line-8" n="8">Aye, the more courteous knight, began.</l>
+            <l rend="indent(1)" xml:id="swift-R565ROGP-line-9" n="9"><lb/>'Stop, peevish particle, beware! 3}</l>
+            <l xml:id="swift-R565ROGP-line-10" n="10">I'm told you are not such a bear,</l>
+            <l xml:id="swift-R565ROGP-line-11" n="11">But sometimes yield, when offered fair.</l>
+            <l xml:id="swift-R565ROGP-line-12" n="12">Suffer yon folks awhile to tattle;</l>
+            <l xml:id="swift-R565ROGP-line-13" n="13">'Tis we who must decide the battle.</l>
+            <l xml:id="swift-R565ROGP-line-14" n="14">Whene'er we war on yonder stage,</l>
+            <l xml:id="swift-R565ROGP-line-15" n="15">With various fate, and equal rage,</l>
+            <l xml:id="swift-R565ROGP-line-16" n="16">The nation trembles at each blow</l>
+            <l xml:id="swift-R565ROGP-line-17" n="17">That No gives Aye, and Aye gives No;</l>
+            <l xml:id="swift-R565ROGP-line-18" n="18">Yet in expensive long contention,</l>
+            <l xml:id="swift-R565ROGP-line-19" n="19">We gain nor office, grant, nor pension.</l>
+            <l xml:id="swift-R565ROGP-line-20" n="20">Why then should kinsfolks quarrel thus?</l>
+            <l xml:id="swift-R565ROGP-line-21" n="21">(For, two of you make one of us.)</l>
+            <l xml:id="swift-R565ROGP-line-22" n="22">To some wise statesman let us go,</l>
+            <l xml:id="swift-R565ROGP-line-23" n="23">Where each his proper use may know.</l>
+            <l xml:id="swift-R565ROGP-line-24" n="24">He may admit two such commanders,</l>
+            <l xml:id="swift-R565ROGP-line-25" n="25">And make those wait, who served in Flanders.</l>
+            <l xml:id="swift-R565ROGP-line-26" n="26">Let's quarter on a great man's tongue,</l>
+            <l xml:id="swift-R565ROGP-line-27" n="27">A Treasury lord, not Maister Yonge.</l>
+            <l xml:id="swift-R565ROGP-line-28" n="28">Obsequious at his high command,</l>
+            <l xml:id="swift-R565ROGP-line-29" n="29">Aye shall march forth to tax the land:</l>
+            <l xml:id="swift-R565ROGP-line-30" n="30">Impeachments, No can best resist,</l>
+            <l xml:id="swift-R565ROGP-line-31" n="31">And Aye support the Civil List:</l>
+            <l xml:id="swift-R565ROGP-line-32" n="32">Aye quick as Caesar, wins the day;</l>
+            <l xml:id="swift-R565ROGP-line-33" n="33">And No, like Fabius, by delay.</l>
+            <l xml:id="swift-R565ROGP-line-34" n="34">Sometimes, in mutual sly disguise,</l>
+            <l xml:id="swift-R565ROGP-line-35" n="35">Let Ayes seem Noes, and Noes seem Ayes;</l>
+            <l xml:id="swift-R565ROGP-line-36" n="36">Ayes be in courts denials meant,</l>
+            <l xml:id="swift-R565ROGP-line-37" n="37">And Noes in bishops give consent.'</l>
+            <l rend="indent(1)" xml:id="swift-R565ROGP-line-38" n="38"><lb/>Thus Aye proposed── and for reply,</l>
+            <l xml:id="swift-R565ROGP-line-39" n="39">No, for the first time, answered Aye.</l>
+            <l xml:id="swift-R565ROGP-line-40" n="40">They parted with a thousand kisses,</l>
+            <l xml:id="swift-R565ROGP-line-41" n="41">And fight e'er since, for pay, like Swisses.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

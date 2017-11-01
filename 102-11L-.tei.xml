@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  Famous Prediction<lb/>  OF<lb/>  MERLIN,<lb/>  THE<lb/>  <hi rend="italics">BRITISH</hi> Wizard.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 16FE93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="102-11L-">
+          <head type="note" n="1" xml:id="spp-102-11L--headnote-1">
+            <lg n="1" xml:id="spp-102-11L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-11L--headnote-1-line-group-1-line-1">Written above a Thousand Years ago, and relating to this Present Year, 1709.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-102-11L--headnote-2">
+            <lg n="1" xml:id="spp-102-11L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-11L--headnote-2-line-group-1-line-1">With Explanatory Notes.<lb/>By <hi rend="italics">T. N</hi>. Philomath.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-102-11L--headnote-3">
+            <lg n="1" xml:id="spp-102-11L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-11L--headnote-3-line-group-1-line-1"><hi rend="display-initial">L</hi>AST Year was publish'd a Paper of Predictions pretended to be written by one <hi rend="italics">Isaac Bickerstaff</hi> Esq;<lb/>but the true Design of it was to Ridicule the Art of Astrology, and Expose its Professors as Ignorant, or Impostors.<lb/>Against this Imputation, Dr. <hi rend="italics">Partrige</hi> hath vindicated himself in his Almanack for the Present Year.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-102-11L--headnote-4">
+            <lg n="1" xml:id="spp-102-11L--headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-102-11L--headnote-4-line-group-1-line-1">FOR a farther Vindication of this famous Art, I have thought fit to present the World with the following Prophecy.<lb/>The Original is said to be of the famous <hi rend="italics">Merlin</hi>, who lived about a Thousand Years ago:<lb/>And the following Translation is Two Hundred Years old;<lb/>for it seems to be written near the End of <hi rend="italics">Henry</hi> the Seventh's Reign.<lb/>I found it in an Old Edition of <hi rend="italics">Merlin</hi>'s Prophecies;<lb/>imprinted at <hi rend="italics">London</hi> by <hi rend="italics">Johan Haukyns</hi>, in the Year 1530. <hi rend="italics">Page</hi> 39.<lb/>I set it down Word for Word in the Old Orthography, and shall take Leave to subjoin a few Explanatory Notes.</l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-102-11L--line-1" n="1"><hi rend="black-letter">Seven and Ten addyd to nyne,</hi></l><l xml:id="swift-102-11L--line-2" n="2">Of Fraunce hir woe thys is the sygne,</l><l xml:id="swift-102-11L--line-3" n="3">Tamys rivere twys y-frozen,</l><l xml:id="swift-102-11L--line-4" n="4">Walke sans wetynge Shoes ne hozen.</l><l xml:id="swift-102-11L--line-5" n="5">Then comyth foorthe, Ich understonde,</l><l xml:id="swift-102-11L--line-6" n="6">From Toune of Stoffe to fattyn Londe</l><l xml:id="swift-102-11L--line-7" n="7">An herdie Chiftan, woe the morne</l><l xml:id="swift-102-11L--line-8" n="8">To Fraunce, that evere he was borne.</l><l xml:id="swift-102-11L--line-9" n="9">Than shall the Fyshe beweyle his Bosse;</l><l xml:id="swift-102-11L--line-10" n="10">Nor shall grin Berris make up the Losse.</l><l xml:id="swift-102-11L--line-11" n="11">Yonge Symnele shall agayne miscarrye:</l><l xml:id="swift-102-11L--line-12" n="12">And Norways pryd agayne shall marreye.</l><l xml:id="swift-102-11L--line-13" n="13">And from the Tree where Blosums fele,</l><l xml:id="swift-102-11L--line-14" n="14">Ripe fruit shall come, and all is wele.</l><l xml:id="swift-102-11L--line-15" n="15">Reaums shall daunce honde in honde,</l><l xml:id="swift-102-11L--line-16" n="16">And it shall be merye in olde Inglonde.</l><l xml:id="swift-102-11L--line-17" n="17">Then olde Inglonde shall be noe more,</l><l xml:id="swift-102-11L--line-18" n="18">And no Man shall be sorie therefore.</l><l xml:id="swift-102-11L--line-19" n="19">Geryon shall have three Hedes agayne</l><l xml:id="swift-102-11L--line-20" n="20">Geryon shall have three Hedes agayneTill Hapsburge makyth them but twayne</l>.<l xml:id="swift-102-11L--line-21" n="21">\ENDNOTES:\</l><l xml:id="swift-102-11L--line-22" n="22"><lb/>«FL»Explanatory Notes.«FL»</l><l rend="indent(1)" xml:id="swift-102-11L--line-23" n="23"><lb/><hi rend="black-letter">Seven and Ten</hi>. THIS Line describes the Year when these Events shall happen._</l><l xml:id="swift-102-11L--line-24" n="24">Seven and Ten makes Seventeen, which I Explain Seventeen Hundred, and this Number added to Nine, makes the Year we are now in;<lb/></l><l xml:id="swift-102-11L--line-25" n="25">for it must be understood of the Natural Year, which begins the First of <hi rend="italics">January</hi>.</l><l rend="indent(1)" xml:id="swift-102-11L--line-26" n="26"><lb/><hi rend="black-letter">Tamys Rivere twys</hi>, &amp;c. THE River <hi rend="italics">Thames</hi> frozen twice in one Year, so as Men to walk on it, is a very signal Accident;_</l><l xml:id="swift-102-11L--line-27" n="27">which perhaps hath not fallen out for several Hundred Years before, and is the Reason why some Astrologers have thought that this Prophecy could never be fulfilled, because they imagined such a Thing would never happen in our Climate.</l><l rend="indent(1)" xml:id="swift-102-11L--line-28" n="28"><lb/><hi rend="black-letter">From Toune of Stoffe</hi>, &amp;c. THIS is a plain Designation of the Duke of <hi rend="italics">Marlborough</hi>;_</l><l xml:id="swift-102-11L--line-29" n="29">One kind of Stuff used to fatten Land is called <hi rend="italics">Marle</hi>, and every body knows that <hi rend="italics">Borough</hi> is a Name for a Town;<lb/></l><l xml:id="swift-102-11L--line-30" n="30">and this way of Expression is after the usual dark manner of Old Astrological Predictions.</l><l rend="indent(1)" xml:id="swift-102-11L--line-31" n="31"><lb/><hi rend="black-letter">Than shall the Fyshe</hi>, &amp;c. BY the <hi rend="italics">Fish</hi> is understood the <hi rend="italics">Dolphin</hi> of <hi rend="italics">France</hi>, as their Kings Eldest Sons are called:_</l><l xml:id="swift-102-11L--line-32" n="32">'Tis here said, he shall lament the Loss of the Duke of <hi rend="italics">Burgundy</hi>, called the <hi rend="italics">Bosse</hi>, which is an Old <hi rend="italics">English</hi> Word for <hi rend="italics">Hump-Shoulder</hi>, or <hi rend="italics">Crook-Back</hi>, as that Duke is known to be;<lb/></l><l xml:id="swift-102-11L--line-33" n="33">and the Prophecy seems to mean, that he shall be overcome or slain.<lb/></l><l xml:id="swift-102-11L--line-34" n="34">By the <hi rend="italics">Green Berrys</hi> in the next Line is meant the Young Duke of <hi rend="italics">Berry</hi>, the <hi rend="italics">Dauphin</hi>'s Third Son, who shall not have Valour or Fortune enough to supply the Loss of his Eldest Brother.</l><l rend="indent(1)" xml:id="swift-102-11L--line-35" n="35"><lb/><hi rend="black-letter">Yonge Symnele</hi>, &amp;c. BY <hi rend="italics">Symnel</hi> is meant the Pretended Prince of <hi rend="italics">Wales</hi>, who if he offers to attempt any thing against <hi rend="italics">England</hi>, shall mis-carry as he did before._</l><l xml:id="swift-102-11L--line-36" n="36"><hi rend="italics">Lambert Symnel</hi> is the Name of a Young Man noted in our Histories for Personating the Son (as I remember) of <hi rend="italics">Edward</hi> the Fourth.</l><l rend="indent(1)" xml:id="swift-102-11L--line-37" n="37"><lb/><hi rend="black-letter">And Norways Pryd</hi>, &amp;c. I cannot guess who is meant by <hi rend="italics">Norway</hi>'s <hi rend="italics">Pride</hi>, perhaps the Reader may, as well as the Sense of the Two following Lines.</l><l rend="indent(1)" xml:id="swift-102-11L--line-38" n="38"><lb/><hi rend="black-letter">Reaums shall</hi>, &amp;c. <hi rend="italics">REAUMS</hi>, or, as the Word is now, <hi rend="italics">Realms</hi>, is the Old Name for <hi rend="italics">Kingdoms</hi>:_</l><l xml:id="swift-102-11L--line-39" n="39">And this is a very plain Prediction of our Happy <hi rend="italics">Union</hi>, with the Felicities that shall attend it.<lb/></l><l xml:id="swift-102-11L--line-40" n="40">It is added, That <hi rend="italics">Old England</hi> shall be no more, and yet no Man shall be sorry for it.<lb/></l><l xml:id="swift-102-11L--line-41" n="41">And indeed, properly speaking, <hi rend="italics">England</hi> is now no more,<lb/></l><l xml:id="swift-102-11L--line-42" n="42">for the whole Island is one Kingdom, under the Name of <hi rend="italics">Britain</hi>.</l><l rend="indent(1)" xml:id="swift-102-11L--line-43" n="43"><lb/><hi rend="black-letter">Geryon shall</hi>, &amp;c. THIS Prediction, though somewhat obscure, is wonderfully adapt._</l><l xml:id="swift-102-11L--line-44" n="44"><hi rend="italics">Geryon</hi> is said to have been a King of <hi rend="italics">Spain</hi>, whom <hi rend="italics">Hercules</hi> slew.<lb/></l><l xml:id="swift-102-11L--line-45" n="45">It was a Fiction of the Poets, that he had Three Heads, which the Author says he shall have again.<lb/></l><l xml:id="swift-102-11L--line-46" n="46">That is, <hi rend="italics">Spain</hi> shall have Three Kings;<lb/></l><l xml:id="swift-102-11L--line-47" n="47">which is now wonderfully verify'd:<lb/></l><l xml:id="swift-102-11L--line-48" n="48">For besides the King of <hi rend="italics">Portugal</hi>, which properly is part of <hi rend="italics">Spain</hi>, there are now Two Rivals for <hi rend="italics">Spain;<lb/></hi></l><l xml:id="swift-102-11L--line-49" n="49"><hi rend="italics">Charles</hi> and <hi rend="italics">Philip</hi>.<lb/></l><l xml:id="swift-102-11L--line-50" n="50">But <hi rend="italics">Charles</hi> being descended from the Count of <hi rend="italics">Hapsburgh</hi>, Founder of the <hi rend="italics">Austrian</hi> Family, shall soon make those Heads but Two;<lb/></l><l xml:id="swift-102-11L--line-51" n="51">by Overcoming <hi rend="italics">Philip</hi>, and Driving him out of <hi rend="italics">Spain</hi>.</l><l rend="indent(1)" xml:id="swift-102-11L--line-52" n="52"><lb/>SOME of these Predictions are already fulfilled;_</l><l xml:id="swift-102-11L--line-53" n="53">and it is highly probable the rest may be in due time:<lb/></l><l xml:id="swift-102-11L--line-54" n="54">And, I think, I have not forced the Words by my Explication into any other Sense than what they will naturally bear.<lb/></l><l xml:id="swift-102-11L--line-55" n="55">If this be granted, I am sure it must be also allow'd, that the Author, whoever he were, was a Person of extraordinary Sagacity;<lb/></l><l xml:id="swift-102-11L--line-56" n="56">And that Astrology brought to such a Perfection as this, is by no means an Art to be despis'd;<lb/></l><l xml:id="swift-102-11L--line-57" n="57">whatever Mr. <hi rend="italics">Bickerstaff</hi>, or other Merry Gentlemen are pleased to think.<lb/></l><l xml:id="swift-102-11L--line-58" n="58">As to the Tradition, of these Lines having been writ in the Original by <hi rend="italics">Merlin</hi>;<lb/></l><l xml:id="swift-102-11L--line-59" n="59">I confess, I lay not much Weight upon it:<lb/></l><l xml:id="swift-102-11L--line-60" n="60">But it is enough to justify their Authority, that the Book from whence I have transcrib'd them, was printed 170 Years ago, as appears by the Title-Page.<lb/></l><l xml:id="swift-102-11L--line-61" n="61">For the Satisfaction of any Gentleman, who may be either Doubtful of the Truth, or Curious to be inform'd;<lb/></l><l xml:id="swift-102-11L--line-62" n="62">I shall give order to have the very Book sent to the Printer of this Paper, with Directions to let any Body see it that pleases:<lb/></l><l xml:id="swift-102-11L--line-63" n="63">because, I believe it is pretty scarce.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

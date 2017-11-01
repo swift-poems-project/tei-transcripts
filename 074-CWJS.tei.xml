@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A </hi>BALLAD<hi rend="italics"> on the Game of</hi> Traffick.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 19JE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JW 19JE01 agt 0853; tochk item resolved JW 23DE06; √'d JW 24JL07 agt 0852; ed. JW 9OC14, 14OC14; EMENDED JW 1NO16, 8NO16, 12AU17 (restoring the concluding editorial note)</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="074-CWJS">
+          <head type="note" n="1" xml:id="spp-074-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-074-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-074-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-074-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-074-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-074-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-074-CWJS-line-1" n="1">
+              <hi rend="display-initial-italic">M<hi rend="small-caps-italic">Y</hi> <note place="foot">·<hi rend="italics">The Earl of</hi> Berkeley.</note> <hi rend="italics">Lord</hi> to find out who must deal</hi>
+            </l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-2" n="2">Delivers Cards about,</l>
+            <l xml:id="swift-074-CWJS-line-3" n="3">But the first Knave does seldom fail</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-4" n="4">To find the <hi rend="italics">Doctor</hi> out.</l>
+            <l xml:id="swift-074-CWJS-line-5" n="5"><lb/>But then his <hi rend="italics">Honour</hi> cry'd, Godzooks!</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-6" n="6">And seem'd to knit his Brow,</l>
+            <l xml:id="swift-074-CWJS-line-7" n="7">For on a Knave he never looks</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-8" n="8">But H'thinks upon <hi rend="italics">Jack How</hi>.</l>
+            <l xml:id="swift-074-CWJS-line-9" n="9"><lb/>My <hi rend="italics">Lady</hi> tho' she is no Player,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-10" n="10">Some bungling Partner takes,</l>
+            <l xml:id="swift-074-CWJS-line-11" n="11">And wedg'd in Corner of a Chair</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-12" n="12">Takes Snuff, and holds the Stakes.</l>
+            <l xml:id="swift-074-CWJS-line-13" n="13"><lb/>Dame <hi rend="italics">Floyd</hi> looks out in grave suspence</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-14" n="14">For Pair royals and Sequents;</l>
+            <l xml:id="swift-074-CWJS-line-15" n="15">But wisely cautious of her Pence,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-16" n="16">The Castle seldom frequents.</l>
+            <l xml:id="swift-074-CWJS-line-17" n="17"><lb/>Quoth <hi rend="italics">Herries</hi>, fairly putting Cases,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-18" n="18">I'd won it on my Word,</l>
+            <l xml:id="swift-074-CWJS-line-19" n="19">If I had but a pair of Aces,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-20" n="20">And could pick up a Third.</l>
+            <l xml:id="swift-074-CWJS-line-21" n="21"><lb/>But <hi rend="italics">Weston</hi> has a new-cast Gown</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-22" n="22">On Sundays to be fine in,</l>
+            <l xml:id="swift-074-CWJS-line-23" n="23">And if she can but win a <hi rend="italics">Crown</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-24" n="24">'Twill just new Dye the Lining.</l>
+            <l xml:id="swift-074-CWJS-line-25" n="25"><lb/>“With these is Parson <hi rend="italics">Swift</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-26" n="26">“Not knowing how to spend his Time,</l>
+            <l xml:id="swift-074-CWJS-line-27" n="27">“Does make a wretched Shift,</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-28" n="28">“To deafen 'em with Puns and Rhime.</l>
+            <l rend="indent(1)" xml:id="swift-074-CWJS-line-29" n="29"><lb/><hi rend="italics">Lady </hi>Betty Berkeley<hi rend="italics"> finding this </hi>Ballad<hi rend="italics"> in the Author's Room unfinished, she underwrit the last Stanza, and left the Paper where she had found it; which occasioned the following Song, that the Author wrote in a counterfeit Hand, as if a third Person had done it. A Song, to the Tune of the </hi>Cut-purse<hi rend="italics">. See </hi>Swift<hi rend="italics">'s Poems</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

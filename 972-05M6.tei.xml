@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>D──n <hi rend="italics">S</hi>────'s Answer to the Re-<lb/>  verend Dr. <hi rend="italics">SH──────N</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 8JA16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="972-05M6">
+          <head type="note" n="1" xml:id="spp-972-05M6-headnote-1">
+            <lg n="1" xml:id="spp-972-05M6-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-972-05M6-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-972-05M6-headnote-2">
+            <lg n="1" xml:id="spp-972-05M6-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-972-05M6-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-972-05M6-headnote-3">
+            <lg n="1" xml:id="spp-972-05M6-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-972-05M6-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-972-05M6-line-1" n="1"><hi rend="italics">SIR</hi>,<lb/><hi rend="display-initial">I</hi>N reading your Letter alone in my Hackney,</l>
+            <l xml:id="swift-972-05M6-line-2" n="2">Your damnable Riddle, my poor Brains did rack nigh.</l>
+            <l xml:id="swift-972-05M6-line-3" n="3">And when with much Labour the Matter I crackt,</l>
+            <l xml:id="swift-972-05M6-line-4" n="4">I found you mistaken in Matter of Fact.</l>
+            <l rend="indent(1)" xml:id="swift-972-05M6-line-5" n="5"><lb/>A Woman's no Sieve (for with that you begin)</l>
+            <l xml:id="swift-972-05M6-line-6" n="6">Because she let's out more than e'er she takes in.</l>
+            <l xml:id="swift-972-05M6-line-7" n="7">And that she's a Riddle, can never be right,</l>
+            <l xml:id="swift-972-05M6-line-8" n="8">For a Riddle is dark, but a Woman is <hi rend="italics">light</hi>.</l>
+            <l xml:id="swift-972-05M6-line-9" n="9">But grant her a Sieve, I can say something archer,</l>
+            <l xml:id="swift-972-05M6-line-10" n="10">Pray what is a Man? he's a fine Linen <hi rend="italics">Searcher</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-972-05M6-line-11" n="11"><lb/>Now tell me a Thing that wants Interpretation,</l>
+            <l xml:id="swift-972-05M6-line-12" n="12">What Name for a <note place="foot">·<hi rend="italics">Vir Gin</hi>.</note> Maid, was the first Man's Damnation?</l>
+            <l xml:id="swift-972-05M6-line-13" n="13">If your Worship will please to explain me this <hi rend="italics">Rebus</hi>,</l>
+            <l xml:id="swift-972-05M6-line-14" n="14">I swear from henceforward you shall be my <hi rend="italics">Phœbus</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-972-05M6-line-15" n="15"><lb/><hi rend="italics">From my</hi> Hackney-Coach, Sept. 15,_||1712. <hi rend="italics">past</hi> 12 <hi rend="italics">at Noon</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

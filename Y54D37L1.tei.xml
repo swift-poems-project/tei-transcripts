@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M<hi rend="small-caps">ART</hi>. Lib. i. Epig. 87.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 6JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y54D37L1">
+          <head type="note" n="1" xml:id="spp-Y54D37L1-headnote-1">
+            <lg n="1" xml:id="spp-Y54D37L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54D37L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y54D37L1-headnote-2">
+            <lg n="1" xml:id="spp-Y54D37L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54D37L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y54D37L1-headnote-3">
+            <lg n="1" xml:id="spp-Y54D37L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54D37L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y54D37L1-line-1" n="1"><hi rend="display-initial">M</hi>Y neighbour <hi rend="italics">Hunks</hi>'s house and mine</l>
+            <l xml:id="swift-Y54D37L1-line-2" n="2">Are built so near, they almost join;</l>
+            <l xml:id="swift-Y54D37L1-line-3" n="3">The windows too project so much,</l>
+            <l xml:id="swift-Y54D37L1-line-4" n="4">That thro' the casements we may touch:</l>
+            <l xml:id="swift-Y54D37L1-line-5" n="5">Nay, I'm so happy, most men think,</l>
+            <l xml:id="swift-Y54D37L1-line-6" n="6">To live so near a man of chink,</l>
+            <l xml:id="swift-Y54D37L1-line-7" n="7">That they are apt to envy me,</l>
+            <l xml:id="swift-Y54D37L1-line-8" n="8">For keeping such good company.</l>
+            <l xml:id="swift-Y54D37L1-line-9" n="9">But he's as far from me, I vow,</l>
+            <l xml:id="swift-Y54D37L1-line-10" n="10">As <hi rend="italics">London</hi> is from good lord <hi rend="italics">Howe</hi>,</l>
+            <l xml:id="swift-Y54D37L1-line-11" n="11">Who sooths the poor <hi rend="italics">Barbadoes</hi> folks,</l>
+            <l xml:id="swift-Y54D37L1-line-12" n="12">All gall'd and raw with <hi rend="italics">L────r</hi>'s yokes.</l>
+            <l xml:id="swift-Y54D37L1-line-13" n="13">For when old <hi rend="italics">Hunks</hi> I chance to meet,</l>
+            <l xml:id="swift-Y54D37L1-line-14" n="14"><hi rend="italics">Or</hi> one or both must quit the street.</l>
+            <l rend="indent(1)" xml:id="swift-Y54D37L1-line-15" n="15">Thus, he who would not see old <hi rend="italics">Roger</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y54D37L1-line-16" n="16">Must be his neighbour, or his lodger.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

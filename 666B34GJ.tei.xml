@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Upon his threatning to translate</hi> Pindar.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 27DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="666B34GJ">
+          <head type="note" n="1" xml:id="spp-666B34GJ-headnote-1">
+            <lg n="1" xml:id="spp-666B34GJ-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-666B34GJ-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-666B34GJ-headnote-2">
+            <lg n="1" xml:id="spp-666B34GJ-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-666B34GJ-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-666B34GJ-headnote-3">
+            <lg n="1" xml:id="spp-666B34GJ-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-666B34GJ-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-666B34GJ-line-1" n="1"><hi rend="display-initial">Y</hi>Ou've undone <hi rend="italics">Horace</hi>,--- what shou'd hinder</l>
+            <l xml:id="swift-666B34GJ-line-2" n="2">Thy muse from falling upon <hi rend="italics">Pindar</hi>?</l>
+            <l xml:id="swift-666B34GJ-line-3" n="3">But e'er you mount his fiery steed,</l>
+            <l xml:id="swift-666B34GJ-line-4" n="4">Beware, O <hi rend="italics">Bard</hi>, how you proceed:────</l>
+            <l xml:id="swift-666B34GJ-line-5" n="5">For shou'd you give him once the reins,</l>
+            <l xml:id="swift-666B34GJ-line-6" n="6">High up in air he'll turn your Brains:────</l>
+            <l xml:id="swift-666B34GJ-line-7" n="7">And if you shou'd his fury check,</l>
+            <l xml:id="swift-666B34GJ-line-8" n="8">'Tis ten to one he breaks your neck.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

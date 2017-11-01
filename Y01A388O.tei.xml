@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Punning.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 10JL03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y01A388O">
+          <head type="note" n="1" xml:id="spp-Y01A388O-headnote-1">
+            <lg n="1" xml:id="spp-Y01A388O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01A388O-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y01A388O-headnote-2">
+            <lg n="1" xml:id="spp-Y01A388O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01A388O-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y01A388O-headnote-3">
+            <lg n="1" xml:id="spp-Y01A388O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01A388O-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y01A388O-line-1" n="1">Hail to the Sage, Who from his Native Shore</l>
+            <l xml:id="swift-Y01A388O-line-2" n="2">Produc'd a Science Never known before!</l>
+            <l xml:id="swift-Y01A388O-line-3" n="3">Science of Words once Jargon of the Schools 3}</l>
+            <l xml:id="swift-Y01A388O-line-4" n="4">The plague of Wise Men, and the boast of Fools</l>
+            <l xml:id="swift-Y01A388O-line-5" n="5">Made easy Now &amp; Useful in Y<hi rend="superscript">ṛ</hi> Rules.</l>
+            <l xml:id="swift-Y01A388O-line-6" n="6">Where Wit and humour Equally Combine</l>
+            <l xml:id="swift-Y01A388O-line-7" n="7">Our Mirth at Once to Raise &amp; to Refine;</l>
+            <l xml:id="swift-Y01A388O-line-8" n="8">Till Now Not half the Worth of Sounds We knew</l>
+            <l xml:id="swift-Y01A388O-line-9" n="9">Their Virtual Value, Was Reserv'd for <note place="foot">·Dean Swift.</note> You.</l>
+            <l xml:id="swift-Y01A388O-line-10" n="10">To trace their Mazes Various &amp; Set forth</l>
+            <l xml:id="swift-Y01A388O-line-11" n="11">Their hidden force &amp; Multiply their Worth</l>
+            <l xml:id="swift-Y01A388O-line-12" n="12">For if to Express, One Sense Our Words We Chose</l>
+            <l xml:id="swift-Y01A388O-line-13" n="13">A Double Meaning. is of Double Use.</l>
+            <l rend="indent(1)" xml:id="swift-Y01A388O-line-14" n="14">Hail Sacred Art! by W<hi rend="superscript">ṭ</hi>. Misterious Name</l>
+            <l xml:id="swift-Y01A388O-line-15" n="15">Shall I adore, Various, and the Same?</l>
+            <l xml:id="swift-Y01A388O-line-16" n="16">The Muses Proteus, Skill'd with Graceful Change</l>
+            <l xml:id="swift-Y01A388O-line-17" n="17">Through all the pleasing form of Wit to Range</l>
+            <l xml:id="swift-Y01A388O-line-18" n="18">In Quick Succession. Yet Retain thrô all,</l>
+            <l xml:id="swift-Y01A388O-line-19" n="19">Some faint Resemblance of th'Original.</l>
+            <l rend="indent(1)" xml:id="swift-Y01A388O-line-20" n="20">Hail fairest Offspring of prodigious birth!</l>
+            <l xml:id="swift-Y01A388O-line-21" n="21">At once the Parent, &amp; the Child of Mirth.</l>
+            <l xml:id="swift-Y01A388O-line-22" n="22">With Chloes Charms. thy airy form can Vie</l>
+            <l xml:id="swift-Y01A388O-line-23" n="23">And With thy Smiles, as Many Thousands Die.</l>
+            <l xml:id="swift-Y01A388O-line-24" n="24">The pleasing pains thrô all their Vitals thrills</l>
+            <l xml:id="swift-Y01A388O-line-25" n="25">With Subtle force &amp; tickles as it Kills.</l>
+            <l xml:id="swift-Y01A388O-line-26" n="26">Thee too, like her the Dying Swains persue</l>
+            <l xml:id="swift-Y01A388O-line-27" n="27">As Gay, as Careless. as Inconstant too:</l>
+            <l xml:id="swift-Y01A388O-line-28" n="28">To Raise Yet More thy Merit &amp; thy fame 3}</l>
+            <l xml:id="swift-Y01A388O-line-29" n="29">The Cyprian Goddess Glories in thy Name</l>
+            <l xml:id="swift-Y01A388O-line-30" n="30">Pleasd to be thought the laughter loving Dame.</l>
+            <l rend="indent(1)" xml:id="swift-Y01A388O-line-31" n="31">Nor less thy Praise, Nor less thy Power to Wound</l>
+            <l rend="indent(1)" xml:id="swift-Y01A388O-line-32" n="32">Thou lovely fleeting Image of a Sound.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

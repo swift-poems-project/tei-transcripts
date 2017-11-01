@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Run upon the Bankers.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="239-WILH">
+          <head type="note" n="1" xml:id="spp-239-WILH-headnote-1">
+            <lg n="1" xml:id="spp-239-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-WILH-headnote-1-line-group-1-line-1">Written A:D: 1720.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-239-WILH-headnote-2">
+            <lg n="1" xml:id="spp-239-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-239-WILH-headnote-3">
+            <lg n="1" xml:id="spp-239-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-1" n="1">The bold Encroachers on the Deep,</l>
+            <l xml:id="swift-239-WILH-line-2" n="2">Gain by Degrees huge Tracts of Land,</l>
+            <l xml:id="swift-239-WILH-line-3" n="3">'Till Neptune with a Gen'ral Sweep</l>
+            <l xml:id="swift-239-WILH-line-4" n="4">Turns all again to barren Strand.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-5" n="5"><lb/>The Multitude's Capricious Pranks</l>
+            <l xml:id="swift-239-WILH-line-6" n="6">Are said to represent the Seas,</l>
+            <l xml:id="swift-239-WILH-line-7" n="7">Breaking the Bankers and the Banks,</l>
+            <l xml:id="swift-239-WILH-line-8" n="8">Resume their own when e'er they please.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-9" n="9"><lb/>Money, the Life-blood of the Nation,</l>
+            <l xml:id="swift-239-WILH-line-10" n="10">Corrupts and stagnates in the Veins,</l>
+            <l xml:id="swift-239-WILH-line-11" n="11">Unless a proper Circulation</l>
+            <l xml:id="swift-239-WILH-line-12" n="12">Its Motion and its Heat maintains.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-13" n="13"><lb/>Because 'tis Lordly not to pay,</l>
+            <l xml:id="swift-239-WILH-line-14" n="14">Quakers and Aldermen, in State,</l>
+            <l xml:id="swift-239-WILH-line-15" n="15">Like Peers, have Levees ev'ry Day</l>
+            <l xml:id="swift-239-WILH-line-16" n="16">Of Duns, attending at their Gate.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-17" n="17"><lb/>We want our Money on the Nail;</l>
+            <l xml:id="swift-239-WILH-line-18" n="18">The Banker's ruin'd if he pays;</l>
+            <l xml:id="swift-239-WILH-line-19" n="19">They seem to act an Ancient Tale,</l>
+            <l xml:id="swift-239-WILH-line-20" n="20">The Birds are met to strip the Jays.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-21" n="21"><lb/>Riches, the Wisest Monarch sings,</l>
+            <l xml:id="swift-239-WILH-line-22" n="22">Make Pinions for themselves to fly,</l>
+            <l xml:id="swift-239-WILH-line-23" n="23">They fly like Bats, on Parchment Wings,</l>
+            <l xml:id="swift-239-WILH-line-24" n="24">And Geese their silver Plumes supply.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-25" n="25"><lb/>No Money left for squandring Heirs!</l>
+            <l xml:id="swift-239-WILH-line-26" n="26">Bills turn the Lenders into Debters,</l>
+            <l xml:id="swift-239-WILH-line-27" n="27">The Wish of Nero now is Theirs,</l>
+            <l xml:id="swift-239-WILH-line-28" n="28">That, they had never known their Letters.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-29" n="29"><lb/>Conceive the Works of Midnight Hags,</l>
+            <l xml:id="swift-239-WILH-line-30" n="30">Tormenting Fools behind their Backs;</l>
+            <l xml:id="swift-239-WILH-line-31" n="31">Thus Bankers o'er their Bills and Bags</l>
+            <l xml:id="swift-239-WILH-line-32" n="32">Sit squeezing Images of Wax.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-33" n="33"><lb/>Conceive the whole Enchantment broke,</l>
+            <l xml:id="swift-239-WILH-line-34" n="34">The Witches left in open Air,</l>
+            <l xml:id="swift-239-WILH-line-35" n="35">With Pow'r no more than other Folk,</l>
+            <l xml:id="swift-239-WILH-line-36" n="36">Expos'd with all their Magick Ware.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-37" n="37"><lb/>So Pow'rful are a Banker's Bills</l>
+            <l xml:id="swift-239-WILH-line-38" n="38">When Creditors demand their Due;</l>
+            <l xml:id="swift-239-WILH-line-39" n="39">They break up Counters, Doors, and Tills,</l>
+            <l xml:id="swift-239-WILH-line-40" n="40">And leave his emty Chests in View.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-41" n="41"><lb/>Thus when an Earthquake lets in Light</l>
+            <l xml:id="swift-239-WILH-line-42" n="42">Upon the god of Gold and Hell,</l>
+            <l xml:id="swift-239-WILH-line-43" n="43">Unable to endure the Sight,</l>
+            <l xml:id="swift-239-WILH-line-44" n="44">He hides within his darkest Cell.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-45" n="45"><lb/>As when a Conj'rer takes a Lease</l>
+            <l xml:id="swift-239-WILH-line-46" n="46">From Satan for a Term of Years,</l>
+            <l xml:id="swift-239-WILH-line-47" n="47">The Tenant's in a Dismal Case</l>
+            <l xml:id="swift-239-WILH-line-48" n="48">When e'er the bloody Bond appears.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-49" n="49"><lb/>A baited Banker thus desponds,</l>
+            <l xml:id="swift-239-WILH-line-50" n="50">From his own Hand foresees his Fall,</l>
+            <l xml:id="swift-239-WILH-line-51" n="51">They have his Soul who have his Bonds,</l>
+            <l xml:id="swift-239-WILH-line-52" n="52">'Tis like the Writing on the Wall.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-53" n="53"><lb/>How will the Caitiff Wretch be scar'd</l>
+            <l xml:id="swift-239-WILH-line-54" n="54">When first he finds himself awake</l>
+            <l xml:id="swift-239-WILH-line-55" n="55">At the last Trumpet, unprepar'd,</l>
+            <l xml:id="swift-239-WILH-line-56" n="56">And all his Grand Account to make?</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-57" n="57"><lb/>For in that Universall Call</l>
+            <l xml:id="swift-239-WILH-line-58" n="58">Few Bankers will to Heav'n be Mounters:</l>
+            <l xml:id="swift-239-WILH-line-59" n="59">They'll cry, Ye Shops, upon us fall</l>
+            <l xml:id="swift-239-WILH-line-60" n="60">Conceal, and cover us, Ye Counters.</l>
+            <l rend="indent(1)" xml:id="swift-239-WILH-line-61" n="61"><lb/>When Other Hands the Scales shall hold,</l>
+            <l xml:id="swift-239-WILH-line-62" n="62">And They in Men and Angels Sight</l>
+            <l xml:id="swift-239-WILH-line-63" n="63">Produc'd with all their Bills and Gold,</l>
+            <l xml:id="swift-239-WILH-line-64" n="64">Weigh'd in the Ballance, and found Light.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

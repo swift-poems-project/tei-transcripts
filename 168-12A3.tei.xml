@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Peace and Dunkirk;<lb/>  BEING AN<lb/>  Excellent New Song upon the Surren-<lb/>  der of <hi rend="italics">Dunkirk</hi> to General <hi rend="italics">Hill</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3AP06"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="168-12A3">
+          <head type="note" n="1" xml:id="spp-168-12A3-headnote-1">
+            <lg n="1" xml:id="spp-168-12A3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-168-12A3-headnote-1-line-group-1-line-1">To the Tune of, <hi rend="italics">The King shall enjoy His own again</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-168-12A3-headnote-2">
+            <lg n="1" xml:id="spp-168-12A3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-168-12A3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-168-12A3-headnote-3">
+            <lg n="1" xml:id="spp-168-12A3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-168-12A3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-168-12A3-line-1" n="1"><hi rend="display-initial">S</hi>PIGHT of <hi rend="italics">Dutch</hi> Friends and <hi rend="italics">English</hi> Foes,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-2" n="2">Great <hi rend="italics">Britain</hi> shall have Peace at last;</l>
+            <l xml:id="swift-168-12A3-line-3" n="3"><hi rend="italics">Holland</hi> got Towns, and we got Blows,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-4" n="4">But <hi rend="italics">Dunkirk</hi>'s Ours, we'll hold it fast:</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-5" n="5">|We have got it in a String,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-6" n="6">|And the Whigs may all go Swing,</l>
+            <l xml:id="swift-168-12A3-line-7" n="7">For among good Friends, I love to be plain;</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-8" n="8">|All their false-deluded Hopes,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-9" n="9">|Will, or ought, to end in Ropes;</l>
+            <l xml:id="swift-168-12A3-line-10" n="10"><hi rend="italics">For the </hi>QUEEN<hi rend="italics"> has enjoy'd Her own again</hi>.</l>
+            <l rend="center" xml:id="swift-168-12A3-line-11" n="11">II.<lb/><hi rend="italics">Sunder------d</hi>'s run out of his Wits,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-12" n="12">And <hi rend="italics">Dismal</hi> double-<hi rend="italics">Dismal</hi> looks;</l>
+            <l xml:id="swift-168-12A3-line-13" n="13"><hi rend="italics">Whar--n</hi> can only Swear by Fits,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-14" n="14">And strutting <hi rend="italics">Hal----x</hi> is off the Hooks,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-15" n="15">|Old <hi rend="italics">Godol-----n</hi> full of Spleen,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-16" n="16">|Made <hi rend="italics">false Moves</hi>, and lost his QUEEN;</l>
+            <l xml:id="swift-168-12A3-line-17" n="17"><hi rend="italics">Harry</hi> look'd fierce, and shook his ragged Mane;</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-18" n="18">|But a Prince of high Renown,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-19" n="19">|Swore he'd rather lose a <hi rend="italics">Crown,</hi></l>
+            <l xml:id="swift-168-12A3-line-20" n="20"><hi rend="italics">Than the </hi>QUEEN<hi rend="italics"> should enjoy Her own again</hi>.</l>
+            <l rend="center" xml:id="swift-168-12A3-line-21" n="21">III.<lb/>Our Merchant Ships may cut the Line,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-22" n="22">And not be snapt by Privateers,</l>
+            <l xml:id="swift-168-12A3-line-23" n="23">And Commoners who love good Wine,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-24" n="24">Will drink it now as well as Peers:</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-25" n="25">|Landed-Men shall have their Rent,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-26" n="26">|Yet our Stocks rise <hi rend="italics">Cent. per Cent</hi>,</l>
+            <l xml:id="swift-168-12A3-line-27" n="27">The <hi rend="italics">Dutch</hi> from hence shall no more Millions drain;</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-28" n="28">|We'll bring on us no more Debts,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-29" n="29">|Nor with Bankrupts fill <hi rend="italics">Gazetts,</hi></l>
+            <l xml:id="swift-168-12A3-line-30" n="30"><hi rend="italics">Since the </hi>QUEEN<hi rend="italics"> has enjoy'd Her own again</hi>.</l>
+            <l rend="center" xml:id="swift-168-12A3-line-31" n="31">IV.<lb/>The Towns we took ne'er did us good:</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-32" n="32">What signify't the <hi rend="italics">French</hi> to beat?</l>
+            <l xml:id="swift-168-12A3-line-33" n="33">We spent our Money and our Blood,</l>
+            <l rend="indent(1)" xml:id="swift-168-12A3-line-34" n="34">To make the <hi rend="italics">Dutch-men</hi> proud and great:</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-35" n="35">|But the Lord of <hi rend="italics">Oxford</hi> Swears,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-36" n="36">|<hi rend="italics">Dunkirk</hi> never shall be theirs,</l>
+            <l xml:id="swift-168-12A3-line-37" n="37">The <hi rend="italics">Dutch</hi>-hearted <hi rend="italics">Whigs</hi> may rail and complain,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-38" n="38">|But true <hi rend="italics">British Men</hi> will fill,</l>
+            <l rend="indent(2)" xml:id="swift-168-12A3-line-39" n="39">|A good Health to Gen'ral <hi rend="italics">Hill,</hi></l>
+            <l xml:id="swift-168-12A3-line-40" n="40"><hi rend="italics">For the </hi>QUEEN<hi rend="italics"> now enjoys Her own again</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

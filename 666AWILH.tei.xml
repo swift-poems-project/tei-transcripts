@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/> AGAINST<lb/>  CARTHY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="666AWILH">
+          <head type="note" n="1" xml:id="spp-666AWILH-headnote-1">
+            <lg n="1" xml:id="spp-666AWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-666AWILH-headnote-1-line-group-1-line-1"><hi rend="italics">By</hi> S<hi rend="small-caps">WIFT</hi> <hi rend="italics">and Others</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-666AWILH-headnote-2">
+            <lg n="1" xml:id="spp-666AWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-666AWILH-headnote-2-line-group-1-line-1"><hi rend="italics">On Mr. </hi>Carthy<hi rend="italics">, for his Translation of</hi> Horace.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-666AWILH-headnote-3">
+            <lg n="1" xml:id="spp-666AWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-666AWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-666AWILH-line-1" n="1">O<hi rend="small-caps">NCE</hi> <hi rend="italics">Horace</hi> fancied from a Man 2}<note place="foot">·Vide 20 Ode<lb/>Book the 2d.</note></l>
+            <l xml:id="swift-666AWILH-line-2" n="2">He was transform'd into a Swan,</l>
+            <l xml:id="swift-666AWILH-line-3" n="3">But <hi rend="italics">Carthy</hi>, as from him thou learnest,</l>
+            <l xml:id="swift-666AWILH-line-4" n="4">Has made the Man a Goose in earnest.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

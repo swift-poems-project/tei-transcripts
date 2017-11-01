@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A quibbling ELEGY on the Wor-<lb/>  shipful Judge <hi rend="italics">BOAT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 9MR96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 9MR96 agt 0251; ed. JW 21MY01, 2SE08, 26SE08, JW 22FE17; √'d JW 22SE08 agt WILH</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="284-0201">
+          <head type="note" n="1" xml:id="spp-284-0201-headnote-1">
+            <lg n="1" xml:id="spp-284-0201-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-284-0201-headnote-1-line-group-1-line-1">Written in the Year 1723.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-284-0201-headnote-2">
+            <lg n="1" xml:id="spp-284-0201-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-284-0201-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-284-0201-headnote-3">
+            <lg n="1" xml:id="spp-284-0201-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-284-0201-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-284-0201-line-1" n="1"><hi rend="display-initial">T</hi>O mournful Ditties, <hi rend="italics">Clio</hi>, change thy Note,</l><l xml:id="swift-284-0201-line-2" n="2">Since cruel Fate hath <hi rend="italics">sunk</hi> our Justice <hi rend="italics">Boat</hi>;</l><l xml:id="swift-284-0201-line-3" n="3">Why should he <hi rend="italics">sink</hi> where nothing seem'd to press?</l><l xml:id="swift-284-0201-line-4" n="4">His <hi rend="italics">Lading</hi> little, and his <hi rend="italics">Ballast</hi> less.</l><l xml:id="swift-284-0201-line-5" n="5"><hi rend="italics">Tost</hi> in the <hi rend="italics">Waves</hi> of this <hi rend="italics">tempestuous</hi> World,</l><l xml:id="swift-284-0201-line-6" n="6">At length, his <hi rend="italics">Anchor</hi> fixt, and <hi rend="italics">Canvas</hi> furl'd,</l><l xml:id="swift-284-0201-line-7" n="7">To <note place="foot">·<hi rend="italics">Two Villages near the Sea, where Boatmen and Seamen live</hi>.</note> <hi rend="italics">Lazy-Hill</hi> retiring from his Court,</l><l xml:id="swift-284-0201-line-8" n="8">At his <note place="foot">·\cue to fn. 1\.</note> <hi rend="italics">Ring'</hi>s<hi rend="italics">-End</hi> he <hi rend="italics">founders</hi> in the <hi rend="italics">Port</hi>.</l><l xml:id="swift-284-0201-line-9" n="9">With <note place="foot">·<hi rend="italics">It was said he dy'd of a Dropsy</hi>.</note> <hi rend="italics">Water</hi> fill'd he could no longer <hi rend="italics">float</hi>,</l><l xml:id="swift-284-0201-line-10" n="10">The common Death of many a stronger <hi rend="italics">Boat</hi>.</l><l rend="indent(1)" xml:id="swift-284-0201-line-11" n="11"><lb/>A P<hi rend="small-caps">OST</hi> so fill'd, on Nature's Laws entrenches;</l><l xml:id="swift-284-0201-line-12" n="12"><hi rend="italics">Benches</hi> on <hi rend="italics">Boats</hi> are plac't, not <hi rend="italics">Boats</hi> on <hi rend="italics">Benches</hi>.</l><l xml:id="swift-284-0201-line-13" n="13">And yet our <hi rend="italics">Boat</hi>, how shall I reconcile it?</l><l xml:id="swift-284-0201-line-14" n="14">Was both a <hi rend="italics">Boat</hi>, and in one Sense a <hi rend="italics">Pilat</hi>.</l><l xml:id="swift-284-0201-line-15" n="15">With ev'ry <hi rend="italics">Wind</hi> he <hi rend="italics">sail'd</hi>, and well cou'd <hi rend="italics">tack</hi>:</l><l xml:id="swift-284-0201-line-16" n="16">Had many <hi rend="italics">Pendents</hi>, but abhor'd a <note place="foot">·<hi rend="italics">A Cant Word for a</hi> Jacobite.</note> <hi rend="italics">Jack</hi>.</l><l xml:id="swift-284-0201-line-17" n="17">He's gone, although his Friends began to hope</l><l xml:id="swift-284-0201-line-18" n="18">That he might yet be lifted by a <hi rend="italics">Rope</hi>.</l><l rend="indent(1)" xml:id="swift-284-0201-line-19" n="19"><lb/>B<hi rend="small-caps">EHOLD</hi> the awful <hi rend="italics">Bench</hi> on which he sat,</l><l xml:id="swift-284-0201-line-20" n="20">He was as <hi rend="italics">hard</hi>, and pond'rous <hi rend="italics">Wood</hi> as that:</l><l xml:id="swift-284-0201-line-21" n="21">Yet, when his <hi rend="italics">Sand</hi> was out, we find at last,</l><l xml:id="swift-284-0201-line-22" n="22">That, Death has <hi rend="italics">overset</hi> him with a <hi rend="italics">Blast</hi>.</l><l xml:id="swift-284-0201-line-23" n="23">Our <hi rend="italics">Boat</hi> is now <hi rend="italics">sail'd</hi> to the <hi rend="italics">Stygian</hi> Ferry,</l><l xml:id="swift-284-0201-line-24" n="24">There to supply old <hi rend="italics">Charon</hi>'s leaky Wherry:</l><l xml:id="swift-284-0201-line-25" n="25"><hi rend="italics">Charon</hi> in him will ferry Souls to Hell;</l><l xml:id="swift-284-0201-line-26" n="26">A Trade, our <note place="foot">·<hi rend="italics">In hanging People as a Judge</hi>.</note> <hi rend="italics">Boat</hi> had practic'd here so well.</l><l xml:id="swift-284-0201-line-27" n="27">And, <hi rend="italics">Cerberus</hi> hath ready in his Paws,</l><l xml:id="swift-284-0201-line-28" n="28">Both <hi rend="italics">Pitch</hi> and <hi rend="italics">Brimstone</hi> to fill up his <hi rend="italics">Flaws</hi>;</l><l xml:id="swift-284-0201-line-29" n="29">Yet, spight of Death and Fate, I here maintain</l><l xml:id="swift-284-0201-line-30" n="30">We may place <hi rend="italics">Boat</hi> in his old <hi rend="italics">Post</hi> again.</l><l xml:id="swift-284-0201-line-31" n="31">The Way is thus; and well deserves your Thanks:</l><l xml:id="swift-284-0201-line-32" n="32">Take the three strongest of his broken Planks,</l><l xml:id="swift-284-0201-line-33" n="33">Fix them on high, conspicuous to be seen,</l><l xml:id="swift-284-0201-line-34" n="34">Form'd like the Triple-Tree near <note place="foot">·<hi rend="italics">Where the </hi>Dublin<hi rend="italics"> Gallows stands</hi>.</note> <hi rend="italics">Stephen</hi>'s-Green;</l><l xml:id="swift-284-0201-line-35" n="35">And, when we view it thus, with Thief at End on't,</l><l xml:id="swift-284-0201-line-36" n="36">We'll cry; look, here's our <hi rend="italics">Boat</hi>, and there's the <hi rend="italics">Pendent</hi>.</l><l rend="center" xml:id="swift-284-0201-line-37" n="37"><lb/>The EPITAPH.__<hi rend="display-initial">H<hi rend="italics">ERE lies Judge </hi>Boat<hi rend="italics"> within a Coffin.</hi></hi></l><l xml:id="swift-284-0201-line-38" n="38">Pray gentle-Folks forbear your Scoffing.</l><l xml:id="swift-284-0201-line-39" n="39">Pray gentle-Folks forbear your Scoffing.A </l>Boat<hi rend="italics"> a Judge! yes, where's the Blunder?</hi><l xml:id="swift-284-0201-line-40" n="40"> a Judge! yes, where's the Blunder?A </l>wooden<hi rend="italics"> Judge is no such Wonder.</hi><l xml:id="swift-284-0201-line-41" n="41">And in his Robes, you must agree,</l><l xml:id="swift-284-0201-line-42" n="42">And in his Robes, you must agree,No </l>Boat<hi rend="italics"> was better </hi>deckt<hi rend="italics"> than He.</hi><l xml:id="swift-284-0201-line-43" n="43">'Tis needless to describe him fuller.</l><l xml:id="swift-284-0201-line-44" n="44">'Tis needless to describe him fuller.In short, he was an able</l> <note place="foot">·Query, <hi rend="italics">Whether the Author meant </hi>Scholar<hi rend="italics">, and wilfully mistook</hi>?.</note> Sculler.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

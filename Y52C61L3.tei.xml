@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  LOVE POEM<lb/>  FROM A<lb/>  P<hi rend="small-caps">HYSICIAN</hi> to his M<hi rend="small-caps">ISTRESS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 9AP09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y52C61L3">
+          <head type="note" n="1" xml:id="spp-Y52C61L3-headnote-1">
+            <lg n="1" xml:id="spp-Y52C61L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y52C61L3-headnote-1-line-group-1-line-1">Written at L<hi rend="small-caps">ONDON</hi> in the year 1738.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y52C61L3-headnote-2">
+            <lg n="1" xml:id="spp-Y52C61L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y52C61L3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y52C61L3-headnote-3">
+            <lg n="1" xml:id="spp-Y52C61L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y52C61L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y52C61L3-line-1" n="1"><hi rend="display-initial">B</hi>Y poets we are well assur'd,</l>
+            <l xml:id="swift-Y52C61L3-line-2" n="2">That love, alas! can ne'er be cur'd;</l>
+            <l xml:id="swift-Y52C61L3-line-3" n="3">A complicated heap of ills,</l>
+            <l xml:id="swift-Y52C61L3-line-4" n="4">Despising boluses and pills.</l>
+            <l xml:id="swift-Y52C61L3-line-5" n="5">Ah! Chloe, this I find is true,</l>
+            <l xml:id="swift-Y52C61L3-line-6" n="6">Since first I gave my heart to you.</l>
+            <l xml:id="swift-Y52C61L3-line-7" n="7">Now, by your cruelty hard-bound</l>
+            <l xml:id="swift-Y52C61L3-line-8" n="8">I strain my guts, my colon wound:</l>
+            <l xml:id="swift-Y52C61L3-line-9" n="9">Now, jealousy my grumbling tripes</l>
+            <l xml:id="swift-Y52C61L3-line-10" n="10">Assaults, with grating, grinding gripes</l>
+            <l xml:id="swift-Y52C61L3-line-11" n="11">When pity in those eyes I view,</l>
+            <l xml:id="swift-Y52C61L3-line-12" n="12">My bowels wambling make me spew.</l>
+            <l xml:id="swift-Y52C61L3-line-13" n="13">When I an am'rous kiss design'd,</l>
+            <l xml:id="swift-Y52C61L3-line-14" n="14">I belch'd a hurrican of wind.</l>
+            <l xml:id="swift-Y52C61L3-line-15" n="15">Once, you a gentle sigh let fall,</l>
+            <l xml:id="swift-Y52C61L3-line-16" n="16">Remember how I suck'd it all;</l>
+            <l xml:id="swift-Y52C61L3-line-17" n="17">What colic pangs from thence I felt,</l>
+            <l xml:id="swift-Y52C61L3-line-18" n="18">Had you but known, your heart would melt:</l>
+            <l xml:id="swift-Y52C61L3-line-19" n="19">Like ruffling winds in caverns pent,</l>
+            <l xml:id="swift-Y52C61L3-line-20" n="20">Till nature pointed out a vent.</l>
+            <l xml:id="swift-Y52C61L3-line-21" n="21">How have you torn my heart to pieces,</l>
+            <l xml:id="swift-Y52C61L3-line-22" n="22">With maggots, humours, and caprices!</l>
+            <l xml:id="swift-Y52C61L3-line-23" n="23">By which I got the hemorrhoids,</l>
+            <l xml:id="swift-Y52C61L3-line-24" n="24">And loathsome worms my anus voids.</l>
+            <l xml:id="swift-Y52C61L3-line-25" n="25">When'er I hear a rival nam'd,</l>
+            <l xml:id="swift-Y52C61L3-line-26" n="26">I feel my body all inflam·d;</l>
+            <l xml:id="swift-Y52C61L3-line-27" n="27">Which breaking out in boils and blanes,</l>
+            <l xml:id="swift-Y52C61L3-line-28" n="28">With yellow filth my linen stains.</l>
+            <l xml:id="swift-Y52C61L3-line-29" n="29">Or, parch'd with unextinguish'd thirst,</l>
+            <l xml:id="swift-Y52C61L3-line-30" n="30">Small beer I guzzle till I burst:</l>
+            <l xml:id="swift-Y52C61L3-line-31" n="31">And then I drag a bloated corpus</l>
+            <l xml:id="swift-Y52C61L3-line-32" n="32">Swell'd with a dropsy like a porpus;</l>
+            <l xml:id="swift-Y52C61L3-line-33" n="33">When, if I cannot purge or stale,</l>
+            <l xml:id="swift-Y52C61L3-line-34" n="34">I must be tapp'd to fill a pail.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

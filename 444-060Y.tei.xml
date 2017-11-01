@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Journal<lb/>  of A<lb/>  Modern Lady.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 10FE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="444-060Y">
+          <head type="note" n="1" xml:id="spp-444-060Y-headnote-1">
+            <lg n="1" xml:id="spp-444-060Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-444-060Y-headnote-1-line-group-1-line-1">BY D<hi rend="small-caps">EAN </hi>S<hi rend="small-caps">WIFT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-444-060Y-headnote-2">
+            <lg n="1" xml:id="spp-444-060Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-444-060Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-444-060Y-headnote-3">
+            <lg n="1" xml:id="spp-444-060Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-444-060Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-444-060Y-line-1" n="1">It was a most unfriendly Part</l>
+            <l xml:id="swift-444-060Y-line-2" n="2">In you who ought to know my Heart</l>
+            <l xml:id="swift-444-060Y-line-3" n="3">So well aquainted with my Zeal</l>
+            <l xml:id="swift-444-060Y-line-4" n="4">for all the Female Common Weal</l>
+            <l xml:id="swift-444-060Y-line-5" n="5">How could it come into your Mind</l>
+            <l xml:id="swift-444-060Y-line-6" n="6">To pitch on me of all Mankind</l>
+            <l xml:id="swift-444-060Y-line-7" n="7">Against the Sex to write a Satyr</l>
+            <l xml:id="swift-444-060Y-line-8" n="8">And brand me for a Woman Hater</l>
+            <l xml:id="swift-444-060Y-line-9" n="9">On Me who think them all so fair</l>
+            <l xml:id="swift-444-060Y-line-10" n="10">They rival Venus to an hair</l>
+            <l xml:id="swift-444-060Y-line-11" n="11">Their Virtues never ceased to Sing</l>
+            <l xml:id="swift-444-060Y-line-12" n="12">Since first I learn'd to tune a String</l>
+            <l xml:id="swift-444-060Y-line-13" n="13">Methinks I hear the Ladies Cry</l>
+            <l xml:id="swift-444-060Y-line-14" n="14">Will he his Character bely?</l>
+            <l xml:id="swift-444-060Y-line-15" n="15">Must never our Misfortunes end?</l>
+            <l xml:id="swift-444-060Y-line-16" n="16">And have we lost our only Friend?</l>
+            <l xml:id="swift-444-060Y-line-17" n="17">Ah Lovely Nymphs remove your Fears</l>
+            <l xml:id="swift-444-060Y-line-18" n="18">No more let fall those precious Tears</l>
+            <l xml:id="swift-444-060Y-line-19" n="19">Sooner shall &amp;c<hi rend="superscript">a</hi></l>
+            <l rend="center" xml:id="swift-444-060Y-line-20" n="20"><lb/>(here some lines are omitted)__The Hound be hunted by the Hare</l>
+            <l xml:id="swift-444-060Y-line-21" n="21">Then I turn Rebel to the Fair.</l>
+            <l xml:id="swift-444-060Y-line-22" n="22">'Twas you engaged me first to Write</l>
+            <l xml:id="swift-444-060Y-line-23" n="23">And Gave the Subject out of Spite</l>
+            <l xml:id="swift-444-060Y-line-24" n="24">
+              <hi rend="printed-writing">The journal of a modern Dame</hi>
+            </l>
+            <l xml:id="swift-444-060Y-line-25" n="25">Is by my Promise what you Claim</l>
+            <l xml:id="swift-444-060Y-line-26" n="26">My word is past I must Submit</l>
+            <l xml:id="swift-444-060Y-line-27" n="27">And yet perhaps you may be bit</l>
+            <l xml:id="swift-444-060Y-line-28" n="28">I but transcribe for not a Line</l>
+            <l xml:id="swift-444-060Y-line-29" n="29">Of all this Satyr shall be mine</l>
+            <l xml:id="swift-444-060Y-line-30" n="30">Compell'd by you to tag in Rhimes</l>
+            <l xml:id="swift-444-060Y-line-31" n="31">The Common Slanders of the Times</l>
+            <l xml:id="swift-444-060Y-line-32" n="32">Of Modern Times the Guilt is Yours</l>
+            <l xml:id="swift-444-060Y-line-33" n="33">And me my Innocence Secures.</l>
+            <l xml:id="swift-444-060Y-line-34" n="34">Unwilling Muse begin thy Lay</l>
+            <l xml:id="swift-444-060Y-line-35" n="35">The Annals of a Female Day.</l>
+            <l xml:id="swift-444-060Y-line-36" n="36"><lb/>By nature turn'd to play the Rake-well</l>
+            <l xml:id="swift-444-060Y-line-37" n="37">(As we Shall Show you in the Sequel)</l>
+            <l xml:id="swift-444-060Y-line-38" n="38">The M<hi rend="small-caps">ODERN</hi> Dame is wak'd by Noon</l>
+            <l xml:id="swift-444-060Y-line-39" n="39">Some Authors Say not quite so Soon</l>
+            <l xml:id="swift-444-060Y-line-40" n="40">Because tho' Sore against her Will</l>
+            <l xml:id="swift-444-060Y-line-41" n="41">She Sat all Night up at <hi rend="large-writing">Quadrill</hi></l>
+            <l xml:id="swift-444-060Y-line-42" n="42">She Stretches Gapes unglues her Eyes</l>
+            <l xml:id="swift-444-060Y-line-43" n="43">And asks if it be Time to rise</l>
+            <l xml:id="swift-444-060Y-line-44" n="44">Of Head-ach and the Spleen complains</l>
+            <l xml:id="swift-444-060Y-line-45" n="45">And then to cool her heated Brains</l>
+            <l xml:id="swift-444-060Y-line-46" n="46">Her Night·Gown and her Slippers brought her</l>
+            <l xml:id="swift-444-060Y-line-47" n="47">Takes a large Dram of <hi rend="large-writing">Citron Water</hi></l>
+            <l xml:id="swift-444-060Y-line-48" n="48">Then to the Glass, “And Betty pray</l>
+            <l xml:id="swift-444-060Y-line-49" n="49">“Dont I look frightfully to Day</l>
+            <l xml:id="swift-444-060Y-line-50" n="50">“But was it not confounded hard</l>
+            <l xml:id="swift-444-060Y-line-51" n="51">“Well if I ever touch a <hi rend="large-writing">Card</hi></l>
+            <l xml:id="swift-444-060Y-line-52" n="52">“Four <hi rend="large-writing">Mattadores</hi> and loose <hi rend="large-writing">Codill</hi></l>
+            <l xml:id="swift-444-060Y-line-53" n="53">“Depend upon't I never will</l>
+            <l xml:id="swift-444-060Y-line-54" n="54">“But run to T<hi rend="small-caps">OM</hi> and let him fix</l>
+            <l xml:id="swift-444-060Y-line-55" n="55">“The Ladies here to Night by six</l>
+            <l xml:id="swift-444-060Y-line-56" n="56">Madam the GoldSmith waits below</l>
+            <l xml:id="swift-444-060Y-line-57" n="57">He says his Business is to know</l>
+            <l xml:id="swift-444-060Y-line-58" n="58">If you'll redeem the Silver Cup</l>
+            <l xml:id="swift-444-060Y-line-59" n="59">You pawn'd to him── first show him up.</l>
+            <l xml:id="swift-444-060Y-line-60" n="60">Your Dressing Plate he'll be Content</l>
+            <l xml:id="swift-444-060Y-line-61" n="61">To take at Interest <hi rend="large-writing">Cent</hi> p<hi rend="superscript">r</hi> <hi rend="large-writing">Cent</hi></l>
+            <l xml:id="swift-444-060Y-line-62" n="62">And Madam there's my Lady <hi rend="large-writing">Spade</hi></l>
+            <l xml:id="swift-444-060Y-line-63" n="63">Has Sent this Letter by her Maid</l>
+            <l xml:id="swift-444-060Y-line-64" n="64">“Well I remember what She won</l>
+            <l xml:id="swift-444-060Y-line-65" n="65">“And does She send so Soon to dun?</l>
+            <l xml:id="swift-444-060Y-line-66" n="66">“Here carry down those ten Pistoles</l>
+            <l xml:id="swift-444-060Y-line-67" n="67">“My Husband left to pay for Coals</l>
+            <l xml:id="swift-444-060Y-line-68" n="68">“I thak my Stars that they are light</l>
+            <l xml:id="swift-444-060Y-line-69" n="69">“And I shall have revenge to Night.</l>
+            <l xml:id="swift-444-060Y-line-70" n="70"><lb/>Now loi'tring oe'r her Tea and Cream</l>
+            <l xml:id="swift-444-060Y-line-71" n="71">She enters on her usual Theme</l>
+            <l xml:id="swift-444-060Y-line-72" n="72">Her last Night's ill Success repeats</l>
+            <l xml:id="swift-444-060Y-line-73" n="73">Calls Lady <hi rend="large-writing">Spade</hi> a thousand Cheats</l>
+            <l xml:id="swift-444-060Y-line-74" n="74">She Slipt <hi rend="large-writing">Spadillo</hi> in her Breast</l>
+            <l xml:id="swift-444-060Y-line-75" n="75">Then thought to turn it to a jest</l>
+            <l xml:id="swift-444-060Y-line-76" n="76">There's M<hi rend="superscript">rs</hi> <hi rend="large-writing">Cut</hi> and She combine</l>
+            <l xml:id="swift-444-060Y-line-77" n="77">And to each other give the Sign</l>
+            <l xml:id="swift-444-060Y-line-78" n="78">Through every Game pursues her Tale</l>
+            <l xml:id="swift-444-060Y-line-79" n="79">Like Hunters oe'r their Evening Ale.</l>
+            <l xml:id="swift-444-060Y-line-80" n="80"><lb/>Now to another Scene give place</l>
+            <l xml:id="swift-444-060Y-line-81" n="81">Enter the Folkes with Silk and Lace</l>
+            <l xml:id="swift-444-060Y-line-82" n="82">Fresh Matter for a World of Chat</l>
+            <l xml:id="swift-444-060Y-line-83" n="83">Right Indian this Right Mecklin that</l>
+            <l xml:id="swift-444-060Y-line-84" n="84">Observe this Pattern there's a Stuff</l>
+            <l xml:id="swift-444-060Y-line-85" n="85">I can have Customers enough</l>
+            <l xml:id="swift-444-060Y-line-86" n="86">Dear Madam you are Grown so hard</l>
+            <l xml:id="swift-444-060Y-line-87" n="87">This Lace is worth Twelve Pounds a Yard</l>
+            <l xml:id="swift-444-060Y-line-88" n="88">Madam if there be truth in Man</l>
+            <l xml:id="swift-444-060Y-line-89" n="89">I never Sold so cheap a Fan.</l>
+            <l xml:id="swift-444-060Y-line-90" n="90"><lb/>This Business of importance oe'r</l>
+            <l xml:id="swift-444-060Y-line-91" n="91">And Madam almost drest by Four</l>
+            <l xml:id="swift-444-060Y-line-92" n="92">The Footman in his usual Phrase</l>
+            <l xml:id="swift-444-060Y-line-93" n="93">Comes up with Madam Dinner Stays</l>
+            <l xml:id="swift-444-060Y-line-94" n="94">She answers in her usual Stile</l>
+            <l xml:id="swift-444-060Y-line-95" n="95">The Cook must keep it back a while</l>
+            <l xml:id="swift-444-060Y-line-96" n="96">I never can have Time to dress</l>
+            <l xml:id="swift-444-060Y-line-97" n="97">No Woman living takes up less</l>
+            <l xml:id="swift-444-060Y-line-98" n="98">I'm hurry'd so it makes me Sick</l>
+            <l xml:id="swift-444-060Y-line-99" n="99">I wish the Dinner at old Nick.</l>
+            <l xml:id="swift-444-060Y-line-100" n="100">At Table now She acts her Part</l>
+            <l xml:id="swift-444-060Y-line-101" n="101">Has all the Dinner Cant by Heart</l>
+            <l xml:id="swift-444-060Y-line-102" n="102">“I thought we were to dine alone</l>
+            <l xml:id="swift-444-060Y-line-103" n="103">“My Dear for sure if I had known</l>
+            <l xml:id="swift-444-060Y-line-104" n="104">“This Company would come to day──────</l>
+            <l xml:id="swift-444-060Y-line-105" n="105">“But realy tis my Husband's Way;</l>
+            <l xml:id="swift-444-060Y-line-106" n="106">“He's so unkind he never Sends</l>
+            <l xml:id="swift-444-060Y-line-107" n="107">“To tell when he invites his Friends</l>
+            <l xml:id="swift-444-060Y-line-108" n="108">“I wish ye may but have enough</l>
+            <l xml:id="swift-444-060Y-line-109" n="109">And while with all this paltry Stuff</l>
+            <l xml:id="swift-444-060Y-line-110" n="110">She Sits tormenting every Guest</l>
+            <l xml:id="swift-444-060Y-line-111" n="111">Nor Gives her Tounge one moments Rest</l>
+            <l xml:id="swift-444-060Y-line-112" n="112">In Phrases Batter'd Stale and Trite</l>
+            <l xml:id="swift-444-060Y-line-113" n="113">Which M<hi rend="small-caps">ODERN </hi>L<hi rend="small-caps">ADIES</hi> call polite</l>
+            <l xml:id="swift-444-060Y-line-114" n="114">You See the Booby Husband Sit</l>
+            <l xml:id="swift-444-060Y-line-115" n="115">In admiration of her Wit.</l>
+            <l xml:id="swift-444-060Y-line-116" n="116"><lb/>But let me now a while Survey</l>
+            <l xml:id="swift-444-060Y-line-117" n="117">Our Madam at her Evening Tea</l>
+            <l xml:id="swift-444-060Y-line-118" n="118">Surrounded with her Noisy Clans</l>
+            <l xml:id="swift-444-060Y-line-119" n="119">Of P<hi rend="small-caps">RUDES, </hi>C<hi rend="small-caps">OQUETS</hi> and <hi rend="small-caps">HARRIDANS</hi>.</l>
+            <l xml:id="swift-444-060Y-line-120" n="120">When frighted at the Clamerous Crew</l>
+            <l xml:id="swift-444-060Y-line-121" n="121">Away the God of S<hi rend="small-caps">ILENCE</hi> flew</l>
+            <l xml:id="swift-444-060Y-line-122" n="122">And fair D<hi rend="small-caps">ISCRETION</hi> left the Place</l>
+            <l xml:id="swift-444-060Y-line-123" n="123">And M<hi rend="small-caps">ODESTY</hi> with blushing Face.</l>
+            <l xml:id="swift-444-060Y-line-124" n="124">Now enters over weening P<hi rend="small-caps">RIDE</hi></l>
+            <l xml:id="swift-444-060Y-line-125" n="125">And S<hi rend="small-caps">CANDAL</hi> ever Gaping Wide</l>
+            <l xml:id="swift-444-060Y-line-126" n="126">H<hi rend="small-caps">YPOCRISY</hi> with Frown Severe</l>
+            <l xml:id="swift-444-060Y-line-127" n="127">S<hi rend="small-caps">CURRILITY</hi> with Gibing Air</l>
+            <l xml:id="swift-444-060Y-line-128" n="128">Rude L<hi rend="small-caps">AUGHTER</hi> Seeming like to burst</l>
+            <l xml:id="swift-444-060Y-line-129" n="129">And M<hi rend="small-caps">ALICE</hi> ever judging Worst</l>
+            <l xml:id="swift-444-060Y-line-130" n="130">And V<hi rend="small-caps">ANITY</hi> with Pocket·Glass</l>
+            <l xml:id="swift-444-060Y-line-131" n="131">And I<hi rend="small-caps">MPUDENCE</hi> with Face of Brass</l>
+            <l xml:id="swift-444-060Y-line-132" n="132">And Studied A<hi rend="small-caps">FFECTATION</hi> Came</l>
+            <l xml:id="swift-444-060Y-line-133" n="133">Each Limb and Feature out of Frame.</l>
+            <l xml:id="swift-444-060Y-line-134" n="134">While I<hi rend="small-caps">GNORANCE</hi> with Brain in Lead</l>
+            <l xml:id="swift-444-060Y-line-135" n="135">Flew hovering o'er each Female head.</l>
+            <l xml:id="swift-444-060Y-line-136" n="136">Why need I ask of you my Muse</l>
+            <l xml:id="swift-444-060Y-line-137" n="137">A hundred Tounges as Poets Use</l>
+            <l xml:id="swift-444-060Y-line-138" n="138">When to give every Dame her due</l>
+            <l xml:id="swift-444-060Y-line-139" n="139">A hundred Thousand were too few</l>
+            <l xml:id="swift-444-060Y-line-140" n="140">Or how Shall I alas relate</l>
+            <l xml:id="swift-444-060Y-line-141" n="141">The Sum of all their Senseless Prate</l>
+            <l xml:id="swift-444-060Y-line-142" n="142">Their Innuendo's Hints and Slanders</l>
+            <l xml:id="swift-444-060Y-line-143" n="143">Their Meanings lewd and double 'Entendres.</l>
+            <l xml:id="swift-444-060Y-line-144" n="144">Now comes the General Scandal Charge</l>
+            <l xml:id="swift-444-060Y-line-145" n="145">What Some invent the Rest enlarge</l>
+            <l xml:id="swift-444-060Y-line-146" n="146">And Madam, “if it be a Lye</l>
+            <l xml:id="swift-444-060Y-line-147" n="147">“You have the Tale as cheap as I</l>
+            <l xml:id="swift-444-060Y-line-148" n="148">“I must conceal my Author's Name</l>
+            <l xml:id="swift-444-060Y-line-149" n="149">“But now 'tis known to common Fame.</l>
+            <l xml:id="swift-444-060Y-line-150" n="150"><lb/>Say foolish Females old and blind</l>
+            <l xml:id="swift-444-060Y-line-151" n="151">Say by what fatal Turn of Mind</l>
+            <l xml:id="swift-444-060Y-line-152" n="152">Are you in Vices most Severe</l>
+            <l xml:id="swift-444-060Y-line-153" n="153">Wherein yourselves have Greatest Share?</l>
+            <l xml:id="swift-444-060Y-line-154" n="154">Thus every Fool herself deludes</l>
+            <l xml:id="swift-444-060Y-line-155" n="155">The Prudes condemn the absent Prudes</l>
+            <l xml:id="swift-444-060Y-line-156" n="156">M<hi rend="small-caps">OPSA</hi> who Stinks her Spouse to Death</l>
+            <l xml:id="swift-444-060Y-line-157" n="157">Accuses C<hi rend="small-caps">HLOE<hi rend="superscript">'S</hi> tainted Breath</hi></l>
+            <l xml:id="swift-444-060Y-line-158" n="158">H<hi rend="small-caps">IRCINA</hi> rank with Sweat presumes</l>
+            <l xml:id="swift-444-060Y-line-159" n="159">To Censure P<hi rend="small-caps">HILLIS</hi> for Perfumes</l>
+            <l xml:id="swift-444-060Y-line-160" n="160">While Crooked C<hi rend="small-caps">YNTHIA</hi> Swearing Says</l>
+            <l xml:id="swift-444-060Y-line-161" n="161">That F<hi rend="small-caps">LORIMEL</hi> wears Iron Stays</l>
+            <l xml:id="swift-444-060Y-line-162" n="162">C<hi rend="small-caps">HLOE</hi> of every Coxcomb jealous</l>
+            <l xml:id="swift-444-060Y-line-163" n="163">Admires how Girls can talk with Fellows</l>
+            <l xml:id="swift-444-060Y-line-164" n="164">And full of Indignation frets</l>
+            <l xml:id="swift-444-060Y-line-165" n="165">That Women Should be Such Coquets</l>
+            <l xml:id="swift-444-060Y-line-166" n="166">I<hi rend="small-caps">RIS</hi> for Scandal So notorious</l>
+            <l xml:id="swift-444-060Y-line-167" n="167">Crys “Lord the World is so Censorious</l>
+            <l xml:id="swift-444-060Y-line-168" n="168">And R<hi rend="small-caps">UFA</hi> with her Combs of Lead</l>
+            <l xml:id="swift-444-060Y-line-169" n="169">Admires that S<hi rend="small-caps">APPHO<hi rend="superscript">'S</hi> hair is Red</hi></l>
+            <l xml:id="swift-444-060Y-line-170" n="170">A<hi rend="small-caps">URA</hi> whose Tounge you hear a Mile hence</l>
+            <l xml:id="swift-444-060Y-line-171" n="171">Talks half a Day in Praise of Silence</l>
+            <l xml:id="swift-444-060Y-line-172" n="172">And S<hi rend="small-caps">YLVIA</hi> full of Inward Guilt</l>
+            <l xml:id="swift-444-060Y-line-173" n="173">Calls A<hi rend="small-caps">MORET</hi> an arrant Jilt.</l>
+            <l xml:id="swift-444-060Y-line-174" n="174"><lb/>Now Voices over Voices rise</l>
+            <l xml:id="swift-444-060Y-line-175" n="175">While each to be the Loudest vies</l>
+            <l xml:id="swift-444-060Y-line-176" n="176">They contradict affirm dispute</l>
+            <l xml:id="swift-444-060Y-line-177" n="177">No Single Tounge one Moment mute</l>
+            <l xml:id="swift-444-060Y-line-178" n="178">All mad to Speak and none to hearken</l>
+            <l xml:id="swift-444-060Y-line-179" n="179">They Set the very Lap-Dog barking</l>
+            <l xml:id="swift-444-060Y-line-180" n="180">Their Chattering makes a Louder Din</l>
+            <l xml:id="swift-444-060Y-line-181" n="181">Than Fish-Wives o'er a Cup of Gin</l>
+            <l xml:id="swift-444-060Y-line-182" n="182">Not School Boys at a barring out</l>
+            <l xml:id="swift-444-060Y-line-183" n="183">Rais'd ever Such incessant Rout</l>
+            <l xml:id="swift-444-060Y-line-184" n="184">The Tumbling Particles of Matter</l>
+            <l xml:id="swift-444-060Y-line-185" n="185">In Chaos made not half Such Clatter</l>
+            <l xml:id="swift-444-060Y-line-186" n="186">Far less the Rabble roar and Rail</l>
+            <l xml:id="swift-444-060Y-line-187" n="187">When \<hi rend="italics">del</hi>·Sour·<hi rend="italics">add</hi>·<hi rend="italics">above</hi>·drunk\ with Sour Election Ale.</l>
+            <l xml:id="swift-444-060Y-line-188" n="188">Nor do they trust their Tounge alone</l>
+            <l xml:id="swift-444-060Y-line-189" n="189">To Speak a Language of their own</l>
+            <l xml:id="swift-444-060Y-line-190" n="190">But read a Nod a Shrug a Look</l>
+            <l xml:id="swift-444-060Y-line-191" n="191">Far better than a Printed Book</l>
+            <l xml:id="swift-444-060Y-line-192" n="192">Convey a Libel in a Frown</l>
+            <l xml:id="swift-444-060Y-line-193" n="193">And Wink a Reputation down</l>
+            <l xml:id="swift-444-060Y-line-194" n="194">Or by the Tossing of a Fan</l>
+            <l xml:id="swift-444-060Y-line-195" n="195">Describe the Lady and the Man.</l>
+            <l xml:id="swift-444-060Y-line-196" n="196"><lb/>But See the Female Club disbands</l>
+            <l xml:id="swift-444-060Y-line-197" n="197">Each twenty Visits on her hands</l>
+            <l xml:id="swift-444-060Y-line-198" n="198">Now all alone Poor Madam Sits</l>
+            <l xml:id="swift-444-060Y-line-199" n="199">In vapours and Hysterick Fits</l>
+            <l xml:id="swift-444-060Y-line-200" n="200">“And was not Tom this Morning Sent</l>
+            <l xml:id="swift-444-060Y-line-201" n="201">“I'd lay my Life he never went</l>
+            <l xml:id="swift-444-060Y-line-202" n="202">“Past Six, and not a living Soul</l>
+            <l xml:id="swift-444-060Y-line-203" n="203">“I might by this have won a <hi rend="large-writing">Vole</hi>.</l>
+            <l xml:id="swift-444-060Y-line-204" n="204">A dreadful Interval of Spleen!</l>
+            <l xml:id="swift-444-060Y-line-205" n="205">How Shall we pass the Time between?</l>
+            <l xml:id="swift-444-060Y-line-206" n="206">“Here Betty let me take my Drops</l>
+            <l xml:id="swift-444-060Y-line-207" n="207">“And feel my Pulse I know it Stops</l>
+            <l xml:id="swift-444-060Y-line-208" n="208">“This Head of Mine, Lord how it Swims</l>
+            <l xml:id="swift-444-060Y-line-209" n="209">“And Such a pain in all my Limbs.</l>
+            <l xml:id="swift-444-060Y-line-210" n="210">Dear Madam try to take a Nap──────</l>
+            <l xml:id="swift-444-060Y-line-211" n="211">But now they hear the Footman's Rap,</l>
+            <l xml:id="swift-444-060Y-line-212" n="212">“Go Run and light the Ladies up</l>
+            <l xml:id="swift-444-060Y-line-213" n="213">“It must be One before we Sup.</l>
+            <l xml:id="swift-444-060Y-line-214" n="214">The Table Cards and Counters Set</l>
+            <l xml:id="swift-444-060Y-line-215" n="215">And all the Gamester Ladies met</l>
+            <l xml:id="swift-444-060Y-line-216" n="216">Her Spleen and Fits recover Quite</l>
+            <l xml:id="swift-444-060Y-line-217" n="217">And Madam can Sit up all Night:</l>
+            <l xml:id="swift-444-060Y-line-218" n="218">“Whoever comes I'm not within</l>
+            <l xml:id="swift-444-060Y-line-219" n="219">“Quadrill's the Word and So begin.</l>
+            <l xml:id="swift-444-060Y-line-220" n="220"><lb/>How can the Muse her Aid impart</l>
+            <l xml:id="swift-444-060Y-line-221" n="221">Unskill'd in all the Terms of Art</l>
+            <l xml:id="swift-444-060Y-line-222" n="222">Or in harmonious Numbers put</l>
+            <l xml:id="swift-444-060Y-line-223" n="223">The deal the shuffle and the Cut?</l>
+            <l xml:id="swift-444-060Y-line-224" n="224">All the Superfluous Wims relate</l>
+            <l xml:id="swift-444-060Y-line-225" n="225">That fill a Female Gamester's Pate</l>
+            <l xml:id="swift-444-060Y-line-226" n="226">What Agony of Soul She feels</l>
+            <l xml:id="swift-444-060Y-line-227" n="227">To See a Knave's inverted Heels</l>
+            <l xml:id="swift-444-060Y-line-228" n="228">She draws up Card by Card to find</l>
+            <l xml:id="swift-444-060Y-line-229" n="229">Good Fortune peeping from behind</l>
+            <l xml:id="swift-444-060Y-line-230" n="230">With panting Heart and earnest Eyes</l>
+            <l xml:id="swift-444-060Y-line-231" n="231">In hopes to See <hi rend="large-writing">Spadillo</hi> rise</l>
+            <l xml:id="swift-444-060Y-line-232" n="232">In vain alas her Hope is fled</l>
+            <l xml:id="swift-444-060Y-line-233" n="233">She draws an <hi rend="large-writing">Ace</hi> and Sees it Red</l>
+            <l xml:id="swift-444-060Y-line-234" n="234">In ready Counters never pays</l>
+            <l xml:id="swift-444-060Y-line-235" n="235">But pawns her Snuf-Box Rings and Keys</l>
+            <l xml:id="swift-444-060Y-line-236" n="236">Ever with Some new Fancy Struck</l>
+            <l xml:id="swift-444-060Y-line-237" n="237">Tries twenty Charms to mend her Luck</l>
+            <l xml:id="swift-444-060Y-line-238" n="238">“This Morning when the Parson came</l>
+            <l xml:id="swift-444-060Y-line-239" n="239">“I said I Should not win a Game</l>
+            <l xml:id="swift-444-060Y-line-240" n="240">“This odious Chair how came I Stuck in't</l>
+            <l xml:id="swift-444-060Y-line-241" n="241">“I think I never had Good Luck in't</l>
+            <l xml:id="swift-444-060Y-line-242" n="242">“I'm so uneasy in my Stays</l>
+            <l xml:id="swift-444-060Y-line-243" n="243">“Your Fan one Moment if you please,</l>
+            <l xml:id="swift-444-060Y-line-244" n="244">“Stand further Girl or get you gone</l>
+            <l xml:id="swift-444-060Y-line-245" n="245">“I always Loose when you look on</l>
+            <l xml:id="swift-444-060Y-line-246" n="246">Lord Madam you have lost <hi rend="large-writing">Codill</hi></l>
+            <l xml:id="swift-444-060Y-line-247" n="247">I never knew you play so ill.</l>
+            <l xml:id="swift-444-060Y-line-248" n="248">“Nay Madam give me leave to Say</l>
+            <l xml:id="swift-444-060Y-line-249" n="249">“'Twas you that threw the Trick away</l>
+            <l xml:id="swift-444-060Y-line-250" n="250">“When Lady Tricksey play'd a Four</l>
+            <l xml:id="swift-444-060Y-line-251" n="251">“You took it with a Matadore</l>
+            <l xml:id="swift-444-060Y-line-252" n="252">“I saw you touch your Wedding Ring</l>
+            <l xml:id="swift-444-060Y-line-253" n="253">“Before my lady call'd a King</l>
+            <l xml:id="swift-444-060Y-line-254" n="254">“You Spoke a word began with <hi rend="small-caps">H</hi></l>
+            <l xml:id="swift-444-060Y-line-255" n="255">“And I know whom you mean to teach</l>
+            <l xml:id="swift-444-060Y-line-256" n="256">“Because you held the King of Harts</l>
+            <l xml:id="swift-444-060Y-line-257" n="257">“Fie Madam leave these little Arts.</l>
+            <l xml:id="swift-444-060Y-line-258" n="258">That's not so bad as one who Rubs</l>
+            <l xml:id="swift-444-060Y-line-259" n="259">Her Chair to call the King of Clubs</l>
+            <l xml:id="swift-444-060Y-line-260" n="260">And makes her Partner understand</l>
+            <l xml:id="swift-444-060Y-line-261" n="261">A Matadore is in her Hand</l>
+            <l xml:id="swift-444-060Y-line-262" n="262">“Madam you have no cause to flounce</l>
+            <l xml:id="swift-444-060Y-line-263" n="263">“I Swear I See you twice renounce</l>
+            <l xml:id="swift-444-060Y-line-264" n="264">“And realy Madam I know when</l>
+            <l xml:id="swift-444-060Y-line-265" n="265">“Instead of Five you Scor'd up Ten</l>
+            <l xml:id="swift-444-060Y-line-266" n="266">“<hi rend="large-writing">Spadillo</hi> here has got a Mark</l>
+            <l xml:id="swift-444-060Y-line-267" n="267">“A Child may know it in the Dark</l>
+            <l xml:id="swift-444-060Y-line-268" n="268">“I Guess the Hand it Seldom fails</l>
+            <l xml:id="swift-444-060Y-line-269" n="269">“I wish Some Folkes would pare their Nails.</l>
+            <l xml:id="swift-444-060Y-line-270" n="270"><lb/>While thus they rail and Scold and Storm</l>
+            <l xml:id="swift-444-060Y-line-271" n="271">It passes but for Common Form</l>
+            <l xml:id="swift-444-060Y-line-272" n="272">Most Conscious that they all Speak true</l>
+            <l xml:id="swift-444-060Y-line-273" n="273">And give Each other but their Due,</l>
+            <l xml:id="swift-444-060Y-line-274" n="274">\<hi rend="italics">del</hi>·While·thus·they·rail·and·Scold\<lb/>It never interupts the Game</l>
+            <l xml:id="swift-444-060Y-line-275" n="275">Or makes them Sensible of Shame.</l>
+            <l xml:id="swift-444-060Y-line-276" n="276"><lb/>The Time too precious now to waste</l>
+            <l xml:id="swift-444-060Y-line-277" n="277">And Supper Gobbled down in haste</l>
+            <l xml:id="swift-444-060Y-line-278" n="278">Again afresh to Cards they run</l>
+            <l xml:id="swift-444-060Y-line-279" n="279">As if they had but just begun</l>
+            <l xml:id="swift-444-060Y-line-280" n="280">Yet shall I not again repeat</l>
+            <l xml:id="swift-444-060Y-line-281" n="281">How oft they Squabble Snarl and cheat</l>
+            <l xml:id="swift-444-060Y-line-282" n="282">At last they hear the Watchman knock</l>
+            <l xml:id="swift-444-060Y-line-283" n="283">A F<hi rend="small-caps">ROSTY </hi>M<hi rend="small-caps">ORN, </hi>P<hi rend="small-caps">AST </hi>F<hi rend="small-caps">OUR </hi>O<hi rend="small-caps">'CLOCK</hi></l>
+            <l xml:id="swift-444-060Y-line-284" n="284">The Chairman are not to be found</l>
+            <l xml:id="swift-444-060Y-line-285" n="285">“Come let us play the other Round.</l>
+            <l xml:id="swift-444-060Y-line-286" n="286"><lb/>Now all in haste they huddle on</l>
+            <l xml:id="swift-444-060Y-line-287" n="287">Their Hoods and Cloaks and get them gone</l>
+            <l xml:id="swift-444-060Y-line-288" n="288">But first the Winner must invite</l>
+            <l xml:id="swift-444-060Y-line-289" n="289">The Company To morrow Night.</l>
+            <l xml:id="swift-444-060Y-line-290" n="290"><lb/>Unlucky Madam left in Tears</l>
+            <l xml:id="swift-444-060Y-line-291" n="291">(Who now again Quadrill forswears)</l>
+            <l xml:id="swift-444-060Y-line-292" n="292">With empty Purse and aking head</l>
+            <l xml:id="swift-444-060Y-line-293" n="293">Steals to her Sleeping Spouse to Bed</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

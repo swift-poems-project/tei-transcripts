@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Elegy on \<hi rend="italics">underdotted</hi>·Demar·<hi rend="italics">add</hi>·Damer\, the Jrish Miser</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3AU11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="233-028D">
+          <head type="note" n="1" xml:id="spp-233-028D-headnote-1">
+            <lg n="1" xml:id="spp-233-028D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-233-028D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-233-028D-headnote-2">
+            <lg n="1" xml:id="spp-233-028D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-233-028D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-233-028D-headnote-3">
+            <lg n="1" xml:id="spp-233-028D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-233-028D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-233-028D-line-1" n="1">Know all men by these presents, Death the Tamer</l>
+            <l xml:id="swift-233-028D-line-2" n="2">By mortgage hath secured the corps of \<hi rend="italics">underdotted</hi>·Demar·<hi rend="italics">add</hi>·Damer\.</l>
+            <l xml:id="swift-233-028D-line-3" n="3">Nor can four Hundred Thousand Sterling pound</l>
+            <l xml:id="swift-233-028D-line-4" n="4">Redeem him from his prison under Ground</l>
+            <l xml:id="swift-233-028D-line-5" n="5">His Heirs might well, of \<hi rend="italics">add</hi>·all\ his wealth possest</l>
+            <l xml:id="swift-233-028D-line-6" n="6">Bestow to bury him an Jron Chest.</l>
+            <l xml:id="swift-233-028D-line-7" n="7">Pluto the God of wealth will Ioy to know</l>
+            <l xml:id="swift-233-028D-line-8" n="8">His faithfull Steward, in the shades below</l>
+            <l xml:id="swift-233-028D-line-9" n="9">He walked the streets and wore a Thread·bare Cloak</l>
+            <l xml:id="swift-233-028D-line-10" n="10">He dined and supped at charge of other folk</l>
+            <l xml:id="swift-233-028D-line-11" n="11">And by his looks had he held out his palms</l>
+            <l xml:id="swift-233-028D-line-12" n="12">He might be thought an object fitt for Alms</l>
+            <l xml:id="swift-233-028D-line-13" n="13">So, to y<hi rend="superscript">ẹ</hi> poor if he refus'd his pelf</l>
+            <l xml:id="swift-233-028D-line-14" n="14">He us'd 'em full as kindly as himself.</l>
+            <l rend="indent(1)" xml:id="swift-233-028D-line-15" n="15">Where'ere he went he never saw his Betters</l>
+            <l xml:id="swift-233-028D-line-16" n="16">Lords Knights and 'Squires were all his humble Debtors</l>
+            <l xml:id="swift-233-028D-line-17" n="17">And under hand &amp; Seal the Jrish Nation</l>
+            <l xml:id="swift-233-028D-line-18" n="18">Were forced to own to him their Obligation</l>
+            <l xml:id="swift-233-028D-line-19" n="19">He that could once have half a Kingdom bought</l>
+            <l xml:id="swift-233-028D-line-20" n="20">In half a Minute is not worth a Groat;</l>
+            <l xml:id="swift-233-028D-line-21" n="21">His Coffers from y<hi rend="superscript">ẹ</hi> Coffin could not save</l>
+            <l xml:id="swift-233-028D-line-22" n="22">Nor all his Jn'terst keep him from the Grave.</l>
+            <l xml:id="swift-233-028D-line-23" n="23">A Golden monument would not be right</l>
+            <l xml:id="swift-233-028D-line-24" n="24">Because we wish the Earth upon him light,</l>
+            <l rend="indent(1)" xml:id="swift-233-028D-line-25" n="25">Oh London Tavern! thou hast lost a Friend,</l>
+            <l xml:id="swift-233-028D-line-26" n="26">Tho' in thy walls he ne're did Farthing spend:</l>
+            <l xml:id="swift-233-028D-line-27" n="27">He touch'd the pence, when others touch'd y<hi rend="superscript">ẹ</hi> Pott.</l>
+            <l xml:id="swift-233-028D-line-28" n="28">The hand that sign'd y<hi rend="superscript">e</hi> mortgage paid the Shott.</l>
+            <l xml:id="swift-233-028D-line-29" n="29">Old as he was, no vulgar known Disease</l>
+            <l xml:id="swift-233-028D-line-30" n="30">On him could ever boast a power to seize</l>
+            <l xml:id="swift-233-028D-line-31" n="31">But as his Gold he weigh'd, grim death in spight</l>
+            <l xml:id="swift-233-028D-line-32" n="32">Cast in his dart, and made three moydores light;</l>
+            <l xml:id="swift-233-028D-line-33" n="33">And as he saw his darling Money fail,</l>
+            <l xml:id="swift-233-028D-line-34" n="34">Blew his last breath to sink the lighter \<hi rend="italics">blotting</hi>\Scale.</l>
+            <l rend="indent(1)" xml:id="swift-233-028D-line-35" n="35">He who so long was current, 'twould be strange</l>
+            <l xml:id="swift-233-028D-line-36" n="36">If he should now be cry'd down, since his change.</l>
+            <l rend="indent(1)" xml:id="swift-233-028D-line-37" n="37">The Sexton shall green sods on thee bestow</l>
+            <l xml:id="swift-233-028D-line-38" n="38">Alas the Sexton is thy Banker now──</l>
+            <l xml:id="swift-233-028D-line-39" n="39">A Dismall Banker must that banker be</l>
+            <l xml:id="swift-233-028D-line-40" n="40">Who gives no Bills, but of Mortality──────────</l>
+            <l rend="center" xml:id="swift-233-028D-line-41" n="41"><lb/>The Epitaph for \<hi rend="italics">underdotted</hi>·Demar·<hi rend="italics">add</hi>·Damer\_Beneath this verdant Hillock lies</l>
+            <l xml:id="swift-233-028D-line-42" n="42">\<hi rend="italics">underdotted</hi>·Demar·<hi rend="italics">add</hi>·Damer\ the Wealty and y<hi rend="superscript">e</hi> Wise.</l>
+            <l xml:id="swift-233-028D-line-43" n="43">om.</l>
+            <l xml:id="swift-233-028D-line-44" n="44">om.</l>
+            <l xml:id="swift-233-028D-line-45" n="45">His Heirs, that he might safely rest,</l>
+            <l xml:id="swift-233-028D-line-46" n="46">Have put his Carcass in a Chest.</l>
+            <l xml:id="swift-233-028D-line-47" n="47">The very Chest in which they say,</l>
+            <l xml:id="swift-233-028D-line-48" n="48">His other self, his Money, lay.</l>
+            <l xml:id="swift-233-028D-line-49" n="49">And if his Heirs continue kind</l>
+            <l xml:id="swift-233-028D-line-50" n="50">To that dear self he left behind,</l>
+            <l xml:id="swift-233-028D-line-51" n="51">I dare believe, that four in five</l>
+            <l xml:id="swift-233-028D-line-52" n="52">Will think his better Self alive</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

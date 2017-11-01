@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 21JL10, 27AU15, 16JL16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="824-530V">
+          <head type="note" n="1" xml:id="spp-824-530V-headnote-1">
+            <lg n="1" xml:id="spp-824-530V-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-824-530V-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-824-530V-headnote-2">
+            <lg n="1" xml:id="spp-824-530V-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-824-530V-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-824-530V-headnote-3">
+            <lg n="1" xml:id="spp-824-530V-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-824-530V-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-824-530V-line-1" n="1">'T·were better we were in our Graves</l>
+            <l xml:id="swift-824-530V-line-2" n="2">Than still continue \<hi rend="italics">del</hi>·slav\slaves to slaves</l>
+            <l xml:id="swift-824-530V-line-3" n="3">Such is the Anarchy at sea</l>
+            <l xml:id="swift-824-530V-line-4" n="4">Where fishes on \<hi rend="italics">del</hi>·the\each other \<hi rend="italics">del</hi>·Ar<hi rend="italics">???</hi> parts·<hi rend="italics">add</hi>·prey.\</l>
+            <l xml:id="swift-824-530V-line-5" n="5">\<hi rend="italics">del</hi>·a <hi rend="italics">????</hi>\ For every trout can make·/ as high rants</l>
+            <l xml:id="swift-824-530V-line-6" n="6">To his inferior as our Tyrants</l>
+            <l xml:id="swift-824-530V-line-7" n="7">\<hi rend="italics">del</hi>·But·<hi rend="italics">add</hi>·Thus\if a Gudgeon meets a roach</l>
+            <l xml:id="swift-824-530V-line-8" n="8">He dares not venture to approach</l>
+            <l xml:id="swift-824-530V-line-9" n="9">And swagger while the Coast is clar:</l>
+            <l xml:id="swift-824-530V-line-10" n="10">But if a Tyrant Pike appear</l>
+            <l xml:id="swift-824-530V-line-11" n="11">Away you see the Vassal scud</l>
+            <l xml:id="swift-824-530V-line-12" n="12">Or hide his coward \face·<hi rend="italics">alt·below</hi>·Snout\ in mud</l>
+            <l xml:id="swift-824-530V-line-13" n="13">\<hi rend="italics">del</hi>·Yet·<hi rend="italics">add</hi>·But\ still has impudence to rise</l>
+            <l xml:id="swift-824-530V-line-14" n="14">And like Domitian catches Flyes</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

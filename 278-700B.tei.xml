@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Countrey Life, part of<lb/>  a Summer spent at the House<lb/>  of George Rochfort Esq</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 28AU08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="278-700B">
+          <head type="note" n="1" xml:id="spp-278-700B-headnote-1">
+            <lg n="1" xml:id="spp-278-700B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-278-700B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-278-700B-headnote-2">
+            <lg n="1" xml:id="spp-278-700B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-278-700B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-278-700B-headnote-3">
+            <lg n="1" xml:id="spp-278-700B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-278-700B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-278-700B-line-1" n="1">Thalia tell in sober lays</l>
+            <l xml:id="swift-278-700B-line-2" n="2">How George, Nim, Dan Dean, pass their days.</l>
+            <l xml:id="swift-278-700B-line-3" n="3">om.</l>
+            <l xml:id="swift-278-700B-line-4" n="4">om.</l>
+            <l xml:id="swift-278-700B-line-5" n="5">om.</l>
+            <l xml:id="swift-278-700B-line-6" n="6">om.</l>
+            <l xml:id="swift-278-700B-line-7" n="7">Begin, my Muse: first from our bowers</l>
+            <l xml:id="swift-278-700B-line-8" n="8">We sally forth at diff'rent hours;</l>
+            <l xml:id="swift-278-700B-line-9" n="9">At seven the Dean in Nightgown drest</l>
+            <l xml:id="swift-278-700B-line-10" n="10">Goes round the House to wake the rest;</l>
+            <l xml:id="swift-278-700B-line-11" n="11">At Nine grave Nim &amp; George facetious</l>
+            <l xml:id="swift-278-700B-line-12" n="12">Go to the Dean to read Lucretious;</l>
+            <l xml:id="swift-278-700B-line-13" n="13">At ten My lady comes &amp; hectors:</l>
+            <l xml:id="swift-278-700B-line-14" n="14">And kisses George &amp; ends our lectures,</l>
+            <l xml:id="swift-278-700B-line-15" n="15">And when she has him by the neck fast,</l>
+            <l xml:id="swift-278-700B-line-16" n="16">Hauls him, &amp; scolds us down to breakfast</l>
+            <l xml:id="swift-278-700B-line-17" n="17">We squander there an hour or more,</l>
+            <l xml:id="swift-278-700B-line-18" n="18">And then all hands, boys, to the oar,</l>
+            <l xml:id="swift-278-700B-line-19" n="19">All heteroclite Dan except,</l>
+            <l xml:id="swift-278-700B-line-20" n="20">Who Neither time Nor order kept,</l>
+            <l xml:id="swift-278-700B-line-21" n="21">But, by peculiar whimsies drawn</l>
+            <l xml:id="swift-278-700B-line-22" n="22">Peeps in the pond to look for spawn;</l>
+            <l xml:id="swift-278-700B-line-23" n="23">Oe'r sees the work, or Dragon <note place="foot">·My Lord Chief Barons smaller boat.</note> rows</l>
+            <l xml:id="swift-278-700B-line-24" n="24">Or marrs a text, or mends his hose;</l>
+            <l xml:id="swift-278-700B-line-25" n="25">Or── but proceed we in our journal──</l>
+            <l xml:id="swift-278-700B-line-26" n="26">At two, or after, we return all:</l>
+            <l xml:id="swift-278-700B-line-27" n="27">From the four elements assembling,</l>
+            <l xml:id="swift-278-700B-line-28" n="28">Warn<hi rend="superscript">ḍ</hi> by the bell, all folks come trembling</l>
+            <l xml:id="swift-278-700B-line-29" n="29">From airy garrets some descend,</l>
+            <l xml:id="swift-278-700B-line-30" n="30">Some from the lake's remotest end:</l>
+            <l xml:id="swift-278-700B-line-31" n="31">My Lord &amp; Dean the fire forsake,</l>
+            <l xml:id="swift-278-700B-line-32" n="32">Dan leaves the earthly spade &amp; rake:</l>
+            <l xml:id="swift-278-700B-line-33" n="33">The loiterers quake, no corner hides them,</l>
+            <l xml:id="swift-278-700B-line-34" n="34">And Lady Betty soundly chides them.</l>
+            <l xml:id="swift-278-700B-line-35" n="35">Now water's brought, &amp; dinner<hi rend="superscript">s</hi> done,</l>
+            <l xml:id="swift-278-700B-line-36" n="36">With Church &amp; king, the lady's gone;</l>
+            <l xml:id="swift-278-700B-line-37" n="37">(Not reckon”g half an hour we pass</l>
+            <l xml:id="swift-278-700B-line-38" n="38">In talking o'er a moderate glass.)</l>
+            <l xml:id="swift-278-700B-line-39" n="39">Dan growing drowsy, like a thief</l>
+            <l xml:id="swift-278-700B-line-40" n="40">Steals off to dose away his beef;</l>
+            <l xml:id="swift-278-700B-line-41" n="41">And this must pass for reading Hammond──</l>
+            <l xml:id="swift-278-700B-line-42" n="42">While George &amp; Dean go to Backgammon</l>
+            <l xml:id="swift-278-700B-line-43" n="43">George, Nim, &amp; Dean set out at four,</l>
+            <l xml:id="swift-278-700B-line-44" n="44">And then, again, boys, to the oar.</l>
+            <l xml:id="swift-278-700B-line-45" n="45">But when the sun goes to the deep,</l>
+            <l xml:id="swift-278-700B-line-46" n="46">(Not to disturb him in his sleep,</l>
+            <l xml:id="swift-278-700B-line-47" n="47">Or make a rumbling o'er his head,</l>
+            <l xml:id="swift-278-700B-line-48" n="48">His candle out, &amp; he a-bed)</l>
+            <l xml:id="swift-278-700B-line-49" n="49">We watch his Motions to a minute,</l>
+            <l xml:id="swift-278-700B-line-50" n="50">And leave the flood, when he goes in it.</l>
+            <l xml:id="swift-278-700B-line-51" n="51">Now stinted in the short'ning day,</l>
+            <l xml:id="swift-278-700B-line-52" n="52">We go to pray'rs &amp; then to play</l>
+            <l xml:id="swift-278-700B-line-53" n="53">Till supper comes; &amp; after that</l>
+            <l xml:id="swift-278-700B-line-54" n="54">We sit an hour to drink &amp; chat.</l>
+            <l xml:id="swift-278-700B-line-55" n="55">'Tis late── the old &amp; younger pairs</l>
+            <l xml:id="swift-278-700B-line-56" n="56">By Adam <note place="foot">·\no note\.</note> lighted walk up stairs.</l>
+            <l xml:id="swift-278-700B-line-57" n="57">The weary Dean goes to his Chamber;</l>
+            <l xml:id="swift-278-700B-line-58" n="58">And Nim &amp; Dan to garret Clamber:</l>
+            <l xml:id="swift-278-700B-line-59" n="59">So, when the circle we have run,</l>
+            <l xml:id="swift-278-700B-line-60" n="60">The Curtain falls, &amp; all is done.</l>
+            <l xml:id="swift-278-700B-line-61" n="61">I might have mention<hi rend="superscript">ḍ</hi> several facts</l>
+            <l xml:id="swift-278-700B-line-62" n="62">Like episodes between the acts;</l>
+            <l xml:id="swift-278-700B-line-63" n="63">And tell who loses, &amp; who wins,</l>
+            <l xml:id="swift-278-700B-line-64" n="64">Who gets a cold, who breaks his shins;</l>
+            <l xml:id="swift-278-700B-line-65" n="65">How Dan caught nothing in his net,</l>
+            <l xml:id="swift-278-700B-line-66" n="66">And how the boat was overset:</l>
+            <l xml:id="swift-278-700B-line-67" n="67">For brevity I have retrench'd</l>
+            <l xml:id="swift-278-700B-line-68" n="68">How in the lake the Dean was dren'ch.</l>
+            <l xml:id="swift-278-700B-line-69" n="69">It would be an exploit to brag on,</l>
+            <l xml:id="swift-278-700B-line-70" n="70">How valiant George rode o'er the Dragon,</l>
+            <l xml:id="swift-278-700B-line-71" n="71">How steady in the storm he sat,</l>
+            <l xml:id="swift-278-700B-line-72" n="72">And saved his oar, but lost his hat:</l>
+            <l xml:id="swift-278-700B-line-73" n="73">How Nim (no hunter e'er could match him)</l>
+            <l xml:id="swift-278-700B-line-74" n="74">Still brings us hares, when he can catch 'em</l>
+            <l xml:id="swift-278-700B-line-75" n="75">How skillfully Dan mends his Nets;</l>
+            <l xml:id="swift-278-700B-line-76" n="76">How fortune fails him when he sets.</l>
+            <l xml:id="swift-278-700B-line-77" n="77">Or how the Dean delights to vex</l>
+            <l xml:id="swift-278-700B-line-78" n="78">The ladies, or lampoon the sex:</l>
+            <l xml:id="swift-278-700B-line-79" n="79">om.</l>
+            <l xml:id="swift-278-700B-line-80" n="80">om.</l>
+            <l xml:id="swift-278-700B-line-81" n="81">Or how our Neighbour lifts his Nose</l>
+            <l xml:id="swift-278-700B-line-82" n="82">To tell what every school-boy knows;</l>
+            <l xml:id="swift-278-700B-line-83" n="83">Then with his finger on his thumb</l>
+            <l xml:id="swift-278-700B-line-84" n="84">Explaining strikes opposers dumb:</l>
+            <l xml:id="swift-278-700B-line-85" n="85">Or how his wife, that female pedant,</l>
+            <l xml:id="swift-278-700B-line-86" n="86">(But now there need no more be said on't)</l>
+            <l xml:id="swift-278-700B-line-87" n="87">Shews all her secrets of housekeeping;</l>
+            <l xml:id="swift-278-700B-line-88" n="88">For candles how she trucks her dripping;</l>
+            <l xml:id="swift-278-700B-line-89" n="89">Was forced to send three miles for yeast</l>
+            <l xml:id="swift-278-700B-line-90" n="90">To brew her ale, &amp; raise her paste;</l>
+            <l xml:id="swift-278-700B-line-91" n="91">Tells everything that you can think of,</l>
+            <l xml:id="swift-278-700B-line-92" n="92">How she cured Tommy of the chin-cough</l>
+            <l xml:id="swift-278-700B-line-93" n="93">What gave her brats and pigs the measles</l>
+            <l xml:id="swift-278-700B-line-94" n="94">And how her doves were kill<hi rend="superscript">d</hi> by weasels,</l>
+            <l xml:id="swift-278-700B-line-95" n="95">How Iowler howl<hi rend="superscript">ḍ</hi> &amp; what a fright</l>
+            <l xml:id="swift-278-700B-line-96" n="96">She had with dreams the other night</l>
+            <l xml:id="swift-278-700B-line-97" n="97">But now since I have gone so far on</l>
+            <l xml:id="swift-278-700B-line-98" n="98">A word or two of Lord Chief baron<note place="foot">·Mr Rochforts father.</note></l>
+            <l xml:id="swift-278-700B-line-99" n="99">And tell how little weight he sets</l>
+            <l xml:id="swift-278-700B-line-100" n="100">On all whig papers &amp; gazettes;</l>
+            <l xml:id="swift-278-700B-line-101" n="101">But for the politics of Pue<note place="foot">·A Tory News writer.</note></l>
+            <l xml:id="swift-278-700B-line-102" n="102">Thinks every syllable is true.</l>
+            <l xml:id="swift-278-700B-line-103" n="103">And since he owns the king of Sweden</l>
+            <l xml:id="swift-278-700B-line-104" n="104">Is dead at last, without evading,</l>
+            <l xml:id="swift-278-700B-line-105" n="105">Now all his hopes are in the Czar:</l>
+            <l xml:id="swift-278-700B-line-106" n="106">“Why Muscovy is not so far;</l>
+            <l xml:id="swift-278-700B-line-107" n="107">“Down the black sea &amp; up the streights</l>
+            <l xml:id="swift-278-700B-line-108" n="108">“And in a month he·s at your gates;</l>
+            <l xml:id="swift-278-700B-line-109" n="109">“Perhaps from what the packet brings</l>
+            <l xml:id="swift-278-700B-line-110" n="110">“By Christmas we shall see strange things</l>
+            <l xml:id="swift-278-700B-line-111" n="111">Why should I tell of ponds &amp; drains,</l>
+            <l xml:id="swift-278-700B-line-112" n="112">What carps we met with for our pains</l>
+            <l xml:id="swift-278-700B-line-113" n="113">Of sparrows tamed &amp; Nuts innumerable</l>
+            <l xml:id="swift-278-700B-line-114" n="114">To Choak the Girls &amp; to consume a rabble?</l>
+            <l xml:id="swift-278-700B-line-115" n="115">But you who are a Scholar know</l>
+            <l xml:id="swift-278-700B-line-116" n="116">How transient all things are below,</l>
+            <l xml:id="swift-278-700B-line-117" n="117">How prone to Change is human life!</l>
+            <l xml:id="swift-278-700B-line-118" n="118">Last night arrived Clem <note place="foot">·M<hi rend="superscript">r</hi> Clem<hi rend="superscript">ṭ</hi> Barry.</note>  his Wife──</l>
+            <l xml:id="swift-278-700B-line-119" n="119">This grand event hath broke our measures;</l>
+            <l xml:id="swift-278-700B-line-120" n="120">Their reign began with cruel seizures.</l>
+            <l xml:id="swift-278-700B-line-121" n="121">The Dean must with his quilt supply</l>
+            <l xml:id="swift-278-700B-line-122" n="122">The bed on which those tyrants lie;</l>
+            <l xml:id="swift-278-700B-line-123" n="123">Nim lost his wig block, Dan his jordan</l>
+            <l xml:id="swift-278-700B-line-124" n="124">(My lady says she can't afford one;)</l>
+            <l xml:id="swift-278-700B-line-125" n="125">George is half scared out of his wits</l>
+            <l xml:id="swift-278-700B-line-126" n="126">For Clem gets all the dainty bits,</l>
+            <l xml:id="swift-278-700B-line-127" n="127">Henceforth expect a different survey</l>
+            <l xml:id="swift-278-700B-line-128" n="128">This house will soon turn topsy turvy</l>
+            <l xml:id="swift-278-700B-line-129" n="129">They talk of further alterations,</l>
+            <l xml:id="swift-278-700B-line-130" n="130">Which causes Many speculations.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

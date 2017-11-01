@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Last Speech and Dying Words<lb/>  of Daniel Jackson.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 16JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 23AP14, 10OC14, 25MY16; EMENDED JW 20AP17, 25AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X08-CWJS">
+          <head type="note" n="1" xml:id="spp-X08-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-X08-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X08-CWJS-headnote-1-line-group-1-line-1">My Dear Countrymen&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X08-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-X08-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X08-CWJS-headnote-2-line-group-1-line-1"><lb/><lb/><lb/>────────mediocribus esse poetis<lb/><lb/><lb/><lb/>Non Funes, non Gryps, non concessere columnæ.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X08-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-X08-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X08-CWJS-headnote-3-line-group-1-line-1">To give You a short Translation of these Two Lines From Horace's Art of Poetry, Which I have chosen for My Neck-Verse, before I proceed to My speech, You will find they fall Naturally into this sense.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-X08-CWJS-headnote-4">
+            <lg n="1" xml:id="spp-X08-CWJS-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X08-CWJS-headnote-4-line-group-1-line-1"><lb/><lb/><lb/>──────For Poets who can't tell Rocks from Stones<lb/><lb/><lb/><lb/>The Rope, the Hangman and the Gallows groans.</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-X08-CWJS-headnote-5">
+            <lg n="1" xml:id="spp-X08-CWJS-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X08-CWJS-headnote-5-line-group-1-line-1"><lb/>I was Born in a Fen near the Foot of Mount Parnassus, comonly call'd the Logwood Bog. My Mother whose name was <hi rend="large-writing">Stanza</hi> conceiv'd me in a Dream and was Deliver'd of me in her Sleep. Her Dream was that Apollo in y<hi rend="superscript">e</hi> Shape of a Gander with a Prodigious long Bill had Embrac'd Her, upon which she consulted the Oracle of Delphos, and the following Answer was made.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X08-CWJS-line-1" n="1">You'll have a Gozling, call it Dan,</l>
+            <l xml:id="swift-X08-CWJS-line-2" n="2">And do not make Your Goose a Swan.</l>
+            <l xml:id="swift-X08-CWJS-line-3" n="3">'Tis true because the God of Wit 3}</l>
+            <l xml:id="swift-X08-CWJS-line-4" n="4">To Get him in that shape thought fit</l>
+            <l xml:id="swift-X08-CWJS-line-5" n="5">He'll have some Glow-worm sparks of it.</l>
+            <l xml:id="swift-X08-CWJS-line-6" n="6">Venture You may to turn him Loose,</l>
+            <l xml:id="swift-X08-CWJS-line-7" n="7">But let it be to Another Goose.</l>
+            <l xml:id="swift-X08-CWJS-line-8" n="8">The Time will come, the Fatal time</l>
+            <l xml:id="swift-X08-CWJS-line-9" n="9">When he shall dare a Swan to Rhyme;</l>
+            <l xml:id="swift-X08-CWJS-line-10" n="10">The Tow'ring Swan comes sousing down</l>
+            <l xml:id="swift-X08-CWJS-line-11" n="11">And Breaks his Pinions, cracks his Crown:</l>
+            <l xml:id="swift-X08-CWJS-line-12" n="12">From that sad Time and sad Disaster</l>
+            <l xml:id="swift-X08-CWJS-line-13" n="13">He'll be a Lame crack'd Poetaster.</l>
+            <l xml:id="swift-X08-CWJS-line-14" n="14">At length for stealing Rhymes and Triplets</l>
+            <l xml:id="swift-X08-CWJS-line-15" n="15">He'll be Condemn'd to Hang in Giblets.</l>
+            <l rend="indent(1)" xml:id="swift-X08-CWJS-line-16" n="16"><lb/>You see now, Gentlemen, this is fatally and Litterally come to pass, for it was my Missfortune to Engage with that Pindar of the Times Tom: Sheridan Who did so confound me by sousing on My Crown, and did so batter my Pinions that I was forc'd to make use of Borrowed Wings, tho' my false Accusers have depos'd that I stole My Feathers from Hopkins, Sternhold, Silvester, Ogilby, Durfey, &amp; for which I now forgive them and all the World. I Dy a Poet, and this Ladder shall be my Gradus ad Parnassum, and I hope y<hi rend="superscript">e</hi> Criticks will have mercy on My Works.</l>
+            <l xml:id="swift-X08-CWJS-line-17" n="17"><lb/>Then Lo! I mount as slowly as I sung,</l>
+            <l xml:id="swift-X08-CWJS-line-18" n="18">And then I'll make a Line for ev'ry rung.</l>
+            <l xml:id="swift-X08-CWJS-line-19" n="19">There's Nine I see──The Muses too are Nine</l>
+            <l xml:id="swift-X08-CWJS-line-20" n="20">Who wou'd refuse to dye a Death like mine</l>
+            <l xml:id="swift-X08-CWJS-line-21" n="21">1 Thou first rung Clio, Celebrate My Name,</l>
+            <l xml:id="swift-X08-CWJS-line-22" n="22">2 Euterp' in Tragick Numbers do the same,</l>
+            <l xml:id="swift-X08-CWJS-line-23" n="23">3 This Rung I see Terpsicore, 's thy Flute;</l>
+            <l xml:id="swift-X08-CWJS-line-24" n="24">4 Erato sing me to the Gods── ah do't.</l>
+            <l xml:id="swift-X08-CWJS-line-25" n="25">5 Thalia don't make me a Comedy,</l>
+            <l xml:id="swift-X08-CWJS-line-26" n="26">6 Urania raise me toward the starry Sky.</l>
+            <l xml:id="swift-X08-CWJS-line-27" n="27">7 Calliope to Ballad strains descend  3}</l>
+            <l xml:id="swift-X08-CWJS-line-28" n="28">8 And Polymnia Tune them for y<hi rend="superscript">ṛ</hi> Friend,</l>
+            <l xml:id="swift-X08-CWJS-line-29" n="29">9 So shall Melpomene mourn My Fatal End.</l>
+            <l xml:id="swift-X08-CWJS-line-30" n="30">
+              <space><hi rend="large-writing">Poor Dan: Jackson</hi>/hi&gt;</space>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

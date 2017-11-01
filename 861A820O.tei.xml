@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="underlined">On a Window in Lambhith House Gallerie</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 9JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="861A820O">
+          <head type="note" n="1" xml:id="spp-861A820O-headnote-1">
+            <lg n="1" xml:id="spp-861A820O-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-861A820O-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-861A820O-headnote-2">
+            <lg n="1" xml:id="spp-861A820O-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-861A820O-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-861A820O-headnote-3">
+            <lg n="1" xml:id="spp-861A820O-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-861A820O-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-861A820O-line-1" n="1">Frail Glass, thou bear'st \<hi rend="italics">???</hi>\ Name, as well as I:</l>
+            <l xml:id="swift-861A820O-line-2" n="2">And no Man knows, in w<hi rend="superscript">ch</hi> it first shall die.<lb/><space><hi rend="underlined">Benjamin Ruddyard</hi>/hi&gt;.</space></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

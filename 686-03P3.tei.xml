@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">CADENUS</hi><lb/>  AND<lb/>  <hi rend="italics">VANESSA.</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KZeigler 10AP96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="686-03P3">
+          <head type="note" n="1" xml:id="spp-686-03P3-headnote-1">
+            <lg n="1" xml:id="spp-686-03P3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-686-03P3-headnote-1-line-group-1-line-1">Written <hi rend="italics">Anno</hi> 1713.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-686-03P3-headnote-2">
+            <lg n="1" xml:id="spp-686-03P3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-686-03P3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-686-03P3-headnote-3">
+            <lg n="1" xml:id="spp-686-03P3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-686-03P3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-686-03P3-line-1" n="1"><hi rend="display-initial">T</hi>HE <hi rend="italics">Shepherds</hi> and the <hi rend="italics">Nymphs</hi> were seen</l>
+            <l xml:id="swift-686-03P3-line-2" n="2">Pleading before the <hi rend="italics">Cyprian</hi> Queen.</l>
+            <l xml:id="swift-686-03P3-line-3" n="3">The Council for the Fair began,</l>
+            <l xml:id="swift-686-03P3-line-4" n="4">Accusing that false Creature, <hi rend="italics">Man</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-5" n="5"><lb/>T<hi rend="small-caps">HE</hi> Brief with weighty Crimes was charg'd,</l>
+            <l xml:id="swift-686-03P3-line-6" n="6">On which the Pleader much enlarg'd;</l>
+            <l xml:id="swift-686-03P3-line-7" n="7">That <hi rend="italics">Cupid</hi> now has lost his Art,</l>
+            <l xml:id="swift-686-03P3-line-8" n="8">Or blunts the Point of ev'ry Dart;</l>
+            <l xml:id="swift-686-03P3-line-9" n="9">His Altar now no longer smokes,</l>
+            <l xml:id="swift-686-03P3-line-10" n="10">His Mother's Aid no Youth invokes:</l>
+            <l xml:id="swift-686-03P3-line-11" n="11">This tempts Free-thinkers to refine,</l>
+            <l xml:id="swift-686-03P3-line-12" n="12">And bring in doubt their Pow'r divine;</l>
+            <l xml:id="swift-686-03P3-line-13" n="13">Now Love is dwindled to Intrigue,</l>
+            <l xml:id="swift-686-03P3-line-14" n="14">And Marriage grown a Money-League.</l>
+            <l xml:id="swift-686-03P3-line-15" n="15">Which Crimes aforesaid (with her Leave)</l>
+            <l xml:id="swift-686-03P3-line-16" n="16">Were (as he humbly did conceive)</l>
+            <l xml:id="swift-686-03P3-line-17" n="17">Against our Sov'reign Lady's Peace,</l>
+            <l xml:id="swift-686-03P3-line-18" n="18">Against the Statutes in that Case,</l>
+            <l xml:id="swift-686-03P3-line-19" n="19">Against her Dignity and Crown:</l>
+            <l xml:id="swift-686-03P3-line-20" n="20">Then pray'd an Answer and sat down.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-21" n="21"><lb/>T<hi rend="small-caps">HE</hi> <hi rend="italics">Nymphs</hi> with Scorn beheld their Foes:</l>
+            <l xml:id="swift-686-03P3-line-22" n="22">When the Defendant's Council rose,</l>
+            <l xml:id="swift-686-03P3-line-23" n="23">And, what no Lawyer ever lack'd,</l>
+            <l xml:id="swift-686-03P3-line-24" n="24">With Impudence own'd all the Fact.</l>
+            <l xml:id="swift-686-03P3-line-25" n="25">But, what the gentlest Heart would vex,</l>
+            <l xml:id="swift-686-03P3-line-26" n="26">Laid all the Fault on t'other Sex.</l>
+            <l xml:id="swift-686-03P3-line-27" n="27">That modern Love is no such Thing</l>
+            <l xml:id="swift-686-03P3-line-28" n="28">As what those ancient Poets sing;</l>
+            <l xml:id="swift-686-03P3-line-29" n="29">A Fire celestial, chaste, refin'd,</l>
+            <l xml:id="swift-686-03P3-line-30" n="30">Conceiv'd and kindled in the Mind,</l>
+            <l xml:id="swift-686-03P3-line-31" n="31">Which having found an equal Flame,</l>
+            <l xml:id="swift-686-03P3-line-32" n="32">Unites, and both become the same,</l>
+            <l xml:id="swift-686-03P3-line-33" n="33">In different Breasts together burn,</l>
+            <l xml:id="swift-686-03P3-line-34" n="34">Together both to Ashes turn.</l>
+            <l xml:id="swift-686-03P3-line-35" n="35">But Women now feel no such Fire,</l>
+            <l xml:id="swift-686-03P3-line-36" n="36">And only know the gross Desire;</l>
+            <l xml:id="swift-686-03P3-line-37" n="37">Their Passions move in lower Spheres,</l>
+            <l xml:id="swift-686-03P3-line-38" n="38">Where-e'er Caprice or Folly steers.</l>
+            <l xml:id="swift-686-03P3-line-39" n="39">A Dog, a Parrot, or an Ape,</l>
+            <l xml:id="swift-686-03P3-line-40" n="40">Or some worse Brute in human Shape,</l>
+            <l xml:id="swift-686-03P3-line-41" n="41">Engross the Fancies of the Fair,</l>
+            <l xml:id="swift-686-03P3-line-42" n="42">The few soft Moments they can spare,</l>
+            <l xml:id="swift-686-03P3-line-43" n="43">From Visits to receive and pay,</l>
+            <l xml:id="swift-686-03P3-line-44" n="44">From Scandal, Politicks, and Play,</l>
+            <l xml:id="swift-686-03P3-line-45" n="45">From Fans, and Flounces, and Brocades,</l>
+            <l xml:id="swift-686-03P3-line-46" n="46">From Equipage and Park-Parades,</l>
+            <l xml:id="swift-686-03P3-line-47" n="47">From all the thousand Female Toys,</l>
+            <l xml:id="swift-686-03P3-line-48" n="48">From every Trifle that employs</l>
+            <l xml:id="swift-686-03P3-line-49" n="49">The out or inside of their Heads,</l>
+            <l xml:id="swift-686-03P3-line-50" n="50">Between their Toylets and their Beds.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-51" n="51"><lb/>I<hi rend="small-caps">N</hi> a dull Stream, which moving slow</l>
+            <l xml:id="swift-686-03P3-line-52" n="52">You hardly see the Current flow,</l>
+            <l xml:id="swift-686-03P3-line-53" n="53">If a small Breeze obstructs the Course,</l>
+            <l xml:id="swift-686-03P3-line-54" n="54">It whirls about for Want of Force,</l>
+            <l xml:id="swift-686-03P3-line-55" n="55">And in its narrow Circle gathers</l>
+            <l xml:id="swift-686-03P3-line-56" n="56">Nothing but Chaff, and Straws, and Feathers:</l>
+            <l xml:id="swift-686-03P3-line-57" n="57">The Current of a Female Mind</l>
+            <l xml:id="swift-686-03P3-line-58" n="58">Stops thus, and turns with ev'ry Wind;</l>
+            <l xml:id="swift-686-03P3-line-59" n="59">Thus whirling round, together draws</l>
+            <l xml:id="swift-686-03P3-line-60" n="60">Fools, Fops, and Rakes, for Chaff and Straws.</l>
+            <l xml:id="swift-686-03P3-line-61" n="61">Hence we conclude, no Women's Hearts</l>
+            <l xml:id="swift-686-03P3-line-62" n="62">Are won by Virtue, Wit, and Parts;</l>
+            <l xml:id="swift-686-03P3-line-63" n="63">Nor are the Men of Sense to blame,</l>
+            <l xml:id="swift-686-03P3-line-64" n="64">For Breasts incapable of Flame;</l>
+            <l xml:id="swift-686-03P3-line-65" n="65">The Fault must on the <hi rend="italics">Nymphs</hi> be plac'd,</l>
+            <l xml:id="swift-686-03P3-line-66" n="66">Grown so corrupted in their Taste.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-67" n="67"><lb/>T<hi rend="small-caps">HE</hi> Pleader having spoke his best,</l>
+            <l xml:id="swift-686-03P3-line-68" n="68">Had Witness ready to attest,</l>
+            <l xml:id="swift-686-03P3-line-69" n="69">Who fairly could on Oath depose,</l>
+            <l xml:id="swift-686-03P3-line-70" n="70">When Questions on the Fact arose,</l>
+            <l xml:id="swift-686-03P3-line-71" n="71">That ev'ry Article was true;</l>
+            <l xml:id="swift-686-03P3-line-72" n="72"><hi rend="italics">Nor further those Deponents knew</hi>:</l>
+            <l xml:id="swift-686-03P3-line-73" n="73">Therefore he humbly would insist,</l>
+            <l xml:id="swift-686-03P3-line-74" n="74">The Bill might be with Costs dismist.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-75" n="75"><lb/>T<hi rend="small-caps">HE</hi> Cause appear'd of so much Weight,</l>
+            <l xml:id="swift-686-03P3-line-76" n="76">That <hi rend="italics">Venus</hi>, from the Judgment-Seat,</l>
+            <l xml:id="swift-686-03P3-line-77" n="77">Desir'd them not to talk so loud,</l>
+            <l xml:id="swift-686-03P3-line-78" n="78">Else she must interpose a Cloud:</l>
+            <l xml:id="swift-686-03P3-line-79" n="79">For if the Heav'nly Folk should know</l>
+            <l xml:id="swift-686-03P3-line-80" n="80">These Pleadings in the Courts below,</l>
+            <l xml:id="swift-686-03P3-line-81" n="81">That Mortals here disdain to love;</l>
+            <l xml:id="swift-686-03P3-line-82" n="82">She ne'er could shew her Face above.</l>
+            <l xml:id="swift-686-03P3-line-83" n="83">For Gods, their Betters, are too wise</l>
+            <l xml:id="swift-686-03P3-line-84" n="84">To value that which Men despise.</l>
+            <l xml:id="swift-686-03P3-line-85" n="85">And then, said she, my Son and I</l>
+            <l xml:id="swift-686-03P3-line-86" n="86">Must strole in Air 'twixt Earth and Sky;</l>
+            <l xml:id="swift-686-03P3-line-87" n="87">Or else, shut out from Heaven and Earth,</l>
+            <l xml:id="swift-686-03P3-line-88" n="88">Fly to the Sea, my Place of Birth;</l>
+            <l xml:id="swift-686-03P3-line-89" n="89">There live with daggl'd <hi rend="italics">Mermaids</hi> pent,</l>
+            <l xml:id="swift-686-03P3-line-90" n="90">And keep on Fish perpetual <hi rend="italics">Lent</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-91" n="91"><lb/>B<hi rend="small-caps">UT</hi> since the Case appear'd so nice,</l>
+            <l xml:id="swift-686-03P3-line-92" n="92">She thought it best to take Advice.</l>
+            <l xml:id="swift-686-03P3-line-93" n="93">The <hi rend="italics">Muses</hi>, by their King's Permission,</l>
+            <l xml:id="swift-686-03P3-line-94" n="94">Tho' Foes to Love, attend the Session,</l>
+            <l xml:id="swift-686-03P3-line-95" n="95">And on the Right Hand took their Places</l>
+            <l xml:id="swift-686-03P3-line-96" n="96">In Order; on the Left, the <hi rend="italics">Graces</hi>:</l>
+            <l xml:id="swift-686-03P3-line-97" n="97">To whom she might her Doubts propose</l>
+            <l xml:id="swift-686-03P3-line-98" n="98">On all Emergencies that rose.</l>
+            <l xml:id="swift-686-03P3-line-99" n="99">The <hi rend="italics">Muses</hi> oft were seen to frown;</l>
+            <l xml:id="swift-686-03P3-line-100" n="100">The <hi rend="italics">Graces</hi> half asham'd look'd down;</l>
+            <l xml:id="swift-686-03P3-line-101" n="101">And 'twas observ'd, there were but few 3}</l>
+            <l xml:id="swift-686-03P3-line-102" n="102">Of either Sex, among the Crew,</l>
+            <l xml:id="swift-686-03P3-line-103" n="103">Whom she or her Assessors knew.</l>
+            <l xml:id="swift-686-03P3-line-104" n="104">The Goddess soon began to see</l>
+            <l xml:id="swift-686-03P3-line-105" n="105">Things were not ripe for a Decree,</l>
+            <l xml:id="swift-686-03P3-line-106" n="106">And said she must consult her Books,</l>
+            <l xml:id="swift-686-03P3-line-107" n="107">The <hi rend="italics">Lovers Fleta's, Bractons, Cokes</hi>.</l>
+            <l xml:id="swift-686-03P3-line-108" n="108">First to a dapper Clerk she beckon'd,</l>
+            <l xml:id="swift-686-03P3-line-109" n="109">To turn to <hi rend="italics">Ovid</hi>, Book the Second;</l>
+            <l xml:id="swift-686-03P3-line-110" n="110">She then referr'd them to a Place</l>
+            <l xml:id="swift-686-03P3-line-111" n="111">In <hi rend="italics">Virgil (vide Dido</hi>'s Case:)</l>
+            <l xml:id="swift-686-03P3-line-112" n="112">As for <hi rend="italics">Tibullus</hi>'s Reports,</l>
+            <l xml:id="swift-686-03P3-line-113" n="113">They never pass'd for Law in Courts;</l>
+            <l xml:id="swift-686-03P3-line-114" n="114">For <hi rend="italics">Cowley</hi>'s Briefs, and Pleas of <hi rend="italics">Waller</hi>,</l>
+            <l xml:id="swift-686-03P3-line-115" n="115">Still their Authority was smaller.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-116" n="116"><lb/>T<hi rend="small-caps">HERE</hi> was on both Sides much to say:</l>
+            <l xml:id="swift-686-03P3-line-117" n="117">She'd hear the Cause another day,</l>
+            <l xml:id="swift-686-03P3-line-118" n="118">And so she did, and then a Third,</l>
+            <l xml:id="swift-686-03P3-line-119" n="119">She heard it──── there she kept her Word;</l>
+            <l xml:id="swift-686-03P3-line-120" n="120">But with Rejoinders and Replies,</l>
+            <l xml:id="swift-686-03P3-line-121" n="121">Long Bills, and Answers, stuff'd with Lies,</l>
+            <l xml:id="swift-686-03P3-line-122" n="122">Demur, Imparlance, and Essoign,</l>
+            <l xml:id="swift-686-03P3-line-123" n="123">The Parties ne'er could Issue join:</l>
+            <l xml:id="swift-686-03P3-line-124" n="124">For Sixteen Years the Cause was spun,</l>
+            <l xml:id="swift-686-03P3-line-125" n="125">And then stood where it first begun.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-126" n="126"><lb/>N<hi rend="small-caps">OW</hi>, gentle <hi rend="italics">Clio</hi>, sing or say,</l>
+            <l xml:id="swift-686-03P3-line-127" n="127">What <hi rend="italics">Venus</hi> meant by this Delay.</l>
+            <l xml:id="swift-686-03P3-line-128" n="128">The Goddess much perplex'd in Mind,</l>
+            <l xml:id="swift-686-03P3-line-129" n="129">To see her Empire thus declin'd,</l>
+            <l xml:id="swift-686-03P3-line-130" n="130">When first this grand Debate arose</l>
+            <l xml:id="swift-686-03P3-line-131" n="131">Above her Wisdom to compose,</l>
+            <l xml:id="swift-686-03P3-line-132" n="132">Conceiv'd a Project in her Head,</l>
+            <l xml:id="swift-686-03P3-line-133" n="133">To work her Ends; which if it sped,</l>
+            <l xml:id="swift-686-03P3-line-134" n="134">Wou'd shew the Merits of the Cause,</l>
+            <l xml:id="swift-686-03P3-line-135" n="135">Far better than consulting Laws.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-136" n="136"><lb/>I<hi rend="small-caps">N</hi> a glad Hour <hi rend="italics">Lucina</hi>'s Aid</l>
+            <l xml:id="swift-686-03P3-line-137" n="137">Produc'd on Earth a wond'rous Maid,</l>
+            <l xml:id="swift-686-03P3-line-138" n="138">On whom the Queen of Love was bent</l>
+            <l xml:id="swift-686-03P3-line-139" n="139">To try a new Experiment,</l>
+            <l xml:id="swift-686-03P3-line-140" n="140">She threw her Law-books on the Shelf,</l>
+            <l xml:id="swift-686-03P3-line-141" n="141">And thus debated with herself.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-142" n="142"><lb/>S<hi rend="small-caps">INCE</hi> Men alledge they ne'er can find,</l>
+            <l xml:id="swift-686-03P3-line-143" n="143">Those Beauties in a Female Mind,</l>
+            <l xml:id="swift-686-03P3-line-144" n="144">Which raise a Flame that will endure</l>
+            <l xml:id="swift-686-03P3-line-145" n="145">For ever, uncorrupt and pure;</l>
+            <l xml:id="swift-686-03P3-line-146" n="146">If 'tis with Reason they complain,</l>
+            <l xml:id="swift-686-03P3-line-147" n="147">This Infant shall restore my Reign.</l>
+            <l xml:id="swift-686-03P3-line-148" n="148">I'll search where ev'ry Virtue dwells,</l>
+            <l xml:id="swift-686-03P3-line-149" n="149">From Courts inclusive down to Cells,</l>
+            <l xml:id="swift-686-03P3-line-150" n="150">What Preachers talk, or Sages write,</l>
+            <l xml:id="swift-686-03P3-line-151" n="151">These I will gather and unite,</l>
+            <l xml:id="swift-686-03P3-line-152" n="152">And represent them to Mankind</l>
+            <l xml:id="swift-686-03P3-line-153" n="153">Collected in that Infant's Mind.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-154" n="154"><lb/>T<hi rend="small-caps">HIS</hi> said, she plucks in Heav'ns high Bow'rs</l>
+            <l xml:id="swift-686-03P3-line-155" n="155">A Sprig of <hi rend="italics">Amaranthine</hi> Flow'rs,</l>
+            <l xml:id="swift-686-03P3-line-156" n="156">In Nectar thrice infuses Bays,</l>
+            <l xml:id="swift-686-03P3-line-157" n="157">Three times refin'd in <hi rend="italics">Titan</hi>'s Rays:</l>
+            <l xml:id="swift-686-03P3-line-158" n="158">Then calls the <hi rend="italics">Graces</hi> to her Aid,</l>
+            <l xml:id="swift-686-03P3-line-159" n="159">And sprinkles thrice the new-born Maid.</l>
+            <l xml:id="swift-686-03P3-line-160" n="160">From whence the tender Skin assumes</l>
+            <l xml:id="swift-686-03P3-line-161" n="161">A Sweetness above all Perfumes;</l>
+            <l xml:id="swift-686-03P3-line-162" n="162">From whence a Cleanliness remains,</l>
+            <l xml:id="swift-686-03P3-line-163" n="163">Incapable of outward Stains;</l>
+            <l xml:id="swift-686-03P3-line-164" n="164">From whence that Decency of Mind,</l>
+            <l xml:id="swift-686-03P3-line-165" n="165">So lovely in a Female Kind,</l>
+            <l xml:id="swift-686-03P3-line-166" n="166">Where not one careless Thought intrudes,</l>
+            <l xml:id="swift-686-03P3-line-167" n="167">Less modest than the Speech of Prudes;</l>
+            <l xml:id="swift-686-03P3-line-168" n="168">Where never Blush was call'd in Aid,</l>
+            <l xml:id="swift-686-03P3-line-169" n="169">That spurious Virtue in a Maid,</l>
+            <l xml:id="swift-686-03P3-line-170" n="170">A Virtue but at second-hand;</l>
+            <l xml:id="swift-686-03P3-line-171" n="171">They blush because they understand.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-172" n="172"><lb/>T<hi rend="small-caps">HE</hi> <hi rend="italics">Graces</hi> next wou'd act their Part,</l>
+            <l xml:id="swift-686-03P3-line-173" n="173">And shew but little of their Art;</l>
+            <l xml:id="swift-686-03P3-line-174" n="174">Their Work was half already done,</l>
+            <l xml:id="swift-686-03P3-line-175" n="175">The Child with native Beauty shone,</l>
+            <l xml:id="swift-686-03P3-line-176" n="176">The outward Form no Help requir'd:</l>
+            <l xml:id="swift-686-03P3-line-177" n="177">Each breathing on her thrice, inspir'd</l>
+            <l xml:id="swift-686-03P3-line-178" n="178">That gentle, soft, engaging Air,</l>
+            <l xml:id="swift-686-03P3-line-179" n="179">Which in old Times adorn'd the Fair;</l>
+            <l xml:id="swift-686-03P3-line-180" n="180">And said, “<hi rend="italics">Vanessa</hi> be the Name,</l>
+            <l xml:id="swift-686-03P3-line-181" n="181">“By which thou shalt be know to Fame:</l>
+            <l xml:id="swift-686-03P3-line-182" n="182">“<hi rend="italics">Vanessa</hi>, by the Gods enroll'd:</l>
+            <l xml:id="swift-686-03P3-line-183" n="183">“Her Name on Earth──── shall not be told.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-184" n="184"><lb/>B<hi rend="small-caps">UT</hi> still the Work was not compleat,</l>
+            <l xml:id="swift-686-03P3-line-185" n="185">When <hi rend="italics">Venus</hi> thought on a Deceit:</l>
+            <l xml:id="swift-686-03P3-line-186" n="186">Drawn by her Doves, away she flies,</l>
+            <l xml:id="swift-686-03P3-line-187" n="187">And finds out <hi rend="italics">Pallas</hi> in the Skies:</l>
+            <l xml:id="swift-686-03P3-line-188" n="188">Dear <hi rend="italics">Pallas</hi>, I have been this Morn</l>
+            <l xml:id="swift-686-03P3-line-189" n="189">To see a lovely Infant born:</l>
+            <l xml:id="swift-686-03P3-line-190" n="190">A Boy in yonder Isle below,</l>
+            <l xml:id="swift-686-03P3-line-191" n="191">So like my own without his Bow,</l>
+            <l xml:id="swift-686-03P3-line-192" n="192">By Beauty cou'd your Heart be won,</l>
+            <l xml:id="swift-686-03P3-line-193" n="193">You'd swear it is <hi rend="italics">Apollo</hi>'s Son;</l>
+            <l xml:id="swift-686-03P3-line-194" n="194">But it shall ne'er be said, a Child</l>
+            <l xml:id="swift-686-03P3-line-195" n="195">So hopeful, has by me been spoil'd;</l>
+            <l xml:id="swift-686-03P3-line-196" n="196">I have enough besides to spare,</l>
+            <l xml:id="swift-686-03P3-line-197" n="197">And give him wholly to your Care.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-198" n="198"><lb/><hi rend="italics">Wisdom</hi>'s above suspecting Wiles:</l>
+            <l xml:id="swift-686-03P3-line-199" n="199">The Queen of Learning gravely smiles,</l>
+            <l xml:id="swift-686-03P3-line-200" n="200">Down from <hi rend="italics">Olympus</hi> comes with Joy,</l>
+            <l xml:id="swift-686-03P3-line-201" n="201">Mistakes <hi rend="italics">Vanessa</hi> for a Boy;</l>
+            <l xml:id="swift-686-03P3-line-202" n="202">Then sows within her tender Mind</l>
+            <l xml:id="swift-686-03P3-line-203" n="203">Seeds long unknown to Womankind;</l>
+            <l xml:id="swift-686-03P3-line-204" n="204">For manly Bosoms chiefly fit,</l>
+            <l xml:id="swift-686-03P3-line-205" n="205">The Seeds of Knowledge, Judgment, Wit.</l>
+            <l xml:id="swift-686-03P3-line-206" n="206">Her Soul was suddenly endu'd</l>
+            <l xml:id="swift-686-03P3-line-207" n="207">With Justice, Truth and Fortitude;</l>
+            <l xml:id="swift-686-03P3-line-208" n="208">With Honour, which no Breath can stain,</l>
+            <l xml:id="swift-686-03P3-line-209" n="209">Which Malice must attack in vain:</l>
+            <l xml:id="swift-686-03P3-line-210" n="210">With open Heart and bounteous Hand:</l>
+            <l xml:id="swift-686-03P3-line-211" n="211">But <hi rend="italics">Pallas</hi> here was at a Stand;</l>
+            <l xml:id="swift-686-03P3-line-212" n="212">She knew in our degen'rate Days</l>
+            <l xml:id="swift-686-03P3-line-213" n="213">Bare Virtue could not live on Praise,</l>
+            <l xml:id="swift-686-03P3-line-214" n="214">That Meat must be with Money bought;</l>
+            <l xml:id="swift-686-03P3-line-215" n="215">She therefore, upon second Thought,</l>
+            <l xml:id="swift-686-03P3-line-216" n="216">Infus'd, yet as it were by Stealth,</l>
+            <l xml:id="swift-686-03P3-line-217" n="217">Some small Regard for State and Wealth:</l>
+            <l xml:id="swift-686-03P3-line-218" n="218">Of which, as she grew up, there stay'd</l>
+            <l xml:id="swift-686-03P3-line-219" n="219">A Tincture in the prudent Maid:</l>
+            <l xml:id="swift-686-03P3-line-220" n="220">She manag'd her Estate with Care,</l>
+            <l xml:id="swift-686-03P3-line-221" n="221">Yet lik'd three Footmen to her Chair.</l>
+            <l xml:id="swift-686-03P3-line-222" n="222">But lest he shou'd neglect his Studies</l>
+            <l xml:id="swift-686-03P3-line-223" n="223">Like a young Heir, the thrifty Goddess</l>
+            <l xml:id="swift-686-03P3-line-224" n="224">(For fear young Master shou'd be spoil'd,)</l>
+            <l xml:id="swift-686-03P3-line-225" n="225">Wou'd use him like a younger Child;</l>
+            <l xml:id="swift-686-03P3-line-226" n="226">And, after long computing, found</l>
+            <l xml:id="swift-686-03P3-line-227" n="227">'Twou'd come to just Five Thousand Pound.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-228" n="228"><lb/>T<hi rend="small-caps">HE</hi> Queen of Love was pleas'd, and proud,</l>
+            <l xml:id="swift-686-03P3-line-229" n="229">To see <hi rend="italics">Vanessa</hi> thus endow'd;</l>
+            <l xml:id="swift-686-03P3-line-230" n="230">She doubted not but such a Dame</l>
+            <l xml:id="swift-686-03P3-line-231" n="231">Thro' ev'ry Breast wou'd dart a Flame;</l>
+            <l xml:id="swift-686-03P3-line-232" n="232">That ev'ry rich and lordly Swain</l>
+            <l xml:id="swift-686-03P3-line-233" n="233">With Pride wou'd drag about her Chain;</l>
+            <l xml:id="swift-686-03P3-line-234" n="234">That Scholars wou'd forsake their Books</l>
+            <l xml:id="swift-686-03P3-line-235" n="235">To study bright <hi rend="italics">Vanessa</hi>'s Looks:</l>
+            <l xml:id="swift-686-03P3-line-236" n="236">As she advanc'd, that Womankind</l>
+            <l xml:id="swift-686-03P3-line-237" n="237">Wou'd by her Model form their Mind,</l>
+            <l xml:id="swift-686-03P3-line-238" n="238">And all their Conduct wou'd be try'd</l>
+            <l xml:id="swift-686-03P3-line-239" n="239">By her, as an unerring Guide.</l>
+            <l xml:id="swift-686-03P3-line-240" n="240">Offending Daughters oft wou'd hear</l>
+            <l xml:id="swift-686-03P3-line-241" n="241"><hi rend="italics">Vanessa</hi>'s Praise rung in their Ear:</l>
+            <l xml:id="swift-686-03P3-line-242" n="242">Miss <hi rend="italics">Betty</hi>, when she does a Fault,</l>
+            <l xml:id="swift-686-03P3-line-243" n="243">Lets fall her Knife, or spills the Salt,</l>
+            <l xml:id="swift-686-03P3-line-244" n="244">Will thus be by her Mother chid,</l>
+            <l xml:id="swift-686-03P3-line-245" n="245">“'Tis what <hi rend="italics">Vanessa</hi> never did.</l>
+            <l xml:id="swift-686-03P3-line-246" n="246">Thus by the Nymphs and Swains ador'd,</l>
+            <l xml:id="swift-686-03P3-line-247" n="247">My Pow'r shall be again restor'd,</l>
+            <l xml:id="swift-686-03P3-line-248" n="248">And happy Lovers bless my Reign────</l>
+            <l xml:id="swift-686-03P3-line-249" n="249">So <hi rend="italics">Venus</hi> hop'd, but hop'd in vain.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-250" n="250"><lb/>F<hi rend="small-caps">OR</hi> when in time the <hi rend="italics">Martial Maid</hi></l>
+            <l xml:id="swift-686-03P3-line-251" n="251">Found out the Trick that <hi rend="italics">Venus</hi> play'd,</l>
+            <l xml:id="swift-686-03P3-line-252" n="252">She shakes her Helm, she knits her Brows,</l>
+            <l xml:id="swift-686-03P3-line-253" n="253">And fir'd with Indignation vows,</l>
+            <l xml:id="swift-686-03P3-line-254" n="254">To-morrow, e'er the Setting Sun,</l>
+            <l xml:id="swift-686-03P3-line-255" n="255">She'd all undo; that she had done.</l>
+            <l xml:id="swift-686-03P3-line-256" n="256">om.</l>
+            <l xml:id="swift-686-03P3-line-257" n="257">om.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-258" n="258"><lb/>B<hi rend="small-caps">UT</hi> in the Poets we may find,</l>
+            <l xml:id="swift-686-03P3-line-259" n="259">A wholesome Law, Time out of mind.</l>
+            <l xml:id="swift-686-03P3-line-260" n="260">Had been confirm'd by Fate's Decree;</l>
+            <l xml:id="swift-686-03P3-line-261" n="261">That Gods, of whatsoe'er Degree,</l>
+            <l xml:id="swift-686-03P3-line-262" n="262">Resume not what themselves have giv'n,</l>
+            <l xml:id="swift-686-03P3-line-263" n="263">Or any Brother-God in Heav'n:</l>
+            <l xml:id="swift-686-03P3-line-264" n="264">Which keeps the Peace among the Gods,</l>
+            <l xml:id="swift-686-03P3-line-265" n="265">Or they must always be at Odds.</l>
+            <l xml:id="swift-686-03P3-line-266" n="266">And <hi rend="italics">Pallas</hi>, if she broke the Laws,</l>
+            <l xml:id="swift-686-03P3-line-267" n="267">Must yield her Foe the stronger Cause;</l>
+            <l xml:id="swift-686-03P3-line-268" n="268">A Shame to one so much ador'd</l>
+            <l xml:id="swift-686-03P3-line-269" n="269">For Wisdom, at <hi rend="italics">Jove</hi>'s Council-Board.</l>
+            <l xml:id="swift-686-03P3-line-270" n="270">Besides, she fear'd the Queen of Love</l>
+            <l xml:id="swift-686-03P3-line-271" n="271">Wou'd meet with better Friends above.</l>
+            <l xml:id="swift-686-03P3-line-272" n="272">And tho' she must with Grief reflect,</l>
+            <l xml:id="swift-686-03P3-line-273" n="273">To see a mortal Virgin deck'd</l>
+            <l xml:id="swift-686-03P3-line-274" n="274">With Graces, hitherto unknown</l>
+            <l xml:id="swift-686-03P3-line-275" n="275">To Female Breasts, except her own;</l>
+            <l xml:id="swift-686-03P3-line-276" n="276">Yet she wou'd act as best became</l>
+            <l xml:id="swift-686-03P3-line-277" n="277">A Goddess of unspotted Fame:</l>
+            <l xml:id="swift-686-03P3-line-278" n="278">She knew, by Augury Divine,</l>
+            <l xml:id="swift-686-03P3-line-279" n="279"><hi rend="italics">Venus</hi> wou'd fail in her Design:</l>
+            <l xml:id="swift-686-03P3-line-280" n="280">She study'd well the Point, and found</l>
+            <l xml:id="swift-686-03P3-line-281" n="281">Her Foe's Conclusions were not sound,</l>
+            <l xml:id="swift-686-03P3-line-282" n="282">From Premisses erroneous brought,</l>
+            <l xml:id="swift-686-03P3-line-283" n="283">And therefore the Deductions nought,</l>
+            <l xml:id="swift-686-03P3-line-284" n="284">And must have contrary Effects</l>
+            <l xml:id="swift-686-03P3-line-285" n="285">To what her treach'rous Foe expects.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-286" n="286"><lb/>I<hi rend="small-caps">N</hi> proper Season <hi rend="italics">Pallas</hi> meets</l>
+            <l xml:id="swift-686-03P3-line-287" n="287">The Queen of Love, whom thus she greets,</l>
+            <l xml:id="swift-686-03P3-line-288" n="288">(For Gods, we are by <hi rend="italics">Homer</hi> told,</l>
+            <l xml:id="swift-686-03P3-line-289" n="289">Can in Celestial Language scold)</l>
+            <l xml:id="swift-686-03P3-line-290" n="290">Perfidious Goddess! but in vain</l>
+            <l xml:id="swift-686-03P3-line-291" n="291">You form'd this Project in your Brain,</l>
+            <l xml:id="swift-686-03P3-line-292" n="292">A Project for thy Talents fit,</l>
+            <l xml:id="swift-686-03P3-line-293" n="293">With much Deceit and little Wit;</l>
+            <l xml:id="swift-686-03P3-line-294" n="294">Thou hast, as thou shalt quickly see,</l>
+            <l xml:id="swift-686-03P3-line-295" n="295">Deceiv'd thy self, instead of me;</l>
+            <l xml:id="swift-686-03P3-line-296" n="296">For how can Heav'nly Wisdom prove</l>
+            <l xml:id="swift-686-03P3-line-297" n="297">An Instrument to earthly Love?</l>
+            <l xml:id="swift-686-03P3-line-298" n="298">Know'st thou not yet that Men commence</l>
+            <l xml:id="swift-686-03P3-line-299" n="299">Thy Votaries, for Want of Sense?</l>
+            <l xml:id="swift-686-03P3-line-300" n="300">Nor shall <hi rend="italics">Vanessa</hi> be the Theme</l>
+            <l xml:id="swift-686-03P3-line-301" n="301">To manage thy abortive Scheme;</l>
+            <l xml:id="swift-686-03P3-line-302" n="302">She'll prove the greatest of thy Foes:</l>
+            <l xml:id="swift-686-03P3-line-303" n="303">And yet I scorn to interpose,</l>
+            <l xml:id="swift-686-03P3-line-304" n="304">But using neither Skill, nor Force,</l>
+            <l xml:id="swift-686-03P3-line-305" n="305">Leave all Things to their nat'ral Course.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-306" n="306"><lb/>T<hi rend="small-caps">HE</hi> Goddess thus pronounc'd her Doom;</l>
+            <l xml:id="swift-686-03P3-line-307" n="307">When, lo! <hi rend="italics">Vanessa</hi> in her Bloom,</l>
+            <l xml:id="swift-686-03P3-line-308" n="308">Advanc'd like <hi rend="italics">Atalanta</hi>'s Star,</l>
+            <l xml:id="swift-686-03P3-line-309" n="309">But rarely seen, and seen from far:</l>
+            <l xml:id="swift-686-03P3-line-310" n="310">In a new World with Caution stept,</l>
+            <l xml:id="swift-686-03P3-line-311" n="311">Watch'd all the Company she kept,</l>
+            <l xml:id="swift-686-03P3-line-312" n="312">Well knowing from the Books she read</l>
+            <l xml:id="swift-686-03P3-line-313" n="313">What dangerous Paths young Virgins tread;</l>
+            <l xml:id="swift-686-03P3-line-314" n="314">Wou'd seldom at the Park appear,</l>
+            <l xml:id="swift-686-03P3-line-315" n="315">Nor saw the Play-House twice a Year;</l>
+            <l xml:id="swift-686-03P3-line-316" n="316">Yet not incurious, was inclin'd</l>
+            <l xml:id="swift-686-03P3-line-317" n="317">To know the Converse of Mankind.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-318" n="318"><lb/>F<hi rend="small-caps">IRST</hi> issu'd from Perfumers Shops</l>
+            <l xml:id="swift-686-03P3-line-319" n="319">A Croud of fashionable Fops;</l>
+            <l xml:id="swift-686-03P3-line-320" n="320">They ask'd her, how she lik'd the Play,</l>
+            <l xml:id="swift-686-03P3-line-321" n="321">Then told the Tattle of the Day,</l>
+            <l xml:id="swift-686-03P3-line-322" n="322">A Duel fought last Night at Two,</l>
+            <l xml:id="swift-686-03P3-line-323" n="323">About a Lady──── You know who;</l>
+            <l xml:id="swift-686-03P3-line-324" n="324">Mention'd a new <hi rend="italics">Italian</hi>, come</l>
+            <l xml:id="swift-686-03P3-line-325" n="325">Either from <hi rend="italics">Muscovy</hi> or <hi rend="italics">Rome</hi>;</l>
+            <l xml:id="swift-686-03P3-line-326" n="326">Gave Hints of who and who's together;</l>
+            <l xml:id="swift-686-03P3-line-327" n="327">Then fell to talking of the Weather:</l>
+            <l xml:id="swift-686-03P3-line-328" n="328">Last Night was so extremely fine,</l>
+            <l xml:id="swift-686-03P3-line-329" n="329">The Ladies walk'd till after Nine.</l>
+            <l xml:id="swift-686-03P3-line-330" n="330">Then in soft Voice and Speech absurd,</l>
+            <l xml:id="swift-686-03P3-line-331" n="331">With Nonsence ev'ry second Word,</l>
+            <l xml:id="swift-686-03P3-line-332" n="332">With Fustian from exploded Plays,</l>
+            <l xml:id="swift-686-03P3-line-333" n="333">They celebrate her Beauty's Praise,</l>
+            <l xml:id="swift-686-03P3-line-334" n="334">Run o'er their Cant of stupid Lies,</l>
+            <l xml:id="swift-686-03P3-line-335" n="335">And tell the Murders of her Eyes.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-336" n="336"><lb/>W<hi rend="small-caps">ITH</hi> silent Scorn <hi rend="italics">Vanessa</hi> sat,</l>
+            <l xml:id="swift-686-03P3-line-337" n="337">Scarce list'ning to their idle Chat;</l>
+            <l xml:id="swift-686-03P3-line-338" n="338">Further than sometimes by a Frown,</l>
+            <l xml:id="swift-686-03P3-line-339" n="339">When they grew pert, to pull them down.</l>
+            <l xml:id="swift-686-03P3-line-340" n="340">At last she spitefully was bent</l>
+            <l xml:id="swift-686-03P3-line-341" n="341">To try their Wisdom's full Extent;</l>
+            <l xml:id="swift-686-03P3-line-342" n="342">And said, she valu'd nothing less</l>
+            <l xml:id="swift-686-03P3-line-343" n="343">Than Titles, Figure, Shape, and Dress;</l>
+            <l xml:id="swift-686-03P3-line-344" n="344">That Merit should be chiefly plac'd</l>
+            <l xml:id="swift-686-03P3-line-345" n="345">In Judgment, Knowledge, Wit, and Taste;</l>
+            <l xml:id="swift-686-03P3-line-346" n="346">And these, she offer'd to dispute,</l>
+            <l xml:id="swift-686-03P3-line-347" n="347">Alone distinguish'd Man from Brute:</l>
+            <l xml:id="swift-686-03P3-line-348" n="348">om.</l>
+            <l xml:id="swift-686-03P3-line-349" n="349">om.</l>
+            <l xml:id="swift-686-03P3-line-350" n="350">That, present Times have no Pretence</l>
+            <l xml:id="swift-686-03P3-line-351" n="351">To Virtue, in the Noblest Sense,</l>
+            <l xml:id="swift-686-03P3-line-352" n="352">By <hi rend="italics">Greeks</hi> and <hi rend="italics">Romans</hi> understood,</l>
+            <l xml:id="swift-686-03P3-line-353" n="353">To perish for our Countrey's Good.</l>
+            <l xml:id="swift-686-03P3-line-354" n="354">She nam'd the ancient Heroes round,</l>
+            <l xml:id="swift-686-03P3-line-355" n="355">Explain'd for what they were renown'd;</l>
+            <l xml:id="swift-686-03P3-line-356" n="356">Then spoke with Censure, or Applause,</l>
+            <l xml:id="swift-686-03P3-line-357" n="357">Of foreign Customs, Rites, and Laws;</l>
+            <l xml:id="swift-686-03P3-line-358" n="358">Thro' Nature, and thro' Art she rang'd,</l>
+            <l xml:id="swift-686-03P3-line-359" n="359">And gracefully her Subject chang'd:</l>
+            <l xml:id="swift-686-03P3-line-360" n="360">In vain; her Hearers had no Share</l>
+            <l xml:id="swift-686-03P3-line-361" n="361">In all she spoke, except to stare.</l>
+            <l xml:id="swift-686-03P3-line-362" n="362">Their Judgment was upon the Whole,</l>
+            <l xml:id="swift-686-03P3-line-363" n="363">──────That Lady is the dullest Soul──────</l>
+            <l xml:id="swift-686-03P3-line-364" n="364">Then tipt their Forehead in a Jeer,</l>
+            <l xml:id="swift-686-03P3-line-365" n="365">As who should say────── she wants it here;</l>
+            <l xml:id="swift-686-03P3-line-366" n="366">She may be handsome, young and rich,</l>
+            <l xml:id="swift-686-03P3-line-367" n="367">But none will burn her for a Witch.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-368" n="368"><lb/>A P<hi rend="small-caps">ARTY</hi> next of glitt'ring Dames,</l>
+            <l xml:id="swift-686-03P3-line-369" n="369">From round the Purlieus of St. <hi rend="italics">James</hi>,</l>
+            <l xml:id="swift-686-03P3-line-370" n="370">Came early, out of pure Good-will,</l>
+            <l xml:id="swift-686-03P3-line-371" n="371">To see the Girl in Deshabille.</l>
+            <l xml:id="swift-686-03P3-line-372" n="372">Their Clamour 'lighting from their Chairs,</l>
+            <l xml:id="swift-686-03P3-line-373" n="373">Grew louder, all the Way up Stairs;</l>
+            <l xml:id="swift-686-03P3-line-374" n="374">At Entrance loudest, where they found</l>
+            <l xml:id="swift-686-03P3-line-375" n="375">The Room with Volumes litter'd round.</l>
+            <l xml:id="swift-686-03P3-line-376" n="376"><hi rend="italics">Vanessa</hi> held <hi rend="italics">Montaigne</hi>, and read,</l>
+            <l xml:id="swift-686-03P3-line-377" n="377">Whilst Mrs. <hi rend="italics">Susan</hi> comb'd her Head:</l>
+            <l xml:id="swift-686-03P3-line-378" n="378">They call'd for Tea and Chocolate,</l>
+            <l xml:id="swift-686-03P3-line-379" n="379">And fell into their usual Chat,</l>
+            <l xml:id="swift-686-03P3-line-380" n="380">Discoursing with important Face,</l>
+            <l xml:id="swift-686-03P3-line-381" n="381">On Ribbons, Fans, and Gloves and Lace;</l>
+            <l xml:id="swift-686-03P3-line-382" n="382">Shew'd Patterns just from <hi rend="italics">India</hi> brought,</l>
+            <l xml:id="swift-686-03P3-line-383" n="383">And gravely ask'd her what she thought,</l>
+            <l xml:id="swift-686-03P3-line-384" n="384">Whether the Red or Green were best,</l>
+            <l xml:id="swift-686-03P3-line-385" n="385">And what they cost? <hi rend="italics">Vanessa</hi> guess'd,</l>
+            <l xml:id="swift-686-03P3-line-386" n="386">As came into her Fancy first,</l>
+            <l xml:id="swift-686-03P3-line-387" n="387">Nam'd half the Rates, and lik'd the worst.</l>
+            <l xml:id="swift-686-03P3-line-388" n="388">To Scandal next──── What aukward Thing</l>
+            <l xml:id="swift-686-03P3-line-389" n="389">Was that, last <hi rend="italics">Sunday</hi> in the Ring?</l>
+            <l xml:id="swift-686-03P3-line-390" n="390">I'am sorry <hi rend="italics">Mopsa</hi> breaks so fast;</l>
+            <l xml:id="swift-686-03P3-line-391" n="391">I said her Face would never last.</l>
+            <l xml:id="swift-686-03P3-line-392" n="392"><hi rend="italics">Corinna</hi> with that youthful Air,</l>
+            <l xml:id="swift-686-03P3-line-393" n="393">Is thirty, and a Bit to spare.</l>
+            <l xml:id="swift-686-03P3-line-394" n="394">Her Fondness for a certain Earl</l>
+            <l xml:id="swift-686-03P3-line-395" n="395">Began, when I was but a Girl.</l>
+            <l xml:id="swift-686-03P3-line-396" n="396"><hi rend="italics">Phyllis</hi>, who but a Month ago</l>
+            <l xml:id="swift-686-03P3-line-397" n="397">Was marry'd to the <hi rend="italics">Tunbridge</hi> Beau,</l>
+            <l xml:id="swift-686-03P3-line-398" n="398">I saw coquetting t'other Night</l>
+            <l xml:id="swift-686-03P3-line-399" n="399">In publick with that odious Knight.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-400" n="400"><lb/>T<hi rend="small-caps">HEY</hi> rally'd next <hi rend="italics">Vanessa</hi>'s Dress;</l>
+            <l xml:id="swift-686-03P3-line-401" n="401">That Gown was made for old Queen <hi rend="italics">Bess</hi>.</l>
+            <l xml:id="swift-686-03P3-line-402" n="402">Dear Madam, Let me set your Head:</l>
+            <l xml:id="swift-686-03P3-line-403" n="403">Don't you intend to put on Red?</l>
+            <l xml:id="swift-686-03P3-line-404" n="404">A Pettycoat without a Hoop!</l>
+            <l xml:id="swift-686-03P3-line-405" n="405">Sure, you are not asham'd to stoop;</l>
+            <l xml:id="swift-686-03P3-line-406" n="406">With handsome Garters at your Knees,</l>
+            <l xml:id="swift-686-03P3-line-407" n="407">No matter what a Fellow sees.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-408" n="408"><lb/>F<hi rend="small-caps">ILL'D</hi> with Disdain, with Rage inflam'd,</l>
+            <l xml:id="swift-686-03P3-line-409" n="409">Both of her self and Sex asham'd,</l>
+            <l xml:id="swift-686-03P3-line-410" n="410">The Nymph stood silent out of Spight,</l>
+            <l xml:id="swift-686-03P3-line-411" n="411">Nor wou'd vouchsafe to set them right.</l>
+            <l xml:id="swift-686-03P3-line-412" n="412">Away the fair Detractors went,</l>
+            <l xml:id="swift-686-03P3-line-413" n="413">And gave, by Turns, their Censures Vent.</l>
+            <l xml:id="swift-686-03P3-line-414" n="414">She's not so handsome, in my Eyes:</l>
+            <l xml:id="swift-686-03P3-line-415" n="415">For Wit, I wonder where it lies.</l>
+            <l xml:id="swift-686-03P3-line-416" n="416">She's fair and clean, and that's the most;</l>
+            <l xml:id="swift-686-03P3-line-417" n="417">But why proclaim her for a Toast?</l>
+            <l xml:id="swift-686-03P3-line-418" n="418">A Baby Face, no Life, no Airs,</l>
+            <l xml:id="swift-686-03P3-line-419" n="419">But what she learn'd at Countrey Fairs;</l>
+            <l xml:id="swift-686-03P3-line-420" n="420">Scarce knows what Diff'rence is between</l>
+            <l xml:id="swift-686-03P3-line-421" n="421">Rich <hi rend="italics">Flanders</hi> Lace, and Colberteen.</l>
+            <l xml:id="swift-686-03P3-line-422" n="422">I'll undertake my little <hi rend="italics">Nancy</hi>,</l>
+            <l xml:id="swift-686-03P3-line-423" n="423">In Flounces has a better Fancy.</l>
+            <l xml:id="swift-686-03P3-line-424" n="424">With all her Wit, I wou'd not ask</l>
+            <l xml:id="swift-686-03P3-line-425" n="425">Her Judgment, how to buy a Mask.</l>
+            <l xml:id="swift-686-03P3-line-426" n="426">We begg'd her but to patch her Face,</l>
+            <l xml:id="swift-686-03P3-line-427" n="427">She never hit one proper Place;</l>
+            <l xml:id="swift-686-03P3-line-428" n="428">Which every Girl at five Years old</l>
+            <l xml:id="swift-686-03P3-line-429" n="429">Can do as soon as she is told.</l>
+            <l xml:id="swift-686-03P3-line-430" n="430">I own, that out-of-fashion Stuff</l>
+            <l xml:id="swift-686-03P3-line-431" n="431">Becomes the <hi rend="italics">Creature</hi> well enough.</l>
+            <l xml:id="swift-686-03P3-line-432" n="432">The Girl might pass, if we cou'd get her</l>
+            <l xml:id="swift-686-03P3-line-433" n="433">To know the World a little better.</l>
+            <l xml:id="swift-686-03P3-line-434" n="434">(<hi rend="italics">To know the World</hi>! a modern Phrase,</l>
+            <l xml:id="swift-686-03P3-line-435" n="435">For Visits, Ombre, Balls and Plays.)</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-436" n="436"><lb/>T<hi rend="small-caps">HUS</hi> to the World's perpetual Shame,</l>
+            <l xml:id="swift-686-03P3-line-437" n="437">The <hi rend="italics">Queen of Beauty</hi> lost her Aim.</l>
+            <l xml:id="swift-686-03P3-line-438" n="438">Too late with Grief she understood,</l>
+            <l xml:id="swift-686-03P3-line-439" n="439"><hi rend="italics">Pallas</hi> had done more Harm than Good;</l>
+            <l xml:id="swift-686-03P3-line-440" n="440">For great Examples are but vain,</l>
+            <l xml:id="swift-686-03P3-line-441" n="441">Where Ignorance begets Disdain.</l>
+            <l xml:id="swift-686-03P3-line-442" n="442">Both Sexes, arm'd with Guilt and Spite,</l>
+            <l xml:id="swift-686-03P3-line-443" n="443">Against <hi rend="italics">Vanessa</hi>'s Pow'r unite;</l>
+            <l xml:id="swift-686-03P3-line-444" n="444">To copy her, few Nymphs aspir'd;</l>
+            <l xml:id="swift-686-03P3-line-445" n="445">Her Virtues fewer Swains admir'd:</l>
+            <l xml:id="swift-686-03P3-line-446" n="446">So Stars beyond a certain Height</l>
+            <l xml:id="swift-686-03P3-line-447" n="447">Give Mortals neither Heat nor Light.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-448" n="448"><lb/>Y<hi rend="small-caps">ET</hi> some of either Sex, endow'd</l>
+            <l xml:id="swift-686-03P3-line-449" n="449">With Gifts superior to the Crowd,</l>
+            <l xml:id="swift-686-03P3-line-450" n="450">With Virtue, Knowledge, Taste and Wit,</l>
+            <l xml:id="swift-686-03P3-line-451" n="451">She condescended to admit:</l>
+            <l xml:id="swift-686-03P3-line-452" n="452">With pleasing Arts she could reduce</l>
+            <l xml:id="swift-686-03P3-line-453" n="453">Mens Talents to their proper Use;</l>
+            <l xml:id="swift-686-03P3-line-454" n="454">And with Address each Genius held</l>
+            <l xml:id="swift-686-03P3-line-455" n="455">To that wherein it most excell'd;</l>
+            <l xml:id="swift-686-03P3-line-456" n="456">Thus making others Wisdom known,</l>
+            <l xml:id="swift-686-03P3-line-457" n="457">Cou'd please them, and improve her own.</l>
+            <l xml:id="swift-686-03P3-line-458" n="458">A modest Youth said something new,</l>
+            <l xml:id="swift-686-03P3-line-459" n="459">She plac'd it in the strongest View.</l>
+            <l xml:id="swift-686-03P3-line-460" n="460">All humble Worth she strove to raise;</l>
+            <l xml:id="swift-686-03P3-line-461" n="461">Wou'd not be prais'd, yet lov'd to praise.</l>
+            <l xml:id="swift-686-03P3-line-462" n="462">The Learned met with free Approach,</l>
+            <l xml:id="swift-686-03P3-line-463" n="463">Although they came not in a Coach.</l>
+            <l xml:id="swift-686-03P3-line-464" n="464">Some Clergy too she wou'd allow,</l>
+            <l xml:id="swift-686-03P3-line-465" n="465">Nor quarrell'd at their aukward Bow.</l>
+            <l xml:id="swift-686-03P3-line-466" n="466">But this was for <hi rend="italics">Cadenus</hi>' sake;</l>
+            <l xml:id="swift-686-03P3-line-467" n="467">A Gownman of a diff'rent Make.</l>
+            <l xml:id="swift-686-03P3-line-468" n="468">Whom <hi rend="italics">Pallas</hi>, once <hi rend="italics">Vanessa</hi>'s Tutor,</l>
+            <l xml:id="swift-686-03P3-line-469" n="469">Had fix'd on for her Coadjutor.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-470" n="470"><lb/>B<hi rend="small-caps">UT</hi> <hi rend="italics">Cupid</hi>, full of Mischief, longs</l>
+            <l xml:id="swift-686-03P3-line-471" n="471">To vindicate his Mother's Wrongs.</l>
+            <l xml:id="swift-686-03P3-line-472" n="472">On <hi rend="italics">Pallas</hi> all Attempts are vain;</l>
+            <l xml:id="swift-686-03P3-line-473" n="473">One Way he knows to give her Pain:</l>
+            <l xml:id="swift-686-03P3-line-474" n="474">Vows, on <hi rend="italics">Vanessa</hi>'s Heart to take</l>
+            <l xml:id="swift-686-03P3-line-475" n="475">Due Vengeance, for her Patron's sake.</l>
+            <l xml:id="swift-686-03P3-line-476" n="476">Those early Seeds by <hi rend="italics">Venus</hi> sown,</l>
+            <l xml:id="swift-686-03P3-line-477" n="477">In spight of <hi rend="italics">Pallas</hi>, now were grown;</l>
+            <l xml:id="swift-686-03P3-line-478" n="478">And <hi rend="italics">Cupid</hi> hop'd they wou'd improve</l>
+            <l xml:id="swift-686-03P3-line-479" n="479">By Time, and ripen into Love.</l>
+            <l xml:id="swift-686-03P3-line-480" n="480">The Boy made use of all his Craft,</l>
+            <l xml:id="swift-686-03P3-line-481" n="481">In vain discharging many a Shaft,</l>
+            <l xml:id="swift-686-03P3-line-482" n="482">Pointed at Col'nels, Lords, and Beaux;</l>
+            <l xml:id="swift-686-03P3-line-483" n="483"><hi rend="italics">Cadenus</hi> warded off the Blows,</l>
+            <l xml:id="swift-686-03P3-line-484" n="484">For placing still some Book betwixt,</l>
+            <l xml:id="swift-686-03P3-line-485" n="485">The Darts were in the Cover fix'd,</l>
+            <l xml:id="swift-686-03P3-line-486" n="486">Or often blunted and recoil'd,</l>
+            <l xml:id="swift-686-03P3-line-487" n="487">On <hi rend="italics">Plutarch</hi>'s Morals struck, were spoil'd.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-488" n="488"><lb/>T<hi rend="small-caps">HE</hi> Queen of Wisdom cou'd foresee,</l>
+            <l xml:id="swift-686-03P3-line-489" n="489">But not prevent the Fates Decree;</l>
+            <l xml:id="swift-686-03P3-line-490" n="490">And human Caution tries in vain</l>
+            <l xml:id="swift-686-03P3-line-491" n="491">To break that Adamantine Chain.</l>
+            <l xml:id="swift-686-03P3-line-492" n="492"><hi rend="italics">Vanessa</hi>, tho' by <hi rend="italics">Pallas</hi> taught,</l>
+            <l xml:id="swift-686-03P3-line-493" n="493">By <hi rend="italics">Love</hi> invulnerable thought,</l>
+            <l xml:id="swift-686-03P3-line-494" n="494">Searching in Books for Wisdom's Aid,</l>
+            <l xml:id="swift-686-03P3-line-495" n="495">Was, in the very Search, betray'd.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-496" n="496"><lb/><hi rend="italics">Cupid</hi>, tho' all his Darts were lost,</l>
+            <l xml:id="swift-686-03P3-line-497" n="497">Yet still resolv'd to spare no Cost;</l>
+            <l xml:id="swift-686-03P3-line-498" n="498">He could not answer to his Fame</l>
+            <l xml:id="swift-686-03P3-line-499" n="499">The Triumphs of that stubborn Dame,</l>
+            <l xml:id="swift-686-03P3-line-500" n="500">A Nymph so hard to be subdu'd,</l>
+            <l xml:id="swift-686-03P3-line-501" n="501">Who neither was Coquette nor Prude.</l>
+            <l xml:id="swift-686-03P3-line-502" n="502">I find, says he, she wants a Doctor,</l>
+            <l xml:id="swift-686-03P3-line-503" n="503">Both to adore her and instruct her;</l>
+            <l xml:id="swift-686-03P3-line-504" n="504">I'll give her what she most admires,</l>
+            <l xml:id="swift-686-03P3-line-505" n="505">Among those venerable Sires.</l>
+            <l xml:id="swift-686-03P3-line-506" n="506"><hi rend="italics">Cadenus</hi> is a Subject fit,</l>
+            <l xml:id="swift-686-03P3-line-507" n="507">Grown old in Politicks and Wit;</l>
+            <l xml:id="swift-686-03P3-line-508" n="508">Caress'd by Ministers of State,</l>
+            <l xml:id="swift-686-03P3-line-509" n="509">Of half Mankind the Dread and Hate.</l>
+            <l xml:id="swift-686-03P3-line-510" n="510">Whate'er Vexations Love attend,</l>
+            <l xml:id="swift-686-03P3-line-511" n="511">She need no Rivals apprehend.</l>
+            <l xml:id="swift-686-03P3-line-512" n="512">Her Sex, with universal Voice,</l>
+            <l xml:id="swift-686-03P3-line-513" n="513">Must laugh at her capricious Choice.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-514" n="514"><lb/><hi rend="italics">Cadenus</hi> many Things had writ;</l>
+            <l xml:id="swift-686-03P3-line-515" n="515"><hi rend="italics">Vanessa</hi> much esteem'd his Wit,</l>
+            <l xml:id="swift-686-03P3-line-516" n="516">And call'd for his Poetick Works;</l>
+            <l xml:id="swift-686-03P3-line-517" n="517">Mean time the Boy in secret lurks,</l>
+            <l xml:id="swift-686-03P3-line-518" n="518">And while the Book was in her Hand,</l>
+            <l xml:id="swift-686-03P3-line-519" n="519">The Urchin from his private Stand</l>
+            <l xml:id="swift-686-03P3-line-520" n="520">Took Aim, and shot with all his Strength</l>
+            <l xml:id="swift-686-03P3-line-521" n="521">A Dart of such prodigious Length,</l>
+            <l xml:id="swift-686-03P3-line-522" n="522">It pierc'd the feeble Volume thro',</l>
+            <l xml:id="swift-686-03P3-line-523" n="523">And deep transfix'd her Bosom too.</l>
+            <l xml:id="swift-686-03P3-line-524" n="524">Some Lines, more moving than the rest,</l>
+            <l xml:id="swift-686-03P3-line-525" n="525">Stuck to the Point that pierc'd her Breast;</l>
+            <l xml:id="swift-686-03P3-line-526" n="526">And, born directly to the Heart,</l>
+            <l xml:id="swift-686-03P3-line-527" n="527">With Pains unknown, increas'd her Smart.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-528" n="528"><lb/><hi rend="italics">Vanessa</hi>, not in Years a Score,</l>
+            <l xml:id="swift-686-03P3-line-529" n="529">Dreams of a Gown of forty-four;</l>
+            <l xml:id="swift-686-03P3-line-530" n="530">Imaginary Charms can find,</l>
+            <l xml:id="swift-686-03P3-line-531" n="531">In Eyes with Reading almost blind;</l>
+            <l xml:id="swift-686-03P3-line-532" n="532"><hi rend="italics">Cadenus</hi> now no more appears</l>
+            <l xml:id="swift-686-03P3-line-533" n="533">Declin'd in Health, advanc'd in Years.</l>
+            <l xml:id="swift-686-03P3-line-534" n="534">She fancies Musick in his Tongue,</l>
+            <l xml:id="swift-686-03P3-line-535" n="535">Nor farther looks, but thinks him young.</l>
+            <l xml:id="swift-686-03P3-line-536" n="536">What Mariner is not afraid,</l>
+            <l xml:id="swift-686-03P3-line-537" n="537">To venture in a Ship decay'd?</l>
+            <l xml:id="swift-686-03P3-line-538" n="538">What Planter will attempt to yoke</l>
+            <l xml:id="swift-686-03P3-line-539" n="539">A Sapling with a falling Oak?</l>
+            <l xml:id="swift-686-03P3-line-540" n="540">As Years increase, she brighter shines,</l>
+            <l xml:id="swift-686-03P3-line-541" n="541"><hi rend="italics">Cadenus</hi> with each Day declines,</l>
+            <l xml:id="swift-686-03P3-line-542" n="542">And he must fall a Prey to Time,</l>
+            <l xml:id="swift-686-03P3-line-543" n="543">While she continues in her Prime.</l>
+            <l xml:id="swift-686-03P3-line-544" n="544">om.</l>
+            <l xml:id="swift-686-03P3-line-545" n="545">om.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-546" n="546"><lb/><hi rend="italics">Cadenus</hi>, common Forms apart,</l>
+            <l xml:id="swift-686-03P3-line-547" n="547">In every Scene had kept his Heart;</l>
+            <l xml:id="swift-686-03P3-line-548" n="548">Had sigh'd and languish'd, vow'd, and writ,</l>
+            <l xml:id="swift-686-03P3-line-549" n="549">For Pastime, or to shew his Wit;</l>
+            <l xml:id="swift-686-03P3-line-550" n="550">But Time, and Books, and State Affairs</l>
+            <l xml:id="swift-686-03P3-line-551" n="551">Had spoil'd his fashionable Airs;</l>
+            <l xml:id="swift-686-03P3-line-552" n="552">He now cou'd praise, esteem, approve,</l>
+            <l xml:id="swift-686-03P3-line-553" n="553">But understood not what was Love.</l>
+            <l xml:id="swift-686-03P3-line-554" n="554">His Conduct might have made him styl'd</l>
+            <l xml:id="swift-686-03P3-line-555" n="555">A Father, and the Nymph his Child.</l>
+            <l xml:id="swift-686-03P3-line-556" n="556">That innocent Delight he took</l>
+            <l xml:id="swift-686-03P3-line-557" n="557">To see the Virgin mind her Book,</l>
+            <l xml:id="swift-686-03P3-line-558" n="558">Was but the Master's secret Joy</l>
+            <l xml:id="swift-686-03P3-line-559" n="559">In School to hear the finest Boy.</l>
+            <l xml:id="swift-686-03P3-line-560" n="560">Her Knowledge with her Fancy grew;</l>
+            <l xml:id="swift-686-03P3-line-561" n="561">She hourly press'd for something new;</l>
+            <l xml:id="swift-686-03P3-line-562" n="562"><hi rend="italics">Ideas</hi> came into her Mind</l>
+            <l xml:id="swift-686-03P3-line-563" n="563">So fast, his Lessons lagg'd behind:</l>
+            <l xml:id="swift-686-03P3-line-564" n="564">She reason'd, without plodding long,</l>
+            <l xml:id="swift-686-03P3-line-565" n="565">Nor ever gave her Judgment wrong.</l>
+            <l xml:id="swift-686-03P3-line-566" n="566">But now a sudden Change was wrought,</l>
+            <l xml:id="swift-686-03P3-line-567" n="567">She minds no longer what he taught.</l>
+            <l xml:id="swift-686-03P3-line-568" n="568">om.</l>
+            <l xml:id="swift-686-03P3-line-569" n="569">om.</l>
+            <l xml:id="swift-686-03P3-line-570" n="570">om.</l>
+            <l xml:id="swift-686-03P3-line-571" n="571">om.</l>
+            <l xml:id="swift-686-03P3-line-572" n="572">om.</l>
+            <l xml:id="swift-686-03P3-line-573" n="573">om.</l>
+            <l xml:id="swift-686-03P3-line-574" n="574">om.</l>
+            <l xml:id="swift-686-03P3-line-575" n="575">om.</l>
+            <l xml:id="swift-686-03P3-line-576" n="576"><hi rend="italics">Cadenus</hi> was amaz'd to find</l>
+            <l xml:id="swift-686-03P3-line-577" n="577">Such Marks of a distracted Mind;</l>
+            <l xml:id="swift-686-03P3-line-578" n="578">For tho' she seem'd to listen more</l>
+            <l xml:id="swift-686-03P3-line-579" n="579">To all he spoke, than e'er before;</l>
+            <l xml:id="swift-686-03P3-line-580" n="580">He found her Thoughts would absent range,</l>
+            <l xml:id="swift-686-03P3-line-581" n="581">Yet guess'd not whence could spring the Change.</l>
+            <l xml:id="swift-686-03P3-line-582" n="582">And first he modestly conjectures</l>
+            <l xml:id="swift-686-03P3-line-583" n="583">His Pupil might be tir'd with Lectures;</l>
+            <l xml:id="swift-686-03P3-line-584" n="584">Which help'd to mortify his Pride,</l>
+            <l xml:id="swift-686-03P3-line-585" n="585">Yet gave him not the Heart to chide;</l>
+            <l xml:id="swift-686-03P3-line-586" n="586">But in a mild dejected Strain,</l>
+            <l xml:id="swift-686-03P3-line-587" n="587">At last he ventur'd to complain:</l>
+            <l xml:id="swift-686-03P3-line-588" n="588">Said, she shou'd be no longer teiz'd;</l>
+            <l xml:id="swift-686-03P3-line-589" n="589">Might have her Freedom when she pleas'd:</l>
+            <l xml:id="swift-686-03P3-line-590" n="590">Was now convinc'd he acted wrong,</l>
+            <l xml:id="swift-686-03P3-line-591" n="591">To hide her from the World so long;</l>
+            <l xml:id="swift-686-03P3-line-592" n="592">And in dull Studies to engage</l>
+            <l xml:id="swift-686-03P3-line-593" n="593">One of her tender Sex and Age.</l>
+            <l xml:id="swift-686-03P3-line-594" n="594">That ev'ry Nymph with Envy own'd,</l>
+            <l xml:id="swift-686-03P3-line-595" n="595">How she might shine in the <hi rend="italics">Grand-Monde</hi>,</l>
+            <l xml:id="swift-686-03P3-line-596" n="596">And ev'ry Shepherd was undone</l>
+            <l xml:id="swift-686-03P3-line-597" n="597">To see her cloister'd like a Nun.</l>
+            <l xml:id="swift-686-03P3-line-598" n="598">This was a visionary Scheme;</l>
+            <l xml:id="swift-686-03P3-line-599" n="599">He wak'd, and found it but a Dream;</l>
+            <l xml:id="swift-686-03P3-line-600" n="600">A Project far above his Skill,</l>
+            <l xml:id="swift-686-03P3-line-601" n="601">For Nature must be Nature still.</l>
+            <l xml:id="swift-686-03P3-line-602" n="602">If he was bolder than became</l>
+            <l xml:id="swift-686-03P3-line-603" n="603">A Scholar to a courtly Dame,</l>
+            <l xml:id="swift-686-03P3-line-604" n="604">She might excuse a Man of Letters;</l>
+            <l xml:id="swift-686-03P3-line-605" n="605">Thus Tutors often treat their Betters.</l>
+            <l xml:id="swift-686-03P3-line-606" n="606">And since his Talk offensive grew,</l>
+            <l xml:id="swift-686-03P3-line-607" n="607">He came to take his last Adieu.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-608" n="608"><lb/><hi rend="italics">Vanessa</hi>, fill'd with just Disdain,</l>
+            <l xml:id="swift-686-03P3-line-609" n="609">Wou'd still her Dignity maintain,</l>
+            <l xml:id="swift-686-03P3-line-610" n="610">Instructed from her early Years</l>
+            <l xml:id="swift-686-03P3-line-611" n="611">To scorn the Art of Female Tears.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-612" n="612"><lb/>H<hi rend="small-caps">AD</hi> he employ'd his Time so long,</l>
+            <l xml:id="swift-686-03P3-line-613" n="613">To teach her what was Right or Wrong,</l>
+            <l xml:id="swift-686-03P3-line-614" n="614">Yet cou'd such Notions entertain,</l>
+            <l xml:id="swift-686-03P3-line-615" n="615">That all his Lectures were in vain?</l>
+            <l xml:id="swift-686-03P3-line-616" n="616">She own'd the Wand'ring of her Thoughts,</l>
+            <l xml:id="swift-686-03P3-line-617" n="617">But he must answer for her Faults.</l>
+            <l xml:id="swift-686-03P3-line-618" n="618">She well remember'd to her Cost,</l>
+            <l xml:id="swift-686-03P3-line-619" n="619">That all his Lessons were not lost.</l>
+            <l xml:id="swift-686-03P3-line-620" n="620">Two Maxims she could still produce,</l>
+            <l xml:id="swift-686-03P3-line-621" n="621">And sad Experience taught her Use:</l>
+            <l xml:id="swift-686-03P3-line-622" n="622">That Virtue, pleas'd by being shown,</l>
+            <l xml:id="swift-686-03P3-line-623" n="623">Knows nothing which it dare not own;</l>
+            <l xml:id="swift-686-03P3-line-624" n="624">Can make us without Fear disclose</l>
+            <l xml:id="swift-686-03P3-line-625" n="625">Our inmost Secrets to our Foes:</l>
+            <l xml:id="swift-686-03P3-line-626" n="626">That common Forms were not design'd</l>
+            <l xml:id="swift-686-03P3-line-627" n="627">Directors to a noble Mind.</l>
+            <l xml:id="swift-686-03P3-line-628" n="628">Now, said the Nymph, I'll let you see</l>
+            <l xml:id="swift-686-03P3-line-629" n="629">My Actions with your Rules agree,</l>
+            <l xml:id="swift-686-03P3-line-630" n="630">That I can vulgar Forms despise,</l>
+            <l xml:id="swift-686-03P3-line-631" n="631">And have no Secrets to disguise.</l>
+            <l xml:id="swift-686-03P3-line-632" n="632">om.</l>
+            <l xml:id="swift-686-03P3-line-633" n="633">om.</l>
+            <l xml:id="swift-686-03P3-line-634" n="634">I knew by what you said and writ,</l>
+            <l xml:id="swift-686-03P3-line-635" n="635">How dang'rous Things were Men of Wit;</l>
+            <l xml:id="swift-686-03P3-line-636" n="636">You caution'd me against their Charms,</l>
+            <l xml:id="swift-686-03P3-line-637" n="637">But never gave me equal Arms;</l>
+            <l xml:id="swift-686-03P3-line-638" n="638">Your Lessons found the weakest Part,</l>
+            <l xml:id="swift-686-03P3-line-639" n="639">Aim'd at the Head, but reach'd the Heart.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-640" n="640"><lb/><hi rend="italics">CADENUS</hi> felt within him rise</l>
+            <l xml:id="swift-686-03P3-line-641" n="641">Shame, Disappointment, Guilt, Surprize.</l>
+            <l xml:id="swift-686-03P3-line-642" n="642">He knew not how to reconcile</l>
+            <l xml:id="swift-686-03P3-line-643" n="643">Such Language, with her usual Style:</l>
+            <l xml:id="swift-686-03P3-line-644" n="644">And yet her Words were so exprest,</l>
+            <l xml:id="swift-686-03P3-line-645" n="645">He cou'd not hope she spoke in Jest.</l>
+            <l xml:id="swift-686-03P3-line-646" n="646">His Thoughts had wholly been confin'd</l>
+            <l xml:id="swift-686-03P3-line-647" n="647">To form and cultivate her Mind.</l>
+            <l xml:id="swift-686-03P3-line-648" n="648">He hardly knew, 'till he was told,</l>
+            <l xml:id="swift-686-03P3-line-649" n="649">Whether the Nymph were Young or Old;</l>
+            <l xml:id="swift-686-03P3-line-650" n="650">Had met her in a publick Place,</l>
+            <l xml:id="swift-686-03P3-line-651" n="651">Without distinguishing her Face.</l>
+            <l xml:id="swift-686-03P3-line-652" n="652">Much less could his declining Age</l>
+            <l xml:id="swift-686-03P3-line-653" n="653"><hi rend="italics">Vanessa</hi>'s earliest Thoughts engage.</l>
+            <l xml:id="swift-686-03P3-line-654" n="654">And if her Youth Indifference met,</l>
+            <l xml:id="swift-686-03P3-line-655" n="655">His Person must Contempt beget.</l>
+            <l xml:id="swift-686-03P3-line-656" n="656">Or grant her Passion be sincere,</l>
+            <l xml:id="swift-686-03P3-line-657" n="657">How shall his Innocence be clear?</l>
+            <l xml:id="swift-686-03P3-line-658" n="658">Appearances were all so strong,</l>
+            <l xml:id="swift-686-03P3-line-659" n="659">The World must think him in the Wrong;</l>
+            <l xml:id="swift-686-03P3-line-660" n="660">Wou'd say, He made a treach'rous Use</l>
+            <l xml:id="swift-686-03P3-line-661" n="661">Of Wit, to flatter and seduce:</l>
+            <l xml:id="swift-686-03P3-line-662" n="662">The Town wou'd swear he had betray'd,</l>
+            <l xml:id="swift-686-03P3-line-663" n="663">By Magick Spells, the harmless Maid;</l>
+            <l xml:id="swift-686-03P3-line-664" n="664">And ev'ry Beau wou'd have his Jokes,</l>
+            <l xml:id="swift-686-03P3-line-665" n="665">That Scholars were like other Folks:</l>
+            <l xml:id="swift-686-03P3-line-666" n="666">That when Platonick Flights were over,</l>
+            <l xml:id="swift-686-03P3-line-667" n="667">The Tutor turn'd a mortal Lover.</l>
+            <l xml:id="swift-686-03P3-line-668" n="668">So tender of the Young and Fair?</l>
+            <l xml:id="swift-686-03P3-line-669" n="669">It shew'd a true Paternal Care──────</l>
+            <l xml:id="swift-686-03P3-line-670" n="670">Five Thousand Guineas in her Purse?</l>
+            <l xml:id="swift-686-03P3-line-671" n="671">The Doctor might have fancy'd worse.──────</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-672" n="672"><lb/>H<hi rend="small-caps">ARDLY</hi> at length he Silence broke,</l>
+            <l xml:id="swift-686-03P3-line-673" n="673">And faulter'd ev'ry Word he spoke;</l>
+            <l xml:id="swift-686-03P3-line-674" n="674">Interpreting her Complaisance,</l>
+            <l xml:id="swift-686-03P3-line-675" n="675">Just as a Man <hi rend="italics">sans Consequence</hi>.</l>
+            <l xml:id="swift-686-03P3-line-676" n="676">She rally'd well, he always knew,</l>
+            <l xml:id="swift-686-03P3-line-677" n="677">Her Manner now was something new;</l>
+            <l xml:id="swift-686-03P3-line-678" n="678">And what she spoke was in an Air,</l>
+            <l xml:id="swift-686-03P3-line-679" n="679">As serious as a Tragick Play'r.</l>
+            <l xml:id="swift-686-03P3-line-680" n="680">But those who aim at Ridicule</l>
+            <l xml:id="swift-686-03P3-line-681" n="681">Shou'd fix upon some certain Rule,</l>
+            <l xml:id="swift-686-03P3-line-682" n="682">Which fairly hints they are in Jest,</l>
+            <l xml:id="swift-686-03P3-line-683" n="683">Else he must enter his Protest:</l>
+            <l xml:id="swift-686-03P3-line-684" n="684">For, let a Man be ne'er so wise,</l>
+            <l xml:id="swift-686-03P3-line-685" n="685">He may be caught with sober Lies;</l>
+            <l xml:id="swift-686-03P3-line-686" n="686">A Science which he never taught,</l>
+            <l xml:id="swift-686-03P3-line-687" n="687">And, to be free, was dearly bought:</l>
+            <l xml:id="swift-686-03P3-line-688" n="688">For, take it in its proper Light,</l>
+            <l xml:id="swift-686-03P3-line-689" n="689">'Tis just what Coxcombs call <hi rend="italics">a Bite</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-690" n="690"><lb/>B<hi rend="small-caps">UT</hi> not to dwell on Things minute,</l>
+            <l xml:id="swift-686-03P3-line-691" n="691"><hi rend="italics">Vanessa</hi> finish'd the Dispute,</l>
+            <l xml:id="swift-686-03P3-line-692" n="692">Brought weighty Arguments to prove</l>
+            <l xml:id="swift-686-03P3-line-693" n="693">That Reason was her Guide in Love.</l>
+            <l xml:id="swift-686-03P3-line-694" n="694">She thought he had himself describ'd,</l>
+            <l xml:id="swift-686-03P3-line-695" n="695">His Doctrines when she first imbib'd;</l>
+            <l xml:id="swift-686-03P3-line-696" n="696">om.</l>
+            <l xml:id="swift-686-03P3-line-697" n="697">om.</l>
+            <l xml:id="swift-686-03P3-line-698" n="698">What he had planted, now was grown;</l>
+            <l xml:id="swift-686-03P3-line-699" n="699">His Virtues she might call her own;</l>
+            <l xml:id="swift-686-03P3-line-700" n="700">As he approves, as he dislikes,</l>
+            <l xml:id="swift-686-03P3-line-701" n="701">Love or Contempt her Fancy strikes.</l>
+            <l xml:id="swift-686-03P3-line-702" n="702">Self-Love in Nature rooted fast,</l>
+            <l xml:id="swift-686-03P3-line-703" n="703">Attends us first, and leaves us last:</l>
+            <l xml:id="swift-686-03P3-line-704" n="704">Why she likes him, admire not at her,</l>
+            <l xml:id="swift-686-03P3-line-705" n="705">She loves herself, and that's the Matter.</l>
+            <l xml:id="swift-686-03P3-line-706" n="706">How was her Tutor wont to praise</l>
+            <l xml:id="swift-686-03P3-line-707" n="707">The Genius's of ancient Days!</l>
+            <l xml:id="swift-686-03P3-line-708" n="708">(Those Authors he so oft had nam'd</l>
+            <l xml:id="swift-686-03P3-line-709" n="709">For Learning, Wit, and Wisdom fam'd;)</l>
+            <l xml:id="swift-686-03P3-line-710" n="710">Was struck with Love, Esteem, and Awe,</l>
+            <l xml:id="swift-686-03P3-line-711" n="711">For Persons whom he never saw.</l>
+            <l xml:id="swift-686-03P3-line-712" n="712">Suppose <hi rend="italics">Cadenus</hi> flourish'd then,</l>
+            <l xml:id="swift-686-03P3-line-713" n="713">He must adore such God-like Men.</l>
+            <l xml:id="swift-686-03P3-line-714" n="714">If one short Volume cou'd comprise</l>
+            <l xml:id="swift-686-03P3-line-715" n="715">All that was witty, learn'd, and wise,</l>
+            <l xml:id="swift-686-03P3-line-716" n="716">How wou'd it be esteem'd, and read,</l>
+            <l xml:id="swift-686-03P3-line-717" n="717">Altho' the Writer long were dead?</l>
+            <l xml:id="swift-686-03P3-line-718" n="718">If such an Author were alive,</l>
+            <l xml:id="swift-686-03P3-line-719" n="719">How all wou'd for his Friendship strive;</l>
+            <l xml:id="swift-686-03P3-line-720" n="720">And come in Crowds to see his Face?</l>
+            <l xml:id="swift-686-03P3-line-721" n="721">And this she takes to be her Case.</l>
+            <l xml:id="swift-686-03P3-line-722" n="722"><hi rend="italics">Cadenus</hi> answers every End,</l>
+            <l xml:id="swift-686-03P3-line-723" n="723">The Book, the Author, and the Friend,</l>
+            <l xml:id="swift-686-03P3-line-724" n="724">The utmost her Desires will reach,</l>
+            <l xml:id="swift-686-03P3-line-725" n="725">Is but to learn what he can teach;</l>
+            <l xml:id="swift-686-03P3-line-726" n="726">His Converse is a System, fit</l>
+            <l xml:id="swift-686-03P3-line-727" n="727">Alone to fill up all her Wit;</l>
+            <l xml:id="swift-686-03P3-line-728" n="728">While ev'ry Passion of her Mind</l>
+            <l xml:id="swift-686-03P3-line-729" n="729">In him is center'd and confin'd.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-730" n="730"><lb/>L<hi rend="small-caps">OVE</hi> can with Speech inspire a Mute,</l>
+            <l xml:id="swift-686-03P3-line-731" n="731">And taught <hi rend="italics">Vanessa</hi> to dispute.</l>
+            <l xml:id="swift-686-03P3-line-732" n="732">This Topick, never touch'd before,</l>
+            <l xml:id="swift-686-03P3-line-733" n="733">Display'd her Eloquence the more:</l>
+            <l xml:id="swift-686-03P3-line-734" n="734">Her Knowledge, with such Pains acquir'd,</l>
+            <l xml:id="swift-686-03P3-line-735" n="735">By this new Passion grew inspir'd.</l>
+            <l xml:id="swift-686-03P3-line-736" n="736">Thro' this she made all Objects pass,</l>
+            <l xml:id="swift-686-03P3-line-737" n="737">Which gave a Tincture o'er the Mass:</l>
+            <l xml:id="swift-686-03P3-line-738" n="738">As Rivers, tho' they bend and twine,</l>
+            <l xml:id="swift-686-03P3-line-739" n="739">Still to the Sea their Course incline;</l>
+            <l xml:id="swift-686-03P3-line-740" n="740">Or, as Philosophers, who find</l>
+            <l xml:id="swift-686-03P3-line-741" n="741">Some fav'rite System to their Mind,</l>
+            <l xml:id="swift-686-03P3-line-742" n="742">In ev'ry Point to make it fit,</l>
+            <l xml:id="swift-686-03P3-line-743" n="743">Will force all Nature to submit.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-744" n="744"><lb/><hi rend="italics">CADENUS</hi>, who cou'd ne'er suspect</l>
+            <l xml:id="swift-686-03P3-line-745" n="745">His Lessons wou'd have such Effect,</l>
+            <l xml:id="swift-686-03P3-line-746" n="746">Or be so artfully apply'd,</l>
+            <l xml:id="swift-686-03P3-line-747" n="747">Insensibly came on her Side;</l>
+            <l xml:id="swift-686-03P3-line-748" n="748">It was an unforeseen Event,</l>
+            <l xml:id="swift-686-03P3-line-749" n="749">Things took a Turn he never meant.</l>
+            <l xml:id="swift-686-03P3-line-750" n="750">Whoe'er excels in what we prize,</l>
+            <l xml:id="swift-686-03P3-line-751" n="751">Appears a Hero to our Eyes;</l>
+            <l xml:id="swift-686-03P3-line-752" n="752">Each Girl when pleas'd with what is taught,</l>
+            <l xml:id="swift-686-03P3-line-753" n="753">Will have the Teacher in her Thought.</l>
+            <l xml:id="swift-686-03P3-line-754" n="754">When Miss delights in her Spinnet,</l>
+            <l xml:id="swift-686-03P3-line-755" n="755">A Fidler may a Fortune get;</l>
+            <l xml:id="swift-686-03P3-line-756" n="756">A Blockhead with melodious Voice</l>
+            <l xml:id="swift-686-03P3-line-757" n="757">In Boarding-Schools can have his Choice;</l>
+            <l xml:id="swift-686-03P3-line-758" n="758">And oft' the Dancing-Master's Art</l>
+            <l xml:id="swift-686-03P3-line-759" n="759">Climbs from the Toe to touch the Heart.</l>
+            <l xml:id="swift-686-03P3-line-760" n="760">In Learning let a Nymph delight,</l>
+            <l xml:id="swift-686-03P3-line-761" n="761">The Pedant gets a Mistress by't.</l>
+            <l xml:id="swift-686-03P3-line-762" n="762"><hi rend="italics">Cadenus</hi>, to his Grief and Shame,</l>
+            <l xml:id="swift-686-03P3-line-763" n="763">Cou'd scarce oppose <hi rend="italics">Vanessa</hi>'s Flame;</l>
+            <l xml:id="swift-686-03P3-line-764" n="764">But tho' her Arguments were strong,</l>
+            <l xml:id="swift-686-03P3-line-765" n="765">At least, cou'd hardly wish them wrong.</l>
+            <l xml:id="swift-686-03P3-line-766" n="766">Howe'er it came, he cou'd not tell,</l>
+            <l xml:id="swift-686-03P3-line-767" n="767">But, sure, she never talk'd so well.</l>
+            <l xml:id="swift-686-03P3-line-768" n="768">His Pride began to interpose,</l>
+            <l xml:id="swift-686-03P3-line-769" n="769">Preferr'd before a Crowd of Beaux,</l>
+            <l xml:id="swift-686-03P3-line-770" n="770">So bright a Nymph to come unsought,</l>
+            <l xml:id="swift-686-03P3-line-771" n="771">Such Wonder by his Merit wrought;</l>
+            <l xml:id="swift-686-03P3-line-772" n="772">'Tis Merit must with her prevail,</l>
+            <l xml:id="swift-686-03P3-line-773" n="773">He never knew her Judgment fail.</l>
+            <l xml:id="swift-686-03P3-line-774" n="774">She noted all she ever read,</l>
+            <l xml:id="swift-686-03P3-line-775" n="775">And had a most discerning Head.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-776" n="776"><lb/>'T<hi rend="small-caps">IS</hi> an old Maxim in the Schools,</l>
+            <l xml:id="swift-686-03P3-line-777" n="777">That Vanity's the Food of Fools;</l>
+            <l xml:id="swift-686-03P3-line-778" n="778">Yet now and then your Men of Wit</l>
+            <l xml:id="swift-686-03P3-line-779" n="779">Will condescend to take a Bit.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-780" n="780"><lb/>So when <hi rend="italics">Cadenus</hi> could not hide,</l>
+            <l xml:id="swift-686-03P3-line-781" n="781">He chose to justify his Pride;</l>
+            <l xml:id="swift-686-03P3-line-782" n="782">Constr'ing the Passion she had shown,</l>
+            <l xml:id="swift-686-03P3-line-783" n="783">Much to her Praise, more to his Own.</l>
+            <l xml:id="swift-686-03P3-line-784" n="784">Nature in him had Merit placed,</l>
+            <l xml:id="swift-686-03P3-line-785" n="785">In her, a most judicious Taste.</l>
+            <l xml:id="swift-686-03P3-line-786" n="786">Love, hitherto a transient Guest,</l>
+            <l xml:id="swift-686-03P3-line-787" n="787">Ne'er held Possession of his Breast;</l>
+            <l xml:id="swift-686-03P3-line-788" n="788">So, long attending at the Gate,</l>
+            <l xml:id="swift-686-03P3-line-789" n="789">Disdain'd to enter in so late.</l>
+            <l xml:id="swift-686-03P3-line-790" n="790"><hi rend="italics">Love</hi>, why do we one Passion call?</l>
+            <l xml:id="swift-686-03P3-line-791" n="791">When 'tis a Compound of them all;</l>
+            <l xml:id="swift-686-03P3-line-792" n="792">Where hot and cold, where sharp and sweet,</l>
+            <l xml:id="swift-686-03P3-line-793" n="793">In all their Equipages meet;</l>
+            <l xml:id="swift-686-03P3-line-794" n="794">Where Pleasures mix'd with Pains appear,</l>
+            <l xml:id="swift-686-03P3-line-795" n="795">Sorrow with Joy, and Hope with Fear.</l>
+            <l xml:id="swift-686-03P3-line-796" n="796">Wherein his Dignity and Age</l>
+            <l xml:id="swift-686-03P3-line-797" n="797">Forbid <hi rend="italics">Cadenus</hi> to engage.</l>
+            <l xml:id="swift-686-03P3-line-798" n="798">But Friendship in its greatest Height,</l>
+            <l xml:id="swift-686-03P3-line-799" n="799">A constant, rational Delight,</l>
+            <l xml:id="swift-686-03P3-line-800" n="800">On Virtue's Basis fix'd to last,</l>
+            <l xml:id="swift-686-03P3-line-801" n="801">When Love's Allurements long are past;</l>
+            <l xml:id="swift-686-03P3-line-802" n="802">Which gently warms, but cannot burn;</l>
+            <l xml:id="swift-686-03P3-line-803" n="803">He gladly offers in return:</l>
+            <l xml:id="swift-686-03P3-line-804" n="804">His Want of Passion will redeem,</l>
+            <l xml:id="swift-686-03P3-line-805" n="805">With Gratitude, Respect, Esteem:</l>
+            <l xml:id="swift-686-03P3-line-806" n="806">With that Devotion we bestow,</l>
+            <l xml:id="swift-686-03P3-line-807" n="807">When Goddesses appear below.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-808" n="808"><lb/>W<hi rend="small-caps">HILE</hi> thus <hi rend="italics">Cadenus</hi> entertains</l>
+            <l xml:id="swift-686-03P3-line-809" n="809"><hi rend="italics">Vanessa</hi> in exalted Strains,</l>
+            <l xml:id="swift-686-03P3-line-810" n="810">The Nymph in sober Words intreats</l>
+            <l xml:id="swift-686-03P3-line-811" n="811">A Truce with all sublime Conceits.</l>
+            <l xml:id="swift-686-03P3-line-812" n="812">For why such Raptures, Flights, and Fancies,</l>
+            <l xml:id="swift-686-03P3-line-813" n="813">To her, who durst not read Romances;</l>
+            <l xml:id="swift-686-03P3-line-814" n="814">In lofty Style to make Replies,</l>
+            <l xml:id="swift-686-03P3-line-815" n="815">Which he had taught her to despise?</l>
+            <l xml:id="swift-686-03P3-line-816" n="816">But when her Tutor will affect</l>
+            <l xml:id="swift-686-03P3-line-817" n="817">Devotion, Duty, and Respect,</l>
+            <l xml:id="swift-686-03P3-line-818" n="818">He fairly abdicates his Throne,</l>
+            <l xml:id="swift-686-03P3-line-819" n="819">The Government is now her own:</l>
+            <l xml:id="swift-686-03P3-line-820" n="820">He has a Forfeiture incurr'd,</l>
+            <l xml:id="swift-686-03P3-line-821" n="821">She vows to take him at his Word,</l>
+            <l xml:id="swift-686-03P3-line-822" n="822">And hopes he will not take it strange</l>
+            <l xml:id="swift-686-03P3-line-823" n="823">If both shou'd now their Stations change.</l>
+            <l xml:id="swift-686-03P3-line-824" n="824">The Nymph will have her Turn, to be</l>
+            <l xml:id="swift-686-03P3-line-825" n="825">The Tutor; and the Pupil, he:</l>
+            <l xml:id="swift-686-03P3-line-826" n="826">Tho' she already can discern,</l>
+            <l xml:id="swift-686-03P3-line-827" n="827">Her Scholar is not apt to learn;</l>
+            <l xml:id="swift-686-03P3-line-828" n="828">Or wants Capacity to reach</l>
+            <l xml:id="swift-686-03P3-line-829" n="829">The Science she designs to teach:</l>
+            <l xml:id="swift-686-03P3-line-830" n="830">Wherein his Genius was below</l>
+            <l xml:id="swift-686-03P3-line-831" n="831">The Skill of ev'ry common Beau;</l>
+            <l xml:id="swift-686-03P3-line-832" n="832">Who, tho' he cannot spell, is wise</l>
+            <l xml:id="swift-686-03P3-line-833" n="833">Enough to read a Lady's Eyes;</l>
+            <l xml:id="swift-686-03P3-line-834" n="834">And will each accidental Glance</l>
+            <l xml:id="swift-686-03P3-line-835" n="835">Interpret for a kind Advance.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-836" n="836"><lb/>B<hi rend="small-caps">UT</hi> what Success <hi rend="italics">Vanessa</hi> met,</l>
+            <l xml:id="swift-686-03P3-line-837" n="837">Is to the World a Secret yet:</l>
+            <l xml:id="swift-686-03P3-line-838" n="838">Whether the Nymph, to please her Swain,</l>
+            <l xml:id="swift-686-03P3-line-839" n="839">Talks in a high Romantick Strain;</l>
+            <l xml:id="swift-686-03P3-line-840" n="840">Or whether he at last descends</l>
+            <l xml:id="swift-686-03P3-line-841" n="841">To like with less Seraphick Ends;</l>
+            <l xml:id="swift-686-03P3-line-842" n="842">Or, to compound the Business, whether</l>
+            <l xml:id="swift-686-03P3-line-843" n="843">They temper Love and Books together;</l>
+            <l xml:id="swift-686-03P3-line-844" n="844">Must never to Mankind be told,</l>
+            <l xml:id="swift-686-03P3-line-845" n="845">Nor shall the conscious Muse unfold.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-846" n="846"><lb/>M<hi rend="small-caps">EAN</hi> Time the mournfull <hi rend="italics">Queen of Love</hi></l>
+            <l xml:id="swift-686-03P3-line-847" n="847">Led but a weary Life above.</l>
+            <l xml:id="swift-686-03P3-line-848" n="848">She ventures now to leave the Skies,</l>
+            <l xml:id="swift-686-03P3-line-849" n="849">Grown by <hi rend="italics">Vanessa</hi>'s Conduct wise.</l>
+            <l xml:id="swift-686-03P3-line-850" n="850">For tho' by one perverse Event</l>
+            <l xml:id="swift-686-03P3-line-851" n="851"><hi rend="italics">Pallas</hi> had cross'd her first Intent,</l>
+            <l xml:id="swift-686-03P3-line-852" n="852">Tho' her Design was not obtain'd,</l>
+            <l xml:id="swift-686-03P3-line-853" n="853">Yet had she much Experience gain'd;</l>
+            <l xml:id="swift-686-03P3-line-854" n="854">And, by the Project vainly try'd,</l>
+            <l xml:id="swift-686-03P3-line-855" n="855">Cou'd better now the <hi rend="italics">Cause</hi> decide.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-856" n="856"><lb/>S<hi rend="small-caps">HE</hi> gave due Notice, that both Parties,</l>
+            <l xml:id="swift-686-03P3-line-857" n="857"><hi rend="italics">Coram Regina prox' die Martis</hi>,</l>
+            <l xml:id="swift-686-03P3-line-858" n="858">Should at their Peril without fail</l>
+            <l xml:id="swift-686-03P3-line-859" n="859">Come and appear, and save their Bail.</l>
+            <l xml:id="swift-686-03P3-line-860" n="860">All met, and Silence thrice proclaim'd,</l>
+            <l xml:id="swift-686-03P3-line-861" n="861">One Lawyer to each Side was nam'd,</l>
+            <l xml:id="swift-686-03P3-line-862" n="862">The Judge discover'd in her Face</l>
+            <l xml:id="swift-686-03P3-line-863" n="863">Resentments for her late Disgrace;</l>
+            <l xml:id="swift-686-03P3-line-864" n="864">And, full of Anger, Shame, and Grief,</l>
+            <l xml:id="swift-686-03P3-line-865" n="865">Directed them to mind their Brief;</l>
+            <l xml:id="swift-686-03P3-line-866" n="866">Nor spend their Time to shew their Reading;</l>
+            <l xml:id="swift-686-03P3-line-867" n="867">She'd have a Summary Proceeding.</l>
+            <l xml:id="swift-686-03P3-line-868" n="868">She gather'd, under ev'ry Head,</l>
+            <l xml:id="swift-686-03P3-line-869" n="869">The Sum of what each Lawyer said;</l>
+            <l xml:id="swift-686-03P3-line-870" n="870">Gave her own Reasons last; and then</l>
+            <l xml:id="swift-686-03P3-line-871" n="871">Decreed the Cause against the <hi rend="italics">Men</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-872" n="872"><lb/>B<hi rend="small-caps">UT</hi>, in a weighty Case like this,</l>
+            <l xml:id="swift-686-03P3-line-873" n="873">To shew she did not judge amiss,</l>
+            <l xml:id="swift-686-03P3-line-874" n="874">Which evil Tongues might else report,</l>
+            <l xml:id="swift-686-03P3-line-875" n="875">She made a Speech in open Court;</l>
+            <l xml:id="swift-686-03P3-line-876" n="876">Wherein she grievously complains,</l>
+            <l xml:id="swift-686-03P3-line-877" n="877">“How she was cheated by the Swains:</l>
+            <l xml:id="swift-686-03P3-line-878" n="878">On whose Petition (humbly shewing</l>
+            <l xml:id="swift-686-03P3-line-879" n="879">That Women were not worth the wooing,</l>
+            <l xml:id="swift-686-03P3-line-880" n="880">And that unless the Sex would mend,</l>
+            <l xml:id="swift-686-03P3-line-881" n="881">The Race of Lovers soon must end:)</l>
+            <l xml:id="swift-686-03P3-line-882" n="882">“She was at Lord knows what Expence,</l>
+            <l xml:id="swift-686-03P3-line-883" n="883">“To form a Nymph of Wit and Sense;</l>
+            <l xml:id="swift-686-03P3-line-884" n="884">“A Model for her Sex design'd,</l>
+            <l xml:id="swift-686-03P3-line-885" n="885">“Who never cou'd one Lover find.</l>
+            <l xml:id="swift-686-03P3-line-886" n="886">“She saw her Favour was misplac'd;</l>
+            <l xml:id="swift-686-03P3-line-887" n="887">“The Fellows had a wretched Taste;</l>
+            <l xml:id="swift-686-03P3-line-888" n="888">“She needs must tell them to their Face,</l>
+            <l xml:id="swift-686-03P3-line-889" n="889">“They were a senseless, stupid Race:</l>
+            <l xml:id="swift-686-03P3-line-890" n="890">“And were she to begin agen,</l>
+            <l xml:id="swift-686-03P3-line-891" n="891">“She'd study to reform the <hi rend="italics">Men</hi>;</l>
+            <l xml:id="swift-686-03P3-line-892" n="892">“Or add some Grains of Folly more</l>
+            <l xml:id="swift-686-03P3-line-893" n="893">“To <hi rend="italics">Women</hi> than they had before,</l>
+            <l xml:id="swift-686-03P3-line-894" n="894">“To put them on an equal Foot;</l>
+            <l xml:id="swift-686-03P3-line-895" n="895">“And this, or nothing else, wou'd do't.</l>
+            <l xml:id="swift-686-03P3-line-896" n="896">“This might their mutual Fancy strike,</l>
+            <l xml:id="swift-686-03P3-line-897" n="897">“Since ev'ry Being loves its <hi rend="italics">Like</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-898" n="898"><lb/>“B<hi rend="small-caps">UT</hi> now, repenting what was done,</l>
+            <l xml:id="swift-686-03P3-line-899" n="899">“She left all Business to her Son:</l>
+            <l xml:id="swift-686-03P3-line-900" n="900">“She puts the World in his Possession,</l>
+            <l xml:id="swift-686-03P3-line-901" n="901">“And let him use it at Discretion.</l>
+            <l rend="indent(1)" xml:id="swift-686-03P3-line-902" n="902"><lb/>The Cry'r was order'd to dismiss</l>
+            <l xml:id="swift-686-03P3-line-903" n="903">The Court, so made his last <hi rend="italics">O yes</hi>!</l>
+            <l xml:id="swift-686-03P3-line-904" n="904">The Goddess wou'd no longer wait;</l>
+            <l xml:id="swift-686-03P3-line-905" n="905">But rising from her Chair of State,</l>
+            <l xml:id="swift-686-03P3-line-906" n="906">Left all below at Six and Sev'n,</l>
+            <l xml:id="swift-686-03P3-line-907" n="907">Harness'd her Doves, and flew to Heav'n.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

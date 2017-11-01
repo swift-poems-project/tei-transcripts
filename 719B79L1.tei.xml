@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODE TO WISDOM.<lb/>  BY THE SAME.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 11JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="719B79L1">
+          <head type="note" n="1" xml:id="spp-719B79L1-headnote-1">
+            <lg n="1" xml:id="spp-719B79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-719B79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-719B79L1-headnote-2">
+            <lg n="1" xml:id="spp-719B79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-719B79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-719B79L1-headnote-3">
+            <lg n="1" xml:id="spp-719B79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-719B79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-719B79L1-line-1" n="1"><hi rend="display-initial">O</hi>H, Pallas! I invoke thy aid!</l>
+            <l xml:id="swift-719B79L1-line-2" n="2">Vouchsafe to hear a wretched maid,</l>
+            <l rend="indent(1)" xml:id="swift-719B79L1-line-3" n="3">By tender love deprest;</l>
+            <l xml:id="swift-719B79L1-line-4" n="4">'Tis just that thou should'st heal the smart</l>
+            <l xml:id="swift-719B79L1-line-5" n="5">Inflicted by thy subtle art,</l>
+            <l rend="indent(1)" xml:id="swift-719B79L1-line-6" n="6">And calm my troubled breast.</l>
+            <l xml:id="swift-719B79L1-line-7" n="7"><lb/>No random-shot from Cupid's bow,</l>
+            <l xml:id="swift-719B79L1-line-8" n="8">But by thy guidance, soft and slow,</l>
+            <l rend="indent(1)" xml:id="swift-719B79L1-line-9" n="9">It sunk within my heart;</l>
+            <l xml:id="swift-719B79L1-line-10" n="10">Thus, Love being arm'd with Wisdom's force,</l>
+            <l xml:id="swift-719B79L1-line-11" n="11">In vain I try to stop its course,</l>
+            <l rend="indent(1)" xml:id="swift-719B79L1-line-12" n="12">In vain repel the dart.</l>
+            <l xml:id="swift-719B79L1-line-13" n="13"><lb/>O goddess! break the fatal league,</l>
+            <l xml:id="swift-719B79L1-line-14" n="14">Let Love, with Folly and Intrigue,</l>
+            <l rend="indent(1)" xml:id="swift-719B79L1-line-15" n="15">More fit associates find!</l>
+            <l xml:id="swift-719B79L1-line-16" n="16">And thou alone within my breast,</l>
+            <l xml:id="swift-719B79L1-line-17" n="17">O! deign to soothe my griefs to rest,</l>
+            <l rend="indent(1)" xml:id="swift-719B79L1-line-18" n="18">And heal my tortur'd mind.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

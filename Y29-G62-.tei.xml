@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A New SONG, in Praise of<lb/>  if</hi> Molly Mogg.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 21MR97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y29-G62-">
+          <head type="note" n="1" xml:id="spp-Y29-G62--headnote-1">
+            <lg n="1" xml:id="spp-Y29-G62--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y29-G62--headnote-1-line-group-1-line-1">Tune of <hi rend="italics">The City Ramble, <lb/> Give Ear to my frol·cksome Ditty, <lb/> Of one that a Wager would lay</hi>, &amp;e.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y29-G62--headnote-2">
+            <lg n="1" xml:id="spp-Y29-G62--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y29-G62--headnote-2-line-group-1-line-1"><hi rend="italics">The Answer to the Authors of the Foregoing Verses</hi>. <lb/> When to Women you make your Address Sirs, <lb/> Rememember the old Decalogue, <lb/> Take heed that you never Transgress, Sirs, <lb/> With that beautiful Toast <hi rend="italics">Molly M</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y29-G62--headnote-3">
+            <lg n="1" xml:id="spp-Y29-G62--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y29-G62--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y29-G62--line-1" n="1"><hi rend="display-initial">S</hi>Ays my Uncle i pray now discover</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-2" n="2">What has been the Cause of your Woes,</l>
+            <l xml:id="swift-Y29-G62--line-3" n="3">That you pine and whine like a Lover,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-4" n="4">I'have seen <hi rend="italics">Molly Mogg</hi> at the Rose.</l>
+            <l xml:id="swift-Y29-G62--line-5" n="5">O Nephew, your Grief is a Folly.</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-6" n="6">In town you may find your prog,</l>
+            <l xml:id="swift-Y29-G62--line-7" n="7">Half a Crown there will get you a <hi rend="italics">Molly</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-8" n="8">A <hi rend="italics">Molly</hi> much better than <hi rend="italics">Mogg</hi>.</l>
+            <l xml:id="swift-Y29-G62--line-9" n="9">om.</l>
+            <l xml:id="swift-Y29-G62--line-10" n="10">om.</l>
+            <l xml:id="swift-Y29-G62--line-11" n="11">om.</l>
+            <l xml:id="swift-Y29-G62--line-12" n="12">om.</l>
+            <l xml:id="swift-Y29-G62--line-13" n="13">The School-boys delight in a Play-day,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-14" n="14">School-master's Joy is to flog;</l>
+            <l xml:id="swift-Y29-G62--line-15" n="15">Fop is the delight of a Lady,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-16" n="16">But mine is in sweet <hi rend="italics">Molly Mogg.</hi></l>
+            <l xml:id="swift-Y29-G62--line-17" n="17"><hi rend="italics">Will o' Wisp</hi> leads the Trav'ller a gadding</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-18" n="18">thro' Ditch, thro' Quagmire and Bog;</l>
+            <l xml:id="swift-Y29-G62--line-19" n="19">But no Light can set me a-madding.</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-20" n="20">But the Eyes of my sweet <hi rend="italics">Molly Mogg</hi>,</l>
+            <l xml:id="swift-Y29-G62--line-21" n="21">For Guineas in other Men's-breeches,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-22" n="22">Your Gamesters they'll palm and they'll cog</l>
+            <l xml:id="swift-Y29-G62--line-23" n="23">But i envy them none of their Riches,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-24" n="24">So palm with my sweet <hi rend="italics">Molly Mogg</hi>.</l>
+            <l xml:id="swift-Y29-G62--line-25" n="25">The Heart thats half wounded is ranging,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-26" n="26">It here and there leaps like a Frog:</l>
+            <l xml:id="swift-Y29-G62--line-27" n="27">But my Heart it can never be changing,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-28" n="28">It's so fixed on my sweet <hi rend="italics">Molly Mogg</hi>,</l>
+            <l xml:id="swift-Y29-G62--line-29" n="29">I know that by Wits 'tis recited,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-30" n="30">That Women at best are a Clog,</l>
+            <l xml:id="swift-Y29-G62--line-31" n="31">But I am not easily frighted</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-32" n="32">From loving my Sweet <hi rend="italics">Molly Mogg</hi>.</l>
+            <l xml:id="swift-Y29-G62--line-33" n="33">om.</l>
+            <l xml:id="swift-Y29-G62--line-34" n="34">om.</l>
+            <l xml:id="swift-Y29-G62--line-35" n="35">om.</l>
+            <l xml:id="swift-Y29-G62--line-36" n="36">om.</l>
+            <l xml:id="swift-Y29-G62--line-37" n="37">A Letter when I am inditing.</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-38" n="38">Comes <hi rend="italics">Cupid</hi> and gives me a Jog,</l>
+            <l xml:id="swift-Y29-G62--line-39" n="39">And I fill all my Paper with Writing,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-40" n="40">Of nothing but sweet <hi rend="italics">Molly Mogg</hi>,</l>
+            <l xml:id="swift-Y29-G62--line-41" n="41">I feell I'm in Love to Distraction,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-42" n="42">My Senses are lost in a Fog,</l>
+            <l xml:id="swift-Y29-G62--line-43" n="43">And in nothing can find Satisfaction,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-44" n="44">But in thoughts of my Sweet <hi rend="italics">Molly Mogg</hi>,</l>
+            <l xml:id="swift-Y29-G62--line-45" n="45">om.</l>
+            <l xml:id="swift-Y29-G62--line-46" n="46">om.</l>
+            <l xml:id="swift-Y29-G62--line-47" n="47">om.</l>
+            <l xml:id="swift-Y29-G62--line-48" n="48">om.</l>
+            <l xml:id="swift-Y29-G62--line-49" n="49">If I would not give up the three Graces,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-50" n="50">I wish I were hang'd like a Dog,</l>
+            <l xml:id="swift-Y29-G62--line-51" n="51">And at Court all the Drawing-rooms faces,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-52" n="52">For a Glance of my Sweet <hi rend="italics">Molly Mogg</hi>.</l>
+            <l xml:id="swift-Y29-G62--line-53" n="53">For those Faces want Nature and Spirit,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-54" n="54">and seem as cut out of a Log,</l>
+            <l xml:id="swift-Y29-G62--line-55" n="55">Juno, Venus, and Pallas's merit,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-56" n="56">unite in my sweet Molly Mogg.</l>
+            <l xml:id="swift-Y29-G62--line-57" n="57">om.</l>
+            <l xml:id="swift-Y29-G62--line-58" n="58">om.</l>
+            <l xml:id="swift-Y29-G62--line-59" n="59">om.</l>
+            <l xml:id="swift-Y29-G62--line-60" n="60">om.</l>
+            <l xml:id="swift-Y29-G62--line-61" n="61">Were <hi rend="italics">Virgil</hi> alive with his <hi rend="italics">Phillis</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-62" n="62">And writing another Eclogue,</l>
+            <l xml:id="swift-Y29-G62--line-63" n="63">Both his <hi rend="italics">Phillis</hi> and fair <hi rend="italics">Amarillis</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-64" n="64">He'd give for my sweet <hi rend="italics">Molly Mogg</hi>.</l>
+            <l xml:id="swift-Y29-G62--line-65" n="65">When <hi rend="italics">Molly</hi> comes up with the Liquor,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-66" n="66">Then Jealousy sets me a-gog.</l>
+            <l xml:id="swift-Y29-G62--line-67" n="67">To besure she's a bit for the Vicar,</l>
+            <l rend="indent(1)" xml:id="swift-Y29-G62--line-68" n="68">And so I shall loose <hi rend="italics">Molly Mogg</hi>.</l>
+            <l xml:id="swift-Y29-G62--line-69" n="69">om.</l>
+            <l xml:id="swift-Y29-G62--line-70" n="70">om.</l>
+            <l xml:id="swift-Y29-G62--line-71" n="71">om.</l>
+            <l xml:id="swift-Y29-G62--line-72" n="72">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

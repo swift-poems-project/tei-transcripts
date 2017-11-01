@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another on the Same.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 16SE05"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-215F">
+          <head type="note" n="1" xml:id="spp-Y49-215F-headnote-1">
+            <lg n="1" xml:id="spp-Y49-215F-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-215F-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y49-215F-headnote-2">
+            <lg n="1" xml:id="spp-Y49-215F-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-215F-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y49-215F-headnote-3">
+            <lg n="1" xml:id="spp-Y49-215F-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-215F-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y49-215F-line-1" n="1">Here Sarum lies, of late as wise,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-2" n="2">And learn'd as Tom Aquinas;</l>
+            <l xml:id="swift-Y49-215F-line-3" n="3">Lawn Sleeves he wore, yet was no more,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-4" n="4">A Christian then Socinus.</l>
+            <l xml:id="swift-Y49-215F-line-5" n="5">Oaths Pro and Con, he swallow'd down,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-6" n="6">Love gold like any Layman;</l>
+            <l xml:id="swift-Y49-215F-line-7" n="7">Wrote, preach'd and pray'd, and yet betray'd</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-8" n="8">God's holy Church for Mammon.</l>
+            <l xml:id="swift-Y49-215F-line-9" n="9">Of every Vice, he had a Spice,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-10" n="10">Altho' a Reverend Prelate;</l>
+            <l xml:id="swift-Y49-215F-line-11" n="11">Yet liv'd and dy'd, if not bely'd,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-12" n="12">A true dissenting Zealot.</l>
+            <l xml:id="swift-Y49-215F-line-13" n="13">If such a Soul to Heaven has stole,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-14" n="14">And 'scapt old Satans Clutches;</l>
+            <l xml:id="swift-Y49-215F-line-15" n="15">We'll then presume, there may be room</l>
+            <l rend="indent(1)" xml:id="swift-Y49-215F-line-16" n="16">For Malborough and his Dutchess.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

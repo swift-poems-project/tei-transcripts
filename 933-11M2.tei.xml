@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 24JE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="933-11M2">
+          <head type="note" n="1" xml:id="spp-933-11M2-headnote-1">
+            <lg n="1" xml:id="spp-933-11M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-933-11M2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-933-11M2-headnote-2">
+            <lg n="1" xml:id="spp-933-11M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-933-11M2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-933-11M2-headnote-3">
+            <lg n="1" xml:id="spp-933-11M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-933-11M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-933-11M2-line-1" n="1"><hi rend="display-initial">N</hi>EVER speaking, still awake,</l>
+            <l xml:id="swift-933-11M2-line-2" n="2">Pleasing most when most I speak,</l>
+            <l xml:id="swift-933-11M2-line-3" n="3">The Delight of old and young,</l>
+            <l xml:id="swift-933-11M2-line-4" n="4">Tho' I speak without a Tongue.</l>
+            <l xml:id="swift-933-11M2-line-5" n="5">Nought but one Thing can confound me,</l>
+            <l xml:id="swift-933-11M2-line-6" n="6">Many Voices joining round me;</l>
+            <l xml:id="swift-933-11M2-line-7" n="7">Then I fret, and rave and gabble,</l>
+            <l xml:id="swift-933-11M2-line-8" n="8">Like the Labourers of <hi rend="italics">Babel</hi>.</l>
+            <l xml:id="swift-933-11M2-line-9" n="9">Now I am a Dog, or Cow,</l>
+            <l xml:id="swift-933-11M2-line-10" n="10">I can bark, or I can low,</l>
+            <l xml:id="swift-933-11M2-line-11" n="11">I can bleat, or I can sing,</l>
+            <l xml:id="swift-933-11M2-line-12" n="12">Like the Warblers of the Spring.</l>
+            <l xml:id="swift-933-11M2-line-13" n="13">Let the love-sick Bard complain,</l>
+            <l xml:id="swift-933-11M2-line-14" n="14">And I mourn the cruel Pain;</l>
+            <l xml:id="swift-933-11M2-line-15" n="15">Let the happy Swain rejoice,</l>
+            <l xml:id="swift-933-11M2-line-16" n="16">And I join my helping Voice;</l>
+            <l xml:id="swift-933-11M2-line-17" n="17">Both are welcome, Grief or Joy,</l>
+            <l xml:id="swift-933-11M2-line-18" n="18">I with either sport and toy.</l>
+            <l xml:id="swift-933-11M2-line-19" n="19">Tho' a Lady, I am stout,</l>
+            <l xml:id="swift-933-11M2-line-20" n="20">Drums and Trumpets bring me out;</l>
+            <l xml:id="swift-933-11M2-line-21" n="21">Then I clash and roar, and rattle,</l>
+            <l xml:id="swift-933-11M2-line-22" n="22">Join in all the Din of Battle.</l>
+            <l xml:id="swift-933-11M2-line-23" n="23"><hi rend="italics">Jove</hi>, with all his loudest Thunder,</l>
+            <l xml:id="swift-933-11M2-line-24" n="24">When I'm vext, can't keep me under;</l>
+            <l xml:id="swift-933-11M2-line-25" n="25">Yet so tender is my Ear,</l>
+            <l xml:id="swift-933-11M2-line-26" n="26">That the lowest Voice I fear;</l>
+            <l xml:id="swift-933-11M2-line-27" n="27">Much I dread the Courtier's Fate,</l>
+            <l xml:id="swift-933-11M2-line-28" n="28">When his Merit's out of Date,</l>
+            <l xml:id="swift-933-11M2-line-29" n="29">For I hate a silent Breath,</l>
+            <l xml:id="swift-933-11M2-line-30" n="30">And a Whisper is my Death.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

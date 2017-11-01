@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">An Apology to the Lady Carteret</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="375-ROGP">
+          <head type="note" n="1" xml:id="spp-375-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-375-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-375-ROGP-headnote-1-line-group-1-line-1">ON HER INVITING DEAN SWIFT TO DINNER&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-375-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-375-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-375-ROGP-headnote-2-line-group-1-line-1">He came accordingly, but her Ladyship being abroad, went away. At her return, she inquired for him; and not hearing of him, sent the next day to invite him again. When he came, he went to make an apology, for his going away, but my Lady would accept of none but in verse.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-375-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-375-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-375-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-375-ROGP-line-1" n="1">A lady, wise as well as fair,</l>
+            <l xml:id="swift-375-ROGP-line-2" n="2">Whose conscience always was her care,</l>
+            <l xml:id="swift-375-ROGP-line-3" n="3">Thoughtful upon a point of moment:</l>
+            <l xml:id="swift-375-ROGP-line-4" n="4">Would have the text as well as comment;</l>
+            <l xml:id="swift-375-ROGP-line-5" n="5">So hearing of a grave divine,</l>
+            <l xml:id="swift-375-ROGP-line-6" n="6">She sent to bid him come and dine.</l>
+            <l xml:id="swift-375-ROGP-line-7" n="7">But you must know he was not quite</l>
+            <l xml:id="swift-375-ROGP-line-8" n="8">So grave, as to be unpolite;</l>
+            <l xml:id="swift-375-ROGP-line-9" n="9">Thought humane learning would not lessen</l>
+            <l xml:id="swift-375-ROGP-line-10" n="10">The dignity of his profession;</l>
+            <l xml:id="swift-375-ROGP-line-11" n="11">And if you had heard the man discourse,</l>
+            <l xml:id="swift-375-ROGP-line-12" n="12">Or preach, you'd like him scarce the worse.</l>
+            <l xml:id="swift-375-ROGP-line-13" n="13">He long had bid the court farewell,</l>
+            <l xml:id="swift-375-ROGP-line-14" n="14">Retreating silent to his cell;</l>
+            <l xml:id="swift-375-ROGP-line-15" n="15">Suspected for the love he bore</l>
+            <l xml:id="swift-375-ROGP-line-16" n="16">To one who swayed some time before;</l>
+            <l xml:id="swift-375-ROGP-line-17" n="17">Which made it more surprising how</l>
+            <l xml:id="swift-375-ROGP-line-18" n="18">He should be sent for thither now.</l>
+            <l rend="indent(1)" xml:id="swift-375-ROGP-line-19" n="19"><lb/>The message told, he gapes── and stares,</l>
+            <l xml:id="swift-375-ROGP-line-20" n="20">And scarce believes his eyes, or ears;</l>
+            <l xml:id="swift-375-ROGP-line-21" n="21">Could not conceive what it should mean,</l>
+            <l xml:id="swift-375-ROGP-line-22" n="22">And fain would hear it told again;</l>
+            <l xml:id="swift-375-ROGP-line-23" n="23">But then the squire so trim and nice,</l>
+            <l xml:id="swift-375-ROGP-line-24" n="24">'Twere rude to make him tell it twice;</l>
+            <l xml:id="swift-375-ROGP-line-25" n="25">So bowed, was thankful for the honour;</l>
+            <l xml:id="swift-375-ROGP-line-26" n="26">And would not fail to wait upon her.</l>
+            <l xml:id="swift-375-ROGP-line-27" n="27">His beaver brushed, his shoes, and gown,</l>
+            <l xml:id="swift-375-ROGP-line-28" n="28">Away he trudges into town;</l>
+            <l xml:id="swift-375-ROGP-line-29" n="29">Passes the Lower Castle Yard,</l>
+            <l xml:id="swift-375-ROGP-line-30" n="30">And now advances to the guard,</l>
+            <l xml:id="swift-375-ROGP-line-31" n="31">He trembles at the thoughts of state;</l>
+            <l xml:id="swift-375-ROGP-line-32" n="32">For, conscious of his sheepish gait,</l>
+            <l xml:id="swift-375-ROGP-line-33" n="33">His spirits of a sudden failed him,</l>
+            <l xml:id="swift-375-ROGP-line-34" n="34">He stopped, and could not tell what ailed him.</l>
+            <l rend="indent(1)" xml:id="swift-375-ROGP-line-35" n="35"><lb/>What was the message I received;</l>
+            <l xml:id="swift-375-ROGP-line-36" n="36">Why certainly the Captain raved?</l>
+            <l xml:id="swift-375-ROGP-line-37" n="37">To dine with her! and come at three!</l>
+            <l xml:id="swift-375-ROGP-line-38" n="38">Impossible! it can't be me.</l>
+            <l xml:id="swift-375-ROGP-line-39" n="39">Or maybe I mistook the word;</l>
+            <l xml:id="swift-375-ROGP-line-40" n="40">My Lady── it must be my Lord.</l>
+            <l rend="indent(1)" xml:id="swift-375-ROGP-line-41" n="41"><lb/>My Lord's abroad; my Lady too;</l>
+            <l xml:id="swift-375-ROGP-line-42" n="42">What must the unhappy Doctor do?</l>
+            <l xml:id="swift-375-ROGP-line-43" n="43">'Is Captain Cracherode here, pray?── 'No.'</l>
+            <l xml:id="swift-375-ROGP-line-44" n="44">'Nay then, 'tis time for me to go.'</l>
+            <l xml:id="swift-375-ROGP-line-45" n="45">Am I awake, or do I dream?</l>
+            <l xml:id="swift-375-ROGP-line-46" n="46">I'm sure he called me by my name;</l>
+            <l xml:id="swift-375-ROGP-line-47" n="47">Named me as plain as he could speak:</l>
+            <l xml:id="swift-375-ROGP-line-48" n="48">And yet there must be some mistake.</l>
+            <l xml:id="swift-375-ROGP-line-49" n="49">Why what a jest should I have been,</l>
+            <l xml:id="swift-375-ROGP-line-50" n="50">Had now my Lady been within.</l>
+            <l xml:id="swift-375-ROGP-line-51" n="51">What could I've said? I'm mighty glad</l>
+            <l xml:id="swift-375-ROGP-line-52" n="52">She went abroad── she'd thought me mad.</l>
+            <l xml:id="swift-375-ROGP-line-53" n="53">The hour of dining now is past;</l>
+            <l xml:id="swift-375-ROGP-line-54" n="54">Well then, I'll e'en go home, and fast;</l>
+            <l xml:id="swift-375-ROGP-line-55" n="55">And since I scaped being made a scoff,</l>
+            <l xml:id="swift-375-ROGP-line-56" n="56">I think I'm very fairly off.</l>
+            <l xml:id="swift-375-ROGP-line-57" n="57">My Lady now returning home</l>
+            <l xml:id="swift-375-ROGP-line-58" n="58">Calls, 'Cracherode, is the Doctor come?'</l>
+            <l xml:id="swift-375-ROGP-line-59" n="59">He had not heard of him── 'Pray see,</l>
+            <l xml:id="swift-375-ROGP-line-60" n="60">'Tis now a quarter after three.'</l>
+            <l xml:id="swift-375-ROGP-line-61" n="61">The Captain walks about, and searches</l>
+            <l xml:id="swift-375-ROGP-line-62" n="62">Through all the rooms, and courts, and arches;</l>
+            <l xml:id="swift-375-ROGP-line-63" n="63">Examines all the servants round,</l>
+            <l xml:id="swift-375-ROGP-line-64" n="64">In vain── no Doctor's to be found.</l>
+            <l xml:id="swift-375-ROGP-line-65" n="65">My Lady could not choose but wonder:</l>
+            <l xml:id="swift-375-ROGP-line-66" n="66">'Captain, I fear you've made some blunder;</l>
+            <l xml:id="swift-375-ROGP-line-67" n="67">But pray, tomorrow go at ten,</l>
+            <l xml:id="swift-375-ROGP-line-68" n="68">I'll try his manners once again;</l>
+            <l xml:id="swift-375-ROGP-line-69" n="69">If rudeness be the effect of knowledge,</l>
+            <l xml:id="swift-375-ROGP-line-70" n="70">My son shall never see a college.'</l>
+            <l rend="indent(1)" xml:id="swift-375-ROGP-line-71" n="71">The Captain was a man of reading,</l>
+            <l xml:id="swift-375-ROGP-line-72" n="72">And much good sense, as well as breeding:</l>
+            <l xml:id="swift-375-ROGP-line-73" n="73">Who, loath to blame, or to incense,</l>
+            <l xml:id="swift-375-ROGP-line-74" n="74">Said little in his own defence:</l>
+            <l xml:id="swift-375-ROGP-line-75" n="75">Next day another message brought;</l>
+            <l xml:id="swift-375-ROGP-line-76" n="76">The Doctor, frightened at his fault,</l>
+            <l xml:id="swift-375-ROGP-line-77" n="77">Is dressed, and stealing through the crowd,</l>
+            <l xml:id="swift-375-ROGP-line-78" n="78">Now pale as death, then blushed and bowed;</l>
+            <l xml:id="swift-375-ROGP-line-79" n="79">Panting── and faltering── hummed and ha'd,</l>
+            <l xml:id="swift-375-ROGP-line-80" n="80">'Her Ladyship was gone abroad;</l>
+            <l xml:id="swift-375-ROGP-line-81" n="81">The Captain too── he did not know</l>
+            <l xml:id="swift-375-ROGP-line-82" n="82">Whether he ought to stay or go.'</l>
+            <l xml:id="swift-375-ROGP-line-83" n="83">Begged she'd forgive him; in conclusion,</l>
+            <l xml:id="swift-375-ROGP-line-84" n="84">My Lady, pitying his confusion,</l>
+            <l xml:id="swift-375-ROGP-line-85" n="85">Called her good nature to relieve him;</l>
+            <l xml:id="swift-375-ROGP-line-86" n="86">Told him, she thought she might believe him;</l>
+            <l xml:id="swift-375-ROGP-line-87" n="87">And would not only grant his suit,</l>
+            <l xml:id="swift-375-ROGP-line-88" n="88">But visit him, and eat some fruit;</l>
+            <l xml:id="swift-375-ROGP-line-89" n="89">Provided, at a proper time,</l>
+            <l xml:id="swift-375-ROGP-line-90" n="90">He told the real truth in rhyme.</l>
+            <l xml:id="swift-375-ROGP-line-91" n="91">'Twas to no purpose to oppose,</l>
+            <l xml:id="swift-375-ROGP-line-92" n="92">She'd hear of no excuse in prose.</l>
+            <l xml:id="swift-375-ROGP-line-93" n="93">The Doctor stood not to debate,</l>
+            <l xml:id="swift-375-ROGP-line-94" n="94">Glad to compound at any rate;</l>
+            <l xml:id="swift-375-ROGP-line-95" n="95">So, bowing, seemingly complied;</l>
+            <l xml:id="swift-375-ROGP-line-96" n="96">Though if he durst, he had denied.</l>
+            <l xml:id="swift-375-ROGP-line-97" n="97">But first resolved, to show his taste</l>
+            <l xml:id="swift-375-ROGP-line-98" n="98">Was too refined to give a feast,</l>
+            <l xml:id="swift-375-ROGP-line-99" n="99">He'd treat with nothing that was rare,</l>
+            <l xml:id="swift-375-ROGP-line-100" n="100">But winding walks and purer air;</l>
+            <l xml:id="swift-375-ROGP-line-101" n="101">Would entertain without expense,</l>
+            <l xml:id="swift-375-ROGP-line-102" n="102">Or pride, or vain magnificence;</l>
+            <l xml:id="swift-375-ROGP-line-103" n="103">For well he knew, to such a guest,</l>
+            <l xml:id="swift-375-ROGP-line-104" n="104">The plainest meals must be the best:</l>
+            <l xml:id="swift-375-ROGP-line-105" n="105">To stomachs clogged with costly fare,</l>
+            <l xml:id="swift-375-ROGP-line-106" n="106">Simplicity alone is rare;</l>
+            <l xml:id="swift-375-ROGP-line-107" n="107">Whilst high, and nice, and curious meats,</l>
+            <l xml:id="swift-375-ROGP-line-108" n="108">Are really but vulgar treats:</l>
+            <l xml:id="swift-375-ROGP-line-109" n="109">Instead of spoils of Persian looms,</l>
+            <l xml:id="swift-375-ROGP-line-110" n="110">The costly boast of regal rooms,</l>
+            <l xml:id="swift-375-ROGP-line-111" n="111">Thought it more courtly and discreet,</l>
+            <l xml:id="swift-375-ROGP-line-112" n="112">To scatter roses at her feet;</l>
+            <l xml:id="swift-375-ROGP-line-113" n="113">Roses of richest dye, that shone</l>
+            <l xml:id="swift-375-ROGP-line-114" n="114">With native lustre like her own;</l>
+            <l xml:id="swift-375-ROGP-line-115" n="115">Beauty that needs no aid, of art,</l>
+            <l xml:id="swift-375-ROGP-line-116" n="116">Through every sense to reach the heart.</l>
+            <l xml:id="swift-375-ROGP-line-117" n="117">The gracious dame, though well she knew</l>
+            <l xml:id="swift-375-ROGP-line-118" n="118">All this was much beneath her due,</l>
+            <l xml:id="swift-375-ROGP-line-119" n="119">Liked everything── at least thought fit</l>
+            <l xml:id="swift-375-ROGP-line-120" n="120">To praise it, <hi rend="italics">par manière d'acquit</hi>;</l>
+            <l xml:id="swift-375-ROGP-line-121" n="121">But yet, though seeming pleased, can't bear</l>
+            <l xml:id="swift-375-ROGP-line-122" n="122">The scorching sun, or chilling air;</l>
+            <l xml:id="swift-375-ROGP-line-123" n="123">Frighted alike at both extremes,</l>
+            <l xml:id="swift-375-ROGP-line-124" n="124">If he displays, or hides his beams;</l>
+            <l xml:id="swift-375-ROGP-line-125" n="125">Though seeming pleased at all she sees,</l>
+            <l xml:id="swift-375-ROGP-line-126" n="126">Starts at the rustling of the trees;</l>
+            <l xml:id="swift-375-ROGP-line-127" n="127">Can scarcely speak for want of breath,</l>
+            <l xml:id="swift-375-ROGP-line-128" n="128">In half a walk fatigued to death.</l>
+            <l xml:id="swift-375-ROGP-line-129" n="129">The Doctor takes his hint from hence,</l>
+            <l xml:id="swift-375-ROGP-line-130" n="130">To vindicate his late offence:</l>
+            <l xml:id="swift-375-ROGP-line-131" n="131">'Madam, the mighty power of use</l>
+            <l xml:id="swift-375-ROGP-line-132" n="132">Now strangely pleads in my excuse:</l>
+            <l xml:id="swift-375-ROGP-line-133" n="133">If you, unused, have scarcely strength</l>
+            <l xml:id="swift-375-ROGP-line-134" n="134">To move this walk's untoward length,</l>
+            <l xml:id="swift-375-ROGP-line-135" n="135">If startled at a scene so rude,</l>
+            <l xml:id="swift-375-ROGP-line-136" n="136">Through long disuse of solitude;</l>
+            <l xml:id="swift-375-ROGP-line-137" n="137">If long confined to fires and screens,</l>
+            <l xml:id="swift-375-ROGP-line-138" n="138">You dread the waving of these greens;</l>
+            <l xml:id="swift-375-ROGP-line-139" n="139">om.</l>
+            <l xml:id="swift-375-ROGP-line-140" n="140">om.</l>
+            <l xml:id="swift-375-ROGP-line-141" n="141">If you, who long have breathed the fumes</l>
+            <l xml:id="swift-375-ROGP-line-142" n="142">Of city fogs and crowded rooms,</l>
+            <l xml:id="swift-375-ROGP-line-143" n="143">Do now solicitously shun</l>
+            <l xml:id="swift-375-ROGP-line-144" n="144">The cooler air, and dazzling sun;</l>
+            <l xml:id="swift-375-ROGP-line-145" n="145">If his majestic eye you flee,</l>
+            <l xml:id="swift-375-ROGP-line-146" n="146">Learn hence to excuse and pity me.</l>
+            <l xml:id="swift-375-ROGP-line-147" n="147">Consider what it is to bear</l>
+            <l xml:id="swift-375-ROGP-line-148" n="148">The powdered courtier's witty sneer;</l>
+            <l xml:id="swift-375-ROGP-line-149" n="149">To see the important men of dress,</l>
+            <l xml:id="swift-375-ROGP-line-150" n="150">Scoffing my college awkwardness.</l>
+            <l xml:id="swift-375-ROGP-line-151" n="151">To be the strutting cornet's sport,</l>
+            <l xml:id="swift-375-ROGP-line-152" n="152">To run the gauntlet of the court;</l>
+            <l xml:id="swift-375-ROGP-line-153" n="153">Winning my way by slow approaches,</l>
+            <l xml:id="swift-375-ROGP-line-154" n="154">Through crowds of coxcombs and of coaches;</l>
+            <l xml:id="swift-375-ROGP-line-155" n="155">From the first fierce cockaded sentry,</l>
+            <l xml:id="swift-375-ROGP-line-156" n="156">Quite through the tribe of waiting gentry;</l>
+            <l xml:id="swift-375-ROGP-line-157" n="157">To pass to many crowded stages,</l>
+            <l xml:id="swift-375-ROGP-line-158" n="158">And stand the staring of your pages;</l>
+            <l xml:id="swift-375-ROGP-line-159" n="159">And after all, to crown my spleen,</l>
+            <l xml:id="swift-375-ROGP-line-160" n="160">Be told── "You are not to be seen";</l>
+            <l xml:id="swift-375-ROGP-line-161" n="161">Or, if you are, be forced to bear</l>
+            <l xml:id="swift-375-ROGP-line-162" n="162">The awe of your majestic air?</l>
+            <l xml:id="swift-375-ROGP-line-163" n="163">And can I then be faulty found</l>
+            <l xml:id="swift-375-ROGP-line-164" n="164">In dreading this vexatious round?</l>
+            <l xml:id="swift-375-ROGP-line-165" n="165">Can it be strange if I eschew</l>
+            <l xml:id="swift-375-ROGP-line-166" n="166">A scene so glorious and so new?</l>
+            <l xml:id="swift-375-ROGP-line-167" n="167">Or is he criminal that flies</l>
+            <l xml:id="swift-375-ROGP-line-168" n="168">The living lustre of your eyes?'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

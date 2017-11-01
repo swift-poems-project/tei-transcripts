@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dan: Jackson's Picture<lb/>  by Pat: Delany.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 13AP99, JWagerle 8JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="991A002D">
+          <head type="note" n="1" xml:id="spp-991A002D-headnote-1">
+            <lg n="1" xml:id="spp-991A002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A002D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-991A002D-headnote-2">
+            <lg n="1" xml:id="spp-991A002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-991A002D-headnote-3">
+            <lg n="1" xml:id="spp-991A002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-991A002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-991A002D-line-1" n="1">To Fair Lady Betty Dan: Sat for his Picture,</l>
+            <l xml:id="swift-991A002D-line-2" n="2">And Defy'd Her to Draw him so oft that he Piqu'd her</l>
+            <l xml:id="swift-991A002D-line-3" n="3">He knew She'd no Pencil or Colouring by her;</l>
+            <l xml:id="swift-991A002D-line-4" n="4">And therefore he thought he might safely defy her.</l>
+            <l xml:id="swift-991A002D-line-5" n="5">Come Sit says my Lady then whips up her Scissars</l>
+            <l xml:id="swift-991A002D-line-6" n="6">And Cuts out his Coxcomb in silk in a Trice sirs:</l>
+            <l xml:id="swift-991A002D-line-7" n="7">Dan: sat with Attention, and saw with surprise,</l>
+            <l xml:id="swift-991A002D-line-8" n="8">How She Lengthen'd his Chin, how she hollow'd his Eyes;</l>
+            <l xml:id="swift-991A002D-line-9" n="9">And Flatter'd himself with a secret conceit,</l>
+            <l xml:id="swift-991A002D-line-10" n="10">That his Leathern Jaws all her Art would defeat.</l>
+            <l xml:id="swift-991A002D-line-11" n="11">Lady Betty observ'd it, then pulls out a Pin</l>
+            <l xml:id="swift-991A002D-line-12" n="12">And Varies the Grain of the stuff to his Chin.</l>
+            <l xml:id="swift-991A002D-line-13" n="13">And to make roasted silk resemble his Raw bone,</l>
+            <l xml:id="swift-991A002D-line-14" n="14">She rais'd up a Thread to the Jett of his Jaw bone;</l>
+            <l xml:id="swift-991A002D-line-15" n="15">'Till at length in Exactest proportion he rose,</l>
+            <l xml:id="swift-991A002D-line-16" n="16">From the Crown of his head to the Arch of his Nose.</l>
+            <l xml:id="swift-991A002D-line-17" n="17">And if Lady Betty had Drawn him with Wigg &amp; all</l>
+            <l xml:id="swift-991A002D-line-18" n="18">'Tis certain the Coppy had out done the Original</l>
+            <l rend="indent(1)" xml:id="swift-991A002D-line-19" n="19">Well that's but my Outside, says Dan: with a Vapour</l>
+            <l rend="indent(1)" xml:id="swift-991A002D-line-20" n="20">Say You so says my Lady, I've Lin'd it with Paper</l>
+            <l xml:id="swift-991A002D-line-21" n="21">«LD»Patt: Delany sculpsit.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

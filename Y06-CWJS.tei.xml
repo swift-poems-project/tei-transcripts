@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A wicked treasonable Libel</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 17AU94"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 4MR06; EMENDED JW 16AU17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y06-CWJS">
+          <head type="note" n="1" xml:id="spp-Y06-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-Y06-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y06-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y06-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-Y06-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y06-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y06-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-Y06-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y06-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y06-CWJS-line-1" n="1">While the K. &amp; his Min──s keep such a Pother</l>
+            <l xml:id="swift-Y06-CWJS-line-2" n="2">And all about changing one W── for another</l>
+            <l xml:id="swift-Y06-CWJS-line-3" n="3">Think I to my self what need all this Strife</l>
+            <l xml:id="swift-Y06-CWJS-line-4" n="4">His M──y first had a Wh── of a W──</l>
+            <l xml:id="swift-Y06-CWJS-line-5" n="5">And surely the difference mounts to no more,</l>
+            <l xml:id="swift-Y06-CWJS-line-6" n="6">Than, now he has gotten a W──fe of a Wh──</l>
+            <l xml:id="swift-Y06-CWJS-line-7" n="7">Now, give me y<hi rend="superscript">r</hi> judgment a very nice case on;</l>
+            <l xml:id="swift-Y06-CWJS-line-8" n="8">Each Q── has a son, say which is the base one?</l>
+            <l xml:id="swift-Y06-CWJS-line-9" n="9">Say which of the two is the right Pr── of Wales</l>
+            <l xml:id="swift-Y06-CWJS-line-10" n="10">To succeed when (G── bless him) His M── fayls</l>
+            <l xml:id="swift-Y06-CWJS-line-11" n="11">Perhaps it may puzzle our loyal Divines</l>
+            <l xml:id="swift-Y06-CWJS-line-12" n="12">To unite these two Protestant parallel lines.</l>
+            <l xml:id="swift-Y06-CWJS-line-13" n="13">From a left-handed Wife, &amp; one turn'd out of doors 3}</l>
+            <l xml:id="swift-Y06-CWJS-line-14" n="14">Two reputed K──s sons, both true sons of wh──s</l>
+            <l xml:id="swift-Y06-CWJS-line-15" n="15">No Law can determine it, which is first Oars</l>
+            <l xml:id="swift-Y06-CWJS-line-16" n="16">But, alas poor old Engl<hi rend="superscript">d</hi> how wilt thou be master'd,</l>
+            <l xml:id="swift-Y06-CWJS-line-17" n="17">For take which you please it must needs be a Basterd</l>
+            <l xml:id="swift-Y06-CWJS-line-18" n="18"><lb/>I copyed out this wicked Paper many Years ago, in hopes to discover the Traitor of an Author, that I might inform against him.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

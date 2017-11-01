@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Quilca a Country House in bad<lb/>  repair where the Author and Some<lb/>  Friends Spent the Summer 1725</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 29JL11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X35A090A">
+          <head type="note" n="1" xml:id="spp-X35A090A-headnote-1">
+            <lg n="1" xml:id="spp-X35A090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35A090A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X35A090A-headnote-2">
+            <lg n="1" xml:id="spp-X35A090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35A090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X35A090A-headnote-3">
+            <lg n="1" xml:id="spp-X35A090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X35A090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X35A090A-line-1" n="1"><hi rend="display-initial">L</hi>et me thy propertys explain</l>
+            <l xml:id="swift-X35A090A-line-2" n="2">A rotten Cabbin dropping rain;</l>
+            <l xml:id="swift-X35A090A-line-3" n="3">Chimneys with Scorn rejecting Smoke;</l>
+            <l xml:id="swift-X35A090A-line-4" n="4">Stools, Tables, Chairs and Bedsteads broke;</l>
+            <l xml:id="swift-X35A090A-line-5" n="5">Here elements have lost their Uses,</l>
+            <l xml:id="swift-X35A090A-line-6" n="6">Air ripens not, nor Earth produces:</l>
+            <l xml:id="swift-X35A090A-line-7" n="7">In vain we make poor Sheelah toil,</l>
+            <l xml:id="swift-X35A090A-line-8" n="8">Fire will not roast nor Water boil.</l>
+            <l xml:id="swift-X35A090A-line-9" n="9">Thro' all the Valleys, Hills and Plains,</l>
+            <l xml:id="swift-X35A090A-line-10" n="10">The Goddess Want, in Triumph reigns;</l>
+            <l xml:id="swift-X35A090A-line-11" n="11">And her chief Officers of State,</l>
+            <l xml:id="swift-X35A090A-line-12" n="12">Sloth, Dirt, and Theft around her wait</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

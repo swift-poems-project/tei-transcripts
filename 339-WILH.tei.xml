@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To his Grace the<lb/>  Arch-Bishop of DUBLIN,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="339-WILH">
+          <head type="note" n="1" xml:id="spp-339-WILH-headnote-1">
+            <lg n="1" xml:id="spp-339-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-339-WILH-headnote-1-line-group-1-line-1">A POEM.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-339-WILH-headnote-2">
+            <lg n="1" xml:id="spp-339-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-339-WILH-headnote-2-line-group-1-line-1"><hi rend="italics">Serus in cœlum redeas diuq; <lb/> Lætus intersis Populo</hi>──── Hor.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-339-WILH-headnote-3">
+            <lg n="1" xml:id="spp-339-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-339-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-339-WILH-line-1" n="1"><hi rend="display-initial">G</hi>REAT, <hi rend="small-caps">GOOD</hi> and <hi rend="small-caps">JUST</hi> was once apply'd</l>
+            <l xml:id="swift-339-WILH-line-2" n="2">To <hi rend="italics">One</hi> who for his Country died,</l>
+            <l xml:id="swift-339-WILH-line-3" n="3">To <hi rend="italics">One</hi> who lives in its Defence,</l>
+            <l xml:id="swift-339-WILH-line-4" n="4">We speak it in a Happier Sense.</l>
+            <l xml:id="swift-339-WILH-line-5" n="5">O may the <hi rend="italics">Fates</hi> thy Life prolong!</l>
+            <l xml:id="swift-339-WILH-line-6" n="6">Our Country then can dread no Wrong:</l>
+            <l xml:id="swift-339-WILH-line-7" n="7">In thy great Care we place our Trust,</l>
+            <l xml:id="swift-339-WILH-line-8" n="8">Because thour't <hi rend="small-caps">GREAT</hi>, and <hi rend="small-caps">GOOD</hi>, and <hi rend="small-caps">JUST</hi>.</l>
+            <l xml:id="swift-339-WILH-line-9" n="9">Thy <hi rend="italics">Breast unshaken</hi> can oppose</l>
+            <l xml:id="swift-339-WILH-line-10" n="10">Our Private and our <hi rend="italics">Publick Foes</hi>,</l>
+            <l xml:id="swift-339-WILH-line-11" n="11">The Latent Wiles, and <hi rend="italics">Tricks of State</hi>,</l>
+            <l xml:id="swift-339-WILH-line-12" n="12">Your <hi rend="italics">Wisdom</hi> can with Ease Defeat.</l>
+            <l xml:id="swift-339-WILH-line-13" n="13">When Pow'r in all its Pomp appears,</l>
+            <l xml:id="swift-339-WILH-line-14" n="14">It falls before thy Rev'rend Years,</l>
+            <l xml:id="swift-339-WILH-line-15" n="15">And willingly resigns its Place</l>
+            <l xml:id="swift-339-WILH-line-16" n="16">To Something Nobler in thy Face.</l>
+            <l xml:id="swift-339-WILH-line-17" n="17">When once the fierce pursuing <hi rend="italics">Gaul</hi></l>
+            <l xml:id="swift-339-WILH-line-18" n="18">Had drawn his Sword for <hi rend="italics">Marius</hi>' Fall,</l>
+            <l xml:id="swift-339-WILH-line-19" n="19">The Godlike Hero with one frown</l>
+            <l xml:id="swift-339-WILH-line-20" n="20">Struck all his Rage and Malice down;</l>
+            <l xml:id="swift-339-WILH-line-21" n="21">Then how can we dread <hi rend="italics">William Wood</hi>,</l>
+            <l xml:id="swift-339-WILH-line-22" n="22">If by <hi rend="italics">thy Presence</hi> he's withstood?</l>
+            <l xml:id="swift-339-WILH-line-23" n="23">Where Wisdom stands to keep the Field,</l>
+            <l xml:id="swift-339-WILH-line-24" n="24">In Vain he brings his <hi rend="italics">Brazen Shield</hi>.</l>
+            <l xml:id="swift-339-WILH-line-25" n="25">Tho' like the <hi rend="italics">Cybel</hi>'s Priest he comes,</l>
+            <l xml:id="swift-339-WILH-line-26" n="26">With furious Din of <hi rend="italics">Brazen Drums</hi>,</l>
+            <l xml:id="swift-339-WILH-line-27" n="27">The Force of thy superior Voice</l>
+            <l xml:id="swift-339-WILH-line-28" n="28">Shall strike him dumb, and quell their Noise.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

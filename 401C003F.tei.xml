@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dean Swift returnd from London to Dublin, 1726, as he pass'd through Chester being not visited by the Clergy, left the following Words wrote in the Window of the Room where he lay.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 31JL93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="401C003F">
+          <head type="note" n="1" xml:id="spp-401C003F-headnote-1">
+            <lg n="1" xml:id="spp-401C003F-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C003F-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-401C003F-headnote-2">
+            <lg n="1" xml:id="spp-401C003F-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C003F-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-401C003F-headnote-3">
+            <lg n="1" xml:id="spp-401C003F-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-401C003F-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-401C003F-line-1" n="1">Your mouldring Walls are mending still</l>
+            <l rend="indent(1)" xml:id="swift-401C003F-line-2" n="2">Your Churches in Neglect lie</l>
+            <l xml:id="swift-401C003F-line-3" n="3">But yet the Scripture you fulfill</l>
+            <l rend="indent(1)" xml:id="swift-401C003F-line-4" n="4">Jn walking circumspectly</l>
+            <l xml:id="swift-401C003F-line-5" n="5">Churches and Clergy are no doubt</l>
+            <l rend="indent(1)" xml:id="swift-401C003F-line-6" n="6">Both very near a kin</l>
+            <l xml:id="swift-401C003F-line-7" n="7">Both weatherbeaten are without</l>
+            <l rend="indent(1)" xml:id="swift-401C003F-line-8" n="8">And empty both within.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

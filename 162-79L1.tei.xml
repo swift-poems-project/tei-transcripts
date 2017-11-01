@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TOLAND'S INVITATION to DISMAL,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 9JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-162-79L1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="162-79L1">
+          <head type="note" n="1" xml:id="spp-162-79L1-headnote-1">
+            <lg n="1" xml:id="spp-162-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-79L1-headnote-1-line-group-1-line-1">To dine with the C<hi rend="small-caps">ALVES-HEAD </hi>C<hi rend="small-caps">LUB</hi> <ref target="#spp-162-79L1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-162-79L1-footnote-headnote-1" place="foot">This poem, and that which follows it, are two of the <hi rend="italics">penny papers</hi> mentioned in Swift's Journal to Stella, Aug. 7. 1712. They are here printed from folio copies in the Lambeth Library</note>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-162-79L1-headnote-2">
+            <lg n="1" xml:id="spp-162-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-79L1-headnote-2-line-group-1-line-1">Imitated from H<hi rend="small-caps">ORACE</hi>, lib. I. epist. 5.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-162-79L1-headnote-3">
+            <lg n="1" xml:id="spp-162-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-162-79L1-line-1" n="1"><hi rend="display-initial">I</hi>F, dearest Dismal, you for once can dine</l>
+            <l xml:id="swift-162-79L1-line-2" n="2">Upon a single dish, and tavern-wine,</l>
+            <l xml:id="swift-162-79L1-line-3" n="3">Toland to you this invitation sends,</l>
+            <l xml:id="swift-162-79L1-line-4" n="4">To eat the calves-head with your trusty friends.</l>
+            <l xml:id="swift-162-79L1-line-5" n="5">Suspend a while your vain ambitious hopes,</l>
+            <l xml:id="swift-162-79L1-line-6" n="6">Leave hunting after bribes, forget your tropes.</l>
+            <l xml:id="swift-162-79L1-line-7" n="7">To-morrow we our <hi rend="italics">mystic feast</hi> prepare,</l>
+            <l xml:id="swift-162-79L1-line-8" n="8">Where thou, our latest <hi rend="italics">proselyte</hi>, shalt share:</l>
+            <l xml:id="swift-162-79L1-line-9" n="9">When we, by proper signs and symbols, tell,</l>
+            <l xml:id="swift-162-79L1-line-10" n="10">How, by <hi rend="italics">brave hands</hi>, the <hi rend="italics">royal traitor</hi> fell;</l>
+            <l xml:id="swift-162-79L1-line-11" n="11">The meat shall represent the <hi rend="italics">tyrant's</hi> head,</l>
+            <l xml:id="swift-162-79L1-line-12" n="12">The wine his blood <hi rend="italics">our predecessors</hi> shed;</l>
+            <l xml:id="swift-162-79L1-line-13" n="13">Whilst an <hi rend="italics">alluding</hi> hymn some artist sings,</l>
+            <l xml:id="swift-162-79L1-line-14" n="14">We toast, “Confusion to the race of kings!”</l>
+            <l xml:id="swift-162-79L1-line-15" n="15">At monarchy we nobly shew our spight,</l>
+            <l xml:id="swift-162-79L1-line-16" n="16">And talk <hi rend="italics">what fools call treason</hi> all the night.</l>
+            <l rend="indent(1)" xml:id="swift-162-79L1-line-17" n="17">Who, by disgraces or ill-fortune sunk,</l>
+            <l xml:id="swift-162-79L1-line-18" n="18">Feels not his soul enliven'd when he·'s drunk?</l>
+            <l xml:id="swift-162-79L1-line-19" n="19">Wine can clear up Godolphin's cloudy face,</l>
+            <l xml:id="swift-162-79L1-line-20" n="20">And fill Jack Smith with hopes to keep his place:</l>
+            <l xml:id="swift-162-79L1-line-21" n="21">By force of wine, ev'n Scarborough is brave,</l>
+            <l xml:id="swift-162-79L1-line-22" n="22">Hal grows more pert, and Somers not so grave;</l>
+            <l xml:id="swift-162-79L1-line-23" n="23">Wine can give Portland wit, and Cleveland sense,</l>
+            <l xml:id="swift-162-79L1-line-24" n="24">Montague learning, Bolton eloquence:</l>
+            <l xml:id="swift-162-79L1-line-25" n="25">Cholmondeley, when drunk, can never lose his wand;</l>
+            <l xml:id="swift-162-79L1-line-26" n="26">And Lincoln then imagines he has land.</l>
+            <l rend="indent(1)" xml:id="swift-162-79L1-line-27" n="27">My province is, to see that all be right,</l>
+            <l xml:id="swift-162-79L1-line-28" n="28">Glasses and linen clean, and pewter bright;</l>
+            <l xml:id="swift-162-79L1-line-29" n="29">From our <hi rend="italics">mysterious club</hi> to keep out spies,</l>
+            <l xml:id="swift-162-79L1-line-30" n="30">And Tories (dress'd like waiters) in disguise.</l>
+            <l xml:id="swift-162-79L1-line-31" n="31">You shall be coupled as you best approve,</l>
+            <l xml:id="swift-162-79L1-line-32" n="32">Seated at table next the men you love.</l>
+            <l xml:id="swift-162-79L1-line-33" n="33">Sunderland, Orford, Boyle, and Richmond's Grace,</l>
+            <l xml:id="swift-162-79L1-line-34" n="34">Will come; and Hampden shall have Walpole's place.</l>
+            <l xml:id="swift-162-79L1-line-35" n="35">Wharton, unless prevented by a whore,</l>
+            <l xml:id="swift-162-79L1-line-36" n="36">Will hardly fail; and there is room for more.</l>
+            <l xml:id="swift-162-79L1-line-37" n="37">But I love elbow-room whene'er I drink;</l>
+            <l xml:id="swift-162-79L1-line-38" n="38">And honest Harry <note place="foot">·Right Hon. Henry Boyle, mentioned twice before.</note> is too apt to stink.</l>
+            <l rend="indent(1)" xml:id="swift-162-79L1-line-39" n="39">Let no pretence of business make you stay;</l>
+            <l xml:id="swift-162-79L1-line-40" n="40">Yet take one word of counsel by the way.</l>
+            <l xml:id="swift-162-79L1-line-41" n="41">If Guernsey calls, send word you·'re gone abroad;</l>
+            <l xml:id="swift-162-79L1-line-42" n="42">He·'ll teaze you with King Charles and Bishop Laud,</l>
+            <l xml:id="swift-162-79L1-line-43" n="43">Or make you fast, and carry you to prayers:</l>
+            <l xml:id="swift-162-79L1-line-44" n="44">But, if he will break-in, and walk up stairs,</l>
+            <l xml:id="swift-162-79L1-line-45" n="45">Steal by the back-door out, and leave him there;</l>
+            <l xml:id="swift-162-79L1-line-46" n="46">Then order Squash to call a hackney-chair.</l>
+            <l xml:id="swift-162-79L1-line-47" n="47">\NOTES\</l>
+            <l xml:id="swift-162-79L1-line-48" n="48">om.</l>
+            <l xml:id="swift-162-79L1-line-49" n="49">om.</l>
+            <l xml:id="swift-162-79L1-line-50" n="50">om.</l>
+            <l xml:id="swift-162-79L1-line-51" n="51">om.</l>
+            <l xml:id="swift-162-79L1-line-52" n="52">om.</l>
+            <l xml:id="swift-162-79L1-line-53" n="53">om.</l>
+            <l xml:id="swift-162-79L1-line-54" n="54">om.</l>
+            <l xml:id="swift-162-79L1-line-55" n="55">om.</l>
+            <l xml:id="swift-162-79L1-line-56" n="56">om.</l>
+            <l xml:id="swift-162-79L1-line-57" n="57">om.</l>
+            <l xml:id="swift-162-79L1-line-58" n="58">om.</l>
+            <l xml:id="swift-162-79L1-line-59" n="59">om.</l>
+            <l xml:id="swift-162-79L1-line-60" n="60">om.</l>
+            <l xml:id="swift-162-79L1-line-61" n="61">om.</l>
+            <l xml:id="swift-162-79L1-line-62" n="62">om.</l>
+            <l xml:id="swift-162-79L1-line-63" n="63">om.</l>
+            <l xml:id="swift-162-79L1-line-64" n="64">om.</l>
+            <l xml:id="swift-162-79L1-line-65" n="65">om.</l>
+            <l xml:id="swift-162-79L1-line-66" n="66">om.</l>
+            <l xml:id="swift-162-79L1-line-67" n="67">om.</l>
+            <l xml:id="swift-162-79L1-line-68" n="68">om.</l>
+            <l xml:id="swift-162-79L1-line-69" n="69">om.</l>
+            <l xml:id="swift-162-79L1-line-70" n="70">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

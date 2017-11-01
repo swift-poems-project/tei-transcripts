@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>* <hi rend="italics">On Mrs</hi>. T────<hi rend="small-caps">S</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 21JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y54B04M2">
+          <head type="note" n="1" xml:id="spp-Y54B04M2-headnote-1">
+            <lg n="1" xml:id="spp-Y54B04M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54B04M2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y54B04M2-headnote-2">
+            <lg n="1" xml:id="spp-Y54B04M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54B04M2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y54B04M2-headnote-3">
+            <lg n="1" xml:id="spp-Y54B04M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y54B04M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y54B04M2-line-1" n="1"><hi rend="display-initial">S</hi>O bright is thy Beauty, so charming thy Song,</l>
+            <l xml:id="swift-Y54B04M2-line-2" n="2">As had drawn both the Beasts and their <hi rend="italics">Orpheus</hi> along:</l>
+            <l xml:id="swift-Y54B04M2-line-3" n="3">But such is thy Av'rice, and such is thy Pride,</l>
+            <l xml:id="swift-Y54B04M2-line-4" n="4">That the Beasts must have starv'd, and the Poet have dy'd.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

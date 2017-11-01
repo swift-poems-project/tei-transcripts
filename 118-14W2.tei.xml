@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO MRS BIDDY FLOYD;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 30JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-118-14W2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="118-14W2">
+          <head type="note" n="1" xml:id="spp-118-14W2-headnote-1">
+            <lg n="1" xml:id="spp-118-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-118-14W2-headnote-1-line-group-1-line-1">OR, THE RECEIPT TO FORM A BEAUTY, <ref target="#spp-118-14W2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-118-14W2-footnote-headnote-1" place="foot">The following elegant Latin version of this “Receipt” was first printed in the sixth volume of Dryden's Miscellanies:──<lb/>IN LYDIAM.<lb/><lb/>Orabat precibus Cupido blandis,<lb/>Ut tandem omnipotens pater deorum<lb/>Formosam lege conderet recenti.<lb/>Arridens citò, ruris ad recessum<lb/>Almus misit avus, Fidemque nudam<lb/>Illic repperit, Innocentiamque,<lb/>Et vultum placidum, Indolemque suavem;<lb/>Dextrâ, quæ, facili, Puer peritus<lb/>Oris à nimio pudore purgat,<lb/>Et morum ruditate ineleganti,<lb/>Ac nimis timidâ fugacitate.<lb/>Sacræ Pierides parant deinde<lb/>Ex aulâ ingenuam Institutonem,<lb/>Acumenque acre, Gratiamque formæ,<lb/>Cum se non nimis efferente Fastu.<lb/>Ab his flava Venus removit omnem<lb/>Procul Molitiem, et malas dolosæ<lb/>Mentis Illecebras, Ineptiasque<lb/>Bonum pravé imitantium, levesque<lb/>Motus, Gloriolæque Inanitatem.<lb/>Miscet omnia Jupiter, lutoque<lb/>Temperat meliore, Lydiamque<lb/>Inde appellat opus, stupens, superbum</note> 1708.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-118-14W2-headnote-2">
+            <lg n="1" xml:id="spp-118-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-118-14W2-headnote-2-line-group-1-line-1">T<hi rend="small-caps">HIS</hi> elegant compliment led to numerous silly imitations, which causes Swift to put a caution in Apollo's Edict to the Poets:</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-118-14W2-headnote-3">
+            <lg n="1" xml:id="spp-118-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-118-14W2-headnote-3-line-group-1-line-1">“With females' compounds I am cloy'd,<lb/>Which only pleased in Biddy Floyd.”</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-118-14W2-line-1" n="1">W<hi rend="small-caps">HEN</hi> Cupid did his grandsire Jove entreat</l>
+            <l xml:id="swift-118-14W2-line-2" n="2">To form some Beauty by a new receipt,</l>
+            <l xml:id="swift-118-14W2-line-3" n="3">Jove sent, and found, far in a country scene,</l>
+            <l xml:id="swift-118-14W2-line-4" n="4">Truth, innocence, good nature, look serene:</l>
+            <l xml:id="swift-118-14W2-line-5" n="5">From which ingredients first the dext'rous boy</l>
+            <l xml:id="swift-118-14W2-line-6" n="6">Pick'd the demure, the awkward, and the coy.</l>
+            <l xml:id="swift-118-14W2-line-7" n="7">The Graces from the court did next provide</l>
+            <l xml:id="swift-118-14W2-line-8" n="8">Breeding and wit, and air, and decent pride:</l>
+            <l xml:id="swift-118-14W2-line-9" n="9">These Venus cleans from every spurious grain</l>
+            <l xml:id="swift-118-14W2-line-10" n="10">Of nice coquet, affected, pert, and vain.</l>
+            <l xml:id="swift-118-14W2-line-11" n="11">Jove mix'd up all, and the best clay employ'd;</l>
+            <l xml:id="swift-118-14W2-line-12" n="12">Then call'd the happy composition F<hi rend="small-caps">LOYD</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

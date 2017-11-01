@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="Hathi Trust"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-034-00234L1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="034-00234L1">
+          <head type="note" n="1" xml:id="spp-034-00234L1-headnote-1">
+            <lg n="1" xml:id="spp-034-00234L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-034-00234L1-headnote-1-line-group-1-line-1">Ambitious, and replete with mighty energy, and sorely goaded by want and impatience of dependence, Swift, nevertheless, resolved to swim with the current of events, and float uppermost on the stream of politics, howsoever corrupt the surface might be. He took his farewell, in his “Ode to Sancroft,” of all that was beautiful and glorious in the animus of his art, to devote himself to the foulest and fiercest phase of satire.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-034-00234L1-headnote-2">
+            <lg n="1" xml:id="spp-034-00234L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-034-00234L1-headnote-2-line-group-1-line-1">How can a documentary historian read without emotion that magnificent invocation with which Swift, the young kinsman of John Dryden, commences his elegy <ref target="#spp-034-00234L1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-034-00234L1-footnote-headnote-1" place="foot">These extracts are from a copy in Cole's Miscellaneous MSS., in which the poem is far superior in perspicuity and polish to the copies printed in the editions of Swift's works, where, however, it is very rare</note> on the fall of Sancroft?</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-034-00234L1-headnote-3">
+            <lg n="1" xml:id="spp-034-00234L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-034-00234L1-headnote-3-line-group-1-line-1">Swift fulfilled the determination here expressed so completely, that the quotation of this historical poem will excite no little surprise: for it is forgotten or stifled among the profusion of his productions of a contrary tendency. Nevertheless, Swift, as a contemporary memorialist, throws true light on the events of his era, when his historical notations were not garbled for premature publication.</l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

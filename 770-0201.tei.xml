@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">HORACE</hi>, B<hi rend="small-caps">OOK</hi> I.<lb/>  ODE XIV.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="DDS 3OC88"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="770-0201">
+          <head type="note" n="1" xml:id="spp-770-0201-headnote-1">
+            <lg n="1" xml:id="spp-770-0201-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-0201-headnote-1-line-group-1-line-1"><hi rend="italics">O navis, referent</hi>, &amp;c.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-770-0201-headnote-2">
+            <lg n="1" xml:id="spp-770-0201-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-0201-headnote-2-line-group-1-line-1">Paraphrased and Inscribed to <hi rend="italics">IRELAND</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-770-0201-headnote-3">
+            <lg n="1" xml:id="spp-770-0201-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-0201-headnote-3-line-group-1-line-1">Written in the Year 1726.</l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="center" xml:id="swift-770-0201-line-1" n="1">The INSCRIPTION.<lb/>_<hi rend="italics">Poor floating Isle, tost on ill Fortune's Waves,</hi></l><l xml:id="swift-770-0201-line-2" n="2"><hi rend="italics">Ordain'd by </hi>Fate<hi rend="italics"> to be the Land of Slaves:</hi></l><l xml:id="swift-770-0201-line-3" n="3"><hi rend="italics">Shall moving </hi>Delos<hi rend="italics"> now deep-rooted stand,</hi></l><l xml:id="swift-770-0201-line-4" n="4">Thou, fixt of old, be now the moving Land?</l><l xml:id="swift-770-0201-line-5" n="5">Altho' the Metaphor be worn and stale,</l><l xml:id="swift-770-0201-line-6" n="6">Betwixt a State, and Vessel under Sail;</l><l xml:id="swift-770-0201-line-7" n="7">Let me suppose thee for a Ship a while,</l><l xml:id="swift-770-0201-line-8" n="8">Let me suppose thee for a Ship a while,And thus address thee in the Sailor Stile</l>.<l xml:id="swift-770-0201-line-9" n="9"><lb/><note place="foot">·<hi rend="italics">O navis, referent in mare te novi_Fluctus</hi>.</note><hi rend="display-initial">U</hi>N<hi rend="small-caps">HAPPY</hi> Ship, thou art return'd in vain:</l><l xml:id="swift-770-0201-line-10" n="10">New Waves shall drive thee to the Deep again.</l><l xml:id="swift-770-0201-line-11" n="11">Look to thy self, and be no more the Sport</l><l xml:id="swift-770-0201-line-12" n="12"><note place="foot">·──────<hi rend="italics">Fortiter occupa<lb/>Portum</hi>:.</note>Of giddy Winds, but make some friendly Port.</l><l xml:id="swift-770-0201-line-13" n="13"><note place="foot">·<hi rend="italics">Nudum remigio latus</hi>.</note>Lost are thy Oars that us'd thy Course to guide,</l><l xml:id="swift-770-0201-line-14" n="14">Like faithful Counsellors on either Side.</l><l xml:id="swift-770-0201-line-15" n="15"><note place="foot">·────<hi rend="italics">Malus celeri saucius</hi> Africo.</note>Thy Mast, which like some aged Patriot stood</l><l xml:id="swift-770-0201-line-16" n="16">The single Pillar for his Country's Good,</l><l xml:id="swift-770-0201-line-17" n="17">To lead thee, as a Staff directs the Blind,</l><l xml:id="swift-770-0201-line-18" n="18">Behold, it cracks by yon rough <hi rend="italics">Eastern</hi> Wind.</l><l xml:id="swift-770-0201-line-19" n="19"><note place="foot">·──────<hi rend="italics">Ac sine funibus<lb/>Vix durare carinæ_Possint imperiosius_Æquor</hi>?.</note>Your Cables burst, and you must quickly feel</l><l xml:id="swift-770-0201-line-20" n="20">The Waves impetuous entring at your Keel.</l><l xml:id="swift-770-0201-line-21" n="21">Thus, Commonwealths receive a foreign Yoke,</l><l xml:id="swift-770-0201-line-22" n="22">When the strong Cords of Union once are broke.</l><l xml:id="swift-770-0201-line-23" n="23"><note place="foot">·<hi rend="italics">Non tibi sunt integra lintea</hi>.</note>Torn by a sudden Tempest is thy Sail,</l><l xml:id="swift-770-0201-line-24" n="24">Expanded to invite a milder Gale.</l><l rend="indent(1)" xml:id="swift-770-0201-line-25" n="25"><lb/>A<hi rend="small-caps">S</hi> when some Writer in a publick Cause,</l><l xml:id="swift-770-0201-line-26" n="26">His Pen to save a sinking Nation draws,</l><l xml:id="swift-770-0201-line-27" n="27">While all is Calm, his Arguments prevail,</l><l xml:id="swift-770-0201-line-28" n="28">The People's Voice expand his Paper Sail;</l><l xml:id="swift-770-0201-line-29" n="29">'Till Pow'r discharging all her stormy Bags,</l><l xml:id="swift-770-0201-line-30" n="30">Flutters the feeble Pamphlet into Rags.</l><l xml:id="swift-770-0201-line-31" n="31">The Nation scar'd, the Author doom'd to Death,</l><l xml:id="swift-770-0201-line-32" n="32">Who fondly put his Trust in pop'lar Breath.</l><l rend="indent(1)" xml:id="swift-770-0201-line-33" n="33"><lb/>A <hi rend="small-caps">LARGER</hi> Sacrifice in vain you vow;</l><l xml:id="swift-770-0201-line-34" n="34"><note place="foot">·<hi rend="italics">Non Dii, quos iterum pressa voces malo</hi>.</note>There's not a Pow'r above will help you now:</l><l xml:id="swift-770-0201-line-35" n="35">A Nation thus, who oft Heav'ns Call neglects,</l><l xml:id="swift-770-0201-line-36" n="36">In vain from injur'd Heav'n Relief expects.</l><l rend="indent(1)" xml:id="swift-770-0201-line-37" n="37"><lb/><note place="foot">·<hi rend="italics">Quamvis Pontica pinus,_Sylvæ filia nobilis</hi>.</note>'T<hi rend="small-caps">WILL</hi> not avail, when thy strong Sides are broke,</l><l xml:id="swift-770-0201-line-38" n="38">That thy Descent is from the <hi rend="italics">British</hi> Oak:</l><l xml:id="swift-770-0201-line-39" n="39">Or when your Name and Family you boast,</l><l xml:id="swift-770-0201-line-40" n="40">From Fleets triumphant o'er the <hi rend="italics">Gallick</hi> Coast.</l><l xml:id="swift-770-0201-line-41" n="41">Such was <hi rend="italics">Ierne</hi>'s Claim, as just as thine,</l><l xml:id="swift-770-0201-line-42" n="42">Her Sons descended from the <hi rend="italics">British</hi> Line;</l><l xml:id="swift-770-0201-line-43" n="43">Her matchless Sons; whose Valour still remains</l><l xml:id="swift-770-0201-line-44" n="44">On <hi rend="italics">French</hi> Records, for Twenty long Campains;</l><l xml:id="swift-770-0201-line-45" n="45">Yet from an Empress, now a Captive grown,</l><l xml:id="swift-770-0201-line-46" n="46">She sav'd <hi rend="italics">Britannia</hi>'s Rights, and lost her own.</l><l rend="indent(1)" xml:id="swift-770-0201-line-47" n="47"><lb/><note place="foot">·<hi rend="italics">Nil pictis timidus navita puppibus</hi>.</note>I<hi rend="small-caps">N</hi> Ships decay'd no Mariner confides,</l><l xml:id="swift-770-0201-line-48" n="48">Lur'd by the gilded Stern, and painted Sides.</l><l xml:id="swift-770-0201-line-49" n="49">Yet, at a Ball, unthinking Fools delight</l><l xml:id="swift-770-0201-line-50" n="50">In the gay Trappings of a Birth-Day Night:</l><l xml:id="swift-770-0201-line-51" n="51">They on the Gold Brocades and Satins rav'd,</l><l xml:id="swift-770-0201-line-52" n="52">And quite forgot their Country was enslav'd.</l><l rend="indent(1)" xml:id="swift-770-0201-line-53" n="53"><lb/><note place="foot">·<hi rend="italics">Fidit tu, nisi ventis_Debes ludibrium cave</hi>.</note>D<hi rend="small-caps">EAR</hi> Vessel, still be to thy Steerage just,</l><l xml:id="swift-770-0201-line-54" n="54">Nor change thy Course with ev'ry sudden Gust:</l><l xml:id="swift-770-0201-line-55" n="55">Like supple Patriots of the modern Sort,</l><l xml:id="swift-770-0201-line-56" n="56">Who turn with ev'ry Gale that blows from Court.</l><l rend="indent(1)" xml:id="swift-770-0201-line-57" n="57"><lb/><note place="foot">·<hi rend="italics">Nuper sollicitum quæ mibi tædium,_Nunc desiderium, curàque non levis,_Intersusa nitentes_Vites æquora Cycladas</hi>.</note>W<hi rend="small-caps">EARY</hi> and Sea-sick when in thee confin'd,</l><l xml:id="swift-770-0201-line-58" n="58">Now, for thy Safety, Cares distract my Mind.</l><l xml:id="swift-770-0201-line-59" n="59">As those who long have stood the Storms of State,</l><l xml:id="swift-770-0201-line-60" n="60">Retire, yet still bemoan their Country's Fate.</l><l xml:id="swift-770-0201-line-61" n="61">Beware, and when you hear the Surges roar,</l><l xml:id="swift-770-0201-line-62" n="62">Avoid the Rocks on <hi rend="italics">Britain</hi>'s angry Shore:</l><l xml:id="swift-770-0201-line-63" n="63">They lye, alas! too easy to be found,</l><l xml:id="swift-770-0201-line-64" n="64">For thee alone they lye the Island round.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

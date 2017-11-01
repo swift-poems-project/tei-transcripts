@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 17NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S01915W1">
+          <head type="note" n="1" xml:id="spp-S01915W1-headnote-1">
+            <lg n="1" xml:id="spp-S01915W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S01915W1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S01915W1-headnote-2">
+            <lg n="1" xml:id="spp-S01915W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S01915W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S01915W1-headnote-3">
+            <lg n="1" xml:id="spp-S01915W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S01915W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S01915W1-line-1" n="1">You made me in your last a goose;</l>
+            <l rend="indent(1)" xml:id="swift-S01915W1-line-2" n="2">I lay my life on't you are wrong,</l>
+            <l xml:id="swift-S01915W1-line-3" n="3">To raise me by such foul abuse;</l>
+            <l rend="indent(1)" xml:id="swift-S01915W1-line-4" n="4">My quill you'll find's a woman's tongue;</l>
+            <l xml:id="swift-S01915W1-line-5" n="5"><lb/>And slit, just like a bird will chatter,</l>
+            <l rend="indent(1)" xml:id="swift-S01915W1-line-6" n="6">And like a bird do something more;</l>
+            <l xml:id="swift-S01915W1-line-7" n="7">When I let fly, 'twill so bespatter,</l>
+            <l rend="indent(1)" xml:id="swift-S01915W1-line-8" n="8">I'll change you to a black-a-moor.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 16AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J00354H1">
+          <head type="note" n="1" xml:id="spp-J00354H1-headnote-1">
+            <lg n="1" xml:id="spp-J00354H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J00354H1-headnote-1-line-group-1-line-1">. . . and methinks this letter comes pretty near to the bottom, and 'tis but eight days since the date, and don't think I'll write on t'other side, I thank you for nothing. Faith, if I would use you to letters on sheets as broad as this room, you would always expect them from me. Oh, faith, I know you well enough; but an old saying, <hi rend="italics">&amp;c</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J00354H1-headnote-2">
+            <lg n="1" xml:id="spp-J00354H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J00354H1-headnote-2-line-group-1-line-1">I think that's but a silly old saying, and so I'll go to sleep, and do you so too.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J00354H1-headnote-3">
+            <lg n="1" xml:id="spp-J00354H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J00354H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J00354H1-line-1" n="1">Two sides in a sheet,</l>
+            <l xml:id="swift-J00354H1-line-2" n="2">and one in a street.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

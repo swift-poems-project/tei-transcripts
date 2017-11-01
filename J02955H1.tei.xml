@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 18AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J02955H1">
+          <head type="note" n="1" xml:id="spp-J02955H1-headnote-1">
+            <lg n="1" xml:id="spp-J02955H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J02955H1-headnote-1-line-group-1-line-1">He shewed me a small paper, sent by an unknown hand to one Mr. <hi rend="italics">Cook</hi>, who sent it to my lord: it was written in plain large letters, thus;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J02955H1-headnote-2">
+            <lg n="1" xml:id="spp-J02955H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J02955H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J02955H1-headnote-3">
+            <lg n="1" xml:id="spp-J02955H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J02955H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J02955H1-line-1" n="1">
+              <hi rend="italics">Though G────d's knife did not succeed;</hi>
+            </l>
+            <l xml:id="swift-J02955H1-line-2" n="2"><hi rend="italics">A F────n's yet may do the Deed</hi>.</l>
+            <l xml:id="swift-J02955H1-line-3" n="3"><lb/>And a little below; <hi rend="italics">Burn this you Dog</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

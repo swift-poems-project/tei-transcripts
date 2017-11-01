@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO<lb/>  Mrs. <hi rend="italics">M. B.</hi>...</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 4JE02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M017422R">
+          <head type="note" n="1" xml:id="spp-M017422R-headnote-1">
+            <lg n="1" xml:id="spp-M017422R-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M017422R-headnote-1-line-group-1-line-1">\<hi rend="italics">Swift's note:</hi> I know not the Author.\</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M017422R-headnote-2">
+            <lg n="1" xml:id="spp-M017422R-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M017422R-headnote-2-line-group-1-line-1"><hi rend="italics">June</hi> 15.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M017422R-headnote-3">
+            <lg n="1" xml:id="spp-M017422R-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M017422R-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M017422R-line-1" n="1">om.</l>
+            <l xml:id="swift-M017422R-line-2" n="2">om.</l>
+            <l xml:id="swift-M017422R-line-3" n="3">om.</l>
+            <l xml:id="swift-M017422R-line-4" n="4">om.</l>
+            <l xml:id="swift-M017422R-line-5" n="5">om.</l>
+            <l xml:id="swift-M017422R-line-6" n="6">om.</l>
+            <l xml:id="swift-M017422R-line-7" n="7">om.</l>
+            <l xml:id="swift-M017422R-line-8" n="8">om.</l>
+            <l xml:id="swift-M017422R-line-9" n="9">om.</l>
+            <l xml:id="swift-M017422R-line-10" n="10">om.</l>
+            <l xml:id="swift-M017422R-line-11" n="11">om.</l>
+            <l xml:id="swift-M017422R-line-12" n="12">om.</l>
+            <l xml:id="swift-M017422R-line-13" n="13">om.</l>
+            <l xml:id="swift-M017422R-line-14" n="14">om.</l>
+            <l xml:id="swift-M017422R-line-15" n="15">om.</l>
+            <l xml:id="swift-M017422R-line-16" n="16">om.</l>
+            <l xml:id="swift-M017422R-line-17" n="17">om.</l>
+            <l xml:id="swift-M017422R-line-18" n="18">om.</l>
+            <l xml:id="swift-M017422R-line-19" n="19">om.</l>
+            <l xml:id="swift-M017422R-line-20" n="20">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

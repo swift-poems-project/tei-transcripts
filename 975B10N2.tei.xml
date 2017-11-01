@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TO THE SAME.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 20SE14"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="975B10N2">
+          <head type="note" n="1" xml:id="spp-975B10N2-headnote-1">
+            <lg n="1" xml:id="spp-975B10N2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-975B10N2-headnote-1-line-group-1-line-1">BY DR. SHERIDAN.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-975B10N2-headnote-2">
+            <lg n="1" xml:id="spp-975B10N2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-975B10N2-headnote-2-line-group-1-line-1">12 o'Clock at Noon, O.S. Dec. 18, 1718.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-975B10N2-headnote-3">
+            <lg n="1" xml:id="spp-975B10N2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-975B10N2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-975B10N2-line-1" n="1">SIR,<lb/><hi rend="display-initial">P<hi rend="small-caps">ERHAPS</hi> you may wonder, I send you so soon</hi></l>
+            <l xml:id="swift-975B10N2-line-2" n="2">Another epistle; consider 'tis noon.</l>
+            <l xml:id="swift-975B10N2-line-3" n="3">For all his acquaintance well know that friend Tom is,</l>
+            <l xml:id="swift-975B10N2-line-4" n="4">Whenever he makes one, as good as his promise.</l>
+            <l xml:id="swift-975B10N2-line-5" n="5">Now Phœbus exalted sits high on his throne,</l>
+            <l xml:id="swift-975B10N2-line-6" n="6">Dividing the heav'ns, dividing my crown,</l>
+            <l xml:id="swift-975B10N2-line-7" n="7">Into poems and business, my skull's split in two,</l>
+            <l xml:id="swift-975B10N2-line-8" n="8">One side for the lawyers, and t'other for you.</l>
+            <l xml:id="swift-975B10N2-line-9" n="9">With my left eye I see you sit snug in your stall,</l>
+            <l xml:id="swift-975B10N2-line-10" n="10">With my right I'm attending the lawyers that scrawl.</l>
+            <l xml:id="swift-975B10N2-line-11" n="11">With my left I behold your bellower a cur chase;</l>
+            <l xml:id="swift-975B10N2-line-12" n="12">With my right I'm a reading my deeds for a purchase.</l>
+            <l xml:id="swift-975B10N2-line-13" n="13">My left ear's attending the hymns of the choir,</l>
+            <l xml:id="swift-975B10N2-line-14" n="14">My right ear is stunn'd with the noise of the crier.</l>
+            <l xml:id="swift-975B10N2-line-15" n="15">My right hand's inditing these lines to your reverence,</l>
+            <l xml:id="swift-975B10N2-line-16" n="16">My left is indenting for me and heirs ever-hence.</l>
+            <l xml:id="swift-975B10N2-line-17" n="17">Although in myself I'm divided in two,</l>
+            <l xml:id="swift-975B10N2-line-18" n="18">Dear Dean, I shall ne'er be divided from you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

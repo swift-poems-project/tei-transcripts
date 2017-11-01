@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon four dismal Stories in the Doctor's Letter,<lb/>  relating to four of my Friends</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 23AU12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 4SE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X37ACWJS">
+          <head type="note" n="1" xml:id="spp-X37ACWJS-headnote-1">
+            <lg n="1" xml:id="spp-X37ACWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X37ACWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X37ACWJS-headnote-2">
+            <lg n="1" xml:id="spp-X37ACWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X37ACWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X37ACWJS-headnote-3">
+            <lg n="1" xml:id="spp-X37ACWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X37ACWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X37ACWJS-line-1" n="1">Here four of you got mischances to plague you</l>
+            <l xml:id="swift-X37ACWJS-line-2" n="2">Friend Congreve a Feaver, Friend Howard an Ague</l>
+            <l xml:id="swift-X37ACWJS-line-3" n="3">Friend Pope overturnd by driving too fast away,</l>
+            <l xml:id="swift-X37ACWJS-line-4" n="4">And Robin at Sea had like to be cast away</l>
+            <l xml:id="swift-X37ACWJS-line-5" n="5">But, alas, the poor Dean neither Shudders nor burns</l>
+            <l xml:id="swift-X37ACWJS-line-6" n="6">No Sea overwhelms him, no Coach overturns</l>
+            <l xml:id="swift-X37ACWJS-line-7" n="7">Though his Claret is bad, and he foots it on Stones</l>
+            <l xml:id="swift-X37ACWJS-line-8" n="8">Yet he gets home at night with Health and whole Bones</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

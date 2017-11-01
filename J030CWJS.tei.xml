@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Verses embedded in the <hi rend="italics">Journal to Stella</hi>]</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 18AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 21NO16, 22NO16, 20DE16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J030CWJS">
+          <head type="note" n="1" xml:id="spp-J030CWJS-headnote-1">
+            <lg n="1" xml:id="spp-J030CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J030CWJS-headnote-1-line-group-1-line-1">And so I have got to the third side of my paper, which is more than belongs to you, young women. It goes to-morrow, To nobody's sorrow. You are silly, not I; I'm a poet, If I had but, &amp;c.──────Who's silly now? rogues and lasses, tinderboxes and buzzards. O Lord, I am in a high vein of silliness; methought I was speaking to dearest little MD face to face. There; so lads, enough for to-night; to cards with the blackguards. Good night, my delight, &amp;c.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J030CWJS-headnote-2">
+            <lg n="1" xml:id="spp-J030CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J030CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J030CWJS-headnote-3">
+            <lg n="1" xml:id="spp-J030CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J030CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J030CWJS-line-1" n="1"/>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

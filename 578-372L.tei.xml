@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On the Resurrection</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 10JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-372L">
+          <head type="note" n="1" xml:id="spp-578-372L-headnote-1">
+            <lg n="1" xml:id="spp-578-372L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-372L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-372L-headnote-2">
+            <lg n="1" xml:id="spp-578-372L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-372L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-372L-headnote-3">
+            <lg n="1" xml:id="spp-578-372L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-372L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-372L-line-1" n="1">With a whirl of thought oppress'd,</l>
+            <l xml:id="swift-578-372L-line-2" n="2">I sunk from reverie to rest;</l>
+            <l xml:id="swift-578-372L-line-3" n="3">An horrid vision seiz'd my head;</l>
+            <l xml:id="swift-578-372L-line-4" n="4">I saw the graves give up their dead;</l>
+            <l xml:id="swift-578-372L-line-5" n="5">Iove, arm'd with terror, bursts the skies,</l>
+            <l xml:id="swift-578-372L-line-6" n="6">And thunder roars, &amp; lightning flies:</l>
+            <l xml:id="swift-578-372L-line-7" n="7">Amaz'd, confused, its fate unknown,</l>
+            <l xml:id="swift-578-372L-line-8" n="8">The world stands trembling at his throne;</l>
+            <l xml:id="swift-578-372L-line-9" n="9">While each pale sinner hung his head;</l>
+            <l xml:id="swift-578-372L-line-10" n="10">Iove, nodding, shook the heavens, and said;</l>
+            <l xml:id="swift-578-372L-line-11" n="11">“Offending race of human kind,</l>
+            <l xml:id="swift-578-372L-line-12" n="12">“By nature, reason, <hi rend="underlined">learning</hi> blind,</l>
+            <l xml:id="swift-578-372L-line-13" n="13">“You, who thro' frailty stepp'd aside,</l>
+            <l xml:id="swift-578-372L-line-14" n="14">“And you, who never fell <hi rend="underlined">thro' pride</hi>;</l>
+            <l xml:id="swift-578-372L-line-15" n="15">“You, who in different sects were shamned,</l>
+            <l xml:id="swift-578-372L-line-16" n="16">“And come to see each other damned;</l>
+            <l xml:id="swift-578-372L-line-17" n="17">“(So some folks told you; but they knew,</l>
+            <l xml:id="swift-578-372L-line-18" n="18">“No more, of Iove's designs, than you:)</l>
+            <l xml:id="swift-578-372L-line-19" n="19">“The World's mad business now is o'er,</l>
+            <l xml:id="swift-578-372L-line-20" n="20">“And I resent these pranks no More:</l>
+            <l xml:id="swift-578-372L-line-21" n="21">──<hi rend="underlined">I</hi> to such blockheads set <hi rend="underlined">my</hi> wit,</l>
+            <l xml:id="swift-578-372L-line-22" n="22"><hi rend="underlined">I</hi> damn such fools,── go, go,── You're bit.──</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

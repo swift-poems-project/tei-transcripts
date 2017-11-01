@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A BALLAD,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 28JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-076-14W2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="076-14W2">
+          <head type="note" n="1" xml:id="spp-076-14W2-headnote-1">
+            <lg n="1" xml:id="spp-076-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-14W2-headnote-1-line-group-1-line-1">TO THE TUNE OF, THE CUT-PURSE.<ref target="#spp-076-14W2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-076-14W2-footnote-headnote-1" place="foot">Lady Betty Berkeley, finding the preceding verses in the author's room unfinished, wrote under them the concluding stanza, which gave occasion to this ballad, written by the author in a counterfeit hand, as if a third person had done it.── S<hi rend="small-caps">WIFT</hi>. <lb/>The <hi rend="italics">Cut-Purse</hi> is a ballad sung by Nightingale, the ballad-singer, in Ben Jonson's Bartholomew Fair. The tune seems to have been very popular, and the words the subject of many parodies. See one upon an adventure of Jonathan Wild, in Pope and Swift's Miscellanies. Vol. XIII</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-076-14W2-headnote-2">
+            <lg n="1" xml:id="spp-076-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-14W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-076-14W2-headnote-3">
+            <lg n="1" xml:id="spp-076-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-076-14W2-line-1" n="1">I.<lb/>O<hi rend="small-caps">NCE</hi> on a time, as old stories rehearse,</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-2" n="2">A friar would need shew his talent in Latin;</l>
+            <l xml:id="swift-076-14W2-line-3" n="3">But was sorely put to't in the midst of a verse,</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-4" n="4">Because he could find no word to come pat in;</l>
+            <l rend="indent(3)" xml:id="swift-076-14W2-line-5" n="5">||Then all in the place</l>
+            <l rend="indent(3)" xml:id="swift-076-14W2-line-6" n="6">||He left a void space,</l>
+            <l rend="indent(2)" xml:id="swift-076-14W2-line-7" n="7">|And so went to bed in a desperate case:</l>
+            <l xml:id="swift-076-14W2-line-8" n="8">When behold the next morning a wonderful riddle!</l>
+            <l xml:id="swift-076-14W2-line-9" n="9">He found it was strangely fill'd up in the middle.</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-10" n="10">C<hi rend="small-caps">HO</hi>. Let censuring critics then think what they list on't;</l>
+            <l rend="indent(2)" xml:id="swift-076-14W2-line-11" n="11">|Who would not write verses with such an assistant?</l>
+            <l rend="center" xml:id="swift-076-14W2-line-12" n="12"><lb/>II._This put me the friar into an amazement;</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-13" n="13">For he wisely consider'd it must be a sprite;</l>
+            <l xml:id="swift-076-14W2-line-14" n="14">That he came through the keyhole, or in at the casement;</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-15" n="15">And it needs must be one that could both read and write;</l>
+            <l rend="indent(3)" xml:id="swift-076-14W2-line-16" n="16">||Yet he did not know,</l>
+            <l rend="indent(3)" xml:id="swift-076-14W2-line-17" n="17">||If it were friend or foe,</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-18" n="18">Or whether it came from above or below;</l>
+            <l xml:id="swift-076-14W2-line-19" n="19">Howe'er, it was civil, in angel or elf,</l>
+            <l xml:id="swift-076-14W2-line-20" n="20">For he ne'er could have fill'd it so well of himself.</l>
+            <l rend="indent(2)" xml:id="swift-076-14W2-line-21" n="21">|C<hi rend="small-caps">HO</hi>. Let censuring, &amp;c.</l>
+            <l xml:id="swift-076-14W2-line-22" n="22">om.</l>
+            <l rend="center" xml:id="swift-076-14W2-line-23" n="23"><lb/>III._Even so Master Doctor had puzzled his brains</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-24" n="24">In making a ballad, but was at a stand;</l>
+            <l xml:id="swift-076-14W2-line-25" n="25">He had mixt little wit with a great deal of pains,</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-26" n="26">When he found a new help from invisible hand.</l>
+            <l rend="indent(3)" xml:id="swift-076-14W2-line-27" n="27">||Then, good Doctor Swift,</l>
+            <l rend="indent(3)" xml:id="swift-076-14W2-line-28" n="28">||Pay thanks for the gift,</l>
+            <l rend="indent(1)" xml:id="swift-076-14W2-line-29" n="29">For you freely must own you were at a dead lift;</l>
+            <l xml:id="swift-076-14W2-line-30" n="30">And, though some malicious young spirit did do't,</l>
+            <l xml:id="swift-076-14W2-line-31" n="31">You may know by the hand it had no cloven foot.</l>
+            <l rend="indent(2)" xml:id="swift-076-14W2-line-32" n="32">|C<hi rend="small-caps">HO</hi>. Let censuring, &amp;c.</l>
+            <l xml:id="swift-076-14W2-line-33" n="33">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

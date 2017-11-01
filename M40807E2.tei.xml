@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mrs P<hi rend="small-caps">ILKINGTON</hi> to Dr. S<hi rend="small-caps">WIFT</hi>, on<lb/>  his birthday.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 1JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40807E2">
+          <head type="note" n="1" xml:id="spp-M40807E2-headnote-1">
+            <lg n="1" xml:id="spp-M40807E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40807E2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M40807E2-headnote-2">
+            <lg n="1" xml:id="spp-M40807E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40807E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M40807E2-headnote-3">
+            <lg n="1" xml:id="spp-M40807E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40807E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M40807E2-line-1" n="1"><hi rend="display-initial">W</hi>Hile I the godlike men of old,</l>
+            <l xml:id="swift-M40807E2-line-2" n="2">In admiration wrapt, behold!</l>
+            <l xml:id="swift-M40807E2-line-3" n="3">Rever'd antiquity explore,</l>
+            <l xml:id="swift-M40807E2-line-4" n="4">And turn the long-liv'd volumes o'er,</l>
+            <l xml:id="swift-M40807E2-line-5" n="5">Where Cato, Plutarch, Flaccus shine</l>
+            <l xml:id="swift-M40807E2-line-6" n="6">In ev'ry excellence divine;</l>
+            <l xml:id="swift-M40807E2-line-7" n="7">I grieve, that our degen'rate days</l>
+            <l xml:id="swift-M40807E2-line-8" n="8">Produce no mighty souls like these;</l>
+            <l xml:id="swift-M40807E2-line-9" n="9">Patriot, philosopher, and bard,</l>
+            <l xml:id="swift-M40807E2-line-10" n="10">Are names unknown, and seldom heard.</l>
+            <l xml:id="swift-M40807E2-line-11" n="11">Spare your reflection, Phœbus cries,</l>
+            <l xml:id="swift-M40807E2-line-12" n="12">'Tis as ungrateful as unwise;</l>
+            <l xml:id="swift-M40807E2-line-13" n="13">Can you complain this sacred day,</l>
+            <l xml:id="swift-M40807E2-line-14" n="14">That virtues, or that arts decay?</l>
+            <l xml:id="swift-M40807E2-line-15" n="15">Behold in S<hi rend="small-caps">WIFT</hi> reviv'd appears</l>
+            <l xml:id="swift-M40807E2-line-16" n="16">The virtues of unnumber'd years;</l>
+            <l xml:id="swift-M40807E2-line-17" n="17">Behold in him, with new delight,</l>
+            <l xml:id="swift-M40807E2-line-18" n="18">The patriot, bard, and sage unite;</l>
+            <l xml:id="swift-M40807E2-line-19" n="19">And know, Ierne in that name</l>
+            <l xml:id="swift-M40807E2-line-20" n="20">Shall rival Greece and Rome in fame.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

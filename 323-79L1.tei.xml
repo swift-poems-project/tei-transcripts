@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-323-79L1-title-1">PETHOX<ref target="#spp-323-79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-323-79L1-footnote-title-1" place="foot">This name is plainly an <hi rend="italics">anagram</hi></note> THE GREAT. 1723.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 29JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-323-79L1-footnote-title-1 #spp-323-79L1-title-1"/>
+        </linkGrp>
+        <div n="323-79L1">
+          <head type="note" n="1" xml:id="spp-323-79L1-headnote-1">
+            <lg n="1" xml:id="spp-323-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-323-79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-323-79L1-headnote-2">
+            <lg n="1" xml:id="spp-323-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-323-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-323-79L1-headnote-3">
+            <lg n="1" xml:id="spp-323-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-323-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-323-79L1-line-1" n="1"><hi rend="display-initial">F</hi>ROM Venus born, thy beauty shows;</l>
+            <l xml:id="swift-323-79L1-line-2" n="2">But who thy father, no man knows:</l>
+            <l xml:id="swift-323-79L1-line-3" n="3">Nor can the skilful herald trace</l>
+            <l xml:id="swift-323-79L1-line-4" n="4">The founder of thy ancient race;</l>
+            <l xml:id="swift-323-79L1-line-5" n="5">Whether thy temper, full of fire,</l>
+            <l xml:id="swift-323-79L1-line-6" n="6">Discovers Vulcan for thy sire,</l>
+            <l xml:id="swift-323-79L1-line-7" n="7">The god who made Scamander boil,</l>
+            <l xml:id="swift-323-79L1-line-8" n="8">And round his margin sing'd the soil</l>
+            <l xml:id="swift-323-79L1-line-9" n="9">(From whence, philosophers agree,</l>
+            <l xml:id="swift-323-79L1-line-10" n="10">An equal power descends to thee);</l>
+            <l xml:id="swift-323-79L1-line-11" n="11">Whether from dreadful Mars you claim</l>
+            <l xml:id="swift-323-79L1-line-12" n="12">The high descent from whence you came,</l>
+            <l xml:id="swift-323-79L1-line-13" n="13">And, as a proof, shew numerous scars</l>
+            <l xml:id="swift-323-79L1-line-14" n="14">By fierce encounters made in wars,</l>
+            <l xml:id="swift-323-79L1-line-15" n="15">Those honourable wounds you bore</l>
+            <l xml:id="swift-323-79L1-line-16" n="16">From head to foot, and <hi rend="italics">all before</hi>,</l>
+            <l xml:id="swift-323-79L1-line-17" n="17">And still the bloody field frequent,</l>
+            <l xml:id="swift-323-79L1-line-18" n="18">Familiar in each leader's tent;</l>
+            <l xml:id="swift-323-79L1-line-19" n="19">Or whether, as the learn'd contend,</l>
+            <l xml:id="swift-323-79L1-line-20" n="20">You from the neighbouring Gaul descend;</l>
+            <l xml:id="swift-323-79L1-line-21" n="21">Or from Parthenope the proud,</l>
+            <l xml:id="swift-323-79L1-line-22" n="22">Where numberless thy votaries croud;</l>
+            <l xml:id="swift-323-79L1-line-23" n="23">Whether thy great forefathers came</l>
+            <l xml:id="swift-323-79L1-line-24" n="24">From realms that bear Vesputio's name</l>
+            <l xml:id="swift-323-79L1-line-25" n="25">(For so conjecturers would obtrude;</l>
+            <l xml:id="swift-323-79L1-line-26" n="26">And from thy painted skin conclude);</l>
+            <l xml:id="swift-323-79L1-line-27" n="27">Whether, as Epicurus shows,</l>
+            <l xml:id="swift-323-79L1-line-28" n="28">The world from justling seeds arose,</l>
+            <l xml:id="swift-323-79L1-line-29" n="29">Which, mingling with prolific strife</l>
+            <l xml:id="swift-323-79L1-line-30" n="30">In chaos, kindled into life:</l>
+            <l xml:id="swift-323-79L1-line-31" n="31">So your production was the same,</l>
+            <l xml:id="swift-323-79L1-line-32" n="32">And from contending atoms came.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-33" n="33">Thy fair indulgent mother crown'd</l>
+            <l xml:id="swift-323-79L1-line-34" n="34">Thy head with sparkling rubies round:</l>
+            <l xml:id="swift-323-79L1-line-35" n="35">Beneath thy decent steps the road</l>
+            <l xml:id="swift-323-79L1-line-36" n="36">Is all with precious jewels strow'd.</l>
+            <l xml:id="swift-323-79L1-line-37" n="37">The bird of Pallas knows his post,</l>
+            <l xml:id="swift-323-79L1-line-38" n="38">Thee to attend, where'er thou goest.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-39" n="39">Byzantians boast, that on the clod</l>
+            <l xml:id="swift-323-79L1-line-40" n="40">Where once their Sultan's horse hath trod,</l>
+            <l xml:id="swift-323-79L1-line-41" n="41">Grows neither grass, nor shrub, nor tree:</l>
+            <l xml:id="swift-323-79L1-line-42" n="42">The same thy subjects boast of thee.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-43" n="43">The greatest lord, when you appear,</l>
+            <l xml:id="swift-323-79L1-line-44" n="44">Will deign your livery to wear,</l>
+            <l xml:id="swift-323-79L1-line-45" n="45">In all the various colours seen</l>
+            <l xml:id="swift-323-79L1-line-46" n="46">Of red and yellow, blue and green.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-47" n="47">With half a word, when you require,</l>
+            <l xml:id="swift-323-79L1-line-48" n="48">The man of business must retire.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-49" n="49">The haughty minister of state</l>
+            <l xml:id="swift-323-79L1-line-50" n="50">With trembling must thy leisure wait;</l>
+            <l xml:id="swift-323-79L1-line-51" n="51">And, while his fate is in thy hands,</l>
+            <l xml:id="swift-323-79L1-line-52" n="52">The business of the nation stands.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-53" n="53">Thou dar'st the greatest prince attack,</l>
+            <l xml:id="swift-323-79L1-line-54" n="54">Canst hourly set him on the rack;</l>
+            <l xml:id="swift-323-79L1-line-55" n="55">And, as an instance of thy power,</l>
+            <l xml:id="swift-323-79L1-line-56" n="56">Inclose him in a wooden tower,</l>
+            <l xml:id="swift-323-79L1-line-57" n="57">With pungent pains on every side:</l>
+            <l xml:id="swift-323-79L1-line-58" n="58">So Regulus in torments dy'd.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-59" n="59">From thee our youth all virtues learn,</l>
+            <l xml:id="swift-323-79L1-line-60" n="60">Dangers with prudence to discern;</l>
+            <l xml:id="swift-323-79L1-line-61" n="61">And well thy scholars are endued</l>
+            <l xml:id="swift-323-79L1-line-62" n="62">With temperance, and with fortitude;</l>
+            <l xml:id="swift-323-79L1-line-63" n="63">With patience, which all ills supports;</l>
+            <l xml:id="swift-323-79L1-line-64" n="64">And secresy, the art of courts.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-65" n="65">The glittering beau could hardly tell,</l>
+            <l xml:id="swift-323-79L1-line-66" n="66">Without your aid, to read or spell;</l>
+            <l xml:id="swift-323-79L1-line-67" n="67">But, having long convers'd with you,</l>
+            <l xml:id="swift-323-79L1-line-68" n="68">Knows how to write a billet-doux.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-69" n="69">With what delight, methinks, I trace</l>
+            <l xml:id="swift-323-79L1-line-70" n="70">Your blood in every noble race!</l>
+            <l xml:id="swift-323-79L1-line-71" n="71">In whom thy features, shape, and mien,</l>
+            <l xml:id="swift-323-79L1-line-72" n="72">Are to the life distinctly seen!</l>
+            <l xml:id="swift-323-79L1-line-73" n="73">The Britons, once a savage kind,</l>
+            <l xml:id="swift-323-79L1-line-74" n="74">By you were brighten'd and refin'd,</l>
+            <l xml:id="swift-323-79L1-line-75" n="75">Descendants to the barbarous Huns,</l>
+            <l xml:id="swift-323-79L1-line-76" n="76">With limbs robust, and voice that stuns:</l>
+            <l xml:id="swift-323-79L1-line-77" n="77">But you have moulded them afresh,</l>
+            <l xml:id="swift-323-79L1-line-78" n="78">Remov'd the tough superfluous flesh,</l>
+            <l xml:id="swift-323-79L1-line-79" n="79">Taught them to modulate their tongues,</l>
+            <l xml:id="swift-323-79L1-line-80" n="80">And speak without the help of lungs.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-81" n="81">Proteus on you bestow'd the boon</l>
+            <l xml:id="swift-323-79L1-line-82" n="82">To change your visage like the moon;</l>
+            <l xml:id="swift-323-79L1-line-83" n="83">You sometimes half a face produce,</l>
+            <l xml:id="swift-323-79L1-line-84" n="84">Keep t'·other half for private use.</l>
+            <l rend="indent(1)" xml:id="swift-323-79L1-line-85" n="85">How fam'd thy conduct in the fight</l>
+            <l xml:id="swift-323-79L1-line-86" n="86">With Hermes, son of Pleias bright!</l>
+            <l xml:id="swift-323-79L1-line-87" n="87">Out-number'd, half encompass'd round,</l>
+            <l xml:id="swift-323-79L1-line-88" n="88">You strove for every inch of ground;</l>
+            <l xml:id="swift-323-79L1-line-89" n="89">Then, by a soldierly retreat,</l>
+            <l xml:id="swift-323-79L1-line-90" n="90">Retir'd to your imperial seat.</l>
+            <l xml:id="swift-323-79L1-line-91" n="91">The victor, when your steps he trac'd,</l>
+            <l xml:id="swift-323-79L1-line-92" n="92">Found all the realms before him waste:</l>
+            <l xml:id="swift-323-79L1-line-93" n="93">You, o'er the high triumphal arch</l>
+            <l xml:id="swift-323-79L1-line-94" n="94">Pontific, made your glorious march;</l>
+            <l xml:id="swift-323-79L1-line-95" n="95">The wondrous arch behind you fell,</l>
+            <l xml:id="swift-323-79L1-line-96" n="96">And left a chasm profound as hell:</l>
+            <l xml:id="swift-323-79L1-line-97" n="97">You, in your capitol secur'd,</l>
+            <l xml:id="swift-323-79L1-line-98" n="98">A siege as long as Troy endur'd.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

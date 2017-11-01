@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-455-79L2-title-1">PARODY<lb/>  ON A<lb/>  CHARACTER OF DEAN SMEDLEY <ref target="#spp-455-79L2-footnote-title-1">1</ref><note n="1" xml:id="spp-455-79L2-footnote-title-1" place="foot">The original is in the “Supplement to Swift.” N</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 10JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-455-79L2-footnote-title-1 #spp-455-79L2-title-1"/>
+        </linkGrp>
+        <div n="455-79L2">
+          <head type="note" n="1" xml:id="spp-455-79L2-headnote-1">
+            <lg n="1" xml:id="spp-455-79L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-455-79L2-headnote-1-line-group-1-line-1">Written in Latin by himself.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-455-79L2-headnote-2">
+            <lg n="1" xml:id="spp-455-79L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-455-79L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-455-79L2-headnote-3">
+            <lg n="1" xml:id="spp-455-79L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-455-79L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-455-79L2-line-1" n="1"><hi rend="display-initial">T</hi>HE very reverend Dean Smedley,</l>
+            <l xml:id="swift-455-79L2-line-2" n="2">Of <hi rend="italics">dullness, pride, conceit</hi>, a medley,</l>
+            <l xml:id="swift-455-79L2-line-3" n="3">Was equally allow'd to shine</l>
+            <l xml:id="swift-455-79L2-line-4" n="4">As <hi rend="italics">poet, scholar</hi>, and <hi rend="italics">divine</hi>;</l>
+            <l xml:id="swift-455-79L2-line-5" n="5">With <hi rend="italics">godliness</hi> could well dispense,</l>
+            <l xml:id="swift-455-79L2-line-6" n="6">Would be a <hi rend="italics">rake</hi>, but wanted sense;</l>
+            <l xml:id="swift-455-79L2-line-7" n="7">Would strictly after Truth enquire,</l>
+            <l xml:id="swift-455-79L2-line-8" n="8">Because he dreaded to come nigh her.</l>
+            <l xml:id="swift-455-79L2-line-9" n="9">For Liberty no champion bolder,</l>
+            <l xml:id="swift-455-79L2-line-10" n="10">He hated <hi rend="italics">bailiffs</hi> at his shoulder.</l>
+            <l xml:id="swift-455-79L2-line-11" n="11">To half the world a standing jest,</l>
+            <l xml:id="swift-455-79L2-line-12" n="12">A perfect <hi rend="italics">nuisance</hi> to the rest:</l>
+            <l xml:id="swift-455-79L2-line-13" n="13">From many (and we may believe him)</l>
+            <l xml:id="swift-455-79L2-line-14" n="14">Had the best wishes they could give him.</l>
+            <l xml:id="swift-455-79L2-line-15" n="15">To all mankind a constant friend,</l>
+            <l xml:id="swift-455-79L2-line-16" n="16">Provided they had <hi rend="italics">cash</hi> to lend.</l>
+            <l xml:id="swift-455-79L2-line-17" n="17">One thing he did before he went hence,</l>
+            <l xml:id="swift-455-79L2-line-18" n="18">He left us a <hi rend="italics">laconic</hi> sentence,</l>
+            <l xml:id="swift-455-79L2-line-19" n="19">By cutting of his phrase, and trimming,</l>
+            <l xml:id="swift-455-79L2-line-20" n="20">To prove that Bishops were old women.</l>
+            <l xml:id="swift-455-79L2-line-21" n="21">Poor Envy durst not shew her phiz,</l>
+            <l xml:id="swift-455-79L2-line-22" n="22">She was so terrified at his.</l>
+            <l xml:id="swift-455-79L2-line-23" n="23">He waded, without any shame,</l>
+            <l xml:id="swift-455-79L2-line-24" n="24">Through thick and thin to get a name,</l>
+            <l xml:id="swift-455-79L2-line-25" n="25">Tried every sharping trick for bread,</l>
+            <l xml:id="swift-455-79L2-line-26" n="26">And after all he seldom sped.</l>
+            <l xml:id="swift-455-79L2-line-27" n="27">When Fortune favour'd, he was nice;</l>
+            <l xml:id="swift-455-79L2-line-28" n="28">He never once would cog the <hi rend="italics">dice</hi>:</l>
+            <l xml:id="swift-455-79L2-line-29" n="29">But, if she turn'd against his play,</l>
+            <l xml:id="swift-455-79L2-line-30" n="30">He knew to stop <hi rend="italics">à quatre trois</hi>.</l>
+            <l xml:id="swift-455-79L2-line-31" n="31">Now sound in mind, and sound in <hi rend="italics">corpus</hi>,</l>
+            <l xml:id="swift-455-79L2-line-32" n="32">(Says he) though swell'd like any <hi rend="italics">porpoise</hi>,</l>
+            <l xml:id="swift-455-79L2-line-33" n="33">He heys from hence at forty-four</l>
+            <l xml:id="swift-455-79L2-line-34" n="34">(<hi rend="italics">But by his leave he sinks a score</hi>)</l>
+            <l xml:id="swift-455-79L2-line-35" n="35">To The East Indies, there to cheat,</l>
+            <l xml:id="swift-455-79L2-line-36" n="36">Till he can purchase an estate;</l>
+            <l xml:id="swift-455-79L2-line-37" n="37">Where, after he has fill'd his chest,</l>
+            <l xml:id="swift-455-79L2-line-38" n="38">He·'ll mount his <hi rend="italics">tub</hi>, and preach his best,</l>
+            <l xml:id="swift-455-79L2-line-39" n="39">And plainly prove, by dint of text,</l>
+            <l xml:id="swift-455-79L2-line-40" n="40">This world is his, and theirs the next.</l>
+            <l xml:id="swift-455-79L2-line-41" n="41">Lest that the reader should not know</l>
+            <l xml:id="swift-455-79L2-line-42" n="42">The bank where last he set his toe,</l>
+            <l xml:id="swift-455-79L2-line-43" n="43">'Twas Greenwich. There he took a ship,</l>
+            <l xml:id="swift-455-79L2-line-44" n="44">And gave his creditors the slip.</l>
+            <l xml:id="swift-455-79L2-line-45" n="45">But lest <hi rend="italics">chronology</hi> should vary,</l>
+            <l xml:id="swift-455-79L2-line-46" n="46">Upon the Ides of February;</l>
+            <l xml:id="swift-455-79L2-line-47" n="47"><hi rend="italics">In seventeen hundred eight and twenty</hi>,</l>
+            <l xml:id="swift-455-79L2-line-48" n="48">To Fort St. George a <hi rend="italics">pedlar</hi> went he.</l>
+            <l xml:id="swift-455-79L2-line-49" n="49">Ye Fates, when all he gets is spent,</l>
+            <l xml:id="swift-455-79L2-line-50" n="50">R<hi rend="small-caps">ETURN HIM BEGGAR AS HE WENT</hi>!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

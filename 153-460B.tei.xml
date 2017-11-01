@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 17AU12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="153-460B">
+          <head type="note" n="1" xml:id="spp-153-460B-headnote-1">
+            <lg n="1" xml:id="spp-153-460B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-153-460B-headnote-1-line-group-1-line-1">Here I Send you ye fable of ye widdow and her Catt&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-153-460B-headnote-2">
+            <lg n="1" xml:id="spp-153-460B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-153-460B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-153-460B-headnote-3">
+            <lg n="1" xml:id="spp-153-460B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-153-460B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-153-460B-line-1" n="1">1<lb/>A Widow kept a favourite Cat</l>
+            <l xml:id="swift-153-460B-line-2" n="2">at first a gentle Creature,</l>
+            <l xml:id="swift-153-460B-line-3" n="3">Butt when he was grown slick and fat,</l>
+            <l xml:id="swift-153-460B-line-4" n="4">with many a mouse and many a Rat,</l>
+            <l xml:id="swift-153-460B-line-5" n="5">He soon Disclos'd his nature</l>
+            <l rend="center" xml:id="swift-153-460B-line-6" n="6">2<lb/>The fox and He were friends of old</l>
+            <l xml:id="swift-153-460B-line-7" n="7">Nor Cou'd they now be parted</l>
+            <l xml:id="swift-153-460B-line-8" n="8">they nightly slunk to Rob the fould</l>
+            <l xml:id="swift-153-460B-line-9" n="9">Devour'd the Lambs the fleecis sold</l>
+            <l xml:id="swift-153-460B-line-10" n="10">and puss grew Lyon hearted</l>
+            <l rend="center" xml:id="swift-153-460B-line-11" n="11">3<lb/>He Scratch'd her Maid, he stole the Cream</l>
+            <l xml:id="swift-153-460B-line-12" n="12">He tore her best Lac'd Pinner</l>
+            <l xml:id="swift-153-460B-line-13" n="13">Nor Chanticleer upon the beam,</l>
+            <l xml:id="swift-153-460B-line-14" n="14">Nor Chick nor Duckling 'Scapes when Grim</l>
+            <l xml:id="swift-153-460B-line-15" n="15">Invites the fox to Dinner</l>
+            <l rend="center" xml:id="swift-153-460B-line-16" n="16">4<lb/>the Dame full wisely Did Decree.</l>
+            <l xml:id="swift-153-460B-line-17" n="17">For fear he Should Dispatch more</l>
+            <l xml:id="swift-153-460B-line-18" n="18">That the false Wretch should Worry'd be</l>
+            <l xml:id="swift-153-460B-line-19" n="19">Butt in a sawcy manner he</l>
+            <l xml:id="swift-153-460B-line-20" n="20">Thus speech'd it Like a L────re</l>
+            <l rend="center" xml:id="swift-153-460B-line-21" n="21">5<lb/>Must I against all Right and Law</l>
+            <l xml:id="swift-153-460B-line-22" n="22">Like Pole-Cat Vile be treated</l>
+            <l xml:id="swift-153-460B-line-23" n="23">I Who So Long with tooth and Claw</l>
+            <l xml:id="swift-153-460B-line-24" n="24">Have kept Domestick mice in awe</l>
+            <l xml:id="swift-153-460B-line-25" n="25">And foreign foes Defeated</l>
+            <l rend="center" xml:id="swift-153-460B-line-26" n="26">6<lb/>Your golden pippins and your pies</l>
+            <l xml:id="swift-153-460B-line-27" n="27">How oft have I Defended</l>
+            <l xml:id="swift-153-460B-line-28" n="28">Tis True the pinner which you prize</l>
+            <l xml:id="swift-153-460B-line-29" n="29">I tore in frolick, to your Eyes</l>
+            <l xml:id="swift-153-460B-line-30" n="30">I never harm Jntended</l>
+            <l rend="center" xml:id="swift-153-460B-line-31" n="31">7<lb/>I am a Cat of Honour──── Stay</l>
+            <l xml:id="swift-153-460B-line-32" n="32">Quo' she, no Longer parly</l>
+            <l xml:id="swift-153-460B-line-33" n="33">Whate'er you Did in battle ····,</l>
+            <l xml:id="swift-153-460B-line-34" n="34">By Law of Arms became your prey</l>
+            <l xml:id="swift-153-460B-line-35" n="35">I hope you won it fairly</l>
+            <l rend="center" xml:id="swift-153-460B-line-36" n="36">8<lb/>of this we'll grant you stand acquit</l>
+            <l xml:id="swift-153-460B-line-37" n="37">Butt not of your outrages</l>
+            <l xml:id="swift-153-460B-line-38" n="38">Tell me perfidious, was it fit</l>
+            <l xml:id="swift-153-460B-line-39" n="39">To make my Cream a PERQUISITE</l>
+            <l xml:id="swift-153-460B-line-40" n="40">and Steal to mend your Wages</l>
+            <l rend="center" xml:id="swift-153-460B-line-41" n="41">9<lb/>So flagrant is thy Jnsolence,</l>
+            <l xml:id="swift-153-460B-line-42" n="42">So Vile thy breach of trust is</l>
+            <l xml:id="swift-153-460B-line-43" n="43">That Longer with thee to Dispence</l>
+            <l xml:id="swift-153-460B-line-44" n="44">Were want of Power, or want of sence</l>
+            <l xml:id="swift-153-460B-line-45" n="45">Here, Towzer── Do Him Justice</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

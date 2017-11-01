@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Poem upon a Lady's Spaniel call'd Rover.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3AP03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y25-315A">
+          <head type="note" n="1" xml:id="spp-Y25-315A-headnote-1">
+            <lg n="1" xml:id="spp-Y25-315A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y25-315A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y25-315A-headnote-2">
+            <lg n="1" xml:id="spp-Y25-315A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y25-315A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y25-315A-headnote-3">
+            <lg n="1" xml:id="spp-Y25-315A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y25-315A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y25-315A-line-1" n="1">Happiest of the Spaniel race,</l>
+            <l xml:id="swift-Y25-315A-line-2" n="2">Painter, with thy colours grace,</l>
+            <l xml:id="swift-Y25-315A-line-3" n="3">Draw his forehead large &amp; high,</l>
+            <l xml:id="swift-Y25-315A-line-4" n="4">Draw his blue &amp; humid eye,</l>
+            <l xml:id="swift-Y25-315A-line-5" n="5">Draw his neck so smooth &amp; round,</l>
+            <l xml:id="swift-Y25-315A-line-6" n="6">Little neck with ribbons bound,</l>
+            <l xml:id="swift-Y25-315A-line-7" n="7">And the muscly swelling breast,</l>
+            <l xml:id="swift-Y25-315A-line-8" n="8">Where the loves &amp; graces rest,</l>
+            <l xml:id="swift-Y25-315A-line-9" n="9">And the spreading even back</l>
+            <l xml:id="swift-Y25-315A-line-10" n="10">Soft &amp; sleek &amp; glossy black,</l>
+            <l xml:id="swift-Y25-315A-line-11" n="11">And the tail, that gently twines</l>
+            <l xml:id="swift-Y25-315A-line-12" n="12">Like the tendrils of the Vines,</l>
+            <l xml:id="swift-Y25-315A-line-13" n="13">And the silky twisted hair</l>
+            <l xml:id="swift-Y25-315A-line-14" n="14">Shadowing thick the velvet ear,</l>
+            <l xml:id="swift-Y25-315A-line-15" n="15">Velvet ears, which hanging low</l>
+            <l xml:id="swift-Y25-315A-line-16" n="16">O'er the veiny temples flow.</l>
+            <l xml:id="swift-Y25-315A-line-17" n="17">With a proper light &amp; shade</l>
+            <l xml:id="swift-Y25-315A-line-18" n="18">Let the winding hoop be laid,</l>
+            <l xml:id="swift-Y25-315A-line-19" n="19">And within that arching Bow'r</l>
+            <l xml:id="swift-Y25-315A-line-20" n="20">(sacred Circle, mystick pow'r)</l>
+            <l xml:id="swift-Y25-315A-line-21" n="21">In a downy slumber-place,</l>
+            <l xml:id="swift-Y25-315A-line-22" n="22">Happiest of the Spaniel Race,</l>
+            <l xml:id="swift-Y25-315A-line-23" n="23">While the soft perspiring dame,</l>
+            <l xml:id="swift-Y25-315A-line-24" n="24">Glowing with the softest flame,</l>
+            <l xml:id="swift-Y25-315A-line-25" n="25">On the ravish'd favourite pow'rs</l>
+            <l xml:id="swift-Y25-315A-line-26" n="26">Balmy dews, ambrosial show'rs.</l>
+            <l xml:id="swift-Y25-315A-line-27" n="27">With thy utmost skill express</l>
+            <l xml:id="swift-Y25-315A-line-28" n="28">Nature in her richest dress</l>
+            <l xml:id="swift-Y25-315A-line-29" n="29">Limped rivers smoothly flowing\<hi rend="italics">del</hi>·s\,</l>
+            <l xml:id="swift-Y25-315A-line-30" n="30">Orchards by those rivers blowing,</l>
+            <l xml:id="swift-Y25-315A-line-31" n="31">Curlin woodbine, myrtle shade,</l>
+            <l xml:id="swift-Y25-315A-line-32" n="32">And the gay enamel'd Mead,</l>
+            <l xml:id="swift-Y25-315A-line-33" n="33">Where the Linnets sit &amp; sing,</l>
+            <l xml:id="swift-Y25-315A-line-34" n="34">Little sportlings of the spring,</l>
+            <l xml:id="swift-Y25-315A-line-35" n="35">Where the breathing field &amp; grove</l>
+            <l xml:id="swift-Y25-315A-line-36" n="36">Sooth's the heart &amp; kindles love;</l>
+            <l xml:id="swift-Y25-315A-line-37" n="37">Here for me &amp; for the Muse,</l>
+            <l xml:id="swift-Y25-315A-line-38" n="38">Colours of resemblance chuse,</l>
+            <l xml:id="swift-Y25-315A-line-39" n="39">Make of lineaments divine</l>
+            <l xml:id="swift-Y25-315A-line-40" n="40">Dapply female spaniels shine,</l>
+            <l xml:id="swift-Y25-315A-line-41" n="41">Pretty fondlings of the fair,</l>
+            <l xml:id="swift-Y25-315A-line-42" n="42">Gentle damsels, gentle care,</l>
+            <l xml:id="swift-Y25-315A-line-43" n="43">But to one alone impart</l>
+            <l xml:id="swift-Y25-315A-line-44" n="44">All the flatt'ry of thy art,</l>
+            <l xml:id="swift-Y25-315A-line-45" n="45">Crowd each feature, crowd each grace,</l>
+            <l xml:id="swift-Y25-315A-line-46" n="46">Which compleat the desp'rate face;</l>
+            <l xml:id="swift-Y25-315A-line-47" n="47">Let the sported, wanton dame</l>
+            <l xml:id="swift-Y25-315A-line-48" n="48">Feel a new resistless flame</l>
+            <l xml:id="swift-Y25-315A-line-49" n="49">Let the happiest of his race</l>
+            <l xml:id="swift-Y25-315A-line-50" n="50">Win the fair to his embrace;</l>
+            <l xml:id="swift-Y25-315A-line-51" n="51">But in shade the rest conceal,</l>
+            <l xml:id="swift-Y25-315A-line-52" n="52">Nor to sight their joys reveal,</l>
+            <l xml:id="swift-Y25-315A-line-53" n="53">Lest the pencil &amp; the Muse</l>
+            <l xml:id="swift-Y25-315A-line-54" n="54">Lose desires &amp; thoughts infuse.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Aye and No</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="843AROGP">
+          <head type="note" n="1" xml:id="spp-843AROGP-headnote-1">
+            <lg n="1" xml:id="spp-843AROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843AROGP-headnote-1-line-group-1-line-1">A TALE FROM DUBLIN&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-843AROGP-headnote-2">
+            <lg n="1" xml:id="spp-843AROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843AROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-843AROGP-headnote-3">
+            <lg n="1" xml:id="spp-843AROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843AROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-843AROGP-line-1" n="1">At Dublin's high feast sat Primate and Dean,</l>
+            <l xml:id="swift-843AROGP-line-2" n="2">Both dressed like divines, with band and face clean.</l>
+            <l xml:id="swift-843AROGP-line-3" n="3">Quoth Hugh of Armagh, 'The mob is grown bold.'</l>
+            <l xml:id="swift-843AROGP-line-4" n="4">'Aye, aye,' quoth the Dean, 'the cause is old gold.'</l>
+            <l xml:id="swift-843AROGP-line-5" n="5">'No, no,' quoth the Primate, 'if causes we sift,</l>
+            <l xml:id="swift-843AROGP-line-6" n="6">This mischief arises from witty Dean Swift.'</l>
+            <l xml:id="swift-843AROGP-line-7" n="7">The smart one replied, 'There's no wit in the case;</l>
+            <l xml:id="swift-843AROGP-line-8" n="8">And nothing of that ever troubled your Grace.</l>
+            <l xml:id="swift-843AROGP-line-9" n="9">Though with your state-sieve your own notions you split,</l>
+            <l xml:id="swift-843AROGP-line-10" n="10">A Boulter by name is no bolter of wit.</l>
+            <l xml:id="swift-843AROGP-line-11" n="11">It's matter of weight, and a mere money-job;</l>
+            <l xml:id="swift-843AROGP-line-12" n="12">But the lower the coin, the higher the mob.</l>
+            <l xml:id="swift-843AROGP-line-13" n="13">Go tell your friend Bob and the other great folk,</l>
+            <l xml:id="swift-843AROGP-line-14" n="14">That sinking the coin is a dangerous joke.</l>
+            <l xml:id="swift-843AROGP-line-15" n="15">The Irish dear joys have enough common sense,</l>
+            <l xml:id="swift-843AROGP-line-16" n="16">To treat gold reduced like Wood's copper pence.</l>
+            <l xml:id="swift-843AROGP-line-17" n="17">It's a pity a prelate should die without law;</l>
+            <l xml:id="swift-843AROGP-line-18" n="18">But if I say the word── take care of Armagh!'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

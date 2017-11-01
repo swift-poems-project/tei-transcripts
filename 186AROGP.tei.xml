@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Scriblerian Verses</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="186AROGP">
+          <head type="note" n="1" xml:id="spp-186AROGP-headnote-1">
+            <lg n="1" xml:id="spp-186AROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-186AROGP-headnote-1-line-group-1-line-1"><hi rend="italics">2</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-186AROGP-headnote-2">
+            <lg n="1" xml:id="spp-186AROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-186AROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-186AROGP-headnote-3">
+            <lg n="1" xml:id="spp-186AROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-186AROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-186AROGP-line-1" n="1">Let not the Whigs our Tory club rebuke;</l>
+            <l xml:id="swift-186AROGP-line-2" n="2">Give us our Earl, the devil take their Duke.</l>
+            <l xml:id="swift-186AROGP-line-3" n="3"><hi rend="italics">Quaedam quae attinent ad Scriblerum</hi>,</l>
+            <l xml:id="swift-186AROGP-line-4" n="4">Want your assistance now to clear 'em.</l>
+            <l rend="indent(1)" xml:id="swift-186AROGP-line-5" n="5">One day it will be no disgrace,</l>
+            <l rend="indent(1)" xml:id="swift-186AROGP-line-6" n="6">In 'Scribler' to have had a place.</l>
+            <l xml:id="swift-186AROGP-line-7" n="7">Come then, my Lord, and take your part in</l>
+            <l xml:id="swift-186AROGP-line-8" n="8">The important <hi rend="italics">History of Martin</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

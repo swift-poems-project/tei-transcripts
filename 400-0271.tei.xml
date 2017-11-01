@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On seeing Verses written upon Windows<lb/>  in Inns.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 11SE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="400-0271">
+          <head type="note" n="1" xml:id="spp-400-0271-headnote-1">
+            <lg n="1" xml:id="spp-400-0271-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-400-0271-headnote-1-line-group-1-line-1">Written in the Year 1726.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-400-0271-headnote-2">
+            <lg n="1" xml:id="spp-400-0271-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-400-0271-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-400-0271-headnote-3">
+            <lg n="1" xml:id="spp-400-0271-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-400-0271-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-400-0271-line-1" n="1"><hi rend="display-initial">T</hi>HE Sage, who said he should be proud</l>
+            <l rend="indent(1)" xml:id="swift-400-0271-line-2" n="2">Of Windows in his Breast;</l>
+            <l xml:id="swift-400-0271-line-3" n="3">Because he ne'er one Thought allow'd</l>
+            <l rend="indent(1)" xml:id="swift-400-0271-line-4" n="4">That might not be confest:</l>
+            <l xml:id="swift-400-0271-line-5" n="5">His Window scrawl'd by ev'ry Rake,</l>
+            <l rend="indent(1)" xml:id="swift-400-0271-line-6" n="6">His Breast again would cover;</l>
+            <l xml:id="swift-400-0271-line-7" n="7">And fairly bid the D────l take</l>
+            <l rend="indent(1)" xml:id="swift-400-0271-line-8" n="8">The Di'mond and the Lover.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`Don Carlos in a merry Spite'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 31MY12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> checked agt 458J SK 1JE12; ed. JW 25AP16; EMENDED JW 22MR17, 24MR17, 26MR17 (twice!)</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="745-CWJS">
+          <head type="note" n="1" xml:id="spp-745-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-745-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-745-CWJS-headnote-1-line-group-1-line-1"><lb/>────── Cuicunque nocere volebat&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-745-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-745-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-745-CWJS-headnote-2-line-group-1-line-1">Vestimenta dabat pretiosa.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-745-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-745-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-745-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-745-CWJS-line-1" n="1">Don Carlos in a merry Spite</l>
+            <l xml:id="swift-745-CWJS-line-2" n="2">Did Stella to his House invite,</l>
+            <l xml:id="swift-745-CWJS-line-3" n="3">He entertain'd her half a year</l>
+            <l xml:id="swift-745-CWJS-line-4" n="4">With richest Wines &amp; costly Cheer:</l>
+            <l xml:id="swift-745-CWJS-line-5" n="5">Surpriz'd with ev'ry day a hot meal</l>
+            <l xml:id="swift-745-CWJS-line-6" n="6">She thought that all the World was Oat-meal.</l>
+            <l xml:id="swift-745-CWJS-line-7" n="7">Don Carlos made her chief Director</l>
+            <l xml:id="swift-745-CWJS-line-8" n="8">She now can or'e the Servants hector.</l>
+            <l xml:id="swift-745-CWJS-line-9" n="9">In half a week the Dame grew nice,</l>
+            <l xml:id="swift-745-CWJS-line-10" n="10">Got all things at the highest price.</l>
+            <l xml:id="swift-745-CWJS-line-11" n="11">Now at the Table-head she sits</l>
+            <l xml:id="swift-745-CWJS-line-12" n="12">Presented with the choicest Bits:</l>
+            <l xml:id="swift-745-CWJS-line-13" n="13">She look'd on Partridges with Scorn</l>
+            <l xml:id="swift-745-CWJS-line-14" n="14">Except they tasted of the Corn:</l>
+            <l xml:id="swift-745-CWJS-line-15" n="15">A Haunch of Ven'son made her sweat</l>
+            <l xml:id="swift-745-CWJS-line-16" n="16">Unless it had the right Fumette:</l>
+            <l xml:id="swift-745-CWJS-line-17" n="17">Don Carlos earnestly would beg,</l>
+            <l xml:id="swift-745-CWJS-line-18" n="18">Dear Madam try this Pigeon's leg:</l>
+            <l xml:id="swift-745-CWJS-line-19" n="19">Was happy when he could prevail</l>
+            <l xml:id="swift-745-CWJS-line-20" n="20">To make her only touch a Quail:</l>
+            <l xml:id="swift-745-CWJS-line-21" n="21">Thrô Candle-light she view'd the Wine</l>
+            <l xml:id="swift-745-CWJS-line-22" n="22">To see that every Glass was fine.</l>
+            <l rend="indent(1)" xml:id="swift-745-CWJS-line-23" n="23"><lb/>At last grown prouder than the Devil</l>
+            <l xml:id="swift-745-CWJS-line-24" n="24">With feeding high, &amp; Treatment civil,</l>
+            <l xml:id="swift-745-CWJS-line-25" n="25">Too soon arrives the dismal Day</l>
+            <l xml:id="swift-745-CWJS-line-26" n="26">She must return to Ormonde-Key.</l>
+            <l xml:id="swift-745-CWJS-line-27" n="27">Don Carlos now began to find</l>
+            <l xml:id="swift-745-CWJS-line-28" n="28">His Med'cine work as he design'd.</l>
+            <l rend="indent(1)" xml:id="swift-745-CWJS-line-29" n="29"><lb/>As the Coach stopp'd, she look'd, &amp; swore</l>
+            <l xml:id="swift-745-CWJS-line-30" n="30">The Rascal had mistook the Door:</l>
+            <l xml:id="swift-745-CWJS-line-31" n="31">At going in you saw her stoop</l>
+            <l xml:id="swift-745-CWJS-line-32" n="32">The narrow Entry crush'd her Hoop:</l>
+            <l xml:id="swift-745-CWJS-line-33" n="33">She curs'd the dark &amp; winding stairs</l>
+            <l xml:id="swift-745-CWJS-line-34" n="34">And still encreasing in her Airs</l>
+            <l xml:id="swift-745-CWJS-line-35" n="35">Began a thousand Faults to spy</l>
+            <l xml:id="swift-745-CWJS-line-36" n="36">The cieling hardly six Foot high</l>
+            <l xml:id="swift-745-CWJS-line-37" n="37">The smoaky Wainscot full of Cracks</l>
+            <l xml:id="swift-745-CWJS-line-38" n="38">And half the Chairs with broken Backs</l>
+            <l xml:id="swift-745-CWJS-line-39" n="39">The Cupboard fasten'd with a Peg</l>
+            <l xml:id="swift-745-CWJS-line-40" n="40">The rusty Tongs have lost a Leg</l>
+            <l xml:id="swift-745-CWJS-line-41" n="41">Her Quarter's out at Lady day</l>
+            <l xml:id="swift-745-CWJS-line-42" n="42">She'll have 'em know she scorns to stay</l>
+            <l xml:id="swift-745-CWJS-line-43" n="43">(While there are Houses to be let)</l>
+            <l xml:id="swift-745-CWJS-line-44" n="44">In Lodgings like a poor Grisette.</l>
+            <l rend="indent(1)" xml:id="swift-745-CWJS-line-45" n="45"><lb/>Mean time to keep her spirits up</l>
+            <l xml:id="swift-745-CWJS-line-46" n="46">She sends for Company to sup,</l>
+            <l xml:id="swift-745-CWJS-line-47" n="47">When all the while you might remark</l>
+            <l xml:id="swift-745-CWJS-line-48" n="48">She strove in vain to ape Woodpark.</l>
+            <l xml:id="swift-745-CWJS-line-49" n="49">Two Bottles call'd for, (half her Store,</l>
+            <l xml:id="swift-745-CWJS-line-50" n="50">The Cellar could contain but four)</l>
+            <l xml:id="swift-745-CWJS-line-51" n="51">A Supper worthy of her self,</l>
+            <l xml:id="swift-745-CWJS-line-52" n="52">Five Nothings on five Plates of Delf.</l>
+            <l xml:id="swift-745-CWJS-line-53" n="53">Thus for a Week the Farce went on</l>
+            <l xml:id="swift-745-CWJS-line-54" n="54"><hi rend="strikethrough">Till</hi> When her whole Month's Allowance gone,</l>
+            <l xml:id="swift-745-CWJS-line-55" n="55">She fell into her former Scene</l>
+            <l xml:id="swift-745-CWJS-line-56" n="56">Small beer, a Herring, and the Dean.</l>
+            <l rend="indent(1)" xml:id="swift-745-CWJS-line-57" n="57"><lb/>Since I must laugh, or cannot live,</l>
+            <l xml:id="swift-745-CWJS-line-58" n="58">Good natur'd Stella will forgive:</l>
+            <l xml:id="swift-745-CWJS-line-59" n="59">We Poets when a Hint is new</l>
+            <l xml:id="swift-745-CWJS-line-60" n="60">Regard not what is false or true;</l>
+            <l xml:id="swift-745-CWJS-line-61" n="61">No Raillery gives just Offence</l>
+            <l xml:id="swift-745-CWJS-line-62" n="62">Where Truth has not the least Pretence;</l>
+            <l xml:id="swift-745-CWJS-line-63" n="63">Nor can be more securely plac't</l>
+            <l xml:id="swift-745-CWJS-line-64" n="64">Than on a Nymph of Stella's Tast.</l>
+            <l rend="indent(1)" xml:id="swift-745-CWJS-line-65" n="65"><lb/>I must confess your Wine &amp; Vittle</l>
+            <l xml:id="swift-745-CWJS-line-66" n="66">I was too hard upon── a little;</l>
+            <l xml:id="swift-745-CWJS-line-67" n="67">And you must know in what I writ</l>
+            <l xml:id="swift-745-CWJS-line-68" n="68">I had some Anger in my Wit.</l>
+            <l xml:id="swift-745-CWJS-line-69" n="69">For when you sigh to leave Woodpark,</l>
+            <l xml:id="swift-745-CWJS-line-70" n="70">The Place, the Welcome, and the Spark</l>
+            <l xml:id="swift-745-CWJS-line-71" n="71">To languish in this odious Town,</l>
+            <l xml:id="swift-745-CWJS-line-72" n="72">And pull your haughty Stomach down,</l>
+            <l xml:id="swift-745-CWJS-line-73" n="73">You shew Don Carlos where to dwell,</l>
+            <l xml:id="swift-745-CWJS-line-74" n="74">And grieve he ever left Pell-mell.</l>
+            <l rend="indent(1)" xml:id="swift-745-CWJS-line-75" n="75"><lb/>Yet granting all I said <hi rend="strikethrough">was</hi> were true,</l>
+            <l xml:id="swift-745-CWJS-line-76" n="76">A Cottage is Woodpark with you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

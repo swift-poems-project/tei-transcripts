@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">To the Rev. Dr </hi>Swift<hi rend="italics">, with a Present of a<lb/>  Paper Book finely bound</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 27DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="609-33GN">
+          <head type="note" n="1" xml:id="spp-609-33GN-headnote-1">
+            <lg n="1" xml:id="spp-609-33GN-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-609-33GN-headnote-1-line-group-1-line-1"><hi rend="italics">By the E. of</hi> O──y.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-609-33GN-headnote-2">
+            <lg n="1" xml:id="spp-609-33GN-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-609-33GN-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-609-33GN-headnote-3">
+            <lg n="1" xml:id="spp-609-33GN-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-609-33GN-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-609-33GN-line-1" n="1"><hi rend="display-initial">T</hi>O thee, dear S<hi rend="small-caps">WIFT</hi>, these spotless leaves I send;</l>
+            <l xml:id="swift-609-33GN-line-2" n="2">Small is the present, but sincere the Friend:</l>
+            <l xml:id="swift-609-33GN-line-3" n="3">Think not so poor a book below thy care:</l>
+            <l xml:id="swift-609-33GN-line-4" n="4">Who knows the price that thou canst make it bear</l>
+            <l xml:id="swift-609-33GN-line-5" n="5">Tho' tawdry now, and like <hi rend="italics">Tyrilla</hi>'s face,</l>
+            <l xml:id="swift-609-33GN-line-6" n="6">The specious front shines out with borrow'd grace</l>
+            <l xml:id="swift-609-33GN-line-7" n="7">Tho' past-boards glittering, like a tinsel'd coat,</l>
+            <l xml:id="swift-609-33GN-line-8" n="8">A <hi rend="italics">Rasa Tabula</hi> within denote;</l>
+            <l xml:id="swift-609-33GN-line-9" n="9">Yet, if a venal and corrupted age,</l>
+            <l xml:id="swift-609-33GN-line-10" n="10">And modern vices, should provoke thy rage;</l>
+            <l xml:id="swift-609-33GN-line-11" n="11">If, warn'd once more by their impending fate,</l>
+            <l xml:id="swift-609-33GN-line-12" n="12">A sinking Country, and an injur'd state<note place="foot">·<hi rend="italics">Alluding to his writing against </hi>Wood<hi rend="italics">'s halp-pence.</hi></note></l>
+            <l xml:id="swift-609-33GN-line-13" n="13">Thy great assistance should again demand,</l>
+            <l xml:id="swift-609-33GN-line-14" n="14">And call forth <hi rend="italics">reason</hi> to defend the land;</l>
+            <l xml:id="swift-609-33GN-line-15" n="15">Then shall we view these sheets, with glad surprize</l>
+            <l xml:id="swift-609-33GN-line-16" n="16">Inspir'd with thought, and speaking to our eyes:</l>
+            <l xml:id="swift-609-33GN-line-17" n="17">Each vacant space shall then, enrich'd, dispense</l>
+            <l xml:id="swift-609-33GN-line-18" n="18">True force of eloquence, and nervous sense;</l>
+            <l xml:id="swift-609-33GN-line-19" n="19">Inform the judgment, animate the Heart,</l>
+            <l xml:id="swift-609-33GN-line-20" n="20">And sacred rules of policy impart:</l>
+            <l xml:id="swift-609-33GN-line-21" n="21">The spangled covering, bright with splendid ore,</l>
+            <l xml:id="swift-609-33GN-line-22" n="22">Shall cheat the sight with empty shew no more;</l>
+            <l xml:id="swift-609-33GN-line-23" n="23">But lead us inward to those golden mines,</l>
+            <l xml:id="swift-609-33GN-line-24" n="24">Where all thy soul in native lustre shines.</l>
+            <l rend="indent(1)" xml:id="swift-609-33GN-line-25" n="25">So when the eye surveys some lovely fair,</l>
+            <l xml:id="swift-609-33GN-line-26" n="26">With bloom of beauty grac'd, with shape and air;</l>
+            <l xml:id="swift-609-33GN-line-27" n="27">How is the rapture heighten'd when we find</l>
+            <l xml:id="swift-609-33GN-line-28" n="28">Her form excell'd by her celestial mind?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

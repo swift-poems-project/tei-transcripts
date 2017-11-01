@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Apology To My Lady Cartret.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 6FE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="375-176Y">
+          <head type="note" n="1" xml:id="spp-375-176Y-headnote-1">
+            <lg n="1" xml:id="spp-375-176Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-375-176Y-headnote-1-line-group-1-line-1">writ in Ireland...&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-375-176Y-headnote-2">
+            <lg n="1" xml:id="spp-375-176Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-375-176Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-375-176Y-headnote-3">
+            <lg n="1" xml:id="spp-375-176Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-375-176Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-375-176Y-line-1" n="1">A Lady wise as well as fair,</l>
+            <l xml:id="swift-375-176Y-line-2" n="2">Whose conscience was her only care,</l>
+            <l xml:id="swift-375-176Y-line-3" n="3">Thoughtfull upon a point of Moment,</l>
+            <l xml:id="swift-375-176Y-line-4" n="4">Wou'd know the text as well as comment,</l>
+            <l xml:id="swift-375-176Y-line-5" n="5">Hearing of a grave divine,</l>
+            <l xml:id="swift-375-176Y-line-6" n="6">She Sent to bid him come and Dine;</l>
+            <l xml:id="swift-375-176Y-line-7" n="7">Now you must know he was not quite</l>
+            <l xml:id="swift-375-176Y-line-8" n="8">So grave as to Unpolite,</l>
+            <l xml:id="swift-375-176Y-line-9" n="9">Thought human Learning wou'd not Lesson</l>
+            <l xml:id="swift-375-176Y-line-10" n="10">The Dignity of his profession;</l>
+            <l xml:id="swift-375-176Y-line-11" n="11">And if you heard the man discourse,</l>
+            <l xml:id="swift-375-176Y-line-12" n="12">You'd like him Ne'er the Worse;</l>
+            <l xml:id="swift-375-176Y-line-13" n="13">He long had bid the Court farewell,</l>
+            <l xml:id="swift-375-176Y-line-14" n="14">Retreating silent to his Cell,</l>
+            <l xml:id="swift-375-176Y-line-15" n="15">Suspected for the Love he bore</l>
+            <l xml:id="swift-375-176Y-line-16" n="16">For one who Sway'd sometime before,</l>
+            <l xml:id="swift-375-176Y-line-17" n="17">W<hi rend="superscript">ch</hi>. made it more surprizing, how</l>
+            <l xml:id="swift-375-176Y-line-18" n="18">How he shou'd be sent for thither Now.</l>
+            <l xml:id="swift-375-176Y-line-19" n="19">The message told he Gapes, he Stares,</l>
+            <l xml:id="swift-375-176Y-line-20" n="20">And scarce beleives his Eyes and Ears,</l>
+            <l xml:id="swift-375-176Y-line-21" n="21">Cou'd not conceive what it Cou'd mean,</l>
+            <l xml:id="swift-375-176Y-line-22" n="22">And fain wou'd hear it told, again,</l>
+            <l xml:id="swift-375-176Y-line-23" n="23">But then the Esq<hi rend="superscript">ṛ</hi> so trim and Nice</l>
+            <l xml:id="swift-375-176Y-line-24" n="24">T'were rude to make him tell it twice</l>
+            <l xml:id="swift-375-176Y-line-25" n="25">So bow'd was thankfull for y<hi rend="superscript">e</hi> Honour,</l>
+            <l xml:id="swift-375-176Y-line-26" n="26">And wou'd not fail to wait upon her;</l>
+            <l xml:id="swift-375-176Y-line-27" n="27">His beaver brush'd, his Shoes, &amp; Gown,</l>
+            <l xml:id="swift-375-176Y-line-28" n="28">Away he trudges into Town;</l>
+            <l xml:id="swift-375-176Y-line-29" n="29">Passes y<hi rend="superscript">e</hi> Lower castle Yard,</l>
+            <l xml:id="swift-375-176Y-line-30" n="30">And Now advancing to the Guard,</l>
+            <l xml:id="swift-375-176Y-line-31" n="31">He trembles at the thoughts of State,</l>
+            <l xml:id="swift-375-176Y-line-32" n="32">For Conscious of a Sheepish Gate,</l>
+            <l xml:id="swift-375-176Y-line-33" n="33">His spirits of a Sudden fail'd him,</l>
+            <l xml:id="swift-375-176Y-line-34" n="34">He stopp'd &amp; cou'd not tell what Ail'd him;</l>
+            <l xml:id="swift-375-176Y-line-35" n="35">What was y<hi rend="superscript">e</hi> Message, I Receiv'd</l>
+            <l xml:id="swift-375-176Y-line-36" n="36">Why Certainly y<hi rend="superscript">e</hi> Captain Rav'd,</l>
+            <l xml:id="swift-375-176Y-line-37" n="37">To dine with her, and come att three</l>
+            <l xml:id="swift-375-176Y-line-38" n="38">Impossible, it cannot be!</l>
+            <l xml:id="swift-375-176Y-line-39" n="39">Or may be I've mistook the word!</l>
+            <l xml:id="swift-375-176Y-line-40" n="40">My Lady──── it must be my Lord!</l>
+            <l xml:id="swift-375-176Y-line-41" n="41">My Lord's abroad; my Lady too</l>
+            <l xml:id="swift-375-176Y-line-42" n="42">What must the unhappy D<hi rend="superscript">ṛ</hi> Do?</l>
+            <l xml:id="swift-375-176Y-line-43" n="43">Is Captain Crachroad here pray? No.</l>
+            <l xml:id="swift-375-176Y-line-44" n="44">Nay then tis time for me to go.</l>
+            <l xml:id="swift-375-176Y-line-45" n="45">Am I awake, or do I dream?</l>
+            <l xml:id="swift-375-176Y-line-46" n="46">I'm sure he call'd me by my Name:</l>
+            <l xml:id="swift-375-176Y-line-47" n="47">Nam'd me as plain, as he cou'd Speak;</l>
+            <l xml:id="swift-375-176Y-line-48" n="48">And yet there must be some Mistake.</l>
+            <l xml:id="swift-375-176Y-line-49" n="49">Why what a Jest must I have been</l>
+            <l xml:id="swift-375-176Y-line-50" n="50">Now had my Lady been within,</l>
+            <l xml:id="swift-375-176Y-line-51" n="51">What cou'd I've said\<hi rend="italics">del</hi>·──·<hi rend="italics">add</hi>·?\ \<hi rend="italics">del</hi>·She'd·thought·me·Mad.·<hi rend="italics">add</hi>·I'm mighty Glad\</l>
+            <l xml:id="swift-375-176Y-line-52" n="52">She went Abroad── She'd thought me Mad</l>
+            <l xml:id="swift-375-176Y-line-53" n="53"><lb/>The Hour of dining now is past</l>
+            <l xml:id="swift-375-176Y-line-54" n="54">Well: then I'll e'en go home &amp; fast,</l>
+            <l xml:id="swift-375-176Y-line-55" n="55">And since I scap'd being made a scoff</l>
+            <l xml:id="swift-375-176Y-line-56" n="56">I think I'm very fairly off.</l>
+            <l xml:id="swift-375-176Y-line-57" n="57">My Lady returning home</l>
+            <l xml:id="swift-375-176Y-line-58" n="58">Call'd Crachrode is the doctor come?</l>
+            <l xml:id="swift-375-176Y-line-59" n="59">om.</l>
+            <l xml:id="swift-375-176Y-line-60" n="60">om.</l>
+            <l xml:id="swift-375-176Y-line-61" n="61">The Captain walks about &amp; Searches</l>
+            <l xml:id="swift-375-176Y-line-62" n="62">Through all the Ro\<hi rend="italics">add</hi>·o\m\<hi rend="italics">del</hi>·e\s &amp; Arches,</l>
+            <l xml:id="swift-375-176Y-line-63" n="63">Eamines all the Servants round</l>
+            <l xml:id="swift-375-176Y-line-64" n="64">In vain── No doctor to be found</l>
+            <l xml:id="swift-375-176Y-line-65" n="65">──My Lady could not chuse but wonder──</l>
+            <l xml:id="swift-375-176Y-line-66" n="66">Captain I fear you've made some Blunder;</l>
+            <l xml:id="swift-375-176Y-line-67" n="67">But pray tomorrow go att Ten,</l>
+            <l xml:id="swift-375-176Y-line-68" n="68">I'll try his manners, once again,</l>
+            <l xml:id="swift-375-176Y-line-69" n="69">If Rudeness be th\<hi rend="italics">del</hi>·e·<hi rend="italics">add</hi>·'\ Effect of Knowledge</l>
+            <l xml:id="swift-375-176Y-line-70" n="70">My Son Shall never see a Colledge;</l>
+            <l xml:id="swift-375-176Y-line-71" n="71">This Captain was a man of reading</l>
+            <l xml:id="swift-375-176Y-line-72" n="72">And much good sence as well as breeding.</l>
+            <l xml:id="swift-375-176Y-line-73" n="73">Who loth to blame, or to Incense,</l>
+            <l xml:id="swift-375-176Y-line-74" n="74">Said little in his own Defence.</l>
+            <l xml:id="swift-375-176Y-line-75" n="75">Next day, another Message brought,</l>
+            <l xml:id="swift-375-176Y-line-76" n="76">The Doctor frighted at his fault,</l>
+            <l xml:id="swift-375-176Y-line-77" n="77">Is dress'd, &amp; stealing through y<hi rend="superscript">e</hi> Croud</l>
+            <l xml:id="swift-375-176Y-line-78" n="78">Now pale as Death, now flush'd, &amp; bow'd,</l>
+            <l xml:id="swift-375-176Y-line-79" n="79">Panting &amp; faultring── Humm'd &amp; Haw'd</l>
+            <l xml:id="swift-375-176Y-line-80" n="80">Her Ladyship was gone abroad──</l>
+            <l xml:id="swift-375-176Y-line-81" n="81">The Captain too── He did not know</l>
+            <l xml:id="swift-375-176Y-line-82" n="82">Whether he ought to stay or go,</l>
+            <l xml:id="swift-375-176Y-line-83" n="83">Begg'd she'd forgive him── in conclusion</l>
+            <l xml:id="swift-375-176Y-line-84" n="84">My Lady pittying his Confusion</l>
+            <l xml:id="swift-375-176Y-line-85" n="85">Call'd her good Nature to releive him,</l>
+            <l xml:id="swift-375-176Y-line-86" n="86">om.</l>
+            <l xml:id="swift-375-176Y-line-87" n="87">And wou'd not only grant his Suit,</l>
+            <l xml:id="swift-375-176Y-line-88" n="88">But visit\<hi rend="italics">del</hi>·ed\ him, &amp; Eat some fruit,</l>
+            <l xml:id="swift-375-176Y-line-89" n="89">Provided att a proper time</l>
+            <l xml:id="swift-375-176Y-line-90" n="90">He told the real truth in Rhime</l>
+            <l xml:id="swift-375-176Y-line-91" n="91">Twas to no purpose to oppose,</l>
+            <l xml:id="swift-375-176Y-line-92" n="92">She'd hear of no Excuse in prose;</l>
+            <l xml:id="swift-375-176Y-line-93" n="93">The Doctor stood not on Debate,</l>
+            <l xml:id="swift-375-176Y-line-94" n="94">Glad to compound att any rate,</l>
+            <l xml:id="swift-375-176Y-line-95" n="95">So bowing seem'd seemingly comply'd</l>
+            <l xml:id="swift-375-176Y-line-96" n="96">Thô if he durst he had Deny'd</l>
+            <l xml:id="swift-375-176Y-line-97" n="97">But first resolv'd to Shew his taste</l>
+            <l xml:id="swift-375-176Y-line-98" n="98">Was too refind to give a feast,</l>
+            <l xml:id="swift-375-176Y-line-99" n="99">He'd treat with nothing y<hi rend="superscript">ṭ</hi> was rare</l>
+            <l xml:id="swift-375-176Y-line-100" n="100">But winding walks &amp; purer Air</l>
+            <l xml:id="swift-375-176Y-line-101" n="101">He'd entertain without expense</l>
+            <l xml:id="swift-375-176Y-line-102" n="102">or pride of vain Magnificence,</l>
+            <l xml:id="swift-375-176Y-line-103" n="103">For well he knew to such a Guest</l>
+            <l xml:id="swift-375-176Y-line-104" n="104">The plainest meals must be the best</l>
+            <l xml:id="swift-375-176Y-line-105" n="105">To Stomachs cloy'd with costly fare</l>
+            <l xml:id="swift-375-176Y-line-106" n="106">Symplicity alone is rare</l>
+            <l xml:id="swift-375-176Y-line-107" n="107">Whist high &amp; nice &amp; curious Meats</l>
+            <l xml:id="swift-375-176Y-line-108" n="108">Are really but Vulgar treats</l>
+            <l xml:id="swift-375-176Y-line-109" n="109">Instead of Spoils of Persian Looms</l>
+            <l xml:id="swift-375-176Y-line-110" n="110">The costly boast of Regal Rooms,</l>
+            <l xml:id="swift-375-176Y-line-111" n="111">Thought it more Courtly &amp; Discreet</l>
+            <l xml:id="swift-375-176Y-line-112" n="112">To Scatter Roses att her feet,</l>
+            <l xml:id="swift-375-176Y-line-113" n="113">Roses of richest Dye that Shone</l>
+            <l xml:id="swift-375-176Y-line-114" n="114">With Native Lustre like her Own,</l>
+            <l xml:id="swift-375-176Y-line-115" n="115">Beauty that needs no Aid of Art</l>
+            <l xml:id="swift-375-176Y-line-116" n="116">Thrô every Sence to search y<hi rend="superscript">ẹ</hi> Heart,</l>
+            <l xml:id="swift-375-176Y-line-117" n="117">The Gracious Dame altho She knew</l>
+            <l xml:id="swift-375-176Y-line-118" n="118">All this was much beneath her Due,</l>
+            <l xml:id="swift-375-176Y-line-119" n="119">Lik'd every thing, att last thought fit</l>
+            <l xml:id="swift-375-176Y-line-120" n="120">To praise par maniere Dâquit;</l>
+            <l xml:id="swift-375-176Y-line-121" n="121">But yet thô seeming Pleas'd cant bear</l>
+            <l xml:id="swift-375-176Y-line-122" n="122">The Scorching Sun &amp; chilly Air;</l>
+            <l xml:id="swift-375-176Y-line-123" n="123">Frigh'ted alike att both Extreams</l>
+            <l xml:id="swift-375-176Y-line-124" n="124">Ill he Displays or hides his Beams,</l>
+            <l xml:id="swift-375-176Y-line-125" n="125">Thô seeming pleas'd att all She sees</l>
+            <l xml:id="swift-375-176Y-line-126" n="126">Starts att y<hi rend="superscript">e</hi> rustling of the Trees,</l>
+            <l xml:id="swift-375-176Y-line-127" n="127">Can Scarcely Speak for want of Breath</l>
+            <l xml:id="swift-375-176Y-line-128" n="128">In half a walk fatigu'd to Death;</l>
+            <l xml:id="swift-375-176Y-line-129" n="129">The D<hi rend="superscript">ṛ</hi> takes his hint from thence</l>
+            <l xml:id="swift-375-176Y-line-130" n="130">To vindicate his late offence.</l>
+            <l xml:id="swift-375-176Y-line-131" n="131">Madam the mighty power of use</l>
+            <l xml:id="swift-375-176Y-line-132" n="132">Now strongly pleads in my Excuse</l>
+            <l xml:id="swift-375-176Y-line-133" n="133">If you unus'd have scarcely Strength</l>
+            <l xml:id="swift-375-176Y-line-134" n="134">To move this Walks uncrouded Length</l>
+            <l xml:id="swift-375-176Y-line-135" n="135">If ratling in a Scene so rude</l>
+            <l xml:id="swift-375-176Y-line-136" n="136">Thrô long Disure of Solitude</l>
+            <l xml:id="swift-375-176Y-line-137" n="137">If long confin'd to fires &amp; skreens</l>
+            <l xml:id="swift-375-176Y-line-138" n="138">You dread the waving of these Greens,</l>
+            <l xml:id="swift-375-176Y-line-139" n="139">If trees that neither see nor hear</l>
+            <l xml:id="swift-375-176Y-line-140" n="140">Nor Speak, nor Walk, can give You fear,</l>
+            <l xml:id="swift-375-176Y-line-141" n="141">If You who long have breath'd y<hi rend="superscript">e</hi> fumes</l>
+            <l xml:id="swift-375-176Y-line-142" n="142">of City Toys &amp; crowded Rooms</l>
+            <l xml:id="swift-375-176Y-line-143" n="143">Do now Sollicitously Shun</l>
+            <l xml:id="swift-375-176Y-line-144" n="144">The Cooler Air &amp; Darling Sun,</l>
+            <l xml:id="swift-375-176Y-line-145" n="145">If Sol's Magestick Eye You flee,</l>
+            <l xml:id="swift-375-176Y-line-146" n="146">Learn hence t'excuse &amp; pity me,</l>
+            <l xml:id="swift-375-176Y-line-147" n="147">Consider what it is to bear</l>
+            <l xml:id="swift-375-176Y-line-148" n="148">The powder'd Courtiers witty Sneer,</l>
+            <l xml:id="swift-375-176Y-line-149" n="149">To see th'Important man of dress,</l>
+            <l xml:id="swift-375-176Y-line-150" n="150">Snouching my Colledge Aukerdness</l>
+            <l xml:id="swift-375-176Y-line-151" n="151">To be the Strutting cornet's Sport</l>
+            <l xml:id="swift-375-176Y-line-152" n="152">To run the Guantlet of y<hi rend="superscript">e</hi> Court,</l>
+            <l xml:id="swift-375-176Y-line-153" n="153">Winning my way by Slow Approaches,</l>
+            <l xml:id="swift-375-176Y-line-154" n="154">Thrô Crouds of Coxcombs, and of Coaches,</l>
+            <l xml:id="swift-375-176Y-line-155" n="155">From the first fierce cockaded Centry</l>
+            <l xml:id="swift-375-176Y-line-156" n="156">Quite thrô the tribe of waiting Gentry;</l>
+            <l xml:id="swift-375-176Y-line-157" n="157">To pass so many crouded Stages,</l>
+            <l xml:id="swift-375-176Y-line-158" n="158">And stand y<hi rend="superscript">e</hi> stairing of y<hi rend="superscript">e</hi> Pages;</l>
+            <l xml:id="swift-375-176Y-line-159" n="159">And after all to crown my Spleen</l>
+            <l xml:id="swift-375-176Y-line-160" n="160">Be told── you are not be seen,</l>
+            <l xml:id="swift-375-176Y-line-161" n="161">or if you are, be forc'd to bear</l>
+            <l xml:id="swift-375-176Y-line-162" n="162">The Awe of that Magestick Air;</l>
+            <l xml:id="swift-375-176Y-line-163" n="163">And can I then be Guilty found</l>
+            <l xml:id="swift-375-176Y-line-164" n="164">In dreading this vexatious round?</l>
+            <l xml:id="swift-375-176Y-line-165" n="165">Can it be strange if I Eschew</l>
+            <l xml:id="swift-375-176Y-line-166" n="166">A Scene so glaring &amp; so New,</l>
+            <l xml:id="swift-375-176Y-line-167" n="167">Or is he Criminal that flys</l>
+            <l xml:id="swift-375-176Y-line-168" n="168">The Living Lustre, of your Eyes?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

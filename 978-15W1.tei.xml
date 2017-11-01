@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-978-15W1-title-1">THE DEAN TO THOMAS SHERIDAN. <ref target="#spp-978-15W1-footnote-title-1">1</ref><note n="1" xml:id="spp-978-15W1-footnote-title-1" place="foot">Whimsical Medley, p. 360</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 17NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-978-15W1-footnote-title-1 #spp-978-15W1-title-1"/>
+        </linkGrp>
+        <div n="978-15W1">
+          <head type="note" n="1" xml:id="spp-978-15W1-headnote-1">
+            <lg n="1" xml:id="spp-978-15W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-978-15W1-headnote-1-line-group-1-line-1">S<hi rend="small-caps">IR</hi>,</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-978-15W1-headnote-2">
+            <lg n="1" xml:id="spp-978-15W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-978-15W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-978-15W1-headnote-3">
+            <lg n="1" xml:id="spp-978-15W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-978-15W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-978-15W1-line-1" n="1">W<hi rend="small-caps">HEN</hi> I saw you to-day, as I went with Lord Anglesey,</l>
+            <l xml:id="swift-978-15W1-line-2" n="2">Lord, said I, who's that parson, how awkwardly dangles he!</l>
+            <l xml:id="swift-978-15W1-line-3" n="3">When whip you trot up, without minding your betters,</l>
+            <l xml:id="swift-978-15W1-line-4" n="4">To the very coach side, and threaten your letters.</l>
+            <l rend="indent(1)" xml:id="swift-978-15W1-line-5" n="5">Is the poison [and dagger] you boast in your jaws, trow?</l>
+            <l xml:id="swift-978-15W1-line-6" n="6">Are you still in your cart with <hi rend="italics">convitia ex plaustro</hi>?</l>
+            <l xml:id="swift-978-15W1-line-7" n="7">But to scold is your trade, which I soon should be foil'd in,</l>
+            <l xml:id="swift-978-15W1-line-8" n="8">For scolding is just <hi rend="italics">quasi diceres</hi>── school-din:</l>
+            <l xml:id="swift-978-15W1-line-9" n="9">And I think I may say, you could many good shillings get,</l>
+            <l xml:id="swift-978-15W1-line-10" n="10">Were you drest like a bawd, and sold oysters at Billingsgate:</l>
+            <l xml:id="swift-978-15W1-line-11" n="11">But coach it or cart it, I'd have you know, sirrah,</l>
+            <l xml:id="swift-978-15W1-line-12" n="12">I'll write, tho' I'm forced to write in a wheel-barrow:</l>
+            <l xml:id="swift-978-15W1-line-13" n="13">Nay, hector and swagger, you'll still find me stanch,</l>
+            <l xml:id="swift-978-15W1-line-14" n="14">And you and your cart shall give me <hi rend="italics">carte blanche</hi>.</l>
+            <l xml:id="swift-978-15W1-line-15" n="15">Since you write in a cart, keep it <hi rend="italics">tecta et sarta</hi>,</l>
+            <l xml:id="swift-978-15W1-line-16" n="16">'Tis all you have for it, 'tis your best Magna Carta;</l>
+            <l xml:id="swift-978-15W1-line-17" n="17">And I love you so well, as I told you long ago,</l>
+            <l xml:id="swift-978-15W1-line-18" n="18">That I'll ne'er give my vote for <hi rend="italics">Delenda Cart-ago</hi>.</l>
+            <l xml:id="swift-978-15W1-line-19" n="19">Now you write from your cellar, I find out your art,</l>
+            <l xml:id="swift-978-15W1-line-20" n="20">Your rhyme as folks fence, in <hi rend="italics">tierce</hi> and in <hi rend="italics">cart</hi>:</l>
+            <l xml:id="swift-978-15W1-line-21" n="21">Your ink is your poison, <note place="foot">·Viz. ut tu prædicas.</note> your pen is what not;</l>
+            <l xml:id="swift-978-15W1-line-22" n="22">Your ink is your drink, <note place="foot">·Viz. ut ego assero verius.</note> your pen is your pot.</l>
+            <l xml:id="swift-978-15W1-line-23" n="23">To my goddess Melpomene, pride of her sex,</l>
+            <l xml:id="swift-978-15W1-line-24" n="24">I gave, as you beg, your most humble respects:</l>
+            <l xml:id="swift-978-15W1-line-25" n="25">The rest of your compliment I dare not tell her,</l>
+            <l xml:id="swift-978-15W1-line-26" n="26">For she never descends so low as the cellar;</l>
+            <l xml:id="swift-978-15W1-line-27" n="27">But before you can put yourself under her banners,</l>
+            <l xml:id="swift-978-15W1-line-28" n="28">She declares from her throne, you must learn better manners.</l>
+            <l xml:id="swift-978-15W1-line-29" n="29">If once in your cellar my Phœbus should shine,</l>
+            <l xml:id="swift-978-15W1-line-30" n="30">I tell you I'd not give a fig for your wine;</l>
+            <l xml:id="swift-978-15W1-line-31" n="31">So I'll leave him behind, for I certainly know it,</l>
+            <l xml:id="swift-978-15W1-line-32" n="32">What he ripens above ground, he sours below it.</l>
+            <l xml:id="swift-978-15W1-line-33" n="33">But why should we fight thus, my partner so dear,</l>
+            <l xml:id="swift-978-15W1-line-34" n="34">With three hundred and sixty-five poems a-year?</l>
+            <l xml:id="swift-978-15W1-line-35" n="35">Let's quarrel no longer, since Dan and George Rochfort</l>
+            <l xml:id="swift-978-15W1-line-36" n="36">Will laugh in their sleeves: I can tell you they watch for't.</l>
+            <l rend="indent(1)" xml:id="swift-978-15W1-line-37" n="37">Then George will rejoice, and Dan will sing high-day:</l>
+            <l xml:id="swift-978-15W1-line-38" n="38">Hoc Ithacus velit, et magni mercentur Atridae.</l>
+            <l rend="indent(1)" xml:id="swift-978-15W1-line-39" n="39">
+              <space>J<hi rend="small-caps">ON</hi>. S<hi rend="small-caps">WIFT</hi>/hi&gt;.</space>
+            </l>
+            <l xml:id="swift-978-15W1-line-40" n="40"><lb/>Written, signed and sealed, five minutes and eleven seconds after the receipt of yours, allowing seven seconds for sealing and superscribing, from my bed-side, just eleven minutes after eleven, Sept. 15, 1718.</l>
+            <l xml:id="swift-978-15W1-line-41" n="41"><lb/>om.</l>
+            <l xml:id="swift-978-15W1-line-42" n="42">om.</l>
+            <l xml:id="swift-978-15W1-line-43" n="43">om.</l>
+            <l xml:id="swift-978-15W1-line-44" n="44">om.</l>
+            <l xml:id="swift-978-15W1-line-45" n="45">om.</l>
+            <l xml:id="swift-978-15W1-line-46" n="46">Erratum in your last, l. antepenult, pro “fear a <hi rend="italics">Dun</hi>,” lege “fear a <hi rend="italics">Dan</hi>:” ita omnes MSS. quos ego legi, et ita magis congruum tam sensui quam veritati.</l>
+            <l xml:id="swift-978-15W1-line-47" n="47">om.</l>
+            <l xml:id="swift-978-15W1-line-48" n="48">om.</l>
+            <l xml:id="swift-978-15W1-line-49" n="49">om.</l>
+            <l xml:id="swift-978-15W1-line-50" n="50">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

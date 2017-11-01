@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Strephon</hi> and <hi rend="italics">Cloe</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWhite 19MY92"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="584-0251">
+          <head type="note" n="1" xml:id="spp-584-0251-headnote-1">
+            <lg n="1" xml:id="spp-584-0251-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-584-0251-headnote-1-line-group-1-line-1">Written in the Year 1731.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-584-0251-headnote-2">
+            <lg n="1" xml:id="spp-584-0251-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-584-0251-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-584-0251-headnote-3">
+            <lg n="1" xml:id="spp-584-0251-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-584-0251-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-584-0251-line-1" n="1"><hi rend="display-initial">O</hi>F <hi rend="italics">Chloe</hi> all the Town has rung;</l>
+            <l xml:id="swift-584-0251-line-2" n="2">By ev'ry Size of Poets sung:</l>
+            <l xml:id="swift-584-0251-line-3" n="3">So beautiful a Nymph appears</l>
+            <l xml:id="swift-584-0251-line-4" n="4">But once in Twenty Thousand Years:</l>
+            <l xml:id="swift-584-0251-line-5" n="5">By Nature form'd with nicest Care,</l>
+            <l xml:id="swift-584-0251-line-6" n="6">And, faultless to a single Hair.</l>
+            <l xml:id="swift-584-0251-line-7" n="7">Her graceful Mien, her Shape, and Face,</l>
+            <l xml:id="swift-584-0251-line-8" n="8">Confess't her of no mortal Race:</l>
+            <l xml:id="swift-584-0251-line-9" n="9">And then, so nice, and so genteel;</l>
+            <l xml:id="swift-584-0251-line-10" n="10">Such Cleanliness from Head to Heel:</l>
+            <l xml:id="swift-584-0251-line-11" n="11">No Humours gross, or frowzy Steams,</l>
+            <l xml:id="swift-584-0251-line-12" n="12">No noisome Whiffs, or sweaty Streams,</l>
+            <l xml:id="swift-584-0251-line-13" n="13">Before, behind, above, below,</l>
+            <l xml:id="swift-584-0251-line-14" n="14">Could from her taintless Body flow.</l>
+            <l xml:id="swift-584-0251-line-15" n="15">Would so discreetly Things dispose,</l>
+            <l xml:id="swift-584-0251-line-16" n="16">None ever saw her pluck a Rose.</l>
+            <l xml:id="swift-584-0251-line-17" n="17">Her dearest Comrades never caught her</l>
+            <l xml:id="swift-584-0251-line-18" n="18">Squat on her Hams, to make Maids Water.</l>
+            <l xml:id="swift-584-0251-line-19" n="19">You'd swear, that so divine a Creature</l>
+            <l xml:id="swift-584-0251-line-20" n="20">Felt no Necessities of Nature.</l>
+            <l xml:id="swift-584-0251-line-21" n="21">In Summer, had she walk't the Town,</l>
+            <l xml:id="swift-584-0251-line-22" n="22">Her Arm-pits would not stain her Gown:</l>
+            <l xml:id="swift-584-0251-line-23" n="23">At Country-Dances, not a Nose</l>
+            <l xml:id="swift-584-0251-line-24" n="24">Could in the Dog-Days smell her Toes.</l>
+            <l xml:id="swift-584-0251-line-25" n="25">Her Milk-white Hands, both Palms and Backs,</l>
+            <l xml:id="swift-584-0251-line-26" n="26">Like Iv'ry dry, and soft as Wax.</l>
+            <l xml:id="swift-584-0251-line-27" n="27">Her Hands, the softest ever felt,</l>
+            <l xml:id="swift-584-0251-line-28" n="28"><note place="foot">·<hi rend="italics">Though deep, yet clear</hi>, &amp;c.«LD</note>Denham.»Though cold would burn, though dry would melt.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-29" n="29"><lb/>D<hi rend="small-caps">EAR</hi> <hi rend="italics">Venus</hi>, hide this wond'rous Maid,</l>
+            <l xml:id="swift-584-0251-line-30" n="30">Nor let her loose to spoil your Trade.</l>
+            <l xml:id="swift-584-0251-line-31" n="31">While she engrosseth ev'ry Swain,</l>
+            <l xml:id="swift-584-0251-line-32" n="32">You but o'er half the World can reign.</l>
+            <l xml:id="swift-584-0251-line-33" n="33">Think what a Case all Men are now in,</l>
+            <l xml:id="swift-584-0251-line-34" n="34">What ogling, sighing, toasting, vowing!</l>
+            <l xml:id="swift-584-0251-line-35" n="35">What powder'd Wigs! What Flames and Darts!</l>
+            <l xml:id="swift-584-0251-line-36" n="36">What Hampers full of bleeding Hearts!</l>
+            <l xml:id="swift-584-0251-line-37" n="37">What Sword-knots! What poetick Strains!</l>
+            <l xml:id="swift-584-0251-line-38" n="38">What Billet-doux, and clouded Canes!</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-39" n="39"><lb/>B<hi rend="small-caps">UT</hi>, <hi rend="italics">Strephon</hi> sigh'd so loud and strong,</l>
+            <l xml:id="swift-584-0251-line-40" n="40">He blew a Settlement along:</l>
+            <l xml:id="swift-584-0251-line-41" n="41">And, bravely drove his Rivals down</l>
+            <l xml:id="swift-584-0251-line-42" n="42">With Coach and Six, and House in Town.</l>
+            <l xml:id="swift-584-0251-line-43" n="43">The bashful Nymph no more withstands,</l>
+            <l xml:id="swift-584-0251-line-44" n="44">Because her dear Papa commands.</l>
+            <l xml:id="swift-584-0251-line-45" n="45">The charming Couple now unites:</l>
+            <l xml:id="swift-584-0251-line-46" n="46">Proceed we to the Marriage Rites.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-47" n="47"><lb/>I<hi rend="small-caps">MPRIMIS</hi>, at the Temple Porch</l>
+            <l xml:id="swift-584-0251-line-48" n="48">Stood <hi rend="italics">Hymen</hi> with a flaming Torch:</l>
+            <l xml:id="swift-584-0251-line-49" n="49">The smiling <hi rend="italics">Cyprian</hi> Goddess brings</l>
+            <l xml:id="swift-584-0251-line-50" n="50">Her infant Loves with purple Wings:</l>
+            <l xml:id="swift-584-0251-line-51" n="51">And Pidgeons billing, Sparrows treading,</l>
+            <l xml:id="swift-584-0251-line-52" n="52">Fair Emblems of a fruitful Wedding.</l>
+            <l xml:id="swift-584-0251-line-53" n="53">The Muses next in Order follow,</l>
+            <l xml:id="swift-584-0251-line-54" n="54">Conducted by their Squire, <hi rend="italics">Apollo</hi>:</l>
+            <l xml:id="swift-584-0251-line-55" n="55">Then <hi rend="italics">Mercury</hi> with Silver Tongue,</l>
+            <l xml:id="swift-584-0251-line-56" n="56">And <hi rend="italics">Hebe</hi>, Goddess ever young.</l>
+            <l xml:id="swift-584-0251-line-57" n="57">Behold the Bridegroom and his Bride,</l>
+            <l xml:id="swift-584-0251-line-58" n="58">Walk Hand in Hand, and Side by Side;</l>
+            <l xml:id="swift-584-0251-line-59" n="59">She by the tender Graces drest,</l>
+            <l xml:id="swift-584-0251-line-60" n="60">But, he by <hi rend="italics">Mars</hi>, in Scarlet Vest.</l>
+            <l xml:id="swift-584-0251-line-61" n="61">The Nymph was cover'd with her <note place="foot">·<hi rend="italics">A Veil which the </hi>Roman<hi rend="italics"> Brides covered themselves with when they were going to be married</hi>.</note> <hi rend="italics">Flammeum</hi>,</l>
+            <l xml:id="swift-584-0251-line-62" n="62">And <hi rend="italics">Phæbus</hi> sung th' <note place="foot">·<hi rend="italics">A Marriage Song at Weddings</hi>.</note> <hi rend="italics">Epithalamium</hi>.</l>
+            <l xml:id="swift-584-0251-line-63" n="63">And, last, to make the Matter sure,</l>
+            <l xml:id="swift-584-0251-line-64" n="64">Dame <hi rend="italics">Juno</hi> brought a Priest demure.</l>
+            <l xml:id="swift-584-0251-line-65" n="65"><note place="foot">·Diana<hi rend="italics">, Goddess of Midwives</hi>.</note><hi rend="italics">Luna</hi> was absent, on Pretence</l>
+            <l xml:id="swift-584-0251-line-66" n="66">Her Time was not till Nine Months hence.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-67" n="67"><lb/>T<hi rend="small-caps">HE</hi> Rites perform'd, the Parson paid,</l>
+            <l xml:id="swift-584-0251-line-68" n="68">In State return'd the grand Parade;</l>
+            <l xml:id="swift-584-0251-line-69" n="69">With loud Huzza's from all the Boys,</l>
+            <l xml:id="swift-584-0251-line-70" n="70">That, now the Pair must <hi rend="italics">crown their Joys</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-71" n="71"><lb/>B<hi rend="small-caps">UT</hi>, still the hardest Part remains.</l>
+            <l xml:id="swift-584-0251-line-72" n="72"><hi rend="italics">Strephon</hi> had long perplex'd his Brains,</l>
+            <l xml:id="swift-584-0251-line-73" n="73">How with so high a Nymph he might</l>
+            <l xml:id="swift-584-0251-line-74" n="74">Demean himself the Wedding-Night:</l>
+            <l xml:id="swift-584-0251-line-75" n="75">For, as he view'd his Person round,</l>
+            <l xml:id="swift-584-0251-line-76" n="76">Meer mortal Flesh was all he found:</l>
+            <l xml:id="swift-584-0251-line-77" n="77">His Hand, his Neck, his Mouth, and Feet</l>
+            <l xml:id="swift-584-0251-line-78" n="78">Were duly washt, to keep them sweet;</l>
+            <l xml:id="swift-584-0251-line-79" n="79">(With other Parts that shall be nameless,</l>
+            <l xml:id="swift-584-0251-line-80" n="80">The Ladies else might think me shameless.)</l>
+            <l xml:id="swift-584-0251-line-81" n="81">The Weather and his Love were hot;</l>
+            <l xml:id="swift-584-0251-line-82" n="82">And should he struggle; I know what──────</l>
+            <l xml:id="swift-584-0251-line-83" n="83">Why let it go, if I must tell it────</l>
+            <l xml:id="swift-584-0251-line-84" n="84">He'll sweat, and then the Nymph may smell it.</l>
+            <l xml:id="swift-584-0251-line-85" n="85">While she a Goddess dy'd in Grain</l>
+            <l xml:id="swift-584-0251-line-86" n="86">Was unsusceptible of Stain:</l>
+            <l xml:id="swift-584-0251-line-87" n="87">And, <hi rend="italics">Venus</hi>-like, her fragrant Skin</l>
+            <l xml:id="swift-584-0251-line-88" n="88">Exhal'd <hi rend="italics">Ambrosia</hi> from within:</l>
+            <l xml:id="swift-584-0251-line-89" n="89">Can such a Deity endure</l>
+            <l xml:id="swift-584-0251-line-90" n="90">A mortal human Touch impure?</l>
+            <l xml:id="swift-584-0251-line-91" n="91">How did the humbled Swain detest</l>
+            <l xml:id="swift-584-0251-line-92" n="92">His prickled Beard, and hairy Breast!</l>
+            <l xml:id="swift-584-0251-line-93" n="93">His Night-cap border'd round with Lace</l>
+            <l xml:id="swift-584-0251-line-94" n="94">Could give no Softness to his Face.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-95" n="95"><lb/>Y<hi rend="small-caps">ET</hi>, if the Goddess could be kind,</l>
+            <l xml:id="swift-584-0251-line-96" n="96">What endless Raptures must he find!</l>
+            <l xml:id="swift-584-0251-line-97" n="97">And, Goddesses have now and then</l>
+            <l xml:id="swift-584-0251-line-98" n="98">Come down to visit mortal Men:</l>
+            <l xml:id="swift-584-0251-line-99" n="99">To visit, and to court them too:</l>
+            <l xml:id="swift-584-0251-line-100" n="100">A certain Goddess, God knows who,</l>
+            <l xml:id="swift-584-0251-line-101" n="101">(As in a Book he heard it read)</l>
+            <l xml:id="swift-584-0251-line-102" n="102">Took Col'nel <hi rend="italics">Peleus</hi> to her Bed.</l>
+            <l xml:id="swift-584-0251-line-103" n="103">But, what if he should lose his Life</l>
+            <l xml:id="swift-584-0251-line-104" n="104">By vent'ring <hi rend="italics">on</hi> his heav'nly Wife?</l>
+            <l xml:id="swift-584-0251-line-105" n="105">For, <hi rend="italics">Strephon</hi> could remember well,</l>
+            <l xml:id="swift-584-0251-line-106" n="106">That, once he heard a School-boy tell,</l>
+            <l xml:id="swift-584-0251-line-107" n="107">How <hi rend="italics">Semele</hi> of mortal Race,</l>
+            <l xml:id="swift-584-0251-line-108" n="108">By Thunder dy'd in <hi rend="italics">Jove</hi>'s Embrace:</l>
+            <l xml:id="swift-584-0251-line-109" n="109">And, what if daring <hi rend="italics">Strephon</hi> dyes</l>
+            <l xml:id="swift-584-0251-line-110" n="110">By Lightning shot from <hi rend="italics">Chloe</hi>'s Eyes?</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-111" n="111"><lb/>W<hi rend="small-caps">HILE</hi> these Reflections fill'd his Head,</l>
+            <l xml:id="swift-584-0251-line-112" n="112">The Bride was put in Form to Bed:</l>
+            <l xml:id="swift-584-0251-line-113" n="113">He follow'd, strip't, and in he crept,</l>
+            <l xml:id="swift-584-0251-line-114" n="114">But, awfully his Distance kept.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-115" n="115"><lb/>N<hi rend="small-caps">OW</hi>, <hi rend="italics">Ponder well ye Parents dear</hi>;</l>
+            <l xml:id="swift-584-0251-line-116" n="116">Forbid your Daughters guzzling Beer:</l>
+            <l xml:id="swift-584-0251-line-117" n="117">And, make them ev'ry Afternoon</l>
+            <l xml:id="swift-584-0251-line-118" n="118">Forbear their Tea, or drink it soon;</l>
+            <l xml:id="swift-584-0251-line-119" n="119">That, e'er to Bed they venture up,</l>
+            <l xml:id="swift-584-0251-line-120" n="120">They may discharge it ev'ry Sup:</l>
+            <l xml:id="swift-584-0251-line-121" n="121">If not; they must in evil Plight</l>
+            <l xml:id="swift-584-0251-line-122" n="122">Be often forc'd to rise at Night,</l>
+            <l xml:id="swift-584-0251-line-123" n="123">Keep them to wholsome Food confin'd,</l>
+            <l xml:id="swift-584-0251-line-124" n="124">Nor let them taste what causes Wind;</l>
+            <l xml:id="swift-584-0251-line-125" n="125"><note place="foot">·<hi rend="italics">A well known Precept of </hi>Pythagoras<hi rend="italics">, not to eat Beans</hi>.</note>('Tis this the Sage of <hi rend="italics">Samos</hi> means,</l>
+            <l xml:id="swift-584-0251-line-126" n="126">Forbidding his Disciples Beans)</l>
+            <l xml:id="swift-584-0251-line-127" n="127">O, think what Evils must ensue;</l>
+            <l xml:id="swift-584-0251-line-128" n="128">Miss <hi rend="italics">Moll</hi> the Jade will burn it blue:</l>
+            <l xml:id="swift-584-0251-line-129" n="129">And, when she once hath got the Art,</l>
+            <l xml:id="swift-584-0251-line-130" n="130">She cannot help it for her Heart;</l>
+            <l xml:id="swift-584-0251-line-131" n="131">But, out it flies, e'en when she meets</l>
+            <l xml:id="swift-584-0251-line-132" n="132">Her Bridegroom in the Wedding-Sheets.</l>
+            <l xml:id="swift-584-0251-line-133" n="133"><note place="foot">·<hi rend="italics">Medicines to break Wind</hi>.</note><hi rend="italics">Carminative</hi> and <note place="foot">·<hi rend="italics">Medicines to provoke Urine</hi>.</note> <hi rend="italics">Diuretick</hi>,</l>
+            <l xml:id="swift-584-0251-line-134" n="134">Will damp all Passion Sympathetick:</l>
+            <l xml:id="swift-584-0251-line-135" n="135">And, Love such Nicety requires,</l>
+            <l xml:id="swift-584-0251-line-136" n="136">One <hi rend="italics">Blast</hi> will put out all his Fires.</l>
+            <l xml:id="swift-584-0251-line-137" n="137">Since Husbands get behind the Scene,</l>
+            <l xml:id="swift-584-0251-line-138" n="138">The Wife should study to be clean;</l>
+            <l xml:id="swift-584-0251-line-139" n="139">Nor give the smallest Room to guess</l>
+            <l xml:id="swift-584-0251-line-140" n="140">The Time when Wants of Nature press;</l>
+            <l xml:id="swift-584-0251-line-141" n="141">But, after Marriage, practice more</l>
+            <l xml:id="swift-584-0251-line-142" n="142">Decorum than she did before;</l>
+            <l xml:id="swift-584-0251-line-143" n="143">To keep her Spouse deluded still,</l>
+            <l xml:id="swift-584-0251-line-144" n="144">And make him fancy what she will.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-145" n="145"><lb/>I<hi rend="small-caps">N</hi> Bed we left the married Pair:</l>
+            <l xml:id="swift-584-0251-line-146" n="146">'Tis Time to shew how Things went there.</l>
+            <l xml:id="swift-584-0251-line-147" n="147"><hi rend="italics">Strephon</hi>, who had been often told,</l>
+            <l xml:id="swift-584-0251-line-148" n="148">That Fortune still assists the Bold,</l>
+            <l xml:id="swift-584-0251-line-149" n="149">Resolv'd to make his first Attack:</l>
+            <l xml:id="swift-584-0251-line-150" n="150">But, <hi rend="italics">Chloe</hi> drove him fiercely back.</l>
+            <l xml:id="swift-584-0251-line-151" n="151">How could a Nymph so chaste as <hi rend="italics">Chloe</hi>,</l>
+            <l xml:id="swift-584-0251-line-152" n="152">With Constitution cold and snowy,</l>
+            <l xml:id="swift-584-0251-line-153" n="153">Permit a brutish Man to touch her;</l>
+            <l xml:id="swift-584-0251-line-154" n="154">Ev'n Lambs by Instinct fly the Butcher.</l>
+            <l xml:id="swift-584-0251-line-155" n="155">Resistance on the Wedding-night</l>
+            <l xml:id="swift-584-0251-line-156" n="156">Is what our Maidens claim by Right:</l>
+            <l xml:id="swift-584-0251-line-157" n="157">And, <hi rend="italics">Chloe</hi>, 'tis by all agreed,</l>
+            <l xml:id="swift-584-0251-line-158" n="158">Was Maid in Thought, and Word, and Deed.</l>
+            <l xml:id="swift-584-0251-line-159" n="159">Yet, some assign a diff'rent Reason;</l>
+            <l xml:id="swift-584-0251-line-160" n="160">That <hi rend="italics">Strephon</hi> chose no proper Season.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-161" n="161"><lb/>S<hi rend="small-caps">AY</hi>, fair Ones, must I make a Pause?</l>
+            <l xml:id="swift-584-0251-line-162" n="162">Or freely tell the secret Cause.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-163" n="163"><lb/>T<hi rend="small-caps">WELVE</hi> Cups of Tea, (with Grief I speak)</l>
+            <l xml:id="swift-584-0251-line-164" n="164">Had now constrain'd the Nymph to leak.</l>
+            <l xml:id="swift-584-0251-line-165" n="165">This Point must needs be settled first:</l>
+            <l xml:id="swift-584-0251-line-166" n="166">The Bride must either void or burst.</l>
+            <l xml:id="swift-584-0251-line-167" n="167">Then, see the dire Effect of Pease,</l>
+            <l xml:id="swift-584-0251-line-168" n="168">Think what can give the Cholick ease.</l>
+            <l xml:id="swift-584-0251-line-169" n="169">The Nymph opprest before, behind,</l>
+            <l xml:id="swift-584-0251-line-170" n="170">As Ships are toss't by Waves and Wind,</l>
+            <l xml:id="swift-584-0251-line-171" n="171">Steals out her Hand, by Nature led,</l>
+            <l xml:id="swift-584-0251-line-172" n="172">And brings a Vessel into Bed:</l>
+            <l xml:id="swift-584-0251-line-173" n="173">Fair Utensil, as smooth and white</l>
+            <l xml:id="swift-584-0251-line-174" n="174">As <hi rend="italics">Chloe</hi>'s Skin, almost as bright.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-175" n="175"><lb/><hi rend="italics">STREPHON</hi> who heard the fuming Rill</l>
+            <l xml:id="swift-584-0251-line-176" n="176">As from a mossy Cliff distill;</l>
+            <l xml:id="swift-584-0251-line-177" n="177">Cry'd out, ye Gods, what Sound is this?</l>
+            <l xml:id="swift-584-0251-line-178" n="178">Can <hi rend="italics">Chloe</hi>, heav'nly <hi rend="italics">Chloe</hi> ──────?</l>
+            <l xml:id="swift-584-0251-line-179" n="179">But, when he smelt a noysome Steam</l>
+            <l xml:id="swift-584-0251-line-180" n="180">Which oft attends that luke-warm Stream;</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-181" n="181"><note place="foot">·<hi rend="italics">Vide Schol. </hi>Salern. ·Rules of Health, written by the School of<hi rend="italics"> Salernum.<lb/>Mingere cum bumbis res est saluberrima lumbis</hi>.</note>(<hi rend="italics">Salerno</hi> both together joins?</l>
+            <l xml:id="swift-584-0251-line-182" n="182">As sov'reign Med'cines for the Loyns)</l>
+            <l xml:id="swift-584-0251-line-183" n="183">And, though contriv'd, we may suppose</l>
+            <l xml:id="swift-584-0251-line-184" n="184">To slip his Ears, yet struck his Nose:</l>
+            <l xml:id="swift-584-0251-line-185" n="185">He found her, while the Scent increast,</l>
+            <l xml:id="swift-584-0251-line-186" n="186">As <hi rend="italics">mortal</hi> as himself at least.</l>
+            <l xml:id="swift-584-0251-line-187" n="187">But, soon with like Occasions prest,</l>
+            <l xml:id="swift-584-0251-line-188" n="188">He boldly sent his hand in quest,</l>
+            <l xml:id="swift-584-0251-line-189" n="189">(Inspir'd with Courage from his Bride.)</l>
+            <l xml:id="swift-584-0251-line-190" n="190">To reach the Pot on t'other Side.</l>
+            <l xml:id="swift-584-0251-line-191" n="191">And as he fill'd the reeking Vase,</l>
+            <l xml:id="swift-584-0251-line-192" n="192">Let fly a Rouzer in her Face.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-193" n="193"><lb/>T<hi rend="small-caps">HE</hi> little <hi rend="italics">Cupids</hi> hov'ring round,</l>
+            <l xml:id="swift-584-0251-line-194" n="194">(As Pictures prove) with Garlands crown'd,</l>
+            <l xml:id="swift-584-0251-line-195" n="195">Abash't at what they saw and heard,</l>
+            <l xml:id="swift-584-0251-line-196" n="196">Flew off, nor ever more appear'd.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-197" n="197"><lb/>A<hi rend="small-caps">DIEU</hi> to ravishing Delights,</l>
+            <l xml:id="swift-584-0251-line-198" n="198">High Raptures, and romantick Flights;</l>
+            <l xml:id="swift-584-0251-line-199" n="199">To Goddesses so heav'nly sweet,</l>
+            <l xml:id="swift-584-0251-line-200" n="200">Expiring Shepherds at their Feet;</l>
+            <l xml:id="swift-584-0251-line-201" n="201">To silver Meads, and shady Bow'rs,</l>
+            <l xml:id="swift-584-0251-line-202" n="202">Drest up with <hi rend="italics">Amaranthin</hi> Flow'rs.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-203" n="203"><lb/>H<hi rend="small-caps">OW</hi> great a Change! how quickly made!</l>
+            <l xml:id="swift-584-0251-line-204" n="204">They learn to call a Spade, a Spade.</l>
+            <l xml:id="swift-584-0251-line-205" n="205">They soon from all Constraint are freed;</l>
+            <l xml:id="swift-584-0251-line-206" n="206">Can see each other <hi rend="italics">do their Need</hi>.</l>
+            <l xml:id="swift-584-0251-line-207" n="207">On Box of Cedar sits the Wife,</l>
+            <l xml:id="swift-584-0251-line-208" n="208">And makes it warm for <hi rend="italics">Dearest Life</hi>.</l>
+            <l xml:id="swift-584-0251-line-209" n="209">And, by the beastly Way of Thinking,</l>
+            <l xml:id="swift-584-0251-line-210" n="210">Find great Society in Stinking.</l>
+            <l xml:id="swift-584-0251-line-211" n="211">Now, <hi rend="italics">Strephon</hi> daily entertains</l>
+            <l xml:id="swift-584-0251-line-212" n="212">His <hi rend="italics">Chloe</hi> in the homeli'st Strains:</l>
+            <l xml:id="swift-584-0251-line-213" n="213">And, <hi rend="italics">Chloe</hi> more experienc'd grown,</l>
+            <l xml:id="swift-584-0251-line-214" n="214">With Int'rest pays him back his own.</l>
+            <l xml:id="swift-584-0251-line-215" n="215">No Maid at Court is less asham'd,</l>
+            <l xml:id="swift-584-0251-line-216" n="216">Howe'er for selling Bargains fam'd,</l>
+            <l xml:id="swift-584-0251-line-217" n="217">Than she, to name her Parts behind,</l>
+            <l xml:id="swift-584-0251-line-218" n="218">Or, when a-bed, to let out Wind.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-219" n="219"><lb/>F<hi rend="small-caps">AIR</hi> <hi rend="italics">Decency</hi>, celestial Maid,</l>
+            <l xml:id="swift-584-0251-line-220" n="220">Descend from Heav'n to Beauty's Aid;</l>
+            <l xml:id="swift-584-0251-line-221" n="221">Though Beauty may beget Desire,</l>
+            <l xml:id="swift-584-0251-line-222" n="222">'Tis thou must fan the Lover's Fire:</l>
+            <l xml:id="swift-584-0251-line-223" n="223">For, Beauty, like supreme Dominion,</l>
+            <l xml:id="swift-584-0251-line-224" n="224">Is best supported by Opinion:</l>
+            <l xml:id="swift-584-0251-line-225" n="225">If Decency bring no Supplies,</l>
+            <l xml:id="swift-584-0251-line-226" n="226">Opinion falls, and beauty dies.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-227" n="227"><lb/>T<hi rend="small-caps">O</hi> see some radiant Nymph appear</l>
+            <l xml:id="swift-584-0251-line-228" n="228">In all her glitt'ring Birth-day Gear,</l>
+            <l xml:id="swift-584-0251-line-229" n="229">You think some Goddess from the Sky</l>
+            <l xml:id="swift-584-0251-line-230" n="230">Desended, ready cut and dry:</l>
+            <l xml:id="swift-584-0251-line-231" n="231">But e'er you sell your self to Laughter,</l>
+            <l xml:id="swift-584-0251-line-232" n="232">Consider well what may come after;</l>
+            <l xml:id="swift-584-0251-line-233" n="233">For, fine Ideas vanish fast,</l>
+            <l xml:id="swift-584-0251-line-234" n="234">While all the gross and filthy last.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-235" n="235"><lb/>O <hi rend="italics">Strephon</hi>, e'er that fatal Day</l>
+            <l xml:id="swift-584-0251-line-236" n="236">When <hi rend="italics">Chloe</hi> stole your Heart away,</l>
+            <l xml:id="swift-584-0251-line-237" n="237">Had you but through a Cranny spy'd</l>
+            <l xml:id="swift-584-0251-line-238" n="238">On House of Ease your future Bride,</l>
+            <l xml:id="swift-584-0251-line-239" n="239">In all the Postures of her Face,</l>
+            <l xml:id="swift-584-0251-line-240" n="240">Which Nature gives in such a Case;</l>
+            <l xml:id="swift-584-0251-line-241" n="241">Distortions, Groanings, Strainings, Heavings;</l>
+            <l xml:id="swift-584-0251-line-242" n="242">'Twere better you had lick't her Leavings,</l>
+            <l xml:id="swift-584-0251-line-243" n="243">Than from Experience find too late</l>
+            <l xml:id="swift-584-0251-line-244" n="244">Your Goddess grown a filthy Mate</l>
+            <l xml:id="swift-584-0251-line-245" n="245">Your Fancy then had always dwelt</l>
+            <l xml:id="swift-584-0251-line-246" n="246">On what you saw, and what you smelt;</l>
+            <l xml:id="swift-584-0251-line-247" n="247">Would still the some Ideas give ye,</l>
+            <l xml:id="swift-584-0251-line-248" n="248">As when you spy'd her on the Privy.</l>
+            <l xml:id="swift-584-0251-line-249" n="249">And, spight of <hi rend="italics">Chloe</hi>'s Charms divine,</l>
+            <l xml:id="swift-584-0251-line-250" n="250">Your Heart had been as whole as mine.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-251" n="251"><lb/>A<hi rend="small-caps">UTHORITIES</hi> both old and recent</l>
+            <l xml:id="swift-584-0251-line-252" n="252">Direct that Women must be decent;</l>
+            <l xml:id="swift-584-0251-line-253" n="253">And, from the Spouse each Blemish hide</l>
+            <l xml:id="swift-584-0251-line-254" n="254">More than from all the World beside.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-255" n="255"><lb/>U<hi rend="small-caps">NJUSTLY</hi> all our Nymphs camplain,</l>
+            <l xml:id="swift-584-0251-line-256" n="256">Their Empire holds so short a Reign;</l>
+            <l xml:id="swift-584-0251-line-257" n="257">Is after Marriage lost so soon,</l>
+            <l xml:id="swift-584-0251-line-258" n="258">It hardly holds the Honey-moon:</l>
+            <l xml:id="swift-584-0251-line-259" n="259">For, if they keep not what they caught,</l>
+            <l xml:id="swift-584-0251-line-260" n="260">It is entirely their own Fault.</l>
+            <l xml:id="swift-584-0251-line-261" n="261">They take Possession of the Crown,</l>
+            <l xml:id="swift-584-0251-line-262" n="262">And then throw all their Weapons down:</l>
+            <l xml:id="swift-584-0251-line-263" n="263">Though by the Politicians Scheme</l>
+            <l xml:id="swift-584-0251-line-264" n="264">Whoe'er arrives at Pow'r supream,</l>
+            <l xml:id="swift-584-0251-line-265" n="265">Those Arts by which at first they gain it,</l>
+            <l xml:id="swift-584-0251-line-266" n="266">They still must practice to maintain it.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-267" n="267"><lb/>W<hi rend="small-caps">HAT</hi> various ways our Females take,</l>
+            <l xml:id="swift-584-0251-line-268" n="268">To pass for Wits before a Rake!</l>
+            <l xml:id="swift-584-0251-line-269" n="269">And, in the fruitless Search, pursue</l>
+            <l xml:id="swift-584-0251-line-270" n="270">All other Methods but the true.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-271" n="271"><lb/>S<hi rend="small-caps">OME</hi> try to learn polite Behaviour,</l>
+            <l xml:id="swift-584-0251-line-272" n="272">By reading Books against their Saviour.</l>
+            <l xml:id="swift-584-0251-line-273" n="273">Some call it witty, to reflect</l>
+            <l xml:id="swift-584-0251-line-274" n="274">On ev'ry natural Defect;</l>
+            <l xml:id="swift-584-0251-line-275" n="275">Some shew, they never want explaining,</l>
+            <l xml:id="swift-584-0251-line-276" n="276">To comprehend a double Meaning.</l>
+            <l xml:id="swift-584-0251-line-277" n="277">But, sure a Tell-tale out of School</l>
+            <l xml:id="swift-584-0251-line-278" n="278">Is, of all Wits, the greatest Fool:</l>
+            <l xml:id="swift-584-0251-line-279" n="279">Whose rank Imagination fills</l>
+            <l xml:id="swift-584-0251-line-280" n="280">Her Heart, and from her Lips distills;</l>
+            <l xml:id="swift-584-0251-line-281" n="281">You'd think she utter'd from behind,</l>
+            <l xml:id="swift-584-0251-line-282" n="282">Or at her Mouth were breaking Wind.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-283" n="283"><lb/>W<hi rend="small-caps">HY</hi> is a handsome Wife ador'd</l>
+            <l xml:id="swift-584-0251-line-284" n="284">By every Coxcomb, but her Lord?</l>
+            <l xml:id="swift-584-0251-line-285" n="285">From yonder Puppet-man inquire,</l>
+            <l xml:id="swift-584-0251-line-286" n="286">Who wisely hides his Wood and Wire:</l>
+            <l xml:id="swift-584-0251-line-287" n="287">Shews <hi rend="italics">Sheba</hi>'s Queen compleatly dress't,</l>
+            <l xml:id="swift-584-0251-line-288" n="288">And <hi rend="italics">Solomon</hi> in Royal Vest:</l>
+            <l xml:id="swift-584-0251-line-289" n="289">But, view them litter'd on the Floor,</l>
+            <l xml:id="swift-584-0251-line-290" n="290">Or, strung on Pegs behind the Door;</l>
+            <l xml:id="swift-584-0251-line-291" n="291"><hi rend="italics">Punch</hi> is exactly of a Piece</l>
+            <l xml:id="swift-584-0251-line-292" n="292">With <hi rend="italics">Lorraine</hi>'s Duke, and Prince of <hi rend="italics">Greece</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-293" n="293"><lb/>A <hi rend="small-caps">PRUDENT</hi> Builder should forecast</l>
+            <l xml:id="swift-584-0251-line-294" n="294">How long the Stuff is like to last;</l>
+            <l xml:id="swift-584-0251-line-295" n="295">And, carefully observe the Ground,</l>
+            <l xml:id="swift-584-0251-line-296" n="296">To build on some Foundation sound:</l>
+            <l xml:id="swift-584-0251-line-297" n="297">What House, when its Materials crumble,</l>
+            <l xml:id="swift-584-0251-line-298" n="298">Must not inevitably tumble?</l>
+            <l xml:id="swift-584-0251-line-299" n="299">What Edifice can long endure,</l>
+            <l xml:id="swift-584-0251-line-300" n="300">Rais'd on a Basis unsecure?</l>
+            <l xml:id="swift-584-0251-line-301" n="301">Rash Mortals, e'er you take a Wife,</l>
+            <l xml:id="swift-584-0251-line-302" n="302">Contrive your Pile to last for Life:</l>
+            <l xml:id="swift-584-0251-line-303" n="303">Since Beauty scarce endures a Day,</l>
+            <l xml:id="swift-584-0251-line-304" n="304">And Youth so swiftly glides away;</l>
+            <l xml:id="swift-584-0251-line-305" n="305">Why will you make your self a Bubble</l>
+            <l xml:id="swift-584-0251-line-306" n="306">To build on Sand, with Hay and Stubble?</l>
+            <l rend="indent(1)" xml:id="swift-584-0251-line-307" n="307"><lb/>O<hi rend="small-caps">N</hi> Sense and Wit your Passion found,</l>
+            <l xml:id="swift-584-0251-line-308" n="308">By Decency cemented round;</l>
+            <l xml:id="swift-584-0251-line-309" n="309">Let Prudence with good Nature strive,</l>
+            <l xml:id="swift-584-0251-line-310" n="310">To keep Esteem and Love alive.</l>
+            <l xml:id="swift-584-0251-line-311" n="311">Then, come old Age whene'er it will,</l>
+            <l xml:id="swift-584-0251-line-312" n="312">Your Friendship shall continue still:</l>
+            <l xml:id="swift-584-0251-line-313" n="313">And, thus a mutual gentle Fire,</l>
+            <l xml:id="swift-584-0251-line-314" n="314">Shall never but with Life expire.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

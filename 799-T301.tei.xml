@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THERSITES:<lb/>  OR,<lb/>  The LORDLING.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 28JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="799-T301">
+          <head type="note" n="1" xml:id="spp-799-T301-headnote-1">
+            <lg n="1" xml:id="spp-799-T301-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-799-T301-headnote-1-line-group-1-line-1">The Grandson of a Bricklayer; Great Grandson of a Butcher.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-799-T301-headnote-2">
+            <lg n="1" xml:id="spp-799-T301-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-799-T301-headnote-2-line-group-1-line-1"><hi rend="display-initial">A</hi>N unnatural Conjunction of Vices and Follies, inconsistent with each other, in the same Breast: Furious and fawning, scurrilous and flattering, cowardly and provoking, insolent and abject; most profligately False, with the strongest Professions of Sincerity; positive and variable, tyrannical and slavish.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-799-T301-headnote-3">
+            <lg n="1" xml:id="spp-799-T301-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-799-T301-headnote-3-line-group-1-line-1"><hi rend="italics">The same Versify'd</hi>.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-799-T301-line-1" n="1">
+              <hi rend="display-initial">T<hi rend="italics">HERSITES</hi> of amphibious Breed,</hi>
+            </l>
+            <l xml:id="swift-799-T301-line-2" n="2">Motly Fruit of Mongrel Seed:</l>
+            <l xml:id="swift-799-T301-line-3" n="3">By the Dam from Lordlings sprung,</l>
+            <l xml:id="swift-799-T301-line-4" n="4">By the Sire exhal'd from Dung:</l>
+            <l xml:id="swift-799-T301-line-5" n="5">Think on ev'ry Vice in Both,</l>
+            <l xml:id="swift-799-T301-line-6" n="6">Look on him, and see their Growth.</l>
+            <l rend="indent(1)" xml:id="swift-799-T301-line-7" n="7"><lb/>View him on the Mother's Side,</l>
+            <l xml:id="swift-799-T301-line-8" n="8">Fill'd with Falshood, Spleen and Pride;</l>
+            <l xml:id="swift-799-T301-line-9" n="9">Positive and over-bearing,</l>
+            <l xml:id="swift-799-T301-line-10" n="10">Changing still, and still adhering.</l>
+            <l xml:id="swift-799-T301-line-11" n="11">Spiteful, peevish, rude, untoward;</l>
+            <l xml:id="swift-799-T301-line-12" n="12">Fierce in Tongue, in Heart a Coward.</l>
+            <l xml:id="swift-799-T301-line-13" n="13">When his Friends he most is hard on,</l>
+            <l xml:id="swift-799-T301-line-14" n="14">Cringing comes to beg their Pardon;</l>
+            <l xml:id="swift-799-T301-line-15" n="15">Reputation ever tearing,</l>
+            <l xml:id="swift-799-T301-line-16" n="16">Ever dearest Friendship swearing.</l>
+            <l xml:id="swift-799-T301-line-17" n="17">Judgment weak, and passion strong;</l>
+            <l xml:id="swift-799-T301-line-18" n="18">Always various, always wrong:</l>
+            <l xml:id="swift-799-T301-line-19" n="19">Provocation never waits,</l>
+            <l xml:id="swift-799-T301-line-20" n="20">Where he loves, or where he hates.</l>
+            <l xml:id="swift-799-T301-line-21" n="21">Talks whate'er comes in his Head,</l>
+            <l xml:id="swift-799-T301-line-22" n="22">Wishes it were all unsaid.</l>
+            <l rend="indent(1)" xml:id="swift-799-T301-line-23" n="23"><lb/>Let me now the Vices trace,</l>
+            <l xml:id="swift-799-T301-line-24" n="24">From his Father's scoundrel Race,</l>
+            <l xml:id="swift-799-T301-line-25" n="25">Who cou'd give the Looby such Airs:</l>
+            <l xml:id="swift-799-T301-line-26" n="26">Were they Masons? Were they Butchers?</l>
+            <l xml:id="swift-799-T301-line-27" n="27">Herald lend the Muse an Answer,</l>
+            <l xml:id="swift-799-T301-line-28" n="28">From his Atavus and Grandsire;</l>
+            <l xml:id="swift-799-T301-line-29" n="29">This was dext'rous at his Trowel,</l>
+            <l xml:id="swift-799-T301-line-30" n="30">That was bred to kill a Cow well:</l>
+            <l xml:id="swift-799-T301-line-31" n="31">Hence the greazy clumsy Mien,</l>
+            <l xml:id="swift-799-T301-line-32" n="32">In his Dress and Figure seen:</l>
+            <l xml:id="swift-799-T301-line-33" n="33">Hence that mean and sordid Soul,</l>
+            <l xml:id="swift-799-T301-line-34" n="34">Like his Body, rank and foul:</l>
+            <l xml:id="swift-799-T301-line-35" n="35">Hence that wild suspicious Peep,</l>
+            <l xml:id="swift-799-T301-line-36" n="36">Like a Rogue that steals a Sheep:</l>
+            <l xml:id="swift-799-T301-line-37" n="37">Hence he learn'd the Butcher's Guile,</l>
+            <l xml:id="swift-799-T301-line-38" n="38">How to cut a Throat and smile:</l>
+            <l xml:id="swift-799-T301-line-39" n="39">Like a Butcher doom'd for Life,</l>
+            <l xml:id="swift-799-T301-line-40" n="40">In his Mouth to wear his Knife.</l>
+            <l xml:id="swift-799-T301-line-41" n="41">Hence he draws his daily Food,</l>
+            <l xml:id="swift-799-T301-line-42" n="42">From his Tenant's vital Blood.</l>
+            <l rend="indent(1)" xml:id="swift-799-T301-line-43" n="43"><lb/>Lastly, let his Gifts be try'd,</l>
+            <l xml:id="swift-799-T301-line-44" n="44">Borrow'd from the Mason-Side.</l>
+            <l xml:id="swift-799-T301-line-45" n="45">Some, perhaps, may think him able</l>
+            <l xml:id="swift-799-T301-line-46" n="46">In the State to build a <hi rend="italics">Babel</hi>;</l>
+            <l xml:id="swift-799-T301-line-47" n="47">Cou'd we place him in a Station</l>
+            <l xml:id="swift-799-T301-line-48" n="48">To destroy the Old Foundation.</l>
+            <l xml:id="swift-799-T301-line-49" n="49">True indeed I shou'd be gladder</l>
+            <l xml:id="swift-799-T301-line-50" n="50">Cou'd he learn to mount a Ladder.</l>
+            <l xml:id="swift-799-T301-line-51" n="51">May he at his latter End</l>
+            <l xml:id="swift-799-T301-line-52" n="52">Mount alive, and dead descend.</l>
+            <l xml:id="swift-799-T301-line-53" n="53">In him, tell me, which prevail,</l>
+            <l xml:id="swift-799-T301-line-54" n="54">Female Vices most, or Male?</l>
+            <l xml:id="swift-799-T301-line-55" n="55">What produc'd them, can you tell?</l>
+            <l xml:id="swift-799-T301-line-56" n="56">Human Race, or Imp of Hell?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

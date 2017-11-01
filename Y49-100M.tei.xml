@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Epitaph, on D<hi rend="superscript">r</hi> 08. Gilbert Burnet,<lb/>  Bishop of Sarum.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 5SE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y49-100M">
+          <head type="note" n="1" xml:id="spp-Y49-100M-headnote-1">
+            <lg n="1" xml:id="spp-Y49-100M-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-100M-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y49-100M-headnote-2">
+            <lg n="1" xml:id="spp-Y49-100M-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-100M-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y49-100M-headnote-3">
+            <lg n="1" xml:id="spp-Y49-100M-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y49-100M-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y49-100M-line-1" n="1">Here Sarum lyes, of Late as Wise,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-2" n="2">And Learn'd, as Tom Aquinus,</l>
+            <l xml:id="swift-Y49-100M-line-3" n="3">Lawn Sleeves he wore, yett was no More</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-4" n="4">A Christian than Socinus.</l>
+            <l rend="center" xml:id="swift-Y49-100M-line-5" n="5">2<lb/>Oaths Pro and Con, he Swallow'd Down,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-6" n="6">Lovd Gold, Like Any Lay Man</l>
+            <l xml:id="swift-Y49-100M-line-7" n="7">Wrote, Preach'd, &amp; Pray'd, but Yett Betray'd</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-8" n="8">God's Holy Church, for Mammon.</l>
+            <l rend="center" xml:id="swift-Y49-100M-line-9" n="9">3<hi rend="superscript">ḍ</hi><lb/>Of every Vice, he had a Spice,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-10" n="10">Tho a Renowned Prelate,</l>
+            <l xml:id="swift-Y49-100M-line-11" n="11">Yett Liv'd and Dy'd, if not Bely'd</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-12" n="12">A true Dissenting Zealot.</l>
+            <l rend="center" xml:id="swift-Y49-100M-line-13" n="13">4<hi rend="superscript">th.</hi><lb/>If such a Soul, to Heaven is Stole,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-14" n="14">And Scap'd Old Satan's Clutches</l>
+            <l xml:id="swift-Y49-100M-line-15" n="15">We'l then Presume, there may be Room,</l>
+            <l rend="indent(1)" xml:id="swift-Y49-100M-line-16" n="16">For Marlborough, and his Dutchess.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

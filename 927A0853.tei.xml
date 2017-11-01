@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A RIDDLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 19JL00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="927A0853">
+          <head type="note" n="1" xml:id="spp-927A0853-headnote-1">
+            <lg n="1" xml:id="spp-927A0853-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A0853-headnote-1-line-group-1-line-1"><hi rend="italics">Some ingenious Gentlemen, Friends to the Author, used to entertain themselves with writing Riddles, and send them to him and their other Acquaintance; Copies of which ran about, and some of them were printed both here and in </hi>England<hi rend="italics">. The Author, at his leisure Hours, fell into the same Amusement; although it be said, that he thought them of no great Merit, Entertainment, or Use. However, by the Advice of some Persons, for whom the Author had a great Esteem, and who were pleased to send us the Copies, we have ventured to print the following, which are allowed to be genuine: because, we are informed, that several good Judges have a Taste for such Kind of Compositions</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-927A0853-headnote-2">
+            <lg n="1" xml:id="spp-927A0853-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A0853-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-927A0853-headnote-3">
+            <lg n="1" xml:id="spp-927A0853-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A0853-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-927A0853-line-1" n="1"><hi rend="display-initial">I</hi> WITH borrow'd Silver shine,</l>
+            <l xml:id="swift-927A0853-line-2" n="2">What you see is none of mine:</l>
+            <l xml:id="swift-927A0853-line-3" n="3">First I shew you but a Quarter,</l>
+            <l xml:id="swift-927A0853-line-4" n="4">Like the Bow that guards the <hi rend="italics">Tartar</hi>;</l>
+            <l xml:id="swift-927A0853-line-5" n="5">Then the Half, and then the Whole,</l>
+            <l xml:id="swift-927A0853-line-6" n="6">Ever dancing round a Pole.</l>
+            <l xml:id="swift-927A0853-line-7" n="7">And what will raise your Admiration,</l>
+            <l xml:id="swift-927A0853-line-8" n="8">I am not one of G<hi rend="small-caps">OD</hi>'s Creation,</l>
+            <l xml:id="swift-927A0853-line-9" n="9">But sprung (and I this Truth maintain)</l>
+            <l xml:id="swift-927A0853-line-10" n="10">Like <hi rend="italics">Pallas</hi> from my Father's Brain.</l>
+            <l xml:id="swift-927A0853-line-11" n="11">And, after all, I chiefly owe</l>
+            <l xml:id="swift-927A0853-line-12" n="12">My Beauty to the Shades below.</l>
+            <l xml:id="swift-927A0853-line-13" n="13">Most wond'rous Forms you see me wear,</l>
+            <l xml:id="swift-927A0853-line-14" n="14">A Man, a Woman, Lion, Bear,</l>
+            <l xml:id="swift-927A0853-line-15" n="15">A Fish, a Fowl, a Cloud, a Field,</l>
+            <l xml:id="swift-927A0853-line-16" n="16">All Figures Heav'n or Earth can yield,</l>
+            <l xml:id="swift-927A0853-line-17" n="17">Like <hi rend="italics">Daphne</hi> sometimes in a Tree;</l>
+            <l xml:id="swift-927A0853-line-18" n="18">Yet am not one of all you see.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

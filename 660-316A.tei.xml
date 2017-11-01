@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Song</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 4AP03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="660-316A">
+          <head type="note" n="1" xml:id="spp-660-316A-headnote-1">
+            <lg n="1" xml:id="spp-660-316A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-660-316A-headnote-1-line-group-1-line-1">Whilst I gaze on chloe Trembling&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-660-316A-headnote-2">
+            <lg n="1" xml:id="spp-660-316A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-660-316A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-660-316A-headnote-3">
+            <lg n="1" xml:id="spp-660-316A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-660-316A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-660-316A-line-1" n="1">Flutring spread thy Purple Pinions</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-2" n="2">Gentle Cupid o're my heart</l>
+            <l xml:id="swift-660-316A-line-3" n="3">I a slave in thy Dominions</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-4" n="4">Nature must give way to art</l>
+            <l rend="center" xml:id="swift-660-316A-line-5" n="5">2<lb/>Mild Arcadian ever blooming</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-6" n="6">Nightly Nodding o're their flocks</l>
+            <l xml:id="swift-660-316A-line-7" n="7">See my weary days Consuming</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-8" n="8">All beneath yon flow'ry rocks</l>
+            <l rend="center" xml:id="swift-660-316A-line-9" n="9">3<lb/>Thus the Cyprian Goddess, weeping</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-10" n="10">Mournd adonis darling youth</l>
+            <l xml:id="swift-660-316A-line-11" n="11">Him the Boar in silence creeping</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-12" n="12">Gor'd with unrelenting Tooth</l>
+            <l rend="center" xml:id="swift-660-316A-line-13" n="13">4<lb/>Cynthia Tune harmonious numbers</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-14" n="14">Fair discretion string the Lyre</l>
+            <l xml:id="swift-660-316A-line-15" n="15">sooth my Ever waking slumbers</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-16" n="16">Bright Appolo lend thy choir</l>
+            <l rend="center" xml:id="swift-660-316A-line-17" n="17">5<lb/>Gloomy Pluto king of Terrors</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-18" n="18">Armd in adamantine chains</l>
+            <l xml:id="swift-660-316A-line-19" n="19">Lead me to the chrystial mirrors</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-20" n="20">Wat'ring soft Elysium plains</l>
+            <l rend="center" xml:id="swift-660-316A-line-21" n="21">6<lb/>Mournfull Cyprus verdant willow</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-22" n="22">Gilding my Aurelia's Brow</l>
+            <l xml:id="swift-660-316A-line-23" n="23">Morphus hov'ring o're my Pillow</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-24" n="24">Hear me make my Dying vow</l>
+            <l rend="center" xml:id="swift-660-316A-line-25" n="25">7<lb/>Melancholy smooth Meander</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-26" n="26">swiftly purling in a round</l>
+            <l xml:id="swift-660-316A-line-27" n="27">on thy Margin Lovers wander</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-28" n="28">with thy flory chapletts crownd</l>
+            <l rend="center" xml:id="swift-660-316A-line-29" n="29">8<lb/>Thus when Philomela drooping</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-30" n="30">softly seeks some silent mate</l>
+            <l xml:id="swift-660-316A-line-31" n="31">see the Bird of Juno stooping</l>
+            <l rend="indent(1)" xml:id="swift-660-316A-line-32" n="32">Melody resigns to fate</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

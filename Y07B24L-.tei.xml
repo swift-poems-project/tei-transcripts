@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  DESCRIPTION<lb/>  OF<lb/>  Doctor <hi rend="italics">Delany's Villa</hi></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 1DE96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y07B24L-">
+          <head type="note" n="1" xml:id="spp-Y07B24L--headnote-1">
+            <lg n="1" xml:id="spp-Y07B24L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y07B24L--headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y07B24L--headnote-2">
+            <lg n="1" xml:id="spp-Y07B24L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y07B24L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y07B24L--headnote-3">
+            <lg n="1" xml:id="spp-Y07B24L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y07B24L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y07B24L--line-1" n="1"><hi rend="display-initial">W</hi>Ou'd you that <hi rend="italics">Delville</hi> I describe?</l>
+            <l xml:id="swift-Y07B24L--line-2" n="2">Believe me, Sir, I will not gibe;</l>
+            <l xml:id="swift-Y07B24L--line-3" n="3">For who would be Satirical</l>
+            <l xml:id="swift-Y07B24L--line-4" n="4">Upon a Thing so very small?</l>
+            <l rend="indent(1)" xml:id="swift-Y07B24L--line-5" n="5"><lb/>You scarce upon the Borders enter,</l>
+            <l xml:id="swift-Y07B24L--line-6" n="6">Before you're at the very Centre.</l>
+            <l xml:id="swift-Y07B24L--line-7" n="7">A single Crow can make it Night,</l>
+            <l xml:id="swift-Y07B24L--line-8" n="8">When o'er your Farm he takes his Flight;</l>
+            <l xml:id="swift-Y07B24L--line-9" n="9">Yet in this narrow Compass, we</l>
+            <l xml:id="swift-Y07B24L--line-10" n="10">Observe a vast Variety;</l>
+            <l xml:id="swift-Y07B24L--line-11" n="11">Both Walks, Walls, Meadows and Parterres,</l>
+            <l xml:id="swift-Y07B24L--line-12" n="12">Windows, and Doors, and Rooms, and Stairs,</l>
+            <l xml:id="swift-Y07B24L--line-13" n="13">And Hills, and Dales, and Woods, and Fields,</l>
+            <l xml:id="swift-Y07B24L--line-14" n="14">And Hay, and Grass, and Corn it yields;</l>
+            <l xml:id="swift-Y07B24L--line-15" n="15">All to your Haggard brought so cheap in,</l>
+            <l xml:id="swift-Y07B24L--line-16" n="16">Without the Mowing or the Reaping.</l>
+            <l xml:id="swift-Y07B24L--line-17" n="17">A Razour, tho' to say't I'm loath,</l>
+            <l xml:id="swift-Y07B24L--line-18" n="18">Wou'd shave you and your Meadows both.</l>
+            <l rend="indent(1)" xml:id="swift-Y07B24L--line-19" n="19"><lb/>Tho' small's the Farm, yet here's a House</l>
+            <l xml:id="swift-Y07B24L--line-20" n="20">Full large to entertain a Mouse,</l>
+            <l xml:id="swift-Y07B24L--line-21" n="21">But where a Rat is dreaded more</l>
+            <l xml:id="swift-Y07B24L--line-22" n="22">Than savage <hi rend="italics">Caledonian</hi> Boar;</l>
+            <l xml:id="swift-Y07B24L--line-23" n="23">For, if 'tis enter'd by a Rat,</l>
+            <l xml:id="swift-Y07B24L--line-24" n="24">There is no Room to bring a Cat.</l>
+            <l rend="indent(1)" xml:id="swift-Y07B24L--line-25" n="25"><lb/>A little Riv'let seems to steal</l>
+            <l xml:id="swift-Y07B24L--line-26" n="26">Down thro' a Thing you call a Vale,</l>
+            <l xml:id="swift-Y07B24L--line-27" n="27">Like Tears along a wrinkled Cheek,</l>
+            <l xml:id="swift-Y07B24L--line-28" n="28">Like Rain along a Blade of Leek;</l>
+            <l xml:id="swift-Y07B24L--line-29" n="29">And this you call your sweet <hi rend="italics">Meander</hi>,</l>
+            <l xml:id="swift-Y07B24L--line-30" n="30">Which might be suck'd up by a Gander,</l>
+            <l xml:id="swift-Y07B24L--line-31" n="31">Could he but force his nestling Bill</l>
+            <l xml:id="swift-Y07B24L--line-32" n="32">To scoop the Channel of the Rill.</l>
+            <l xml:id="swift-Y07B24L--line-33" n="33">I'm sure you'd make a mighty Clutter,</l>
+            <l xml:id="swift-Y07B24L--line-34" n="34">Were it as big as City-Gutter.</l>
+            <l rend="indent(1)" xml:id="swift-Y07B24L--line-35" n="35"><lb/>Next come I to your Kitchen-Garden,</l>
+            <l xml:id="swift-Y07B24L--line-36" n="36">Where one poor Mouse wou'd fare but hard in;</l>
+            <l xml:id="swift-Y07B24L--line-37" n="37">And round this Garden is a Walk,</l>
+            <l xml:id="swift-Y07B24L--line-38" n="38">No longer than a Taylor's Chalk:</l>
+            <l xml:id="swift-Y07B24L--line-39" n="39">Thus I compute what Space is in it,</l>
+            <l xml:id="swift-Y07B24L--line-40" n="40">A Snail creeps round it in a Minute.</l>
+            <l xml:id="swift-Y07B24L--line-41" n="41">One Lettice makes a shift to squeeze</l>
+            <l xml:id="swift-Y07B24L--line-42" n="42">Up thro' a Tuft you call your Trees;</l>
+            <l xml:id="swift-Y07B24L--line-43" n="43">And once a Year a single Rose</l>
+            <l xml:id="swift-Y07B24L--line-44" n="44">Peeps from the Bud, but never blows;</l>
+            <l xml:id="swift-Y07B24L--line-45" n="45">In vain then you expect its Bloom!</l>
+            <l xml:id="swift-Y07B24L--line-46" n="46">It cannot blow for want of Room.</l>
+            <l rend="indent(1)" xml:id="swift-Y07B24L--line-47" n="47"><lb/>In short, in all your boasted Seat,</l>
+            <l xml:id="swift-Y07B24L--line-48" n="48">There's nothing but your self that's Great.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

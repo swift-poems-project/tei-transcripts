@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">ATLAS</hi>: or, the Mi-<lb/>  nister of State.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 17JA93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="160-32D-">
+          <head type="note" n="1" xml:id="spp-160-32D--headnote-1">
+            <lg n="1" xml:id="spp-160-32D--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-32D--headnote-1-line-group-1-line-1">TO THE <lb/> Lord Treasurer <hi rend="italics">OXFORD</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-160-32D--headnote-2">
+            <lg n="1" xml:id="spp-160-32D--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-32D--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-160-32D--headnote-3">
+            <lg n="1" xml:id="spp-160-32D--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-160-32D--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-160-32D--line-1" n="1">
+              <hi rend="display-initial-italic">A<hi rend="italics">TLAS</hi>, we read in antient Song,</hi>
+            </l>
+            <l xml:id="swift-160-32D--line-2" n="2">Was so exceeding tall and strong,</l>
+            <l xml:id="swift-160-32D--line-3" n="3">He bore the Skies upon his Back,</l>
+            <l xml:id="swift-160-32D--line-4" n="4">Just as a Pedlar does his Pack:</l>
+            <l xml:id="swift-160-32D--line-5" n="5">But, as a Pedlar overprest,</l>
+            <l xml:id="swift-160-32D--line-6" n="6">Unloads upon a Stall to rest;</l>
+            <l xml:id="swift-160-32D--line-7" n="7">Or, when he can no longer stand,</l>
+            <l xml:id="swift-160-32D--line-8" n="8">Desires a Friend to lend a Hand;</l>
+            <l xml:id="swift-160-32D--line-9" n="9">So <hi rend="italics">Atlas</hi>, lest the pond'rous Spheres</l>
+            <l xml:id="swift-160-32D--line-10" n="10">Should sink, and fall about his Ears,</l>
+            <l xml:id="swift-160-32D--line-11" n="11">Got <hi rend="italics">Hercules</hi> to bear the Pile,</l>
+            <l xml:id="swift-160-32D--line-12" n="12">That he might sit and rest a while.</l>
+            <l rend="indent(1)" xml:id="swift-160-32D--line-13" n="13">Yet <hi rend="italics">Hercules</hi> was not so strong,</l>
+            <l xml:id="swift-160-32D--line-14" n="14">Nor could have born it half so long.</l>
+            <l rend="indent(1)" xml:id="swift-160-32D--line-15" n="15">Great Statesmen are in this Condition,</l>
+            <l xml:id="swift-160-32D--line-16" n="16">And <hi rend="italics">Atlas</hi> is a Politician,</l>
+            <l xml:id="swift-160-32D--line-17" n="17">A <hi rend="italics">premier</hi> Minister of State;</l>
+            <l xml:id="swift-160-32D--line-18" n="18"><hi rend="italics">Alcides</hi> one of second Rate.</l>
+            <l xml:id="swift-160-32D--line-19" n="19">Suppose then <hi rend="italics">Atlas</hi> ne'er so wise,</l>
+            <l xml:id="swift-160-32D--line-20" n="20">Yet when the Weight of Kingdoms lies</l>
+            <l xml:id="swift-160-32D--line-21" n="21">Too long, upon his single Shoulders,</l>
+            <l xml:id="swift-160-32D--line-22" n="22">Sink down he must, or find <hi rend="italics">Upholders</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

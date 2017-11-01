@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`Cur me bespatteras, blaterans furiose poeta'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 30AP93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> deltas revised 28JE97; √'d JW 26OC08 agt WILH; ed. JW 5SE09, 10OC14; EMENDED JW 20AP17, 18JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="996-CWJS">
+          <head type="note" n="1" xml:id="spp-996-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-996-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-996-CWJS-headnote-1-line-group-1-line-1">
+                <note rend="align(center)">T.S.D.I.S.P.D.<note rend="flush left"></note></note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-996-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-996-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-996-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-996-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-996-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-996-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-996-CWJS-line-1" n="1">
+              <hi rend="display-initial">C<hi rend="small-caps">UR</hi> me bespateras, blaterans furiosè Poeta</hi>
+            </l>
+            <l xml:id="swift-996-CWJS-line-2" n="2">Cum foulo Moutho, putridæ cum flaminæ Breathæ</l>
+            <l xml:id="swift-996-CWJS-line-3" n="3">Me tootho, et Nailo strivans lacerare Maligno,</l>
+            <l xml:id="swift-996-CWJS-line-4" n="4">Quid faceret grinans aliter spitfiria felis,</l>
+            <l xml:id="swift-996-CWJS-line-5" n="5">Si quis twistaret caudam, si pulleret aures,</l>
+            <l xml:id="swift-996-CWJS-line-6" n="6">Dic mihi quid feci, nisi non licenter aravi</l>
+            <l xml:id="swift-996-CWJS-line-7" n="7">Phizzum, cum dentis suavique honicombio looko,</l>
+            <l xml:id="swift-996-CWJS-line-8" n="8">Et longum nasum wishanti ut longior esset</l>
+            <l xml:id="swift-996-CWJS-line-9" n="9">Protraxi, et bendans makavi touchere Chinnum,</l>
+            <l xml:id="swift-996-CWJS-line-10" n="10">Invidet ut lengtho, strechi Tallboius Heros.</l>
+            <l xml:id="swift-996-CWJS-line-11" n="11">Si quis tres Inchos Nosi cutâsset adunci,</l>
+            <l xml:id="swift-996-CWJS-line-12" n="12">Et sic geldâsset Phizzum, non plus tibi furor,</l>
+            <l xml:id="swift-996-CWJS-line-13" n="13">Scintillans oculos firaret, nec tua Quilla</l>
+            <l xml:id="swift-996-CWJS-line-14" n="14">Goosa in perniciem slashantis promptior esset.</l>
+            <l xml:id="swift-996-CWJS-line-15" n="15"><hi rend="italics">Virgilius</hi> writat── <hi rend="italics">Ne sævi magne sacerdos</hi>.</l>
+            <l xml:id="swift-996-CWJS-line-16" n="16">Advisum goodum <hi rend="italics">Daniel</hi>, si takere posses.</l>
+            <l xml:id="swift-996-CWJS-line-17" n="17">Oh! <hi rend="italics">Jackson, Jackson</hi>, quæ te dementia seizat</l>
+            <l xml:id="swift-996-CWJS-line-18" n="18">Castos minarum springes turbare sororum,</l>
+            <l xml:id="swift-996-CWJS-line-19" n="19">Divando ad Muddum, Lampoonos pangere fœdos.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

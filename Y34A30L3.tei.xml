@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  F<hi rend="small-caps">RIENDLY </hi>A<hi rend="small-caps">POLOGY</hi><lb/>  FOR A<lb/>  Certain J<hi rend="small-caps">USTICE</hi> of Peace,<lb/>  By Way of DEFENCE of<lb/>  <hi rend="italics">H--rtl--y Hutch-----n</hi>, Esq;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee 4NO95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y34A30L3">
+          <head type="note" n="1" xml:id="spp-Y34A30L3-headnote-1">
+            <lg n="1" xml:id="spp-Y34A30L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y34A30L3-headnote-1-line-group-1-line-1"><hi rend="italics">But he by bawling News about, <lb/> And aptly using Brush and Clout, <lb/> A Justice of the Peace became, <lb/> To punish Rogues who do the same</hi>. <lb/> <note rend="flush right">H<hi rend="small-caps">UDIBRAS</hi>.</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y34A30L3-headnote-2">
+            <lg n="1" xml:id="spp-Y34A30L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y34A30L3-headnote-2-line-group-1-line-1">By J<hi rend="small-caps">AMES</hi> B<hi rend="small-caps">LACK-WELL</hi>, Operator for the Feet.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y34A30L3-headnote-3">
+            <lg n="1" xml:id="spp-Y34A30L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y34A30L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y34A30L3-line-1" n="1"><hi rend="display-initial">I</hi> Sing the Man of Courage try'd,</l>
+            <l xml:id="swift-Y34A30L3-line-2" n="2">O'er-run with Ignorance and Pride,</l>
+            <l xml:id="swift-Y34A30L3-line-3" n="3">Who boldly hunted out Disgrace</l>
+            <l xml:id="swift-Y34A30L3-line-4" n="4">With canker'd Mind, and hideous Face;</l>
+            <l xml:id="swift-Y34A30L3-line-5" n="5">The first who made, (let none deny it)</l>
+            <l xml:id="swift-Y34A30L3-line-6" n="6">The Libel-vending Rogues be quiet.</l>
+            <l rend="indent(1)" xml:id="swift-Y34A30L3-line-7" n="7">The Fact was Glorious, we must own,</l>
+            <l xml:id="swift-Y34A30L3-line-8" n="8">For <note place="foot">·<hi rend="italics">Hartley Hutchinson</hi>, Esq;.</note> <hi rend="italics">H--rtl--y</hi> was before unknown,</l>
+            <l xml:id="swift-Y34A30L3-line-9" n="9">Contemn'd I mean;──── for who would chuse</l>
+            <l xml:id="swift-Y34A30L3-line-10" n="10">So vile a Subject for the Muse?</l>
+            <l rend="indent(1)" xml:id="swift-Y34A30L3-line-11" n="11">'Twas once the noblest of his Wishes</l>
+            <l xml:id="swift-Y34A30L3-line-12" n="12">To fill his Paunch with Scraps from Dishes,</l>
+            <l xml:id="swift-Y34A30L3-line-13" n="13">For which he'd parch before the Grate,</l>
+            <l xml:id="swift-Y34A30L3-line-14" n="14">Or wind the <hi rend="italics">Jack</hi>'s slow-rising Weight,</l>
+            <l xml:id="swift-Y34A30L3-line-15" n="15">(Such Toils as best his Talents fit)</l>
+            <l xml:id="swift-Y34A30L3-line-16" n="16">Or polish <hi rend="italics">Shoes</hi>, or turn the <hi rend="italics">Spit</hi>;</l>
+            <l xml:id="swift-Y34A30L3-line-17" n="17">But unexpectedly grown rich in</l>
+            <l xml:id="swift-Y34A30L3-line-18" n="18">'Squire <note place="foot">·Sir <hi rend="italics">Thomas Dumvil</hi>, who was Patentee of the Hanaper Office.</note> <hi rend="italics">D--mv--l</hi>'s Family and Kitchin,</l>
+            <l xml:id="swift-Y34A30L3-line-19" n="19">He pants to eternize his Name,</l>
+            <l xml:id="swift-Y34A30L3-line-20" n="20">And takes the dirty Road to Fame;</l>
+            <l xml:id="swift-Y34A30L3-line-21" n="21">Believes that persecuting Wit</l>
+            <l xml:id="swift-Y34A30L3-line-22" n="22">Will prove the surest Way to it;</l>
+            <l xml:id="swift-Y34A30L3-line-23" n="23">So with a <note place="foot">·C----l <hi rend="italics">Ker</hi>, a mere Scotchman, Lieutenant C----l to L--d <hi rend="italics">Harrington</hi>'s Regiment of Dragoons, who made a News Boy Evidence against the Printer.</note> <hi rend="italics">C--l--nel</hi> at his Back</l>
+            <l xml:id="swift-Y34A30L3-line-24" n="24">The <hi rend="italics">Libel</hi> feels his first Attack;</l>
+            <l xml:id="swift-Y34A30L3-line-25" n="25">He calls it a seditious Paper,</l>
+            <l xml:id="swift-Y34A30L3-line-26" n="26">Writ by another <hi rend="italics">Patriot Drapier</hi>;</l>
+            <l xml:id="swift-Y34A30L3-line-27" n="27">Then raves and blunders Nonsense thicker</l>
+            <l xml:id="swift-Y34A30L3-line-28" n="28">Than Alderman o'ercharg'd with Liquor;</l>
+            <l xml:id="swift-Y34A30L3-line-29" n="29">And all this with Design, no Doubt,</l>
+            <l xml:id="swift-Y34A30L3-line-30" n="30">To hear his Praises hawk'd about;</l>
+            <l xml:id="swift-Y34A30L3-line-31" n="31">To send his Name thro' every Street,</l>
+            <l xml:id="swift-Y34A30L3-line-32" n="32">Which erst he roam'd with dirty Feet;</l>
+            <l xml:id="swift-Y34A30L3-line-33" n="33">Well pleas'd to live on future Times,</l>
+            <l xml:id="swift-Y34A30L3-line-34" n="34">Tho' but in keen satyrick Rhymes.</l>
+            <l rend="indent(1)" xml:id="swift-Y34A30L3-line-35" n="35">So <note place="foot">·<hi rend="italics">Vide Hom</hi>. Il. 5.</note> <hi rend="italics">Ajax</hi>, who, for ought we know,</l>
+            <l xml:id="swift-Y34A30L3-line-36" n="36">Was Justice many Years ago,</l>
+            <l xml:id="swift-Y34A30L3-line-37" n="37">And minding then no earthly Things,</l>
+            <l xml:id="swift-Y34A30L3-line-38" n="38">But killing Libellers of Kings;</l>
+            <l xml:id="swift-Y34A30L3-line-39" n="39">Or, if he wanted Work to do,</l>
+            <l xml:id="swift-Y34A30L3-line-40" n="40">To run a bawling News Boy thro';</l>
+            <l xml:id="swift-Y34A30L3-line-41" n="41">Yet he, when wrap'd up in a Cloud,</l>
+            <l xml:id="swift-Y34A30L3-line-42" n="42">To <hi rend="italics">Jove</hi> and <hi rend="italics">Venus</hi> roar'd aloud,</l>
+            <l xml:id="swift-Y34A30L3-line-43" n="43">Only in Light to shew his Face,</l>
+            <l xml:id="swift-Y34A30L3-line-44" n="44">Tho' it might tend to his Disgrace.</l>
+            <l rend="indent(1)" xml:id="swift-Y34A30L3-line-45" n="45">And so the <hi rend="italics">Ephesian</hi> Villain fir'd</l>
+            <l xml:id="swift-Y34A30L3-line-46" n="46">The Temple which the World admir'd,</l>
+            <l xml:id="swift-Y34A30L3-line-47" n="47">Contemning Death, despising Shame,</l>
+            <l xml:id="swift-Y34A30L3-line-48" n="48">To gain an ever-odious Name.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

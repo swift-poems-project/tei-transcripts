@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses \<hi rend="italics">del</hi>·on·<hi rend="italics">add</hi>·upon\ the Snow falling on A Lady's Breast</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="BCMSV cataloger"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y42E302B">
+          <head type="note" n="1" xml:id="spp-Y42E302B-headnote-1">
+            <lg n="1" xml:id="spp-Y42E302B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y42E302B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y42E302B-headnote-2">
+            <lg n="1" xml:id="spp-Y42E302B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y42E302B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y42E302B-headnote-3">
+            <lg n="1" xml:id="spp-Y42E302B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y42E302B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y42E302B-line-1" n="1">Those envious Flakes fell down in haste</l>
+            <l xml:id="swift-Y42E302B-line-2" n="2">To prove thy Breast less fair,</l>
+            <l xml:id="swift-Y42E302B-line-3" n="3">But Griev'd to find themselves Surpass'd,</l>
+            <l xml:id="swift-Y42E302B-line-4" n="4">Dissolv'd into a Tear.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

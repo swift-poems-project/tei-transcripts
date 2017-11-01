@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 26JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="721-54B-">
+          <head type="note" n="1" xml:id="spp-721-54B--headnote-1">
+            <lg n="1" xml:id="spp-721-54B--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-721-54B--headnote-1-line-group-1-line-1">A<hi rend="small-caps">NACREON</hi> (and I might add H<hi rend="small-caps">ORACE</hi>) would have been contented to stop here: and would have gained to himself sufficient applause, from the wit, elegance and simplicity of this poem, carried no further: but how much must the <hi rend="italics">English</hi> reader be delighted above the <hi rend="italics">Grecian</hi>, when he finds S<hi rend="small-caps">WIFT</hi> concluding in the following manner.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-721-54B--headnote-2">
+            <lg n="1" xml:id="spp-721-54B--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-721-54B--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-721-54B--headnote-3">
+            <lg n="1" xml:id="spp-721-54B--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-721-54B--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-721-54B--line-1" n="1">om.</l>
+            <l xml:id="swift-721-54B--line-2" n="2">om.</l>
+            <l xml:id="swift-721-54B--line-3" n="3">om.</l>
+            <l xml:id="swift-721-54B--line-4" n="4">om.</l>
+            <l xml:id="swift-721-54B--line-5" n="5">om.</l>
+            <l xml:id="swift-721-54B--line-6" n="6">om.</l>
+            <l xml:id="swift-721-54B--line-7" n="7">om.</l>
+            <l xml:id="swift-721-54B--line-8" n="8">om.</l>
+            <l xml:id="swift-721-54B--line-9" n="9">om.</l>
+            <l xml:id="swift-721-54B--line-10" n="10">om.</l>
+            <l xml:id="swift-721-54B--line-11" n="11">om.</l>
+            <l xml:id="swift-721-54B--line-12" n="12">om.</l>
+            <l xml:id="swift-721-54B--line-13" n="13">om.</l>
+            <l xml:id="swift-721-54B--line-14" n="14">om.</l>
+            <l rend="indent(1)" xml:id="swift-721-54B--line-15" n="15">And then, before it grew too late,</l>
+            <l xml:id="swift-721-54B--line-16" n="16">How should I beg of gentle fate,</l>
+            <l xml:id="swift-721-54B--line-17" n="17">(That either nymph might have her swain)</l>
+            <l xml:id="swift-721-54B--line-18" n="18">To split my worship too in twain.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

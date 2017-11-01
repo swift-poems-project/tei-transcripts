@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">T--l--nd</hi>'s Invitation to <hi rend="italics">DISMAL</hi>,<lb/>  to Dine with the C<hi rend="small-caps">ALVES-</hi>H<hi rend="small-caps">EAD</hi> Club.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 10JE91 "/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Added ref. to 015D JW 28JE98; 28 endpunct and 40 "Counsel" confirmed from Ashley 5062 in situ JW 10JA01 and from L 11602.i.12(32**) xerox JW 13JE01; ICU shelfmark corrected 13JE01; √'d JW 13JE01 agt 12X1 [10 "TRAYTOR" and 63 "dicta" corrected from L11602.i.12(32**), Berg, Dt, ICU, and TxU copies]; C copy blankfilling recorded JW 4JA02; tochk items √'d JW 10JA02 in situ; ed. JW 11JL02, 14DE04, 29JA10, 22NO16; tochk for Dt readings added JW 26DE02 and these √'d JW 26FE03 in situ and 15JL13 from photo; D annotations recorded JW 28JL05; √'d JW 14SE08 agt WILH; 004T, 005T annotations recorded JW5JA09. EMENDED JW 22NO16, 23NO16, 27NO16, 18DE16, 18JL17; title reformatted JW 2JA17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-162-CWJS-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="162-CWJS">
+          <head type="note" n="1" xml:id="spp-162-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-162-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-CWJS-headnote-1-line-group-1-line-1"><hi rend="italics">Imitated from </hi>Horace<hi rend="italics">, Epist. </hi>5<hi rend="italics">. Lib</hi>. 1.<ref target="#spp-162-CWJS-footnote-headnote-1">1</ref><note n="1" xml:id="spp-162-CWJS-footnote-headnote-1" place="foot"><hi>S</hi><hi rend="small-caps">I</hi> potes archaicis conviva recumbere lectis,Nec modica cœnare times olus omne patella:Supremo te sole domi, Torquate, manebo.*··*··*··*··*··*··*··*··*··*··*··*··*··*··*Mitte leves spes, &amp; certamina divitiarum,Et Moschi causam: Cras nato Cæsare festusDat veniam somnumque dies: impune licebitÆstivam sermone benigno tendere noctem.*··*··*··*··*··*··*··*··*··*··*··*··*··*··*Quid non ebrietas designat? operta recludit;Spes jubet esse ratas; in prælia trudit inermem:Sollicitis animis onus eximit; addocet artes.Fœcundi calices quem non fecere disertum?Contracta quem non in paupertate solutum?Hæc ego procurare &amp; idoneus imperor, &amp; nonInvitus; ne turpe toral, ne sordida mappaCorruget nares, ne non &amp; cantharus &amp; lanxOstendat tibi te; ne fidos inter amicosSit qui dicta foras eliminet: ut coeat parJungaturque pari, Brutum tibi Septimiumque,Et nisi cœna prior potiorque puella SabinumDetinet, assumam, locus est &amp; pluribus umbris:Sed nimis arcta premunt olidæ convivia capræ.Tu quotus esse velis rescribe: &amp; rebus omissis,Atria servantem postico falle clientem</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-162-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-162-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-162-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-162-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-162-CWJS-line-1" n="1">
+              <hi rend="display-initial">I<hi rend="small-caps">F</hi>, dearest <hi rend="black-letter">Dismal</hi>, you for once can Dine</hi>
+            </l>
+            <l xml:id="swift-162-CWJS-line-2" n="2">Upon a single Dish, and Tavern Wine,</l>
+            <l xml:id="swift-162-CWJS-line-3" n="3"><hi rend="italics">T────l────nd</hi> to you this Invitation sends,</l>
+            <l xml:id="swift-162-CWJS-line-4" n="4">To eat the <hi rend="italics">CALVES-HEAD</hi> with your trusty Friends.</l>
+            <l xml:id="swift-162-CWJS-line-5" n="5">Suspend a while your vain ambitious Hopes,</l>
+            <l xml:id="swift-162-CWJS-line-6" n="6">Leave hunting after Bribes, forget your Tropes:</l>
+            <l xml:id="swift-162-CWJS-line-7" n="7">To morrow We our <hi rend="italics">Mystick Feast</hi> prepare,</l>
+            <l xml:id="swift-162-CWJS-line-8" n="8">Where Thou, our latest <hi rend="italics">Proselyte</hi>, shalt share:</l>
+            <l xml:id="swift-162-CWJS-line-9" n="9">When We, by proper Signs and Symbols tell,</l>
+            <l xml:id="swift-162-CWJS-line-10" n="10">How, by <hi rend="italics">Brave Hands</hi>, the <hi rend="italics">Royal TRAYTOR</hi> fell;</l>
+            <l xml:id="swift-162-CWJS-line-11" n="11">The Meat shall represent the <hi rend="italics">TYRANT</hi>'s Head,</l>
+            <l xml:id="swift-162-CWJS-line-12" n="12">The Wine, his Blood, <hi rend="italics">our Predecessors</hi> shed:</l>
+            <l xml:id="swift-162-CWJS-line-13" n="13">Whilst an <hi rend="italics">alluding</hi> Hymn some Artist sings,</l>
+            <l xml:id="swift-162-CWJS-line-14" n="14">We toast Confusion to the Race of Kings:</l>
+            <l xml:id="swift-162-CWJS-line-15" n="15">At Monarchy we nobly shew our Spight,</l>
+            <l xml:id="swift-162-CWJS-line-16" n="16">And talk <hi rend="italics">what Fools call Treason</hi> all the Night.</l>
+            <l rend="indent(1)" xml:id="swift-162-CWJS-line-17" n="17"><lb/>Who, by Disgraces or ill Fortune sunk,</l>
+            <l xml:id="swift-162-CWJS-line-18" n="18">Feels not his Soul enliven'd when he's Drunk?</l>
+            <l xml:id="swift-162-CWJS-line-19" n="19">Wine can clear up <hi rend="italics">G--d--lph--n</hi>'s cloudy Face,</l>
+            <l xml:id="swift-162-CWJS-line-20" n="20">And fill <hi rend="italics">J────ck Sm────th</hi> with Hopes to keep his Place;</l>
+            <l xml:id="swift-162-CWJS-line-21" n="21">By Force of Wine ev'n <hi rend="italics">Sc--rb--r--w</hi> is Brave,</l>
+            <l xml:id="swift-162-CWJS-line-22" n="22"><hi rend="italics">Hal</hi>-- grows more Pert, and <hi rend="italics">S--mm--rs</hi> not so Grave:</l>
+            <l xml:id="swift-162-CWJS-line-23" n="23">Wine can give <hi rend="italics">P────rt────d</hi> Wit, and <hi rend="italics">Cl--v--nd</hi> Sense,</l>
+            <l xml:id="swift-162-CWJS-line-24" n="24"><hi rend="italics">M--t--g--e</hi> Learning, <hi rend="italics">B--lt--n</hi> Eloquence:</l>
+            <l xml:id="swift-162-CWJS-line-25" n="25"><hi rend="italics">Ch────ly</hi>, when Drunk, can never lose his <hi rend="italics">Wand</hi>,</l>
+            <l xml:id="swift-162-CWJS-line-26" n="26">And <hi rend="italics">L--nc--n</hi> then imagines he has Land.</l>
+            <l rend="indent(1)" xml:id="swift-162-CWJS-line-27" n="27"><lb/>My Province is, to see that all be right,</l>
+            <l xml:id="swift-162-CWJS-line-28" n="28">Glasses and Linnen clean, and Pewter bright;</l>
+            <l xml:id="swift-162-CWJS-line-29" n="29">From our <hi rend="italics">Mysterious Club</hi> to keep out Spies,</l>
+            <l xml:id="swift-162-CWJS-line-30" n="30">And <hi rend="italics">Tories</hi> (dress'd like Waiters) in Disguise.</l>
+            <l xml:id="swift-162-CWJS-line-31" n="31">You shall be coupled as you best approve,</l>
+            <l xml:id="swift-162-CWJS-line-32" n="32">Seated at Table next the Men you love.</l>
+            <l xml:id="swift-162-CWJS-line-33" n="33"><hi rend="italics">S──nd──d, Or──rd, B────l</hi>, and <hi rend="italics">R──ch──d</hi>'s Grace</l>
+            <l xml:id="swift-162-CWJS-line-34" n="34">Will come; and <hi rend="italics">H---mp---n</hi> shall have <hi rend="italics">W---p---l</hi>'s Place.</l>
+            <l xml:id="swift-162-CWJS-line-35" n="35"><hi rend="italics">Wh────n</hi>, unless prevented by a Whore,</l>
+            <l xml:id="swift-162-CWJS-line-36" n="36">Will hardly fail, and there is room for more:</l>
+            <l xml:id="swift-162-CWJS-line-37" n="37">But I love Elbow-room whene're I drink,</l>
+            <l xml:id="swift-162-CWJS-line-38" n="38">And honest <hi rend="italics">Harry</hi> is too apt to stink.</l>
+            <l rend="indent(1)" xml:id="swift-162-CWJS-line-39" n="39"><lb/>Let no Pretence of Bus'ness make you stay,</l>
+            <l xml:id="swift-162-CWJS-line-40" n="40">Yet take one Word of Counsel by the way:</l>
+            <l xml:id="swift-162-CWJS-line-41" n="41">If <hi rend="italics">Gu──rn──y</hi> calls, send word you're gone abroad;</l>
+            <l xml:id="swift-162-CWJS-line-42" n="42">He'll teaze you with King <hi rend="italics">Charles</hi> and Bishop <hi rend="italics">Laud</hi>,</l>
+            <l xml:id="swift-162-CWJS-line-43" n="43">Or make you Fast, and carry you to Prayers:</l>
+            <l xml:id="swift-162-CWJS-line-44" n="44">But if he will break in, and walk up Stairs,</l>
+            <l xml:id="swift-162-CWJS-line-45" n="45">Steal by the Back-door out, and leave him there;</l>
+            <l xml:id="swift-162-CWJS-line-46" n="46">Then order <hi rend="italics">Squash</hi> to call a Hackney Chair.</l>
+            <l xml:id="swift-162-CWJS-line-47" n="47">
+              <space><hi rend="italics">January</hi>/hi&gt; 29.</space>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

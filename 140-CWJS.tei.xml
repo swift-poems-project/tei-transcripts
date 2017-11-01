@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To M<hi rend="superscript">r</hi> Harleys Surgeon</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2AU12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>JW EMENDED 5NO16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="140-CWJS">
+          <head type="note" n="1" xml:id="spp-140-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-140-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-140-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-140-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-140-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-140-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-140-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-140-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-140-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-140-CWJS-line-1" n="1">On Britain Europes safety lyes</l>
+            <l xml:id="swift-140-CWJS-line-2" n="2">And Britain's lost if Harly dyes</l>
+            <l xml:id="swift-140-CWJS-line-3" n="3">Harly depends upon your skill,</l>
+            <l xml:id="swift-140-CWJS-line-4" n="4">Think what you save or what You kill.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

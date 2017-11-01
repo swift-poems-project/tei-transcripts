@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">to the Farce of <lb/>  </hi>Punch turn'd School-Master<hi rend="italics">. Spo-<lb/>  ken by Mr</hi>. Griffith.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 12SE96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S05424L-">
+          <head type="note" n="1" xml:id="spp-S05424L--headnote-1">
+            <lg n="1" xml:id="spp-S05424L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S05424L--headnote-1-line-group-1-line-1">Written by Mr. S<hi rend="small-caps">HERRIDAN</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S05424L--headnote-2">
+            <lg n="1" xml:id="spp-S05424L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S05424L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S05424L--headnote-3">
+            <lg n="1" xml:id="spp-S05424L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S05424L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S05424L--line-1" n="1"><hi rend="display-initial">G</hi>Allants, our Bus'ness is to let you know,</l>
+            <l xml:id="swift-S05424L--line-2" n="2">This Night we represent a Puppet-Show;</l>
+            <l xml:id="swift-S05424L--line-3" n="3">Where ev'ry Actor comes to make a Figure;</l>
+            <l xml:id="swift-S05424L--line-4" n="4">Big as the Life, and some indeed, much bigger.</l>
+            <l xml:id="swift-S05424L--line-5" n="5">The Truth, of what I tell you, will appear,</l>
+            <l xml:id="swift-S05424L--line-6" n="6">When you behold our <hi rend="italics">Punch</hi> and <hi rend="italics">Banimeer</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-S05424L--line-7" n="7"><lb/>We found this House was almost empty grown──</l>
+            <l xml:id="swift-S05424L--line-8" n="8">From the first Moment <note place="foot">·<hi rend="italics">A Puppet-shew Man</hi>.</note> <hi rend="italics">Stretch</hi> appear'd in Town.</l>
+            <l xml:id="swift-S05424L--line-9" n="9">What cou'd we do but learn to squeek and hop it?</l>
+            <l xml:id="swift-S05424L--line-10" n="10">Each Actor change into his fav'rite Puppet?</l>
+            <l rend="indent(1)" xml:id="swift-S05424L--line-11" n="11"><lb/>Think not in this we banter or abuse you,</l>
+            <l xml:id="swift-S05424L--line-12" n="12">We'll turn to any Thing before we'll loose you.</l>
+            <l rend="indent(1)" xml:id="swift-S05424L--line-13" n="13"><lb/>If you're well pleas'd with this, you soon shall see</l>
+            <l xml:id="swift-S05424L--line-14" n="14">These very Puppets act a Tragedy;</l>
+            <l xml:id="swift-S05424L--line-15" n="15">The <hi rend="italics">Rival Queens</hi> we'll play, if you command,</l>
+            <l xml:id="swift-S05424L--line-16" n="16">Much finer than the <hi rend="italics">Queen of Ivy Land</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-S05424L--line-17" n="17"><lb/>I now proceed to beg, our <hi rend="italics">Punch</hi> may meet</l>
+            <l xml:id="swift-S05424L--line-18" n="18">As much Applause, as he in <hi rend="italics">Capel-Street:</hi></l>
+            <l xml:id="swift-S05424L--line-19" n="19"><hi rend="italics">Our Banimeer</hi> speaks <hi rend="italics">Hebrew, Greek</hi> and <hi rend="italics">Latin</hi>,</l>
+            <l xml:id="swift-S05424L--line-20" n="20">Their <hi rend="italics">Punch</hi> speaks Nonsense, yet is ever Prating.</l>
+            <l rend="indent(1)" xml:id="swift-S05424L--line-21" n="21"><lb/>O let not Learning want its just Reward!</l>
+            <l xml:id="swift-S05424L--line-22" n="22">Since <hi rend="italics">Punch</hi>, to please you, study'd very hard.</l>
+            <l xml:id="swift-S05424L--line-23" n="23">Don't let your eager Thirst of Knowledge cool;</l>
+            <l xml:id="swift-S05424L--line-24" n="24">Come and improve your Talents──── here's your School──────</l>
+            <l xml:id="swift-S05424L--line-25" n="25">We'll teach the Ladies a genteeler Squeek──────</l>
+            <l xml:id="swift-S05424L--line-26" n="26">And powder'd Beaux shall shew their Parts in <hi rend="italics">Greek</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

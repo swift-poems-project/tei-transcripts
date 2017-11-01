@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">To Doctor</hi> S<hi rend="small-caps">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AMP 4DE95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JIF 20SE98 agt X30A0801; √'d JIF 27SE07 agt X30A10M1; ed. JW 12AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X30A10M2">
+          <head type="note" n="1" xml:id="spp-X30A10M2-headnote-1">
+            <lg n="1" xml:id="spp-X30A10M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X30A10M2-headnote-1-line-group-1-line-1"><hi rend="italics">Nov</hi>. 23, at Night.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X30A10M2-headnote-2">
+            <lg n="1" xml:id="spp-X30A10M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X30A10M2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X30A10M2-headnote-3">
+            <lg n="1" xml:id="spp-X30A10M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X30A10M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X30A10M2-line-1" n="1">If I write any more, it will make my poor Muse sick.</l>
+            <l xml:id="swift-X30A10M2-line-2" n="2">This Night I came home with a very cold Dew sick,</l>
+            <l xml:id="swift-X30A10M2-line-3" n="3">And I wish I may soon be not of an A-gue sick;</l>
+            <l xml:id="swift-X30A10M2-line-4" n="4">But, I hope I shall ne'er be, like you, of a Shrew sick,</l>
+            <l xml:id="swift-X30A10M2-line-5" n="5">Who often has made me, by looking ascue, sick.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

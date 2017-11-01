@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN ANSWER, BY DELANY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 9NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-H29915W1-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="H29915W1">
+          <head type="note" n="1" xml:id="spp-H29915W1-headnote-1">
+            <lg n="1" xml:id="spp-H29915W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H29915W1-headnote-1-line-group-1-line-1">TO THOMAS SHERIDAN.<ref target="#spp-H29915W1-footnote-headnote-1">1</ref><note n="1" xml:id="spp-H29915W1-footnote-headnote-1" place="foot">Whimsical Medley. p.53</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-H29915W1-headnote-2">
+            <lg n="1" xml:id="spp-H29915W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H29915W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-H29915W1-headnote-3">
+            <lg n="1" xml:id="spp-H29915W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H29915W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-H29915W1-line-1" n="1">D<hi rend="small-caps">EAR </hi>S<hi rend="small-caps">HERRY</hi>, I'm sorry for your bloodsheded sore eye,</l>
+            <l xml:id="swift-H29915W1-line-2" n="2">And the more I consider case, still the more I</l>
+            <l xml:id="swift-H29915W1-line-3" n="3">Regret it, for see how the pain on't has wore ye.</l>
+            <l xml:id="swift-H29915W1-line-4" n="4">Besides; the good Whigs, who strangely adore ye,</l>
+            <l xml:id="swift-H29915W1-line-5" n="5">In pity cry out, “he's a poor blinded Tory.”</l>
+            <l xml:id="swift-H29915W1-line-6" n="6">But listen to me, and I'll soon lay before ye</l>
+            <l xml:id="swift-H29915W1-line-7" n="7">A sovereign cure well attested in Gory.</l>
+            <l xml:id="swift-H29915W1-line-8" n="8">First wash it with <hi rend="italics">ros</hi>, that makes dative <hi rend="italics">rori</hi>,</l>
+            <l xml:id="swift-H29915W1-line-9" n="9">Then send for three leeches, and let them all gore ye;</l>
+            <l xml:id="swift-H29915W1-line-10" n="10">Then take a cordial dram to restore ye,</l>
+            <l xml:id="swift-H29915W1-line-11" n="11">Then take Lady Judith, and walk a fine boree,</l>
+            <l xml:id="swift-H29915W1-line-12" n="12">Then take a glass of good claret <hi rend="italics">ex more</hi>,</l>
+            <l xml:id="swift-H29915W1-line-13" n="13">Then stay as long as you can, <hi rend="italics">ab uxore</hi>;</l>
+            <l xml:id="swift-H29915W1-line-14" n="14">And then if friend Dick <note place="foot">·Dr Richard Helsham. See p. 53.</note> will but ope your backdoor, he</l>
+            <l xml:id="swift-H29915W1-line-15" n="15">Will quickly dispel the black clouds that hang o'er ye,</l>
+            <l xml:id="swift-H29915W1-line-16" n="16">And make you so bright, that you'll sing tory rory,</l>
+            <l xml:id="swift-H29915W1-line-17" n="17">And make a new ballad worth ten of John Dory:</l>
+            <l xml:id="swift-H29915W1-line-18" n="18">(Tho' I work your cure, yet he'll get the glory.)</l>
+            <l xml:id="swift-H29915W1-line-19" n="19">I'm now in the back school-house, high up one story,</l>
+            <l xml:id="swift-H29915W1-line-20" n="20">Quite weary with teaching, and ready to <hi rend="italics">mori</hi>.</l>
+            <l xml:id="swift-H29915W1-line-21" n="21">My candle's just out too, no longer I'll pore ye,</l>
+            <l xml:id="swift-H29915W1-line-22" n="22">But away to Clem Barry's──── there's an end of my story.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

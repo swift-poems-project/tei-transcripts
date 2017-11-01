@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>WIT upon Crutches,<lb/>  OR, THE<lb/>  BITER BITTEN.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 10JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y27CW537">
+          <head type="note" n="1" xml:id="spp-Y27CW537-headnote-1">
+            <lg n="1" xml:id="spp-Y27CW537-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27CW537-headnote-1-line-group-1-line-1">Most Humbly Dedicated to the Ingenious Mr. <hi rend="italics">Arbuckle Author</hi> of the <hi rend="italics">Dublin Weekly Journal</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y27CW537-headnote-2">
+            <lg n="1" xml:id="spp-Y27CW537-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27CW537-headnote-2-line-group-1-line-1">Odi profanum Vulgus &amp; arceo. ··<hi rend="italics">Hor</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y27CW537-headnote-3">
+            <lg n="1" xml:id="spp-Y27CW537-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27CW537-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y27CW537-line-1" n="1"><hi rend="display-initial">A</hi> Writer held in great Renown,</l>
+            <l xml:id="swift-Y27CW537-line-2" n="2">By all News-Boys of the Town</l>
+            <l xml:id="swift-Y27CW537-line-3" n="3">Who ne're (as I imagine) Rose</l>
+            <l xml:id="swift-Y27CW537-line-4" n="4">Above the Vulgar turn of Prose,</l>
+            <l xml:id="swift-Y27CW537-line-5" n="5">Seeing so many Younkers Dabble</l>
+            <l xml:id="swift-Y27CW537-line-6" n="6">In Poetry to please the Rabble,</l>
+            <l xml:id="swift-Y27CW537-line-7" n="7">Like <hi rend="italics">Æsop's Frog</hi>, with Envy swell'd,</l>
+            <l xml:id="swift-Y27CW537-line-8" n="8">The daring <hi rend="italics">Phaetons</hi> beheld,</l>
+            <l xml:id="swift-Y27CW537-line-9" n="9">Nothing it seem's with him wou'd down,</l>
+            <l xml:id="swift-Y27CW537-line-10" n="10">This rais'd his Laugh, and that his frown;</l>
+            <l xml:id="swift-Y27CW537-line-11" n="11">What e're they Writ, was <hi rend="italics">Stuff</hi> or <hi rend="italics">Fustian</hi>,</l>
+            <l xml:id="swift-Y27CW537-line-12" n="12">And all was sentenc'd to Combustion,</l>
+            <l xml:id="swift-Y27CW537-line-13" n="13">In short, <hi rend="italics">Sir</hi>, not a single Cantor</l>
+            <l xml:id="swift-Y27CW537-line-14" n="14">Of all the Tribe Escap'd his Banter,</l>
+            <l xml:id="swift-Y27CW537-line-15" n="15">Now having with a deal of Pleasure,</l>
+            <l xml:id="swift-Y27CW537-line-16" n="16"><hi rend="italics">Anatomis'd</hi> their Rhime and Measure,</l>
+            <l xml:id="swift-Y27CW537-line-17" n="17">Weigh'd ev'ry Thought, and Word &amp; Letter</l>
+            <l xml:id="swift-Y27CW537-line-18" n="18">Think's he,── my self cou'd Jingle better,</l>
+            <l xml:id="swift-Y27CW537-line-19" n="19">Resolv'd to put it to the Test</l>
+            <l xml:id="swift-Y27CW537-line-20" n="20">How far he cou'd excel the Rest.</l>
+            <l xml:id="swift-Y27CW537-line-21" n="21">He Whips me on his Sunday Cloath's,</l>
+            <l xml:id="swift-Y27CW537-line-22" n="22">And bid a dieu to Mistriss <hi rend="italics">Prose</hi>;</l>
+            <l xml:id="swift-Y27CW537-line-23" n="23">By no perswasion wou'd he stay,</l>
+            <l xml:id="swift-Y27CW537-line-24" n="24">But to <hi rend="italics">Parnassus</hi> bent his way,</l>
+            <l xml:id="swift-Y27CW537-line-25" n="25">Where having reach'd, with due submission,</l>
+            <l xml:id="swift-Y27CW537-line-26" n="26">To th' <hi rend="italics">Nine</hi> presents his poor Petition,</l>
+            <l xml:id="swift-Y27CW537-line-27" n="27">Miss <hi rend="italics">Clio</hi>, having paus'd a while,</l>
+            <l xml:id="swift-Y27CW537-line-28" n="28">Return'd him Answer in this Stile,</l>
+            <l xml:id="swift-Y27CW537-line-29" n="29">“Sir <hi rend="italics">Phæbus</hi> made a Declaration</l>
+            <l xml:id="swift-Y27CW537-line-30" n="30">“'gainst all Lame Members i' the Nation;</l>
+            <l xml:id="swift-Y27CW537-line-31" n="31">“Nor do's he ever think that those</l>
+            <l xml:id="swift-Y27CW537-line-32" n="32">“Shou'd run in Rhime, who Limp in Prose,</l>
+            <l xml:id="swift-Y27CW537-line-33" n="33"><hi rend="italics">Arb</hi>──── heard,──── but heard with Anger,</l>
+            <l xml:id="swift-Y27CW537-line-34" n="34">And in his Heart cou'd find to Hang her,</l>
+            <l xml:id="swift-Y27CW537-line-35" n="35">His Nails he bites his Breast he thumps,</l>
+            <l xml:id="swift-Y27CW537-line-36" n="36">And so depart'd in the Dumps─────</l>
+            <l xml:id="swift-Y27CW537-line-37" n="37">But as your <hi rend="italics">Bullies</hi> game the more,</l>
+            <l xml:id="swift-Y27CW537-line-38" n="38">Nor yet, by losing, quit the score;</l>
+            <l xml:id="swift-Y27CW537-line-39" n="39">So he, possess'd with double flame,</l>
+            <l xml:id="swift-Y27CW537-line-40" n="40">Soon after to <hi rend="italics">Parnassus</hi> came;</l>
+            <l xml:id="swift-Y27CW537-line-41" n="41">And hurri'd on by more Ambition</l>
+            <l xml:id="swift-Y27CW537-line-42" n="42">In person back's his old Petition,</l>
+            <l xml:id="swift-Y27CW537-line-43" n="43">Beg'd, Pray'd, and Beg'd and pray'd again,</l>
+            <l xml:id="swift-Y27CW537-line-44" n="44">Us'd ev'ry Tone;───── but all in Vain.</l>
+            <l xml:id="swift-Y27CW537-line-45" n="45">At last upon a certain Day</l>
+            <l xml:id="swift-Y27CW537-line-46" n="46">To <hi rend="italics">Phæbus CLIO</hi> takes her Way;</l>
+            <l xml:id="swift-Y27CW537-line-47" n="47">And flying thro' her beaten Road</l>
+            <l xml:id="swift-Y27CW537-line-48" n="48">Soon reach'd the Radiant God's Abode,</l>
+            <l xml:id="swift-Y27CW537-line-49" n="49">To whom she, after a good Morrow,</l>
+            <l xml:id="swift-Y27CW537-line-50" n="50">In Canting Stile express'd her sorrow,</l>
+            <l xml:id="swift-Y27CW537-line-51" n="51">Told,───── that a <hi rend="italics">Scab</hi> Yclep'd <hi rend="italics">Arb</hi>────</l>
+            <l xml:id="swift-Y27CW537-line-52" n="52">Did often to her Sisters Truckle,</l>
+            <l xml:id="swift-Y27CW537-line-53" n="53">And turn'd <hi rend="italics">Parnassus</hi> to a Stage──────</l>
+            <l xml:id="swift-Y27CW537-line-54" n="54">Ay, Dame? Reply'd the Reverend Sage,</l>
+            <l xml:id="swift-Y27CW537-line-55" n="55">By <hi rend="italics">Jove</hi> I's make that <hi rend="italics">Grubstreet</hi> scraper,</l>
+            <l xml:id="swift-Y27CW537-line-56" n="56">E'er I to Bed go, cut a Caper,</l>
+            <l xml:id="swift-Y27CW537-line-57" n="57">He'll find, if he comes in my Clutches,</l>
+            <l xml:id="swift-Y27CW537-line-58" n="58">But small Assistance from his Crutches!</l>
+            <l xml:id="swift-Y27CW537-line-59" n="59">Eft soons they both, like Swallows Fly</l>
+            <l xml:id="swift-Y27CW537-line-60" n="60">Down from <hi rend="italics">Olympus</hi> thro' the Sky,</l>
+            <l xml:id="swift-Y27CW537-line-61" n="61">And coming near <hi rend="italics">Parnassus</hi> View'd</l>
+            <l xml:id="swift-Y27CW537-line-62" n="62">Our <hi rend="italics">Interloper</hi> over Rude,</l>
+            <l xml:id="swift-Y27CW537-line-63" n="63">In dreadful Armour rushing on</l>
+            <l xml:id="swift-Y27CW537-line-64" n="64">To gain the <hi rend="italics">Muses pro</hi>, or <hi rend="italics">Con</hi>;</l>
+            <l xml:id="swift-Y27CW537-line-65" n="65">But <hi rend="italics">CLIO</hi> nearer now approaching,</l>
+            <l xml:id="swift-Y27CW537-line-66" n="66">Cries out you <hi rend="italics">Villain</hi>, art Incroaching?</l>
+            <l xml:id="swift-Y27CW537-line-67" n="67">You Farthing <hi rend="italics">Journalist</hi>───── Hey Day!</l>
+            <l xml:id="swift-Y27CW537-line-68" n="68">Methinks you're Armed <hi rend="italics">Cap-a-pe</hi></l>
+            <l xml:id="swift-Y27CW537-line-69" n="69">Here <hi rend="italics">CLIO</hi> say's the angry God,</l>
+            <l xml:id="swift-Y27CW537-line-70" n="70">Go, get me a good Birchen Rod.</l>
+            <l xml:id="swift-Y27CW537-line-71" n="71">The best you find on Mount Parnassus,</l>
+            <l xml:id="swift-Y27CW537-line-72" n="72">Such tricks as these shall never pass us:</l>
+            <l xml:id="swift-Y27CW537-line-73" n="73">This done.── he lays upon his Backside,</l>
+            <l xml:id="swift-Y27CW537-line-74" n="74">(And doubtless he left him a Blackside,</l>
+            <l xml:id="swift-Y27CW537-line-75" n="75">At last dismissing him,──── now go,</l>
+            <l xml:id="swift-Y27CW537-line-76" n="76">Still to remain in STATU QUO;</l>
+            <l xml:id="swift-Y27CW537-line-77" n="77">And henceforth know this Hill, he says,</l>
+            <l xml:id="swift-Y27CW537-line-78" n="78">Produces Birch as well as Bay's.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

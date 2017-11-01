@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Riddles</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="917AROGP">
+          <head type="note" n="1" xml:id="spp-917AROGP-headnote-1">
+            <lg n="1" xml:id="spp-917AROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917AROGP-headnote-1-line-group-1-line-1"><hi rend="italics">3</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-917AROGP-headnote-2">
+            <lg n="1" xml:id="spp-917AROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917AROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-917AROGP-headnote-3">
+            <lg n="1" xml:id="spp-917AROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917AROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-917AROGP-line-1" n="1">By fate exalted high in place;</l>
+            <l xml:id="swift-917AROGP-line-2" n="2">Lo, here I stand with double face;</l>
+            <l xml:id="swift-917AROGP-line-3" n="3">Superior none on earth I find;</l>
+            <l xml:id="swift-917AROGP-line-4" n="4">But see below me all mankind.</l>
+            <l xml:id="swift-917AROGP-line-5" n="5">Yet, as it oft attends the great,</l>
+            <l xml:id="swift-917AROGP-line-6" n="6">I almost sink with my own weight;</l>
+            <l xml:id="swift-917AROGP-line-7" n="7">At every motion undertook,</l>
+            <l xml:id="swift-917AROGP-line-8" n="8">The vulgar all consult my look.</l>
+            <l xml:id="swift-917AROGP-line-9" n="9">I sometimes give advice in writing,</l>
+            <l xml:id="swift-917AROGP-line-10" n="10">But never of my own inditing.</l>
+            <l rend="indent(1)" xml:id="swift-917AROGP-line-11" n="11"><lb/>I am a courtier in my way;</l>
+            <l xml:id="swift-917AROGP-line-12" n="12">For those who raised me, I betray;</l>
+            <l xml:id="swift-917AROGP-line-13" n="13">And some give out, that I entice</l>
+            <l xml:id="swift-917AROGP-line-14" n="14">To lust and luxury, and dice:</l>
+            <l xml:id="swift-917AROGP-line-15" n="15">Who punishments on me inflict,</l>
+            <l xml:id="swift-917AROGP-line-16" n="16">Because they find their pockets picked.</l>
+            <l rend="indent(1)" xml:id="swift-917AROGP-line-17" n="17"><lb/>By riding post I lose my health;</l>
+            <l xml:id="swift-917AROGP-line-18" n="18">And only to get others wealth.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

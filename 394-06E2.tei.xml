@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<hi rend="small-caps">DVICE</hi> to the G<hi rend="small-caps">RUBSTREET</hi> V<hi rend="small-caps">ERSE-<lb/>  WRITERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 13JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="394-06E2">
+          <head type="note" n="1" xml:id="spp-394-06E2-headnote-1">
+            <lg n="1" xml:id="spp-394-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-394-06E2-headnote-1-line-group-1-line-1">Written in the year 1726.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-394-06E2-headnote-2">
+            <lg n="1" xml:id="spp-394-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-394-06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-394-06E2-headnote-3">
+            <lg n="1" xml:id="spp-394-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-394-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-394-06E2-line-1" n="1"><hi rend="display-initial">Y</hi>E poets ragged and forlorn,</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-2" n="2">Down from your garrets haste;</l>
+            <l xml:id="swift-394-06E2-line-3" n="3">Ye rhymers, dead as soon as born,</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-4" n="4">Not yet consign'd to paste,</l>
+            <l xml:id="swift-394-06E2-line-5" n="5"><lb/>I know a trick to make you thrive;</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-6" n="6">O, 'tis a quaint device:</l>
+            <l xml:id="swift-394-06E2-line-7" n="7">Your stillborn poems shall revive,</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-8" n="8">And scorn to wrap up spice.</l>
+            <l xml:id="swift-394-06E2-line-9" n="9"><lb/>Get all your verses printed fair,</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-10" n="10">Then let them well be dry'd;</l>
+            <l xml:id="swift-394-06E2-line-11" n="11">And Curll must have a special care</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-12" n="12">To leave the margin wide.</l>
+            <l xml:id="swift-394-06E2-line-13" n="13"><lb/>Lend these to paper-sparing Pope;</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-14" n="14">And when he sits to write,</l>
+            <l xml:id="swift-394-06E2-line-15" n="15">No letter with an <hi rend="italics">envelope</hi><note place="foot">·A blank cover.</note></l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-16" n="16">Could give him more delight.</l>
+            <l xml:id="swift-394-06E2-line-17" n="17"><lb/>When Pope has fill'd the margins round,</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-18" n="18">Why then recal your loan;</l>
+            <l xml:id="swift-394-06E2-line-19" n="19">Sell them to Curll for fifty pound,</l>
+            <l rend="indent(1)" xml:id="swift-394-06E2-line-20" n="20">And swear they are your own.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

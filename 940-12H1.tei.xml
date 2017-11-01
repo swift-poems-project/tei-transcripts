@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A LETTER,<lb/>  <hi rend="italics">To Dr</hi>. H<hi rend="small-caps">ELSHAM</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 14OC13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="940-12H1">
+          <head type="note" n="1" xml:id="spp-940-12H1-headnote-1">
+            <lg n="1" xml:id="spp-940-12H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-940-12H1-headnote-1-line-group-1-line-1">SIR,&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-940-12H1-headnote-2">
+            <lg n="1" xml:id="spp-940-12H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-940-12H1-headnote-2-line-group-1-line-1">Pray discruciate what follows:</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-940-12H1-headnote-3">
+            <lg n="1" xml:id="spp-940-12H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-940-12H1-headnote-3-line-group-1-line-1">
+                <note rend="flush right"><hi rend="italics">Wednesday</hi> night.</note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-940-12H1-headnote-4">
+            <lg n="1" xml:id="spp-940-12H1-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-940-12H1-headnote-4-line-group-1-line-1">I writ all these before I went to bed. Pray explain them for me, because I cannot do it.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-940-12H1-line-1" n="1"><hi rend="display-initial">T</hi>HE dullest beast, and gentleman's liquor,</l>
+            <l xml:id="swift-940-12H1-line-2" n="2">When young, is often due to the vicar.</l>
+            <l xml:id="swift-940-12H1-line-3" n="3"><lb/>The dullest of beasts, and swine's delight,</l>
+            <l xml:id="swift-940-12H1-line-4" n="4">Make up a bird very swift of flight.</l>
+            <l xml:id="swift-940-12H1-line-5" n="5"><lb/>The dullest beast when high in stature, 3}</l>
+            <l xml:id="swift-940-12H1-line-6" n="6">And another of royal nature,</l>
+            <l xml:id="swift-940-12H1-line-7" n="7">For breeding is a useful creature.</l>
+            <l xml:id="swift-940-12H1-line-8" n="8"><lb/>The dullest beast, and a party distrest,</l>
+            <l xml:id="swift-940-12H1-line-9" n="9">When too long, is bad at best.</l>
+            <l xml:id="swift-940-12H1-line-10" n="10"><lb/>The dullest beast, and the saddle it wears,</l>
+            <l xml:id="swift-940-12H1-line-11" n="11">Is good for partridge, not for hares.</l>
+            <l xml:id="swift-940-12H1-line-12" n="12"><lb/>The dullest beast and kind voice of a cat,</l>
+            <l xml:id="swift-940-12H1-line-13" n="13">Will make a horse go, tho' he be not fat.</l>
+            <l xml:id="swift-940-12H1-line-14" n="14"><lb/>The dullest of beasts and of birds in the air,</l>
+            <l xml:id="swift-940-12H1-line-15" n="15">Is that by which all <hi rend="italics">irishmen</hi> swear.</l>
+            <l xml:id="swift-940-12H1-line-16" n="16"><lb/>The dullest beast and fam'd college for <hi rend="italics">Teagues</hi>,</l>
+            <l xml:id="swift-940-12H1-line-17" n="17">Is a person very unfit for intrigues.</l>
+            <l xml:id="swift-940-12H1-line-18" n="18"><lb/>The dullest beast and a cobler's tool, 3}</l>
+            <l xml:id="swift-940-12H1-line-19" n="19">With a boy that is only fit for school,</l>
+            <l xml:id="swift-940-12H1-line-20" n="20">In summer is very pleasant and cool.</l>
+            <l xml:id="swift-940-12H1-line-21" n="21"><lb/>The dullest beast, and that which you kiss,</l>
+            <l xml:id="swift-940-12H1-line-22" n="22">May break a limb of master or miss.</l>
+            <l xml:id="swift-940-12H1-line-23" n="23"><lb/>Of serpent-kind, and what at distance kills,</l>
+            <l xml:id="swift-940-12H1-line-24" n="24">Poor mistress <hi rend="italics">Dingley</hi> oft hath felt its bills.</l>
+            <l xml:id="swift-940-12H1-line-25" n="25"><lb/>The dullest beast, and eggs unsound,</l>
+            <l xml:id="swift-940-12H1-line-26" n="26">Without it I rather would walk on the ground.</l>
+            <l xml:id="swift-940-12H1-line-27" n="27"><lb/>The dullest beast and what covers a house,</l>
+            <l xml:id="swift-940-12H1-line-28" n="28">Without it a writer is not worth a louse.</l>
+            <l xml:id="swift-940-12H1-line-29" n="29"><lb/>The dullest beast, and scandalous vermin,</l>
+            <l xml:id="swift-940-12H1-line-30" n="30">Of roast or boil'd, to the hungry is charming.</l>
+            <l xml:id="swift-940-12H1-line-31" n="31"><lb/>The dullest beast, and what's cover'd with crust,</l>
+            <l xml:id="swift-940-12H1-line-32" n="32">There's nobody but a fool that would trust.</l>
+            <l xml:id="swift-940-12H1-line-33" n="33"><lb/>The dullest beast mending highways,</l>
+            <l xml:id="swift-940-12H1-line-34" n="34">Is to a horse an evil disease.</l>
+            <l xml:id="swift-940-12H1-line-35" n="35"><lb/>The dullest beast and a hole in the ground,</l>
+            <l xml:id="swift-940-12H1-line-36" n="36">Will dress a dinner worth five pound.</l>
+            <l xml:id="swift-940-12H1-line-37" n="37"><lb/>The dullest beast, and what doctors pretend,</l>
+            <l xml:id="swift-940-12H1-line-38" n="38">The cook-maid often has by the end.</l>
+            <l xml:id="swift-940-12H1-line-39" n="39"><lb/>The dullest beast and fish for lent</l>
+            <l xml:id="swift-940-12H1-line-40" n="40">May give you a blow you'll for ever repent.</l>
+            <l xml:id="swift-940-12H1-line-41" n="41"><lb/>The dullest beast and a shameful jeer,</l>
+            <l xml:id="swift-940-12H1-line-42" n="42">Without it a lady should never appear.</l>
+            <l xml:id="swift-940-12H1-line-43" n="43">om.</l>
+            <l xml:id="swift-940-12H1-line-44" n="44">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

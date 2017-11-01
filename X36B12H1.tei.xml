@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-X36B12H1-title-1">LETTER XII<ref target="#spp-X36B12H1-footnote-title-1">1</ref><note n="1" xml:id="spp-X36B12H1-footnote-title-1" place="foot">This seems to be written from <hi rend="italics">Quilca</hi></note>.<lb/>  <hi rend="italics">Dr</hi>. S<hi rend="small-caps">WIFT</hi> <hi rend="italics">to Dr</hi>. S<hi rend="small-caps">HERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 8OC13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-X36B12H1-footnote-title-1 #spp-X36B12H1-title-1"/>
+        </linkGrp>
+        <div n="X36B12H1">
+          <head type="note" n="1" xml:id="spp-X36B12H1-headnote-1">
+            <lg n="1" xml:id="spp-X36B12H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X36B12H1-headnote-1-line-group-1-line-1">
+                <note rend="flush right"><hi rend="italics">Jan</hi>. 25, 1725.</note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X36B12H1-headnote-2">
+            <lg n="1" xml:id="spp-X36B12H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X36B12H1-headnote-2-line-group-1-line-1">The plagues of a country life.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X36B12H1-headnote-3">
+            <lg n="1" xml:id="spp-X36B12H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X36B12H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-X36B12H1-line-1" n="1"><hi rend="italics">A companion with news,</hi></l><l xml:id="swift-X36B12H1-line-2" n="2">A great want of shoes;</l><l xml:id="swift-X36B12H1-line-3" n="3">Eat lean meat, or chuse;</l><l xml:id="swift-X36B12H1-line-4" n="4">A church without pews.</l><l xml:id="swift-X36B12H1-line-5" n="5">Our horses astray,</l><l xml:id="swift-X36B12H1-line-6" n="6">No straw, oats or hay;</l><l xml:id="swift-X36B12H1-line-7" n="7">No straw, oats or hay;</l>December<hi rend="italics"> in </hi>May<hi rend="italics">,</hi><l xml:id="swift-X36B12H1-line-8" n="8">Our boys run away,</l><l xml:id="swift-X36B12H1-line-9" n="9">All servants at play,</l><l xml:id="swift-X36B12H1-line-10" n="10">All servants at play,</l>Molly<hi rend="italics"> sends for the letter</hi>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

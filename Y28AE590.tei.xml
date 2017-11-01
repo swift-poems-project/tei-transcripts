@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN Excellent New Song,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 17JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y28AE590">
+          <head type="note" n="1" xml:id="spp-Y28AE590-headnote-1">
+            <lg n="1" xml:id="spp-Y28AE590-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28AE590-headnote-1-line-group-1-line-1">To a good Old Tune.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y28AE590-headnote-2">
+            <lg n="1" xml:id="spp-Y28AE590-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28AE590-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y28AE590-headnote-3">
+            <lg n="1" xml:id="spp-Y28AE590-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28AE590-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y28AE590-line-1" n="1"><hi rend="display-initial">I</hi> Synge of a SERMON a Sermon of Worth,</l>
+            <l xml:id="swift-Y28AE590-line-2" n="2">Which Newly was Printed, and newly come forth;</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-3" n="3">||A Sermon of late</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-4" n="4">||Which Rais'd a Debate,</l>
+            <l xml:id="swift-Y28AE590-line-5" n="5">And many Opinions, of Church and of State.</l>
+            <l xml:id="swift-Y28AE590-line-6" n="6">It was made by a Priest of six Foot and more,</l>
+            <l xml:id="swift-Y28AE590-line-7" n="7">But the like of it, scarce has been heard of before.</l>
+            <l xml:id="swift-Y28AE590-line-8" n="8"><lb/>Most are at a loss to find out his true meaning,</l>
+            <l xml:id="swift-Y28AE590-line-9" n="9">Whilst others of some dark Design are complaining.</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-10" n="10">|Some think He's for Martin,</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-11" n="11">|Some for Jack his Heart in,</l>
+            <l xml:id="swift-Y28AE590-line-12" n="12">But most do agree He's for Peter, for certain:</l>
+            <l xml:id="swift-Y28AE590-line-13" n="13">O S──ge who won't think thou wert Bread at St. Germains,</l>
+            <l xml:id="swift-Y28AE590-line-14" n="14">Who Reads what Opinions you've Broach'd in your Sermons.</l>
+            <l xml:id="swift-Y28AE590-line-15" n="15"><lb/>Some say it is new, some say what is stranger;</l>
+            <l xml:id="swift-Y28AE590-line-16" n="16">That all you have said is taken from Bangor:</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-17" n="17">||Then looks it not odly</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-18" n="18">||T'Extract from Ben Hoadly</l>
+            <l xml:id="swift-Y28AE590-line-19" n="19">A Scheme that seems Popish to all that are Godly.</l>
+            <l xml:id="swift-Y28AE590-line-20" n="20">O S──────nge thou had'st better been hang'd in a Rope,</l>
+            <l xml:id="swift-Y28AE590-line-21" n="21">Than thus to turn Stickler for Rome and the Pope.</l>
+            <l xml:id="swift-Y28AE590-line-22" n="22"><lb/>Now who will not say you are for the Pretender,</l>
+            <l xml:id="swift-Y28AE590-line-23" n="23">When yo' oppose the true Faith and the Faith's true Defender!</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-24" n="24">||For you open a Door</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-25" n="25">||For Babylon's Whore,</l>
+            <l xml:id="swift-Y28AE590-line-26" n="26">And for all Sects that are in the World, and much more:</l>
+            <l xml:id="swift-Y28AE590-line-27" n="27">O S──────nge thou had'st better have dy'd in thy Youth,</l>
+            <l xml:id="swift-Y28AE590-line-28" n="28">Than thus to be plagu'd for opposing the Truth.</l>
+            <l xml:id="swift-Y28AE590-line-29" n="29"><lb/>This Sermon was lately attack'd in a Letter,</l>
+            <l xml:id="swift-Y28AE590-line-30" n="30">Which some People think might have been somewhat better;</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-31" n="31">||Be that as it will,</l>
+            <l rend="indent(3)" xml:id="swift-Y28AE590-line-32" n="32">||He got a damn'd Pill,</l>
+            <l xml:id="swift-Y28AE590-line-33" n="33">Which in vain he since thought to expell by his Quill:</l>
+            <l xml:id="swift-Y28AE590-line-34" n="34">O S────nge thou had'st better by far held thy Peace,</l>
+            <l xml:id="swift-Y28AE590-line-35" n="35">Than thus to be slav'd by the Vicar of Naas.</l>
+            <l xml:id="swift-Y28AE590-line-36" n="36"><lb/>Beware of this Vicar and dread his Attack,</l>
+            <l xml:id="swift-Y28AE590-line-37" n="37">For surely he'll lay you, at length on your Back;</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-38" n="38">|For he shews you've perplext</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-39" n="39">|And murther'd your Text,</l>
+            <l xml:id="swift-Y28AE590-line-40" n="40">And quoted── Of which you'll hear more in his next.</l>
+            <l xml:id="swift-Y28AE590-line-41" n="41">O S──────ge thou had'st better a Blanket been tost in,</l>
+            <l xml:id="swift-Y28AE590-line-42" n="42">Than thus to be pelted for quoting St. Austin.</l>
+            <l xml:id="swift-Y28AE590-line-43" n="43"><lb/>This truth for Experience is always allow'd,</l>
+            <l xml:id="swift-Y28AE590-line-44" n="44">That Men of low Parts may pass in a Crowd,</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-45" n="45">|Without vain prenence,</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-46" n="46">|To Superior Sense,</l>
+            <l xml:id="swift-Y28AE590-line-47" n="47">Or more than kind Nature does wisely dispense;</l>
+            <l xml:id="swift-Y28AE590-line-48" n="48">But when they pretend to soar up 'bove their Pitch,</l>
+            <l xml:id="swift-Y28AE590-line-49" n="49">It is twenty to one, but they fall in a Ditch.</l>
+            <l xml:id="swift-Y28AE590-line-50" n="50"><lb/>How-e'er He's abus'd here, he's sure that in Britain,</l>
+            <l xml:id="swift-Y28AE590-line-51" n="51">He'll meet with Applause both from Whiston &amp; Ditton.</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-52" n="52">|So S──────nge be not sh──t on</l>
+            <l rend="indent(2)" xml:id="swift-Y28AE590-line-53" n="53">|By Whiston or Ditton,</l>
+            <l xml:id="swift-Y28AE590-line-54" n="54">He cares not what Irish Folk say, of what's Written;</l>
+            <l xml:id="swift-Y28AE590-line-55" n="55">Synge, Ditton and Whiston: Synge Whiston &amp; Ditton:</l>
+            <l xml:id="swift-Y28AE590-line-56" n="56">Synge, shit on and pist on, Synge pist on and shit on.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

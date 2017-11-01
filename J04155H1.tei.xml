@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 24MY16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J04155H1">
+          <head type="note" n="1" xml:id="spp-J04155H1-headnote-1">
+            <lg n="1" xml:id="spp-J04155H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J04155H1-headnote-1-line-group-1-line-1">Well; and so who do you think this t'other letter was from? Well; and so I'll tell you, it was from little <hi rend="italics">MD, N</hi>. 23, 23, 23, 23.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J04155H1-headnote-2">
+            <lg n="1" xml:id="spp-J04155H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J04155H1-headnote-2-line-group-1-line-1">but I just looked again to satisfy you.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J04155H1-headnote-3">
+            <lg n="1" xml:id="spp-J04155H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J04155H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J04155H1-line-1" n="1">I tell you it is no more,</l>
+            <l xml:id="swift-J04155H1-line-2" n="2">I have told you so before<note place="foot">·Nothing was ever more in <hi rend="italics">Swift</hi>'s style and manner of conversation, than these repetitions and the words following.</note>:</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

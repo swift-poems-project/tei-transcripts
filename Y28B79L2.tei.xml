@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A YOUNG LADY'S COMPLAINT,<lb/>  FOR<lb/>  The Stay of the DEAN in ENGLAND. 1726.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 9JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y28B79L2">
+          <head type="note" n="1" xml:id="spp-Y28B79L2-headnote-1">
+            <lg n="1" xml:id="spp-Y28B79L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28B79L2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y28B79L2-headnote-2">
+            <lg n="1" xml:id="spp-Y28B79L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28B79L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y28B79L2-headnote-3">
+            <lg n="1" xml:id="spp-Y28B79L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y28B79L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y28B79L2-line-1" n="1"><hi rend="display-initial">B</hi>LOW, ye Zephyrs, gentle gales;</l>
+            <l xml:id="swift-Y28B79L2-line-2" n="2">Gently fill the swelling sails.</l>
+            <l xml:id="swift-Y28B79L2-line-3" n="3">Neptune, with thy trident long,</l>
+            <l xml:id="swift-Y28B79L2-line-4" n="4">Trident three-fork'd, trident strong;</l>
+            <l xml:id="swift-Y28B79L2-line-5" n="5">And ye Nereids fair and gay,</l>
+            <l xml:id="swift-Y28B79L2-line-6" n="6">Fairer than the rose in May,</l>
+            <l xml:id="swift-Y28B79L2-line-7" n="7">Nereids living in deep caves,</l>
+            <l xml:id="swift-Y28B79L2-line-8" n="8">Gently wash'd with gentle waves;</l>
+            <l xml:id="swift-Y28B79L2-line-9" n="9">Nereids, Neptune, lull asleep</l>
+            <l xml:id="swift-Y28B79L2-line-10" n="10">Ruffling storms, and ruffled deep;</l>
+            <l xml:id="swift-Y28B79L2-line-11" n="11">All around, in pompous state,</l>
+            <l xml:id="swift-Y28B79L2-line-12" n="12">On this richer Argo wait:</l>
+            <l xml:id="swift-Y28B79L2-line-13" n="13">Argo, bring my Golden Fleece;</l>
+            <l xml:id="swift-Y28B79L2-line-14" n="14">Argo, bring him to his Greece.</l>
+            <l xml:id="swift-Y28B79L2-line-15" n="15">Will Cadenus longer stay?</l>
+            <l xml:id="swift-Y28B79L2-line-16" n="16">Come, Cadenus, come away;</l>
+            <l xml:id="swift-Y28B79L2-line-17" n="17">Come with all the haste of love,</l>
+            <l xml:id="swift-Y28B79L2-line-18" n="18">Come unto thy turtle-dove.</l>
+            <l xml:id="swift-Y28B79L2-line-19" n="19">The ripen'd cherry on the tree</l>
+            <l xml:id="swift-Y28B79L2-line-20" n="20">Hangs, and only hangs for thee;</l>
+            <l xml:id="swift-Y28B79L2-line-21" n="21">Luscious peaches, mellow pears,</l>
+            <l xml:id="swift-Y28B79L2-line-22" n="22">Ceres with her yellow ears,</l>
+            <l xml:id="swift-Y28B79L2-line-23" n="23">And the grape, both red and white,</l>
+            <l xml:id="swift-Y28B79L2-line-24" n="24">Grape inspiring just delight;</l>
+            <l xml:id="swift-Y28B79L2-line-25" n="25">All are ripe, and courting sue</l>
+            <l xml:id="swift-Y28B79L2-line-26" n="26">To be pluck'd and press'd by you.</l>
+            <l xml:id="swift-Y28B79L2-line-27" n="27">Pinks have lost their blooming red,</l>
+            <l xml:id="swift-Y28B79L2-line-28" n="28">Mourning hang their dropping head,</l>
+            <l xml:id="swift-Y28B79L2-line-29" n="29">Every flower languid seems,</l>
+            <l xml:id="swift-Y28B79L2-line-30" n="30">Wants the colour of thy beams,</l>
+            <l xml:id="swift-Y28B79L2-line-31" n="31">Beams of wondrous force and power,</l>
+            <l xml:id="swift-Y28B79L2-line-32" n="32">Beams reviving every flower.</l>
+            <l xml:id="swift-Y28B79L2-line-33" n="33">Come, Cadenus, bless once more,</l>
+            <l xml:id="swift-Y28B79L2-line-34" n="34">Bless again thy native shore;</l>
+            <l xml:id="swift-Y28B79L2-line-35" n="35">Bless again this drooping isle,</l>
+            <l xml:id="swift-Y28B79L2-line-36" n="36">Make its weeping beauties smile,</l>
+            <l xml:id="swift-Y28B79L2-line-37" n="37">Beauties that thine absence mourn,</l>
+            <l xml:id="swift-Y28B79L2-line-38" n="38">Beauties wishing thy return.</l>
+            <l xml:id="swift-Y28B79L2-line-39" n="39">Come, Cadenus, come with haste,</l>
+            <l xml:id="swift-Y28B79L2-line-40" n="40">Come before the winter's blast;</l>
+            <l xml:id="swift-Y28B79L2-line-41" n="41">Swifter than the lightning fly;</l>
+            <l xml:id="swift-Y28B79L2-line-42" n="42">Or I, like Vanessa, die.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

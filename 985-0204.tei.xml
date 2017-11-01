@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">MARY</hi> the Cook-Maid's L<hi rend="small-caps">ETTER</hi><lb/>  to Dr. <hi rend="italics">SHERIDAN</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 18JE02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="985-0204">
+          <head type="note" n="1" xml:id="spp-985-0204-headnote-1">
+            <lg n="1" xml:id="spp-985-0204-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-985-0204-headnote-1-line-group-1-line-1">Written in the Year 1723.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-985-0204-headnote-2">
+            <lg n="1" xml:id="spp-985-0204-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-985-0204-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-985-0204-headnote-3">
+            <lg n="1" xml:id="spp-985-0204-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-985-0204-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-985-0204-line-1" n="1"><hi rend="display-initial">W</hi>ELL; if ever I saw such another Man since my Mother bound·up my Head.</l>
+            <l xml:id="swift-985-0204-line-2" n="2">You a Gentleman! marry come up, I wonder where you were bred.</l>
+            <l xml:id="swift-985-0204-line-3" n="3">I am sure such Words does not become a Man of your Cloth.</l>
+            <l xml:id="swift-985-0204-line-4" n="4">I would not give such Language to a Dog, Faith and Troth.</l>
+            <l xml:id="swift-985-0204-line-5" n="5">Yes; you call'd my Master a Knave: Fie, Mr. <hi rend="italics">Sheridan</hi>, 'tis a Shame</l>
+            <l xml:id="swift-985-0204-line-6" n="6">For a Parson, who should know better Things, to come out with such a Name.</l>
+            <l xml:id="swift-985-0204-line-7" n="7">Knave in your Teeth! Mr. <hi rend="italics">Sheridan</hi>, 'tis both a Shame and Sin,</l>
+            <l xml:id="swift-985-0204-line-8" n="8">And the Dean, my Master, is an honester Man than you and all your Kin:</l>
+            <l xml:id="swift-985-0204-line-9" n="9">He has more Goodness in his little Finger, than you have in your whole Body,</l>
+            <l xml:id="swift-985-0204-line-10" n="10">My Master is a personable Man, and not a spindle-shank'd Hoddy-doddy.</l>
+            <l xml:id="swift-985-0204-line-11" n="11">And now whereby I find you would fain make an Excuse,</l>
+            <l xml:id="swift-985-0204-line-12" n="12">Because my Master one day in Anger call'd you Goose,</l>
+            <l xml:id="swift-985-0204-line-13" n="13">Which, and I am sure, I have been his Servant four Years since <hi rend="italics">October</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-985-0204-line-14" n="14">And he never call'd me worse than <hi rend="italics">Sweet-heart</hi>, drunk or sober:</l>
+            <l xml:id="swift-985-0204-line-15" n="15">Not that I know his Reverence was ever concern'd to my Knowledge,</l>
+            <l xml:id="swift-985-0204-line-16" n="16">Tho' you and your Com-rogues keep him out so late in your wicked College.</l>
+            <l rend="indent(1)" xml:id="swift-985-0204-line-17" n="17"><lb/>You say you will eat Grass on his Grave; a Christian eat Grass!</l>
+            <l xml:id="swift-985-0204-line-18" n="18">Whereby you now confess yourself to be a Goose or an Ass.</l>
+            <l xml:id="swift-985-0204-line-19" n="19">But that's as much to say, that my Master should die before ye;</l>
+            <l xml:id="swift-985-0204-line-20" n="20">Well, well, that's as God pleases, and I don't believe that's a true Story;</l>
+            <l xml:id="swift-985-0204-line-21" n="21">om.</l>
+            <l xml:id="swift-985-0204-line-22" n="22">om.</l>
+            <l xml:id="swift-985-0204-line-23" n="23">And so say I told you so, and you may go tell my Master; what care I?</l>
+            <l xml:id="swift-985-0204-line-24" n="24">And I don't care who knows it, 'tis all one to <hi rend="italics">Mary</hi>.</l>
+            <l xml:id="swift-985-0204-line-25" n="25">Every Body knows, that I love to tell Truth, and shame the Devil;</l>
+            <l rend="indent(1)" xml:id="swift-985-0204-line-26" n="26">I am but a poor Servant, but I think Gentle-folks should be civil.</l>
+            <l xml:id="swift-985-0204-line-27" n="27">Besides, you found Fault with our Vittles one Day that you was here,</l>
+            <l xml:id="swift-985-0204-line-28" n="28">I remember it was upon a <hi rend="italics">Tuesday</hi>, of all Days in the Year.</l>
+            <l xml:id="swift-985-0204-line-29" n="29">And <hi rend="italics">Saunders</hi> the Man, says you are always jesting and mocking,</l>
+            <l xml:id="swift-985-0204-line-30" n="30"><hi rend="italics">Mary</hi>, said he, (one Day as I was mending my Master's Stocking,)</l>
+            <l xml:id="swift-985-0204-line-31" n="31">My Master is so fond of that Minister that keeps the School;</l>
+            <l xml:id="swift-985-0204-line-32" n="32">I thought my Master a wise Man, but that Man makes him a Fool.</l>
+            <l xml:id="swift-985-0204-line-33" n="33"><hi rend="italics">Saunders</hi>, said I, I would rather than a Quart of Ale,</l>
+            <l xml:id="swift-985-0204-line-34" n="34">He would come into our Kitchen, and I would pin a Dish-clout to his Tail.</l>
+            <l xml:id="swift-985-0204-line-35" n="35">And now I must go, and get <hi rend="italics">Saunders</hi> to direct this Letter,</l>
+            <l xml:id="swift-985-0204-line-36" n="36">For I write but a sad Scrawl, but my Sister <hi rend="italics">Margret</hi> she writes better.</l>
+            <l xml:id="swift-985-0204-line-37" n="37">Well, but I must run, and make the Bed, before my Master comes from Pray'rs,</l>
+            <l xml:id="swift-985-0204-line-38" n="38">And see now, it strikes Ten, and I hear him coming up Stairs:</l>
+            <l xml:id="swift-985-0204-line-39" n="39">Whereof I could say more to your Verses, if I could write written Hand,</l>
+            <l rend="indent(1)" xml:id="swift-985-0204-line-40" n="40">And so I remain, in a civil Way your Servant to command,  <hi rend="italics">MARY</hi>.</l>
+            <l xml:id="swift-985-0204-line-41" n="41">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

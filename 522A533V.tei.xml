@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2OC08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="522A533V">
+          <head type="note" n="1" xml:id="spp-522A533V-headnote-1">
+            <lg n="1" xml:id="spp-522A533V-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522A533V-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-522A533V-headnote-2">
+            <lg n="1" xml:id="spp-522A533V-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522A533V-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-522A533V-headnote-3">
+            <lg n="1" xml:id="spp-522A533V-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522A533V-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-522A533V-line-1" n="1">Grave D. of S<hi rend="superscript">t</hi> P── hw comes it to pass</l>
+            <l xml:id="swift-522A533V-line-2" n="2">That y who kow musick no more than an ass</l>
+            <l xml:id="swift-522A533V-line-3" n="3">That you was found writing of Drapiers</l>
+            <l xml:id="swift-522A533V-line-4" n="4">Should lend your cathedrall to \b·<hi rend="italics">over</hi>·p\lowers and scrapers</l>
+            <l xml:id="swift-522A533V-line-5" n="5">To \<hi rend="italics">del</hi>·keep\ act such an opera once in a year</l>
+            <l xml:id="swift-522A533V-line-6" n="6">\<hi rend="italics">del</hi>·I\D ··· offensive to every true Protestant ear</l>
+            <l xml:id="swift-522A533V-line-7" n="7">With trumpets and fiddles and organs and singing</l>
+            <l xml:id="swift-522A533V-line-8" n="8">Will sure th Pretend<hi rend="superscript">r</hi> and Popery bring in.</l>
+            <l xml:id="swift-522A533V-line-9" n="9">No Protestant Prelate, His L<hi rend="superscript">d</hi> ship or Grace</l>
+            <l xml:id="swift-522A533V-line-10" n="10">Durst then show his right or most rev<hi rend="superscript">nd</hi> face</l>
+            <l xml:id="swift-522A533V-line-11" n="11">How would it pollute their Crosiers and Rochets</l>
+            <l xml:id="swift-522A533V-line-12" n="12">To listen to minnims and quavers and Crochets</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Sheridan </hi>to<hi rend="italics"> Dan Jackson</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X07-WILH">
+          <head type="note" n="1" xml:id="spp-X07-WILH-headnote-1">
+            <lg n="1" xml:id="spp-X07-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X07-WILH-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X07-WILH-headnote-2">
+            <lg n="1" xml:id="spp-X07-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X07-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X07-WILH-headnote-3">
+            <lg n="1" xml:id="spp-X07-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X07-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X07-WILH-line-1" n="1"><hi rend="display-initial">D</hi>Ear <hi rend="italics">Dan</hi>, it does amaze me quite,</l>
+            <l xml:id="swift-X07-WILH-line-2" n="2">To see you Write, and Write, and Write,</l>
+            <l xml:id="swift-X07-WILH-line-3" n="3">But how the Devil you can come by't,</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-4" n="4">||||'s a Wonder.</l>
+            <l xml:id="swift-X07-WILH-line-5" n="5"><lb/>Tho' 'tis but <hi rend="italics">Grubstreet</hi>, yet that same</l>
+            <l xml:id="swift-X07-WILH-line-6" n="6">I think so much above thy Aim,</l>
+            <l xml:id="swift-X07-WILH-line-7" n="7">As the Sublime, and shining Flame</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-8" n="8">||||Of Thunder</l>
+            <l xml:id="swift-X07-WILH-line-9" n="9"><lb/>Does far surpass the sooty Blaze</l>
+            <l xml:id="swift-X07-WILH-line-10" n="10">Of Slut dispensing Kitchen Grease,</l>
+            <l xml:id="swift-X07-WILH-line-11" n="11">And if this be the present Case</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-12" n="12">||||Consider</l>
+            <l xml:id="swift-X07-WILH-line-13" n="13"><lb/>How much your Ribaldry provokes,</l>
+            <l xml:id="swift-X07-WILH-line-14" n="14">With fulsome Lines, and poor dull Jokes.</l>
+            <l xml:id="swift-X07-WILH-line-15" n="15">There's no Return but Cudgel-Strokes,</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-16" n="16">||||On Hide Sir,</l>
+            <l xml:id="swift-X07-WILH-line-17" n="17"><lb/>Can I in Honour make to you.</l>
+            <l xml:id="swift-X07-WILH-line-18" n="18">For if you'd finely run me through,</l>
+            <l xml:id="swift-X07-WILH-line-19" n="19">Perhaps I'd take a Rapier too,</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-20" n="20">||||And fight you.</l>
+            <l xml:id="swift-X07-WILH-line-21" n="21"><lb/>Thy Blood might then my wrath asswage,</l>
+            <l xml:id="swift-X07-WILH-line-22" n="22">When Honour call'd me to engage,</l>
+            <l xml:id="swift-X07-WILH-line-23" n="23">But you're so far below my Rage,</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-24" n="24">||||I slight you.</l>
+            <l xml:id="swift-X07-WILH-line-25" n="25"><lb/>From Barking Cur, the Mastiff flies,</l>
+            <l xml:id="swift-X07-WILH-line-26" n="26">But when behind he bites his Thighs,</l>
+            <l xml:id="swift-X07-WILH-line-27" n="27">He turns and pisses out his Eyes,</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-28" n="28">||||Disdaining</l>
+            <l xml:id="swift-X07-WILH-line-29" n="29"><lb/>So small and pitiful a Foe,</l>
+            <l xml:id="swift-X07-WILH-line-30" n="30">From noisy Boasting brought so low,</l>
+            <l xml:id="swift-X07-WILH-line-31" n="31">The Picture's drawn, I'm sure, you know</l>
+            <l rend="indent(5)" xml:id="swift-X07-WILH-line-32" n="32">||||My meaning.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

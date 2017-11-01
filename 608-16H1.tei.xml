@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES<lb/>  ON<lb/>  I KNOW NOT WHAT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NLS 4FE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="608-16H1">
+          <head type="note" n="1" xml:id="spp-608-16H1-headnote-1">
+            <lg n="1" xml:id="spp-608-16H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-608-16H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-608-16H1-headnote-2">
+            <lg n="1" xml:id="spp-608-16H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-608-16H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-608-16H1-headnote-3">
+            <lg n="1" xml:id="spp-608-16H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-608-16H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-608-16H1-line-1" n="1"><hi rend="display-initial">M</hi>Y latest tribute here I send,</l>
+            <l xml:id="swift-608-16H1-line-2" n="2">With this let your collection end.</l>
+            <l xml:id="swift-608-16H1-line-3" n="3">Thus I consign you down to fame,</l>
+            <l xml:id="swift-608-16H1-line-4" n="4">A character to praise or blame:</l>
+            <l xml:id="swift-608-16H1-line-5" n="5">And, if the whole may pass for true,</l>
+            <l xml:id="swift-608-16H1-line-6" n="6">Contented rest, you have your due.</l>
+            <l xml:id="swift-608-16H1-line-7" n="7">Give future times the satisfaction,</l>
+            <l xml:id="swift-608-16H1-line-8" n="8">To leave one handle for detraction.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

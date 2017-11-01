@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A short Way to a Bishoprick.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 30DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z707810P">
+          <head type="note" n="1" xml:id="spp-Z707810P-headnote-1">
+            <lg n="1" xml:id="spp-Z707810P-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z707810P-headnote-1-line-group-1-line-1">English'd thus.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z707810P-headnote-2">
+            <lg n="1" xml:id="spp-Z707810P-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z707810P-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z707810P-headnote-3">
+            <lg n="1" xml:id="spp-Z707810P-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z707810P-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z707810P-line-1" n="1">Unto Prelatick Order you'd ascend</l>
+            <l xml:id="swift-Z707810P-line-2" n="2">Come on, J'll shew you how to do't, My Friend,</l>
+            <l xml:id="swift-Z707810P-line-3" n="3">Do not in Study waste the precious Day,</l>
+            <l xml:id="swift-Z707810P-line-4" n="4">To <hi rend="large-writing">necessary</hi> Knowledge short's the Way,</l>
+            <l xml:id="swift-Z707810P-line-5" n="5">Turn over a few Books, and learn to prate;</l>
+            <l xml:id="swift-Z707810P-line-6" n="6">Leave others solidly Things to debate:</l>
+            <l xml:id="swift-Z707810P-line-7" n="7">Load not with serious Piety your Breast;</l>
+            <l xml:id="swift-Z707810P-line-8" n="8">Alas! at <hi rend="large-writing">Court</hi> 'tis nothing but a Jest;</l>
+            <l xml:id="swift-Z707810P-line-9" n="9">Yet let a feigned Gravity take place,</l>
+            <l xml:id="swift-Z707810P-line-10" n="10">And Complaisance still dwell upon your face,</l>
+            <l xml:id="swift-Z707810P-line-11" n="11">Within your parish never should you stay, 3}</l>
+            <l xml:id="swift-Z707810P-line-12" n="12">Nor to your People Preach or with them Pray,</l>
+            <l xml:id="swift-Z707810P-line-13" n="13">Your <hi rend="large-writing">Constant Business</hi> lyes another way.</l>
+            <l xml:id="swift-Z707810P-line-14" n="14">To please great Men must your chief Study be,</l>
+            <l xml:id="swift-Z707810P-line-15" n="15">And win the Ladies too with────── Pleasantry.</l>
+            <l xml:id="swift-Z707810P-line-16" n="16">Follow these Rules with Care, if you be wise,</l>
+            <l xml:id="swift-Z707810P-line-17" n="17">Experience shews 'tis the best way to rise.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

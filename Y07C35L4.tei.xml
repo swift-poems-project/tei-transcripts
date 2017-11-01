@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On a little House, built by a poetical Gentleman</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 16AP98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y07C35L4">
+          <head type="note" n="1" xml:id="spp-Y07C35L4-headnote-1">
+            <lg n="1" xml:id="spp-Y07C35L4-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y07C35L4-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y07C35L4-headnote-2">
+            <lg n="1" xml:id="spp-Y07C35L4-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y07C35L4-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y07C35L4-headnote-3">
+            <lg n="1" xml:id="spp-Y07C35L4-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y07C35L4-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y07C35L4-line-1" n="1"><hi rend="display-initial">A</hi> Bard, grown desirous of saving his pelf,</l>
+            <l xml:id="swift-Y07C35L4-line-2" n="2">Built a house he was sure would hold none but himself:</l>
+            <l xml:id="swift-Y07C35L4-line-3" n="3">This enrag'd god <hi rend="italics">Apollo</hi>, who <hi rend="italics">Mercury</hi> sent,</l>
+            <l xml:id="swift-Y07C35L4-line-4" n="4">And bid him go ask, what his votary meant.</l>
+            <l xml:id="swift-Y07C35L4-line-5" n="5">Some foe to my empire has been his adviser;</l>
+            <l xml:id="swift-Y07C35L4-line-6" n="6">'Tis of dreadful portent, when a poet turns miser:</l>
+            <l xml:id="swift-Y07C35L4-line-7" n="7">Tell him, <hi rend="italics">Hermes</hi>, from me, tell that subject of mine,</l>
+            <l xml:id="swift-Y07C35L4-line-8" n="8">I have sworn by the <hi rend="italics">Styx</hi> to defeat his design;</l>
+            <l xml:id="swift-Y07C35L4-line-9" n="9">For, where-ever he comes, the muses shall reign;</l>
+            <l xml:id="swift-Y07C35L4-line-10" n="10">And the muses, he knows, have a numerous train.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

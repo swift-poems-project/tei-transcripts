@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The R<hi rend="small-caps">UN</hi> upon the B<hi rend="small-caps">ANKERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 26DE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="239-0253">
+          <head type="note" n="1" xml:id="spp-239-0253-headnote-1">
+            <lg n="1" xml:id="spp-239-0253-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-0253-headnote-1-line-group-1-line-1">Written in the Year 1720.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-239-0253-headnote-2">
+            <lg n="1" xml:id="spp-239-0253-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-0253-headnote-2-line-group-1-line-1">This Poem was printed some Years ago, and it should seem by the late Failure of two Bankers to be somewhat prophetick, it was therefore thought fit to be reprinted.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-239-0253-headnote-3">
+            <lg n="1" xml:id="spp-239-0253-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-0253-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-239-0253-line-1" n="1">I.<lb/><hi rend="display-initial">T</hi>HE bold Encroachers on the Deep</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-2" n="2">Gain, by Degrees, huge Tracts of Land,</l>
+            <l xml:id="swift-239-0253-line-3" n="3">Till <hi rend="italics">Neptune</hi>, with one gen'ral Sweep,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-4" n="4">Turns all again to barren Strand.</l>
+            <l rend="center" xml:id="swift-239-0253-line-5" n="5">II.<lb/>The Multitude's capricious Pranks</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-6" n="6">Are said to represent the Seas;</l>
+            <l xml:id="swift-239-0253-line-7" n="7"><hi rend="italics">Breaking</hi> the <hi rend="italics">Bankers</hi> and the <hi rend="italics">Banks</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-8" n="8">Resume <hi rend="italics">their own</hi> whene'er they please.</l>
+            <l rend="center" xml:id="swift-239-0253-line-9" n="9">III.<lb/>Money, the <hi rend="italics">Life-blood</hi> of the Nation,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-10" n="10">Corrupts and stagnates in the Veins,</l>
+            <l xml:id="swift-239-0253-line-11" n="11">Unless a proper <hi rend="italics">Circulation</hi></l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-12" n="12">Its Motion and its Heat maintains.</l>
+            <l rend="center" xml:id="swift-239-0253-line-13" n="13">IV.<lb/>Because 'tis <hi rend="italics">lordly</hi> not to pay,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-14" n="14"><hi rend="italics">Quakers</hi> and <hi rend="italics">Aldermen</hi>, in State,</l>
+            <l xml:id="swift-239-0253-line-15" n="15">Like <hi rend="italics">Peers</hi> have <hi rend="italics">Levees</hi> ev'ry Day</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-16" n="16">Of Duns attending at their Gate.</l>
+            <l rend="center" xml:id="swift-239-0253-line-17" n="17">V.<lb/>We want our Money on the Nail;</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-18" n="18">The Banker's ruin'd if he pays;</l>
+            <l xml:id="swift-239-0253-line-19" n="19">They seem to act an ancient Tale,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-20" n="20">The <hi rend="italics">Birds</hi> are met to strip the <hi rend="italics">Jays</hi>.</l>
+            <l rend="center" xml:id="swift-239-0253-line-21" n="21">VI.<lb/>Riches, the wisest Monarch sings,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-22" n="22"><hi rend="italics">Make Pinions for themselves to fly</hi>!</l>
+            <l xml:id="swift-239-0253-line-23" n="23">They fly like Bats, on <hi rend="italics">Parchment</hi> Wings,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-24" n="24">And <hi rend="italics">Geese</hi> their <hi rend="italics">Silver</hi> Plumes supply.</l>
+            <l rend="center" xml:id="swift-239-0253-line-25" n="25">VII.<lb/>No Money left for squand'ring Heirs!</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-26" n="26"><hi rend="italics">Bills</hi> turn the Lenders into Debtors:</l>
+            <l xml:id="swift-239-0253-line-27" n="27">The Wish of <hi rend="italics">Nero</hi> now is theirs,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-28" n="28">That they <hi rend="italics">had never known their Letters</hi>.</l>
+            <l rend="center" xml:id="swift-239-0253-line-29" n="29">VIII.<lb/>Conceive the Works of Midnight Hags,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-30" n="30">Tormenting Fools behind their Backs;</l>
+            <l xml:id="swift-239-0253-line-31" n="31">Thus Bankers o'er their Bills and Bags</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-32" n="32">Sit squeezing <hi rend="italics">Images of Wax</hi>.</l>
+            <l rend="center" xml:id="swift-239-0253-line-33" n="33">IX.<lb/>Conceive the whole Enchantment broke,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-34" n="34">The Witches left in open Air,</l>
+            <l xml:id="swift-239-0253-line-35" n="35">With Pow'r no more than other Folk,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-36" n="36">Expos'd with all their <hi rend="italics">Magick</hi> Ware.</l>
+            <l rend="center" xml:id="swift-239-0253-line-37" n="37">X.<lb/>So pow'rful are a Banker's Bills,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-38" n="38">Where Creditors demand their Due;</l>
+            <l xml:id="swift-239-0253-line-39" n="39">They break up Counter, Doors, and Tills,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-40" n="40">And leave the empty Chests in View.</l>
+            <l rend="center" xml:id="swift-239-0253-line-41" n="41">XI.<lb/>Thus, when an Earthquake lets in Light</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-42" n="42">Upon the God of <hi rend="italics">Gold</hi> and <hi rend="italics">Hell</hi>,</l>
+            <l xml:id="swift-239-0253-line-43" n="43">Unable to endure the Sight,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-44" n="44">He hides within his darkest Cell.</l>
+            <l rend="center" xml:id="swift-239-0253-line-45" n="45">XII.<lb/>As when a Conj'rer takes a Lease</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-46" n="46">From <hi rend="italics">Satan</hi> for a Term of Years,</l>
+            <l xml:id="swift-239-0253-line-47" n="47">The <hi rend="italics">Tenant</hi>'s in a dismal Case,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-48" n="48">Whene'er the <hi rend="italics">bloody Bond</hi> appears.</l>
+            <l rend="center" xml:id="swift-239-0253-line-49" n="49">XIII.<lb/>A <hi rend="italics">baited</hi> Banker thus desponds,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-50" n="50">From his own Hand foresees his Fall;</l>
+            <l xml:id="swift-239-0253-line-51" n="51">They have his <hi rend="italics">Soul</hi> who have his <hi rend="italics">Bonds</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-52" n="52">'Tis like the <hi rend="italics">Writing on the Wall</hi>.</l>
+            <l rend="center" xml:id="swift-239-0253-line-53" n="53">XIV.<lb/>How will the Caitif Wretch be scar'd;</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-54" n="54">When first he finds himself awake</l>
+            <l xml:id="swift-239-0253-line-55" n="55">At the last Trumpet, unprepar'd,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-56" n="56">And all his <hi rend="italics">Grand Account</hi> to make?</l>
+            <l rend="center" xml:id="swift-239-0253-line-57" n="57">XV.<lb/>For in that universal <hi rend="italics">Call</hi></l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-58" n="58">Few Bankers will to Heav'n be Mounters;</l>
+            <l xml:id="swift-239-0253-line-59" n="59">They'll cry, <hi rend="italics">Ye</hi> Shops <hi rend="italics">upon us fall</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-60" n="60">Conceal, and <hi rend="italics">cover us, Ye Counters</hi>.</l>
+            <l rend="center" xml:id="swift-239-0253-line-61" n="61">XVI.<lb/>When <hi rend="italics">Other</hi> Hands the <hi rend="italics">Scales</hi> shall hold,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-62" n="62">And They, in <hi rend="italics">Men and Angels Sight</hi>,</l>
+            <l xml:id="swift-239-0253-line-63" n="63">Produc'd with all their Bills and Gold,</l>
+            <l rend="indent(1)" xml:id="swift-239-0253-line-64" n="64"><hi rend="italics">Weigh'd in the Ballance, and found light</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

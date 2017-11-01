@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A true and faithfull<lb/>  Inventory of the goods belong<lb/>  ing to Doctor Swift Vicar<lb/>  of Laracor uppon lending his<lb/>  House to the Bishop of Meath<lb/>  till his Palace was Rebuilt</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 19JA14"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-612B">
+          <head type="note" n="1" xml:id="spp-X44-612B-headnote-1">
+            <lg n="1" xml:id="spp-X44-612B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-612B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X44-612B-headnote-2">
+            <lg n="1" xml:id="spp-X44-612B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-612B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X44-612B-headnote-3">
+            <lg n="1" xml:id="spp-X44-612B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-612B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X44-612B-line-1" n="1">An oaken broken elbow-chair;</l>
+            <l xml:id="swift-X44-612B-line-2" n="2">A caudle cup with\<hi rend="italics">hole</hi>\ \<hi rend="italics">hole</hi>\ \<hi rend="italics">hole</hi>\ar;</l>
+            <l xml:id="swift-X44-612B-line-3" n="3">A batter'd, shatter'd ash bedsted</l>
+            <l xml:id="swift-X44-612B-line-4" n="4">A box of deal, without a lid;</l>
+            <l xml:id="swift-X44-612B-line-5" n="5">A pair of tongs, but out of joint</l>
+            <l xml:id="swift-X44-612B-line-6" n="6">A back-sword, poker, with\<hi rend="italics">add</hi>·out\ a point;</l>
+            <l xml:id="swift-X44-612B-line-7" n="7">A pot that's crackt<hi rend="superscript">d</hi>, across around;</l>
+            <l xml:id="swift-X44-612B-line-8" n="8">With an old knotted garter bound;</l>
+            <l xml:id="swift-X44-612B-line-9" n="9">An iron lock without a Ke\<hi rend="italics">hole</hi>\</l>
+            <l xml:id="swift-X44-612B-line-10" n="10">A wig with hanging grown quite \<hi rend="italics">hole</hi>\</l>
+            <l xml:id="swift-X44-612B-line-11" n="11">om.</l>
+            <l xml:id="swift-X44-612B-line-12" n="12">om.</l>
+            <l xml:id="swift-X44-612B-line-13" n="13">om.</l>
+            <l xml:id="swift-X44-612B-line-14" n="14">om.</l>
+            <l xml:id="swift-X44-612B-line-15" n="15">A curtain, worn to half a Strip,</l>
+            <l xml:id="swift-X44-612B-line-16" n="16">A pair of bellows, without a pipe;</l>
+            <l xml:id="swift-X44-612B-line-17" n="17">A dish, which might good meat afford once;</l>
+            <l xml:id="swift-X44-612B-line-18" n="18">An Ovid, with an old Concordance;</l>
+            <l xml:id="swift-X44-612B-line-19" n="19">A bottle bottom, wooden platter.</l>
+            <l xml:id="swift-X44-612B-line-20" n="20">One is for meat, and one for water;</l>
+            <l xml:id="swift-X44-612B-line-21" n="21">There likewise is a copper skillet;</l>
+            <l xml:id="swift-X44-612B-line-22" n="22">Which runs as fast out as you fill it;</l>
+            <l xml:id="swift-X44-612B-line-23" n="23">A candlestick snuffer-dish, and saveall,</l>
+            <l xml:id="swift-X44-612B-line-24" n="24">And th\<hi rend="italics">hole</hi>\ \<hi rend="italics">hole</hi>\s Household goods yoou have all;</l>
+            <l xml:id="swift-X44-612B-line-25" n="25">\<hi rend="italics">unreadable·because·of·fold</hi>\ l··d·hip \<hi rend="italics">fold</hi>\ a friend</l>
+            <l xml:id="swift-X44-612B-line-26" n="26">Till you have built I freely lend;</l>
+            <l xml:id="swift-X44-612B-line-27" n="27">They'll serve your lordship for a shift;</l>
+            <l xml:id="swift-X44-612B-line-28" n="28">Why not as well as Doctor Swift</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

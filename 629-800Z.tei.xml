@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 5FE03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="629-800Z">
+          <head type="note" n="1" xml:id="spp-629-800Z-headnote-1">
+            <lg n="1" xml:id="spp-629-800Z-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-629-800Z-headnote-1-line-group-1-line-1">Wrote in y<hi rend="superscript">e</hi> year 1728</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-629-800Z-headnote-2">
+            <lg n="1" xml:id="spp-629-800Z-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-629-800Z-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-629-800Z-headnote-3">
+            <lg n="1" xml:id="spp-629-800Z-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-629-800Z-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-629-800Z-line-1" n="1">After venting all my Spight,</l>
+            <l xml:id="swift-629-800Z-line-2" n="2">Tell me what I have to write.</l>
+            <l xml:id="swift-629-800Z-line-3" n="3">Every Error I w<hi rend="superscript">ḍ</hi>find</l>
+            <l xml:id="swift-629-800Z-line-4" n="4">Thro' the Mazes of your Mind,</l>
+            <l xml:id="swift-629-800Z-line-5" n="5">Have my busy muse employ'd,</l>
+            <l xml:id="swift-629-800Z-line-6" n="6">Till y<hi rend="superscript">ẹ</hi> company is cloy'd;</l>
+            <l xml:id="swift-629-800Z-line-7" n="7">Are you positive, &amp; fretfull,</l>
+            <l xml:id="swift-629-800Z-line-8" n="8">Heedless, ignorant, forgetfull;</l>
+            <l xml:id="swift-629-800Z-line-9" n="9">These, &amp; twenty follies more</l>
+            <l xml:id="swift-629-800Z-line-10" n="10">I have often told before.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-11" n="11">Hearken what my Lady says,</l>
+            <l xml:id="swift-629-800Z-line-12" n="12">Have I nothing then to praise?</l>
+            <l xml:id="swift-629-800Z-line-13" n="13">Ill it fitts you to be witty,</l>
+            <l xml:id="swift-629-800Z-line-14" n="14">Where a fault sh<hi rend="superscript">ḍ</hi> move your Pity;</l>
+            <l xml:id="swift-629-800Z-line-15" n="15">If you think me too conceited,</l>
+            <l xml:id="swift-629-800Z-line-16" n="16">On to passion quickly heated,</l>
+            <l xml:id="swift-629-800Z-line-17" n="17">If my wandring head be less</l>
+            <l xml:id="swift-629-800Z-line-18" n="18">Set on reading, than on dress,</l>
+            <l xml:id="swift-629-800Z-line-19" n="19">If I alway seem too dull to ye,</l>
+            <l xml:id="swift-629-800Z-line-20" n="20">I can solve y<hi rend="superscript">e</hi> difficulty.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-21" n="21">You w<hi rend="superscript">ḍ</hi> teach me to be wise,</l>
+            <l xml:id="swift-629-800Z-line-22" n="22">Truth &amp; Honour how to prize,</l>
+            <l xml:id="swift-629-800Z-line-23" n="23">How to shine in conversation,</l>
+            <l xml:id="swift-629-800Z-line-24" n="24">And with credit fill my Station,</l>
+            <l xml:id="swift-629-800Z-line-25" n="25">How to relish notions high,</l>
+            <l xml:id="swift-629-800Z-line-26" n="26">How to live, &amp; how to die.</l>
+            <l xml:id="swift-629-800Z-line-27" n="27">But it was decreed by fate</l>
+            <l xml:id="swift-629-800Z-line-28" n="28">M<hi rend="superscript">ṛ</hi> Dean, you came too late;</l>
+            <l xml:id="swift-629-800Z-line-29" n="29">Well I know, you can discern,</l>
+            <l xml:id="swift-629-800Z-line-30" n="30">I am now too old to learn,</l>
+            <l xml:id="swift-629-800Z-line-31" n="31">Follies from my Youth instill'd</l>
+            <l xml:id="swift-629-800Z-line-32" n="32">Have my Soul intirely fill'd,</l>
+            <l xml:id="swift-629-800Z-line-33" n="33">In my head, &amp; heart, they center,</l>
+            <l xml:id="swift-629-800Z-line-34" n="34">Nor will let your Lessons enter.</l>
+            <l xml:id="swift-629-800Z-line-35" n="35">Bred a fondling, &amp; an Heiress,</l>
+            <l xml:id="swift-629-800Z-line-36" n="36">Dress'd like any Lady Mayress,</l>
+            <l xml:id="swift-629-800Z-line-37" n="37">Cocker'd by y<hi rend="superscript">ẹ</hi> Servants round,</l>
+            <l xml:id="swift-629-800Z-line-38" n="38">Was too good to touch y<hi rend="superscript">e</hi>: ground,</l>
+            <l xml:id="swift-629-800Z-line-39" n="39">Thought the Life of every Lady</l>
+            <l xml:id="swift-629-800Z-line-40" n="40">Sh<hi rend="superscript">ḍ</hi> be one continued Play-day,</l>
+            <l xml:id="swift-629-800Z-line-41" n="41">Balls, &amp; masquerades, &amp; Shows,</l>
+            <l xml:id="swift-629-800Z-line-42" n="42">Visits, Plays, &amp; powdred Beaux.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-43" n="43">Thus you have my case at large,</l>
+            <l xml:id="swift-629-800Z-line-44" n="44">And may now <hi rend="display-initial-italic">P</hi>form your Charge,</l>
+            <l xml:id="swift-629-800Z-line-45" n="45">Those Materials I have furnish'd,</l>
+            <l xml:id="swift-629-800Z-line-46" n="46">When by you refin'd, &amp; burnish'd,</l>
+            <l xml:id="swift-629-800Z-line-47" n="47">Must, that all y<hi rend="superscript">ẹ</hi> World may know'em,</l>
+            <l xml:id="swift-629-800Z-line-48" n="48">Be reduc'd into a poem;</l>
+            <l xml:id="swift-629-800Z-line-49" n="49">But I beg, suspend a while</l>
+            <l xml:id="swift-629-800Z-line-50" n="50">That same paultry, Burlesque Style,</l>
+            <l xml:id="swift-629-800Z-line-51" n="51">Drop for once your constant Rule</l>
+            <l xml:id="swift-629-800Z-line-52" n="52">Turning all to Ridicule,</l>
+            <l xml:id="swift-629-800Z-line-53" n="53">Teaching others how to ape ye,</l>
+            <l xml:id="swift-629-800Z-line-54" n="54">Court, nor Parliament can scape ye,</l>
+            <l xml:id="swift-629-800Z-line-55" n="55">Treat y<hi rend="superscript">ẹ</hi> Publick &amp; your friends</l>
+            <l xml:id="swift-629-800Z-line-56" n="56">Both alike, while neither mends.</l>
+            <l xml:id="swift-629-800Z-line-57" n="57">Sing my praise in strain sublime,</l>
+            <l xml:id="swift-629-800Z-line-58" n="58">Treat not me with doggrel Rhyme,</l>
+            <l xml:id="swift-629-800Z-line-59" n="59">'Tis but just you sh<hi rend="superscript">ḍ</hi> produce</l>
+            <l xml:id="swift-629-800Z-line-60" n="60">With each fault, each fault's excuse,</l>
+            <l xml:id="swift-629-800Z-line-61" n="61">Not to publish every trifle,</l>
+            <l xml:id="swift-629-800Z-line-62" n="62">And my few perfections Stifle;</l>
+            <l xml:id="swift-629-800Z-line-63" n="63">With some gifts at least endow me,</l>
+            <l xml:id="swift-629-800Z-line-64" n="64">Which my very foes allow me,</l>
+            <l xml:id="swift-629-800Z-line-65" n="65">Am I spightfull, proud, unjust?</l>
+            <l xml:id="swift-629-800Z-line-66" n="66">Did I ever break my trust?</l>
+            <l xml:id="swift-629-800Z-line-67" n="67">Which of all your modern Dames</l>
+            <l xml:id="swift-629-800Z-line-68" n="68">Censures less or less defames?</l>
+            <l xml:id="swift-629-800Z-line-69" n="69">In good manners am I faulty?</l>
+            <l xml:id="swift-629-800Z-line-70" n="70">Can you call me rude or haughty?</l>
+            <l xml:id="swift-629-800Z-line-71" n="71">Did I e'er my Mite withhold</l>
+            <l xml:id="swift-629-800Z-line-72" n="72">From the impotent &amp; old?</l>
+            <l xml:id="swift-629-800Z-line-73" n="73">om.</l>
+            <l xml:id="swift-629-800Z-line-74" n="74">om.</l>
+            <l xml:id="swift-629-800Z-line-75" n="75">When have I esteem express'd</l>
+            <l xml:id="swift-629-800Z-line-76" n="76">For a Coxcomb gaily dress'd?</l>
+            <l xml:id="swift-629-800Z-line-77" n="77">Do I, like the female tribe,</l>
+            <l xml:id="swift-629-800Z-line-78" n="78">Think it witt to fleer &amp; Jibe?</l>
+            <l xml:id="swift-629-800Z-line-79" n="79">Who with less designing Ends</l>
+            <l xml:id="swift-629-800Z-line-80" n="80">Kindly entertains their friends?</l>
+            <l xml:id="swift-629-800Z-line-81" n="81">With good words, &amp; count'nance sprightly</l>
+            <l xml:id="swift-629-800Z-line-82" n="82">Strive to treat them all politely;</l>
+            <l xml:id="swift-629-800Z-line-83" n="83">Think not cards my chief Diversion,</l>
+            <l xml:id="swift-629-800Z-line-84" n="84">'Tis a most unjust aspersion,</l>
+            <l xml:id="swift-629-800Z-line-85" n="85">Never knew I any good in 'em,</l>
+            <l xml:id="swift-629-800Z-line-86" n="86">But to doze my head like Lodanum,</l>
+            <l xml:id="swift-629-800Z-line-87" n="87">We by play as Men by \Dr:·<hi rend="italics">over</hi>·th\inking,</l>
+            <l xml:id="swift-629-800Z-line-88" n="88">Pass our nights, to drive out thinking;</l>
+            <l xml:id="swift-629-800Z-line-89" n="89">From my ailments give me leisure,</l>
+            <l xml:id="swift-629-800Z-line-90" n="90">I shall read, &amp; think, with Pleasure,</l>
+            <l xml:id="swift-629-800Z-line-91" n="91">Conversation learn to relish,</l>
+            <l xml:id="swift-629-800Z-line-92" n="92">And with books my mind embellish.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-93" n="93">Now, methinks, I hear you cry</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-94" n="94">M<hi rend="superscript">ṛ</hi> Dean, you must reply;</l>
+            <l xml:id="swift-629-800Z-line-95" n="95">Madam, I allow 'tis true,</l>
+            <l xml:id="swift-629-800Z-line-96" n="96">All these praises are your due;</l>
+            <l xml:id="swift-629-800Z-line-97" n="97">You, like some acute Philosopher,</l>
+            <l xml:id="swift-629-800Z-line-98" n="98">Ev'ry fault have drawn a gloss over,</l>
+            <l xml:id="swift-629-800Z-line-99" n="99">Placing in the strongest light</l>
+            <l xml:id="swift-629-800Z-line-100" n="100">All your Virtues to my sight;</l>
+            <l xml:id="swift-629-800Z-line-101" n="101">Though you lead a blameless life,</l>
+            <l xml:id="swift-629-800Z-line-102" n="102">Live an humble, prudent Wife</l>
+            <l xml:id="swift-629-800Z-line-103" n="103">Answer all domestiq: ends,</l>
+            <l xml:id="swift-629-800Z-line-104" n="104">What is this to us your friends?</l>
+            <l xml:id="swift-629-800Z-line-105" n="105">Though your Children by a Nod</l>
+            <l xml:id="swift-629-800Z-line-106" n="106">Stand in awe without a Rod,</l>
+            <l xml:id="swift-629-800Z-line-107" n="107">Though, by your obliging Sway,</l>
+            <l xml:id="swift-629-800Z-line-108" n="108">Servants love you, &amp; obey,</l>
+            <l xml:id="swift-629-800Z-line-109" n="109">Though you treat us with a Smile,</l>
+            <l xml:id="swift-629-800Z-line-110" n="110">Clear your Looks, &amp; smooth your Style,</l>
+            <l xml:id="swift-629-800Z-line-111" n="111">Load our plates from ev'ry Dish;</l>
+            <l xml:id="swift-629-800Z-line-112" n="112">This is not the thing we wish.</l>
+            <l xml:id="swift-629-800Z-line-113" n="113">Colonel ──── may be your Debtor,</l>
+            <l xml:id="swift-629-800Z-line-114" n="114">We expect employment better;</l>
+            <l xml:id="swift-629-800Z-line-115" n="115">You must learn, if you w<hi rend="superscript">ḍ</hi> gain us,</l>
+            <l xml:id="swift-629-800Z-line-116" n="116">With good sense to entertain us.</l>
+            <l xml:id="swift-629-800Z-line-117" n="117">Scholars, when good Sense describing</l>
+            <l xml:id="swift-629-800Z-line-118" n="118">Call it tasting, &amp; imbibing,</l>
+            <l xml:id="swift-629-800Z-line-119" n="119">Metaphorick meat, &amp; drink,</l>
+            <l xml:id="swift-629-800Z-line-120" n="120">Is to understand, &amp; think,</l>
+            <l xml:id="swift-629-800Z-line-121" n="121">We may carve for others thus,</l>
+            <l xml:id="swift-629-800Z-line-122" n="122">And let others carve for us,</l>
+            <l xml:id="swift-629-800Z-line-123" n="123">To discourse, &amp; to attend,</l>
+            <l xml:id="swift-629-800Z-line-124" n="124">Is to help yourself, &amp; friend,</l>
+            <l xml:id="swift-629-800Z-line-125" n="125">Conversation is but carving,</l>
+            <l xml:id="swift-629-800Z-line-126" n="126">Carve for all yourself, is Starving.</l>
+            <l xml:id="swift-629-800Z-line-127" n="127">Give no more to ev'ry guest,</l>
+            <l xml:id="swift-629-800Z-line-128" n="128">Than he's able to digest,</l>
+            <l xml:id="swift-629-800Z-line-129" n="129">Give him alway of y<hi rend="superscript">e</hi> prime,</l>
+            <l xml:id="swift-629-800Z-line-130" n="130">And but little at a time,</l>
+            <l xml:id="swift-629-800Z-line-131" n="131">Carve to all but just enough,</l>
+            <l xml:id="swift-629-800Z-line-132" n="132">Let them neither starve, nor stuff,</l>
+            <l xml:id="swift-629-800Z-line-133" n="133">And that you may have your due,</l>
+            <l xml:id="swift-629-800Z-line-134" n="134">Let your Neibours carve for you.</l>
+            <l xml:id="swift-629-800Z-line-135" n="135">om.</l>
+            <l xml:id="swift-629-800Z-line-136" n="136">om.</l>
+            <l xml:id="swift-629-800Z-line-137" n="137">om.</l>
+            <l xml:id="swift-629-800Z-line-138" n="138">om.</l>
+            <l xml:id="swift-629-800Z-line-139" n="139">om.</l>
+            <l xml:id="swift-629-800Z-line-140" n="140">om.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-141" n="141">To conclude this long essay,</l>
+            <l xml:id="swift-629-800Z-line-142" n="142">Pardon if I disobey</l>
+            <l xml:id="swift-629-800Z-line-143" n="143">Nor against my nat'ral vein</l>
+            <l xml:id="swift-629-800Z-line-144" n="144">Treat you in heroick Strain,</l>
+            <l xml:id="swift-629-800Z-line-145" n="145">I, as all y<hi rend="superscript">ẹ</hi> Parish knows,</l>
+            <l xml:id="swift-629-800Z-line-146" n="146">Hardly can be grave in prose,</l>
+            <l xml:id="swift-629-800Z-line-147" n="147">Still to lash, &amp; lashing smile,</l>
+            <l xml:id="swift-629-800Z-line-148" n="148">Ill befitts a lofty Style.</l>
+            <l xml:id="swift-629-800Z-line-149" n="149">From y<hi rend="superscript">ẹ</hi> Planet of my Birth</l>
+            <l xml:id="swift-629-800Z-line-150" n="150">I encounter vice with Mirth.</l>
+            <l xml:id="swift-629-800Z-line-151" n="151">Wicked Ministers of State</l>
+            <l xml:id="swift-629-800Z-line-152" n="152">I can easier scorn than hate,</l>
+            <l xml:id="swift-629-800Z-line-153" n="153">And I find it answers right,</l>
+            <l xml:id="swift-629-800Z-line-154" n="154">Scorn torments them more than Spight,</l>
+            <l xml:id="swift-629-800Z-line-155" n="155">All the vices of a Court</l>
+            <l xml:id="swift-629-800Z-line-156" n="156">Do only serve to make me sport.</l>
+            <l xml:id="swift-629-800Z-line-157" n="157">Were I in some foreign realm,</l>
+            <l xml:id="swift-629-800Z-line-158" n="158">Which all vices overwhelm,</l>
+            <l xml:id="swift-629-800Z-line-159" n="159">Where a Monkey wears a Crown,</l>
+            <l xml:id="swift-629-800Z-line-160" n="160">Must I tremble at his frown?</l>
+            <l xml:id="swift-629-800Z-line-161" n="161">Could I not thro' all his Ermine</l>
+            <l xml:id="swift-629-800Z-line-162" n="162">Spy y<hi rend="superscript">e</hi> strutting, chatt'ring Vermine,</l>
+            <l xml:id="swift-629-800Z-line-163" n="163">Safely write a smart Lampoon</l>
+            <l xml:id="swift-629-800Z-line-164" n="164">To expose y<hi rend="superscript">ẹ</hi> brisk Baboon.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-165" n="165">When my muse officious ventures</l>
+            <l xml:id="swift-629-800Z-line-166" n="166">On y<hi rend="superscript">ẹ</hi> nations representors,</l>
+            <l xml:id="swift-629-800Z-line-167" n="167">Teaching, by what golden rules,</l>
+            <l xml:id="swift-629-800Z-line-168" n="168">Into knaves they turn their fools;</l>
+            <l xml:id="swift-629-800Z-line-169" n="169">How y<hi rend="superscript">ẹ</hi> helm is rul'd by Walpole,</l>
+            <l xml:id="swift-629-800Z-line-170" n="170">At whose oars, like Slaves, they all pull.</l>
+            <l xml:id="swift-629-800Z-line-171" n="171">Let y<hi rend="superscript">ẹ</hi> Vessels split on Shelves,</l>
+            <l xml:id="swift-629-800Z-line-172" n="172">With y<hi rend="superscript">ẹ</hi> freight inrich themselves,</l>
+            <l xml:id="swift-629-800Z-line-173" n="173">Safe within my little Wherry,</l>
+            <l xml:id="swift-629-800Z-line-174" n="174">All their madness makes me merry,</l>
+            <l xml:id="swift-629-800Z-line-175" n="175">Like the Watermen of Thames,</l>
+            <l xml:id="swift-629-800Z-line-176" n="176">I row by, &amp; call them names,</l>
+            <l xml:id="swift-629-800Z-line-177" n="177">Like the ever-laughing Sage,</l>
+            <l xml:id="swift-629-800Z-line-178" n="178">In a Iest, I spend my Rage,</l>
+            <l xml:id="swift-629-800Z-line-179" n="179">Though it must be understood,</l>
+            <l xml:id="swift-629-800Z-line-180" n="180">I w<hi rend="superscript">ḍ</hi> hang them if I cou'd;</l>
+            <l xml:id="swift-629-800Z-line-181" n="181">If I can but fill my Nitch,</l>
+            <l xml:id="swift-629-800Z-line-182" n="182">I attempt no higher pitch,</l>
+            <l xml:id="swift-629-800Z-line-183" n="183">Leave to D'anvers, &amp; his mate,</l>
+            <l xml:id="swift-629-800Z-line-184" n="184">Maxims wise to rule the State,</l>
+            <l xml:id="swift-629-800Z-line-185" n="185">Poultney deep, accomplish'd S<hi rend="superscript">t</hi>: Iohn's,</l>
+            <l xml:id="swift-629-800Z-line-186" n="186">Scourge the Villains with a Venge'ance</l>
+            <l xml:id="swift-629-800Z-line-187" n="187">Let me, tho' y<hi rend="superscript">e</hi>: smell be noisome,</l>
+            <l xml:id="swift-629-800Z-line-188" n="188">Strip their Bums, let Caleb hoise'em,</l>
+            <l xml:id="swift-629-800Z-line-189" n="189">Then apply Alecto's Whip,</l>
+            <l xml:id="swift-629-800Z-line-190" n="190">Till they wriggle, howl, &amp; whip.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-191" n="191">Duce is in you, M<hi rend="superscript">r</hi>: Dean,</l>
+            <l xml:id="swift-629-800Z-line-192" n="192">What can all this passion mean?</l>
+            <l xml:id="swift-629-800Z-line-193" n="193">Mention courts, you'll ne'er be quiet,</l>
+            <l xml:id="swift-629-800Z-line-194" n="194">On Corruptions running riot,</l>
+            <l xml:id="swift-629-800Z-line-195" n="195">And as it befits your Station</l>
+            <l xml:id="swift-629-800Z-line-196" n="196">Come to use, &amp; Application.</l>
+            <l xml:id="swift-629-800Z-line-197" n="197">Nor with Senate keep a fuss,</l>
+            <l xml:id="swift-629-800Z-line-198" n="198">I submit &amp; answer thus.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-199" n="199">If y<hi rend="superscript">ẹ</hi> Machinations brewing</l>
+            <l xml:id="swift-629-800Z-line-200" n="200">To complete y<hi rend="superscript">e</hi>: publick ruin,</l>
+            <l xml:id="swift-629-800Z-line-201" n="201">Never once co<hi rend="superscript">ḍ</hi> have the power</l>
+            <l xml:id="swift-629-800Z-line-202" n="202">To affect me half an hour,</l>
+            <l xml:id="swift-629-800Z-line-203" n="203">Sooner w<hi rend="superscript">ḍ</hi> I write in Buskins</l>
+            <l xml:id="swift-629-800Z-line-204" n="204">Mournfull Elegies on Blueskins.</l>
+            <l xml:id="swift-629-800Z-line-205" n="205">If I laugh at Whig, &amp; Tory,</l>
+            <l xml:id="swift-629-800Z-line-206" n="206">I conclude a Fortiori.</l>
+            <l xml:id="swift-629-800Z-line-207" n="207">All your Eloquence will scarce</l>
+            <l xml:id="swift-629-800Z-line-208" n="208">Drive me from my fav'rite farce.</l>
+            <l xml:id="swift-629-800Z-line-209" n="209">Thus I must insist on── for as</l>
+            <l xml:id="swift-629-800Z-line-210" n="210">It is well observ'd by Horace,</l>
+            <l xml:id="swift-629-800Z-line-211" n="211">Ridicule has greater Power</l>
+            <l xml:id="swift-629-800Z-line-212" n="212">To reform y<hi rend="superscript">ẹ</hi> world, than Sour.</l>
+            <l xml:id="swift-629-800Z-line-213" n="213">Horses thus, let Iockeys Judge else,</l>
+            <l xml:id="swift-629-800Z-line-214" n="214">Switches better guide than Cudgels</l>
+            <l xml:id="swift-629-800Z-line-215" n="215">Bastings heavy, dry, obtuse,</l>
+            <l xml:id="swift-629-800Z-line-216" n="216">Only dulness can produce</l>
+            <l xml:id="swift-629-800Z-line-217" n="217">While a little gentle Jerking</l>
+            <l xml:id="swift-629-800Z-line-218" n="218">Sets y<hi rend="superscript">ẹ</hi> Spirits all a working.</l>
+            <l xml:id="swift-629-800Z-line-219" n="219">Thus I find it by experiment</l>
+            <l xml:id="swift-629-800Z-line-220" n="220">Scolding moves you, less than Merriment</l>
+            <l xml:id="swift-629-800Z-line-221" n="221">I may storm, &amp; rage in vain,</l>
+            <l xml:id="swift-629-800Z-line-222" n="222">It but stupifies your brain,</l>
+            <l xml:id="swift-629-800Z-line-223" n="223">But with raillery to nettle</l>
+            <l xml:id="swift-629-800Z-line-224" n="224">Sets your thoughts upon their mettle,</l>
+            <l xml:id="swift-629-800Z-line-225" n="225">Gives Imagination scope,</l>
+            <l xml:id="swift-629-800Z-line-226" n="226">Never lets your mind elope,</l>
+            <l xml:id="swift-629-800Z-line-227" n="227">Drives out brangling, &amp; Contention,</l>
+            <l xml:id="swift-629-800Z-line-228" n="228">Brings in reason, &amp; Invention;</l>
+            <l xml:id="swift-629-800Z-line-229" n="229">For your sake as well as mine,</l>
+            <l xml:id="swift-629-800Z-line-230" n="230">I the lofty stile decline,</l>
+            <l xml:id="swift-629-800Z-line-231" n="231">I sh<hi rend="superscript">ḍ</hi> make a figure Scurvy,</l>
+            <l xml:id="swift-629-800Z-line-232" n="232">And your head turn topsy-turvy,</l>
+            <l xml:id="swift-629-800Z-line-233" n="233">I who love to have a fling</l>
+            <l xml:id="swift-629-800Z-line-234" n="234">Both at Senate-house &amp; K────</l>
+            <l xml:id="swift-629-800Z-line-235" n="235">That they might some better way tread</l>
+            <l xml:id="swift-629-800Z-line-236" n="236">To avoid the Publick Hatred,</l>
+            <l xml:id="swift-629-800Z-line-237" n="237">Thought no method more comodious,</l>
+            <l xml:id="swift-629-800Z-line-238" n="238">Than to shew their Vice is odious,</l>
+            <l xml:id="swift-629-800Z-line-239" n="239">Which I chose to make appear</l>
+            <l xml:id="swift-629-800Z-line-240" n="240">Not by anger, but a Sneer,</l>
+            <l xml:id="swift-629-800Z-line-241" n="241">As my method of reforming</l>
+            <l xml:id="swift-629-800Z-line-242" n="242">Is by laughing, not by storming,</l>
+            <l xml:id="swift-629-800Z-line-243" n="243">(For my friends have always thought</l>
+            <l xml:id="swift-629-800Z-line-244" n="244">Tenderness my greatest fault)</l>
+            <l xml:id="swift-629-800Z-line-245" n="245">Wo<hi rend="superscript">d</hi>: you have me change my Style</l>
+            <l xml:id="swift-629-800Z-line-246" n="246">On your faults no longer smile,</l>
+            <l xml:id="swift-629-800Z-line-247" n="247">But to patch up all your Quarrels</l>
+            <l xml:id="swift-629-800Z-line-248" n="248">Quote you texts from Plutarch's Morals,</l>
+            <l xml:id="swift-629-800Z-line-249" n="249">Or from Solomon produce</l>
+            <l xml:id="swift-629-800Z-line-250" n="250">Maxims teaching wisdom's use,</l>
+            <l xml:id="swift-629-800Z-line-251" n="251">If I treat you, like a crown'd-head,</l>
+            <l xml:id="swift-629-800Z-line-252" n="252">You have cheap enough compounded,</l>
+            <l xml:id="swift-629-800Z-line-253" n="253">Can you put in higher Claims,</l>
+            <l xml:id="swift-629-800Z-line-254" n="254">Than the owner of S<hi rend="superscript">ṭ</hi> James;</l>
+            <l xml:id="swift-629-800Z-line-255" n="255">You are not so great a greivance</l>
+            <l xml:id="swift-629-800Z-line-256" n="256">As the Hierlings of S<hi rend="superscript">ṭ</hi> Stephens,</l>
+            <l xml:id="swift-629-800Z-line-257" n="257">You are of a lower Class,</l>
+            <l xml:id="swift-629-800Z-line-258" n="258">Than my friend Sir Robert Brass;</l>
+            <l xml:id="swift-629-800Z-line-259" n="259">None of these have mercy found,</l>
+            <l xml:id="swift-629-800Z-line-260" n="260">I have laugh'd, &amp; lash'd them round.</l>
+            <l rend="indent(1)" xml:id="swift-629-800Z-line-261" n="261">Have you seen a Rocket fly?</l>
+            <l xml:id="swift-629-800Z-line-262" n="262">You w<hi rend="superscript">ḍ</hi> swear it peirc'd y<hi rend="superscript">e</hi> Skie;</l>
+            <l xml:id="swift-629-800Z-line-263" n="263">It but reach'd y<hi rend="superscript">e</hi> middle Air,</l>
+            <l xml:id="swift-629-800Z-line-264" n="264">Bursting into peices there.</l>
+            <l xml:id="swift-629-800Z-line-265" n="265">Thousand sparkles falling down</l>
+            <l xml:id="swift-629-800Z-line-266" n="266">Light on many a Coxcomb's crown,</l>
+            <l xml:id="swift-629-800Z-line-267" n="267">See, what Mirth y<hi rend="superscript">e</hi> Sport creates</l>
+            <l xml:id="swift-629-800Z-line-268" n="268">Singes hair, but brakes no pates.</l>
+            <l xml:id="swift-629-800Z-line-269" n="269">Thus sh<hi rend="superscript">ḍ</hi> I attempt to climb,</l>
+            <l xml:id="swift-629-800Z-line-270" n="270">Treat you in a Style sublime,</l>
+            <l xml:id="swift-629-800Z-line-271" n="271">Such a Rocket is my muse.</l>
+            <l xml:id="swift-629-800Z-line-272" n="272">Sh<hi rend="superscript">ḍ</hi> I lofty numbers chuse,</l>
+            <l xml:id="swift-629-800Z-line-273" n="273">E'er I reach'd Parnassus top,</l>
+            <l xml:id="swift-629-800Z-line-274" n="274">I sh<hi rend="superscript">ḍ</hi> burst, &amp; bursting drop;</l>
+            <l xml:id="swift-629-800Z-line-275" n="275">All my fire wo<hi rend="superscript">ḍ</hi> fall in scraps,</l>
+            <l xml:id="swift-629-800Z-line-276" n="276">Give your head some gentle raps,</l>
+            <l xml:id="swift-629-800Z-line-277" n="277">Only make it smart a while,</l>
+            <l xml:id="swift-629-800Z-line-278" n="278">Then cou'd I forbear to smile?</l>
+            <l xml:id="swift-629-800Z-line-279" n="279">When I found the tingling pain</l>
+            <l xml:id="swift-629-800Z-line-280" n="280">Entring warm your frigid Brain,</l>
+            <l xml:id="swift-629-800Z-line-281" n="281">Make you able upon sight</l>
+            <l xml:id="swift-629-800Z-line-282" n="282">To decide of wrong &amp; right,</l>
+            <l xml:id="swift-629-800Z-line-283" n="283">Talk with sense what e'er you please on,</l>
+            <l xml:id="swift-629-800Z-line-284" n="284">Learn to relish Truth, &amp; reason;</l>
+            <l xml:id="swift-629-800Z-line-285" n="285">Thus we both shou'd gain our Prize.</l>
+            <l xml:id="swift-629-800Z-line-286" n="286">I to laugh &amp; you grow wise.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

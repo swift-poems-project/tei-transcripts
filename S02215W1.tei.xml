@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T<hi rend="small-caps">O THE </hi>D<hi rend="small-caps">EAN OF </hi>S<hi rend="small-caps">T </hi>P<hi rend="small-caps">ATRICK'S</hi>.<«FN1·>Whimsical Medley, p. 359»</«FN1·></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 9NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S02215W1">
+          <head type="note" n="1" xml:id="spp-S02215W1-headnote-1">
+            <lg n="1" xml:id="spp-S02215W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S02215W1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S02215W1-headnote-2">
+            <lg n="1" xml:id="spp-S02215W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S02215W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S02215W1-headnote-3">
+            <lg n="1" xml:id="spp-S02215W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S02215W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S02215W1-line-1" n="1">D<hi rend="small-caps">EAR </hi>S<hi rend="small-caps">IR</hi>, Since you in humble wise</l>
+            <l xml:id="swift-S02215W1-line-2" n="2">Have made a recantation,</l>
+            <l xml:id="swift-S02215W1-line-3" n="3">From your low bended knees arise;</l>
+            <l xml:id="swift-S02215W1-line-4" n="4">I hate such poor prostration.</l>
+            <l xml:id="swift-S02215W1-line-5" n="5"><lb/>'Tis bravery that moves the brave,</l>
+            <l xml:id="swift-S02215W1-line-6" n="6">As one nail drives another;</l>
+            <l xml:id="swift-S02215W1-line-7" n="7">If you from me would mercy have,</l>
+            <l xml:id="swift-S02215W1-line-8" n="8">Pray, Sir, be such another.</l>
+            <l xml:id="swift-S02215W1-line-9" n="9"><lb/>You that so long maintain'd the field</l>
+            <l xml:id="swift-S02215W1-line-10" n="10">With true poetic vigour;</l>
+            <l xml:id="swift-S02215W1-line-11" n="11">Now you lay down your pen and yield,</l>
+            <l xml:id="swift-S02215W1-line-12" n="12">You make a wretched figure.<note place="foot">·A leg awry.</note></l>
+            <l xml:id="swift-S02215W1-line-13" n="13"><lb/>Submit, but do't with sword in hand,</l>
+            <l xml:id="swift-S02215W1-line-14" n="14">And write a panegyric</l>
+            <l xml:id="swift-S02215W1-line-15" n="15">Upon the man you cannot stand;</l>
+            <l xml:id="swift-S02215W1-line-16" n="16">I'll have it done in lyric:</l>
+            <l xml:id="swift-S02215W1-line-17" n="17"><lb/>That all the boys I teach may sing</l>
+            <l xml:id="swift-S02215W1-line-18" n="18">The achievements of their Chiron;<note place="foot">·A fair open for you.</note></l>
+            <l xml:id="swift-S02215W1-line-19" n="19">What conquests my stern looks can bring,</l>
+            <l xml:id="swift-S02215W1-line-20" n="20">Without the help of iron.</l>
+            <l xml:id="swift-S02215W1-line-21" n="21"><lb/>A small goose-quill, ycelp'd a pen,</l>
+            <l xml:id="swift-S02215W1-line-22" n="22">From magazine of standish,</l>
+            <l xml:id="swift-S02215W1-line-23" n="23">Drawn forth, 's more dreadful to the Dean,</l>
+            <l xml:id="swift-S02215W1-line-24" n="24">Than any sword we brandish.</l>
+            <l xml:id="swift-S02215W1-line-25" n="25"><lb/>My ink's my flash, my pen's my bolt;</l>
+            <l xml:id="swift-S02215W1-line-26" n="26">Whene'er I please to thunder,</l>
+            <l xml:id="swift-S02215W1-line-27" n="27">I'll make you tremble like a cold,</l>
+            <l xml:id="swift-S02215W1-line-28" n="28">And thus I'll keep you under.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

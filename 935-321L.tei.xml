@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Riddle.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JIF 14MY02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="935-321L">
+          <head type="note" n="1" xml:id="spp-935-321L-headnote-1">
+            <lg n="1" xml:id="spp-935-321L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-935-321L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-935-321L-headnote-2">
+            <lg n="1" xml:id="spp-935-321L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-935-321L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-935-321L-headnote-3">
+            <lg n="1" xml:id="spp-935-321L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-935-321L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-935-321L-line-1" n="1">By something form'd, I nothing am,</l>
+            <l xml:id="swift-935-321L-line-2" n="2">Yet ev'ry thing that you can Name;</l>
+            <l xml:id="swift-935-321L-line-3" n="3">In no place have I ever been,</l>
+            <l xml:id="swift-935-321L-line-4" n="4">Yet ev'ry where I may be seen;</l>
+            <l xml:id="swift-935-321L-line-5" n="5">In all things false, yet always true,</l>
+            <l xml:id="swift-935-321L-line-6" n="6">I'm still the same, but ever New:</l>
+            <l xml:id="swift-935-321L-line-7" n="7">Lifeless, Lifes perfect form I wear, 3}</l>
+            <l xml:id="swift-935-321L-line-8" n="8">Can shew a Nose, Eye, Tongue, and Ear,</l>
+            <l xml:id="swift-935-321L-line-9" n="9">Yet neither Smell, See, Taste, or hear.</l>
+            <l xml:id="swift-935-321L-line-10" n="10">All Shapes, and Features, I can boast,</l>
+            <l xml:id="swift-935-321L-line-11" n="11">No Flesh, no Bones, no Blood, no Ghost;</l>
+            <l xml:id="swift-935-321L-line-12" n="12">All Colours without Paint put on,</l>
+            <l xml:id="swift-935-321L-line-13" n="13">And change, like the Cameleon:</l>
+            <l xml:id="swift-935-321L-line-14" n="14">Swiftly I come and enter there,</l>
+            <l xml:id="swift-935-321L-line-15" n="15">Where not a chink lets in the Air;</l>
+            <l xml:id="swift-935-321L-line-16" n="16">Like Thought, I'm in a Moment gone,</l>
+            <l xml:id="swift-935-321L-line-17" n="17">Nor can I ever be alone.</l>
+            <l xml:id="swift-935-321L-line-18" n="18">All Things on Earth, I imitate,</l>
+            <l xml:id="swift-935-321L-line-19" n="19">Faster than Nature can create;</l>
+            <l xml:id="swift-935-321L-line-20" n="20">Somtimes Imperial Robes I wear,</l>
+            <l xml:id="swift-935-321L-line-21" n="21">Anon, in Beggars Rags appear:</l>
+            <l xml:id="swift-935-321L-line-22" n="22">A Giant now, and strait an Elf,</l>
+            <l xml:id="swift-935-321L-line-23" n="23">I'm ev'ry One, but ne'er my Self.</l>
+            <l xml:id="swift-935-321L-line-24" n="24">Or Male, or Female, yet my Sex,</l>
+            <l xml:id="swift-935-321L-line-25" n="25">No Nat'ralist could ever fix.</l>
+            <l xml:id="swift-935-321L-line-26" n="26">Ne'er sad I mourn, ne'er glad rejoice,</l>
+            <l xml:id="swift-935-321L-line-27" n="27">I move my Lips, but want a Voice;</l>
+            <l xml:id="swift-935-321L-line-28" n="28">I ne'er was born, nor e'er can Dye,</l>
+            <l xml:id="swift-935-321L-line-29" n="29">Then pr'y-thee tell me what am I?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

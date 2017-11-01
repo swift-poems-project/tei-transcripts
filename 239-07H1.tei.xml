@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Run upon the</hi> B<hi rend="small-caps">ANKERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="239-07H1">
+          <head type="note" n="1" xml:id="spp-239-07H1-headnote-1">
+            <lg n="1" xml:id="spp-239-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-07H1-headnote-1-line-group-1-line-1">Written in the Year 1720.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-239-07H1-headnote-2">
+            <lg n="1" xml:id="spp-239-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-07H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-239-07H1-headnote-3">
+            <lg n="1" xml:id="spp-239-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-239-07H1-line-1" n="1">I.<lb/><hi rend="display-initial">T</hi>HE bold encroachers on the deep</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-2" n="2">Gain by degrees huge tracts of land,</l>
+            <l xml:id="swift-239-07H1-line-3" n="3">Till <hi rend="italics">Neptune</hi> with one gen'ral sweep</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-4" n="4">Turns all again to barren strand.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-5" n="5"><lb/>II._The multitude's capricious pranks</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-6" n="6">Are said to represent the seas;</l>
+            <l xml:id="swift-239-07H1-line-7" n="7">Which <hi rend="italics">breaking bankers</hi> and the <hi rend="italics">banks</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-8" n="8">Resume <hi rend="italics">their own</hi> whene'er they please.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-9" n="9"><lb/>III._Money, the life-blood of the nation,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-10" n="10">Corrupts and stagnates in the veins,</l>
+            <l xml:id="swift-239-07H1-line-11" n="11">Unless a proper <hi rend="italics">circulation</hi></l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-12" n="12">Its motion and its heat maintains.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-13" n="13"><lb/>IV._Because 'tis <hi rend="italics">lordly</hi> not to pay,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-14" n="14"><hi rend="italics">Quakers</hi> and <hi rend="italics">aldermen</hi> in state</l>
+            <l xml:id="swift-239-07H1-line-15" n="15">Like <hi rend="italics">peers</hi> have <hi rend="italics">levees</hi> ev'ry day</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-16" n="16">Of duns attending at their gate.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-17" n="17"><lb/>V._We want our money on the nail;</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-18" n="18">The banker's ruin'd if he pays:</l>
+            <l xml:id="swift-239-07H1-line-19" n="19">They seem to act an ancient tale;</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-20" n="20">The <hi rend="italics">birds</hi> are met to strip the <hi rend="italics">jays</hi>.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-21" n="21"><lb/>VI._Riches, the wisest monarch <note place="foot">·<hi rend="italics">Solomon</hi>.</note> sings,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-22" n="22"><hi rend="italics">Make pinions for themselves to fly</hi>:</l>
+            <l xml:id="swift-239-07H1-line-23" n="23">They fly like bats on <hi rend="italics">parchment wings</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-24" n="24">And geese their <hi rend="italics">silver</hi> plumes supply.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-25" n="25"><lb/>VII._No money left for squand'ring heirs!</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-26" n="26"><hi rend="italics">Bills</hi> turn the lenders into debtors:</l>
+            <l xml:id="swift-239-07H1-line-27" n="27">The wish of <hi rend="italics">Nero</hi> now is theirs,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-28" n="28">That they <hi rend="italics">had never known their letters</hi><note place="foot">·It is said of <hi rend="italics">Nero</hi>, that when he first came to the imperial dignity from the tutorage of <hi rend="italics">Seneca</hi>, that being asked to sign a warrant for an execution he wished he could not write.</note>.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-29" n="29"><lb/>VIII._Conceive the works of midnight hags,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-30" n="30">Tormenting fools behind their backs:</l>
+            <l xml:id="swift-239-07H1-line-31" n="31">Thus bankers o'er their bills and bags</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-32" n="32">Sit squeezing <hi rend="italics">images of wax</hi><note place="foot">·Witches were fabled to torment the absent by roasting or otherwise ill treating their images in wax.</note>.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-33" n="33"><lb/>IX._Conceive the whole enchantment broke;</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-34" n="34">The witches left in open air,</l>
+            <l xml:id="swift-239-07H1-line-35" n="35">With pow'r no more than other folk,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-36" n="36">Expos'd with all their <hi rend="italics">magick</hi> ware.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-37" n="37"><lb/>X._So pow'rful are a banker's bills,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-38" n="38">Where creditors demand their due;</l>
+            <l xml:id="swift-239-07H1-line-39" n="39">They break up counters, doors and tills,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-40" n="40">And leave the empty chests in view.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-41" n="41"><lb/>XI._Thus when an earthquake lets in light</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-42" n="42">Upon the god of <hi rend="italics">gold</hi> and <hi rend="italics">hell</hi>,</l>
+            <l xml:id="swift-239-07H1-line-43" n="43">Unable to endure the sight,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-44" n="44">He hides within his darkest cell.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-45" n="45"><lb/>XII._As when a conj'rer takes a lease</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-46" n="46">From <hi rend="italics">Satan</hi> for a terms of years,</l>
+            <l xml:id="swift-239-07H1-line-47" n="47">The tenant's in a dismal case,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-48" n="48">Whene'er the <hi rend="italics">bloody bond</hi> <note place="foot">·These contracts were always supposed to be signed with blood.</note> appears.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-49" n="49"><lb/>XIII._A <hi rend="italics">baited</hi> banker thus desponds,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-50" n="50">From his own hand foresees his fall;</l>
+            <l xml:id="swift-239-07H1-line-51" n="51">They have his <hi rend="italics">soul</hi>, who have his <hi rend="italics">bonds</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-52" n="52">'Tis like the <hi rend="italics">writing on the wall</hi><note place="foot">·<hi rend="italics">Mene mene tekel upharsin</hi>.</note>.</l>
+            <l rend="center" xml:id="swift-239-07H1-line-53" n="53"><lb/>XIV._How will the caitiff wretch be scar'd,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-54" n="54">When first he finds himself awake</l>
+            <l xml:id="swift-239-07H1-line-55" n="55">At the last trumpet, unprepar'd,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-56" n="56">And all his <hi rend="italics">grand account</hi> to make?</l>
+            <l rend="center" xml:id="swift-239-07H1-line-57" n="57"><lb/>XV._For in that universal <hi rend="italics">call</hi></l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-58" n="58">Few bankers will to heav'n be mounters;</l>
+            <l xml:id="swift-239-07H1-line-59" n="59">They'll cry, <hi rend="italics">ye </hi>shops<hi rend="italics">, upon us fall</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-60" n="60">Conceal and <hi rend="italics">cover us, ye</hi> counters:</l>
+            <l rend="center" xml:id="swift-239-07H1-line-61" n="61"><lb/>XVI._When <hi rend="italics">other</hi> hands the <hi rend="italics">scales</hi> shall hold,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-62" n="62">And they in <hi rend="italics">men and angels' sight</hi></l>
+            <l xml:id="swift-239-07H1-line-63" n="63">Produc'd with all their bills and gold,</l>
+            <l rend="indent(1)" xml:id="swift-239-07H1-line-64" n="64"><hi rend="italics">Weigh'd in the ballance, and found light</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

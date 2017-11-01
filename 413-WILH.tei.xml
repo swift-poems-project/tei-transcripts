@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On</hi> Censure.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="413-WILH">
+          <head type="note" n="1" xml:id="spp-413-WILH-headnote-1">
+            <lg n="1" xml:id="spp-413-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-413-WILH-headnote-1-line-group-1-line-1">Written in the Year 1727.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-413-WILH-headnote-2">
+            <lg n="1" xml:id="spp-413-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-413-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-413-WILH-headnote-3">
+            <lg n="1" xml:id="spp-413-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-413-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-413-WILH-line-1" n="1"><hi rend="display-initial">Y</hi>E Wise, instruct me to endure</l>
+            <l xml:id="swift-413-WILH-line-2" n="2">An Evil, which admits no Cure:</l>
+            <l xml:id="swift-413-WILH-line-3" n="3">Or, how this Evil can be born,</l>
+            <l xml:id="swift-413-WILH-line-4" n="4">Which breeds at once both Hate and Scorn.</l>
+            <l xml:id="swift-413-WILH-line-5" n="5">Bare Innocence is no Support,</l>
+            <l xml:id="swift-413-WILH-line-6" n="6">When you are try'd in Scandal's Court.</l>
+            <l xml:id="swift-413-WILH-line-7" n="7">Stand high in Honour, Wealth, or Wit;</l>
+            <l xml:id="swift-413-WILH-line-8" n="8">All others who inferior sit,</l>
+            <l xml:id="swift-413-WILH-line-9" n="9">Conceive themselves in Conscience bound</l>
+            <l xml:id="swift-413-WILH-line-10" n="10">To join, and drag you to the Ground.</l>
+            <l xml:id="swift-413-WILH-line-11" n="11">Your Altitude offends the Eyes,</l>
+            <l xml:id="swift-413-WILH-line-12" n="12">Of those who want the Pow'r to rise.</l>
+            <l xml:id="swift-413-WILH-line-13" n="13">The World, a willing Stander-by,</l>
+            <l xml:id="swift-413-WILH-line-14" n="14">Inclines to aid a specious Lye:</l>
+            <l xml:id="swift-413-WILH-line-15" n="15">Alas; they would not do you wrong;</l>
+            <l xml:id="swift-413-WILH-line-16" n="16">But, all Appearances are strong.</l>
+            <l rend="indent(1)" xml:id="swift-413-WILH-line-17" n="17"><lb/>Y<hi rend="small-caps">ET</hi>, whence proceeds this Weight we lay</l>
+            <l xml:id="swift-413-WILH-line-18" n="18">On what detracting People say?</l>
+            <l xml:id="swift-413-WILH-line-19" n="19">For, let Mankind discharge their Tongues</l>
+            <l xml:id="swift-413-WILH-line-20" n="20">In Venom, till they burst their Lungs,</l>
+            <l xml:id="swift-413-WILH-line-21" n="21">Their utmost Malice cannot make</l>
+            <l xml:id="swift-413-WILH-line-22" n="22">Your Head, or Tooth, or Finger ake:</l>
+            <l xml:id="swift-413-WILH-line-23" n="23">Nor spoil your Shape, distort your Face,</l>
+            <l xml:id="swift-413-WILH-line-24" n="24">Or put one Feature out of Place;</l>
+            <l xml:id="swift-413-WILH-line-25" n="25">Nor, will you find your Fortune sink,</l>
+            <l xml:id="swift-413-WILH-line-26" n="26">By what they speak, or what they think.</l>
+            <l xml:id="swift-413-WILH-line-27" n="27">Nor can ten Hundred Thousand Lyes,</l>
+            <l xml:id="swift-413-WILH-line-28" n="28">Make you less virtuous, learn'd, or wise.</l>
+            <l rend="indent(1)" xml:id="swift-413-WILH-line-29" n="29"><lb/>T<hi rend="small-caps">HE</hi> most effectual Way to baulk</l>
+            <l xml:id="swift-413-WILH-line-30" n="30">Their Malice, is── to let them talk.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

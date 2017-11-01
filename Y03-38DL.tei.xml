@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Puppet-Show, a POEM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2JA09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y03-38DL">
+          <head type="note" n="1" xml:id="spp-Y03-38DL-headnote-1">
+            <lg n="1" xml:id="spp-Y03-38DL-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y03-38DL-headnote-1-line-group-1-line-1">Stretch's Puppet-Show, being one of the Entertainments, which is much admired this Winter, I hope you will give the following Poem, (which was printed some Years ago) a Place in your Journal, and you will oblige many of your Readers, as well as your humble Servant,<lb/>Y.Z.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y03-38DL-headnote-2">
+            <lg n="1" xml:id="spp-Y03-38DL-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y03-38DL-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y03-38DL-headnote-3">
+            <lg n="1" xml:id="spp-Y03-38DL-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y03-38DL-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-Y03-38DL-line-1" n="1">I.<lb/><hi rend="display-initial">T</hi>HE Life of Man to represent,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-2" n="2">And turn it all to Ridicule,</l>
+            <l xml:id="swift-Y03-38DL-line-3" n="3">Wit did a Puppet-show invent,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-4" n="4">Where the chief Actor is a Fool.</l>
+            <l rend="center" xml:id="swift-Y03-38DL-line-5" n="5">II.<lb/>The Gods of Old were Logs of Wood,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-6" n="6">And Worship was to Puppets paid,</l>
+            <l xml:id="swift-Y03-38DL-line-7" n="7">In Antick Dress the Idol stood,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-8" n="8">And Priests and People bow'd the Head.</l>
+            <l rend="center" xml:id="swift-Y03-38DL-line-9" n="9">III.<lb/>No wonder then if Art began,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-10" n="10">The simple Votaries to frame,</l>
+            <l xml:id="swift-Y03-38DL-line-11" n="11">To shape in Timber foolish Man,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-12" n="12">And consecrate the Block to Fame.</l>
+            <l rend="center" xml:id="swift-Y03-38DL-line-13" n="13">IV.<lb/>From hence poetick Fancy learn'd,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-14" n="14">That Trees might rise from humane Forms,</l>
+            <l xml:id="swift-Y03-38DL-line-15" n="15">The Body to a Trunk be turn'd,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-16" n="16">And Branches issue from the Arms.</l>
+            <l rend="center" xml:id="swift-Y03-38DL-line-17" n="17">V.<lb/>Thus Dædalus and Ovid too,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-18" n="18">That Man's a Blockhead have confest,</l>
+            <l xml:id="swift-Y03-38DL-line-19" n="19">Powel and Stretch the Hint pursue,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-20" n="20">Life is a Farce, the World a Jest.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-21" n="21">VI.<lb/>The same great Truth South Sea has prov'd</l>
+            <l xml:id="swift-Y03-38DL-line-22" n="22">On that fam'd Theatre, the Ally,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-23" n="23">Where Thousands by Directors mov'd</l>
+            <l xml:id="swift-Y03-38DL-line-24" n="24">Are now sad Monuments of Folly.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-25" n="25">VII.<lb/>What Momus was of old to Jove</l>
+            <l xml:id="swift-Y03-38DL-line-26" n="26">The same a Harlequin is now,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-27" n="27">The Former was Buffoon above</l>
+            <l xml:id="swift-Y03-38DL-line-28" n="28">The Latter is a Punch below.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-29" n="29">VIII.<lb/>This fleeting Scene is but a Stage,</l>
+            <l xml:id="swift-Y03-38DL-line-30" n="30">Where various images appear,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-31" n="31">In different Parts of Youth and Age</l>
+            <l xml:id="swift-Y03-38DL-line-32" n="32">Alike the Prince and Peasant share.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-33" n="33">IX.<lb/>Some draw our Eyes by being Great,</l>
+            <l xml:id="swift-Y03-38DL-line-34" n="34">False Pomp conceals mere Wood within,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-35" n="35">And Legislators rang'd in State</l>
+            <l xml:id="swift-Y03-38DL-line-36" n="36">Are oft but Wisdom in Machine.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-37" n="37">X.<lb/>A Stock may chance to wear a Crown,</l>
+            <l xml:id="swift-Y03-38DL-line-38" n="38">And Timber as a Lord take Place,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-39" n="39">A Statue may put on a Frown</l>
+            <l xml:id="swift-Y03-38DL-line-40" n="40">And cheat us with a thinking Face.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-41" n="41">XI.<lb/>Others are blindly led away,</l>
+            <l xml:id="swift-Y03-38DL-line-42" n="42">And made to act for Ends unknown,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-43" n="43">By the mere Spring of Wires they play</l>
+            <l xml:id="swift-Y03-38DL-line-44" n="44">And speak in Language not their own.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-45" n="45">XII.<lb/>Too oft, alas! a Scolding Wife</l>
+            <l xml:id="swift-Y03-38DL-line-46" n="46">Usurps a jolly Fellow's Throne,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-47" n="47">And many drink the Cup of Life,</l>
+            <l xml:id="swift-Y03-38DL-line-48" n="48">Mix't and embitter'd by a Joan.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-49" n="49">XIII.<lb/>In short, whatever Men pursue,</l>
+            <l xml:id="swift-Y03-38DL-line-50" n="50">Of Pleasure, Folly, War, or Love:</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-51" n="51">This Mimick-Race brings all to View,</l>
+            <l xml:id="swift-Y03-38DL-line-52" n="52">Alike they dress, they talk, they move.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-53" n="53">XIV.<lb/>Go on, Great Stretch, with artful Hand,</l>
+            <l xml:id="swift-Y03-38DL-line-54" n="54">Mortals to please and to deride,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-55" n="55">And when Death breaks thy vital Band,</l>
+            <l xml:id="swift-Y03-38DL-line-56" n="56">Thou shalt put on a Puppet's Pride.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-57" n="57">XV.<lb/>Thou shalt in Puny Wood be shewn.</l>
+            <l xml:id="swift-Y03-38DL-line-58" n="58">Thy image shall preserve thy Fame,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-59" n="59">Ages to come thy Worth shall own,</l>
+            <l xml:id="swift-Y03-38DL-line-60" n="60">Point at thy Limbs, and tell thy Name.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-61" n="61">XVI.<lb/>Tell Tom he draws a Farce in vain,</l>
+            <l xml:id="swift-Y03-38DL-line-62" n="62">Before he looks in Nature's Glass,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-63" n="63">Puns cannot form a witty Scene,</l>
+            <l xml:id="swift-Y03-38DL-line-64" n="64">Nor Pedantry for Humour pass.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-65" n="65">XVII.<lb/>To make Men act as senseless Wood,</l>
+            <l xml:id="swift-Y03-38DL-line-66" n="66">And chatter in a mystick Strain,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-67" n="67">Is a mere Force on Flesh and Blood,</l>
+            <l xml:id="swift-Y03-38DL-line-68" n="68">And shews some Error in the Brain.</l>
+            <l rend="center indent(1)" xml:id="swift-Y03-38DL-line-69" n="69">XVIII.<lb/>He that wou'd thus refine on thee,</l>
+            <l xml:id="swift-Y03-38DL-line-70" n="70">And turn thy Stage into a School,</l>
+            <l rend="indent(1)" xml:id="swift-Y03-38DL-line-71" n="71">The jest of Punch will ever be,</l>
+            <l xml:id="swift-Y03-38DL-line-72" n="72">And stand confest the greater Fool.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ACE, 7/87, 10/87"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-901A">
+          <head type="note" n="1" xml:id="spp-578-901A-headnote-1">
+            <lg n="1" xml:id="spp-578-901A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-901A-headnote-1-line-group-1-line-1">	The following Vision was wrote by D<hi rend="superscript">r</hi> Swift, but never made Publick.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-901A-headnote-2">
+            <lg n="1" xml:id="spp-578-901A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-901A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-901A-headnote-3">
+            <lg n="1" xml:id="spp-578-901A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-901A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-901A-line-1" n="1">With a Whirl of thoughts opprest</l>
+            <l xml:id="swift-578-901A-line-2" n="2">I sunk from <hi rend="underlined">Resverie</hi> to rest.</l>
+            <l xml:id="swift-578-901A-line-3" n="3">A Horrid Vision seized my Head,</l>
+            <l xml:id="swift-578-901A-line-4" n="4">I saw the Graves yawn up their dead,</l>
+            <l xml:id="swift-578-901A-line-5" n="5">Iove armed with terrors burst the Skies,</l>
+            <l xml:id="swift-578-901A-line-6" n="6">And Thunder roars, and Lightning Flies.</l>
+            <l xml:id="swift-578-901A-line-7" n="7">Amazed, confused, it's fate unknown,</l>
+            <l xml:id="swift-578-901A-line-8" n="8">The world stands trembling at his Throne,</l>
+            <l xml:id="swift-578-901A-line-9" n="9">While each pale Sinner hangs his head,</l>
+            <l xml:id="swift-578-901A-line-10" n="10">Iove nodding shook the Heavens and Said.</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-11" n="11">Offending race of humankind,</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-12" n="12">By Nature, Custom, <hi rend="underlined">Learning</hi> blind,</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-13" n="13">You who through Frailty stept aside,</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-14" n="14">And you who never fell── through pride</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-15" n="15">And you whom different Sects have shamm'd,</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-16" n="16">And come to see each other damn'd.</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-17" n="17">So Some folks told you; but they knew</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-18" n="18">No more of Jove's designs than you.</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-19" n="19">The world's mad business now is o're,</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-20" n="20">And I resent such pranks no more,</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-21" n="21">I to such Blockheads set my Wit?</l>
+            <l rend="indent(1)" xml:id="swift-578-901A-line-22" n="22">I damn such fools? go, go, you're bit.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

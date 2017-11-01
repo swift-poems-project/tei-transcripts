@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RIDDLES.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 24JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="938A43L2">
+          <head type="note" n="1" xml:id="spp-938A43L2-headnote-1">
+            <lg n="1" xml:id="spp-938A43L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A43L2-headnote-1-line-group-1-line-1">II.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-938A43L2-headnote-2">
+            <lg n="1" xml:id="spp-938A43L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A43L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-938A43L2-headnote-3">
+            <lg n="1" xml:id="spp-938A43L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-938A43L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-938A43L2-line-1" n="1">I reach all Things near me and far off to boot,</l>
+            <l xml:id="swift-938A43L2-line-2" n="2">Without stretching a Finger, or stirring a Foot;</l>
+            <l xml:id="swift-938A43L2-line-3" n="3">I take 'em all in too (to add to your Wonder)</l>
+            <l xml:id="swift-938A43L2-line-4" n="4">Tho' many and various, and large, and asunder;</l>
+            <l xml:id="swift-938A43L2-line-5" n="5">Without jostling or crowding, they pass side by Side</l>
+            <l xml:id="swift-938A43L2-line-6" n="6">Thro' a wonderful Wicket not half an Inch wide.</l>
+            <l xml:id="swift-938A43L2-line-7" n="7">om.</l>
+            <l xml:id="swift-938A43L2-line-8" n="8">om.</l>
+            <l xml:id="swift-938A43L2-line-9" n="9">om.</l>
+            <l xml:id="swift-938A43L2-line-10" n="10">om.</l>
+            <l xml:id="swift-938A43L2-line-11" n="11">om.</l>
+            <l xml:id="swift-938A43L2-line-12" n="12">om.</l>
+            <l xml:id="swift-938A43L2-line-13" n="13">om.</l>
+            <l xml:id="swift-938A43L2-line-14" n="14">om.</l>
+            <l xml:id="swift-938A43L2-line-15" n="15">om.</l>
+            <l xml:id="swift-938A43L2-line-16" n="16">om.</l>
+            <l xml:id="swift-938A43L2-line-17" n="17">om.</l>
+            <l xml:id="swift-938A43L2-line-18" n="18">om.</l>
+            <l xml:id="swift-938A43L2-line-19" n="19">om.</l>
+            <l xml:id="swift-938A43L2-line-20" n="20">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

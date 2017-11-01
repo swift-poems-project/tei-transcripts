@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/> TO A BENEFIT PLAY, GIVEN IN BEHALF OF THE<lb/>  DISTRESSED WEAVERS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 2AU04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="274-14W2">
+          <head type="note" n="1" xml:id="spp-274-14W2-headnote-1">
+            <lg n="1" xml:id="spp-274-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-274-14W2-headnote-1-line-group-1-line-1">BY THE DEAN.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-274-14W2-headnote-2">
+            <lg n="1" xml:id="spp-274-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-274-14W2-headnote-2-line-group-1-line-1">SPOKEN BY MR GRIFFITH.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-274-14W2-headnote-3">
+            <lg n="1" xml:id="spp-274-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-274-14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-274-14W2-line-1" n="1">W<hi rend="small-caps">HO</hi> dares affirm this is no pious age,</l>
+            <l xml:id="swift-274-14W2-line-2" n="2">When charity begins to tread the stage?</l>
+            <l xml:id="swift-274-14W2-line-3" n="3">When actors, who at best are hardly savers,</l>
+            <l xml:id="swift-274-14W2-line-4" n="4">Will give a night of benefit to weavers?</l>
+            <l xml:id="swift-274-14W2-line-5" n="5">Stay── let me see, how finely will it sound!</l>
+            <l xml:id="swift-274-14W2-line-6" n="6"><hi rend="italics">Imprimis</hi>, From his grace <note place="foot">·Archbishop King.── F.</note> a hundred pound.</l>
+            <l xml:id="swift-274-14W2-line-7" n="7">Peers, clergy, gentry, all are benefactors;</l>
+            <l xml:id="swift-274-14W2-line-8" n="8">And then comes in the <hi rend="italics">item</hi> of the actors.</l>
+            <l xml:id="swift-274-14W2-line-9" n="9"><hi rend="italics">Item</hi>, The actors freely give a day──</l>
+            <l xml:id="swift-274-14W2-line-10" n="10">The poet had no more who made the play.</l>
+            <l rend="indent(1)" xml:id="swift-274-14W2-line-11" n="11">But whence this wondrous charity in players?</l>
+            <l xml:id="swift-274-14W2-line-12" n="12">They learn it not at sermons, or at prayers:</l>
+            <l xml:id="swift-274-14W2-line-13" n="13">Under the rose, since here are none but friends,</l>
+            <l xml:id="swift-274-14W2-line-14" n="14">(To own the truth) we have some private ends.</l>
+            <l xml:id="swift-274-14W2-line-15" n="15">Since waiting-women, like exacting jades,</l>
+            <l xml:id="swift-274-14W2-line-16" n="16">Hold up the prices of their old brocades;</l>
+            <l xml:id="swift-274-14W2-line-17" n="17">We'll dress in manufactures made at home;</l>
+            <l xml:id="swift-274-14W2-line-18" n="18">Equip our kings and generals at the Comb.<note place="foot">·A street famous for woollen manufactures.── F.</note></l>
+            <l xml:id="swift-274-14W2-line-19" n="19">We'll rig from Meath Street Egypt's haughty queen,</l>
+            <l xml:id="swift-274-14W2-line-20" n="20">And Anthony shall court her in ratteen.</l>
+            <l xml:id="swift-274-14W2-line-21" n="21">In blue shalloon shall Hannibal be clad,</l>
+            <l xml:id="swift-274-14W2-line-22" n="22">And Scipio trail an Irish purple plaid,</l>
+            <l xml:id="swift-274-14W2-line-23" n="23">In drugget drest, of thirteenpence a-yard,</l>
+            <l xml:id="swift-274-14W2-line-24" n="24">See Phillip's son amidst his Persian guard;</l>
+            <l xml:id="swift-274-14W2-line-25" n="25">And proud Roxana, fired with jealous rage,</l>
+            <l xml:id="swift-274-14W2-line-26" n="26">With fifty yards of crape shall sweep the stage.</l>
+            <l xml:id="swift-274-14W2-line-27" n="27">In short, our kings and princesses within</l>
+            <l xml:id="swift-274-14W2-line-28" n="28">Are all resolved this project to begin;</l>
+            <l xml:id="swift-274-14W2-line-29" n="29">And you, our subjects, when you here resort,</l>
+            <l xml:id="swift-274-14W2-line-30" n="30">Must imitate the fashion of the court.</l>
+            <l rend="indent(1)" xml:id="swift-274-14W2-line-31" n="31">O! could I see this audience clad in stuff,</l>
+            <l xml:id="swift-274-14W2-line-32" n="32">Though money's scarce, we should have trade enough:</l>
+            <l xml:id="swift-274-14W2-line-33" n="33">But chintz, brocades, and lace, take all away,</l>
+            <l xml:id="swift-274-14W2-line-34" n="34">And scarce a crown is left to see the play.</l>
+            <l xml:id="swift-274-14W2-line-35" n="35">Perhaps you wonder whence this friendship springs</l>
+            <l xml:id="swift-274-14W2-line-36" n="36">Between the weavers and us playhouse kings;</l>
+            <l xml:id="swift-274-14W2-line-37" n="37">But wit and weaving had the same beginning;</l>
+            <l xml:id="swift-274-14W2-line-38" n="38">Pallas first taught us poetry and spinning:</l>
+            <l xml:id="swift-274-14W2-line-39" n="39">And, next, observe how this alliance fits,</l>
+            <l xml:id="swift-274-14W2-line-40" n="40">For weavers now are just as poor as wits:</l>
+            <l xml:id="swift-274-14W2-line-41" n="41">Their brother quillmen, workers for the stage,</l>
+            <l xml:id="swift-274-14W2-line-42" n="42">For sorry stuff can get a crown a-page;</l>
+            <l xml:id="swift-274-14W2-line-43" n="43">But weavers will be kinder to the players,</l>
+            <l xml:id="swift-274-14W2-line-44" n="44">And sell for twentypence a yard of theirs.</l>
+            <l xml:id="swift-274-14W2-line-45" n="45">And, to your knowledge, there is often less in</l>
+            <l xml:id="swift-274-14W2-line-46" n="46">The poet's wit, than in the player's dressing.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

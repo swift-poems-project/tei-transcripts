@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 3MY12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="368-418B">
+          <head type="note" n="1" xml:id="spp-368-418B-headnote-1">
+            <lg n="1" xml:id="spp-368-418B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368-418B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-368-418B-headnote-2">
+            <lg n="1" xml:id="spp-368-418B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368-418B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-368-418B-headnote-3">
+            <lg n="1" xml:id="spp-368-418B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368-418B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-368-418B-line-1" n="1">om.</l>
+            <l xml:id="swift-368-418B-line-2" n="2">my very Good Lord it is a hard task,</l>
+            <l xml:id="swift-368-418B-line-3" n="3">For one to wait long who has nothing to ask,</l>
+            <l xml:id="swift-368-418B-line-4" n="4">om.</l>
+            <l xml:id="swift-368-418B-line-5" n="5">My Friend mr Dean there are few that come here</l>
+            <l xml:id="swift-368-418B-line-6" n="6">Who have nothing to ask or nothing to fear.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

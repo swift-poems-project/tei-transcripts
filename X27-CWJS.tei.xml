@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`With music and poetry equally blest'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 28OC08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 24AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X27-CWJS">
+          <head type="note" n="1" xml:id="spp-X27-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-X27-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X27-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-X27-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X27-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-X27-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X27-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X27-CWJS-line-1" n="1">With music and poetry equally blest,</l>
+            <l xml:id="swift-X27-CWJS-line-2" n="2">A bard thus A<hi rend="small-caps">POLLO</hi>, most humbly addrest.</l>
+            <l xml:id="swift-X27-CWJS-line-3" n="3">Great author of harmony, verses, and light!</l>
+            <l xml:id="swift-X27-CWJS-line-4" n="4">Assisted by thee, I both fiddle, and write.</l>
+            <l xml:id="swift-X27-CWJS-line-5" n="5">Yet unheeded I scrape, or I scribble all day,</l>
+            <l xml:id="swift-X27-CWJS-line-6" n="6">My verse is neglected, my tunes thrown away.</l>
+            <l xml:id="swift-X27-CWJS-line-7" n="7">Thy substitute here, V<hi rend="small-caps">ICE-</hi>A<hi rend="small-caps">POLLO</hi> disdains,</l>
+            <l xml:id="swift-X27-CWJS-line-8" n="8">To vouch for my numbers, or list to my strains.</l>
+            <l xml:id="swift-X27-CWJS-line-9" n="9">Thy manual signet refuses to put</l>
+            <l xml:id="swift-X27-CWJS-line-10" n="10">To the airs I produce, from the pen, or the gut.</l>
+            <l xml:id="swift-X27-CWJS-line-11" n="11">Be thou then propitious, great P<hi rend="small-caps">HOEBUS</hi>, and grant,</l>
+            <l xml:id="swift-X27-CWJS-line-12" n="12">Relief, or reward, to my merit, or want.</l>
+            <l xml:id="swift-X27-CWJS-line-13" n="13">Tho' the Dean, and D<hi rend="small-caps">ELANY</hi> transcendently shine,</l>
+            <l xml:id="swift-X27-CWJS-line-14" n="14">O brighten one solo, or sonnet of mine.</l>
+            <l xml:id="swift-X27-CWJS-line-15" n="15">With them, I'm content, thou should'st make thy abode:</l>
+            <l xml:id="swift-X27-CWJS-line-16" n="16">But visit thy servant, in jig, or in ode.</l>
+            <l xml:id="swift-X27-CWJS-line-17" n="17">Make one work immortal: 'tis all I request.</l>
+            <l xml:id="swift-X27-CWJS-line-18" n="18">A<hi rend="small-caps">POLLO</hi> look'd pleas'd, and resolving to jest,</l>
+            <l xml:id="swift-X27-CWJS-line-19" n="19">Reply'd, honest friend, I've consider'd thy case:</l>
+            <l xml:id="swift-X27-CWJS-line-20" n="20">Nor dislike thy well-meaning and humorous face.</l>
+            <l xml:id="swift-X27-CWJS-line-21" n="21">Thy petition I grant: the boon is not great,</l>
+            <l xml:id="swift-X27-CWJS-line-22" n="22">Thy works shall continue: and here's the receipt.</l>
+            <l xml:id="swift-X27-CWJS-line-23" n="23">On rondeaus hereafter, thy fiddle-strings spend:</l>
+            <l xml:id="swift-X27-CWJS-line-24" n="24">Write verses in circles: they never shall end.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

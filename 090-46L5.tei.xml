@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Two </hi>HERMETS<hi rend="italics"> Progress; or, The<lb/>  Metamorphes of </hi>Baucis<hi rend="italics">, and</hi> Philemon.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 28JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="090-46L5">
+          <head type="note" n="1" xml:id="spp-090-46L5-headnote-1">
+            <lg n="1" xml:id="spp-090-46L5-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-090-46L5-headnote-1-line-group-1-line-1">By <hi rend="italics">D. Swift</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-090-46L5-headnote-2">
+            <lg n="1" xml:id="spp-090-46L5-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-090-46L5-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-090-46L5-headnote-3">
+            <lg n="1" xml:id="spp-090-46L5-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-090-46L5-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-090-46L5-line-1" n="1"><hi rend="display-initial">I</hi>N antient times, as story tells,</l>
+            <l xml:id="swift-090-46L5-line-2" n="2">The saints would often leave their cells;</l>
+            <l xml:id="swift-090-46L5-line-3" n="3">And strole about, but hide their quality,</l>
+            <l xml:id="swift-090-46L5-line-4" n="4">To try good people's hospitality.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-5" n="5">It happen'd on a winter night,</l>
+            <l xml:id="swift-090-46L5-line-6" n="6">As authors of the legend write;</l>
+            <l xml:id="swift-090-46L5-line-7" n="7">Two brother hermits, saints by trade,</l>
+            <l xml:id="swift-090-46L5-line-8" n="8">Taking their tour in masquerade?</l>
+            <l xml:id="swift-090-46L5-line-9" n="9">Disguis'd in tatter'd habits went,</l>
+            <l xml:id="swift-090-46L5-line-10" n="10">To a small village down in <hi rend="italics">Kent</hi>;</l>
+            <l xml:id="swift-090-46L5-line-11" n="11">Where, in the strollers canting strain,</l>
+            <l xml:id="swift-090-46L5-line-12" n="12">They begg'd from door to door in vain,</l>
+            <l xml:id="swift-090-46L5-line-13" n="13">Try'd ev'ry tone might pity win;</l>
+            <l xml:id="swift-090-46L5-line-14" n="14">But not a soul would let 'em in.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-15" n="15">Our wand'ring saints in woful state,</l>
+            <l xml:id="swift-090-46L5-line-16" n="16">Treated at this ungodly rate,</l>
+            <l xml:id="swift-090-46L5-line-17" n="17">Having through all the village past,</l>
+            <l xml:id="swift-090-46L5-line-18" n="18">To a small cottage came at last.</l>
+            <l xml:id="swift-090-46L5-line-19" n="19">Where dwelt a good old honest yeoman,</l>
+            <l xml:id="swift-090-46L5-line-20" n="20">Call'd in the neighbourhood, <hi rend="italics">Philemon</hi>.</l>
+            <l xml:id="swift-090-46L5-line-21" n="21">Who kindly did the saints invite,</l>
+            <l xml:id="swift-090-46L5-line-22" n="22">In his poor hut to pass that night;</l>
+            <l xml:id="swift-090-46L5-line-23" n="23">And then the hospitable sire,</l>
+            <l xml:id="swift-090-46L5-line-24" n="24">Bid goody <hi rend="italics">Baucis</hi> mend the fire;</l>
+            <l xml:id="swift-090-46L5-line-25" n="25">While he from out the chimney took,</l>
+            <l xml:id="swift-090-46L5-line-26" n="26">A flitch of bacon off the hook.</l>
+            <l xml:id="swift-090-46L5-line-27" n="27">And freely from the fattest side</l>
+            <l xml:id="swift-090-46L5-line-28" n="28">Cut out a large slice to be fry'd:</l>
+            <l xml:id="swift-090-46L5-line-29" n="29">Then stept aside to fetch 'em drink,</l>
+            <l xml:id="swift-090-46L5-line-30" n="30">Fill'd a large jug up to the brink;</l>
+            <l xml:id="swift-090-46L5-line-31" n="31">And saw it fairly twice go round,</l>
+            <l xml:id="swift-090-46L5-line-32" n="32">Yet (what is wonderful) they found,</l>
+            <l xml:id="swift-090-46L5-line-33" n="33">'Twas still replenish'd to the top;</l>
+            <l xml:id="swift-090-46L5-line-34" n="34">As if they ne'er had touch'd a drop.</l>
+            <l xml:id="swift-090-46L5-line-35" n="35">The good old couple was amaz'd,</l>
+            <l xml:id="swift-090-46L5-line-36" n="36">And often on each other gaz'd;</l>
+            <l xml:id="swift-090-46L5-line-37" n="37">For both were frighted to the heart,</l>
+            <l xml:id="swift-090-46L5-line-38" n="38">And just began to cry────── what art!</l>
+            <l xml:id="swift-090-46L5-line-39" n="39">Then softly turn'd aside to view</l>
+            <l xml:id="swift-090-46L5-line-40" n="40">Whether the lights were burning blue.</l>
+            <l xml:id="swift-090-46L5-line-41" n="41">The gentle pilgrims soon aware on't,</l>
+            <l xml:id="swift-090-46L5-line-42" n="42">Told 'em their calling and their errant;</l>
+            <l xml:id="swift-090-46L5-line-43" n="43">Good folks, you need not be afraid,</l>
+            <l xml:id="swift-090-46L5-line-44" n="44">We are but saints, the Hermits said;</l>
+            <l xml:id="swift-090-46L5-line-45" n="45">No hurt shall come to you or yours;</l>
+            <l xml:id="swift-090-46L5-line-46" n="46">But, for that pack of churlish boors,</l>
+            <l xml:id="swift-090-46L5-line-47" n="47">Not fit to live on christian ground,</l>
+            <l xml:id="swift-090-46L5-line-48" n="48">They and their houses shall be drown'd;</l>
+            <l xml:id="swift-090-46L5-line-49" n="49">Whilst you shall see your cottage rise,</l>
+            <l xml:id="swift-090-46L5-line-50" n="50">And grow a church before your eyes.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-51" n="51">They scarce had spoke; when, fair and soft,</l>
+            <l xml:id="swift-090-46L5-line-52" n="52">The roof began to mount aloft;</l>
+            <l xml:id="swift-090-46L5-line-53" n="53">Aloft rose ev'ry beam and rafter,</l>
+            <l xml:id="swift-090-46L5-line-54" n="54">The heavy wall climb'd slowly after.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-55" n="55">The chimney widen'd, and grew higher,</l>
+            <l xml:id="swift-090-46L5-line-56" n="56">Became a steeple with a spire.</l>
+            <l xml:id="swift-090-46L5-line-57" n="57">The kittle to the top was hoist,</l>
+            <l xml:id="swift-090-46L5-line-58" n="58">And there stood fasten'd to a Joist;</l>
+            <l xml:id="swift-090-46L5-line-59" n="59">But with the upside down, to show</l>
+            <l xml:id="swift-090-46L5-line-60" n="60">It's inclination for below.</l>
+            <l xml:id="swift-090-46L5-line-61" n="61">In vain, for a superior force,</l>
+            <l xml:id="swift-090-46L5-line-62" n="62">Apply'd at bottom, stops in course,</l>
+            <l xml:id="swift-090-46L5-line-63" n="63">Doom'd ever in suspence to dwell;</l>
+            <l xml:id="swift-090-46L5-line-64" n="64">'Tis now no kettle, but a bell,</l>
+            <l xml:id="swift-090-46L5-line-65" n="65">A wooden jack, which had almost</l>
+            <l xml:id="swift-090-46L5-line-66" n="66">Lost, by disuse, the art to roast,</l>
+            <l xml:id="swift-090-46L5-line-67" n="67">A sudden alteration feels,</l>
+            <l xml:id="swift-090-46L5-line-68" n="68">Increas'd by new intestine wheels;</l>
+            <l xml:id="swift-090-46L5-line-69" n="69">And, what exalts the wonder more,</l>
+            <l xml:id="swift-090-46L5-line-70" n="70">The number made the motion slow'r:</l>
+            <l xml:id="swift-090-46L5-line-71" n="71">The flyer, though't had leaden feet,</l>
+            <l xml:id="swift-090-46L5-line-72" n="72">Turn'd round so quick, you scarce cou'd see't;</l>
+            <l xml:id="swift-090-46L5-line-73" n="73">But slacken'd by some secret pow'r,</l>
+            <l xml:id="swift-090-46L5-line-74" n="74">Now hardly moves an inch an hour.</l>
+            <l xml:id="swift-090-46L5-line-75" n="75">The jack and chimney near ally'd,</l>
+            <l xml:id="swift-090-46L5-line-76" n="76">Had never left each other's side;</l>
+            <l xml:id="swift-090-46L5-line-77" n="77">The chimney to a steeple grown,</l>
+            <l xml:id="swift-090-46L5-line-78" n="78">The jack would not be left alone;</l>
+            <l xml:id="swift-090-46L5-line-79" n="79">But up against the steeple rear'd,</l>
+            <l xml:id="swift-090-46L5-line-80" n="80">Became a clock, and still adher'd:</l>
+            <l xml:id="swift-090-46L5-line-81" n="81">And still its love to houshold cares,</l>
+            <l xml:id="swift-090-46L5-line-82" n="82">om.</l>
+            <l xml:id="swift-090-46L5-line-83" n="83">Warning the cook-maid not to burn</l>
+            <l xml:id="swift-090-46L5-line-84" n="84">That roast-meat which it cannot turn.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-85" n="85">The groaning chair began to crawl,</l>
+            <l xml:id="swift-090-46L5-line-86" n="86">Like a huge snail, along the wall;</l>
+            <l xml:id="swift-090-46L5-line-87" n="87">There stuck aloft, in publick view,</l>
+            <l xml:id="swift-090-46L5-line-88" n="88">And, with small change, a pulpit grew.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-89" n="89">The porringers, that in a row</l>
+            <l xml:id="swift-090-46L5-line-90" n="90">Hung high, and made a glitt'ring show,</l>
+            <l xml:id="swift-090-46L5-line-91" n="91">To a less noble substance chang'd,</l>
+            <l xml:id="swift-090-46L5-line-92" n="92">Were now but leathern buckets rang'd.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-93" n="93">The ballads pasted on the wall,</l>
+            <l xml:id="swift-090-46L5-line-94" n="94">Of <hi rend="italics">Joan</hi> of <hi rend="italics">France</hi>, and <hi rend="italics">English Moll</hi>,</l>
+            <l xml:id="swift-090-46L5-line-95" n="95"><hi rend="italics">Fair Rosamond</hi>, and <hi rend="italics">Robin Hood,</hi></l>
+            <l xml:id="swift-090-46L5-line-96" n="96"><hi rend="italics">The little Children in the Wood</hi>;</l>
+            <l xml:id="swift-090-46L5-line-97" n="97">Now seem'd to look abundance better,</l>
+            <l xml:id="swift-090-46L5-line-98" n="98">Improv'd in picture, size, and letter;</l>
+            <l xml:id="swift-090-46L5-line-99" n="99">And, high in order plac'd, describe</l>
+            <l xml:id="swift-090-46L5-line-100" n="100">The heraldry of ev'ry tribe.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-101" n="101">A bedstead of the antique mode,</l>
+            <l xml:id="swift-090-46L5-line-102" n="102">Compact of timber many a load,</l>
+            <l xml:id="swift-090-46L5-line-103" n="103">Such as our ancestors did use,</l>
+            <l xml:id="swift-090-46L5-line-104" n="104">Was metamorphos'd into pews;</l>
+            <l xml:id="swift-090-46L5-line-105" n="105">Which still their antient nature keep,</l>
+            <l xml:id="swift-090-46L5-line-106" n="106">By lodging folks dispos'd to sleep.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-107" n="107">The cottage, by such feats as these,</l>
+            <l xml:id="swift-090-46L5-line-108" n="108">Grown to a church by just degrees,</l>
+            <l xml:id="swift-090-46L5-line-109" n="109">The Hermits then desir'd their host,</l>
+            <l xml:id="swift-090-46L5-line-110" n="110">To ask for what he fancy'd most.</l>
+            <l xml:id="swift-090-46L5-line-111" n="111"><hi rend="italics">Philemon</hi>, having paus'd a-while,</l>
+            <l xml:id="swift-090-46L5-line-112" n="112">Return'd 'em thanks in homely stile:</l>
+            <l xml:id="swift-090-46L5-line-113" n="113">Then said; my house is grown so fine,</l>
+            <l xml:id="swift-090-46L5-line-114" n="114">Methinks I still would call it mine:</l>
+            <l xml:id="swift-090-46L5-line-115" n="115">It's old, and fain would live at ease,</l>
+            <l xml:id="swift-090-46L5-line-116" n="116">Make me the parson, if you please.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-117" n="117">He spoke, and presently he feels</l>
+            <l xml:id="swift-090-46L5-line-118" n="118">His grazier's coat fall down his heels;</l>
+            <l xml:id="swift-090-46L5-line-119" n="119">He sees, yet hardly can believe,</l>
+            <l xml:id="swift-090-46L5-line-120" n="120">About each arm a pudding sleeve:</l>
+            <l xml:id="swift-090-46L5-line-121" n="121">His wastcoat to a cassock grew,</l>
+            <l xml:id="swift-090-46L5-line-122" n="122">And both assum'd a sable hue;</l>
+            <l xml:id="swift-090-46L5-line-123" n="123">But being old, continu'd just,</l>
+            <l xml:id="swift-090-46L5-line-124" n="124">As thread-bare, and as full of dust.</l>
+            <l xml:id="swift-090-46L5-line-125" n="125">His talk was now of tythes and dues,</l>
+            <l xml:id="swift-090-46L5-line-126" n="126">Could smoke his pipe, and read the news;</l>
+            <l xml:id="swift-090-46L5-line-127" n="127">Knew how to preach old sermons next,</l>
+            <l xml:id="swift-090-46L5-line-128" n="128">Vampt in the preface and the text;</l>
+            <l xml:id="swift-090-46L5-line-129" n="129">At christ'nings well could act his part,</l>
+            <l xml:id="swift-090-46L5-line-130" n="130">And had the service all by heart:</l>
+            <l xml:id="swift-090-46L5-line-131" n="131">Wish'd women might have children fast,</l>
+            <l xml:id="swift-090-46L5-line-132" n="132">And thought whose sow had farrow'd last;</l>
+            <l xml:id="swift-090-46L5-line-133" n="133">Against dissenters would repine,</l>
+            <l xml:id="swift-090-46L5-line-134" n="134">And stood up firm for <hi rend="italics">right Divine</hi>;</l>
+            <l xml:id="swift-090-46L5-line-135" n="135">Found his head fill'd with many a system,</l>
+            <l xml:id="swift-090-46L5-line-136" n="136">But classic authors────── he ne'er miss'd 'em.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-137" n="137">Thus having furbish'd up a parson,</l>
+            <l xml:id="swift-090-46L5-line-138" n="138">Dame <hi rend="italics">Baucis</hi> next they play'd their farce on:</l>
+            <l xml:id="swift-090-46L5-line-139" n="139">Instead of home-spun coifs, were seen,</l>
+            <l xml:id="swift-090-46L5-line-140" n="140">Good pinners edg'd with <hi rend="italics">Colberteen</hi>;</l>
+            <l xml:id="swift-090-46L5-line-141" n="141">Her petticoat transform'd apace,</l>
+            <l xml:id="swift-090-46L5-line-142" n="142">Became black sattin, flounc'd with lace.</l>
+            <l xml:id="swift-090-46L5-line-143" n="143">Plain <hi rend="italics">Goody</hi> would no longer down,</l>
+            <l xml:id="swift-090-46L5-line-144" n="144">'Twas <hi rend="italics">Madam</hi>, in her grogram gown.</l>
+            <l xml:id="swift-090-46L5-line-145" n="145"><hi rend="italics">Philemon</hi> was in great surprize,</l>
+            <l xml:id="swift-090-46L5-line-146" n="146">And hardly could believe his eyes,</l>
+            <l xml:id="swift-090-46L5-line-147" n="147">Amaz'd to see her look so prim;</l>
+            <l xml:id="swift-090-46L5-line-148" n="148">And she admir'd as much at him.</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-149" n="149">Thus happy, in their change of life,</l>
+            <l xml:id="swift-090-46L5-line-150" n="150">Were several years this man and wife;</l>
+            <l xml:id="swift-090-46L5-line-151" n="151">When on a day, which prov'd their last,</l>
+            <l xml:id="swift-090-46L5-line-152" n="152">Discoursing on old stories past,</l>
+            <l xml:id="swift-090-46L5-line-153" n="153">They went, by chance, amidst their talk,</l>
+            <l xml:id="swift-090-46L5-line-154" n="154">To the church yard, to take a walk;</l>
+            <l xml:id="swift-090-46L5-line-155" n="155">When <hi rend="italics">Baucis</hi> hastily cry'd out,</l>
+            <l xml:id="swift-090-46L5-line-156" n="156">My dear, I see your forehead sprout.</l>
+            <l xml:id="swift-090-46L5-line-157" n="157">Sprout, qouth the man, what's this you tell us?</l>
+            <l xml:id="swift-090-46L5-line-158" n="158">I hope you don't believe me jealous;</l>
+            <l xml:id="swift-090-46L5-line-159" n="159">But yet, methinks, I feel it true;</l>
+            <l xml:id="swift-090-46L5-line-160" n="160">And truly yours is budding too────</l>
+            <l xml:id="swift-090-46L5-line-161" n="161">Nay, now I cannot stir my foot;</l>
+            <l xml:id="swift-090-46L5-line-162" n="162">It feels as if 'twere taking root.────</l>
+            <l rend="indent(1)" xml:id="swift-090-46L5-line-163" n="163">Description would but tire my muse;</l>
+            <l xml:id="swift-090-46L5-line-164" n="164">In short, they both were turn'd to <hi rend="italics">Ews</hi>,</l>
+            <l xml:id="swift-090-46L5-line-165" n="165">Old goodman <hi rend="italics">Dobson</hi> of the <hi rend="italics">Green</hi>,</l>
+            <l xml:id="swift-090-46L5-line-166" n="166">Remembers he the trees has seen:</l>
+            <l xml:id="swift-090-46L5-line-167" n="167">He'll talk of them from noon 'till night,</l>
+            <l xml:id="swift-090-46L5-line-168" n="168">And goes with folks to see the sight.</l>
+            <l xml:id="swift-090-46L5-line-169" n="169">On <hi rend="italics">Sundays</hi>, after ev'ning pray'r,</l>
+            <l xml:id="swift-090-46L5-line-170" n="170">He gathers all the parish there;</l>
+            <l xml:id="swift-090-46L5-line-171" n="171">Points out the place of either <hi rend="italics">Ew</hi>,</l>
+            <l xml:id="swift-090-46L5-line-172" n="172">Here <hi rend="italics">Baucis</hi>, there <hi rend="italics">Philemon</hi> grew:</l>
+            <l xml:id="swift-090-46L5-line-173" n="173">'Till once a parson of our town,</l>
+            <l xml:id="swift-090-46L5-line-174" n="174">To mend his barn, cut <hi rend="italics">Baucis</hi> down:</l>
+            <l xml:id="swift-090-46L5-line-175" n="175">At which, 'tis hard to be believ'd,</l>
+            <l xml:id="swift-090-46L5-line-176" n="176">How much the other tree was griev'd,</l>
+            <l xml:id="swift-090-46L5-line-177" n="177">Grew scrubby, dy'd a-top, was stunted;</l>
+            <l xml:id="swift-090-46L5-line-178" n="178">So the next parson stubb'd and burnt it.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

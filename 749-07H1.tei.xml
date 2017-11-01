@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>STELLA at <hi rend="italics">Wood-park</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 25JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="749-07H1">
+          <head type="note" n="1" xml:id="spp-749-07H1-headnote-1">
+            <lg n="1" xml:id="spp-749-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-749-07H1-headnote-1-line-group-1-line-1"><hi rend="italics">A House of </hi>Charles Ford<hi rend="italics">, Esq; eight miles from</hi> Dublin.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-749-07H1-headnote-2">
+            <lg n="1" xml:id="spp-749-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-749-07H1-headnote-2-line-group-1-line-1">────<hi rend="italics">Cuicumque nocere volebat <lb/> Vestimento dabat pretiosa</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-749-07H1-headnote-3">
+            <lg n="1" xml:id="spp-749-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-749-07H1-headnote-3-line-group-1-line-1">Written in Year 1723.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-749-07H1-line-1" n="1"><hi rend="display-initial">D</hi>ON <hi rend="italics">Carlos</hi> in a merry spight</l>
+            <l xml:id="swift-749-07H1-line-2" n="2">Did <hi rend="italics">Stella</hi> to his house invite:</l>
+            <l xml:id="swift-749-07H1-line-3" n="3">He entertain'd her half a year</l>
+            <l xml:id="swift-749-07H1-line-4" n="4">With gen'rous wines and costly chear.</l>
+            <l xml:id="swift-749-07H1-line-5" n="5">Don <hi rend="italics">Carlos</hi> made her chief director,</l>
+            <l xml:id="swift-749-07H1-line-6" n="6">That she might o'er the servants hector.</l>
+            <l xml:id="swift-749-07H1-line-7" n="7">In half a week the dame grew nice,</l>
+            <l xml:id="swift-749-07H1-line-8" n="8">Got all things at the highest price:</l>
+            <l xml:id="swift-749-07H1-line-9" n="9">Now at the table-head she sits,</l>
+            <l xml:id="swift-749-07H1-line-10" n="10">Presented with the nicest bits:</l>
+            <l xml:id="swift-749-07H1-line-11" n="11">She look'd on partridges with scorn,</l>
+            <l xml:id="swift-749-07H1-line-12" n="12">Except they tasted of the corn:</l>
+            <l xml:id="swift-749-07H1-line-13" n="13">A haunch of ven'son made her sweat,</l>
+            <l xml:id="swift-749-07H1-line-14" n="14">Unless it had the right <hi rend="italics">fumette</hi>.</l>
+            <l xml:id="swift-749-07H1-line-15" n="15">Don <hi rend="italics">Carlos</hi> earnestly would beg,</l>
+            <l xml:id="swift-749-07H1-line-16" n="16">Dear madam, try this pigeon's leg;</l>
+            <l xml:id="swift-749-07H1-line-17" n="17">Was happy, when he could prevail</l>
+            <l xml:id="swift-749-07H1-line-18" n="18">To make her only touch a quail.</l>
+            <l xml:id="swift-749-07H1-line-19" n="19">Through candle light she view'd the wine</l>
+            <l xml:id="swift-749-07H1-line-20" n="20">To see, that ev'ry glass was fine.</l>
+            <l xml:id="swift-749-07H1-line-21" n="21">At last grown prouder than the devil</l>
+            <l xml:id="swift-749-07H1-line-22" n="22">With feeding high and treatment civil,</l>
+            <l xml:id="swift-749-07H1-line-23" n="23">Don <hi rend="italics">Carlos</hi> now began to find</l>
+            <l xml:id="swift-749-07H1-line-24" n="24">His malice work as he design'd.</l>
+            <l xml:id="swift-749-07H1-line-25" n="25">The winter-sky began to frown,</l>
+            <l xml:id="swift-749-07H1-line-26" n="26">Poor <hi rend="italics">Stella</hi> must pack off to town;</l>
+            <l xml:id="swift-749-07H1-line-27" n="27">From purling streams and fountains bubbling,</l>
+            <l xml:id="swift-749-07H1-line-28" n="28">To <note place="foot">·The river that runs through <hi rend="italics">Dublin</hi>.</note> <hi rend="italics">Liffy's</hi> stinking tide at <hi rend="italics">Dublin</hi>:</l>
+            <l xml:id="swift-749-07H1-line-29" n="29">From wholesome exercise and air,</l>
+            <l xml:id="swift-749-07H1-line-30" n="30">To sossing in an easy chair:</l>
+            <l xml:id="swift-749-07H1-line-31" n="31">From stomach sharp, and hearty feeding,</l>
+            <l xml:id="swift-749-07H1-line-32" n="32">To piddle like a lady breeding:</l>
+            <l xml:id="swift-749-07H1-line-33" n="33">From ruling there the houshold singly,</l>
+            <l xml:id="swift-749-07H1-line-34" n="34">To be directed here by <note place="foot">·A lady: The two ladies lodged together.</note> <hi rend="italics">Dingly</hi>:</l>
+            <l xml:id="swift-749-07H1-line-35" n="35">From ev'ry day a lordly banquet,</l>
+            <l xml:id="swift-749-07H1-line-36" n="36">To half a joint, and <hi rend="italics">God be thanked</hi>:</l>
+            <l xml:id="swift-749-07H1-line-37" n="37">From ev'ry meal <hi rend="italics">Pontack</hi> in plenty,</l>
+            <l xml:id="swift-749-07H1-line-38" n="38">To half a pint one day in twenty:</l>
+            <l xml:id="swift-749-07H1-line-39" n="39">From <hi rend="italics">Ford</hi> attending at her call,</l>
+            <l xml:id="swift-749-07H1-line-40" n="40">To visits of ────────────</l>
+            <l xml:id="swift-749-07H1-line-41" n="41">From <hi rend="italics">Ford</hi>, who thinks of nothing mean,</l>
+            <l xml:id="swift-749-07H1-line-42" n="42">To the poor doings of the dean:</l>
+            <l xml:id="swift-749-07H1-line-43" n="43">From growing richer with good chear,</l>
+            <l xml:id="swift-749-07H1-line-44" n="44">To running out by starving here.</l>
+            <l rend="indent(1)" xml:id="swift-749-07H1-line-45" n="45">But now arrives the dismal day;</l>
+            <l xml:id="swift-749-07H1-line-46" n="46">She must return to <note place="foot">·Where the ladies lodged.</note> <hi rend="italics">Ormond Quay</hi>.</l>
+            <l xml:id="swift-749-07H1-line-47" n="47">The coachman stopt; she look'd and swore</l>
+            <l xml:id="swift-749-07H1-line-48" n="48">The rascal had mistook the door:</l>
+            <l xml:id="swift-749-07H1-line-49" n="49">At coming in you saw her stoop;</l>
+            <l xml:id="swift-749-07H1-line-50" n="50">The entry brush'd against her hoop:</l>
+            <l xml:id="swift-749-07H1-line-51" n="51">Each moment rising in her airs,</l>
+            <l xml:id="swift-749-07H1-line-52" n="52">She curst the narrow winding stairs:</l>
+            <l xml:id="swift-749-07H1-line-53" n="53">Began a thousand faults to spy;</l>
+            <l xml:id="swift-749-07H1-line-54" n="54">The ceiling hardly six feet high;</l>
+            <l xml:id="swift-749-07H1-line-55" n="55">The smutty wainscot full of cracks:</l>
+            <l xml:id="swift-749-07H1-line-56" n="56">And half the chairs with broken backs:</l>
+            <l xml:id="swift-749-07H1-line-57" n="57">Her quarter's out at <hi rend="italics">Lady-Day</hi>,</l>
+            <l xml:id="swift-749-07H1-line-58" n="58">She vows she will no longer stay</l>
+            <l xml:id="swift-749-07H1-line-59" n="59">In lodgings, like a poor <hi rend="italics">Grizette</hi>,</l>
+            <l xml:id="swift-749-07H1-line-60" n="60">While there are lodgings to be let.</l>
+            <l rend="indent(1)" xml:id="swift-749-07H1-line-61" n="61">Howe'er, to keep her spirits up,</l>
+            <l xml:id="swift-749-07H1-line-62" n="62">She sent for company to sup:</l>
+            <l xml:id="swift-749-07H1-line-63" n="63">When all the while you might remark,</l>
+            <l xml:id="swift-749-07H1-line-64" n="64">She strove in vain to ape <hi rend="italics">Wood-park</hi>.</l>
+            <l xml:id="swift-749-07H1-line-65" n="65">Two bottles call'd for (half her store,</l>
+            <l xml:id="swift-749-07H1-line-66" n="66">The cupboard could contain but four:)</l>
+            <l xml:id="swift-749-07H1-line-67" n="67">A supper worthy of herself,</l>
+            <l xml:id="swift-749-07H1-line-68" n="68">Five nothings in five plates of <hi rend="italics">delf</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-749-07H1-line-69" n="69">Thus for a week the farce went on;</l>
+            <l xml:id="swift-749-07H1-line-70" n="70">When all her country-savings gone,</l>
+            <l xml:id="swift-749-07H1-line-71" n="71">She fell into her former scene,</l>
+            <l xml:id="swift-749-07H1-line-72" n="72">Small beer, a herring, and the dean.</l>
+            <l rend="indent(1)" xml:id="swift-749-07H1-line-73" n="73">Thus far in jest: though now I fear,</l>
+            <l xml:id="swift-749-07H1-line-74" n="74">You think my jesting too severe;</l>
+            <l xml:id="swift-749-07H1-line-75" n="75">But poets, when a hint is new,</l>
+            <l xml:id="swift-749-07H1-line-76" n="76">Regard not whether false or true:</l>
+            <l xml:id="swift-749-07H1-line-77" n="77">Yet raillery gives no offence,</l>
+            <l xml:id="swift-749-07H1-line-78" n="78">Where truth has not the least pretence;</l>
+            <l xml:id="swift-749-07H1-line-79" n="79">Nor can be more securely plac'd,</l>
+            <l xml:id="swift-749-07H1-line-80" n="80">Than on a nymph of <hi rend="italics">Stella's</hi> taste.</l>
+            <l xml:id="swift-749-07H1-line-81" n="81">I must confess, your wine and vittle</l>
+            <l xml:id="swift-749-07H1-line-82" n="82">I was too hard upon a little:</l>
+            <l xml:id="swift-749-07H1-line-83" n="83">Your table neat, your linen fine;</l>
+            <l xml:id="swift-749-07H1-line-84" n="84">And, though in miniature, you shine:</l>
+            <l xml:id="swift-749-07H1-line-85" n="85">Yet when you sigh to leave <hi rend="italics">Wood-park</hi>,</l>
+            <l xml:id="swift-749-07H1-line-86" n="86">The scene, the welcome, and the spark,</l>
+            <l xml:id="swift-749-07H1-line-87" n="87">To languish in this odious town,</l>
+            <l xml:id="swift-749-07H1-line-88" n="88">And pull your haughty stomach down;</l>
+            <l xml:id="swift-749-07H1-line-89" n="89">We think you quite mistake the case,</l>
+            <l xml:id="swift-749-07H1-line-90" n="90">The virtue lies not in the place:</l>
+            <l xml:id="swift-749-07H1-line-91" n="91">For though my raillery were true,</l>
+            <l xml:id="swift-749-07H1-line-92" n="92">A cottage is <hi rend="italics">Wood-park</hi> with you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

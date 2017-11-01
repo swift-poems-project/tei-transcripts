@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>APOLLO OUTWITTED.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 30MY01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 16JE09, 27JL14, 14OC16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="119-06E2">
+          <head type="note" n="1" xml:id="spp-119-06E2-headnote-1">
+            <lg n="1" xml:id="spp-119-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-119-06E2-headnote-1-line-group-1-line-1">To the Honourable Mrs F<hi rend="small-caps">INCH</hi>, afterwards Countess of W<hi rend="small-caps">INCHELSEA</hi>, under her name of A<hi rend="small-caps">RDELIA</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-119-06E2-headnote-2">
+            <lg n="1" xml:id="spp-119-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-119-06E2-headnote-2-line-group-1-line-1">Written in the year 1707.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-119-06E2-headnote-3">
+            <lg n="1" xml:id="spp-119-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-119-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-119-06E2-line-1" n="1"><hi rend="display-initial">P</hi>Hœbus, now short'ning ev'ry shade,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-2" n="2">Up to the northern <hi rend="italics">tropic</hi> came,</l>
+            <l xml:id="swift-119-06E2-line-3" n="3">And thence beheld a lovely maid,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-4" n="4">Attending on a royal dame.</l>
+            <l xml:id="swift-119-06E2-line-5" n="5"><lb/>The god laid down his feeble rays,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-6" n="6">Then lighted from his glitt'ring coach;</l>
+            <l xml:id="swift-119-06E2-line-7" n="7">But fenc'd his head with his own bays,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-8" n="8">Before he durst the nymph approach.</l>
+            <l xml:id="swift-119-06E2-line-9" n="9"><lb/>Under those sacred leaves, secure</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-10" n="10">From common lightning of the skies,</l>
+            <l xml:id="swift-119-06E2-line-11" n="11">He fondly thought he might endure</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-12" n="12">The flashes of Ardelia's eyes.</l>
+            <l xml:id="swift-119-06E2-line-13" n="13"><lb/>The nymph, who oft had read in books</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-14" n="14">Of that bright god whom bards invoke,</l>
+            <l xml:id="swift-119-06E2-line-15" n="15">Soon knew Apollo by his looks,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-16" n="16">And guess'd his bus'ness ere he spoke.</l>
+            <l xml:id="swift-119-06E2-line-17" n="17"><lb/>He in the old celestial cant</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-18" n="18">Confess'd his flame, and swore by Styx</l>
+            <l xml:id="swift-119-06E2-line-19" n="19">Whate'er she would desire to grant──</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-20" n="20">But wise Ardelia knew his tricks.</l>
+            <l xml:id="swift-119-06E2-line-21" n="21"><lb/>Ovid had warn'd her to beware</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-22" n="22">Of strolling gods, whose usual trade is,</l>
+            <l xml:id="swift-119-06E2-line-23" n="23">Under pretence of taking air,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-24" n="24">To pick up sublunary ladies.</l>
+            <l xml:id="swift-119-06E2-line-25" n="25"><lb/>Howe'er, she gave no flat denial,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-26" n="26">As having malice in her heart;</l>
+            <l xml:id="swift-119-06E2-line-27" n="27">And was resolv'd, upon a trial,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-28" n="28">To cheat the god in his own art.</l>
+            <l xml:id="swift-119-06E2-line-29" n="29"><lb/>Hear my request, the virgin said;</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-30" n="30">Let which I please of all the Nine</l>
+            <l xml:id="swift-119-06E2-line-31" n="31">Attend, whene'er I want their aid,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-32" n="32">Obey my call, and only mine.</l>
+            <l xml:id="swift-119-06E2-line-33" n="33"><lb/>By vow oblig'd, by passion led,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-34" n="34">The god could not refuse her pray'r:</l>
+            <l xml:id="swift-119-06E2-line-35" n="35">He wav'd his wreath thrice o'er her head,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-36" n="36">Thrice mutter'd something to the air.</l>
+            <l xml:id="swift-119-06E2-line-37" n="37"><lb/>And now he thought to seize his due:</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-38" n="38">But she the charm already try'd:</l>
+            <l xml:id="swift-119-06E2-line-39" n="39">Thalia heard the call, and flew</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-40" n="40">To wait at bright Ardelia's side.</l>
+            <l xml:id="swift-119-06E2-line-41" n="41"><lb/>On sight of this celestial <hi rend="italics">prude</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-42" n="42">Apollo thought it vain to stay;</l>
+            <l xml:id="swift-119-06E2-line-43" n="43">Nor in her presence durst be rude;</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-44" n="44">But made his leg, and went away.</l>
+            <l xml:id="swift-119-06E2-line-45" n="45"><lb/>He hop'd to find some lucky hour,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-46" n="46">When on their queen the muses wait:</l>
+            <l xml:id="swift-119-06E2-line-47" n="47">But Pallas owns Ardelia's pow'r;</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-48" n="48">For vows divine are kept by fate.</l>
+            <l xml:id="swift-119-06E2-line-49" n="49"><lb/>Then, full of rage, Apollo spoke:</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-50" n="50">Deceitful nymph, I see thy art;</l>
+            <l xml:id="swift-119-06E2-line-51" n="51">And, though I can't my gift revoke,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-52" n="52">I'll disappoint its nobler part.</l>
+            <l xml:id="swift-119-06E2-line-53" n="53"><lb/>Let stubborn pride possess thee long,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-54" n="54">And be thou negligent of fame;</l>
+            <l xml:id="swift-119-06E2-line-55" n="55">With ev'ry muse to grace thy song,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-56" n="56">Mayst thou despise a poet's name.</l>
+            <l xml:id="swift-119-06E2-line-57" n="57"><lb/>Of modest poets be thou first;</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-58" n="58">To silent shades repeat thy verse,</l>
+            <l xml:id="swift-119-06E2-line-59" n="59">Till Fame and Echo almost burst,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-60" n="60">Yet hardly dare one line rehearse.</l>
+            <l xml:id="swift-119-06E2-line-61" n="61"><lb/>And last, my vengeance to complete,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-62" n="62">May you descend to take renown,</l>
+            <l xml:id="swift-119-06E2-line-63" n="63">Prevail'd on by the thing you hate,</l>
+            <l rend="indent(1)" xml:id="swift-119-06E2-line-64" n="64">A Whig, and one that wears a gown.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

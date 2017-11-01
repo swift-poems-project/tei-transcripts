@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mrs. Pilkington having heard that Dean Swift had<lb/>  received a Paper Book from th Earl of Orrery, and<lb/>  a Silver Standish from Dr. Delany, sent the Dean<lb/>  <hi rend="italics">an Eagle's Quill</hi>, with the following lines on the<lb/>  occasion.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CCalella 14JL14"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M24104B1">
+          <head type="note" n="1" xml:id="spp-M24104B1-headnote-1">
+            <lg n="1" xml:id="spp-M24104B1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M24104B1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M24104B1-headnote-2">
+            <lg n="1" xml:id="spp-M24104B1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M24104B1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M24104B1-headnote-3">
+            <lg n="1" xml:id="spp-M24104B1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M24104B1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M24104B1-line-1" n="1">Shall then my kindred all my glory claim,</l>
+            <l xml:id="swift-M24104B1-line-2" n="2">And boldly rob me of eternal fame?</l>
+            <l xml:id="swift-M24104B1-line-3" n="3">To ev'ry art my gen'rous aid I lend,</l>
+            <l xml:id="swift-M24104B1-line-4" n="4">To music, painting, poetry, a friend.</l>
+            <l xml:id="swift-M24104B1-line-5" n="5">'Tis I celestial harmony inspire,</l>
+            <l xml:id="swift-M24104B1-line-6" n="6"><note place="foot">·Quills of the harpsichord.</note>When fix'd to strike the sweetly warbling wire.</l>
+            <l xml:id="swift-M24104B1-line-7" n="7">I to the faithful canvas have consign'd</l>
+            <l xml:id="swift-M24104B1-line-8" n="8">Each bright idea of the painter's mind;</l>
+            <l xml:id="swift-M24104B1-line-9" n="9">Behold from Raphael's sky-dipt pencils rise</l>
+            <l xml:id="swift-M24104B1-line-10" n="10">Such heav'nly scenes as charm the gazer's eyes.</l>
+            <l xml:id="swift-M24104B1-line-11" n="11">O let me now aspire to higher praise!</l>
+            <l xml:id="swift-M24104B1-line-12" n="12">Ambitious to transcribe your deathless lays:</l>
+            <l xml:id="swift-M24104B1-line-13" n="13">Nor thou, immortal bard! my aid refuse,</l>
+            <l xml:id="swift-M24104B1-line-14" n="14">Accept me as the servant of your muse;</l>
+            <l xml:id="swift-M24104B1-line-15" n="15">Then shall the world my wond'rous worth declare,</l>
+            <l xml:id="swift-M24104B1-line-16" n="16">And all mankind your matchless pen revere.<note place="foot">·The Dean in a letter to Mrs. Pilkington says, “I never saw better verses in their kind than those you have pleased to make upon me; of which opinion are some particular friends of genius and taste to whom I ventured to communicate them. I can only assure you, that I value your present as much as either of the others, only you must permit it to be turned into a pen; which office I will perform with my own hand, and never permit any other to use it.”.</note></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

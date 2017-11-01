@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SWIFT TO SHERIDAN, IN REPLY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 17NO13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="982-15W1">
+          <head type="note" n="1" xml:id="spp-982-15W1-headnote-1">
+            <lg n="1" xml:id="spp-982-15W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-982-15W1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-982-15W1-headnote-2">
+            <lg n="1" xml:id="spp-982-15W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-982-15W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-982-15W1-headnote-3">
+            <lg n="1" xml:id="spp-982-15W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-982-15W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-982-15W1-line-1" n="1">T<hi rend="small-caps">OM</hi>, for a goose you keep but base quills,</l>
+            <l xml:id="swift-982-15W1-line-2" n="2">They're fit for nothing else but pasquills.</l>
+            <l xml:id="swift-982-15W1-line-3" n="3">I've often heard it from the wise,</l>
+            <l xml:id="swift-982-15W1-line-4" n="4">That inflammations in the eyes</l>
+            <l xml:id="swift-982-15W1-line-5" n="5">Will quickly fall upon the tongue,</l>
+            <l xml:id="swift-982-15W1-line-6" n="6">And thence, as fam'd John Bunyan sung,</l>
+            <l xml:id="swift-982-15W1-line-7" n="7">From out the pen will presently</l>
+            <l xml:id="swift-982-15W1-line-8" n="8">On paper dribble daintily.</l>
+            <l xml:id="swift-982-15W1-line-9" n="9">Suppose I call'd you goose, it is hard</l>
+            <l xml:id="swift-982-15W1-line-10" n="10">One word should stick thus in your gizzard.</l>
+            <l xml:id="swift-982-15W1-line-11" n="11">You're my goose, and no other man's;</l>
+            <l xml:id="swift-982-15W1-line-12" n="12">And you know, all my geese are swans:</l>
+            <l xml:id="swift-982-15W1-line-13" n="13">Only one scurvy thing I find,</l>
+            <l xml:id="swift-982-15W1-line-14" n="14">Swans sing when dying, geese when blind.</l>
+            <l xml:id="swift-982-15W1-line-15" n="15">But now I smoke where lies the slander,──</l>
+            <l xml:id="swift-982-15W1-line-16" n="16">I call'd you goose, instead of gander;</l>
+            <l xml:id="swift-982-15W1-line-17" n="17">For that, dear Tom, ne'er fret and vex,</l>
+            <l xml:id="swift-982-15W1-line-18" n="18">I'm sure you cackle like the sex.</l>
+            <l xml:id="swift-982-15W1-line-19" n="19">I know the gander always goes</l>
+            <l xml:id="swift-982-15W1-line-20" n="20">With a quill stuck across his nose;</l>
+            <l xml:id="swift-982-15W1-line-21" n="21">So your eternal pen is still</l>
+            <l xml:id="swift-982-15W1-line-22" n="22">Or in your claw, or in your bill.</l>
+            <l xml:id="swift-982-15W1-line-23" n="23">But whether you can tread or hatch,</l>
+            <l xml:id="swift-982-15W1-line-24" n="24">I've something else to do than watch.</l>
+            <l xml:id="swift-982-15W1-line-25" n="25">As for you're writing I am dead,</l>
+            <l xml:id="swift-982-15W1-line-26" n="26">I leave it for the second head.</l>
+            <l rend="indent(1)" xml:id="swift-982-15W1-line-27" n="27"><lb/>Deanry-House, Oct. 27, 1718.</l>
+            <l xml:id="swift-982-15W1-line-30" n="30">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 1DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40954B6">
+          <head type="note" n="1" xml:id="spp-M40954B6-headnote-1">
+            <lg n="1" xml:id="spp-M40954B6-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40954B6-headnote-1-line-group-1-line-1">Mrs. <hi rend="italics">B──ber</hi>, whose Name, at her earnest Request, I omitted in my first Volume, and who was the Lady I mentioned to have been with me at my first Interview with the Dean at Dr. <hi rend="italics">Delany</hi>'s Seat, was at this time writing a Volume of Poems, some of which I fancy might, at this Day, be seen in the Cheesemongers, Chandlers, Pastry-cooks, and Second-hand Book-<lb/>sellers Shops: However, dull as they were, they certainly would have been much worse, but that Doctor <hi rend="italics">Delany</hi> frequently held what he called a <hi rend="italics">Senatus Consultum</hi>, to correct these undigested Materials; at which were present sometimes the Dean, (in the Chair) but always Mrs. <hi rend="italics">Grierson</hi>, Mr. <hi rend="italics">Pilkington</hi>, the Doctor and myself. One Day that he had appointed for this Purpose, we received from him the following Lines, which as they contain a Compliment to me, from so eminent a Hand, I must insert: Take Notice, that as we were both diminutive in Size, Mr. <hi rend="italics">Pilkington</hi> was stiled <hi rend="italics">Thomas Thumb</hi>, and I his Lady fair:</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M40954B6-headnote-2">
+            <lg n="1" xml:id="spp-M40954B6-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40954B6-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M40954B6-headnote-3">
+            <lg n="1" xml:id="spp-M40954B6-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40954B6-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M40954B6-line-1" n="1">Mighty <hi rend="italics">Thomas</hi>, a solemn <hi rend="italics">Senatus</hi> I call,</l>
+            <l xml:id="swift-M40954B6-line-2" n="2">To consult for <hi rend="italics">Saphira</hi>, so come one and all;</l>
+            <l xml:id="swift-M40954B6-line-3" n="3">Quit Books, and quit Business, your Cure and your Care,</l>
+            <l xml:id="swift-M40954B6-line-4" n="4">For a long winding Walk, and a short Bill of Fare.</l>
+            <l xml:id="swift-M40954B6-line-5" n="5">I've Mutton for you, Sir; and as for the Ladies,</l>
+            <l xml:id="swift-M40954B6-line-6" n="6">As Friend <hi rend="italics">Virgil</hi> has it, I've <hi rend="italics">Aliud Mercedes</hi>;</l>
+            <l xml:id="swift-M40954B6-line-7" n="7">For <hi rend="italics">Letty</hi>, one Fill-bird, whereon to regale,</l>
+            <l xml:id="swift-M40954B6-line-8" n="8">And a Peach for <note place="foot">·Mrs. <hi rend="italics">Grierson</hi>.</note> pale <hi rend="italics">Constance</hi>, to make a full Meal;</l>
+            <l xml:id="swift-M40954B6-line-9" n="9">And for your cruel Part<note place="foot">·My Mother, who used to argue with the Doctor, against his Declamations against eating Blood.</note>, who take Pleasure in Blood,</l>
+            <l xml:id="swift-M40954B6-line-10" n="10">I have that of the Grape, which is ten times as good:</l>
+            <l xml:id="swift-M40954B6-line-11" n="11">Flow Wit to her Honour, flow Wine to her Health,</l>
+            <l xml:id="swift-M40954B6-line-12" n="12">High rais'd be her Worth, above Titles or Wealth.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

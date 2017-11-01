@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  SIMILE:<lb/>  OR,<lb/>  WOMAN a CLOUD.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 10JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="613-S410">
+          <head type="note" n="1" xml:id="spp-613-S410-headnote-1">
+            <lg n="1" xml:id="spp-613-S410-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-613-S410-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-613-S410-headnote-2">
+            <lg n="1" xml:id="spp-613-S410-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-613-S410-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-613-S410-headnote-3">
+            <lg n="1" xml:id="spp-613-S410-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-613-S410-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-613-S410-line-1" n="1"><hi rend="display-initial">I</hi>N vain I oft have try'd to find</l>
+            <l xml:id="swift-613-S410-line-2" n="2">A <hi rend="italics">Simile</hi> for <hi rend="italics">Womankind</hi>;</l>
+            <l xml:id="swift-613-S410-line-3" n="3">A <hi rend="italics">Simile</hi> (I mean) to fit them,</l>
+            <l xml:id="swift-613-S410-line-4" n="4">In ev'ry Circumstance to hit them:</l>
+            <l xml:id="swift-613-S410-line-5" n="5">Thro' ev'ry Bird and Beast I went,</l>
+            <l xml:id="swift-613-S410-line-6" n="6">And ransack'd ev'ry Element,</l>
+            <l xml:id="swift-613-S410-line-7" n="7">And, after peeping thro' all Nature,</l>
+            <l xml:id="swift-613-S410-line-8" n="8">To find so whimsical a Creature,</l>
+            <l xml:id="swift-613-S410-line-9" n="9">A <hi rend="italics">Cloud</hi> presented to my View,</l>
+            <l xml:id="swift-613-S410-line-10" n="10">And strait this Parallel I drew:</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-11" n="11"><lb/>C<hi rend="small-caps">LOUDS</hi> turn with ev'ry Wind about,</l>
+            <l xml:id="swift-613-S410-line-12" n="12">And keep us in Suspence and Doubt;</l>
+            <l xml:id="swift-613-S410-line-13" n="13">Yet oft perverse, like <hi rend="italics">Womankind</hi>,</l>
+            <l xml:id="swift-613-S410-line-14" n="14">Are seen to scud against the Wind:</l>
+            <l xml:id="swift-613-S410-line-15" n="15">And are not <hi rend="italics">Women</hi> just the same?</l>
+            <l xml:id="swift-613-S410-line-16" n="16">For who can tell at what they aim?</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-17" n="17"><lb/>C<hi rend="small-caps">LOUDS</hi> keep the stoutest Mortals under,</l>
+            <l xml:id="swift-613-S410-line-18" n="18">When, bellowing, they discharge their Thunder;</l>
+            <l xml:id="swift-613-S410-line-19" n="19">So when the alarm Bell is rung,</l>
+            <l xml:id="swift-613-S410-line-20" n="20">Of <hi rend="italics">Xanty</hi>'s everlasting Tongue,</l>
+            <l xml:id="swift-613-S410-line-21" n="21">The Husband dreads its Loudness more</l>
+            <l xml:id="swift-613-S410-line-22" n="22">Than Lightning's Flash, or Thunder's Roar.</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-23" n="23"><lb/>C<hi rend="small-caps">LOUDS</hi> weep, as they do, without Pain;</l>
+            <l xml:id="swift-613-S410-line-24" n="24">For what are Tears but <hi rend="italics">Woman</hi>'s Rain?</l>
+            <l xml:id="swift-613-S410-line-25" n="25">The <hi rend="italics">Clouds</hi> about the Welkin roam,</l>
+            <l xml:id="swift-613-S410-line-26" n="26">And Ladies seldom stay at Home.</l>
+            <l xml:id="swift-613-S410-line-27" n="27">The <hi rend="italics">Clouds</hi> build Castles in the Air,</l>
+            <l xml:id="swift-613-S410-line-28" n="28">A Thing peculiar to the Fair:</l>
+            <l xml:id="swift-613-S410-line-29" n="29">For all the Schemes, of their forecasting,</l>
+            <l xml:id="swift-613-S410-line-30" n="30">Are not more solid, or more lasting.</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-31" n="31"><lb/>A C<hi rend="small-caps">LOUD</hi> is light by Turns, and dark,</l>
+            <l xml:id="swift-613-S410-line-32" n="32">Such is a Lady with her Spark:</l>
+            <l xml:id="swift-613-S410-line-33" n="33">Now in a sullen, pouting Gloom,</l>
+            <l xml:id="swift-613-S410-line-34" n="34">She seems to darken all the Room;</l>
+            <l xml:id="swift-613-S410-line-35" n="35">Again she's pleas'd, his Fears beguil'd,</l>
+            <l xml:id="swift-613-S410-line-36" n="36">And all is clear'd, when she has smil'd:</l>
+            <l xml:id="swift-613-S410-line-37" n="37">In this they're wondrously alike,</l>
+            <l xml:id="swift-613-S410-line-38" n="38">(I hope the <hi rend="italics">Simile</hi> will strike)</l>
+            <l xml:id="swift-613-S410-line-39" n="39">Tho' in the darkest Dumps you view 'em,</l>
+            <l xml:id="swift-613-S410-line-40" n="40">Stay but a Moment, you'll see thro' 'em,</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-41" n="41"><lb/>A C<hi rend="small-caps">LOUD</hi> is apt to make Reflection,</l>
+            <l xml:id="swift-613-S410-line-42" n="42">And frequently produce Infection;</l>
+            <l xml:id="swift-613-S410-line-43" n="43">Thus <hi rend="italics">Chloe</hi>, with small Provocation,</l>
+            <l xml:id="swift-613-S410-line-44" n="44">Blasts ev'ry Neighbour's Reputation.</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-45" n="45"><lb/>T<hi rend="small-caps">HE</hi> <hi rend="italics">Clouds</hi> delight in gaudy Show,</l>
+            <l xml:id="swift-613-S410-line-46" n="46">For they, like Ladies, have their Beau;</l>
+            <l xml:id="swift-613-S410-line-47" n="47">The gravest Matron must confess,</l>
+            <l xml:id="swift-613-S410-line-48" n="48">That she herself is fond of Dress:</l>
+            <l xml:id="swift-613-S410-line-49" n="49">Observe the <hi rend="italics">Clouds</hi> in Pomp array'd,</l>
+            <l xml:id="swift-613-S410-line-50" n="50">With various Colours are display'd;</l>
+            <l xml:id="swift-613-S410-line-51" n="51">The Pink, the Rose, the Violet Dye,</l>
+            <l xml:id="swift-613-S410-line-52" n="52">In that great Drawing-room the Sky;</l>
+            <l xml:id="swift-613-S410-line-53" n="53">How do these differ from our Graces,</l>
+            <l xml:id="swift-613-S410-line-54" n="54">In Garden Silks, Brocades, and Laces?</l>
+            <l xml:id="swift-613-S410-line-55" n="55">Are they not such another Sight,</l>
+            <l xml:id="swift-613-S410-line-56" n="56">When met upon a Birth-day Night?</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-57" n="57"><lb/>T<hi rend="small-caps">HE</hi> <hi rend="italics">Clouds</hi> delight to change their Fashion,</l>
+            <l xml:id="swift-613-S410-line-58" n="58">(Dear Ladies be not in a Passion,</l>
+            <l xml:id="swift-613-S410-line-59" n="59">Nor let this Whim to you seem strange,</l>
+            <l xml:id="swift-613-S410-line-60" n="60">Who ev'ry Hour delight to change,)</l>
+            <l xml:id="swift-613-S410-line-61" n="61">In them and you alike are seen</l>
+            <l xml:id="swift-613-S410-line-62" n="62">The sullen Symptoms of the Spleen;</l>
+            <l xml:id="swift-613-S410-line-63" n="63">The Moment that your Vapours rise,</l>
+            <l xml:id="swift-613-S410-line-64" n="64">We see them dropping from your Eyes.</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-65" n="65"><lb/>I<hi rend="small-caps">N</hi> Ev'ning fair you may behold</l>
+            <l xml:id="swift-613-S410-line-66" n="66">The <hi rend="italics">Clouds</hi> all fring'd with borrow'd Gold;</l>
+            <l xml:id="swift-613-S410-line-67" n="67">And this is many a Lady's Case,</l>
+            <l xml:id="swift-613-S410-line-68" n="68">Who flaunts about in borrow'd Lace:</l>
+            <l xml:id="swift-613-S410-line-69" n="69">Grave Matrons are like <hi rend="italics">Clouds</hi> of Snow,</l>
+            <l xml:id="swift-613-S410-line-70" n="70">Their Words fall thick, and soft, and slow;</l>
+            <l xml:id="swift-613-S410-line-71" n="71">While brisk Coquets, like rattling Hail,</l>
+            <l xml:id="swift-613-S410-line-72" n="72">Our Ears on ev'ry Side assail.</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-73" n="73"><lb/>C<hi rend="small-caps">LOUDS</hi>, when they interrupt our Sight,</l>
+            <l xml:id="swift-613-S410-line-74" n="74">Deprive us of celestial Light;</l>
+            <l xml:id="swift-613-S410-line-75" n="75">So when my <hi rend="italics">Celia</hi> I pursue,</l>
+            <l xml:id="swift-613-S410-line-76" n="76">No Heav'n besides I have in View.</l>
+            <l rend="indent(1)" xml:id="swift-613-S410-line-77" n="77"><lb/>T<hi rend="small-caps">HUS</hi>, on Comparison, you see,</l>
+            <l xml:id="swift-613-S410-line-78" n="78">In ev'ry Instance they agree;</l>
+            <l xml:id="swift-613-S410-line-79" n="79">So like, so very much the same,</l>
+            <l xml:id="swift-613-S410-line-80" n="80">The one may go by t'others Name.</l>
+            <l xml:id="swift-613-S410-line-81" n="81">Let me proclaim it, then, aloud,</l>
+            <l xml:id="swift-613-S410-line-82" n="82">That ev'ry <hi rend="italics">Woman</hi> is a <hi rend="italics">Cloud</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On his own Deafness</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 4DE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673A34BK">
+          <head type="note" n="1" xml:id="spp-673A34BK-headnote-1">
+            <lg n="1" xml:id="spp-673A34BK-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A34BK-headnote-1-line-group-1-line-1"><hi rend="italics">The following </hi>Epigram<hi rend="italics"> comes from </hi>Dublin<hi rend="italics">, and is said to be wrote by Dr</hi>. Swift.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-673A34BK-headnote-2">
+            <lg n="1" xml:id="spp-673A34BK-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A34BK-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-673A34BK-headnote-3">
+            <lg n="1" xml:id="spp-673A34BK-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A34BK-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-673A34BK-line-1" n="1">Vertiginosus, inops, surdus, male gratus amicis:</l><l xml:id="swift-673A34BK-line-2" n="2">Non campana sonans, tonitru non ab Jove missum;</l><l xml:id="swift-673A34BK-line-3" n="3">Quod mage mirandum, saltem si credere fas est,</l><l xml:id="swift-673A34BK-line-4" n="4">Vix clamosa meas mulier jam percutit aures.</l><l rend="center" xml:id="swift-673A34BK-line-5" n="5">In English,<lb/><hi rend="italics">Deaf, giddy, helpless, left alone,</hi></l><l xml:id="swift-673A34BK-line-6" n="6">To all my Friends a Burthen grown:</l><l xml:id="swift-673A34BK-line-7" n="7">No more I hear my Church's Bell,</l><l xml:id="swift-673A34BK-line-8" n="8">Than if it Rang out for my Knell:</l><l xml:id="swift-673A34BK-line-9" n="9">At Thunder now no more I start,</l><l xml:id="swift-673A34BK-line-10" n="10">Than at the Rumbling of a Cart:</l><l xml:id="swift-673A34BK-line-11" n="11">Nay, what's incredible, alack!</l><l xml:id="swift-673A34BK-line-12" n="12">Nay, what's incredible, alack!I hardly hear a Woman's Clack</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

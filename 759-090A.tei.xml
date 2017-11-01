@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Receipt to restore Stella'<hi rend="superscript">s</hi> Youth</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 27JL11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="759-090A">
+          <head type="note" n="1" xml:id="spp-759-090A-headnote-1">
+            <lg n="1" xml:id="spp-759-090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-759-090A-headnote-1-line-group-1-line-1">Written 1725 By D. Swift&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-759-090A-headnote-2">
+            <lg n="1" xml:id="spp-759-090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-759-090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-759-090A-headnote-3">
+            <lg n="1" xml:id="spp-759-090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-759-090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-759-090A-line-1" n="1"><hi rend="large-writing">The</hi> Scottish Hinds too poor to house</l>
+            <l xml:id="swift-759-090A-line-2" n="2">In frosty Nights the Starving Cows,</l>
+            <l xml:id="swift-759-090A-line-3" n="3">While not a Blade of Grass or hay</l>
+            <l xml:id="swift-759-090A-line-4" n="4">Appears from Michælmas to May,</l>
+            <l xml:id="swift-759-090A-line-5" n="5">Must let their Cattle range in vain</l>
+            <l xml:id="swift-759-090A-line-6" n="6">For food along the barren plain.</l>
+            <l xml:id="swift-759-090A-line-7" n="7">Meagre and lank with fasting grown,</l>
+            <l xml:id="swift-759-090A-line-8" n="8">And Nothing left but Skin and Bone;</l>
+            <l xml:id="swift-759-090A-line-9" n="9">Exposd to Want and Wind, and Weather</l>
+            <l xml:id="swift-759-090A-line-10" n="10">They just keep Life and Soul together,</l>
+            <l xml:id="swift-759-090A-line-11" n="11">'Till Summer Showrs &amp; Ev'nings Dew</l>
+            <l xml:id="swift-759-090A-line-12" n="12">Again the verdant Glebe renew:</l>
+            <l xml:id="swift-759-090A-line-13" n="13">And as the Vegetables rise,</l>
+            <l xml:id="swift-759-090A-line-14" n="14">The famishd Cow her want supplies;</l>
+            <l xml:id="swift-759-090A-line-15" n="15">Without an Ounce of last Years flesh,</l>
+            <l xml:id="swift-759-090A-line-16" n="16">Whate'er she gains is young and fresh;</l>
+            <l xml:id="swift-759-090A-line-17" n="17">Grows plump and round and full of Mettle,</l>
+            <l xml:id="swift-759-090A-line-18" n="18">As rising from <hi rend="large-writing">Medea</hi>'s Kettle;</l>
+            <l xml:id="swift-759-090A-line-19" n="19">With Youth and Beauty to enchant</l>
+            <l xml:id="swift-759-090A-line-20" n="20">Europa's counterfeit Gallant</l>
+            <l rend="indent(1)" xml:id="swift-759-090A-line-21" n="21">Why <hi rend="large-writing">Stella</hi> should you knit your Brow,</l>
+            <l xml:id="swift-759-090A-line-22" n="22">If I compare you to a cow?</l>
+            <l xml:id="swift-759-090A-line-23" n="23">'Tis just the case; for you have fasted</l>
+            <l xml:id="swift-759-090A-line-24" n="24">So long till all your Flesh is wasted</l>
+            <l xml:id="swift-759-090A-line-25" n="25">And must against the warmer Days</l>
+            <l xml:id="swift-759-090A-line-26" n="26">Be sent to <hi rend="large-writing">Quilea</hi> <note place="foot">·A Friends House Seven or eight Miles from Dublin.</note> down to graze.</l>
+            <l xml:id="swift-759-090A-line-27" n="27"><hi rend="large-writing">Where</hi> Mirth, and Exercise, and Air,</l>
+            <l xml:id="swift-759-090A-line-28" n="28">Will soon your Appetite repair:</l>
+            <l xml:id="swift-759-090A-line-29" n="29">The Nutriment will from within</l>
+            <l xml:id="swift-759-090A-line-30" n="30">Round all your Body plump your skin,</l>
+            <l xml:id="swift-759-090A-line-31" n="31">Will agitate the lazy flood,</l>
+            <l xml:id="swift-759-090A-line-32" n="32">And fill your Brains with sprightly Blood</l>
+            <l xml:id="swift-759-090A-line-33" n="33">Nor flesh nor Blood will be the same</l>
+            <l xml:id="swift-759-090A-line-34" n="34">Nor ought of <hi rend="large-writing">Stella</hi> but the Name;</l>
+            <l xml:id="swift-759-090A-line-35" n="35">For what was ever understood</l>
+            <l xml:id="swift-759-090A-line-36" n="36">By humankind but flesh and Blood!</l>
+            <l xml:id="swift-759-090A-line-37" n="37">And if your Flesh and Blood be new,</l>
+            <l xml:id="swift-759-090A-line-38" n="38">You'll be no more your former YOU;</l>
+            <l xml:id="swift-759-090A-line-39" n="39">But for a blooming Nymph will pass</l>
+            <l xml:id="swift-759-090A-line-40" n="40">Just Fifteen coming Summer's Grass</l>
+            <l xml:id="swift-759-090A-line-41" n="41">Your jetty locks with Garlands crownd</l>
+            <l xml:id="swift-759-090A-line-42" n="42">While all the Squires from nine Miles round</l>
+            <l xml:id="swift-759-090A-line-43" n="43">Attended by a Brace of Currs,</l>
+            <l xml:id="swift-759-090A-line-44" n="44">With Jockey Bootts and Silver Spurrs;</l>
+            <l xml:id="swift-759-090A-line-45" n="45">No less than Justices o' <hi rend="large-writing">Quorum</hi>,</l>
+            <l xml:id="swift-759-090A-line-46" n="46">Their Cowboys bearing Cloaks before 'em,</l>
+            <l xml:id="swift-759-090A-line-47" n="47">Shall leave deciding broken Pates</l>
+            <l xml:id="swift-759-090A-line-48" n="48">To kiss your Steps at <hi rend="large-writing">Quilca</hi> Gates.</l>
+            <l xml:id="swift-759-090A-line-49" n="49">But least you should my Skill disgrace</l>
+            <l xml:id="swift-759-090A-line-50" n="50">Come back before your'e out of Case;</l>
+            <l xml:id="swift-759-090A-line-51" n="51">For if to Michaelmas you stay,</l>
+            <l xml:id="swift-759-090A-line-52" n="52">The newborn flesh will melt away</l>
+            <l xml:id="swift-759-090A-line-53" n="53">The Squires in Scorn will fly the House</l>
+            <l xml:id="swift-759-090A-line-54" n="54">For better Game and look for Grouse:</l>
+            <l xml:id="swift-759-090A-line-55" n="55">But here before the frost can mar it,</l>
+            <l xml:id="swift-759-090A-line-56" n="56">We'll make it firm with Beef and Claret.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

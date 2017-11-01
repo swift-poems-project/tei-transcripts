@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 26JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="917B07H1">
+          <head type="note" n="1" xml:id="spp-917B07H1-headnote-1">
+            <lg n="1" xml:id="spp-917B07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917B07H1-headnote-1-line-group-1-line-1">IV.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-917B07H1-headnote-2">
+            <lg n="1" xml:id="spp-917B07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917B07H1-headnote-2-line-group-1-line-1">ANOTHER.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-917B07H1-headnote-3">
+            <lg n="1" xml:id="spp-917B07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-917B07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-917B07H1-line-1" n="1"><hi rend="display-initial">B</hi>ECAUSE I am by nature <hi rend="italics">blind</hi>,</l>
+            <l xml:id="swift-917B07H1-line-2" n="2">I wisely chuse to walk <hi rend="italics">behind</hi>;</l>
+            <l xml:id="swift-917B07H1-line-3" n="3">However, to avoid disgrace,</l>
+            <l xml:id="swift-917B07H1-line-4" n="4">I let no creature see my <hi rend="italics">face</hi>.</l>
+            <l xml:id="swift-917B07H1-line-5" n="5">My <hi rend="italics">words</hi> are few, but spoke with <hi rend="italics">sense</hi>:</l>
+            <l xml:id="swift-917B07H1-line-6" n="6">And yet my <hi rend="italics">speaking</hi> gives offence:</l>
+            <l xml:id="swift-917B07H1-line-7" n="7">Or, if to <hi rend="italics">whisper</hi> I presume,</l>
+            <l xml:id="swift-917B07H1-line-8" n="8">The company will fly the room.</l>
+            <l xml:id="swift-917B07H1-line-9" n="9">By all the world I am <hi rend="italics">opprest</hi>,</l>
+            <l xml:id="swift-917B07H1-line-10" n="10">And my <hi rend="italics">oppression</hi> gives them <hi rend="italics">rest</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-917B07H1-line-11" n="11"><lb/>Through me, though sore against my will,</l>
+            <l xml:id="swift-917B07H1-line-12" n="12"><hi rend="italics">Instructors</hi> ev'ry art instil.</l>
+            <l xml:id="swift-917B07H1-line-13" n="13">By thousands I am <hi rend="italics">sold</hi> and <hi rend="italics">bought</hi>,</l>
+            <l xml:id="swift-917B07H1-line-14" n="14">Who neither get, nor lose a groat;</l>
+            <l xml:id="swift-917B07H1-line-15" n="15">For none, alas, by me can gain,</l>
+            <l xml:id="swift-917B07H1-line-16" n="16">But those who give me <hi rend="italics">greatest pain</hi>.</l>
+            <l xml:id="swift-917B07H1-line-17" n="17">Shall man presume to be my master,</l>
+            <l xml:id="swift-917B07H1-line-18" n="18">Who's but my <hi rend="italics">caterer</hi> and <hi rend="italics">taster</hi>?</l>
+            <l xml:id="swift-917B07H1-line-19" n="19">Yet though I always have my will,</l>
+            <l xml:id="swift-917B07H1-line-20" n="20">I'm but a meer <hi rend="italics">depender</hi> still:</l>
+            <l xml:id="swift-917B07H1-line-21" n="21">An humble <hi rend="italics">hanger-on</hi> at best;</l>
+            <l xml:id="swift-917B07H1-line-22" n="22">Of whom all people <hi rend="italics">make a jest</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-917B07H1-line-23" n="23"><lb/>In me detractors seek to find</l>
+            <l xml:id="swift-917B07H1-line-24" n="24">Two vices of a diff'rent kind:</l>
+            <l xml:id="swift-917B07H1-line-25" n="25">I'm too profuse, some cens'rers cry,</l>
+            <l xml:id="swift-917B07H1-line-26" n="26">And all I get, I <hi rend="italics">let it fly</hi>:</l>
+            <l xml:id="swift-917B07H1-line-27" n="27">While others give me many a curse,</l>
+            <l xml:id="swift-917B07H1-line-28" n="28">Because too <hi rend="italics">close</hi> I hold my <hi rend="italics">purse</hi>.</l>
+            <l xml:id="swift-917B07H1-line-29" n="29">But this I know, in either case</l>
+            <l xml:id="swift-917B07H1-line-30" n="30">They dare not <hi rend="italics">charge</hi> me to my <hi rend="italics">face</hi>.</l>
+            <l xml:id="swift-917B07H1-line-31" n="31">'Tis true indeed, sometimes I <hi rend="italics">save</hi>,</l>
+            <l xml:id="swift-917B07H1-line-32" n="32">Sometimes <hi rend="italics">run out</hi> of all I have;</l>
+            <l xml:id="swift-917B07H1-line-33" n="33">But when the year is at an end,</l>
+            <l xml:id="swift-917B07H1-line-34" n="34">Computing what I <hi rend="italics">get</hi> and <hi rend="italics">spend</hi>,</l>
+            <l xml:id="swift-917B07H1-line-35" n="35">My <hi rend="italics">goings out</hi>, and <hi rend="italics">comings in</hi>,</l>
+            <l xml:id="swift-917B07H1-line-36" n="36">I cannot find I lose or win;</l>
+            <l xml:id="swift-917B07H1-line-37" n="37">And therefore all that know me say,</l>
+            <l xml:id="swift-917B07H1-line-38" n="38">I justly keep the <hi rend="italics">middle way</hi>.</l>
+            <l xml:id="swift-917B07H1-line-39" n="39">I'm always by my betters led;</l>
+            <l xml:id="swift-917B07H1-line-40" n="40">I last <hi rend="italics">get up</hi>, am first <hi rend="italics">a-bed</hi>;</l>
+            <l xml:id="swift-917B07H1-line-41" n="41">Though, if I rise <hi rend="italics">before my time</hi>,</l>
+            <l xml:id="swift-917B07H1-line-42" n="42">The learn'd in sciences sublime</l>
+            <l xml:id="swift-917B07H1-line-43" n="43">Consult the stars, and thence foretel</l>
+            <l xml:id="swift-917B07H1-line-44" n="44"><hi rend="italics">Good luck</hi> to those, with whom I dwell.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

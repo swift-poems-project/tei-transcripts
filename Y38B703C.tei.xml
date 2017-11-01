@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Review, supposed to be wrote by<lb/>  Lord Chesterfield.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 27OC03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y38B703C">
+          <head type="note" n="1" xml:id="spp-Y38B703C-headnote-1">
+            <lg n="1" xml:id="spp-Y38B703C-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y38B703C-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y38B703C-headnote-2">
+            <lg n="1" xml:id="spp-Y38B703C-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y38B703C-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y38B703C-headnote-3">
+            <lg n="1" xml:id="spp-Y38B703C-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y38B703C-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y38B703C-line-1" n="1">Serene the Morn, the Weather fine,</l>
+            <l xml:id="swift-Y38B703C-line-2" n="2">Great George advancing oe'r the Plain</l>
+            <l xml:id="swift-Y38B703C-line-3" n="3">To view his Host and Concubine,</l>
+            <l xml:id="swift-Y38B703C-line-4" n="4">The goodly Blessings of his Reign.</l>
+            <l xml:id="swift-Y38B703C-line-5" n="5"><lb/>The Trumpets sound, the Courcers bound,</l>
+            <l xml:id="swift-Y38B703C-line-6" n="6">The Feild all blazed with Arms;</l>
+            <l xml:id="swift-Y38B703C-line-7" n="7">The Trojans true their Tackle shew,</l>
+            <l xml:id="swift-Y38B703C-line-8" n="8">And Hellen shews her Charms.</l>
+            <l xml:id="swift-Y38B703C-line-9" n="9"><lb/>The Gods of Love and War by turns</l>
+            <l xml:id="swift-Y38B703C-line-10" n="10">Preside upon his Phiz:</l>
+            <l xml:id="swift-Y38B703C-line-11" n="11">One while for glorious War he burns,</l>
+            <l xml:id="swift-Y38B703C-line-12" n="12">Another while for Miss.</l>
+            <l xml:id="swift-Y38B703C-line-13" n="13"><lb/>You'd think when he surveys his Men,</l>
+            <l xml:id="swift-Y38B703C-line-14" n="14">He'd waste the World for Fame;</l>
+            <l xml:id="swift-Y38B703C-line-15" n="15">And that he'd people it again</l>
+            <l xml:id="swift-Y38B703C-line-16" n="16">When he surveys the Dame.</l>
+            <l xml:id="swift-Y38B703C-line-17" n="17"><lb/>But all is Farce and nothing more,</l>
+            <l xml:id="swift-Y38B703C-line-18" n="18">This am'rous martial Wight</l>
+            <l xml:id="swift-Y38B703C-line-19" n="19">Age wont allow t'enjoy his Whore,</l>
+            <l xml:id="swift-Y38B703C-line-20" n="20">Nor Robin let him fight.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

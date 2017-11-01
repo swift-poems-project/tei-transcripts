@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Tho: Sheridan.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 2AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 17MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="H299CWJS">
+          <head type="note" n="1" xml:id="spp-H299CWJS-headnote-1">
+            <lg n="1" xml:id="spp-H299CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H299CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-H299CWJS-headnote-2">
+            <lg n="1" xml:id="spp-H299CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H299CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-H299CWJS-headnote-3">
+            <lg n="1" xml:id="spp-H299CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H299CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-H299CWJS-line-1" n="1">Dear Sherry I'm sorry for Your bloodsheded sore Eye</l>
+            <l xml:id="swift-H299CWJS-line-2" n="2">And the more I consider Your Case still the more I</l>
+            <l xml:id="swift-H299CWJS-line-3" n="3">Regret it, for see how the Pain on't has Wore Ye?</l>
+            <l xml:id="swift-H299CWJS-line-4" n="4">Besides the Good Whiggs Who strangely Adore Ye,</l>
+            <l xml:id="swift-H299CWJS-line-5" n="5">In pitty cry out, he's a poor blinded Tory.</l>
+            <l xml:id="swift-H299CWJS-line-6" n="6">But listen to me and I'll soon lay before Ye,</l>
+            <l xml:id="swift-H299CWJS-line-7" n="7">A Sovereign Cure well attested in Gory.</l>
+            <l xml:id="swift-H299CWJS-line-8" n="8">First wash it with Ros that makes Dative Rori,</l>
+            <l xml:id="swift-H299CWJS-line-9" n="9">Then send for three Leeches and lett them all Gore Ye,</l>
+            <l xml:id="swift-H299CWJS-line-10" n="10">Then take a Cordial Dram to restore Ye,</l>
+            <l xml:id="swift-H299CWJS-line-11" n="11">Then Take Lady Judith and walk a fine Boree</l>
+            <l xml:id="swift-H299CWJS-line-12" n="12">Then Take a Glass of good Claret ex more,</l>
+            <l xml:id="swift-H299CWJS-line-13" n="13">Then stay as long as You can ab Uxore,</l>
+            <l xml:id="swift-H299CWJS-line-14" n="14">And then if friend Dick will but Ope Y<hi rend="superscript">ṛ</hi> back door, he</l>
+            <l xml:id="swift-H299CWJS-line-15" n="15">Will quickly dispell the black Cloud that hangs o're Ye,</l>
+            <l xml:id="swift-H299CWJS-line-16" n="16">And make You so bright that You'll sing Tory rory,</l>
+            <l xml:id="swift-H299CWJS-line-17" n="17">And make a New Ballad Worth ten of John Dory.</l>
+            <l xml:id="swift-H299CWJS-line-18" n="18">(Tho' I Work Your Cure Yet he'll get the Glory)</l>
+            <l xml:id="swift-H299CWJS-line-19" n="19">I'm now in the Back school house high up one storey,</l>
+            <l xml:id="swift-H299CWJS-line-20" n="20">Quite weary With Teaching and ready to Mori,</l>
+            <l xml:id="swift-H299CWJS-line-21" n="21">My Candle's just out too, no longer I'll pore Ye</l>
+            <l xml:id="swift-H299CWJS-line-22" n="22">But away to Clem: Barry's, there's an End of My story.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

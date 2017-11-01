@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An <hi rend="italics">Irish</hi> BALLAD,<lb/>  UPON THE<lb/>  Rev<hi rend="superscript">d</hi> Mr. F<hi rend="small-caps">RANCIS </hi>H<hi rend="small-caps">IGGINS</hi><lb/>  HIS<lb/>  TRYAL;<lb/>  Before the Lord Lieutenant and Council,<lb/>  in <hi rend="italics">Dublin</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 22DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X91-N147">
+          <head type="note" n="1" xml:id="spp-X91-N147-headnote-1">
+            <lg n="1" xml:id="spp-X91-N147-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N147-headnote-1-line-group-1-line-1">To the Tune of <hi rend="italics">Ye Commons and Peers</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X91-N147-headnote-2">
+            <lg n="1" xml:id="spp-X91-N147-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N147-headnote-2-line-group-1-line-1"><hi rend="italics">St</hi>. 1. It was prov'd, by the <hi rend="italics">Clerk of the Crown</hi>'s own Confession, tho' at first he shuffled very much, and wou'd hardly answer to any thing, till the Archbishop of <hi rend="italics">Tuam</hi> lectur'd him very handsomely, and then he began to squeak, and own, <hi rend="italics">That several of them gave him Money for drawing the Presentment, Lord </hi>Santry<hi rend="italics"> a Piece of Gold, the Rest some less some more</hi>, as he express'd it. Being askt, <hi rend="italics">Whether it was usual on such occasions to give Money to the Clerk of the Crown</hi>? He answer'd, <hi rend="italics">It was</hi>. Qu. <hi rend="italics">Had you ever any given you, on any such occasion, except this time</hi>? He stopt a while, but being prest by the Archbishop to consider his Oath, he answer'd, <hi rend="italics">No</hi>. He was question'd about the Day it was writ, <hi rend="italics">Whether the Day the Quarrel happen'd, the Day before, or the Day after</hi>? but he cou'd not remember one word. It is certain it was <hi rend="italics">before</hi>. However it was prov'd by several of the Jury, that the Justices brought it up to them, and almost compell'd them to sign it, without any <hi rend="italics">Affidavit</hi>, or any thing else, and that several of them took it to be one <hi rend="italics">Ekins</hi>, who had formerly his Gown stript off by the Archbishop of <hi rend="italics">Dublin</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X91-N147-headnote-3">
+            <lg n="1" xml:id="spp-X91-N147-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N147-headnote-3-line-group-1-line-1"><hi rend="italics">St</hi>. 13. I suppose you have seen, in our Votes, how they have us'd Mr. <hi rend="italics">Mercer</hi>; and after all he press'd this Term for a Hearing, and to come to a Tryal; but was still put off by the City from Day to Day, and at last to the next Term.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-X91-N147-headnote-4">
+            <lg n="1" xml:id="spp-X91-N147-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N147-headnote-4-line-group-1-line-1"><hi rend="italics">St</hi>. 14. A Man was sent for several Miles in the Country by Mr. <hi rend="italics">Adan</hi>, Brother-in-law to the <hi rend="italics">Recorder</hi>, to come with all speed to <hi rend="italics">Dublin. That Mr. </hi>Moldworth<hi rend="italics"> his Landlord was going for </hi>England<hi rend="italics">, and if he did not come before he went, it would be much the worse for him</hi>. The Man came, and apply'd himself to Mr. <hi rend="italics">Adan</hi>, who 'tis suppos'd inform'd the Cabal; they sent for the Man, in the name of Mr. <hi rend="italics">Moldworth</hi>, to the <hi rend="italics">Rose-Tavern</hi>; and what happen'd there, and the Company, he told the same Night, or next Day to Mr. <hi rend="italics">Higgins</hi>'s Brother and another Man. The Man being summon'd before the <hi rend="italics">Council</hi>, would have deny'd the whole Matter of being at the <hi rend="italics">Rose</hi>, and the like; but being press'd, he at last declar'd, <hi rend="italics">That he was at the Rose with his Landlord; and </hi>(by degrees)<hi rend="italics"> that there were several other Gentlemen there, but knew nothing of it; that they askt him about a Story, but knew nothing of it; that they bid him relate the Story, which he did, and one of the Gentlemen at the same time writ down what he said, and afterwards forced him to swear to it, tho he told them several times he knew nothing of the matter, but had only heard such a Story</hi>. Thus much he declared on Oath before the Council; but still he knew none of the Gentlemen: they bid him <hi rend="italics">Look about, and see if he knew any of them in the Room that were there</hi>; on which it was observ'd that Mr. <hi rend="italics">Foster</hi> turn'd his Head on one side, that he might not see his Face, <hi rend="italics">He could see none</hi>. After this, with much difficulty, young <hi rend="italics">Higgins</hi> and the other were <hi rend="italics">sworn</hi>, and declared, <hi rend="italics">That the same Man came and told them the Story as related, and that there were present the Lord </hi>Santry<hi rend="italics">, the </hi>Landlord<hi rend="italics">, Mr. </hi>Speaker<hi rend="italics">, Mr. </hi>Witchet<hi rend="italics">, and Mr</hi>. Swan.</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-X91-N147-headnote-5">
+            <lg n="1" xml:id="spp-X91-N147-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N147-headnote-5-line-group-1-line-1"><hi rend="italics">St</hi>. 16. Mr. (<hi rend="italics">Carter</hi>, who married the Lady <hi rend="italics">Roscommon</hi>, one of the <hi rend="italics">Whig Justices</hi>, and since turn'd out,) talk'd so much Nonsense, and expos'd himself to that degree, that every body was asham'd of him.</l>
+            </lg>
+          </head>
+          <head type="note" n="6" xml:id="spp-X91-N147-headnote-6">
+            <lg n="1" xml:id="spp-X91-N147-headnote-6-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X91-N147-headnote-6-line-group-1-line-1"><hi rend="italics">St</hi>. 17. Lord <hi rend="italics">Santry</hi> sets forth in his Petition <hi rend="italics">That several Persons in Office and Places of Trust were afraid to appear</hi>. Which the Lord <hi rend="italics">Anglesea</hi> resented very highly, and said, <hi rend="italics">It was a Reflection on the whole Board; that if his Lordship prov'd it against any Person, then he ought to be censur'd for it; if not, his Lordship must answer for it</hi>. Several were nam'd, but to no purpose, the Messengers clearing them all, that they said <hi rend="italics">They would appear</hi>. At last they found out one, and only that one, who the Messenger own'd did declare <hi rend="italics">That she would not appear to dis-</hi><lb/><hi rend="italics">oblige</hi> any gody; and who should this be, but a poor Woman that makes and sells <hi rend="italics">Pies</hi> at <hi rend="italics">Drogheda</hi>.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-1" n="1">I.<lb/><hi rend="display-initial">A</hi>T a Sessions of late,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-2" n="2">There arose a Debate;</l>
+            <l xml:id="swift-X91-N147-line-3" n="3">Which the <hi rend="italics">Dons</hi> of the County resented;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-4" n="4">When a Hot-Headed <hi rend="italics">Jury</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-5" n="5">With less Wit than Fury,</l>
+            <l xml:id="swift-X91-N147-line-6" n="6">An O<hi rend="small-caps">RTHODOX </hi>C<hi rend="small-caps">HURCH</hi>-M<hi rend="small-caps">AN</hi> presented.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-7" n="7">II.<lb/>With a <hi rend="black-letter">Peer</hi> at their Head,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-8" n="8">Who the <hi rend="italics">Managers</hi> led,</l>
+            <l xml:id="swift-X91-N147-line-9" n="9">They most boldly petition'd his G<hi rend="small-caps">RACE</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-10" n="10">With Tumult and Riot,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-11" n="11">And Zeal most unquiet,</l>
+            <l xml:id="swift-X91-N147-line-12" n="12">To preserve the Q<hi rend="small-caps">UEEN</hi>'s Majesties Peace.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-13" n="13">III.<lb/>But the good Man in Black,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-14" n="14">Who no Courage did lack,</l>
+            <l xml:id="swift-X91-N147-line-15" n="15">Wou'd not bate the proud Noble an Ace; Sir,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-16" n="16">Tho' he hufft and look'd big,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-17" n="17">And hector'd at H<hi rend="small-caps">IGG</hi>,</l>
+            <l xml:id="swift-X91-N147-line-18" n="18">He bravely supported his Place Sir.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-19" n="19">IV.<lb/>Then, to bully and boast,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-20" n="20">They began with a Toast,</l>
+            <l xml:id="swift-X91-N147-line-21" n="21">To <hi rend="italics">William</hi> their Hero so brave;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-22" n="22">But oh! I profess,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-23" n="23">'Tis a sorrowful case,</l>
+            <l xml:id="swift-X91-N147-line-24" n="24">To disturb a Man's Rest in his Grave.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-25" n="25">V.<lb/>In peace let him Lie,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-26" n="26">With his Memory,</l>
+            <l xml:id="swift-X91-N147-line-27" n="27">Whilst our Gracious Queen A<hi rend="small-caps">NNE</hi> fills the Throne;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-28" n="28">By Birth and by Merit,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-29" n="29">Long may she inherit</l>
+            <l xml:id="swift-X91-N147-line-30" n="30">(In spite of her Foes) what's her own.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-31" n="31">VI.<lb/>But the <hi rend="black-letter">Whigs</hi> that Unite</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-32" n="32">To invade her just Right,</l>
+            <l xml:id="swift-X91-N147-line-33" n="33">Wou'd be their own Monarch's Electors;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-34" n="34">To pull High-Flyers down,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-35" n="35">The best Friends to the Crown,</l>
+            <l xml:id="swift-X91-N147-line-36" n="36">And set up themselves for <hi rend="black-letter">Protectors</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-37" n="37">VII.<lb/>These Sharpers still aim,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-38" n="38">At the <hi rend="black-letter">Forty-one</hi> Game,</l>
+            <l xml:id="swift-X91-N147-line-39" n="39">Enrag'd, while they cant <hi rend="black-letter">Moderation</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-40" n="40">That Knaves shou'd be Trump,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-41" n="41">And a Parliament <hi rend="black-letter">Rump</hi>,</l>
+            <l xml:id="swift-X91-N147-line-42" n="42">Palm bad Votes for Laws on the Nation.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-43" n="43">VIII.<lb/>Of late our <hi rend="italics">Recorder</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-44" n="44">'Gainst Duty and Order,</l>
+            <l xml:id="swift-X91-N147-line-45" n="45">Has flown in the Face of the D<hi rend="small-caps">UKE</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-46" n="46">But when he doth babble,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-47" n="47">To his Long-Ear'd Rabble,</l>
+            <l xml:id="swift-X91-N147-line-48" n="48">Some are forc'd to come off with a Puke.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-49" n="49">IX.<lb/>This Orator quaint</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-50" n="50">His Hearers does taint,</l>
+            <l xml:id="swift-X91-N147-line-51" n="51">Whence some who are pleas'd to be Witty,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-52" n="52">Do give him a Name,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-53" n="53">I here write with Shame,</l>
+            <l xml:id="swift-X91-N147-line-54" n="54">Not the <hi rend="italics">Mouth</hi> but the <hi rend="black-letter">A</hi>──<hi rend="black-letter">se</hi> of the City.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-55" n="55">X.<lb/>Some with addle Pates,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-56" n="56">In furious Debates,</l>
+            <l xml:id="swift-X91-N147-line-57" n="57">Have rail'd at the Gown in great Passion;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-58" n="58">For they have their Heart on</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-59" n="59">Fanatical <hi rend="italics">Wh──ton</hi></l>
+            <l xml:id="swift-X91-N147-line-60" n="60">Who wou'd bring the <hi rend="black-letter">Cloak</hi> into Fashion.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-61" n="61">XI.<lb/>Hence <hi rend="italics">Clod-pate</hi> and <hi rend="italics">Rowly</hi></l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-62" n="62">On the D<hi rend="small-caps">OCTOR</hi> fell foully,</l>
+            <l xml:id="swift-X91-N147-line-63" n="63">For slighting a Health so Prophane;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-64" n="64">And their Champion my Lord,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-65" n="65">Late a Man of the Sword,</l>
+            <l xml:id="swift-X91-N147-line-66" n="66">Wou'd his <hi rend="italics">Coll--l</hi>'s lost Honour maintain.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-67" n="67">XII.<lb/>This Youngster so Smart</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-68" n="68">Has attempted a part,</l>
+            <l xml:id="swift-X91-N147-line-69" n="69">To be for the Faction a Bully;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-70" n="70">But mark the Disaster,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-71" n="71">Of pert little Master,</l>
+            <l xml:id="swift-X91-N147-line-72" n="72">His Worship came off like a Cully.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-73" n="73">XIII.<lb/>He thought, without Doubt,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-74" n="74">The D<hi rend="small-caps">OCTOR</hi> must out,</l>
+            <l xml:id="swift-X91-N147-line-75" n="75">As soon as his Train he did summons;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-76" n="76">And hop'd to be try'd,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-77" n="77">By hearing one side,</l>
+            <l xml:id="swift-X91-N147-line-78" n="78">As M<hi rend="small-caps">ERCER</hi> was try'd by the Commons.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-79" n="79">XIV.<lb/>To gain him Success,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-80" n="80">Some great Ones, we guess,</l>
+            <l xml:id="swift-X91-N147-line-81" n="81">In private Cabals have assisted;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-82" n="82">But since under the <hi rend="italics">Rose</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-83" n="83">We will not disclose,</l>
+            <l xml:id="swift-X91-N147-line-84" n="84">Tho the Plot may in time be untwisted.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-85" n="85">XV.<lb/>With these <hi rend="italics">Owls</hi> of the Night,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-86" n="86">Was a <hi rend="italics">Swan</hi>, tho' not White,</l>
+            <l xml:id="swift-X91-N147-line-87" n="87">A Witness that swore fast and loose;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-88" n="88">But if Birds of a Feather</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-89" n="89">Do still flock together,</l>
+            <l xml:id="swift-X91-N147-line-90" n="90">'Tis plain that their <hi rend="italics">Swan</hi> was a <hi rend="italics">Goose</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-91" n="91">XVI.<lb/>A like Evidence</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-92" n="92">For Conscience and Sense</l>
+            <l xml:id="swift-X91-N147-line-93" n="93">Was <hi rend="italics">Tom Carter</hi> deep read in the Laws,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-94" n="94">Who by Falshood, and Fictions,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-95" n="95">And Gross Contradictions,</l>
+            <l xml:id="swift-X91-N147-line-96" n="96">Meant to strengthen, but ruin'd the Cause.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-97" n="97">XVII.<lb/>And as we do hear,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-98" n="98">They summon'd to Swear,</l>
+            <l xml:id="swift-X91-N147-line-99" n="99">Some persons in Office and Trust;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-100" n="100">I shall mention but one,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-101" n="101">And that's good as Ten,</l>
+            <l xml:id="swift-X91-N147-line-102" n="102">The <hi rend="italics">Maker of Pyes and Pye-crust</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-103" n="103">XVIII.<lb/>This Officer saith,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-104" n="104">She lives in <hi rend="italics">Tredath</hi>,</l>
+            <l xml:id="swift-X91-N147-line-105" n="105">An Evidence chief in the Case;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-106" n="106">But she wou'd not be seen,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-107" n="107">For fear that the Q<hi rend="small-caps">UEEN</hi></l>
+            <l xml:id="swift-X91-N147-line-108" n="108">Shou'd turn her quite out of her Place.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-109" n="109">XIX.<lb/>Thus my Moderate Friends,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-110" n="110">To gain their vile Ends,</l>
+            <l xml:id="swift-X91-N147-line-111" n="111">Their violent Methods pursue;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-112" n="112">But while Sir C<hi rend="small-caps">ON</hi>'s in place,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-113" n="113">To advise the D<hi rend="small-caps">UKE</hi>'s Grace,</l>
+            <l xml:id="swift-X91-N147-line-114" n="114">He their Plots and Cabals will undoe.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-115" n="115">XX.<lb/>Next A<hi rend="small-caps">NGLESEA</hi> brave</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-116" n="116">A Tribute shall have,</l>
+            <l xml:id="swift-X91-N147-line-117" n="117">And he in my Sonnet shall follow;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-118" n="118">The <hi rend="italics">Church's Defender</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-119" n="119">When few did befriend her.</l>
+            <l xml:id="swift-X91-N147-line-120" n="120">Who spake in her Case like <hi rend="italics">Apollo</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-121" n="121">XXI.<lb/>Then fill Boys the Glass,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-122" n="122">Here's a Health to his Grace,</l>
+            <l xml:id="swift-X91-N147-line-123" n="123">Whilst those two fast Friends are about him;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-124" n="124">Whom if he forsake,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-125" n="125">With Grief I must speak,</l>
+            <l xml:id="swift-X91-N147-line-126" n="126">In spight of his Guards they will rout him.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-127" n="127">XXII.<lb/>Before I conclude,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-128" n="128">The Cause of the Fewd,</l>
+            <l xml:id="swift-X91-N147-line-129" n="129">'Tis fit should be told, without Favour,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-130" n="130">How a Fresh-water Soldier,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-131" n="131">Who ne're had smelt Powder,</l>
+            <l xml:id="swift-X91-N147-line-132" n="132">Was scar'd at the <hi rend="italics">Cock of a Beaver</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-133" n="133">XXIII.<lb/>And if a <hi rend="italics">Cock'd Hat</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-134" n="134">Cou'd cause such Debate,</l>
+            <l xml:id="swift-X91-N147-line-135" n="135">As did in this Scuffle befal;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-136" n="136">Oh! what had it done,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-137" n="137">Had the Hat been a Gun,</l>
+            <l xml:id="swift-X91-N147-line-138" n="138">And loaded with Powder and Ball.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-139" n="139">XXIV.<lb/>Thus by giving them Rope,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-140" n="140">They have answer'd our Hope,</l>
+            <l xml:id="swift-X91-N147-line-141" n="141">And their Line, is now brought to an End</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-142" n="142">The D<hi rend="small-caps">OCTOR</hi>'s just Cause,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-143" n="143">For the Q<hi rend="small-caps">UEEN</hi> and the Laws,</l>
+            <l xml:id="swift-X91-N147-line-144" n="144">The <hi rend="italics">Church</hi>'s true Sons may defend.</l>
+            <l rend="center indent(1)" xml:id="swift-X91-N147-line-145" n="145">XXV.<lb/>But as it is Common,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-146" n="146">When Death Men doth summon,</l>
+            <l xml:id="swift-X91-N147-line-147" n="147">For Life to make efforts in vain;</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-148" n="148">Their Impotent Malice,</l>
+            <l rend="indent(1)" xml:id="swift-X91-N147-line-149" n="149">Hath made some faint Sallies,</l>
+            <l xml:id="swift-X91-N147-line-150" n="150">But now Dead, may they ne're rise again.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

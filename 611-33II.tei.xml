@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES by Dr. S<hi rend="small-caps">WIFT</hi>, upon the Presents made<lb/>  him by the Earl of O<hi rend="small-caps">RRERY</hi> and Dr. D<hi rend="small-caps">ELANY</hi><lb/>  on his Birth-Day, Nov. 30, 1732.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 31MR04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="611-33II">
+          <head type="note" n="1" xml:id="spp-611-33II-headnote-1">
+            <lg n="1" xml:id="spp-611-33II-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-33II-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-611-33II-headnote-2">
+            <lg n="1" xml:id="spp-611-33II-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-33II-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-611-33II-headnote-3">
+            <lg n="1" xml:id="spp-611-33II-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-611-33II-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-611-33II-line-1" n="1"><hi rend="display-initial">A</hi> Paper Book <hi rend="italics">is sent by</hi> <hi rend="small-caps">BOYLE</hi>.</l><l xml:id="swift-611-33II-line-2" n="2"><hi rend="italics">Too richly gilt for me to soil</hi>.</l><l xml:id="swift-611-33II-line-3" n="3">D<hi rend="small-caps">ELANY</hi> <hi rend="italics">sends a </hi>Silver Standish<hi rend="italics">,</hi></l><l xml:id="swift-611-33II-line-4" n="4">When I no more a Pen can brandish:</l><l rend="indent(1)" xml:id="swift-611-33II-line-5" n="5"><lb/>Let both around my Tomb be plac'd,</l><l xml:id="swift-611-33II-line-6" n="6">For Trophies of a Muse deceas'd;</l><l xml:id="swift-611-33II-line-7" n="7">And let the <note place="foot">·The Verses sent with the Presents, were inserted in our Miscellany, Numb. V. and VI.</note> friendly Lines they writ</l><l xml:id="swift-611-33II-line-8" n="8">In Praise of long-departed Wit,</l><l xml:id="swift-611-33II-line-9" n="9">Be 'grav'd on either Side in Columns,</l><l xml:id="swift-611-33II-line-10" n="10">More to my Fame than all my Volumes,</l><l xml:id="swift-611-33II-line-11" n="11">To burst with Envy, Spite and Rage,</l><l xml:id="swift-611-33II-line-12" n="12">To burst with Envy, Spite and Rage,The</l> V<hi rend="small-caps">ANDALS</hi> <hi rend="italics">of the present Age</hi>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

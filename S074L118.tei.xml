@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  LETTER<lb/>  FROM A<lb/>  COBLER in Patrick's-Street<lb/>  TO<lb/>  JET BLACK.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CDarkes-Burkey 19JA16"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S074L118">
+          <head type="note" n="1" xml:id="spp-S074L118-headnote-1">
+            <lg n="1" xml:id="spp-S074L118-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S074L118-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S074L118-headnote-2">
+            <lg n="1" xml:id="spp-S074L118-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S074L118-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S074L118-headnote-3">
+            <lg n="1" xml:id="spp-S074L118-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S074L118-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S074L118-line-1" n="1"><hi rend="display-initial">I</hi>F any Line I write's a Hobler,</l>
+            <l xml:id="swift-S074L118-line-2" n="2">Consider Sir that I'm a <hi rend="italics">Cobler</hi>;</l>
+            <l xml:id="swift-S074L118-line-3" n="3">Therefore I hope you'll give Allowance</l>
+            <l xml:id="swift-S074L118-line-4" n="4">To an old Friend, that you did know once.</l>
+            <l xml:id="swift-S074L118-line-5" n="5">Nor shou'd I this Compar'son offer,</l>
+            <l xml:id="swift-S074L118-line-6" n="6">Wer't not for <hi rend="italics">Jonathan</hi> of <hi rend="italics">Cloffer</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-S074L118-line-7" n="7"><lb/>Now I'm to shew the World d'ee see,</l>
+            <l xml:id="swift-S074L118-line-8" n="8">That I'm like You, and You're like me,</l>
+            <l xml:id="swift-S074L118-line-9" n="9">Like as Two <hi rend="italics">Pegs</hi>, or as Two <hi rend="italics">Tacks</hi>,</l>
+            <l xml:id="swift-S074L118-line-10" n="10">As this to tother <hi rend="italics">Ball of Wax</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-S074L118-line-11" n="11"><lb/>In all Things perfect Cousin Germans,</l>
+            <l xml:id="swift-S074L118-line-12" n="12">I <hi rend="italics">Vamp old Boots</hi>, You <hi rend="italics">Vamp old Sermons</hi>;</l>
+            <l xml:id="swift-S074L118-line-13" n="13">My Verses are but <hi rend="italics">So and So</hi>,</l>
+            <l xml:id="swift-S074L118-line-14" n="14">And yours I think a <hi rend="italics">Peg too low</hi>.</l>
+            <l xml:id="swift-S074L118-line-15" n="15">Like you I oftentimes <hi rend="italics">Wax warm</hi>,</l>
+            <l xml:id="swift-S074L118-line-16" n="16">And yet I do no Creature harm.</l>
+            <l xml:id="swift-S074L118-line-17" n="17">If I've a <hi rend="italics">Rupture</hi> with a Friend,</l>
+            <l xml:id="swift-S074L118-line-18" n="18">I <hi rend="italics">Patch it up</hi>, and there's an <hi rend="italics">End</hi>.</l>
+            <l xml:id="swift-S074L118-line-19" n="19">I oftentimes am forc'd to <hi rend="italics">Hammer</hi>,</l>
+            <l xml:id="swift-S074L118-line-20" n="20">Like you to make my Verses <hi rend="italics">Grammar</hi>.</l>
+            <l xml:id="swift-S074L118-line-21" n="21">Whole Hours prepond'ring in my Stall I</l>
+            <l xml:id="swift-S074L118-line-22" n="22">Sit for a Rhime to <hi rend="italics">Shilly shall I</hi>,</l>
+            <l xml:id="swift-S074L118-line-23" n="23">And after all I think Dear <hi rend="italics">Billy</hi>,</l>
+            <l xml:id="swift-S074L118-line-24" n="24">I'm forc'd to make it <hi rend="italics">Shall I shill I</hi>.</l>
+            <l xml:id="swift-S074L118-line-25" n="25">You see we both agree in Rhimes,</l>
+            <l xml:id="swift-S074L118-line-26" n="26">Why Wits you know will <hi rend="italics">Jump</hi> sometimes.</l>
+            <l xml:id="swift-S074L118-line-27" n="27">In one thing (tho' in all we're Brother-wise)</l>
+            <l xml:id="swift-S074L118-line-28" n="28">We differ, which I wish were otherwise;</l>
+            <l xml:id="swift-S074L118-line-29" n="29">Our <hi rend="italics">Black</hi>'s apply'd to diff'rent Use,</l>
+            <l xml:id="swift-S074L118-line-30" n="30">You <hi rend="italics">Blacken Men</hi>, I <hi rend="italics">Blacken Shoes</hi>;</l>
+            <l xml:id="swift-S074L118-line-31" n="31">Yet one Thing you observe that's mine,</l>
+            <l xml:id="swift-S074L118-line-32" n="32">The more you <hi rend="italics">Black</hi>, the more they <hi rend="italics">Shine</hi>.</l>
+            <l xml:id="swift-S074L118-line-33" n="33">To make us both alike in <hi rend="italics">Awl</hi>,</l>
+            <l xml:id="swift-S074L118-line-34" n="34">Oh that your <hi rend="italics">Rev'rence</hi> had a STALL!</l>
+            <l xml:id="swift-S074L118-line-35" n="35">For you can never hope a <hi rend="italics">Miter</hi>,</l>
+            <l xml:id="swift-S074L118-line-36" n="36">Because you are <hi rend="italics">Too fine a Writer</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-S074L118-line-37" n="37"><lb/>I must <hi rend="italics">Cut short</hi>, my Verses fail,</l>
+            <l xml:id="swift-S074L118-line-38" n="38">'Tis Time to take a Pot of Ale,</l>
+            <l xml:id="swift-S074L118-line-39" n="39">Dear <hi rend="italics">Jet</hi> I wish with all my Heart</l>
+            <l xml:id="swift-S074L118-line-40" n="40">That <hi rend="italics">You</hi> were here, and <hi rend="italics">tother Quart</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

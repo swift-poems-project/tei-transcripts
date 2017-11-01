@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3AP03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="368A315A">
+          <head type="note" n="1" xml:id="spp-368A315A-headnote-1">
+            <lg n="1" xml:id="spp-368A315A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A315A-headnote-1-line-group-1-line-1">Dean Swift at my Lord Cartwrights assembly wrote these following lines on a Card, Which was carried to the Lord.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-368A315A-headnote-2">
+            <lg n="1" xml:id="spp-368A315A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A315A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-368A315A-headnote-3">
+            <lg n="1" xml:id="spp-368A315A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A315A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-368A315A-line-1" n="1">My very good Lord, <lb/>It's a very hard task,</l>
+            <l xml:id="swift-368A315A-line-2" n="2">That I should thus wait, <lb/>And have nothing to ask.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Dean to Tho: Sheridan</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 20JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 30NO04, 28JE14, 28JL14; EMENDED JW 5AP17, 26JL17 (1)</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="978-CWJS">
+          <head type="note" n="1" xml:id="spp-978-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-978-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-978-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-978-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-978-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-978-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-978-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-978-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-978-CWJS-headnote-3-line-group-1-line-1">S<hi rend="superscript">r</hi> 08:</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-978-CWJS-line-1" n="1">When I saw you to-day, as I went with L<hi rend="superscript">ḍ</hi> Anglesey</l>
+            <l xml:id="swift-978-CWJS-line-2" n="2">Lord! said I, Who's that Parson? how Awkardly dangles he!</l>
+            <l xml:id="swift-978-CWJS-line-3" n="3">When Whip You Trot up, without minding Your Betters,</l>
+            <l xml:id="swift-978-CWJS-line-4" n="4">To the Very Coach side, and threaten Your Letters</l>
+            <l rend="indent(1)" xml:id="swift-978-CWJS-line-5" n="5"><lb/>Is the Poison and Dagger You boast in Your Jaws Trow?</l>
+            <l xml:id="swift-978-CWJS-line-6" n="6">Are You still in y<hi rend="superscript">r</hi> Cart with Convitia Ex Plaustro?</l>
+            <l rend="indent(1)" xml:id="swift-978-CWJS-line-7" n="7"><lb/>But to scold is Your Trade which I soon shou'd be foil'd in</l>
+            <l xml:id="swift-978-CWJS-line-8" n="8">For Scolding is just quasì diceres School-din.</l>
+            <l xml:id="swift-978-CWJS-line-9" n="9">And I think I may say, You cou'd many good shillings get</l>
+            <l xml:id="swift-978-CWJS-line-10" n="10">Were You drest Like a Bawd &amp; sold Oysters at Billings-Gate.</l>
+            <l xml:id="swift-978-CWJS-line-11" n="11">But Coach it or Cart it, I'd have You know sirrah,</l>
+            <l xml:id="swift-978-CWJS-line-12" n="12">I'll write tho' I'm forc'd to Write in a Wheel-Barrow.</l>
+            <l xml:id="swift-978-CWJS-line-13" n="13">Nay Hector and Swagger, You'll still find me stanch,</l>
+            <l xml:id="swift-978-CWJS-line-14" n="14">And You and Your Cart shall give me Chart Blanche.</l>
+            <l xml:id="swift-978-CWJS-line-15" n="15">Since You write in a Cart, keep it Tecta et sarta</l>
+            <l xml:id="swift-978-CWJS-line-16" n="16">'Tis all You have for't, 'tis your best Magna Carta,</l>
+            <l xml:id="swift-978-CWJS-line-17" n="17">And I Love You so well, as I told You long ago,</l>
+            <l xml:id="swift-978-CWJS-line-18" n="18">That I'll ne're give my Vote for Delenda Cart-ago.</l>
+            <l rend="indent(1)" xml:id="swift-978-CWJS-line-19" n="19"><lb/>Now You write from Your Cellar──I find out Y<hi rend="superscript">ṛ</hi> Art,</l>
+            <l xml:id="swift-978-CWJS-line-20" n="20">You Rhyme as folks Fence in <hi rend="italics">Tierce</hi> and in <hi rend="italics">Cart</hi></l>
+            <l xml:id="swift-978-CWJS-line-21" n="21"><note place="foot">·(Viz:) ut tu prædicas.</note> Your Ink is your Poison Your Pen is──What not;</l>
+            <l xml:id="swift-978-CWJS-line-22" n="22"><note place="foot">·(viz:) ut ego assero Verius.</note> Your Ink is y<hi rend="superscript">r</hi> Drink, Your Pen is Your Pot</l>
+            <l xml:id="swift-978-CWJS-line-23" n="23">To my Goddess Melpomene Pride of her Sex</l>
+            <l xml:id="swift-978-CWJS-line-24" n="24">I gave as You begg, Your most hum<hi rend="superscript">bl</hi>: Respects:</l>
+            <l xml:id="swift-978-CWJS-line-25" n="25">The rest of Your Compliment, I dare not tell her,</l>
+            <l xml:id="swift-978-CWJS-line-26" n="26">For She never descends so low as the Celler;</l>
+            <l xml:id="swift-978-CWJS-line-27" n="27">But before You can put Your self under her Banners</l>
+            <l xml:id="swift-978-CWJS-line-28" n="28">She declares from her Throne You must learn better Manners.</l>
+            <l rend="indent(1)" xml:id="swift-978-CWJS-line-29" n="29"><lb/>If once in Y<hi rend="superscript">ṛ</hi> Celler My Phœbus should shine</l>
+            <l xml:id="swift-978-CWJS-line-30" n="30">I tell you I'd not give a fig for Your Wine;</l>
+            <l xml:id="swift-978-CWJS-line-31" n="31">So I'll leave him behind, for I certainly know it</l>
+            <l xml:id="swift-978-CWJS-line-32" n="32">What he ripens above Ground he sowers below it.</l>
+            <l rend="indent(1)" xml:id="swift-978-CWJS-line-33" n="33"><lb/>But why should We fight thus My Partner so dear</l>
+            <l xml:id="swift-978-CWJS-line-34" n="34">With Three Hundred and sixty five Poems a Year?</l>
+            <l xml:id="swift-978-CWJS-line-35" n="35">Let's Quarrell no longer, since Dan: and George Rochfort</l>
+            <l xml:id="swift-978-CWJS-line-36" n="36">Will laugh in their sleeves, I can tell Y<hi rend="superscript">ụ</hi> they watch for't.</l>
+            <l xml:id="swift-978-CWJS-line-37" n="37">Then George will Rejoyce, and Dan: will sing high day</l>
+            <l xml:id="swift-978-CWJS-line-38" n="38">Hoc Ithacus Velit, et magni Mercentur Atridæ.</l>
+            <l xml:id="swift-978-CWJS-line-39" n="39">«LD»Jon: Swift.</l>
+            <l xml:id="swift-978-CWJS-line-40" n="40">Written sign'd and seal'd five</l>
+            <l xml:id="swift-978-CWJS-line-41" n="41">Minutes and Eleven seconds after</l>
+            <l xml:id="swift-978-CWJS-line-42" n="42">the Receipt of Yours allowing seaven</l>
+            <l xml:id="swift-978-CWJS-line-43" n="43">Seconds for sealing and superscribing</l>
+            <l xml:id="swift-978-CWJS-line-44" n="44">from my Bed-side just 11 Minuts after</l>
+            <l xml:id="swift-978-CWJS-line-45" n="45">11. Sept<hi rend="superscript">br</hi>:  15<hi rend="superscript">th</hi>:  1718.</l>
+            <l rend="indent(5)" xml:id="swift-978-CWJS-line-46" n="46"><lb/>||||Eratum in y<hi rend="superscript">r</hi> last L. antepenult.</l>
+            <l rend="indent(5)" xml:id="swift-978-CWJS-line-47" n="47">||||pro <hi rend="italics">fear a Dun</hi>, lege <hi rend="italics">fear a Dan</hi>.</l>
+            <l rend="indent(5)" xml:id="swift-978-CWJS-line-48" n="48">||||ita omnes M.ss. quos ego Legi, et</l>
+            <l rend="indent(5)" xml:id="swift-978-CWJS-line-49" n="49">||||ita magis congruum tam sensui</l>
+            <l rend="indent(5)" xml:id="swift-978-CWJS-line-50" n="50">||||Quam veritati.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

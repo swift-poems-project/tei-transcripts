@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L. 1. O. 1. \heading above text on f.1\</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 6FE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-408-110H-footnote-headnote-1"/>
+          <link target="# #spp-408-110H-footnote-headnote-2"/>
+        </linkGrp>
+        <div n="408-110H">
+          <head type="note" n="1" xml:id="spp-408-110H-headnote-1">
+            <lg n="1" xml:id="spp-408-110H-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-110H-headnote-1-line-group-1-line-1">30 Me gelidum nemus &amp;c] Here is an admirable poetick sally, which rises even to enthusiasm. By this manner of expression the poet gives \10v\ us to understand his fresco walks and meditations in the fields and groves, which through all ages have been supposed <ref target="#spp-408-110H-footnote-headnote-1">1</ref><note n="1" xml:id="spp-408-110H-footnote-headnote-1" place="foot">Q. by whom.</note> to inspire poetry, agreeable to that of</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-408-110H-headnote-2">
+            <lg n="1" xml:id="spp-408-110H-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-110H-headnote-2-line-group-1-line-1">Carmina secessum scribentis &amp; otia quærunt. \Ovid, Tristia 1:1\</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-408-110H-headnote-3">
+            <lg n="1" xml:id="spp-408-110H-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-110H-headnote-3-line-group-1-line-1">which by the jocose <ref target="#spp-408-110H-footnote-headnote-2">2</ref><note n="2" xml:id="spp-408-110H-footnote-headnote-2" place="foot">Swift</note> Poet of own \sic\ age has been thus imitated;</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-408-110H-line-1" n="1">om.</l>
+            <l xml:id="swift-408-110H-line-2" n="2">om.</l>
+            <l xml:id="swift-408-110H-line-3" n="3">om.</l>
+            <l xml:id="swift-408-110H-line-4" n="4">om.</l>
+            <l xml:id="swift-408-110H-line-5" n="5">om.</l>
+            <l xml:id="swift-408-110H-line-6" n="6">om.</l>
+            <l xml:id="swift-408-110H-line-7" n="7">om.</l>
+            <l xml:id="swift-408-110H-line-8" n="8">om.</l>
+            <l xml:id="swift-408-110H-line-9" n="9">om.</l>
+            <l xml:id="swift-408-110H-line-10" n="10">om.</l>
+            <l xml:id="swift-408-110H-line-11" n="11">om.</l>
+            <l xml:id="swift-408-110H-line-12" n="12">om.</l>
+            <l xml:id="swift-408-110H-line-13" n="13">om.</l>
+            <l xml:id="swift-408-110H-line-14" n="14">om.</l>
+            <l xml:id="swift-408-110H-line-15" n="15">om.</l>
+            <l xml:id="swift-408-110H-line-16" n="16">om.</l>
+            <l xml:id="swift-408-110H-line-17" n="17">om.</l>
+            <l xml:id="swift-408-110H-line-18" n="18">om.</l>
+            <l xml:id="swift-408-110H-line-19" n="19">om.</l>
+            <l xml:id="swift-408-110H-line-20" n="20">om.</l>
+            <l xml:id="swift-408-110H-line-21" n="21">om.</l>
+            <l xml:id="swift-408-110H-line-22" n="22">om.</l>
+            <l xml:id="swift-408-110H-line-23" n="23">om.</l>
+            <l xml:id="swift-408-110H-line-24" n="24">om.</l>
+            <l xml:id="swift-408-110H-line-25" n="25">om.</l>
+            <l xml:id="swift-408-110H-line-26" n="26">om.</l>
+            <l xml:id="swift-408-110H-line-27" n="27">om.</l>
+            <l xml:id="swift-408-110H-line-28" n="28">om.</l>
+            <l xml:id="swift-408-110H-line-29" n="29">om.</l>
+            <l xml:id="swift-408-110H-line-30" n="30">om.</l>
+            <l xml:id="swift-408-110H-line-31" n="31">om.</l>
+            <l xml:id="swift-408-110H-line-32" n="32">om.</l>
+            <l xml:id="swift-408-110H-line-33" n="33">om.</l>
+            <l xml:id="swift-408-110H-line-34" n="34">om.</l>
+            <l xml:id="swift-408-110H-line-35" n="35">om.</l>
+            <l xml:id="swift-408-110H-line-36" n="36">om.</l>
+            <l xml:id="swift-408-110H-line-37" n="37">om.</l>
+            <l xml:id="swift-408-110H-line-38" n="38">om.</l>
+            <l xml:id="swift-408-110H-line-39" n="39">om.</l>
+            <l xml:id="swift-408-110H-line-40" n="40">om.</l>
+            <l xml:id="swift-408-110H-line-41" n="41">om.</l>
+            <l xml:id="swift-408-110H-line-42" n="42">om.</l>
+            <l xml:id="swift-408-110H-line-43" n="43">om.</l>
+            <l xml:id="swift-408-110H-line-44" n="44">om.</l>
+            <l xml:id="swift-408-110H-line-45" n="45">om.</l>
+            <l xml:id="swift-408-110H-line-46" n="46">om.</l>
+            <l xml:id="swift-408-110H-line-47" n="47">om.</l>
+            <l xml:id="swift-408-110H-line-48" n="48">om.</l>
+            <l xml:id="swift-408-110H-line-49" n="49">om.</l>
+            <l xml:id="swift-408-110H-line-50" n="50">om.</l>
+            <l xml:id="swift-408-110H-line-51" n="51">om.</l>
+            <l xml:id="swift-408-110H-line-52" n="52">om.</l>
+            <l xml:id="swift-408-110H-line-53" n="53">om.</l>
+            <l xml:id="swift-408-110H-line-54" n="54">om.</l>
+            <l xml:id="swift-408-110H-line-55" n="55">om.</l>
+            <l xml:id="swift-408-110H-line-56" n="56">om.</l>
+            <l xml:id="swift-408-110H-line-57" n="57">om.</l>
+            <l xml:id="swift-408-110H-line-58" n="58">om.</l>
+            <l xml:id="swift-408-110H-line-59" n="59">om.</l>
+            <l xml:id="swift-408-110H-line-60" n="60">om.</l>
+            <l xml:id="swift-408-110H-line-61" n="61">om.</l>
+            <l xml:id="swift-408-110H-line-62" n="62">om.</l>
+            <l xml:id="swift-408-110H-line-63" n="63">om.</l>
+            <l xml:id="swift-408-110H-line-64" n="64">om.</l>
+            <l xml:id="swift-408-110H-line-65" n="65">om.</l>
+            <l xml:id="swift-408-110H-line-66" n="66">om.</l>
+            <l xml:id="swift-408-110H-line-67" n="67">om.</l>
+            <l xml:id="swift-408-110H-line-68" n="68">om.</l>
+            <l xml:id="swift-408-110H-line-69" n="69">om.</l>
+            <l xml:id="swift-408-110H-line-70" n="70">om.</l>
+            <l xml:id="swift-408-110H-line-71" n="71">om.</l>
+            <l xml:id="swift-408-110H-line-72" n="72">om.</l>
+            <l xml:id="swift-408-110H-line-73" n="73">om.</l>
+            <l xml:id="swift-408-110H-line-74" n="74">om.</l>
+            <l xml:id="swift-408-110H-line-75" n="75">om.</l>
+            <l xml:id="swift-408-110H-line-76" n="76">om.</l>
+            <l xml:id="swift-408-110H-line-77" n="77">om.</l>
+            <l xml:id="swift-408-110H-line-78" n="78">om.</l>
+            <l xml:id="swift-408-110H-line-79" n="79">om.</l>
+            <l xml:id="swift-408-110H-line-80" n="80">om.</l>
+            <l xml:id="swift-408-110H-line-81" n="81">om.</l>
+            <l xml:id="swift-408-110H-line-82" n="82">om.</l>
+            <l xml:id="swift-408-110H-line-83" n="83">om.</l>
+            <l xml:id="swift-408-110H-line-84" n="84">om.</l>
+            <l xml:id="swift-408-110H-line-85" n="85">om.</l>
+            <l xml:id="swift-408-110H-line-86" n="86">om.</l>
+            <l xml:id="swift-408-110H-line-87" n="87">om.</l>
+            <l xml:id="swift-408-110H-line-88" n="88">om.</l>
+            <l xml:id="swift-408-110H-line-89" n="89">om.</l>
+            <l xml:id="swift-408-110H-line-90" n="90">om.</l>
+            <l xml:id="swift-408-110H-line-91" n="91">om.</l>
+            <l xml:id="swift-408-110H-line-92" n="92">om.</l>
+            <l xml:id="swift-408-110H-line-93" n="93">We gardens, and you wildernesses,</l>
+            <l xml:id="swift-408-110H-line-94" n="94">Assist all poets in distresses.</l>
+            <l xml:id="swift-408-110H-line-95" n="95">om.</l>
+            <l xml:id="swift-408-110H-line-96" n="96">om.</l>
+            <l xml:id="swift-408-110H-line-97" n="97">om.</l>
+            <l xml:id="swift-408-110H-line-98" n="98">om.</l>
+            <l xml:id="swift-408-110H-line-99" n="99">om.</l>
+            <l xml:id="swift-408-110H-line-100" n="100">om.</l>
+            <l xml:id="swift-408-110H-line-101" n="101">om.</l>
+            <l xml:id="swift-408-110H-line-102" n="102">om.</l>
+            <l xml:id="swift-408-110H-line-103" n="103">om.</l>
+            <l xml:id="swift-408-110H-line-104" n="104">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

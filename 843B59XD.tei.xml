@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">To the</hi> E<hi rend="small-caps">DITOR</hi> <hi rend="italics">of</hi> L<hi rend="small-caps">LOYD</hi>'s E<hi rend="small-caps">VENING </hi>P<hi rend="small-caps">OST</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 28DE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="843B59XD">
+          <head type="note" n="1" xml:id="spp-843B59XD-headnote-1">
+            <lg n="1" xml:id="spp-843B59XD-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843B59XD-headnote-1-line-group-1-line-1">8. The Dean, in his lunacy, had some intervals of sense, at which time his Guardians, or Physicians, took him out for the air; when they came to the Park, Swift remarked a new building, which he had never seen, and asked what it was designed for; to which Dr. Kingsbury answered, That, Mr. Dean, is the magazine for arms and powder, for the security of the city. Oh! oh! says the Dean, pulling out his pocket-book, let me take an <hi rend="italics">item</hi> of that. This is worth remarking; <hi rend="italics">My tablets</hi>, as Hamlet says, <hi rend="italics">My tablets── Memory put down that</hi>── which produced the following lines, being the last he ever wrote;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-843B59XD-headnote-2">
+            <lg n="1" xml:id="spp-843B59XD-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843B59XD-headnote-2-line-group-1-line-1">And then put up his pocket-book, laughing heartily at the conceit, and clinching it with, <hi rend="italics">After the steed's stolen, shut the stable door</hi>; after which he never said a sensible word, so that these lines may be said to have been <hi rend="italics">the last speech, and dying words of his</hi> W<hi rend="small-caps">IT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-843B59XD-headnote-3">
+            <lg n="1" xml:id="spp-843B59XD-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-843B59XD-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-843B59XD-line-1" n="1">Behold! a proof of <hi rend="italics">Irish</hi> sense!</l>
+            <l rend="indent(1)" xml:id="swift-843B59XD-line-2" n="2">Here <hi rend="italics">Irish</hi> wit is seen,</l>
+            <l xml:id="swift-843B59XD-line-3" n="3">When nothing's left, that's worth defence,</l>
+            <l rend="indent(1)" xml:id="swift-843B59XD-line-4" n="4">We build a magazine.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

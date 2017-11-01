@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Progress of</hi> P<hi rend="small-caps">OETRY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 10JA07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="230-04M1">
+          <head type="note" n="1" xml:id="spp-230-04M1-headnote-1">
+            <lg n="1" xml:id="spp-230-04M1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-230-04M1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-230-04M1-headnote-2">
+            <lg n="1" xml:id="spp-230-04M1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-230-04M1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-230-04M1-headnote-3">
+            <lg n="1" xml:id="spp-230-04M1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-230-04M1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-230-04M1-line-1" n="1"><hi rend="display-initial">T</hi>HE Farmer's Goose, who in the Stubble</l>
+            <l xml:id="swift-230-04M1-line-2" n="2">Has fed without Restraint, or Trouble;</l>
+            <l xml:id="swift-230-04M1-line-3" n="3">Grown fat with Corn, and sitting still,</l>
+            <l xml:id="swift-230-04M1-line-4" n="4">Can scarce get o'er the Barn-Door Sill:</l>
+            <l xml:id="swift-230-04M1-line-5" n="5">And hardly waddles forth, to cool</l>
+            <l xml:id="swift-230-04M1-line-6" n="6">Her Belly in the neighb'ring Pool:</l>
+            <l xml:id="swift-230-04M1-line-7" n="7">Nor loudly cackles at the Door;</l>
+            <l xml:id="swift-230-04M1-line-8" n="8">For cackling shews the Goose is poor.</l>
+            <l rend="indent(1)" xml:id="swift-230-04M1-line-9" n="9">B<hi rend="small-caps">UT</hi> when she must be turn'd to graze,</l>
+            <l xml:id="swift-230-04M1-line-10" n="10">And round the barren Common strays,</l>
+            <l xml:id="swift-230-04M1-line-11" n="11">Hard Exercise, and harder Fare,</l>
+            <l xml:id="swift-230-04M1-line-12" n="12">Soon make my Dame grow lank and spare:</l>
+            <l xml:id="swift-230-04M1-line-13" n="13">Her Body light, she tries her Wings,</l>
+            <l xml:id="swift-230-04M1-line-14" n="14">And scorns the Ground, and upward springs,</l>
+            <l xml:id="swift-230-04M1-line-15" n="15">While all the Parish, as she flies,</l>
+            <l xml:id="swift-230-04M1-line-16" n="16">Hear Sounds harmonious from the Skies.</l>
+            <l rend="indent(1)" xml:id="swift-230-04M1-line-17" n="17">S<hi rend="small-caps">UCH</hi> is the Poet, fresh in Pay,</l>
+            <l xml:id="swift-230-04M1-line-18" n="18">(The third Night's Profits of his Play;</l>
+            <l xml:id="swift-230-04M1-line-19" n="19">His Morning-Draughts 'till Noon can swill,</l>
+            <l xml:id="swift-230-04M1-line-20" n="20">Among his Brethren of the Quill:</l>
+            <l xml:id="swift-230-04M1-line-21" n="21">With good Roast Beef his Belly full,</l>
+            <l xml:id="swift-230-04M1-line-22" n="22">Grown lazy, foggy, fat, and dull,</l>
+            <l xml:id="swift-230-04M1-line-23" n="23">Deep sunk in Plenty, and Delight,</l>
+            <l xml:id="swift-230-04M1-line-24" n="24">What Poet e'er could take his Flight?</l>
+            <l xml:id="swift-230-04M1-line-25" n="25">Or stuff'd with Phlegm up to the Throat,</l>
+            <l xml:id="swift-230-04M1-line-26" n="26">What Poet e'er could sing a Note?</l>
+            <l xml:id="swift-230-04M1-line-27" n="27">Nor <hi rend="italics">Pegasus</hi> could bear the Load,</l>
+            <l xml:id="swift-230-04M1-line-28" n="28">Along the high celestial Road;</l>
+            <l xml:id="swift-230-04M1-line-29" n="29">The Steed, oppress'd, would break his Girth,</l>
+            <l xml:id="swift-230-04M1-line-30" n="30">To raise the Lumber from the Earth.</l>
+            <l rend="indent(1)" xml:id="swift-230-04M1-line-31" n="31">B<hi rend="small-caps">UT</hi>, view him in another Scene,</l>
+            <l xml:id="swift-230-04M1-line-32" n="32">When all his Drink is <hi rend="italics">Hippocrene</hi>,</l>
+            <l xml:id="swift-230-04M1-line-33" n="33">His Money spent, his Patrons fail,</l>
+            <l xml:id="swift-230-04M1-line-34" n="34">His Credit out for Cheese and Ale;</l>
+            <l xml:id="swift-230-04M1-line-35" n="35">His Two Years Coat so smooth and bare,</l>
+            <l xml:id="swift-230-04M1-line-36" n="36">Through ev'ry Thread it lets in Air;</l>
+            <l xml:id="swift-230-04M1-line-37" n="37">With hungry Meals his Body pin'd,</l>
+            <l xml:id="swift-230-04M1-line-38" n="38">His Guts and Belly full of Wind;</l>
+            <l xml:id="swift-230-04M1-line-39" n="39">And like a Jockey for a Race,</l>
+            <l xml:id="swift-230-04M1-line-40" n="40">His Flesh brought down to Flying-Case:</l>
+            <l xml:id="swift-230-04M1-line-41" n="41">Now his exalted Spirit loaths</l>
+            <l xml:id="swift-230-04M1-line-42" n="42">Incumbrances of Food and Cloaths:</l>
+            <l xml:id="swift-230-04M1-line-43" n="43">And up he rises, like a Vapour,</l>
+            <l xml:id="swift-230-04M1-line-44" n="44">Supported high on Wings of Paper;</l>
+            <l xml:id="swift-230-04M1-line-45" n="45">He singing flies, and flying sings,</l>
+            <l xml:id="swift-230-04M1-line-46" n="46">While from below all <hi rend="italics">Grubstreet</hi> rings.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

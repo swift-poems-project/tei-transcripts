@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-086-79L1-title-1">THE HISTORY OF<lb/>  VANBRUGH'S HOUSE<ref target="#spp-086-79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-086-79L1-footnote-title-1" place="foot">Dr. Swift made Sir John Vanbrugh ample amends for the pointed raillery of this and the preceding poem, in the Preface to his Miscellanies, 1727</note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 5JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-086-79L1-footnote-title-1 #spp-086-79L1-title-1"/>
+        </linkGrp>
+        <div n="086-79L1">
+          <head type="note" n="1" xml:id="spp-086-79L1-headnote-1">
+            <lg n="1" xml:id="spp-086-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-086-79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-086-79L1-headnote-2">
+            <lg n="1" xml:id="spp-086-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-086-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-086-79L1-headnote-3">
+            <lg n="1" xml:id="spp-086-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-086-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-086-79L1-line-1" n="1"><hi rend="display-initial">W</hi>HEN mother Clud had rose from play</l>
+            <l xml:id="swift-086-79L1-line-2" n="2">And call'd to take the cards away,</l>
+            <l xml:id="swift-086-79L1-line-3" n="3">Van saw, but seem'd not to regard,</l>
+            <l xml:id="swift-086-79L1-line-4" n="4">How <hi rend="italics">Miss</hi> pick'd every painted card,</l>
+            <l xml:id="swift-086-79L1-line-5" n="5">And, busy both with hand and eye,</l>
+            <l xml:id="swift-086-79L1-line-6" n="6">Soon rear'd a house two stories high.</l>
+            <l xml:id="swift-086-79L1-line-7" n="7">Van's <hi rend="italics">genius</hi>, without thought or lecture,</l>
+            <l xml:id="swift-086-79L1-line-8" n="8">Is hugely turn'd to <hi rend="italics">architecture</hi>:</l>
+            <l xml:id="swift-086-79L1-line-9" n="9">He view'd the edifice, and smil'd,</l>
+            <l xml:id="swift-086-79L1-line-10" n="10">Vow'd it was pretty for a child:</l>
+            <l xml:id="swift-086-79L1-line-11" n="11">It was so perfect in its kind,</l>
+            <l xml:id="swift-086-79L1-line-12" n="12">He kept the <hi rend="italics">model</hi> in his mind.</l>
+            <l rend="indent(1)" xml:id="swift-086-79L1-line-13" n="13">But, when he found the boys at play,</l>
+            <l xml:id="swift-086-79L1-line-14" n="14">And saw them dabbling in their clay,</l>
+            <l xml:id="swift-086-79L1-line-15" n="15">He stood behind a stall to lurk,</l>
+            <l xml:id="swift-086-79L1-line-16" n="16">And mark the progress of their work;</l>
+            <l xml:id="swift-086-79L1-line-17" n="17">With true delight observ'd them all</l>
+            <l xml:id="swift-086-79L1-line-18" n="18">Raking up <hi rend="italics">mud</hi> to build a wall.</l>
+            <l xml:id="swift-086-79L1-line-19" n="19">The plan he much admir'd, and took</l>
+            <l xml:id="swift-086-79L1-line-20" n="20">The <hi rend="italics">model</hi> in his table-book;</l>
+            <l xml:id="swift-086-79L1-line-21" n="21">Thought himself now exactly skill'd,</l>
+            <l xml:id="swift-086-79L1-line-22" n="22">And so resolv'd a <hi rend="italics">house</hi> to build;</l>
+            <l xml:id="swift-086-79L1-line-23" n="23">A <hi rend="italics">real house</hi>, with <hi rend="italics">rooms</hi>, and <hi rend="italics">stairs</hi>,</l>
+            <l xml:id="swift-086-79L1-line-24" n="24">Five times at least as big as theirs;</l>
+            <l xml:id="swift-086-79L1-line-25" n="25">Taller than <hi rend="italics">Miss's</hi> by two yards;</l>
+            <l xml:id="swift-086-79L1-line-26" n="26">Not a sham thing of clay or cards:</l>
+            <l xml:id="swift-086-79L1-line-27" n="27">And so he did; for, in a while,</l>
+            <l xml:id="swift-086-79L1-line-28" n="28">He built up such a monstrous pile,</l>
+            <l xml:id="swift-086-79L1-line-29" n="29">That no two chairmen could be found</l>
+            <l xml:id="swift-086-79L1-line-30" n="30">Able to lift it from the ground.</l>
+            <l xml:id="swift-086-79L1-line-31" n="31">Still at Whitehall it stands in view,</l>
+            <l xml:id="swift-086-79L1-line-32" n="32">Just in the place where first it grew:</l>
+            <l xml:id="swift-086-79L1-line-33" n="33">There all the little school-boys run,</l>
+            <l xml:id="swift-086-79L1-line-34" n="34">Envying to see themselves out-done.</l>
+            <l rend="indent(1)" xml:id="swift-086-79L1-line-35" n="35">From such deep rudiments as these,</l>
+            <l xml:id="swift-086-79L1-line-36" n="36">Van is become by due degrees</l>
+            <l xml:id="swift-086-79L1-line-37" n="37">For building fam'd, and justly reckon'd,</l>
+            <l xml:id="swift-086-79L1-line-38" n="38">At court, Vitruvius the <hi rend="italics">second</hi>:</l>
+            <l xml:id="swift-086-79L1-line-39" n="39">No wonder, since wise <hi rend="italics">authors</hi> show,</l>
+            <l xml:id="swift-086-79L1-line-40" n="40">That <hi rend="italics">best foundations</hi> must be <hi rend="italics">low</hi>:</l>
+            <l xml:id="swift-086-79L1-line-41" n="41">And now the Duke has wisely ta'en him</l>
+            <l xml:id="swift-086-79L1-line-42" n="42">To be his <hi rend="italics">architect</hi> at Blenheim.</l>
+            <l rend="indent(1)" xml:id="swift-086-79L1-line-43" n="43">But, raillery for once apart,</l>
+            <l xml:id="swift-086-79L1-line-44" n="44">If this rule holds in every art;</l>
+            <l xml:id="swift-086-79L1-line-45" n="45">Or if his Grace were no more skill'd in</l>
+            <l xml:id="swift-086-79L1-line-46" n="46">The art of battering walls than building,</l>
+            <l xml:id="swift-086-79L1-line-47" n="47">We might expect to see next year</l>
+            <l xml:id="swift-086-79L1-line-48" n="48">A <hi rend="italics">mouse-trap</hi>-man chief engineer!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

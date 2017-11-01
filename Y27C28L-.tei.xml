@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee 15OC95"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y27C28L-">
+          <head type="note" n="1" xml:id="spp-Y27C28L--headnote-1">
+            <lg n="1" xml:id="spp-Y27C28L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27C28L--headnote-1-line-group-1-line-1">
+                <note rend="flush right">NUMB. CCVI.&#13;</note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y27C28L--headnote-2">
+            <lg n="1" xml:id="spp-Y27C28L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27C28L--headnote-2-line-group-1-line-1"><hi rend="italics">The</hi> B<hi rend="small-caps">RITISH</hi> J<hi rend="small-caps">OURNAL</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y27C28L--headnote-3">
+            <lg n="1" xml:id="spp-Y27C28L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27C28L--headnote-3-line-group-1-line-1">
+                <note rend="align(center)">Saturday, August 27, 1726.<note rend="flush left"></note></note>
+              </l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-Y27C28L--headnote-4">
+            <lg n="1" xml:id="spp-Y27C28L--headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27C28L--headnote-4-line-group-1-line-1"><hi rend="display-initial">W</hi>E are <hi rend="italics">entreated</hi> by some of our Correspondents in <hi rend="italics">Dublin</hi> to publish the following Copy of Verses, which, it seems, are the Resentment of some young Authors, for a Slight put upon their Works, by a Journalist of this City: Although, in Compliance to the mentioned Request, we consent to print the ensuing Lines, yet we cannot do it without protesting, that we are no Way concerned in the Quarrel; that we design to side with neither Party; and that we don't think, with the Poet of this Composition, that 'tis fair Play to upbraid a Man with the Faults of Nature, or the Infirmities of his Constitution.</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-Y27C28L--headnote-5">
+            <lg n="1" xml:id="spp-Y27C28L--headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y27C28L--headnote-5-line-group-1-line-1"><hi rend="italics">Odi profanum vulgus &amp; arceo</hi>.<note rend="flush right">H<hi rend="small-caps">OR</hi>.</note></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y27C28L--line-1" n="1"><hi rend="display-initial">A</hi> Writer held in great Renown</l>
+            <l xml:id="swift-Y27C28L--line-2" n="2">By all the News-Boys of the Town.</l>
+            <l xml:id="swift-Y27C28L--line-3" n="3">Who ne'er (as I imagine) rose</l>
+            <l xml:id="swift-Y27C28L--line-4" n="4">Above the vulgar Turn of Prose,</l>
+            <l xml:id="swift-Y27C28L--line-5" n="5">Seeing so many Younkers dabble</l>
+            <l xml:id="swift-Y27C28L--line-6" n="6">In Poetry, to please the Rabble,</l>
+            <l xml:id="swift-Y27C28L--line-7" n="7">Like <hi rend="italics">Æsop</hi>'s Frog, with Envy swell'd,</l>
+            <l xml:id="swift-Y27C28L--line-8" n="8">The darling <hi rend="italics">Phaetons</hi> beheld:</l>
+            <l xml:id="swift-Y27C28L--line-9" n="9">Nothing, it seems, with him would down,</l>
+            <l xml:id="swift-Y27C28L--line-10" n="10">This rais'd his Laugh, and that his Frown:</l>
+            <l xml:id="swift-Y27C28L--line-11" n="11">Whate'er they writ was Stuff or Fustian,</l>
+            <l xml:id="swift-Y27C28L--line-12" n="12">And all was sentenc'd to Combustion:</l>
+            <l xml:id="swift-Y27C28L--line-13" n="13">In short, Sir, not a single Cantor</l>
+            <l xml:id="swift-Y27C28L--line-14" n="14">Of all the Tribe escap'd his Banter.</l>
+            <l xml:id="swift-Y27C28L--line-15" n="15">Now having, with a deal of Pleasure,</l>
+            <l xml:id="swift-Y27C28L--line-16" n="16">Anatomiz'd their Rhyme and Measure,</l>
+            <l xml:id="swift-Y27C28L--line-17" n="17">Weigh'd every Thought, and Word, and Letter,</l>
+            <l xml:id="swift-Y27C28L--line-18" n="18">Thinks he, Faith, I could jingle better:</l>
+            <l xml:id="swift-Y27C28L--line-19" n="19">Resolv'd to put it to the Test,</l>
+            <l xml:id="swift-Y27C28L--line-20" n="20">How far he could excel the rest,</l>
+            <l xml:id="swift-Y27C28L--line-21" n="21">He whips me on his <hi rend="italics">Sunday</hi>'s Cloaths,</l>
+            <l xml:id="swift-Y27C28L--line-22" n="22">And bids adieu to Mrs. <hi rend="italics">Prose</hi>.</l>
+            <l xml:id="swift-Y27C28L--line-23" n="23">By no Perswasion would he stay,</l>
+            <l xml:id="swift-Y27C28L--line-24" n="24">But to <hi rend="italics">Parnassus</hi> bent his Way;</l>
+            <l xml:id="swift-Y27C28L--line-25" n="25">Where having reach'd, with due Submission,</l>
+            <l xml:id="swift-Y27C28L--line-26" n="26">To th' Nine, presents his poor Petition.</l>
+            <l xml:id="swift-Y27C28L--line-27" n="27">Miss <hi rend="italics">Clio</hi>, having paus'd a while,</l>
+            <l xml:id="swift-Y27C28L--line-28" n="28">Return'd him Answer in this Style:</l>
+            <l xml:id="swift-Y27C28L--line-29" n="29">“Sir, <hi rend="italics">Phœbus</hi> made a Declaration,</l>
+            <l xml:id="swift-Y27C28L--line-30" n="30">“'Gainst all lame Members in the Nation;</l>
+            <l xml:id="swift-Y27C28L--line-31" n="31">“Nor does he ever think that those</l>
+            <l xml:id="swift-Y27C28L--line-32" n="32">“Should run in Rhyme, who limp in Prose.</l>
+            <l rend="indent(1)" xml:id="swift-Y27C28L--line-33" n="33"><lb/><hi rend="italics">Arbuckle</hi> heard,──── but heard with Anger,</l>
+            <l xml:id="swift-Y27C28L--line-34" n="34">And in his Heart could find to hang her;</l>
+            <l xml:id="swift-Y27C28L--line-35" n="35">His Nails he bites, his Breast he thumps,</l>
+            <l xml:id="swift-Y27C28L--line-36" n="36">And so departed in the Dumps:</l>
+            <l xml:id="swift-Y27C28L--line-37" n="37">But as your Bubbles game the more,</l>
+            <l xml:id="swift-Y27C28L--line-38" n="38">Nor yet by losing quit the Score;</l>
+            <l xml:id="swift-Y27C28L--line-39" n="39">So he, possess'd with double Flame,</l>
+            <l xml:id="swift-Y27C28L--line-40" n="40">Soon after to <hi rend="italics">Parnassus</hi> came:</l>
+            <l xml:id="swift-Y27C28L--line-41" n="41">And, hurried on by more Ambition,</l>
+            <l xml:id="swift-Y27C28L--line-42" n="42">In Person backs his old Petition:</l>
+            <l xml:id="swift-Y27C28L--line-43" n="43">Begg'd, pray'd, and begg'd and pray'd again,</l>
+            <l xml:id="swift-Y27C28L--line-44" n="44">Us'd e'ery Tone, but all in vain.</l>
+            <l rend="indent(1)" xml:id="swift-Y27C28L--line-45" n="45"><lb/>At last, upon a certain Day,</l>
+            <l xml:id="swift-Y27C28L--line-46" n="46">To <hi rend="italics">Phœbus, Clio</hi> takes her Way,</l>
+            <l xml:id="swift-Y27C28L--line-47" n="47">And flying through her heavenly Road,</l>
+            <l xml:id="swift-Y27C28L--line-48" n="48">Soon reach'd the Radiant God's Abode:</l>
+            <l xml:id="swift-Y27C28L--line-49" n="49">To whom she, after a Good-morrow,</l>
+            <l xml:id="swift-Y27C28L--line-50" n="50">In canting Style, express'd her Sorrow:</l>
+            <l xml:id="swift-Y27C28L--line-51" n="51">Told, that a Wight, yclep'd <hi rend="italics">Arbuckle</hi>,</l>
+            <l xml:id="swift-Y27C28L--line-52" n="52">Did often to her Sisters truckle,</l>
+            <l xml:id="swift-Y27C28L--line-53" n="53">And turn'd <hi rend="italics">Parnassus</hi> to a Stage:</l>
+            <l xml:id="swift-Y27C28L--line-54" n="54">“Ay! Dame, reply'd the Reverend Sage;</l>
+            <l xml:id="swift-Y27C28L--line-55" n="55">“By <hi rend="italics">Jove</hi> I'll make that <hi rend="italics">Grub-street</hi> Scraper,</l>
+            <l xml:id="swift-Y27C28L--line-56" n="56">“E'er I to Bed go, cut a Caper:</l>
+            <l xml:id="swift-Y27C28L--line-57" n="57">“He'll find, if he comes in my Clutches,</l>
+            <l xml:id="swift-Y27C28L--line-58" n="58">“But small Assistance from his Crutches.”<note place="foot">·If such Kinds of Abuse were justifiable, the Example of Sir <hi rend="italics">John Suckling</hi> might excuse our Author: That Gentleman, in a <hi rend="italics">Session of the Poets</hi>, written by him, makes <hi rend="italics">Apollo</hi> refuse the Bays to Sir <hi rend="italics">Williaam Davenant</hi>, because, as he said, there was no Precedent of a Laureat's wanting his Nose; but these are all <hi rend="italics">poor Jests</hi>, and we know by Experience, that <hi rend="italics">Poetry</hi> differs in this respect from the <hi rend="italics">Priesthood</hi>, since several have been admitted Brethren, and done it much Honour, <hi rend="italics">whose Beauty and Proportion would not have entitled them to Holy Orders</hi>.</note></l>
+            <l rend="indent(1)" xml:id="swift-Y27C28L--line-59" n="59">Eftsoons, they both like Swallows fly,</l>
+            <l xml:id="swift-Y27C28L--line-60" n="60">Down from <hi rend="italics">Olympus</hi> thro' the Sky;</l>
+            <l xml:id="swift-Y27C28L--line-61" n="61">And coming near <hi rend="italics">Parnassus</hi>, view'd</l>
+            <l xml:id="swift-Y27C28L--line-62" n="62">Our Interloper over-rude:────</l>
+            <l xml:id="swift-Y27C28L--line-63" n="63">In dreadful Armour rushing on,</l>
+            <l xml:id="swift-Y27C28L--line-64" n="64">To gain the Muses, <hi rend="italics">pro</hi> or <hi rend="italics">con</hi>.</l>
+            <l xml:id="swift-Y27C28L--line-65" n="65">But <hi rend="italics">Clio</hi>, nearer now approaching,</l>
+            <l xml:id="swift-Y27C28L--line-66" n="66">Cry'd out, “Thou Villain, art incroaching?</l>
+            <l xml:id="swift-Y27C28L--line-67" n="67">“You Farthing Journalist:── Hey-day,</l>
+            <l xml:id="swift-Y27C28L--line-68" n="68">“Methinks you're armed <hi rend="italics">Cap-a-pe</hi>!”</l>
+            <l rend="indent(1)" xml:id="swift-Y27C28L--line-69" n="69"><lb/>“Here <hi rend="italics">Clio</hi>, says the angry God,</l>
+            <l xml:id="swift-Y27C28L--line-70" n="70">“Go get me a good Birchen Rod,</l>
+            <l xml:id="swift-Y27C28L--line-71" n="71">“The best you find on Mount <hi rend="italics">Parnassus</hi>;</l>
+            <l xml:id="swift-Y27C28L--line-72" n="72">“Such Tricks as these shall never pass us.”</l>
+            <l xml:id="swift-Y27C28L--line-73" n="73">This done,──── he lays upon his Backside,</l>
+            <l xml:id="swift-Y27C28L--line-74" n="74">And, doubtless, he left him a black Side.</l>
+            <l xml:id="swift-Y27C28L--line-75" n="75">At last, dismissing him,──── “Now go,</l>
+            <l xml:id="swift-Y27C28L--line-76" n="76">“Still to remain in <hi rend="italics">Statu quo</hi>:</l>
+            <l xml:id="swift-Y27C28L--line-77" n="77">“And henceforth know this Hill (he says)</l>
+            <l xml:id="swift-Y27C28L--line-78" n="78">“Produces Birch as well as Bays.”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Pardon.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 16JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> extracted from X06-002D [combining X06A and X06B] JW 5SE09; ed. JW 15OC09; tochk item resolved in situ JW 2AU11; X06A, X06B, and the preamble from 997-002D merged and EMENDED JW 19AP17, 18JL17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X06ACWJS">
+          <head type="note" n="1" xml:id="spp-X06ACWJS-headnote-1">
+            <lg n="1" xml:id="spp-X06ACWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X06ACWJS-headnote-1-line-group-1-line-1">Merry Dan, as tis fitting&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X06ACWJS-headnote-2">
+            <lg n="1" xml:id="spp-X06ACWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X06ACWJS-headnote-2-line-group-1-line-1">To Sheridan sendeth greeting.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X06ACWJS-headnote-3">
+            <lg n="1" xml:id="spp-X06ACWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X06ACWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(2)" xml:id="swift-X06ACWJS-line-1" n="1">|Obsignatam mitto gratam</l>
+            <l rend="indent(3)" xml:id="swift-X06ACWJS-line-2" n="2">||Veniam Sheridan</l>
+            <l rend="indent(2)" xml:id="swift-X06ACWJS-line-3" n="3">|Quia dixisti Vultu tristi</l>
+            <l rend="indent(3)" xml:id="swift-X06ACWJS-line-4" n="4">||Peto a Te Mi Dan.</l>
+            <l rend="indent(2)" xml:id="swift-X06ACWJS-line-5" n="5"><lb/>|Pacemque præsto nec Molesto</l>
+            <l rend="indent(3)" xml:id="swift-X06ACWJS-line-6" n="6">||Omnino in præsenti</l>
+            <l rend="indent(2)" xml:id="swift-X06ACWJS-line-7" n="7">|Ut sis totus meus devotus</l>
+            <l rend="indent(3)" xml:id="swift-X06ACWJS-line-8" n="8">||Corpore et Menti.</l>
+            <l xml:id="swift-X06ACWJS-line-9" n="9"><lb/>The Suit which humbly You have made</l>
+            <l xml:id="swift-X06ACWJS-line-10" n="10">Is fully and Maturely weigh'd;</l>
+            <l xml:id="swift-X06ACWJS-line-11" n="11">«LD»And as 'tis Your Petition:</l>
+            <l xml:id="swift-X06ACWJS-line-12" n="12">I do Forgive for well I know</l>
+            <l xml:id="swift-X06ACWJS-line-13" n="13">Since You're so Bruis'd another Blow</l>
+            <l xml:id="swift-X06ACWJS-line-14" n="14">«LD»Wou'd Break the Head of Priscian.</l>
+            <l xml:id="swift-X06ACWJS-line-15" n="15">'Tis not my Purpose or Intent</l>
+            <l xml:id="swift-X06ACWJS-line-16" n="16">That You shou'd suffer Banishment,</l>
+            <l xml:id="swift-X06ACWJS-line-17" n="17">«LD»I Pardon, now You've Courted</l>
+            <l xml:id="swift-X06ACWJS-line-18" n="18">And Yet I fear this Clemency</l>
+            <l xml:id="swift-X06ACWJS-line-19" n="19">Will come too late to profit thee</l>
+            <l xml:id="swift-X06ACWJS-line-20" n="20">«LD»For You're with Grief Transported.</l>
+            <l xml:id="swift-X06ACWJS-line-21" n="21">However this I do Command</l>
+            <l xml:id="swift-X06ACWJS-line-22" n="22">That You Your Birch do take in hand</l>
+            <l xml:id="swift-X06ACWJS-line-23" n="23">«LD»Read Concord and Syntax-on;</l>
+            <l xml:id="swift-X06ACWJS-line-24" n="24">The Bays You own are onely Mine</l>
+            <l xml:id="swift-X06ACWJS-line-25" n="25">Do You then still Your Nouns Decline</l>
+            <l xml:id="swift-X06ACWJS-line-26" n="26">«LD»Since You've declin'd────</l>
+            <l xml:id="swift-X06ACWJS-line-27" n="27">«LD»Dan: Jackson.</l>
+            <l rend="indent(1)" xml:id="swift-X06ACWJS-line-28" n="28"><lb/>I think you should have signed your Petition, but that may be done, when I see you next. However I keep the Original under your own Hand, and send you inclosed only the Copy.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

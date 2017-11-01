@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A cry in London</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="952A319L">
+          <head type="note" n="1" xml:id="spp-952A319L-headnote-1">
+            <lg n="1" xml:id="spp-952A319L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952A319L-headnote-1-line-group-1-line-1">Round for 6.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-952A319L-headnote-2">
+            <lg n="1" xml:id="spp-952A319L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952A319L-headnote-2-line-group-1-line-1">Aug<hi rend="superscript">st</hi> 9. 1750.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-952A319L-headnote-3">
+            <lg n="1" xml:id="spp-952A319L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952A319L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-952A319L-line-1" n="1">Ripe sparagrass</l>
+            <l xml:id="swift-952A319L-line-2" n="2">fit for Lad or lass·for·Lad·or·lass</l>
+            <l xml:id="swift-952A319L-line-3" n="3">om.</l>
+            <l xml:id="swift-952A319L-line-4" n="4">O tis pretty picking</l>
+            <l xml:id="swift-952A319L-line-5" n="5">with a tender Chicken</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

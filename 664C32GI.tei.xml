@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On Her</hi> MAJESTY's <hi rend="italics">setting up the<lb/>  Bustoes of Mr</hi> L<hi rend="small-caps">OCK</hi>, <hi rend="italics">Sir</hi> I<hi rend="small-caps">SAAC</hi> N<hi rend="small-caps">EWTON</hi>,<lb/>  <hi rend="italics">Mr</hi> W<hi rend="small-caps">OOLASTON</hi>, <hi rend="italics">and Dr</hi> C<hi rend="small-caps">LARK</hi>, <hi rend="italics">in<lb/>  the</hi> H<hi rend="small-caps">ERMITAGE</hi> <hi rend="italics">at</hi> R<hi rend="small-caps">ICHMOND</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 5AP04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664C32GI">
+          <head type="note" n="1" xml:id="spp-664C32GI-headnote-1">
+            <lg n="1" xml:id="spp-664C32GI-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C32GI-headnote-1-line-group-1-line-1"> <hi rend="italics">Sic siti lætantur Docti</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-664C32GI-headnote-2">
+            <lg n="1" xml:id="spp-664C32GI-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C32GI-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-664C32GI-headnote-3">
+            <lg n="1" xml:id="spp-664C32GI-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C32GI-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-664C32GI-line-1" n="1"><hi rend="display-initial">W</hi>ITH Honour, thus by <hi rend="italics">Carolina</hi> plac'd,</l>
+            <l xml:id="swift-664C32GI-line-2" n="2">How are those venerable Bustoes grac'd!</l>
+            <l xml:id="swift-664C32GI-line-3" n="3">O Queen! with more than regal Title crown'd,</l>
+            <l xml:id="swift-664C32GI-line-4" n="4">For Love of Arts and Piety renown'd!</l>
+            <l xml:id="swift-664C32GI-line-5" n="5">How do the Friends of Virtue joy to see</l>
+            <l xml:id="swift-664C32GI-line-6" n="6">Her darling Sons exalted thus by Thee!</l>
+            <l xml:id="swift-664C32GI-line-7" n="7">Nought to their Fame can now be added more,</l>
+            <l xml:id="swift-664C32GI-line-8" n="8">Rever'd by her whom all Mankind adore.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

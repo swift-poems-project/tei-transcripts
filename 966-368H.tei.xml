@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Musa Clonshoghiana</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 9FE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 9FE09 agt WILH; √'d JW 14FE09, 15OC13; ed. JW 27AU15; ed. JW 3AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="966-368H">
+          <head type="note" n="1" xml:id="spp-966-368H-headnote-1">
+            <lg n="1" xml:id="spp-966-368H-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-966-368H-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-966-368H-headnote-2">
+            <lg n="1" xml:id="spp-966-368H-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-966-368H-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-966-368H-headnote-3">
+            <lg n="1" xml:id="spp-966-368H-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-966-368H-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-966-368H-line-1" n="1">That Downpatricks Dean, or Patricks down went,</l>
+            <l xml:id="swift-966-368H-line-2" n="2">Like two Arrand Deans, two Deans Errant I meant,</l>
+            <l xml:id="swift-966-368H-line-3" n="3">So that Christmas appears at Bellcampe like a Lent</l>
+            <l xml:id="swift-966-368H-line-4" n="4">Gives y<hi rend="superscript">ẹ</hi> Gamesters of both houses great discontent;</l>
+            <l rend="indent(1)" xml:id="swift-966-368H-line-5" n="5">Our Parsons agree here as those did at Trent,</l>
+            <l xml:id="swift-966-368H-line-6" n="6">Dans forhead has got a most damnable D\<hi rend="italics">hole</hi>\nt,</l>
+            <l xml:id="swift-966-368H-line-7" n="7">Besides a large hole in his Michaelmas Rent,</l>
+            <l rend="indent(1)" xml:id="swift-966-368H-line-8" n="8">But your fan\<hi rend="italics">del</hi>·sies·<hi rend="italics">add</hi>·cys\ on Rhyming so cursedly bent</l>
+            <l xml:id="swift-966-368H-line-9" n="9">With your ten bloody Ouns in one Stanza pent,</l>
+            <l xml:id="swift-966-368H-line-10" n="10">Dos Iacks utter Ruin at Picket prevent,</l>
+            <l xml:id="swift-966-368H-line-11" n="11">For an answer in Specie to yours must be Sent</l>
+            <l xml:id="swift-966-368H-line-12" n="12">So this moment at Crambo (not Shuffling) is Spent,</l>
+            <l xml:id="swift-966-368H-line-13" n="13">And I loose by this Crotchet Quatorze, Point, and Quint,</l>
+            <l xml:id="swift-966-368H-line-14" n="14">Which y<hi rend="superscript">ụ</hi> know to a Gamester is great Bitterment,</l>
+            <l xml:id="swift-966-368H-line-15" n="15">But Whisk shall revenge me on you, Pratt, and Brent.</l>
+            <l xml:id="swift-966-368H-line-16" n="16">Bellcampe Ianr<hi rend="superscript">ỵ</hi> 1<hi rend="superscript">ṭ</hi> 1717.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

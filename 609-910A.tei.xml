@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Dean Swift, w<hi rend="superscript">th</hi> 08. a Book of clean Paper. By my<lb/>  Lord Orrery.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 3MR09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="609-910A">
+          <head type="note" n="1" xml:id="spp-609-910A-headnote-1">
+            <lg n="1" xml:id="spp-609-910A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-609-910A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-609-910A-headnote-2">
+            <lg n="1" xml:id="spp-609-910A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-609-910A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-609-910A-headnote-3">
+            <lg n="1" xml:id="spp-609-910A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-609-910A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-609-910A-line-1" n="1">To thee, Dear <hi rend="large-writing">Swift</hi>, y<hi rend="superscript">es</hi> spotless Leaves J send,</l>
+            <l xml:id="swift-609-910A-line-2" n="2">Small is y<hi rend="superscript">e</hi> Present, but sincere y<hi rend="superscript">e</hi> Friend.</l>
+            <l xml:id="swift-609-910A-line-3" n="3">Think not so poor a Book \<hi rend="italics">del</hi>·beneath\·below thy Care;</l>
+            <l xml:id="swift-609-910A-line-4" n="4">Who knows y<hi rend="superscript">e</hi> Price, that Thou canst make it bear?</l>
+            <l xml:id="swift-609-910A-line-5" n="5">Tho' tawdry now, and like <hi rend="large-writing">Tyrtilla's</hi> face,</l>
+            <l xml:id="swift-609-910A-line-6" n="6">The spacious front shines out w<hi rend="superscript">tḥ</hi> borrow'd Grace;</l>
+            <l xml:id="swift-609-910A-line-7" n="7">The Past-boards glitt'ring like a Tinsel'd Coat,</l>
+            <l xml:id="swift-609-910A-line-8" n="8">A Rasa Tabula within denote:</l>
+            <l xml:id="swift-609-910A-line-9" n="9">Yet if a venal and corrupted Age,</l>
+            <l xml:id="swift-609-910A-line-10" n="10">And Modern vices should provoke thy Rage:</l>
+            <l xml:id="swift-609-910A-line-11" n="11">Jf warn'd once more by their impending Fate,</l>
+            <l xml:id="swift-609-910A-line-12" n="12">A sinking Country, and an injur'd State;</l>
+            <l xml:id="swift-609-910A-line-13" n="13">Thy great Assistance should again demand,</l>
+            <l xml:id="swift-609-910A-line-14" n="14">And call forth Reason to defend y<hi rend="superscript">e</hi> Land:</l>
+            <l xml:id="swift-609-910A-line-15" n="15">Then shall we view these Sheets w<hi rend="superscript">tḥ</hi> glad Surprize,</l>
+            <l xml:id="swift-609-910A-line-16" n="16">Jnspir'd w<hi rend="superscript">tḥ</hi> Thought, and speaking to our Eyes;</l>
+            <l xml:id="swift-609-910A-line-17" n="17">Each vacant Space shall then, enrich'd dispence</l>
+            <l xml:id="swift-609-910A-line-18" n="18">Free force of Eloquence, and nervous Sense:</l>
+            <l xml:id="swift-609-910A-line-19" n="19">Jnform y<hi rend="superscript">e</hi> Judgment, animate y<hi rend="superscript">e</hi> heart,</l>
+            <l xml:id="swift-609-910A-line-20" n="20">And Sacred Rules of Policy impart.</l>
+            <l xml:id="swift-609-910A-line-21" n="21">The spangled Covering, bright with splended Ore,</l>
+            <l xml:id="swift-609-910A-line-22" n="22">Shall cheat y<hi rend="superscript">e</hi> Sight w<hi rend="superscript">tḥ</hi> empty Shew no more:</l>
+            <l xml:id="swift-609-910A-line-23" n="23">But lead us inward to y<hi rend="superscript">os</hi> Golden Mines</l>
+            <l xml:id="swift-609-910A-line-24" n="24">Where all thy Soul in native Lustre shines!</l>
+            <l rend="indent(1)" xml:id="swift-609-910A-line-25" n="25"><lb/>So w<hi rend="superscript">n</hi> y<hi rend="superscript">e</hi> Eye surveys some lovely Fair,</l>
+            <l xml:id="swift-609-910A-line-26" n="26">With bloom of Beauty, grac'd w<hi rend="superscript">tḥ</hi> Shape and Air;</l>
+            <l xml:id="swift-609-910A-line-27" n="27">How is y<hi rend="superscript">e</hi> Rapture heighten'd, when we find,</l>
+            <l xml:id="swift-609-910A-line-28" n="28">Her Form excell'd by her Celestial Mind!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

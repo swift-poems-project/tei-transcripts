@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">An Epistle upon an Epistle</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="475-ROGP">
+          <head type="note" n="1" xml:id="spp-475-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-475-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-475-ROGP-headnote-1-line-group-1-line-1">FROM A CERTAIN DOCTOR TO A CERTAIN GREAT LORD: BEING A CHRISTMAS BOX FOR DR DELANY&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-475-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-475-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-475-ROGP-headnote-2-line-group-1-line-1"><hi rend="italics">──Palatinae Cultor facunde Minervae, <lb/> Ingenio frueris qui propriore Dei. <lb/> Nam tibi nascentes DOMINI cognoscere Curas, <lb/> Et secreta DUCIS Pectora posse licet. <lb/> </hi>Martial<hi rend="italics">, Lib. 5, Ep. 5.</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-475-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-475-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-475-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-475-ROGP-line-1" n="1">As Jove will not attend on less,</l>
+            <l xml:id="swift-475-ROGP-line-2" n="2">When things of more importance press:</l>
+            <l xml:id="swift-475-ROGP-line-3" n="3">You can't, grave sir, believe it hard,</l>
+            <l xml:id="swift-475-ROGP-line-4" n="4">That you, a low Hibernian bard,</l>
+            <l xml:id="swift-475-ROGP-line-5" n="5">Should cool your heels awhile, and wait</l>
+            <l xml:id="swift-475-ROGP-line-6" n="6">Unanswered at your patron's gate;</l>
+            <l xml:id="swift-475-ROGP-line-7" n="7">And would my Lord vouchsafe to grant</l>
+            <l xml:id="swift-475-ROGP-line-8" n="8">This one, poor, humble boon I want,</l>
+            <l xml:id="swift-475-ROGP-line-9" n="9">Free leave to play his secretary,</l>
+            <l xml:id="swift-475-ROGP-line-10" n="10">As Falstaff acted old King Harry:</l>
+            <l xml:id="swift-475-ROGP-line-11" n="11">I'd tell of yours in rhyme and print:</l>
+            <l xml:id="swift-475-ROGP-line-12" n="12">Folks shrug, and cry, 'There's nothing in't.'</l>
+            <l xml:id="swift-475-ROGP-line-13" n="13">And after several readings over,</l>
+            <l xml:id="swift-475-ROGP-line-14" n="14">It shines most in the marble cover.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-15" n="15"><lb/>How could so fine a taste dispense</l>
+            <l xml:id="swift-475-ROGP-line-16" n="16">With mean degrees of wit and sense?</l>
+            <l xml:id="swift-475-ROGP-line-17" n="17">Nor will my Lord so far beguile</l>
+            <l xml:id="swift-475-ROGP-line-18" n="18">The wise and learnèd of our isle;</l>
+            <l xml:id="swift-475-ROGP-line-19" n="19">To make it pass upon the nation,</l>
+            <l xml:id="swift-475-ROGP-line-20" n="20">By dint of his sole approbation.</l>
+            <l xml:id="swift-475-ROGP-line-21" n="21">The task is arduous, patrons find,</l>
+            <l xml:id="swift-475-ROGP-line-22" n="22">To warp the sense of all mankind:</l>
+            <l xml:id="swift-475-ROGP-line-23" n="23">Who think your muse must first aspire;</l>
+            <l xml:id="swift-475-ROGP-line-24" n="24">E'er he advance the Doctor higher.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-25" n="25"><lb/>You've cause to say he 'meant you well':</l>
+            <l xml:id="swift-475-ROGP-line-26" n="26">That you 'are thankful', who 'can tell'?</l>
+            <l xml:id="swift-475-ROGP-line-27" n="27">For still you're short (which grieves your spirit)</l>
+            <l xml:id="swift-475-ROGP-line-28" n="28">Of his intent, you mean, your merit.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-29" n="29"><lb/>Ah! <hi rend="italics">Quanto rectius, tu adepte,</hi></l>
+            <l xml:id="swift-475-ROGP-line-30" n="30"><hi rend="italics">Qui nil moliris tam inepte</hi>?</l>
+            <l xml:id="swift-475-ROGP-line-31" n="31">Smedley, thou Jonathan of Clogher,</l>
+            <l xml:id="swift-475-ROGP-line-32" n="32">`When thou thy humble lays dost offer</l>
+            <l xml:id="swift-475-ROGP-line-33" n="33">To Grafton's Grace, with grateful heart;</l>
+            <l xml:id="swift-475-ROGP-line-34" n="34">Thy thanks and verse, devoid of art:</l>
+            <l xml:id="swift-475-ROGP-line-35" n="35">Content with what his bounty gave,</l>
+            <l xml:id="swift-475-ROGP-line-36" n="36">No larger income dost thou crave.'</l>
+            <l xml:id="swift-475-ROGP-line-37" n="37"><lb/>But you must have cascades, and all</l>
+            <l xml:id="swift-475-ROGP-line-38" n="38">Ierna's lake, for your canal,</l>
+            <l xml:id="swift-475-ROGP-line-39" n="39">Your vistos, barges, and (a pox on</l>
+            <l xml:id="swift-475-ROGP-line-40" n="40">All pride) our Speaker for your coxon:</l>
+            <l xml:id="swift-475-ROGP-line-41" n="41">It's pity that he can't bestow you</l>
+            <l xml:id="swift-475-ROGP-line-42" n="42">Twelve commoners in caps to row you.</l>
+            <l xml:id="swift-475-ROGP-line-43" n="43">Thus Edgar proud, in days of yore,</l>
+            <l xml:id="swift-475-ROGP-line-44" n="44">Held monarchs labouring at the oar;</l>
+            <l xml:id="swift-475-ROGP-line-45" n="45">And as he passed, so swelled the Dee</l>
+            <l xml:id="swift-475-ROGP-line-46" n="46">Enraged, as Erne would do at thee.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-47" n="47"><lb/>How different is this from Smedley?</l>
+            <l xml:id="swift-475-ROGP-line-48" n="48">(His name is up, he may in bed lie)</l>
+            <l xml:id="swift-475-ROGP-line-49" n="49">'Who only asks some pretty cure,</l>
+            <l xml:id="swift-475-ROGP-line-50" n="50">In wholesome soil and aether pure;</l>
+            <l xml:id="swift-475-ROGP-line-51" n="51">The garden stored with artless flowers,</l>
+            <l xml:id="swift-475-ROGP-line-52" n="52">In either angle shady bowers:</l>
+            <l xml:id="swift-475-ROGP-line-53" n="53">No gay parterre with costly green,</l>
+            <l xml:id="swift-475-ROGP-line-54" n="54">Must in the ambient hedge be seen;</l>
+            <l xml:id="swift-475-ROGP-line-55" n="55">But freely Nature takes her course,</l>
+            <l xml:id="swift-475-ROGP-line-56" n="56">Nor fears from him ungrateful force:</l>
+            <l xml:id="swift-475-ROGP-line-57" n="57">No shears to check her sprouting vigour,</l>
+            <l xml:id="swift-475-ROGP-line-58" n="58">Or shape the yews to antic figure.'</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-59" n="59"><lb/>But you forsooth, your <hi rend="italics">all</hi> must squander</l>
+            <l xml:id="swift-475-ROGP-line-60" n="60">On that poor spot, called Delville, yonder:</l>
+            <l xml:id="swift-475-ROGP-line-61" n="61">And when you've been at vast expenses</l>
+            <l xml:id="swift-475-ROGP-line-62" n="62">In whims, parterres, canals and fences:</l>
+            <l xml:id="swift-475-ROGP-line-63" n="63">Your assets fail, and cash is wanting</l>
+            <l xml:id="swift-475-ROGP-line-64" n="64">For farther buildings, farther planting.</l>
+            <l xml:id="swift-475-ROGP-line-65" n="65">No wonder when you raise and level,</l>
+            <l xml:id="swift-475-ROGP-line-66" n="66">Think this wall low, and that wall bevel.</l>
+            <l xml:id="swift-475-ROGP-line-67" n="67">Here a convenient box you found,</l>
+            <l xml:id="swift-475-ROGP-line-68" n="68">Which you demolished to the ground:</l>
+            <l xml:id="swift-475-ROGP-line-69" n="69">Then built, then took up with your arbour,</l>
+            <l xml:id="swift-475-ROGP-line-70" n="70">And set the house to Rupert Barber.</l>
+            <l xml:id="swift-475-ROGP-line-71" n="71">You sprung an arch, which in a scurvy</l>
+            <l xml:id="swift-475-ROGP-line-72" n="72">Humour, you tumbled topsyturvy.</l>
+            <l xml:id="swift-475-ROGP-line-73" n="73">You change a circle to a square,</l>
+            <l xml:id="swift-475-ROGP-line-74" n="74">Then to a circle, as you were:</l>
+            <l xml:id="swift-475-ROGP-line-75" n="75">Who can imagine whence the fund is,</l>
+            <l xml:id="swift-475-ROGP-line-76" n="76">That you <hi rend="italics">quadrata</hi> change <hi rend="italics">rotundis</hi>?</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-77" n="77"><lb/>To Fame a temple you erect,</l>
+            <l xml:id="swift-475-ROGP-line-78" n="78">A Flora does the dome protect;</l>
+            <l xml:id="swift-475-ROGP-line-79" n="79">Mount, walks, on high; and in a hollow</l>
+            <l xml:id="swift-475-ROGP-line-80" n="80">You place the muses and Apollo;</l>
+            <l xml:id="swift-475-ROGP-line-81" n="81">There shining midst his train, to grace</l>
+            <l xml:id="swift-475-ROGP-line-82" n="82">Your whimsical poetic place.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-83" n="83"><lb/>These stories were, of old, designed</l>
+            <l xml:id="swift-475-ROGP-line-84" n="84">As fables: but you have refined</l>
+            <l xml:id="swift-475-ROGP-line-85" n="85">The poets' mythologic dreams,</l>
+            <l xml:id="swift-475-ROGP-line-86" n="86">To real muses, gods, and streams.</l>
+            <l xml:id="swift-475-ROGP-line-87" n="87">Who would not swear, when you contrive thus,</l>
+            <l xml:id="swift-475-ROGP-line-88" n="88">That you're Don Quixote <hi rend="italics">Redivivus</hi>?</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-89" n="89"><lb/>Beneath a dry canal there lies,</l>
+            <l xml:id="swift-475-ROGP-line-90" n="90">Which only winter's rain supplies.</l>
+            <l xml:id="swift-475-ROGP-line-91" n="91">Oh! couldst thou, by some magic spell,</l>
+            <l xml:id="swift-475-ROGP-line-92" n="92">Hither convey St Patrick's Well;</l>
+            <l xml:id="swift-475-ROGP-line-93" n="93">Here may it reassume its stream,</l>
+            <l xml:id="swift-475-ROGP-line-94" n="94">And take a greater Patrick's name.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-95" n="95"><lb/>If your expenses rise so high;</l>
+            <l xml:id="swift-475-ROGP-line-96" n="96">What income can your wants supply?</l>
+            <l xml:id="swift-475-ROGP-line-97" n="97">Yet still you fancy you inherit</l>
+            <l xml:id="swift-475-ROGP-line-98" n="98">A fund of each superior merit,</l>
+            <l xml:id="swift-475-ROGP-line-99" n="99">That you can't fail of more provision,</l>
+            <l xml:id="swift-475-ROGP-line-100" n="100">All by my Lady's kind decision.</l>
+            <l xml:id="swift-475-ROGP-line-101" n="101">For the more livings you can fish up,</l>
+            <l xml:id="swift-475-ROGP-line-102" n="102">You think you'll sooner be a bishop:</l>
+            <l xml:id="swift-475-ROGP-line-103" n="103">That could not be my Lord's intent,</l>
+            <l xml:id="swift-475-ROGP-line-104" n="104">Nor can it answer in the event.</l>
+            <l xml:id="swift-475-ROGP-line-105" n="105">Most think what has been heaped on you,</l>
+            <l xml:id="swift-475-ROGP-line-106" n="106">To other sort of folk was due:</l>
+            <l xml:id="swift-475-ROGP-line-107" n="107">Rewards too great fol your flimflams,</l>
+            <l xml:id="swift-475-ROGP-line-108" n="108">Epistles, riddles, epigrams.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-109" n="109"><lb/>Though now your depth must not be sounded,</l>
+            <l xml:id="swift-475-ROGP-line-110" n="110">The time was, when you had compounded</l>
+            <l xml:id="swift-475-ROGP-line-111" n="111">For less than Charly Grattan's school:</l>
+            <l xml:id="swift-475-ROGP-line-112" n="112">Five hundred pound a year's no fool.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-113" n="113"><lb/>Take this advice then from your friend,</l>
+            <l xml:id="swift-475-ROGP-line-114" n="114">To your ambition put an end.</l>
+            <l xml:id="swift-475-ROGP-line-115" n="115">Be frugal, Pat: pay what you owe,</l>
+            <l xml:id="swift-475-ROGP-line-116" n="116">Before you 'build and you bestow'.</l>
+            <l xml:id="swift-475-ROGP-line-117" n="117">Be modest: nor address your betters</l>
+            <l xml:id="swift-475-ROGP-line-118" n="118">With begging, vain, familiar letters.</l>
+            <l rend="indent(1)" xml:id="swift-475-ROGP-line-119" n="119"><lb/>A passage may be found, I've heard,</l>
+            <l xml:id="swift-475-ROGP-line-120" n="120">In some old Greek or Latin bard,</l>
+            <l xml:id="swift-475-ROGP-line-121" n="121">Which says, would crows in silence eat</l>
+            <l xml:id="swift-475-ROGP-line-122" n="122">Their offals, or their better meat,</l>
+            <l xml:id="swift-475-ROGP-line-123" n="123">Their generous feeders not provoking</l>
+            <l xml:id="swift-475-ROGP-line-124" n="124">By loud and unharmonious croaking:</l>
+            <l xml:id="swift-475-ROGP-line-125" n="125">They might, unhurt by envy's claws,</l>
+            <l xml:id="swift-475-ROGP-line-126" n="126">Live on, and stuff, to boot, their maws.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

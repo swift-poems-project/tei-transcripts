@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Lady </hi>B──── B<hi rend="italics">──── finding in the<lb/>  Author's Room some Verses un-<lb/>  finished, underwrit a </hi>Stanza<hi rend="italics"><lb/>  of her own, with Raillery up-<lb/>  on him, which gave Occasion<lb/>  to this Ballad</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 29AP96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="076-03P4">
+          <head type="note" n="1" xml:id="spp-076-03P4-headnote-1">
+            <lg n="1" xml:id="spp-076-03P4-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-03P4-headnote-1-line-group-1-line-1"><hi rend="italics">To the Tune of the Cutpurse</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-076-03P4-headnote-2">
+            <lg n="1" xml:id="spp-076-03P4-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-03P4-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-076-03P4-headnote-3">
+            <lg n="1" xml:id="spp-076-03P4-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-076-03P4-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-076-03P4-line-1" n="1">I.<lb/><hi rend="display-initial">O</hi>NCE on a Time, as old Stories rehearse,</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-2" n="2">A Friar would needs shew his Talent in <hi rend="italics">Latin</hi>;</l>
+            <l xml:id="swift-076-03P4-line-3" n="3">But was sorely put to't in the midst of a Verse,</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-4" n="4">Because he could find no Word to come pat in.</l>
+            <l rend="indent(3)" xml:id="swift-076-03P4-line-5" n="5">||Then at the Place</l>
+            <l rend="indent(3)" xml:id="swift-076-03P4-line-6" n="6">||He left a void Space,</l>
+            <l xml:id="swift-076-03P4-line-7" n="7">And so went to Bed in a desperate Case.</l>
+            <l xml:id="swift-076-03P4-line-8" n="8">When behold the next Morning, a wonderful Riddle,</l>
+            <l xml:id="swift-076-03P4-line-9" n="9">He found it was strangely fill'd up in the Middle.</l>
+            <l xml:id="swift-076-03P4-line-10" n="10"><lb/>Cho. <hi rend="italics">Let Censuring Criticks then think what they list on't,</hi></l>
+            <l xml:id="swift-076-03P4-line-11" n="11"><hi rend="italics">|Who would not write Verses with such an Assistant</hi>?</l>
+            <l rend="center" xml:id="swift-076-03P4-line-12" n="12"><lb/>II.__T<hi rend="small-caps">HIS</hi> put me the Friar into an Amazement,</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-13" n="13">For he wisely consider'd it must be a Sprite,</l>
+            <l xml:id="swift-076-03P4-line-14" n="14">That came through the Key-Hole, or in at the Casement,</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-15" n="15">And it needs must be one that could both Read and Write:</l>
+            <l rend="indent(3)" xml:id="swift-076-03P4-line-16" n="16">||Yet he did not know</l>
+            <l rend="indent(3)" xml:id="swift-076-03P4-line-17" n="17">||If it were Friend or Foe,</l>
+            <l xml:id="swift-076-03P4-line-18" n="18">Or whether it came from above or below.</l>
+            <l xml:id="swift-076-03P4-line-19" n="19">Howe'er it was civil, in Angel or Elf,</l>
+            <l xml:id="swift-076-03P4-line-20" n="20">For he ne'er could have fill'd it so well of himself.</l>
+            <l xml:id="swift-076-03P4-line-21" n="21"><lb/>Cho. <hi rend="italics">Let Censuring</hi>, &amp;c.</l>
+            <l xml:id="swift-076-03P4-line-22" n="22">om.</l>
+            <l rend="center" xml:id="swift-076-03P4-line-23" n="23"><lb/>III.__E<hi rend="small-caps">VEN</hi> so Master Doctor had puzzled his Brains</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-24" n="24">In making a Ballad, but was at a Stand;</l>
+            <l xml:id="swift-076-03P4-line-25" n="25">He had mix'd little Wit with a great deal of Pains,</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-26" n="26">When he found a new Help from invisible Hand.</l>
+            <l rend="indent(3)" xml:id="swift-076-03P4-line-27" n="27">||Then good Dr. <hi rend="italics">S</hi>────</l>
+            <l rend="indent(3)" xml:id="swift-076-03P4-line-28" n="28">||Pay Thanks for the Gift,</l>
+            <l rend="indent(1)" xml:id="swift-076-03P4-line-29" n="29">For you freely must own you were at a dead Lift:</l>
+            <l xml:id="swift-076-03P4-line-30" n="30">And tho' some malicious young Spirit did do't,</l>
+            <l xml:id="swift-076-03P4-line-31" n="31">You may know by the Hand it had no Cloven Foot.</l>
+            <l xml:id="swift-076-03P4-line-32" n="32"><lb/>Cho. <hi rend="italics">Let Censuring</hi>, &amp;c.</l>
+            <l xml:id="swift-076-03P4-line-33" n="33">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

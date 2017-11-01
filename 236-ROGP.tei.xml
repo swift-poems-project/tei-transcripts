@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">An Excellent New Song on a Seditious Pamphlet</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="236-ROGP">
+          <head type="note" n="1" xml:id="spp-236-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-236-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-236-ROGP-headnote-1-line-group-1-line-1">TO THE TUNE OF PACKINGTON'S POUND&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-236-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-236-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-236-ROGP-headnote-2-line-group-1-line-1">The author having writ a treatise, advising the people of Ireland to wear their own manufactures; that infamous wretch Whitshed prosecuted Waters the printer with so much violence and injustice, that he kept the jury nine hours, and sent them away eleven times,till out of mere weariness they were forced to give a special verdict.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-236-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-236-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-236-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-236-ROGP-line-1" n="1">I<lb/>Brocado's, and damasks, and tabbies, and gauzes,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-2" n="2">Are by Robert Ballentine lately brought over;</l>
+            <l xml:id="swift-236-ROGP-line-3" n="3">With forty things more: now hear what the law says,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-4" n="4">Whoe'er will not wear them, is not the King's lover.</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-5" n="5">|Though a printer and Dean</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-6" n="6">|Seditiously mean</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-7" n="7">Our true Irish hearts from old England to wean;</l>
+            <l xml:id="swift-236-ROGP-line-8" n="8">We'll buy English silks for our wives and our daughters,</l>
+            <l xml:id="swift-236-ROGP-line-9" n="9">In spite of his Deanship and journeyman Waters.</l>
+            <l xml:id="swift-236-ROGP-line-10" n="10"><lb/>II_In England the dead in woollen are clad,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-11" n="11">The Dean and his printer then let us cry fie on;</l>
+            <l xml:id="swift-236-ROGP-line-12" n="12">To be clothed like a carcass would make a Teague mad,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-13" n="13">Since a living dog better is than a dead lion,</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-14" n="14">|Our wives they grow sullen</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-15" n="15">|At wearing of woollen,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-16" n="16">And all we poor shopkeepers must our horns pull in.</l>
+            <l xml:id="swift-236-ROGP-line-17" n="17">Then we'll buy English silks, &amp;c.</l>
+            <l xml:id="swift-236-ROGP-line-18" n="18">om.</l>
+            <l xml:id="swift-236-ROGP-line-19" n="19"><lb/>III_Whoever our trading with England would hinder,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-20" n="20">To <hi rend="italics">inflame</hi> both the nations do plainly conspire;</l>
+            <l xml:id="swift-236-ROGP-line-21" n="21">Because Irish linen will soon turn to tinder;</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-22" n="22">And wool it is greasy, and quickly takes fire.</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-23" n="23">|Therefore I assure ye,</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-24" n="24">|Our noble Grand Jury,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-25" n="25">When they saw the Dean's book they were in a great fury:</l>
+            <l xml:id="swift-236-ROGP-line-26" n="26">They would buy English silks for their wives, &amp;c.</l>
+            <l xml:id="swift-236-ROGP-line-27" n="27">om.</l>
+            <l xml:id="swift-236-ROGP-line-28" n="28"><lb/>IV_This wicked rogue Waters, who always is sinning,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-29" n="29">And before <hi rend="italics">Corum Nobus</hi> so oft has been called,</l>
+            <l xml:id="swift-236-ROGP-line-30" n="30">Henceforward shall print neither pamphlets nor linen,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-31" n="31">And, if swearing can do't, shall be swingingly mauled:</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-32" n="32">|And as for the Dean,</l>
+            <l rend="indent(2)" xml:id="swift-236-ROGP-line-33" n="33">|You know whom I mean,</l>
+            <l rend="indent(1)" xml:id="swift-236-ROGP-line-34" n="34">If the printer will peach him, he'll scarce come off clean.</l>
+            <l xml:id="swift-236-ROGP-line-35" n="35">Then we'll buy English silks for our wives and our daughters,</l>
+            <l xml:id="swift-236-ROGP-line-36" n="36">In spite of his Deanship and journeyman Waters.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

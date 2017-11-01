@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The</hi> B<hi rend="small-caps">EST</hi> <hi rend="italics">in</hi> C<hi rend="small-caps">HRISTENDOM</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 10JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y01E46L1">
+          <head type="note" n="1" xml:id="spp-Y01E46L1-headnote-1">
+            <lg n="1" xml:id="spp-Y01E46L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01E46L1-headnote-1-line-group-1-line-1">A TALE.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y01E46L1-headnote-2">
+            <lg n="1" xml:id="spp-Y01E46L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01E46L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y01E46L1-headnote-3">
+            <lg n="1" xml:id="spp-Y01E46L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01E46L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y01E46L1-line-1" n="1"><hi rend="display-initial">M</hi>Using one Day on <hi rend="italics">This</hi> and <hi rend="italics">That</hi>,</l>
+            <l xml:id="swift-Y01E46L1-line-2" n="2">And thinking on I <hi rend="italics">know not what</hi>;</l>
+            <l xml:id="swift-Y01E46L1-line-3" n="3">A jolly Nymph, of <hi rend="italics">Phœbus</hi>' Strain,</l>
+            <l xml:id="swift-Y01E46L1-line-4" n="4">Attack'd me thus in merry Vein.</l>
+            <l rend="indent(1)" xml:id="swift-Y01E46L1-line-5" n="5">“The Rival Deities of Old,</l>
+            <l xml:id="swift-Y01E46L1-line-6" n="6">“A Shepherd chose, (as I am told)</l>
+            <l xml:id="swift-Y01E46L1-line-7" n="7">“To whom each Goddess made her Suit;</l>
+            <l xml:id="swift-Y01E46L1-line-8" n="8">“And He decided their Dispute.</l>
+            <l xml:id="swift-Y01E46L1-line-9" n="9">“No Deities your Aid implore:</l>
+            <l xml:id="swift-Y01E46L1-line-10" n="10">“But Nymphs, in Number Three times Four.</l>
+            <l xml:id="swift-Y01E46L1-line-11" n="11">“(Nymphs full as sprightly and as good,</l>
+            <l xml:id="swift-Y01E46L1-line-12" n="12">“As e'er was made of Flesh and Blood,</l>
+            <l xml:id="swift-Y01E46L1-line-13" n="13">“Who now are sporting on the Plain,)</l>
+            <l xml:id="swift-Y01E46L1-line-14" n="14">“Have chose Thee Umpire, happy Swain!</l>
+            <l xml:id="swift-Y01E46L1-line-15" n="15">“Here, read these Words──── and quickly tell,</l>
+            <l xml:id="swift-Y01E46L1-line-16" n="16">“Thou who in Wisdom doth excel,</l>
+            <l xml:id="swift-Y01E46L1-line-17" n="17">“Relate, nor think me troublesome,</l>
+            <l xml:id="swift-Y01E46L1-line-18" n="18">“What means the──── <hi rend="italics">Best in Christendom</hi>?”</l>
+            <l xml:id="swift-Y01E46L1-line-19" n="19">She smiled, she blushed, and with a Grace</l>
+            <l xml:id="swift-Y01E46L1-line-20" n="20">Hung down her Head, and veil'd her Face.</l>
+            <l rend="indent(1)" xml:id="swift-Y01E46L1-line-21" n="21">From various Things, said I, arise</l>
+            <l xml:id="swift-Y01E46L1-line-22" n="22">Variety of Qualities.</l>
+            <l xml:id="swift-Y01E46L1-line-23" n="23">This fires the Soul, and That the Blood;</l>
+            <l xml:id="swift-Y01E46L1-line-24" n="24">Mysterious some, some understood.</l>
+            <l xml:id="swift-Y01E46L1-line-25" n="25">But ah! how wide my Task and far is</l>
+            <l xml:id="swift-Y01E46L1-line-26" n="26">From what was giv'n to Shepherd <hi rend="italics">Paris</hi>!</l>
+            <l xml:id="swift-Y01E46L1-line-27" n="27">Naked he view'd the Heav'nly Fair,</l>
+            <l xml:id="swift-Y01E46L1-line-28" n="28">And did not slip one single Hair:</l>
+            <l xml:id="swift-Y01E46L1-line-29" n="29">So curious in Examination,</l>
+            <l xml:id="swift-Y01E46L1-line-30" n="30">No <hi rend="italics">Part</hi> escap'd his <hi rend="italics">Penetration</hi>.</l>
+            <l xml:id="swift-Y01E46L1-line-31" n="31">But since my Judgment is required,</l>
+            <l xml:id="swift-Y01E46L1-line-32" n="32">I'll speak──── for now I am inspired.</l>
+            <l xml:id="swift-Y01E46L1-line-33" n="33">The Nymphs so sprightly, blith and gay,</l>
+            <l xml:id="swift-Y01E46L1-line-34" n="34">Shall change their Notes another way.</l>
+            <l xml:id="swift-Y01E46L1-line-35" n="35">The <hi rend="italics">Best</hi>, must something be, <hi rend="italics">Divine</hi>:</l>
+            <l xml:id="swift-Y01E46L1-line-36" n="36">And sure that T<hi rend="small-caps">HING</hi> must needs be Thine.</l>
+            <l rend="indent(1)" xml:id="swift-Y01E46L1-line-37" n="37">“If so, says she, (with swelling Veins)</l>
+            <l xml:id="swift-Y01E46L1-line-38" n="38">“Then prithee <hi rend="italics">take it</hi> for thy Pains.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

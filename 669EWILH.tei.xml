@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/> AGAINST<lb/>  CARTHY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="669EWILH">
+          <head type="note" n="1" xml:id="spp-669EWILH-headnote-1">
+            <lg n="1" xml:id="spp-669EWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-669EWILH-headnote-1-line-group-1-line-1"><hi rend="italics">By</hi> S<hi rend="small-caps">WIFT</hi> <hi rend="italics">and Others</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-669EWILH-headnote-2">
+            <lg n="1" xml:id="spp-669EWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-669EWILH-headnote-2-line-group-1-line-1"><hi rend="italics">Upon his falsly and invidiously attributing some Performances to Mr. </hi>Dunkin.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-669EWILH-headnote-3">
+            <lg n="1" xml:id="spp-669EWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-669EWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-669EWILH-line-1" n="1"><hi rend="display-initial">T</hi>O <hi rend="italics">Dunkin</hi> you attribute what I writ,</l>
+            <l xml:id="swift-669EWILH-line-2" n="2">You thought that Satire Sir,── but you are bit.</l>
+            <l xml:id="swift-669EWILH-line-3" n="3">Tho' he does not, I thank you for your Gift;</l>
+            <l xml:id="swift-669EWILH-line-4" n="4">Bestow my next I pray, to <hi rend="italics">Pope</hi> or <hi rend="italics">Swift</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

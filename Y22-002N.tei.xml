@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 26JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y22-002N">
+          <head type="note" n="1" xml:id="spp-Y22-002N-headnote-1">
+            <lg n="1" xml:id="spp-Y22-002N-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y22-002N-headnote-1-line-group-1-line-1">D<hi rend="superscript">r</hi> Sir</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y22-002N-headnote-2">
+            <lg n="1" xml:id="spp-Y22-002N-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y22-002N-headnote-2-line-group-1-line-1">You Desired me to finish some lines you writ at Dunshaghlin.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y22-002N-headnote-3">
+            <lg n="1" xml:id="spp-Y22-002N-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y22-002N-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y22-002N-line-1" n="1">How can I finish w<hi rend="superscript">t</hi>: you have begun?</l>
+            <l xml:id="swift-Y22-002N-line-2" n="2">Can fire to ripen fruit assist the sun?</l>
+            <l xml:id="swift-Y22-002N-line-3" n="3">Shou'd Raph'el draw a virgin's Cha\<hi rend="italics">?</hi>r<hi rend="italics">·foreign·substance·on·paper</hi>\ming Face,</l>
+            <l xml:id="swift-Y22-002N-line-4" n="4">Exert his skill to give it ev'\e·<hi rend="italics">blotted</hi>\ry Grace,\<hi rend="italics">barely legible under the foreign substance\</hi></l>
+            <l xml:id="swift-Y22-002N-line-5" n="5">And leave the rest to some Dutch-heavy Drone,</l>
+            <l xml:id="swift-Y22-002N-line-6" n="6">Wou'd you not rather see that face alone?</l>
+            <l xml:id="swift-Y22-002N-line-7" n="7">Or shoud Praxiteles the Marble take,</l>
+            <l xml:id="swift-Y22-002N-line-8" n="8">A Venus head and Neck and shoulder's make,</l>
+            <l xml:id="swift-Y22-002N-line-9" n="9">And some rude heand attempt the rest from thence,</l>
+            <l xml:id="swift-Y22-002N-line-10" n="10">Wou'd you not think him void of Common sence?</l>
+            <l xml:id="swift-Y22-002N-line-11" n="11">These hints I hope will move you to excuse</l>
+            <l xml:id="swift-Y22-002N-line-12" n="12">The first refusal of my humble muse.</l>
+            <l xml:id="swift-Y22-002N-line-13" n="13">The task I must decline, and think it just</l>
+            <l xml:id="swift-Y22-002N-line-14" n="14">Your Piece continue as it is, a Bust.</l>
+            <l xml:id="swift-Y22-002N-line-15" n="15">\<hi rend="italics">here follow 4 lines scrawled over</hi></l>
+            <l xml:id="swift-Y22-002N-line-16" n="16">Since want of skill in me wou'd only shew</l>
+            <l xml:id="swift-Y22-002N-line-17" n="17">A golden Crown with cobled shoes below</l>
+            <l xml:id="swift-Y22-002N-line-18" n="18">Rather then joyn the Ca\<hi rend="italics">?</hi>bage\ to the King,</l>
+            <l xml:id="swift-Y22-002N-line-19" n="19">You made \<hi rend="italics">?del</hi>·the·<hi rend="italics">?add</hi>·your\pen·<hi rend="italics">something·del</hi>\ compleat the sting.\</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

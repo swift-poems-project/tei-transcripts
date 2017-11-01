@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On<lb/>  Her Majesty's Erecting the Several Bustoes of<lb/>  M<hi rend="superscript">r</hi> 08. Locke, S<hi rend="superscript">r</hi> 08. Isaac Newton, M<hi rend="superscript">r</hi> 08. Woolaston &amp; D<hi rend="superscript">r</hi> 08. Clarke<lb/>  in her new Hermitage at Richmond, were y<hi rend="superscript">e</hi> 08. following Lines wrote, Anno<lb/>  1732.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7SE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="664C100M">
+          <head type="note" n="1" xml:id="spp-664C100M-headnote-1">
+            <lg n="1" xml:id="spp-664C100M-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C100M-headnote-1-line-group-1-line-1">Sic Sibi lætantur Docti.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-664C100M-headnote-2">
+            <lg n="1" xml:id="spp-664C100M-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C100M-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-664C100M-headnote-3">
+            <lg n="1" xml:id="spp-664C100M-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-664C100M-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-664C100M-line-1" n="1">With Honour thus by Carolina plac'd,</l>
+            <l xml:id="swift-664C100M-line-2" n="2">How are these Venerable Bustoes grac'd!</l>
+            <l xml:id="swift-664C100M-line-3" n="3">O Queen! with more y<hi rend="superscript">ṇ</hi> Regal Titles crown'd,</l>
+            <l xml:id="swift-664C100M-line-4" n="4">For Love of Arts, and Piety renown'd,</l>
+            <l xml:id="swift-664C100M-line-5" n="5">How do the Friends of Virtue Ioy to see</l>
+            <l xml:id="swift-664C100M-line-6" n="6">Her Darling Sons Exalted thus by Thee?</l>
+            <l xml:id="swift-664C100M-line-7" n="7">Nought to their Fame can now be added more,</l>
+            <l xml:id="swift-664C100M-line-8" n="8">Rever'd by her, whom all Mankind adore.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

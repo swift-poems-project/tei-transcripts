@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On the Words---- </hi>Brother Protestants, and<lb/>  Fellow Christians<hi rend="italics">, so familiarly used by<lb/>  the Advocates for the Repeal of the Test<lb/>  Act in</hi> Ireland, 1733.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 19OC98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 6FE99, 8SE08, 20MY10, 29JL11, 27JE16, 24MY17; tochk item √'d JW 21JA02 agt L copy; tochk items √'d SK 10JL15 agt L copy</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="811-34FB">
+          <head type="note" n="1" xml:id="spp-811-34FB-headnote-1">
+            <lg n="1" xml:id="spp-811-34FB-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-811-34FB-headnote-1-line-group-1-line-1"><hi rend="display-initial">I</hi>n <hi rend="italics">December</hi> last, Mr. <hi rend="italics">B</hi>--, of the City of <hi rend="italics">Dublin</hi>, serjeant at law, and <hi rend="italics">M---r</hi> of <hi rend="italics">P-----t</hi>, openly swore, before many hundreds of People, that upon the first opportunity, by the help of ruffians, he would murder or maim the <hi rend="italics">Dean</hi> of St. <hi rend="italics">Patrick</hi>'s (Dr. <hi rend="italics">Swift</hi>.) Upon which, 31 of the principal inhabitants of that liberty, signed a Paper, to this effect: <hi rend="italics">That out of their great love and respect to the Dean, to whom the whole Kingdom, hath so many obligations, they would endeavour to defend the life and limbs of the said Dean, against a certain man, and all his ruffians and murderers</hi>. With which paper, they in the name of themselves, and all the inhabitants of the said liberty, attended the Dean on <hi rend="italics">Jan</hi>. the 8th; who being extremely ill in bed of a giddiness and deafness, and not able to receive them, immediately dictated a very grateful answer. The occasion of the <hi rend="italics">certain man</hi>'s declaration of his villainous design against the Dean, was a frivilous unproved suspicion, that he had written some lines in verse reflecting upon him; of which the following is a genuine copy from the <hi rend="italics">Grubstreet Journal</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-811-34FB-headnote-2">
+            <lg n="1" xml:id="spp-811-34FB-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-811-34FB-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-811-34FB-headnote-3">
+            <lg n="1" xml:id="spp-811-34FB-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-811-34FB-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-811-34FB-line-1" n="1"><hi rend="display-initial">A</hi>N inundation says the fable,</l>
+            <l xml:id="swift-811-34FB-line-2" n="2">O'erflow'd a farmer's barn and stable</l>
+            <l xml:id="swift-811-34FB-line-3" n="3">Whole ricks of hay and stacks of corn,</l>
+            <l xml:id="swift-811-34FB-line-4" n="4">Were down the sudden current born;</l>
+            <l xml:id="swift-811-34FB-line-5" n="5">While things of heterogeneous Kind,</l>
+            <l xml:id="swift-811-34FB-line-6" n="6">Together float with tide and wind;</l>
+            <l xml:id="swift-811-34FB-line-7" n="7">The generous wheat forgot its pride,</l>
+            <l xml:id="swift-811-34FB-line-8" n="8">And sail'd with littler side by side;</l>
+            <l xml:id="swift-811-34FB-line-9" n="9">Uniting all, to shew their amity,</l>
+            <l xml:id="swift-811-34FB-line-10" n="10">As in a general calamity.</l>
+            <l xml:id="swift-811-34FB-line-11" n="11">A ball of new-dropt horses dung,</l>
+            <l xml:id="swift-811-34FB-line-12" n="12">Mingling with apples in the throng,</l>
+            <l xml:id="swift-811-34FB-line-13" n="13">Say'd to the pippin, plump, and prim,</l>
+            <l xml:id="swift-811-34FB-line-14" n="14"><hi rend="italics">See, brother, how we apples swim</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-811-34FB-line-15" n="15">Thus <hi rend="italics">Lamb</hi>, renown'd for cutting corns,</l>
+            <l xml:id="swift-811-34FB-line-16" n="16">An offer'd fee from <hi rend="italics">Radcliff</hi> scorns;</l>
+            <l xml:id="swift-811-34FB-line-17" n="17">
+              <hi rend="italics">Not for the world---- we doctors, brother,</hi>
+            </l>
+            <l xml:id="swift-811-34FB-line-18" n="18"><hi rend="italics">Must take no fee of one another</hi>.</l>
+            <l xml:id="swift-811-34FB-line-19" n="19">Thus to a dean some curate sloven,</l>
+            <l xml:id="swift-811-34FB-line-20" n="20">Subscribes, <hi rend="italics">Dear Sir, Your brother loving</hi>.</l>
+            <l xml:id="swift-811-34FB-line-21" n="21">Thus all the foot men, shoe-boys, porters,</l>
+            <l xml:id="swift-811-34FB-line-22" n="22">About St. <hi rend="italics">James</hi>'s cry, we courtiers,</l>
+            <l xml:id="swift-811-34FB-line-23" n="23">Thus <hi rend="italics">Horace</hi> in the house will prate,</l>
+            <l xml:id="swift-811-34FB-line-24" n="24"><hi rend="italics">Sir, we the ministers of state</hi>.</l>
+            <l xml:id="swift-811-34FB-line-25" n="25">Thus at the bar that booby <hi rend="italics">B</hi>---,</l>
+            <l xml:id="swift-811-34FB-line-26" n="26">Tho' half a crown o'er-pays his sweats worth;</l>
+            <l xml:id="swift-811-34FB-line-27" n="27">Who knows in law, nor text, nor margent.</l>
+            <l xml:id="swift-811-34FB-line-28" n="28">Calls <hi rend="italics">Singleten</hi> his brother serjeant;</l>
+            <l xml:id="swift-811-34FB-line-29" n="29">And thus fanatick saints tho', neither in</l>
+            <l xml:id="swift-811-34FB-line-30" n="30">Doctrine, or discipline or brethren,</l>
+            <l xml:id="swift-811-34FB-line-31" n="31">Are <hi rend="italics">brother Protestants and Christians</hi>,</l>
+            <l xml:id="swift-811-34FB-line-32" n="32">As much as <hi rend="italics">Hebrew</hi> and <hi rend="italics">Philistines</hi>:</l>
+            <l xml:id="swift-811-34FB-line-33" n="33">But in no other sense than nature</l>
+            <l xml:id="swift-811-34FB-line-34" n="34">Has made a rat our fellow-creature,</l>
+            <l xml:id="swift-811-34FB-line-35" n="35">Lice from your body suck their food;</l>
+            <l xml:id="swift-811-34FB-line-36" n="36">But is a louse your flesh and blood?</l>
+            <l xml:id="swift-811-34FB-line-37" n="37">Tho' born of human filth and sweat it</l>
+            <l xml:id="swift-811-34FB-line-38" n="38">May well be said man did beget it.</l>
+            <l xml:id="swift-811-34FB-line-39" n="39">But magots in your nose and chin,</l>
+            <l xml:id="swift-811-34FB-line-40" n="40">As well may claim you for their kin.</l>
+            <l rend="indent(1)" xml:id="swift-811-34FB-line-41" n="41">Yet critics may object, why not?</l>
+            <l xml:id="swift-811-34FB-line-42" n="42">Since lice are brethren to a <hi rend="italics">Scot</hi>;</l>
+            <l xml:id="swift-811-34FB-line-43" n="43">Which made our swarm of sects tetermine</l>
+            <l xml:id="swift-811-34FB-line-44" n="44">Employments for their brother vermine.</l>
+            <l xml:id="swift-811-34FB-line-45" n="45">But be they <hi rend="italics">English, Irish, Scotish</hi>,</l>
+            <l xml:id="swift-811-34FB-line-46" n="46">What Protestant can be so sottish,</l>
+            <l xml:id="swift-811-34FB-line-47" n="47">While o'er the church these clouds are gathering,</l>
+            <l xml:id="swift-811-34FB-line-48" n="48">To call a swarm of lice his brethren?</l>
+            <l rend="indent(1)" xml:id="swift-811-34FB-line-49" n="49">As <hi rend="italics">Moses</hi>, by divine advice,</l>
+            <l xml:id="swift-811-34FB-line-50" n="50">In <hi rend="italics">Egypt</hi> turn'd the dust to lice:</l>
+            <l xml:id="swift-811-34FB-line-51" n="51">And as our sects, by all descriptions,</l>
+            <l xml:id="swift-811-34FB-line-52" n="52">Have hearts more harden'd than <hi rend="italics">Egyptains</hi>;</l>
+            <l xml:id="swift-811-34FB-line-53" n="53">As from the trodden dust they spring,</l>
+            <l xml:id="swift-811-34FB-line-54" n="54">And turn'd to lice infest the king:</l>
+            <l xml:id="swift-811-34FB-line-55" n="55">For pity's sake it would be just,</l>
+            <l xml:id="swift-811-34FB-line-56" n="56">A rod should turn them back to dust.</l>
+            <l rend="indent(1)" xml:id="swift-811-34FB-line-57" n="57">Let folks in high, or holy stations,</l>
+            <l xml:id="swift-811-34FB-line-58" n="58">Be proud of owing such relations;</l>
+            <l xml:id="swift-811-34FB-line-59" n="59">Let courtiers hug them in their bosom</l>
+            <l xml:id="swift-811-34FB-line-60" n="60">As if they were afraid to lose 'em:</l>
+            <l xml:id="swift-811-34FB-line-61" n="61">While I, with humble <hi rend="italics">Job</hi>, had rather,</l>
+            <l xml:id="swift-811-34FB-line-62" n="62">Say to corruption-- <hi rend="italics">Thou'rt my father</hi>.</l>
+            <l xml:id="swift-811-34FB-line-63" n="63">For he that has so little wit,</l>
+            <l xml:id="swift-811-34FB-line-64" n="64">To nourish vermin, may be bit.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

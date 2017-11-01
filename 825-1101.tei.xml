@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On NOISY TOM.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 3JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-825-1101-footnote-headnote-1"/>
+          <link target="# #spp-825-1101-footnote-headnote-2"/>
+          <link target="# #spp-825-1101-footnote-headnote-3"/>
+          <link target="# #spp-825-1101-footnote-headnote-4"/>
+        </linkGrp>
+        <div n="825-1101">
+          <head type="note" n="1" xml:id="spp-825-1101-headnote-1">
+            <lg n="1" xml:id="spp-825-1101-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-1101-headnote-1-line-group-1-line-1">──<hi rend="italics">Qui promittit cives, urbem sibi curæ, <lb/> Imperium fore, et Italiam, et delubra Deorum; <lb/> Quo patre sit natus, num ignota matre inbonestus <lb/> Omnes mortales curare, &amp; quœrere cogit. <lb/> Tune Syri, Damæ, aut Dionysi filius audes <lb/> Dejicere e saxo cives, aut tradere Cadmo</hi>? <lb/><note rend="flush right"> H<hi rend="small-caps">OR</hi>. Lib. 1. Sat. 6. l. 34.──39.</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-825-1101-headnote-2">
+            <lg n="1" xml:id="spp-825-1101-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-1101-headnote-2-line-group-1-line-1">Translated literally.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-825-1101-headnote-3">
+            <lg n="1" xml:id="spp-825-1101-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-1101-headnote-3-line-group-1-line-1">Whoever promiseth (in the Senate) to take the City (of <hi rend="italics">Rome</hi>) and the Citizens under his Care, nay, the whole Empire, <hi rend="italics">Italy</hi>, and the Temples of the Gods; such a Man compelleth all Mortals curiously to enquire from what Father he sprung, and whether his Mother were some obscure dishonourable Female. (The People would cry out) What thou the Son of <hi rend="italics">Cyrus</hi><ref target="#spp-825-1101-footnote-headnote-1">1</ref><note n="1" xml:id="spp-825-1101-footnote-headnote-1" place="foot">Usual Names of Slaves at <hi rend="italics">Rome</hi></note>, or <hi rend="italics">Damas</hi><ref target="#spp-825-1101-footnote-headnote-2">2</ref><note n="2" xml:id="spp-825-1101-footnote-headnote-2" place="foot">Usual Names of Slaves at <hi rend="italics">Rome</hi></note>, or <hi rend="italics">Dionysius</hi> <ref target="#spp-825-1101-footnote-headnote-3">3</ref><note n="3" xml:id="spp-825-1101-footnote-headnote-3" place="foot">Usual Names of Slaves at <hi rend="italics">Rome</hi></note> dare thou cast our Citizens down the <hi rend="italics">Tarpeian</hi> Rock, or deliver them Prisoners to <hi rend="italics">Cadmus</hi><ref target="#spp-825-1101-footnote-headnote-4">4</ref><note n="4" xml:id="spp-825-1101-footnote-headnote-4" place="foot"><hi rend="italics">Cadmus</hi> was a Lictor, an Officer who seized on Criminals, like a Constable, or Messenger of the H────── of C────</note>.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-825-1101-headnote-4">
+            <lg n="1" xml:id="spp-825-1101-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-1101-headnote-4-line-group-1-line-1">PARAPHRASED.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-825-1101-line-1" n="1"><hi rend="display-initial">I</hi>F noisy <hi rend="italics">T</hi>── <note place="foot">·Sir <hi rend="italics">T──── P</hi>────.</note> should in the S-n-te prate,</l>
+            <l xml:id="swift-825-1101-line-2" n="2">That he would answer both for Church and State;</l>
+            <l xml:id="swift-825-1101-line-3" n="3">And, further to demonstrate his Affection,</l>
+            <l xml:id="swift-825-1101-line-4" n="4">Would take the Kingdom into his Protection:</l>
+            <l xml:id="swift-825-1101-line-5" n="5">All Mortals must be curious to enquire,</l>
+            <l xml:id="swift-825-1101-line-6" n="6">Who could this Coxcomb be, and who his Sire?</l>
+            <l xml:id="swift-825-1101-line-7" n="7">What, thou! the Spawn of him <note place="foot">·The Father of Sir <hi rend="italics">T</hi>────, * * * *, who engaged in a Plot to murder King <hi rend="italics">William</hi> III. but to avoid being hanged, turned Informer against his Associates, for which he was rewarded with a good Estate, and made a Baronet.</note> who sham'd our Isle,</l>
+            <l xml:id="swift-825-1101-line-8" n="8">That Traitor, Assassin, Informer vile.</l>
+            <l xml:id="swift-825-1101-line-9" n="9">Though by the Female Side <note place="foot">·C──d──gan's Family &amp;c.</note> you proudly bring,</l>
+            <l xml:id="swift-825-1101-line-10" n="10">To mend your Breed, the Murderer of a King.</l>
+            <l xml:id="swift-825-1101-line-11" n="11">What was thy Grandsire <note place="foot">·A poor thieving Cottager under Mr. <hi rend="italics">Moore</hi>, condemned at <hi rend="italics">Clonmell</hi> Assizes to be hanged for stealing Cows.</note> (but a Mountaineer,)</l>
+            <l xml:id="swift-825-1101-line-12" n="12">Who held a Cabbin for ten Groats a Year;</l>
+            <l xml:id="swift-825-1101-line-13" n="13">Whose Master <hi rend="italics">Moore</hi> <note place="foot">·The Grandfather of <hi rend="italics">Guy Moore</hi>, Esq; who procured him a Pardon.</note> preserv'd him from the Halter,</l>
+            <l xml:id="swift-825-1101-line-14" n="14">For stealing Cows, nor could he read the Psalter.</l>
+            <l xml:id="swift-825-1101-line-15" n="15">Durst thou, ungrateful from the S-n-te chase</l>
+            <l rend="indent(1)" xml:id="swift-825-1101-line-16" n="16">Thy Founder's Grandson <note place="foot">·<hi rend="italics">Guy Moore</hi> was fairly elected Member of P────────── for <hi rend="italics">Clonmell</hi>; bnt Sir <hi rend="italics">T</hi>────── depending upon his Interest with a certain Party then prevailing, and since known by the Title of <hi rend="italics">Parson-hunters</hi>, petitioned the House against him, out of which he was turned upon Pretence of Bribery, which the paying of his lawful Debts was then voted to be.</note> and usurp his Place.</l>
+            <l xml:id="swift-825-1101-line-17" n="17">Just Heav'n! to see the Dunghill dastard Brood</l>
+            <l xml:id="swift-825-1101-line-18" n="18">Survive in thee, and make the Proverb good<note place="foot">·Save a Thief from the Gallows, and he will cut your Throat.</note></l>
+            <l xml:id="swift-825-1101-line-19" n="19">Then vote a worthy Citizen <note place="foot">·Mr. <hi rend="italics">G────── F</hi>──────, a very honest and eminent Printer in <hi rend="italics">Dublin</hi>, who was voted to <hi rend="italics">Newgate</hi> upon a ridiculous Complaint of one Serjeant <hi rend="italics">Bettesworth</hi>. See Page 359, Vol. X.</note> to Jail,</l>
+            <l xml:id="swift-825-1101-line-20" n="20">In Spight to Justice, and refuse his Bail.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

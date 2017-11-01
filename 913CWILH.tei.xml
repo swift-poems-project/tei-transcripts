@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The Ænigma in the last Mercury<lb/>  explain' d</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="913CWILH">
+          <head type="note" n="1" xml:id="spp-913CWILH-headnote-1">
+            <lg n="1" xml:id="spp-913CWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-913CWILH-headnote-1-line-group-1-line-1">By Mr. <hi rend="italics">F----r</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-913CWILH-headnote-2">
+            <lg n="1" xml:id="spp-913CWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-913CWILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-913CWILH-headnote-3">
+            <lg n="1" xml:id="spp-913CWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-913CWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-913CWILH-line-1" n="1"><hi rend="display-initial">I<hi rend="italics">N Rigging he's rich, tho in Pocket he's Poor.</hi></hi></l><l rend="indent(1)" xml:id="swift-913CWILH-line-2" n="2">He cringes to Courtiers, and cocks to the Cits,</l><l xml:id="swift-913CWILH-line-3" n="3">Like twenty he dresses, but looks like threescore,</l><l rend="indent(1)" xml:id="swift-913CWILH-line-4" n="4">He's a Wit to the Fools, and a Fool to the Wits.</l><l xml:id="swift-913CWILH-line-5" n="5"><lb/>Of Wisdom he's empty, but full of Conceit,</l><l rend="indent(1)" xml:id="swift-913CWILH-line-6" n="6">He paints and perfumes, while he rots with the Scab.</l><l xml:id="swift-913CWILH-line-7" n="7">He paints and perfumes, while he rots with the Scab.'Tis a </l>Beau<hi rend="italics"> you may swear by his Sense and his Gate,</hi><l xml:id="swift-913CWILH-line-8" n="8"> you may swear by his Sense and his Gate,He boasts of a Beauty, and lies with a Drab</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

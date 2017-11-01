@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Labours of M<hi rend="superscript">r</hi> Hewit,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 26JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-006N">
+          <head type="note" n="1" xml:id="spp-675-006N-headnote-1">
+            <lg n="1" xml:id="spp-675-006N-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-006N-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-675-006N-headnote-2">
+            <lg n="1" xml:id="spp-675-006N-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-006N-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-675-006N-headnote-3">
+            <lg n="1" xml:id="spp-675-006N-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-006N-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-675-006N-line-1" n="1">I Walk'd five Mile thro' scorching Sand,</l>
+            <l xml:id="swift-675-006N-line-2" n="2">With Zeal in Heart and Note in Hand;</l>
+            <l xml:id="swift-675-006N-line-3" n="3">I rode four more to Church S<hi rend="superscript">ṭ</hi> Mary,</l>
+            <l xml:id="swift-675-006N-line-4" n="4">Using four Legs when two were weary:</l>
+            <l xml:id="swift-675-006N-line-5" n="5">To three fair Virgins I did tye Men,</l>
+            <l xml:id="swift-675-006N-line-6" n="6">In the close bands of pleasing Hymen,</l>
+            <l xml:id="swift-675-006N-line-7" n="7">Within two hours and an half,</l>
+            <l xml:id="swift-675-006N-line-8" n="8">I Preach'd three Congregations Deaf;</l>
+            <l xml:id="swift-675-006N-line-9" n="9">And in the compass of one more,</l>
+            <l xml:id="swift-675-006N-line-10" n="10">Run evening Service o're and o'\<hi rend="italics">?</hi>re·<hi rend="italics">hole</hi>\,</l>
+            <l xml:id="swift-675-006N-line-11" n="11">Which Thunder'd out, with Lungs long Winded</l>
+            <l xml:id="swift-675-006N-line-12" n="12">I chopt so fast that few did mind it.</l>
+            <l xml:id="swift-675-006N-line-13" n="13">I Wash'd two babes in Holy water,</l>
+            <l xml:id="swift-675-006N-line-14" n="14">And purified their Mothers after.</l>
+            <l xml:id="swift-675-006N-line-15" n="15">My Emblem the unwearied Sun, 3}</l>
+            <l xml:id="swift-675-006N-line-16" n="16">Saw all these Mighty Labours done,</l>
+            <l xml:id="swift-675-006N-line-17" n="17">Before one race of his was run.</l>
+            <l xml:id="swift-675-006N-line-18" n="18">All this perform'd by Robin Hewit,</l>
+            <l xml:id="swift-675-006N-line-19" n="19">What Mortal else could e're go through it?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

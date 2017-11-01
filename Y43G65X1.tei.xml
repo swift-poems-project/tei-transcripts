@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A Song for mothers and nurses</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 22JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y43G65X1">
+          <head type="note" n="1" xml:id="spp-Y43G65X1-headnote-1">
+            <lg n="1" xml:id="spp-Y43G65X1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G65X1-headnote-1-line-group-1-line-1"><hi rend="italics">Tune, yellow stocking</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y43G65X1-headnote-2">
+            <lg n="1" xml:id="spp-Y43G65X1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G65X1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y43G65X1-headnote-3">
+            <lg n="1" xml:id="spp-Y43G65X1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y43G65X1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-1" n="1"><hi rend="display-initial">O</hi> My kitten a kitten, <lb/>And O my kitten a deary,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-2" n="2">Such a sweet pet as this is, <lb/>There is not far nor neary;</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-3" n="3">And here we go up, up, up, <lb/>And here we go down, down, downy,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-4" n="4">And here we go backwards and forwards, <lb/>And here we go round, round, roundy.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-5" n="5">Chuck-a-chuckoo my lilly-cock, <lb/>See, saw, sacky, a-downy,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-6" n="6">Gallop a-trot, trott, trott, <lb/>And hey for Newcastle towny:</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-7" n="7">This pig went to the market, <lb/>Creep mouse, mouse, mouse, mousey,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-8" n="8">And shoe, shoe, shoe the wild colt, <lb/>And here's your own Doll Dowsey.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-9" n="9">And she was a jewel and a petsey, <lb/>And she was a sugar and spicey,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-10" n="10">And husho babie in a cradle. <lb/>And we'll go abroad in a tricey.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-11" n="11">Did a papa torment it, <lb/>Did he vex his babie a' did he?</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-12" n="12">Hush a' in nurse's nown bosom, <lb/>And take a' your nown sucky-diddy.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-13" n="13">Good morrow, oh! there's pudding broke, <lb/>Slobber, ah threads of christal,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-14" n="14">O the sweet posset comes up, <lb/>Who said my child was bepist all?</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-15" n="15">Water my chickens come clock, <lb/>Or else I'll scrawl ye a scrabie,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-16" n="16">And lend me a hand till I beat him, <lb/>And dids him a-vex a-my babie.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-17" n="17">Where was a laugh and a crow. <lb/>And there was a gigling honey,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-18" n="18">And goody good child shall be fed, <lb/>But naughty pack it shall have nony.</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-19" n="19">Get ye gone raw-head and bloody bones, <lb/>Here is a child does not fear ye,</l>
+            <l rend="indent(1)" xml:id="swift-Y43G65X1-line-20" n="20">Come pishy, pishy, my jewel, <lb/>And eh, eh, eh, my deary.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

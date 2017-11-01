@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon the AUTHOR.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 15JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y01C36L3">
+          <head type="note" n="1" xml:id="spp-Y01C36L3-headnote-1">
+            <lg n="1" xml:id="spp-Y01C36L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01C36L3-headnote-1-line-group-1-line-1"><hi rend="italics">By the same Hand</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y01C36L3-headnote-2">
+            <lg n="1" xml:id="spp-Y01C36L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01C36L3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y01C36L3-headnote-3">
+            <lg n="1" xml:id="spp-Y01C36L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y01C36L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y01C36L3-line-1" n="1"><hi rend="display-initial">H</hi>AD I Ten Thousand <hi rend="italics">Mouths</hi> and <hi rend="italics">Tongues</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-2" n="2">Had I Ten Thousand Pair of <hi rend="italics">Lungs</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-3" n="3">Ten Thousand <hi rend="italics">Skulls</hi> with <hi rend="italics">Brains</hi> to think,</l>
+            <l xml:id="swift-Y01C36L3-line-4" n="4">Ten Thousand <hi rend="italics">Standishes</hi> of <hi rend="italics">Ink</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-5" n="5">Ten Thousand <hi rend="italics">Hands</hi> and <hi rend="italics">Pens</hi> to write,</l>
+            <l xml:id="swift-Y01C36L3-line-6" n="6">Thy Praise, <hi rend="italics">I'd study Day and Night</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-Y01C36L3-line-7" n="7"><lb/>O may thy W<hi rend="small-caps">ORK</hi> for ever live!</l>
+            <l xml:id="swift-Y01C36L3-line-8" n="8">(Dear T<hi rend="small-caps">OM</hi>, a friendly Zeal forgive,)</l>
+            <l xml:id="swift-Y01C36L3-line-9" n="9">May no vile Miscreant, saucy <hi rend="italics">Cook</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-10" n="10">Presume to tear thy <hi rend="italics">learned Book</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-11" n="11">To <hi rend="italics">singe his Fowl</hi> for nicer Guest,</l>
+            <l xml:id="swift-Y01C36L3-line-12" n="12">Or <hi rend="italics">pin it on the </hi>Turkey's<hi rend="italics"> Breast</hi>.</l>
+            <l xml:id="swift-Y01C36L3-line-13" n="13">Keep it from <hi rend="italics">Pasty bak'd</hi>, or <hi rend="italics">flying</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-14" n="14">From <hi rend="italics">broyling Stake</hi>, or <hi rend="italics">Fritters frying</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-15" n="15">From <hi rend="italics">lighting Pipe</hi>, or <hi rend="italics">making Snuff</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-16" n="16">Or <hi rend="italics">casing up</hi> a <hi rend="italics">feather Muff</hi>.</l>
+            <l xml:id="swift-Y01C36L3-line-17" n="17">From all the several Ways the <hi rend="italics">Grocer</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-18" n="18">(Who to the learned World's a Foe, Sir,)</l>
+            <l xml:id="swift-Y01C36L3-line-19" n="19">Has found in <hi rend="italics">Twisting, Folding, Packing,</hi></l>
+            <l xml:id="swift-Y01C36L3-line-20" n="20"><hi rend="italics">His brains</hi> and <hi rend="italics">Ours</hi> at once a <hi rend="italics">racking</hi>.</l>
+            <l xml:id="swift-Y01C36L3-line-21" n="21">And may it never <hi rend="italics">curl</hi> the <hi rend="italics">Head</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-22" n="22">Of either <hi rend="italics">living Block</hi> or <hi rend="italics">Dead</hi>.</l>
+            <l xml:id="swift-Y01C36L3-line-23" n="23">Thus when all Dangers they have past,</l>
+            <l xml:id="swift-Y01C36L3-line-24" n="24">Your <hi rend="italics">Leaves</hi>, like <hi rend="italics">Leaves of Brass</hi>, shall last.</l>
+            <l xml:id="swift-Y01C36L3-line-25" n="25">No <hi rend="italics">Blast</hi> shall from a <hi rend="italics">Critic's Breath</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-26" n="26">By vile <hi rend="italics">Infection</hi> cause their <hi rend="italics">Death</hi>,</l>
+            <l xml:id="swift-Y01C36L3-line-27" n="27">'Till they in <hi rend="italics">Flames</hi> at last expire,</l>
+            <l xml:id="swift-Y01C36L3-line-28" n="28"><hi rend="italics">And help to set the World on Fire</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

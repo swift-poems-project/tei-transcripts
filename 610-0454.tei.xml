@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES left with a Silver Standish, on<lb/>  the D<hi rend="small-caps">EAN</hi> of St. P<hi rend="small-caps">ATRICK</hi>'s Desk on<lb/>  his B<hi rend="small-caps">IRTH</hi>-D<hi rend="small-caps">AY</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 2JL13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="610-0454">
+          <head type="note" n="1" xml:id="spp-610-0454-headnote-1">
+            <lg n="1" xml:id="spp-610-0454-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-610-0454-headnote-1-line-group-1-line-1">By the Reverend Dr. D<hi rend="small-caps">ELANY</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-610-0454-headnote-2">
+            <lg n="1" xml:id="spp-610-0454-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-610-0454-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-610-0454-headnote-3">
+            <lg n="1" xml:id="spp-610-0454-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-610-0454-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-610-0454-line-1" n="1"><hi rend="display-initial">H</hi>ITHER from <hi rend="italics">Mexico</hi> I came,</l>
+            <l xml:id="swift-610-0454-line-2" n="2">To serve a proud <hi rend="italics">Iernian</hi> Dame,</l>
+            <l xml:id="swift-610-0454-line-3" n="3">Was long submitted to her Will,</l>
+            <l xml:id="swift-610-0454-line-4" n="4">At length she lost me at Quadrille,</l>
+            <l xml:id="swift-610-0454-line-5" n="5">Thro' various Shapes I often pass'd,</l>
+            <l xml:id="swift-610-0454-line-6" n="6">Still hoping to have Rest at last;</l>
+            <l xml:id="swift-610-0454-line-7" n="7">And still ambitious to obtain</l>
+            <l xml:id="swift-610-0454-line-8" n="8">Admittance to the Patriot Dean.</l>
+            <l xml:id="swift-610-0454-line-9" n="9">And sometimes got within his Door,</l>
+            <l xml:id="swift-610-0454-line-10" n="10"><note place="foot">·<hi rend="italics">Alluding to </hi>500<hi rend="italics">l. a Year lent by the Dean, without Interest, to poor Tradesmen</hi>.</note>But soon turn'd out to serve the Poor:</l>
+            <l xml:id="swift-610-0454-line-11" n="11">Not stroling Idleness to aid,</l>
+            <l xml:id="swift-610-0454-line-12" n="12">But honest Industry decay'd.</l>
+            <l xml:id="swift-610-0454-line-13" n="13">At length an Artist purchas'd me,</l>
+            <l xml:id="swift-610-0454-line-14" n="14">And wrought me to the Shape you see.</l>
+            <l rend="indent(1)" xml:id="swift-610-0454-line-15" n="15"><lb/>This done, to <hi rend="italics">Hermes</hi> I apply'd:</l>
+            <l xml:id="swift-610-0454-line-16" n="16">`O <hi rend="italics">Hermes</hi> gratify my Pride;</l>
+            <l xml:id="swift-610-0454-line-17" n="17">`Be it my Fate a serve a Sage,</l>
+            <l xml:id="swift-610-0454-line-18" n="18">`The greatest Genius of his Age:</l>
+            <l xml:id="swift-610-0454-line-19" n="19">`That matchless Pen let me supply,</l>
+            <l xml:id="swift-610-0454-line-20" n="20">`Whose living Lines will never die.</l>
+            <l rend="indent(1)" xml:id="swift-610-0454-line-21" n="21"><lb/>I <hi rend="small-caps">GRANT</hi> your Suit, the God reply'd,</l>
+            <l xml:id="swift-610-0454-line-22" n="22">And here he left me to reside.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

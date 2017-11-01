@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The D<hi rend="small-caps">EAN</hi>'s answer.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 18JA08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X33-07G1">
+          <head type="note" n="1" xml:id="spp-X33-07G1-headnote-1">
+            <lg n="1" xml:id="spp-X33-07G1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X33-07G1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X33-07G1-headnote-2">
+            <lg n="1" xml:id="spp-X33-07G1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X33-07G1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X33-07G1-headnote-3">
+            <lg n="1" xml:id="spp-X33-07G1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X33-07G1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X33-07G1-line-1" n="1"><hi rend="display-initial">S</hi>O, about twelve at night, the punk</l>
+            <l xml:id="swift-X33-07G1-line-2" n="2">Steals from the cully when he's drunk;</l>
+            <l xml:id="swift-X33-07G1-line-3" n="3">Nor is contented with a treat,</l>
+            <l xml:id="swift-X33-07G1-line-4" n="4">Without her privilege to cheat.</l>
+            <l xml:id="swift-X33-07G1-line-5" n="5">Nor can I the least diff'rence find,</l>
+            <l xml:id="swift-X33-07G1-line-6" n="6">But that you left no clap behind.</l>
+            <l xml:id="swift-X33-07G1-line-7" n="7">But jest apart, restore, you capon ye,</l>
+            <l xml:id="swift-X33-07G1-line-8" n="8">My twelve thirteens <note place="foot">·An English shilling passes for thirteen pence in Ireland.</note> and sixpence ha'penny.</l>
+            <l xml:id="swift-X33-07G1-line-9" n="9">To eat my meat, and drink my medlicot,</l>
+            <l xml:id="swift-X33-07G1-line-10" n="10">And then to give me such a deadly cut──────</l>
+            <l xml:id="swift-X33-07G1-line-11" n="11">But 'tis observ'd, that men in gowns</l>
+            <l xml:id="swift-X33-07G1-line-12" n="12">Are most inclin'd to plunder <hi rend="italics">crowns</hi>.</l>
+            <l xml:id="swift-X33-07G1-line-13" n="13">Could you but <hi rend="italics">change</hi> a crown as easy</l>
+            <l xml:id="swift-X33-07G1-line-14" n="14">As you can steal one, how 'twoud please ye!</l>
+            <l xml:id="swift-X33-07G1-line-15" n="15">I thought the Lady at St Cath'rines<note place="foot">·Lady Montcashel.</note></l>
+            <l xml:id="swift-X33-07G1-line-16" n="16">Knew how to set you better patterns;</l>
+            <l xml:id="swift-X33-07G1-line-17" n="17">For this I will not dine with Agmondisham<note place="foot">·Agmondisham Vesey, Esq; a very worthy gentleman, for whom the author had a great esteem.</note>,</l>
+            <l rend="indent(1)" xml:id="swift-X33-07G1-line-18" n="18">And for his victuals let a ragman dish 'em.<lb/><hi rend="italics">Saturday night</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

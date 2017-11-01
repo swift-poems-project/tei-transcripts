@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The PEASANT and the LARK.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 15JA02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="508-1301">
+          <head type="note" n="1" xml:id="spp-508-1301-headnote-1">
+            <lg n="1" xml:id="spp-508-1301-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-508-1301-headnote-1-line-group-1-line-1">A FABLE.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-508-1301-headnote-2">
+            <lg n="1" xml:id="spp-508-1301-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-508-1301-headnote-2-line-group-1-line-1">By Dr. DELANY.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-508-1301-headnote-3">
+            <lg n="1" xml:id="spp-508-1301-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-508-1301-headnote-3-line-group-1-line-1"><lb/><lb/><lb/>────<hi rend="italics">Quis iniquæ<lb/>Tam patiens urbis, tam ferreus, ut teneat se</hi>?<lb/><note rend="flush right">J<hi rend="small-caps">UVENAL</hi>.··</note></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-508-1301-line-1" n="1"><hi rend="display-initial">I</hi>N ancient times, as bards indite,</l>
+            <l xml:id="swift-508-1301-line-2" n="2">(If clerks have con'd the records right)</l>
+            <l xml:id="swift-508-1301-line-3" n="3">A Peacock reign'd, whose glorious sway</l>
+            <l xml:id="swift-508-1301-line-4" n="4">His subjects with delight obey;</l>
+            <l xml:id="swift-508-1301-line-5" n="5">His tail was beauteous to behold,</l>
+            <l xml:id="swift-508-1301-line-6" n="6">Replete with goodly eyes and gold,</l>
+            <l xml:id="swift-508-1301-line-7" n="7">(Fair emblem of that Monarch's guise,</l>
+            <l xml:id="swift-508-1301-line-8" n="8">Whose train at once is rich and wise)</l>
+            <l xml:id="swift-508-1301-line-9" n="9">And princely rul'd he many regions,</l>
+            <l xml:id="swift-508-1301-line-10" n="10">And statesmen wise, and valiant legions.</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-11" n="11"><lb/>A Pheasant Lord<note place="foot">·Lord Carteret, Lord-Lieutenant of Ireland.</note>, above the rest</l>
+            <l xml:id="swift-508-1301-line-12" n="12">With ev'ry grace and talent blest,</l>
+            <l xml:id="swift-508-1301-line-13" n="13">Was sent to sway, with all his skill,</l>
+            <l xml:id="swift-508-1301-line-14" n="14">The sceptre of a neighb'ring Hill<note place="foot">·Ireland.</note>;</l>
+            <l xml:id="swift-508-1301-line-15" n="15">No science was to him unknown,</l>
+            <l xml:id="swift-508-1301-line-16" n="16">For all the Arts were all his own:</l>
+            <l xml:id="swift-508-1301-line-17" n="17">In all the living learned read,</l>
+            <l xml:id="swift-508-1301-line-18" n="18">Tho' more delighted with the dead:</l>
+            <l xml:id="swift-508-1301-line-19" n="19">For birds, if antient Tales say true,</l>
+            <l xml:id="swift-508-1301-line-20" n="20">Had then their Popes and Homers too,</l>
+            <l xml:id="swift-508-1301-line-21" n="21">Cou'd read and write in prose and verse,</l>
+            <l xml:id="swift-508-1301-line-22" n="22">And speak like ***, and build like <note place="foot">·A famous modern architect.</note> Pearce.</l>
+            <l xml:id="swift-508-1301-line-23" n="23">He knew their voices, and their wings,</l>
+            <l xml:id="swift-508-1301-line-24" n="24">Who smoothest soars, who sweetest sings;</l>
+            <l xml:id="swift-508-1301-line-25" n="25">Who toils with ill-fledg'd pens to climb,</l>
+            <l xml:id="swift-508-1301-line-26" n="26">And who attain'd the true sublime:</l>
+            <l xml:id="swift-508-1301-line-27" n="27">Their merits he could well descry,</l>
+            <l xml:id="swift-508-1301-line-28" n="28">He had so exquisite an eye;</l>
+            <l xml:id="swift-508-1301-line-29" n="29">And when that fail'd, to shew them clear,</l>
+            <l xml:id="swift-508-1301-line-30" n="30">He had as exquisite an ear.</l>
+            <l xml:id="swift-508-1301-line-31" n="31">It chanc'd as on a day he stray'd,</l>
+            <l xml:id="swift-508-1301-line-32" n="32">Beneath an Academic shade,</l>
+            <l xml:id="swift-508-1301-line-33" n="33">He lik'd, amidst a thousand throats,</l>
+            <l xml:id="swift-508-1301-line-34" n="34">The wildness of a <note place="foot">·Dr. D────y.</note> Woodlark's notes,</l>
+            <l xml:id="swift-508-1301-line-35" n="35">And search'd, and spy'd and seiz'd his game,</l>
+            <l xml:id="swift-508-1301-line-36" n="36">And took him home, and made him tame;</l>
+            <l xml:id="swift-508-1301-line-37" n="37">Found him on tryal true and able,</l>
+            <l xml:id="swift-508-1301-line-38" n="38">So chear'd and fed him at his table.</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-39" n="39"><lb/>Here some shrewd critic finds I'm caught,</l>
+            <l xml:id="swift-508-1301-line-40" n="40">And cries out, <hi rend="italics">Better fed than taught</hi>────</l>
+            <l xml:id="swift-508-1301-line-41" n="41">Then jests on Game and Tame, and reads</l>
+            <l xml:id="swift-508-1301-line-42" n="42">And jests, and so my Tale proceeds.</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-43" n="43"><lb/>Long had he study'd in the Wood,</l>
+            <l xml:id="swift-508-1301-line-44" n="44">Conversing with the wise and good;</l>
+            <l xml:id="swift-508-1301-line-45" n="45">His soul with harmony inspir'd,</l>
+            <l xml:id="swift-508-1301-line-46" n="46">With love of truth and virtue fir'd:</l>
+            <l xml:id="swift-508-1301-line-47" n="47">His Brethren's good and Maker's praise,</l>
+            <l xml:id="swift-508-1301-line-48" n="48">Were all the study of his lays;</l>
+            <l xml:id="swift-508-1301-line-49" n="49">Were all his study in retreat,</l>
+            <l xml:id="swift-508-1301-line-50" n="50">And now employ'd him with the Great.</l>
+            <l xml:id="swift-508-1301-line-51" n="51">His friendship was the sure resort</l>
+            <l xml:id="swift-508-1301-line-52" n="52">Of all the wretched at the Court;</l>
+            <l xml:id="swift-508-1301-line-53" n="53">But chiefly merit in distress</l>
+            <l xml:id="swift-508-1301-line-54" n="54">His greatest blessing was to bless.──</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-55" n="55"><lb/>This fix'd him in his Patron's breast,</l>
+            <l xml:id="swift-508-1301-line-56" n="56">But fir'd with Envy all the rest:</l>
+            <l xml:id="swift-508-1301-line-57" n="57">I mean that noisy craving crew,</l>
+            <l xml:id="swift-508-1301-line-58" n="58">Who round the Court incessant flew,</l>
+            <l xml:id="swift-508-1301-line-59" n="59">And prey'd like rooks, by pairs and dozens,</l>
+            <l xml:id="swift-508-1301-line-60" n="60">To fill the maws of sons and cousins:</l>
+            <l xml:id="swift-508-1301-line-61" n="61">“Unmov'd their heart, and chill'd their blood,</l>
+            <l xml:id="swift-508-1301-line-62" n="62">“To ev'ry thought of common good,</l>
+            <l xml:id="swift-508-1301-line-63" n="63">“Confining ev'ry hope and care”</l>
+            <l xml:id="swift-508-1301-line-64" n="64">To their own low contracted sphere.</l>
+            <l xml:id="swift-508-1301-line-65" n="65">These ran him down with ceaseless cry,</l>
+            <l xml:id="swift-508-1301-line-66" n="66">But found it hard to tell you why,</l>
+            <l xml:id="swift-508-1301-line-67" n="67">'Till his own worth and wit supply'd,</l>
+            <l xml:id="swift-508-1301-line-68" n="68">Sufficient matter to deride:</l>
+            <l xml:id="swift-508-1301-line-69" n="69">“'Tis Envy's safest, surest rule,</l>
+            <l xml:id="swift-508-1301-line-70" n="70">“To hide her rage in ridicule:</l>
+            <l xml:id="swift-508-1301-line-71" n="71">“The vulgar eye she best beguiles,</l>
+            <l xml:id="swift-508-1301-line-72" n="72">“When all her snakes are deck'd with smiles:”</l>
+            <l xml:id="swift-508-1301-line-73" n="73">Sardonic smiles, by Rancour rais'd!</l>
+            <l xml:id="swift-508-1301-line-74" n="74">“Tormented most when seeming pleas'd!”</l>
+            <l xml:id="swift-508-1301-line-75" n="75">Their spight had more than half expir'd,</l>
+            <l xml:id="swift-508-1301-line-76" n="76">Had he not wrote what all admir'd;</l>
+            <l xml:id="swift-508-1301-line-77" n="77">What morsels had their malice wanted,</l>
+            <l xml:id="swift-508-1301-line-78" n="78">But that he built, and plann'd, and planted!</l>
+            <l xml:id="swift-508-1301-line-79" n="79">How had his sense and learning griev'd 'em,</l>
+            <l xml:id="swift-508-1301-line-80" n="80">But that his charity reliev'd 'em!</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-81" n="81"><lb/>“At highest Worth dull Malice reaches,</l>
+            <l xml:id="swift-508-1301-line-82" n="82">“As slugs pollute the fairest peaches:</l>
+            <l xml:id="swift-508-1301-line-83" n="83">“Envy defames as Harpies vile</l>
+            <l xml:id="swift-508-1301-line-84" n="84">“Devour the food they first defile.”</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-85" n="85"><lb/>Now ask the fruit of all his favour────</l>
+            <l xml:id="swift-508-1301-line-86" n="86">“He was not hitherto a saver”────</l>
+            <l xml:id="swift-508-1301-line-87" n="87">What then could make their rage run mad?</l>
+            <l xml:id="swift-508-1301-line-88" n="88">“Why what he <hi rend="italics">hop'd</hi>, not what he had.</l>
+            <l xml:id="swift-508-1301-line-89" n="89"><lb/>“What tyrant e'er invented ropes,</l>
+            <l xml:id="swift-508-1301-line-90" n="90">“Or racks, or rods, to punish hopes?</l>
+            <l xml:id="swift-508-1301-line-91" n="91">“Th' inheritance of Hope and Fame</l>
+            <l xml:id="swift-508-1301-line-92" n="92">“Is seldom earthly Wisdom's aim;</l>
+            <l xml:id="swift-508-1301-line-93" n="93">“Or, if it were, is not so small,</l>
+            <l xml:id="swift-508-1301-line-94" n="94">“But there is room enough for all.”</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-95" n="95"><lb/>If he but chance to breathe a song</l>
+            <l xml:id="swift-508-1301-line-96" n="96">(He seldom sang, and never long)</l>
+            <l xml:id="swift-508-1301-line-97" n="97">The noisy, rude, malignant croud,</l>
+            <l xml:id="swift-508-1301-line-98" n="98">Where it was high, pronounc'd it loud:</l>
+            <l xml:id="swift-508-1301-line-99" n="99">Plain Truth was Pride, and what was sillier,</l>
+            <l xml:id="swift-508-1301-line-100" n="100">Easy and Friendly was Familiar.</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-101" n="101"><lb/>Or if he tun'd his lofty lays,</l>
+            <l xml:id="swift-508-1301-line-102" n="102">With solemn air to Virtue's praise,</l>
+            <l xml:id="swift-508-1301-line-103" n="103">Alike abusive and erroneous,</l>
+            <l xml:id="swift-508-1301-line-104" n="104">They call it Hoarse and Unharmonious:</l>
+            <l xml:id="swift-508-1301-line-105" n="105">Yet so it was to souls like theirs,</l>
+            <l xml:id="swift-508-1301-line-106" n="106">Tuneless as able to the Bears!</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-107" n="107"><lb/>A <note place="foot">·Doctor T────r.</note> Rook with harsh malignant caw</l>
+            <l xml:id="swift-508-1301-line-108" n="108">Began, was follow'd by a <note place="foot">·Right Honourable R──── T────gh, Esq;.</note> Daw;</l>
+            <l xml:id="swift-508-1301-line-109" n="109">(Tho' some, who would be thought to know,</l>
+            <l xml:id="swift-508-1301-line-110" n="110">Are positive it was a Crow)</l>
+            <l xml:id="swift-508-1301-line-111" n="111">Jack Daw was seconded by Tit,</l>
+            <l xml:id="swift-508-1301-line-112" n="112">Tom Tit <note place="foot">·Doctor Sh──d──n.</note> could write, and so he writ;</l>
+            <l xml:id="swift-508-1301-line-113" n="113">A tribe of tuneless Praters follow,</l>
+            <l xml:id="swift-508-1301-line-114" n="114">The Jay, the Magpie, and the Swallow,</l>
+            <l xml:id="swift-508-1301-line-115" n="115">And twenty more their throats let loose,</l>
+            <l xml:id="swift-508-1301-line-116" n="116">Down to the witless wadling Goose.</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-117" n="117"><lb/>Some pick'd at him, some flew, some flutter'd,</l>
+            <l xml:id="swift-508-1301-line-118" n="118">Some hiss'd, some scream'd, and others mutter'd;</l>
+            <l xml:id="swift-508-1301-line-119" n="119">The Crow, on carrion wont to feast,</l>
+            <l xml:id="swift-508-1301-line-120" n="120">The Carrion Crow condemn'd his taste:</l>
+            <l xml:id="swift-508-1301-line-121" n="121">The Rook in earnest too, not joking,</l>
+            <l xml:id="swift-508-1301-line-122" n="122">Swore all his singing was but croaking.</l>
+            <l xml:id="swift-508-1301-line-123" n="123">om.</l>
+            <l xml:id="swift-508-1301-line-124" n="124">om.</l>
+            <l xml:id="swift-508-1301-line-125" n="125">om.</l>
+            <l xml:id="swift-508-1301-line-126" n="126">om.</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-127" n="127"><lb/>Some thought they meant to shew their wit,</l>
+            <l xml:id="swift-508-1301-line-128" n="128">Might think so still,──── “but that they writ”────</l>
+            <l xml:id="swift-508-1301-line-129" n="129">Could it be spight or envy;──── “No────</l>
+            <l xml:id="swift-508-1301-line-130" n="130">“Who did no ill, could have no foe.”────</l>
+            <l xml:id="swift-508-1301-line-131" n="131">So wise Simplicity esteem'd,</l>
+            <l xml:id="swift-508-1301-line-132" n="132">Quite otherwise True Wisdom deem'd;</l>
+            <l xml:id="swift-508-1301-line-133" n="133">This question rightly understood,</l>
+            <l xml:id="swift-508-1301-line-134" n="134">“What more provokes than doing good?</l>
+            <l xml:id="swift-508-1301-line-135" n="135">“A soul ennobled and refin'd,</l>
+            <l xml:id="swift-508-1301-line-136" n="136">“Reproaches ev'ry baser mind:</l>
+            <l xml:id="swift-508-1301-line-137" n="137">“As strains exalted and melodious</l>
+            <l xml:id="swift-508-1301-line-138" n="138">“Make every meaner music odious.”────</l>
+            <l rend="indent(1)" xml:id="swift-508-1301-line-139" n="139"><lb/>At length the <note place="foot">·Dean Swift.</note> Nightingale was heard,</l>
+            <l xml:id="swift-508-1301-line-140" n="140">For Voice and Wisdom long rever'd,</l>
+            <l xml:id="swift-508-1301-line-141" n="141">Esteem'd of all the wise and good,</l>
+            <l xml:id="swift-508-1301-line-142" n="142">The Guardian Genius of the wood:</l>
+            <l xml:id="swift-508-1301-line-143" n="143">He long in discontent retir'd,</l>
+            <l xml:id="swift-508-1301-line-144" n="144">Yet not obscur'd, but more admir'd,</l>
+            <l xml:id="swift-508-1301-line-145" n="145">His Brethren's servile souls disdaining,</l>
+            <l xml:id="swift-508-1301-line-146" n="146">He liv'd indignant and complaining:</l>
+            <l xml:id="swift-508-1301-line-147" n="147">They now afresh provoke his choler,</l>
+            <l xml:id="swift-508-1301-line-148" n="148">It seems the Lark had been his scholar,</l>
+            <l xml:id="swift-508-1301-line-149" n="149">A fav'rite scholar always near him,</l>
+            <l xml:id="swift-508-1301-line-150" n="150">And oft had wak'd whole nights to hear him:</l>
+            <l xml:id="swift-508-1301-line-151" n="151">Enrag'd he canvasses the matter,</l>
+            <l xml:id="swift-508-1301-line-152" n="152">Exposes all their senseless chatter,</l>
+            <l xml:id="swift-508-1301-line-153" n="153">Shews him and them in such a light,</l>
+            <l xml:id="swift-508-1301-line-154" n="154">As more enflames, yet quells their spight,</l>
+            <l xml:id="swift-508-1301-line-155" n="155">They hear his voice, and frighted fly,</l>
+            <l xml:id="swift-508-1301-line-156" n="156">For rage had rais'd it very high:</l>
+            <l xml:id="swift-508-1301-line-157" n="157">Sham'd by the wisdom of his Notes</l>
+            <l xml:id="swift-508-1301-line-158" n="158">They hide their heads, and hush their throats.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

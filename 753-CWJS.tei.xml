@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A NEW-YEAR'S-GIFT for BEC.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 16JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>EMENDED JW 2AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="753-CWJS">
+          <head type="note" n="1" xml:id="spp-753-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-753-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-753-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-753-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-753-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-753-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-753-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-753-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-753-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-753-CWJS-line-1" n="1">
+              <hi rend="display-initial">R<hi rend="small-caps">E</hi><hi rend="small-caps">TURNING</hi> Janus now prepares,</hi>
+            </l>
+            <l xml:id="swift-753-CWJS-line-2" n="2">For Bec, a new supply of cares,</l>
+            <l xml:id="swift-753-CWJS-line-3" n="3">Sent in a bag to Doctor Swift,</l>
+            <l xml:id="swift-753-CWJS-line-4" n="4">Who thus displays the New-year's-gift.</l>
+            <l rend="indent(1)" xml:id="swift-753-CWJS-line-5" n="5"><lb/>First, this large parcel brings you tidings</l>
+            <l xml:id="swift-753-CWJS-line-6" n="6">Of our good Dean's eternal chidings;</l>
+            <l xml:id="swift-753-CWJS-line-7" n="7">Of Nelly's pertness, Robin's leasings,</l>
+            <l xml:id="swift-753-CWJS-line-8" n="8">And Sheridan's perpetual teazings.</l>
+            <l xml:id="swift-753-CWJS-line-9" n="9">This box is cramm'd on ev'ry side</l>
+            <l xml:id="swift-753-CWJS-line-10" n="10">With Stella's magisterial pride.</l>
+            <l xml:id="swift-753-CWJS-line-11" n="11">Behold a cage with sparrows fill'd,</l>
+            <l xml:id="swift-753-CWJS-line-12" n="12">First to be fondled, then be kill'd.</l>
+            <l xml:id="swift-753-CWJS-line-13" n="13">Now to this hamper I invite you,</l>
+            <l xml:id="swift-753-CWJS-line-14" n="14">With six imagin'd cares to fright you.</l>
+            <l xml:id="swift-753-CWJS-line-15" n="15">Here in this bundle Janus sends</l>
+            <l xml:id="swift-753-CWJS-line-16" n="16">Concerns by thousands for your friends:</l>
+            <l xml:id="swift-753-CWJS-line-17" n="17">And here's a pair of leathern pokes,</l>
+            <l xml:id="swift-753-CWJS-line-18" n="18">To hold your cares for other folks.</l>
+            <l xml:id="swift-753-CWJS-line-19" n="19">Here from this barrel you may broach</l>
+            <l xml:id="swift-753-CWJS-line-20" n="20">A peck of troubles for a coach.</l>
+            <l xml:id="swift-753-CWJS-line-21" n="21">This ball of wax your ears will darken,</l>
+            <l xml:id="swift-753-CWJS-line-22" n="22">Still to be curious, never hearken.</l>
+            <l xml:id="swift-753-CWJS-line-23" n="23">Lest you the town may have less trouble in,</l>
+            <l xml:id="swift-753-CWJS-line-24" n="24">Bring all your Quilca cares to Dublin,</l>
+            <l xml:id="swift-753-CWJS-line-25" n="25">For which he sends this empty sack;</l>
+            <l xml:id="swift-753-CWJS-line-26" n="26">And so take all upon your back.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

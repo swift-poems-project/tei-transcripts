@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  FIRST <hi rend="italics">ODE</hi><lb/>  OF THE<lb/>  SECOND BOOK<lb/>  OF<lb/>  HORACE<lb/>  PARAPRHAS'D:<lb/>  AND<lb/>  Address'd to <hi rend="italics">Richard St--le</hi>, Esq;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CLee 22NO95; Latin SB 23JL96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="180-S854">
+          <head type="note" n="1" xml:id="spp-180-S854-headnote-1">
+            <lg n="1" xml:id="spp-180-S854-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-180-S854-headnote-1-line-group-1-line-1">En <hi rend="italics">qui promittit cives, urbem sibi curæ,<lb/>Imperium fore, &amp; Italiam, &amp; delubra deorum</hi>.<note rend="flush right">Hor.</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-180-S854-headnote-2">
+            <lg n="1" xml:id="spp-180-S854-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-180-S854-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-180-S854-headnote-3">
+            <lg n="1" xml:id="spp-180-S854-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-180-S854-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-180-S854-line-1" n="1">
+              <hi rend="display-initial">D<hi rend="italics">ICK</hi>, thour't resolv'd, as I am told,</hi>
+            </l>
+            <l xml:id="swift-180-S854-line-2" n="2">Some strange <hi rend="italics">Arcana</hi> to unfold,</l>
+            <l xml:id="swift-180-S854-line-3" n="3">And with the help of <hi rend="italics">Buckley</hi>'s Pen</l>
+            <l xml:id="swift-180-S854-line-4" n="4">To vamp the <hi rend="italics">good Old Cause</hi> again,</l>
+            <l xml:id="swift-180-S854-line-5" n="5">Which thou (such <hi rend="italics">Bur──t</hi>'s shrewd Advice is)</l>
+            <l xml:id="swift-180-S854-line-6" n="6">Must furbish up and Nickname <hi rend="italics">CRISIS</hi>.</l>
+            <l xml:id="swift-180-S854-line-7" n="7">Thou pompously wilt let us know</l>
+            <l xml:id="swift-180-S854-line-8" n="8">What all the World knew long ago,</l>
+            <l xml:id="swift-180-S854-line-9" n="9">(Ere since Sir <hi rend="italics">William G──e</hi> was May'r,</l>
+            <l xml:id="swift-180-S854-line-10" n="10">And <hi rend="italics">HAR──Y</hi> fill'd the <hi rend="italics">Commons</hi> Chair)</l>
+            <l xml:id="swift-180-S854-line-11" n="11">That we a <hi rend="italics">German</hi> Prince must own</l>
+            <l xml:id="swift-180-S854-line-12" n="12">When <hi rend="italics">A──N</hi> for Heav'n resigns Her Throne.</l>
+            <l xml:id="swift-180-S854-line-13" n="13">But more than that, thou'lt keep a rout</l>
+            <l xml:id="swift-180-S854-line-14" n="14">With── who is <hi rend="italics">in</hi>── and who is <hi rend="italics">out</hi>,</l>
+            <l xml:id="swift-180-S854-line-15" n="15">Thou'lt rail devoutly at the <hi rend="italics">Peace</hi>,</l>
+            <l xml:id="swift-180-S854-line-16" n="16">And all its secret <hi rend="italics">Causes</hi> trace,</l>
+            <l xml:id="swift-180-S854-line-17" n="17">The <hi rend="italics">Bucket-play</hi> 'twixt Whigs and Tories,</l>
+            <l xml:id="swift-180-S854-line-18" n="18">Their ups and downs, with fifty Stories</l>
+            <l xml:id="swift-180-S854-line-19" n="19">Of <hi rend="italics">Tricks</hi>, the Lord of <hi rend="italics">Ox──d</hi> knows,</l>
+            <l xml:id="swift-180-S854-line-20" n="20">And <hi rend="italics">Errors</hi> of our <hi rend="italics">Plenipoes</hi>.</l>
+            <l xml:id="swift-180-S854-line-21" n="21">Thou'lt tell of <hi rend="italics">Leagues</hi> among the Great</l>
+            <l xml:id="swift-180-S854-line-22" n="22">Portending ruin to our State,</l>
+            <l xml:id="swift-180-S854-line-23" n="23">And of that dreadful <note place="foot">·<hi rend="italics">Vide</hi> E<hi rend="italics">nglishman</hi>, No. 36.</note> <hi rend="italics">coup d'eclat</hi>,</l>
+            <l xml:id="swift-180-S854-line-24" n="24">Which has afforded thee much Chat;</l>
+            <l xml:id="swift-180-S854-line-25" n="25">The Q──n (<hi rend="italics">forsooth, Despotick</hi>) gave</l>
+            <l xml:id="swift-180-S854-line-26" n="26">Twelve <hi rend="italics">Coronets</hi>, without <hi rend="italics">thy</hi> leave!</l>
+            <l xml:id="swift-180-S854-line-27" n="27">A Breach of Liberty, 'tis own'd,</l>
+            <l xml:id="swift-180-S854-line-28" n="28">For which no Heads have <hi rend="italics">yet</hi> atton'd!</l>
+            <l xml:id="swift-180-S854-line-29" n="29">Believe me, what thou'st undertaken</l>
+            <l xml:id="swift-180-S854-line-30" n="30">May bring in Jeopardy thy Bacon,</l>
+            <l xml:id="swift-180-S854-line-31" n="31">For Madmen, Children, Wits and Fools</l>
+            <l xml:id="swift-180-S854-line-32" n="32">Shou'd never meddle with Edg'd Tools.</l>
+            <l xml:id="swift-180-S854-line-33" n="33">But since thou'rt got into the Fire,</l>
+            <l xml:id="swift-180-S854-line-34" n="34">And canst not easily retire,</l>
+            <l xml:id="swift-180-S854-line-35" n="35">Thou must no longer deal in <hi rend="italics">Farce</hi>,</l>
+            <l xml:id="swift-180-S854-line-36" n="36">Nor pump to cobble wicked Verse;</l>
+            <l xml:id="swift-180-S854-line-37" n="37">Untill thou shalt have eas'd thy Conscience,</l>
+            <l xml:id="swift-180-S854-line-38" n="38">Of Spleen, of Politicks and Nonsense,</l>
+            <l xml:id="swift-180-S854-line-39" n="39">And when thou'st bid adieu to Cares,</l>
+            <l xml:id="swift-180-S854-line-40" n="40">And settled <hi rend="italics">Europe'</hi>s<hi rend="italics"> Grand</hi> Affairs,</l>
+            <l xml:id="swift-180-S854-line-41" n="41">'Twill then, perhaps, be worth thy while</l>
+            <l xml:id="swift-180-S854-line-42" n="42"><note place="foot">·<hi rend="italics">This is said to be the Plot of a Comedy with which Mr. </hi>St--le<hi rend="italics"> has long threatned the Town</hi>.</note> For <hi rend="italics">Drury-lane</hi> to shape thy Stile:</l>
+            <l xml:id="swift-180-S854-line-43" n="43">“To make a pair of Jolly Fellows,</l>
+            <l xml:id="swift-180-S854-line-44" n="44">“The Son and Father, join to tell us,</l>
+            <l xml:id="swift-180-S854-line-45" n="45">“How Sons may safely disobey,</l>
+            <l xml:id="swift-180-S854-line-46" n="46">“And Fathers never shou'd say nay,</l>
+            <l xml:id="swift-180-S854-line-47" n="47">“By which wise Conduct they grow Friends</l>
+            <l xml:id="swift-180-S854-line-48" n="48">“At last── and so the Story ends.</l>
+            <l rend="indent(1)" xml:id="swift-180-S854-line-49" n="49"><lb/><note place="foot">·<hi rend="italics">Vide</hi> Tatlers.</note>When first I knew thee, <hi rend="italics">Dick</hi>, thou wert</l>
+            <l xml:id="swift-180-S854-line-50" n="50">Renown'd for Skill in <hi rend="italics">Faustus</hi> Art,</l>
+            <l xml:id="swift-180-S854-line-51" n="51">Which made thy Closet much frequented</l>
+            <l xml:id="swift-180-S854-line-52" n="52">By buxom Lasses── Some repented</l>
+            <l xml:id="swift-180-S854-line-53" n="53">Their luckless Choice of Husbands── others,</l>
+            <l xml:id="swift-180-S854-line-54" n="54">Impatient to be like their Mothers,</l>
+            <l xml:id="swift-180-S854-line-55" n="55">Receiv'd from thee profound Directions</l>
+            <l xml:id="swift-180-S854-line-56" n="56">How best to settle their Affections;</l>
+            <l xml:id="swift-180-S854-line-57" n="57">Thus thou, a Friend to the Distress'd,</l>
+            <l xml:id="swift-180-S854-line-58" n="58">Didst in thy calling do thy best.</l>
+            <l rend="indent(1)" xml:id="swift-180-S854-line-59" n="59"><lb/>But now the <hi rend="italics">Senate</hi> (if things <hi rend="italics">hit</hi></l>
+            <l xml:id="swift-180-S854-line-60" n="60">And thou at <hi rend="italics">Stockbridge</hi> wert not <hi rend="italics">bit</hi>)</l>
+            <l xml:id="swift-180-S854-line-61" n="61">Must feel thy Eloquence and Fire,</l>
+            <l xml:id="swift-180-S854-line-62" n="62">Approve thy Schemes, thy Wit admire,</l>
+            <l xml:id="swift-180-S854-line-63" n="63">Thee with <hi rend="italics">Immortal Honours</hi> crown,</l>
+            <l xml:id="swift-180-S854-line-64" n="64">Whilst <hi rend="italics">Patr'ot-like</hi> thou'lt strut and frown.</l>
+            <l rend="indent(1)" xml:id="swift-180-S854-line-65" n="65"><lb/>What, tho' by Enemies 'tis said,</l>
+            <l xml:id="swift-180-S854-line-66" n="66">The <hi rend="italics">Lawrel</hi>, which adorns thy Head;</l>
+            <l xml:id="swift-180-S854-line-67" n="67">Must one Day come in competition</l>
+            <l xml:id="swift-180-S854-line-68" n="68">By vertue of some sly <hi rend="italics">Petition</hi>:</l>
+            <l xml:id="swift-180-S854-line-69" n="69">Yet <hi rend="italics">Mum</hi> for that, hope still the best,</l>
+            <l xml:id="swift-180-S854-line-70" n="70">Nor let such Cares disturb thy Rest.</l>
+            <l rend="indent(1)" xml:id="swift-180-S854-line-71" n="71"><lb/>Methinks I hear thee loud, as Trumpet,</l>
+            <l xml:id="swift-180-S854-line-72" n="72">As Bagpipe shrill, or Oyster-Strumpet,</l>
+            <l xml:id="swift-180-S854-line-73" n="73">Methinks I see thee, spruce and fine,</l>
+            <l xml:id="swift-180-S854-line-74" n="74">With Coat embroider'd richly shine,</l>
+            <l xml:id="swift-180-S854-line-75" n="75">And dazzle all the <hi rend="italics">Idol-Faces</hi></l>
+            <l xml:id="swift-180-S854-line-76" n="76">As thro' the <hi rend="italics">HALL</hi> thy Worship paces:</l>
+            <l xml:id="swift-180-S854-line-77" n="77">(Tho' this I speak but at a venture,</l>
+            <l xml:id="swift-180-S854-line-78" n="78">Supposing thou hast <hi rend="italics">Tick</hi> with <hi rend="italics">Hunter</hi>)</l>
+            <l xml:id="swift-180-S854-line-79" n="79">Methinks I see a <hi rend="italics">black-guard Rout</hi></l>
+            <l xml:id="swift-180-S854-line-80" n="80">Attend thy Coach, and hear them shout</l>
+            <l xml:id="swift-180-S854-line-81" n="81">In Approbation of thy Tongue,</l>
+            <l xml:id="swift-180-S854-line-82" n="82">Which (in their Stile) is <hi rend="italics">purely hung</hi>.</l>
+            <l xml:id="swift-180-S854-line-83" n="83">Now, now you carry all before ye,</l>
+            <l xml:id="swift-180-S854-line-84" n="84">Nor dares one <hi rend="italics">Jacobite</hi> or <hi rend="italics">Tory</hi></l>
+            <l xml:id="swift-180-S854-line-85" n="85">Pretend to answer one Syl--lable,</l>
+            <l xml:id="swift-180-S854-line-86" n="86">Except the Matchless Hero <hi rend="italics">Abel</hi>.</l>
+            <l xml:id="swift-180-S854-line-87" n="87">What tho' her <hi rend="italics">Highness</hi> and her <hi rend="italics">Spouse</hi></l>
+            <l xml:id="swift-180-S854-line-88" n="88">In <hi rend="italics">Ant──rp</hi> keep a frugal House,</l>
+            <l xml:id="swift-180-S854-line-89" n="89">Yet not forgetful of a Friend</l>
+            <l xml:id="swift-180-S854-line-90" n="90">They'll soon enable thee to spend,</l>
+            <l xml:id="swift-180-S854-line-91" n="91">If to <hi rend="italics">Macc--rt--y</hi> thou wilt toast,</l>
+            <l xml:id="swift-180-S854-line-92" n="92">And to his <hi rend="italics">Pious Patron</hi>'s <hi rend="italics">Ghost</hi>.</l>
+            <l xml:id="swift-180-S854-line-93" n="93">Now manfully thou'lt run a Tilt</l>
+            <l xml:id="swift-180-S854-line-94" n="94">“On <hi rend="italics">Popes</hi>, for all the Blood they've spilt,</l>
+            <l xml:id="swift-180-S854-line-95" n="95">“For Massacres, and Racks, and Flames,</l>
+            <l xml:id="swift-180-S854-line-96" n="96">“For Lands enrich'd by crimson Streams,</l>
+            <l xml:id="swift-180-S854-line-97" n="97">“For Inquisitions taught by <hi rend="italics">Spain</hi>,</l>
+            <l xml:id="swift-180-S854-line-98" n="98">“Of which the Christian World complain.</l>
+            <l rend="indent(1)" xml:id="swift-180-S854-line-99" n="99"><lb/><hi rend="italics">Dick</hi>, we agree── all's true, thou'st said,</l>
+            <l xml:id="swift-180-S854-line-100" n="100">As that my Muse is yet a Maid,</l>
+            <l xml:id="swift-180-S854-line-101" n="101">But, if I may with freedom talk,</l>
+            <l xml:id="swift-180-S854-line-102" n="102">All this is foreign to thy Walk:</l>
+            <l xml:id="swift-180-S854-line-103" n="103">Thy <hi rend="italics">Genius</hi> has perhaps a knack</l>
+            <l xml:id="swift-180-S854-line-104" n="104">At trudging in a beaten Track,</l>
+            <l xml:id="swift-180-S854-line-105" n="105">But is for <hi rend="italics">State-Affairs</hi> as fit,</l>
+            <l xml:id="swift-180-S854-line-106" n="106">As mine for Politicks and Wit.</l>
+            <l xml:id="swift-180-S854-line-107" n="107">Then let us both in time grow wise,</l>
+            <l xml:id="swift-180-S854-line-108" n="108">Nor higher, than our Talents, rise,</l>
+            <l xml:id="swift-180-S854-line-109" n="109">To some snug Cellar let's repair</l>
+            <l xml:id="swift-180-S854-line-110" n="110">From Dunns and Debts, and drown our Care;</l>
+            <l xml:id="swift-180-S854-line-111" n="111">Now quaff of honest Ale a Quart,</l>
+            <l xml:id="swift-180-S854-line-112" n="112">Now venture at a Pint of Port,</l>
+            <l xml:id="swift-180-S854-line-113" n="113">With which inspir·d we'll club each Night</l>
+            <l xml:id="swift-180-S854-line-114" n="114">Some tender Sonnet to indite,</l>
+            <l xml:id="swift-180-S854-line-115" n="115">And with <hi rend="italics">Tom D'urf--y, Phill-ps, D--nnis</hi>,</l>
+            <l xml:id="swift-180-S854-line-116" n="116">Immortalize our <hi rend="italics">Dolls</hi> and <hi rend="italics">Jenneys</hi>.</l>
+            <l xml:id="swift-180-S854-line-117" n="117">\NOTES\</l>
+            <l xml:id="swift-180-S854-line-118" n="118">\1\ (1) Motum ex Metello consule Civicum,</l>
+            <l xml:id="swift-180-S854-line-119" n="119">\15\ (9) Bellique causas &amp; vitia &amp; modos</l>
+            <l xml:id="swift-180-S854-line-120" n="120">\17\ (11) Ludumque fortunæ,────</l>
+            <l rend="indent(1)" xml:id="swift-180-S854-line-121" n="121">\21\ ─────── (15) gravesque</l>
+            <l xml:id="swift-180-S854-line-122" n="122">Principum amicitias,</l>
+            <l rend="indent(2)" xml:id="swift-180-S854-line-123" n="123">\25\ |───────(3) Et arma</l>
+            <l xml:id="swift-180-S854-line-124" n="124">Nondum expiatis uncta cruoribus.</l>
+            <l xml:id="swift-180-S854-line-125" n="125">\29\ (7) Periculosæ plenum opus aleæ</l>
+            <l xml:id="swift-180-S854-line-126" n="126">Tractas &amp; incedis per ignes</l>
+            <l xml:id="swift-180-S854-line-127" n="127">Suppositos cineri doloso.</l>
+            <l xml:id="swift-180-S854-line-128" n="128">\35\ (13) Paulum severa musa tragædiæ</l>
+            <l xml:id="swift-180-S854-line-129" n="129">Desit Theatris,──────</l>
+            <l xml:id="swift-180-S854-line-130" n="130">\39\ ──────(3) Mox ubi publicas</l>
+            <l xml:id="swift-180-S854-line-131" n="131">Res ordinaris, grande munus</l>
+            <l xml:id="swift-180-S854-line-132" n="132">Cecropio repetes Cothurno,</l>
+            <l xml:id="swift-180-S854-line-133" n="133">\57\ (5) Insigne mœstis præsidium reis,</l>
+            <l xml:id="swift-180-S854-line-134" n="134">\60\ (8) Et consulenti, Pollio, Curiæ,</l>
+            <l xml:id="swift-180-S854-line-135" n="135">\63\ (11) Cui laurus æternos honores</l>
+            <l xml:id="swift-180-S854-line-136" n="136">Dalmatico peperit triumpho.</l>
+            <l xml:id="swift-180-S854-line-137" n="137">\71\ (5) Jam nunc minaci murmure cornuum</l>
+            <l xml:id="swift-180-S854-line-138" n="138">Perstringis aures, jam litui strepunt,</l>
+            <l xml:id="swift-180-S854-line-139" n="139">\73\ (7) Jam fulgor armorum────</l>
+            <l xml:id="swift-180-S854-line-140" n="140">Terret────equitumque vultus.</l>
+            <l xml:id="swift-180-S854-line-141" n="141">\79\ (13) Audire magnos jam videor duces</l>
+            <l xml:id="swift-180-S854-line-142" n="142">Non indecoro pulvere Sordidos,</l>
+            <l xml:id="swift-180-S854-line-143" n="143">\84\ (4) Et cuncta terrarum subacta</l>
+            <l xml:id="swift-180-S854-line-144" n="144">Præter atrocem animum Catonis.</l>
+            <l xml:id="swift-180-S854-line-145" n="145">\87\ (7) Juno &amp; deorum quisquis amicior</l>
+            <l xml:id="swift-180-S854-line-146" n="146">Atris──────</l>
+            <l xml:id="swift-180-S854-line-147" n="147">\92\ (12)─────Victorum nepotes</l>
+            <l xml:id="swift-180-S854-line-148" n="148">Rettulit inferias Iugurthæ.</l>
+            <l xml:id="swift-180-S854-line-149" n="149">\93\ (13) Qui non Latino sanguine pinguior</l>
+            <l xml:id="swift-180-S854-line-150" n="150">Campus? &amp;c.</l>
+            <l xml:id="swift-180-S854-line-151" n="151">──────Quæ flumina lugubris</l>
+            <l xml:id="swift-180-S854-line-152" n="152">Ignara belli;</l>
+            <l xml:id="swift-180-S854-line-153" n="153">Quæ caret ora cruore nostro?</l>
+            <l xml:id="swift-180-S854-line-154" n="154">\101\ (7) Sed ne relictis Musa procax Jocis, &amp;c.</l>
+            <l xml:id="swift-180-S854-line-155" n="155">\109\ (15) Mecum Dionæo sub antro,</l>
+            <l xml:id="swift-180-S854-line-156" n="156">\113\ (3) Quære modos leviore plectro.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On B<hi rend="small-caps">URNING</hi> a dull P<hi rend="small-caps">OEM</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 13JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="469-06E2">
+          <head type="note" n="1" xml:id="spp-469-06E2-headnote-1">
+            <lg n="1" xml:id="spp-469-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-469-06E2-headnote-1-line-group-1-line-1">Written in the year 1729.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-469-06E2-headnote-2">
+            <lg n="1" xml:id="spp-469-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-469-06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-469-06E2-headnote-3">
+            <lg n="1" xml:id="spp-469-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-469-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-469-06E2-line-1" n="1"><hi rend="display-initial">A</hi>N ass's hoof alone can hold</l>
+            <l xml:id="swift-469-06E2-line-2" n="2">That pois'nous juice which kills by cold.</l>
+            <l xml:id="swift-469-06E2-line-3" n="3">Methought, when I this poem read,</l>
+            <l xml:id="swift-469-06E2-line-4" n="4">No vessel but an ass's head</l>
+            <l xml:id="swift-469-06E2-line-5" n="5">Such frigid fustian could contain;</l>
+            <l xml:id="swift-469-06E2-line-6" n="6">I mean the head without the brain.</l>
+            <l xml:id="swift-469-06E2-line-7" n="7">The cold conceits, the chilling thoughts</l>
+            <l xml:id="swift-469-06E2-line-8" n="8">Went down like stupifying draughts:</l>
+            <l xml:id="swift-469-06E2-line-9" n="9">I found my head began to swim,</l>
+            <l xml:id="swift-469-06E2-line-10" n="10">A numbness crept through ev'ry limb.</l>
+            <l xml:id="swift-469-06E2-line-11" n="11">In haste, with imprecations dire,</l>
+            <l xml:id="swift-469-06E2-line-12" n="12">I threw the volume in the fire:</l>
+            <l xml:id="swift-469-06E2-line-13" n="13">When, who could think? though cold as ice,</l>
+            <l xml:id="swift-469-06E2-line-14" n="14">It burnt to ashes in a trice.</l>
+            <l rend="indent(1)" xml:id="swift-469-06E2-line-15" n="15"><lb/>How could I more inhance its fame?</l>
+            <l xml:id="swift-469-06E2-line-16" n="16">Though born in snow, it dy'd in flame.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

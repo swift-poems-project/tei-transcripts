@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A</hi> CRAMBO <hi rend="italics">on</hi> B<hi rend="small-caps">ALLYSPELLIN</hi>,<lb/>  <hi rend="italics">a Place in</hi> I<hi rend="small-caps">RELAND</hi>, <hi rend="italics">fam'd for its</hi><lb/>  M<hi rend="small-caps">INERAL </hi>W<hi rend="small-caps">ATERS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 3NO03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> tochk item √'d JW 28DE05 in situ and in O copy JW 9JA07; ed. JW 8OC17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="438-31L3">
+          <head type="note" n="1" xml:id="spp-438-31L3-headnote-1">
+            <lg n="1" xml:id="spp-438-31L3-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-438-31L3-headnote-1-line-group-1-line-1"><hi rend="italics">To the tune of</hi> S<hi rend="small-caps">ALLY</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-438-31L3-headnote-2">
+            <lg n="1" xml:id="spp-438-31L3-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-438-31L3-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-438-31L3-headnote-3">
+            <lg n="1" xml:id="spp-438-31L3-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-438-31L3-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-438-31L3-line-1" n="1"><hi rend="display-initial">A</hi>LL you that wou'd</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-2" n="2">Refine your blood,</l>
+            <l xml:id="swift-438-31L3-line-3" n="3">As pure as fam'd L<hi rend="small-caps">UELLIN</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-4" n="4">By waters clear,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-5" n="5">Come once a year</l>
+            <l xml:id="swift-438-31L3-line-6" n="6">To drink at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-7" n="7"><lb/>If pox or itch</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-8" n="8">Your skins inrich</l>
+            <l xml:id="swift-438-31L3-line-9" n="9">With rubies past the telling,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-10" n="10">'Twill cure your skin</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-11" n="11">Before you've been</l>
+            <l xml:id="swift-438-31L3-line-12" n="12">A month at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-13" n="13"><lb/>If lady's cheek</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-14" n="14">Be green as leek</l>
+            <l xml:id="swift-438-31L3-line-15" n="15">When she comes from her dwelling,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-16" n="16">The kindling rose</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-17" n="17">Within it blows</l>
+            <l xml:id="swift-438-31L3-line-18" n="18">When she's at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-19" n="19"><lb/>T<hi rend="small-caps">HE</hi> sooty brown</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-20" n="20">That comes from town,</l>
+            <l xml:id="swift-438-31L3-line-21" n="21">Grows here as fair as H<hi rend="small-caps">ELLEN</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-22" n="22">Then back she goes</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-23" n="23">To kill the beaux,</l>
+            <l xml:id="swift-438-31L3-line-24" n="24">By dint of B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-25" n="25"><lb/>A<hi rend="small-caps">LL</hi> ladies here</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-26" n="26">Are fresh and fair</l>
+            <l xml:id="swift-438-31L3-line-27" n="27">As R<hi rend="small-caps">OSS</hi>, or bright D<hi rend="small-caps">UNKELLIN</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-28" n="28">And M<hi rend="small-caps">ARS</hi> might make</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-29" n="29">A fair mistake</l>
+            <l xml:id="swift-438-31L3-line-30" n="30">Were he at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-31" n="31"><lb/>W<hi rend="small-caps">E</hi> men submit,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-32" n="32">As they think fit.</l>
+            <l xml:id="swift-438-31L3-line-33" n="33">And here is no rebelling;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-34" n="34">The reason's plain,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-35" n="35">The ladies reign,</l>
+            <l xml:id="swift-438-31L3-line-36" n="36">They're queens at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-37" n="37"><lb/>B<hi rend="small-caps">Y</hi> matchless charms,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-38" n="38">Unconquer'd arms,</l>
+            <l xml:id="swift-438-31L3-line-39" n="39">They have the power of quelling</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-40" n="40">Such desperate foes</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-41" n="41">As dare oppose</l>
+            <l xml:id="swift-438-31L3-line-42" n="42">Their power at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-43" n="43"><lb/>C<hi rend="small-caps">OLD</hi> water turns</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-44" n="44">To fire, and burns,</l>
+            <l xml:id="swift-438-31L3-line-45" n="45">I know, because I fell in</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-46" n="46">A stream which came</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-47" n="47">From one bright dame,</l>
+            <l xml:id="swift-438-31L3-line-48" n="48">Who drank at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-49" n="49"><lb/>F<hi rend="small-caps">INE</hi> beaux advance,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-50" n="50">Equipt for dance,</l>
+            <l xml:id="swift-438-31L3-line-51" n="51">And bring their A<hi rend="small-caps">NN</hi> or N<hi rend="small-caps">ELL</hi> in,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-52" n="52">With so much grace,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-53" n="53">I'm sure no place</l>
+            <l xml:id="swift-438-31L3-line-54" n="54">Can vie with B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-55" n="55"><lb/>N<hi rend="small-caps">O</hi> politicks,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-56" n="56">No subtle tricks,</l>
+            <l xml:id="swift-438-31L3-line-57" n="57">No man his country selling;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-58" n="58">We eat, we drink,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-59" n="59">We never think</l>
+            <l xml:id="swift-438-31L3-line-60" n="60">Of these at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-61" n="61"><lb/>T<hi rend="small-caps">HE</hi> troubl'd in mind,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-62" n="62">The puff'd with wind,</l>
+            <l xml:id="swift-438-31L3-line-63" n="63">Do all come here pell-mell in;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-64" n="64">And they are sure</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-65" n="65">To work their cure</l>
+            <l xml:id="swift-438-31L3-line-66" n="66">By drinking B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-67" n="67"><lb/>I<hi rend="small-caps">F</hi> dropsy fills</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-68" n="68">You to the gills,</l>
+            <l xml:id="swift-438-31L3-line-69" n="69">From top to toe tho' swelling,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-70" n="70">Pour in, pour out,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-71" n="71">You'll find, no doubt,</l>
+            <l xml:id="swift-438-31L3-line-72" n="72">A cure at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-73" n="73"><lb/>T<hi rend="small-caps">HRO'</hi> all these parts</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-74" n="74">Death throws no darts,</l>
+            <l xml:id="swift-438-31L3-line-75" n="75">No sexton's here a knelling;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-76" n="76">Come, judge and try,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-77" n="77">You'll never die,</l>
+            <l xml:id="swift-438-31L3-line-78" n="78">But live at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-79" n="79"><lb/>E<hi rend="small-caps">XCEPT</hi> you feel</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-80" n="80">Darts tipt with steel,</l>
+            <l xml:id="swift-438-31L3-line-81" n="81">Which here are every <hi rend="italics">belle</hi> in,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-82" n="82">When from their eyes</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-83" n="83">Sweet ruin flies,</l>
+            <l xml:id="swift-438-31L3-line-84" n="84">We die at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-85" n="85"><lb/>G<hi rend="small-caps">OOD</hi> cheer, sweet air,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-86" n="86">Much joy, no care,</l>
+            <l xml:id="swift-438-31L3-line-87" n="87">Your taste, your sight, your smelling,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-88" n="88">Your eyes, your touch,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-89" n="89">Transported much</l>
+            <l xml:id="swift-438-31L3-line-90" n="90">Each day at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-91" n="91"><lb/>W<hi rend="small-caps">ITHIN</hi> this ground,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-92" n="92">All folks sleep sound;</l>
+            <l xml:id="swift-438-31L3-line-93" n="93">No noisy dogs a yelling,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-94" n="94">Except you wake,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-95" n="95">For C<hi rend="small-caps">ÆLIA</hi>'s sake,</l>
+            <l xml:id="swift-438-31L3-line-96" n="96">All night at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-97" n="97"><lb/>H<hi rend="small-caps">ERE</hi> all you see,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-98" n="98">Both he and she,</l>
+            <l xml:id="swift-438-31L3-line-99" n="99">No lady keeps her cell in;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-100" n="100">But all partake,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-101" n="101">The mirth we make,</l>
+            <l xml:id="swift-438-31L3-line-102" n="102">Who drink at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-103" n="103"><lb/>M<hi rend="small-caps">Y</hi> rhimes are gone,</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-104" n="104">I think I've none,</l>
+            <l xml:id="swift-438-31L3-line-105" n="105">Except I should bring hell in;</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-106" n="106">But since I'm here</l>
+            <l rend="indent(1)" xml:id="swift-438-31L3-line-107" n="107">To heaven so near,</l>
+            <l xml:id="swift-438-31L3-line-108" n="108">I can't at B<hi rend="small-caps">ALLYSPELLIN</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

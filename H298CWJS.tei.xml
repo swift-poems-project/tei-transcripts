@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Dean of S<hi rend="superscript">t</hi> 08: Patrick's</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 2AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. SK 6AP16; ed. JW 5FE17; EMENDED JW 5FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="H298CWJS">
+          <head type="note" n="1" xml:id="spp-H298CWJS-headnote-1">
+            <lg n="1" xml:id="spp-H298CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H298CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-H298CWJS-headnote-2">
+            <lg n="1" xml:id="spp-H298CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H298CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-H298CWJS-headnote-3">
+            <lg n="1" xml:id="spp-H298CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-H298CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-H298CWJS-line-1" n="1">Dear Dean I'm in a sad Condition</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-2" n="2">I cannot see to Read or Write;</l>
+            <l xml:id="swift-H298CWJS-line-3" n="3">Pitty the Darkness of thy Priscian</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-4" n="4">Whose Days are all transform'd to Night.</l>
+            <l xml:id="swift-H298CWJS-line-5" n="5">My Head tho Light's a Dungeon grown</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-6" n="6">The Windows of my scull are clos'd,</l>
+            <l xml:id="swift-H298CWJS-line-7" n="7">Therefore to sleep I lay me down</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-8" n="8">My verse and I are both compos'd.</l>
+            <l xml:id="swift-H298CWJS-line-9" n="9">Sleep did I say? that cannot be</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-10" n="10">For who can sleep that wants his Eyes?</l>
+            <l xml:id="swift-H298CWJS-line-11" n="11">My Bed is useless then to me</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-12" n="12">Therefore I Lay me down to rise.</l>
+            <l xml:id="swift-H298CWJS-line-13" n="13">Unnumber'd Thoughts pass to and fro</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-14" n="14">Upon the surface of my Brain,</l>
+            <l xml:id="swift-H298CWJS-line-15" n="15">In Various Maze they come and go,</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-16" n="16">And come and go again.</l>
+            <l xml:id="swift-H298CWJS-line-17" n="17">So have you seen in sheet Burnt black</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-18" n="18">The fiery sparks at random run,</l>
+            <l xml:id="swift-H298CWJS-line-19" n="19">Now here now there, some turning back</l>
+            <l rend="indent(1)" xml:id="swift-H298CWJS-line-20" n="20">Some ending Where they just begun.</l>
+            <l xml:id="swift-H298CWJS-line-21" n="21">«LD»Tho: Sheridan.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CANTATA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 15SE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="956-80L-">
+          <head type="note" n="1" xml:id="spp-956-80L--headnote-1">
+            <lg n="1" xml:id="spp-956-80L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-956-80L--headnote-1-line-group-1-line-1">BY DR. SWIFT.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-956-80L--headnote-2">
+            <lg n="1" xml:id="spp-956-80L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-956-80L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-956-80L--headnote-3">
+            <lg n="1" xml:id="spp-956-80L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-956-80L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-956-80L--line-1" n="1"><hi rend="display-initial">I</hi>N harmony would you excell,</l>
+            <l xml:id="swift-956-80L--line-2" n="2">Suit your words to your music well;</l>
+            <l xml:id="swift-956-80L--line-3" n="3">om.</l>
+            <l xml:id="swift-956-80L--line-4" n="4">om.</l>
+            <l xml:id="swift-956-80L--line-5" n="5">om.</l>
+            <l xml:id="swift-956-80L--line-6" n="6">For Pegasus runs every race</l>
+            <l xml:id="swift-956-80L--line-7" n="7">By galloping high, or level pace,</l>
+            <l xml:id="swift-956-80L--line-8" n="8">Or ambling, or sweet Canterbury,</l>
+            <l xml:id="swift-956-80L--line-9" n="9">Or with a down, a high down derry.</l>
+            <l xml:id="swift-956-80L--line-10" n="10">No victory he ever got</l>
+            <l xml:id="swift-956-80L--line-11" n="11">By joggling, joggling, joggling trot;</l>
+            <l xml:id="swift-956-80L--line-12" n="12">No Muse harmonious entertains</l>
+            <l xml:id="swift-956-80L--line-13" n="13">Rough, roistering, rustic, roaring strains.</l>
+            <l xml:id="swift-956-80L--line-14" n="14">Nor shall you twine the crackling bays</l>
+            <l xml:id="swift-956-80L--line-15" n="15">By sneaking, sniveling roundelays.</l>
+            <l rend="indent(1)" xml:id="swift-956-80L--line-16" n="16">Now slowly move your fiddle-stick,</l>
+            <l xml:id="swift-956-80L--line-17" n="17">Now, tantan, tantantivi, quick;</l>
+            <l xml:id="swift-956-80L--line-18" n="18">om.</l>
+            <l xml:id="swift-956-80L--line-19" n="19">om.</l>
+            <l xml:id="swift-956-80L--line-20" n="20">Now trembling, shivering, quivering, quaking,</l>
+            <l xml:id="swift-956-80L--line-21" n="21">Set hoping hearts of Lovers aching.</l>
+            <l xml:id="swift-956-80L--line-22" n="22">Fly, fly, above the sky,</l>
+            <l xml:id="swift-956-80L--line-23" n="23">om.</l>
+            <l xml:id="swift-956-80L--line-24" n="24">Rambling, gambling, trolloping, lolloping, galloping.</l>
+            <l xml:id="swift-956-80L--line-25" n="25">om.</l>
+            <l xml:id="swift-956-80L--line-26" n="26">om.</l>
+            <l xml:id="swift-956-80L--line-27" n="27">om.</l>
+            <l xml:id="swift-956-80L--line-28" n="28">om.</l>
+            <l xml:id="swift-956-80L--line-29" n="29">Now sweep, sweep the deep.</l>
+            <l xml:id="swift-956-80L--line-30" n="30">See Celia, Celia dies,</l>
+            <l xml:id="swift-956-80L--line-31" n="31">While true Lovers' eyes</l>
+            <l xml:id="swift-956-80L--line-32" n="32">Weeping sleep, Sleeping weep,</l>
+            <l xml:id="swift-956-80L--line-33" n="33">Weeping sleep, Bo peep, bo peep.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

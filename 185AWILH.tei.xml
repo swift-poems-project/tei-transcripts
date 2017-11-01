@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>JEUX D'ESPRIT<lb/>  OF THE<lb/>  SCRIBLERUS CLUB</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="185AWILH">
+          <head type="note" n="1" xml:id="spp-185AWILH-headnote-1">
+            <lg n="1" xml:id="spp-185AWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185AWILH-headnote-1-line-group-1-line-1">I&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-185AWILH-headnote-2">
+            <lg n="1" xml:id="spp-185AWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185AWILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-185AWILH-headnote-3">
+            <lg n="1" xml:id="spp-185AWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185AWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-1" n="1">T<hi rend="small-caps">HE</hi> Doctor and Dean, Pope, Parnell, and Gay</l>
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-2" n="2">In manner submissive most humbly do pray,</l>
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-3" n="3">That your Lordship would once let your Cares all alone</l>
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-4" n="4">And Climb the dark Stairs to your Friends who have none:</l>
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-5" n="5">To your Friends who at least have no Cares but to please you</l>
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-6" n="6">To a good honest Junta that never will teaze you.</l>
+            <l rend="indent(1)" xml:id="swift-185AWILH-line-7" n="7">From the Doctor's Chamber  past eight.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

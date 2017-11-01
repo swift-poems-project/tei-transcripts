@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upon stealing a C<hi rend="small-caps">ROWN</hi> when the D<hi rend="small-caps">EAN</hi><lb/>  was asleep.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 24JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X32-0871">
+          <head type="note" n="1" xml:id="spp-X32-0871-headnote-1">
+            <lg n="1" xml:id="spp-X32-0871-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X32-0871-headnote-1-line-group-1-line-1">By Dr. <hi rend="italics">SHERIDAN</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X32-0871-headnote-2">
+            <lg n="1" xml:id="spp-X32-0871-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X32-0871-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X32-0871-headnote-3">
+            <lg n="1" xml:id="spp-X32-0871-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X32-0871-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X32-0871-line-1" n="1"><hi rend="display-initial">D</hi>EAR Dean, since you in sleepy wise</l>
+            <l xml:id="swift-X32-0871-line-2" n="2">Have op'd your Mouth, and clos'd your Eyes.</l>
+            <l xml:id="swift-X32-0871-line-3" n="3">Like Ghost I glide along your Floor,</l>
+            <l xml:id="swift-X32-0871-line-4" n="4">And softly shut the Parlour Door;</l>
+            <l xml:id="swift-X32-0871-line-5" n="5">For should I break your sweet Repose,</l>
+            <l xml:id="swift-X32-0871-line-6" n="6">Who knows what Money you might lose?</l>
+            <l xml:id="swift-X32-0871-line-7" n="7">Since oftentimes it has been found,</l>
+            <l xml:id="swift-X32-0871-line-8" n="8">A Dream has giv'n ten thousand Pound.</l>
+            <l xml:id="swift-X32-0871-line-9" n="9">Then sleep, my Friend, dear Dean, sleep on,</l>
+            <l xml:id="swift-X32-0871-line-10" n="10">And all you get shall be your own;</l>
+            <l xml:id="swift-X32-0871-line-11" n="11">Provided you to this agree,</l>
+            <l xml:id="swift-X32-0871-line-12" n="12">That all you lose belongs to me.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On the late Examiner</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 21FE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M670O264">
+          <head type="note" n="1" xml:id="spp-M670O264-headnote-1">
+            <lg n="1" xml:id="spp-M670O264-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M670O264-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M670O264-headnote-2">
+            <lg n="1" xml:id="spp-M670O264-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M670O264-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M670O264-headnote-3">
+            <lg n="1" xml:id="spp-M670O264-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M670O264-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M670O264-line-1" n="1"><hi rend="display-initial">O</hi> <hi rend="italics">Jonathan</hi> of merry Fame,</l>
+            <l xml:id="swift-M670O264-line-2" n="2">As <hi rend="italics">Swift</hi> in Fancy as in Name!</l>
+            <l xml:id="swift-M670O264-line-3" n="3">Here lye, as thou hast often done,</l>
+            <l xml:id="swift-M670O264-line-4" n="4">Thy Holy Mother's pious Son:</l>
+            <l xml:id="swift-M670O264-line-5" n="5">Depriv'd of Paper, Pen and Ink,</l>
+            <l xml:id="swift-M670O264-line-6" n="6">And (what's a greater Plague) depriv'd of Drink:</l>
+            <l xml:id="swift-M670O264-line-7" n="7">For lo! Thy Idol <hi rend="italics">OX</hi>, thy <hi rend="italics">Staff</hi> and <hi rend="italics">Rod</hi>,</l>
+            <l xml:id="swift-M670O264-line-8" n="8">As you might say, is drop'd by G────d.</l>
+            <l rend="indent(1)" xml:id="swift-M670O264-line-9" n="9"><lb/>Your rampant <hi rend="italics">BULL</hi> of comely Gate,</l>
+            <l xml:id="swift-M670O264-line-10" n="10">Who leap'd all <hi rend="italics">Cows</hi> he cou'd come at,</l>
+            <l xml:id="swift-M670O264-line-11" n="11">Was ne'er so tame in all his Life,</l>
+            <l xml:id="swift-M670O264-line-12" n="12">As now he sees the <hi rend="italics">Butcher's-Knife</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-M670O264-line-13" n="13"><lb/>But <hi rend="italics">Baiting</hi> first is <hi rend="italics">Hockley</hi> Play,</l>
+            <l xml:id="swift-M670O264-line-14" n="14">And then comes on the <hi rend="italics">Slaughter</hi> Day.</l>
+            <l xml:id="swift-M670O264-line-15" n="15">Then O ye Sons of <hi rend="italics">Britain</hi> take your Fill,</l>
+            <l xml:id="swift-M670O264-line-16" n="16">For all the Market says, <hi rend="italics">He is fit to kill</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-M670O264-line-17" n="17"><lb/>But if <hi rend="italics">BULL</hi> Beef shou'd prove too toogh,</l>
+            <l xml:id="swift-M670O264-line-18" n="18">Or for so many Mouths not quite enough;</l>
+            <l xml:id="swift-M670O264-line-19" n="19">Go take the <hi rend="italics">OX</hi>, he's much the <hi rend="italics">fatter Beast</hi>,</l>
+            <l xml:id="swift-M670O264-line-20" n="20">An <hi rend="italics">OX well roasted</hi> is an <hi rend="italics">English</hi> Feast.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

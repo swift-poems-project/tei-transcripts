@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Riddles</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="916-ROGP">
+          <head type="note" n="1" xml:id="spp-916-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-916-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-916-ROGP-headnote-1-line-group-1-line-1"><hi rend="italics">2</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-916-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-916-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-916-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-916-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-916-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-916-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-916-ROGP-line-1" n="1">All-ruling tyrant of the earth,</l>
+            <l xml:id="swift-916-ROGP-line-2" n="2">To vilest slaves I owe my birth.</l>
+            <l xml:id="swift-916-ROGP-line-3" n="3">How is the greatest monarch blessed,</l>
+            <l xml:id="swift-916-ROGP-line-4" n="4">When in my gaudy livery dressed!</l>
+            <l xml:id="swift-916-ROGP-line-5" n="5">No haughty nymph has power to run</l>
+            <l xml:id="swift-916-ROGP-line-6" n="6">From me; or my embraces shun.</l>
+            <l xml:id="swift-916-ROGP-line-7" n="7">Stabbed to the heart, condemned to flame,</l>
+            <l xml:id="swift-916-ROGP-line-8" n="8">My constancy is still the same.</l>
+            <l xml:id="swift-916-ROGP-line-9" n="9">The favourite messenger of Jove,</l>
+            <l xml:id="swift-916-ROGP-line-10" n="10">And Lemnian god consulting strove,</l>
+            <l xml:id="swift-916-ROGP-line-11" n="11">To make me glorious to the sight</l>
+            <l xml:id="swift-916-ROGP-line-12" n="12">Of mortals, and the gods' delight.</l>
+            <l xml:id="swift-916-ROGP-line-13" n="13">Soon would their altar's flame expire,</l>
+            <l xml:id="swift-916-ROGP-line-14" n="14">If I refused to lend them fire.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

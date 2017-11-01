@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 6JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="368B015N">
+          <head type="note" n="1" xml:id="spp-368B015N-headnote-1">
+            <lg n="1" xml:id="spp-368B015N-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368B015N-headnote-1-line-group-1-line-1">His Lop was inform'd by one of his Gentlemen that the Dean was uneasy and had Write these two lines, and show'd him them his Lop pull'd out his pincel and answ'd them thus:&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-368B015N-headnote-2">
+            <lg n="1" xml:id="spp-368B015N-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368B015N-headnote-2-line-group-1-line-1">This is all at present about one aclock in the morning when J'm in my Right senses J shall doe my self more honor</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-368B015N-headnote-3">
+            <lg n="1" xml:id="spp-368B015N-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368B015N-headnote-3-line-group-1-line-1">GMalcolm</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-368B015N-line-1" n="1">My very good Dean, their's few come here</l>
+            <l xml:id="swift-368B015N-line-2" n="2">\but·<hi rend="italics">over</hi>·that\ have \somthing·<hi rend="italics">over</hi>·nothing\ to ask, or \somthing·<hi rend="italics">over</hi>·nothing\ to fear</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

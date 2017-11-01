@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`Oft have I been by Poets told'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 20JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> ed. JW 28JE14; EMENDED JW 3AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="970-CWJS">
+          <head type="note" n="1" xml:id="spp-970-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-970-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-970-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-970-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-970-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-970-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-970-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-970-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-970-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-970-CWJS-line-1" n="1">Oft have I been by Poets told</l>
+            <l xml:id="swift-970-CWJS-line-2" n="2">That poor Jonathan thou grow'st old.</l>
+            <l xml:id="swift-970-CWJS-line-3" n="3">Alas! thy Numbers falling all!</l>
+            <l xml:id="swift-970-CWJS-line-4" n="4">Poor Jonathan how they do fall.</l>
+            <l xml:id="swift-970-CWJS-line-5" n="5">Thy Rhymes Which whilom made thy Pride swell</l>
+            <l xml:id="swift-970-CWJS-line-6" n="6">Now Jingle like a Rusty Bridle</l>
+            <l xml:id="swift-970-CWJS-line-7" n="7">Thy Verse which ran both smooth and sweet,</l>
+            <l xml:id="swift-970-CWJS-line-8" n="8">Now Limp upon their Gouty feet:</l>
+            <l xml:id="swift-970-CWJS-line-9" n="9">Thy Thoughts which were the true sublime,</l>
+            <l xml:id="swift-970-CWJS-line-10" n="10">Are humbled by the Tyrant Time.</l>
+            <l xml:id="swift-970-CWJS-line-11" n="11">Alas! what cannot Time subdue?</l>
+            <l xml:id="swift-970-CWJS-line-12" n="12">Time has reduc'd my Wine and You.</l>
+            <l xml:id="swift-970-CWJS-line-13" n="13">Emptied my Casks, and clipt Your Wings,</l>
+            <l xml:id="swift-970-CWJS-line-14" n="14">Disabl'd both in Our Main Springs:</l>
+            <l xml:id="swift-970-CWJS-line-15" n="15">So that of late We Two are grown</l>
+            <l xml:id="swift-970-CWJS-line-16" n="16">The Jest and Scorn of all the Town.</l>
+            <l xml:id="swift-970-CWJS-line-17" n="17">But Yet if My Advice be Ta'en,</l>
+            <l xml:id="swift-970-CWJS-line-18" n="18">We Two may be as great again,</l>
+            <l xml:id="swift-970-CWJS-line-19" n="19">I'll send You Wings, and send me Wine</l>
+            <l xml:id="swift-970-CWJS-line-20" n="20">Then You will Fly, and I shall Shine</l>
+            <l xml:id="swift-970-CWJS-line-21" n="21"><lb/>This was written with my Right hand att the same time with the Other.</l>
+            <l xml:id="swift-970-CWJS-line-22" n="22"><lb/>How does Melpy like this? I think I have Vext her</l>
+            <l xml:id="swift-970-CWJS-line-23" n="23">Little did she know I was Ambidexter.</l>
+            <l xml:id="swift-970-CWJS-line-24" n="24">«LD»T: Sheridan</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

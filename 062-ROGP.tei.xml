@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Discovery</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="062-ROGP">
+          <head type="note" n="1" xml:id="spp-062-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-062-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-062-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-062-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-062-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-062-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-062-ROGP-line-1" n="1">When wise Lord Berkeley first came here,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-2" n="2">We Irish folks expected wonders,</l>
+            <l xml:id="swift-062-ROGP-line-3" n="3">Nor thought to find so great a peer</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-4" n="4">E'er a week passed committing blunders:</l>
+            <l xml:id="swift-062-ROGP-line-5" n="5"><lb/>Till on a day cut out by fate,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-6" n="6">When folks came thick to make their court,</l>
+            <l xml:id="swift-062-ROGP-line-7" n="7">Out slipped a mystery of state</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-8" n="8">To give the town and country sport.</l>
+            <l xml:id="swift-062-ROGP-line-9" n="9"><lb/>Now enter Bushe with new state-airs,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-10" n="10">His Lordship's premier ministre,</l>
+            <l xml:id="swift-062-ROGP-line-11" n="11">And who in all profound affairs</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-12" n="12">Is held as needful as his clyster.</l>
+            <l xml:id="swift-062-ROGP-line-13" n="13"><lb/>With head reclining on his shoulder,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-14" n="14">He deals and hears mysterious chat,</l>
+            <l xml:id="swift-062-ROGP-line-15" n="15">While every ignorant beholder</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-16" n="16">Asks of his neighbour, 'Who is that?'</l>
+            <l xml:id="swift-062-ROGP-line-17" n="17"><lb/>With this he put up to my Lord,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-18" n="18">The courtiers kept their distance due,</l>
+            <l xml:id="swift-062-ROGP-line-19" n="19">He twitched his sleeve, and stole a word,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-20" n="20">Then to a corner both withdrew.</l>
+            <l xml:id="swift-062-ROGP-line-21" n="21"><lb/>Imagine now my lord and Bushe</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-22" n="22">Whispering in junto most profound,</l>
+            <l xml:id="swift-062-ROGP-line-23" n="23">Like good King Phiz and good King Ush,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-24" n="24">While all the rest stood gaping round.</l>
+            <l xml:id="swift-062-ROGP-line-25" n="25"><lb/>At length, a spark not too well bred,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-26" n="26">Of forward face, and ear acute,</l>
+            <l xml:id="swift-062-ROGP-line-27" n="27">Advanced on tiptoe, leaned his head</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-28" n="28">To overhear the grand dispute.</l>
+            <l xml:id="swift-062-ROGP-line-29" n="29"><lb/>To learn what northern kings design,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-30" n="30">Or from Whitehall some new express,</l>
+            <l xml:id="swift-062-ROGP-line-31" n="31">Papists disarmed, or fall of coin,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-32" n="32">For sure (thought he) it can't be less.</l>
+            <l xml:id="swift-062-ROGP-line-33" n="33"><lb/>'My Lord', said Bushe, 'a friend and I</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-34" n="34">Disguised in two old threadbare coats</l>
+            <l xml:id="swift-062-ROGP-line-35" n="35">Ere morning's dawn stole out to spy</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-36" n="36">How markets went for hay and oats.'</l>
+            <l xml:id="swift-062-ROGP-line-37" n="37"><lb/>With that he draws two handfuls out,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-38" n="38">The one was oats, the other hay,</l>
+            <l xml:id="swift-062-ROGP-line-39" n="39">Puts this to's Excellency's snout,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-40" n="40">And begs he would the other weigh.</l>
+            <l xml:id="swift-062-ROGP-line-41" n="41"><lb/>My Lord seems pleased, but still directs</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-42" n="42">By all means to bring down the rates,</l>
+            <l xml:id="swift-062-ROGP-line-43" n="43">Then with a congee circumflex</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-44" n="44">Bushe, smiling round on all, retreats.</l>
+            <l xml:id="swift-062-ROGP-line-45" n="45"><lb/>Our listener stood a while confused,</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-46" n="46">But gathering spirits wisely ran for't,</l>
+            <l xml:id="swift-062-ROGP-line-47" n="47">Enraged to see the world abused</l>
+            <l rend="indent(1)" xml:id="swift-062-ROGP-line-48" n="48">By two such whispering Kings of Brentford.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

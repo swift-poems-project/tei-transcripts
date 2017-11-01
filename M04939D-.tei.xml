@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On the Countess of </hi>B----<hi rend="italics"> cutting Paper</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 3JE00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M04939D-">
+          <head type="note" n="1" xml:id="spp-M04939D--headnote-1">
+            <lg n="1" xml:id="spp-M04939D--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M04939D--headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M04939D--headnote-2">
+            <lg n="1" xml:id="spp-M04939D--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M04939D--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M04939D--headnote-3">
+            <lg n="1" xml:id="spp-M04939D--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M04939D--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M04939D--line-1" n="1">
+              <hi rend="display-initial-italic">P<hi rend="italics">Allas</hi> grew vap'rish once and odd,</hi>
+            </l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-2" n="2">She would not do the least right thing,</l>
+            <l xml:id="swift-M04939D--line-3" n="3">Either for Goddess or for God,</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-4" n="4">Nor work, nor play, nor paint, nor sing.</l>
+            <l xml:id="swift-M04939D--line-5" n="5"><hi rend="italics">Jove</hi> frown'd, and “Use (he cry'd) those Eyes</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-6" n="6">“So skilful, and those Hands so taper;</l>
+            <l xml:id="swift-M04939D--line-7" n="7">“Do something exquisite, and wise────</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-8" n="8">She bow'd, obey'd him, and cut Paper.</l>
+            <l xml:id="swift-M04939D--line-9" n="9">This vexing him who gave her Birth,</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-10" n="10">Thought by all Heav'n a burning Shame,</l>
+            <l xml:id="swift-M04939D--line-11" n="11">What does she next, but bids on Earth</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-12" n="12">Her <hi rend="italics">B──l──n</hi> do just the same.</l>
+            <l xml:id="swift-M04939D--line-13" n="13"><hi rend="italics">Pallas</hi> you give yourself strange Airs,</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-14" n="14">But sure you'll find it hard to spoil</l>
+            <l xml:id="swift-M04939D--line-15" n="15">The Sense and Taste of one that bears</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-16" n="16">The Name of <hi rend="italics">Savil</hi> and of <hi rend="italics">Boyle</hi>.</l>
+            <l xml:id="swift-M04939D--line-17" n="17">Alas! one bad Example shown,</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-18" n="18">How quickly all the Sex pursue!</l>
+            <l xml:id="swift-M04939D--line-19" n="19">See Madam! see, the Arts o'erthrown,</l>
+            <l rend="indent(1)" xml:id="swift-M04939D--line-20" n="20">Between <hi rend="italics">John Overton</hi> and <hi rend="italics">You</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

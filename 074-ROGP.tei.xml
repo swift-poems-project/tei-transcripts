@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">A Ballad on the Game of Traffic</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="074-ROGP">
+          <head type="note" n="1" xml:id="spp-074-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-074-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-074-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-074-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-074-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-074-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-074-ROGP-line-1" n="1">My Lord to find out who must deal</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-2" n="2">Delivers cards about,</l>
+            <l xml:id="swift-074-ROGP-line-3" n="3">But the first knave does seldom fail</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-4" n="4">To find the Doctor out.</l>
+            <l xml:id="swift-074-ROGP-line-5" n="5"><lb/>But then his Honour cried, 'Gadzooks!'</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-6" n="6">And seemed to knit his brow;</l>
+            <l xml:id="swift-074-ROGP-line-7" n="7">For on a knave he never looks</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-8" n="8">But h'thinks upon Jack Howe.</l>
+            <l xml:id="swift-074-ROGP-line-9" n="9">My Lady though she is no player</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-10" n="10">Some bungling partner takes,</l>
+            <l xml:id="swift-074-ROGP-line-11" n="11">And wedged in corner of a chair</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-12" n="12">Takes snuff, and holds the stakes.</l>
+            <l xml:id="swift-074-ROGP-line-13" n="13"><lb/>Dame Floyd looks out in grave suspense</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-14" n="14">For pair-royals and sequents;</l>
+            <l xml:id="swift-074-ROGP-line-15" n="15">But wisely cautious of her pence,</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-16" n="16">The castle seldom frequents.</l>
+            <l xml:id="swift-074-ROGP-line-17" n="17"><lb/>Quoth Herries, fairly putting cases,</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-18" n="18">'I'd won it on my word,</l>
+            <l xml:id="swift-074-ROGP-line-19" n="19">If I had but a pair of aces,</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-20" n="20">And could pick up a third.'</l>
+            <l xml:id="swift-074-ROGP-line-21" n="21"><lb/>But Weston has a new-cast gown</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-22" n="22">On Sundays to be fine in,</l>
+            <l xml:id="swift-074-ROGP-line-23" n="23">And if she can but win a crown,</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-24" n="24">'Twill just new dye the lining.</l>
+            <l xml:id="swift-074-ROGP-line-25" n="25">
+              <lb/>
+              <hi rend="italics">With these is Parson Swift,</hi>
+            </l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-26" n="26">Not knowing how to spend his time,</l>
+            <l xml:id="swift-074-ROGP-line-27" n="27">Does make a wretched shift,</l>
+            <l rend="indent(1)" xml:id="swift-074-ROGP-line-28" n="28">To deafen 'em with puns and rhyme.</l>
+            <l xml:id="swift-074-ROGP-line-29" n="29">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

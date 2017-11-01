@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-580-14H1-title-1">On P<hi rend="small-caps">SYCHE</hi> <ref target="#spp-580-14H1-footnote-title-1">1</ref><note n="1" xml:id="spp-580-14H1-footnote-title-1" place="foot">Mrs. S<hi rend="small-caps">ICAN</hi>, a very ingenious well bred lady, wife to Mr. J<hi rend="small-caps">OHN</hi> S<hi rend="small-caps">ICAN</hi>, an eminent Grocer in <hi rend="italics">Dublin</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 5JA11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-580-14H1-footnote-title-1 #spp-580-14H1-title-1"/>
+        </linkGrp>
+        <div n="580-14H1">
+          <head type="note" n="1" xml:id="spp-580-14H1-headnote-1">
+            <lg n="1" xml:id="spp-580-14H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-580-14H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-580-14H1-headnote-2">
+            <lg n="1" xml:id="spp-580-14H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-580-14H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-580-14H1-headnote-3">
+            <lg n="1" xml:id="spp-580-14H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-580-14H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-580-14H1-line-1" n="1"><hi rend="display-initial">A</hi>T two afternoon for our <hi rend="italics">Psyche</hi> inquire,</l>
+            <l xml:id="swift-580-14H1-line-2" n="2">Her tea-kettle's on, and her smock at the fire:</l>
+            <l xml:id="swift-580-14H1-line-3" n="3">So loitring, so active; so busy, so idle,</l>
+            <l xml:id="swift-580-14H1-line-4" n="4">Which hath she most need of, a spur or a bridle?</l>
+            <l xml:id="swift-580-14H1-line-5" n="5">Thus, a greyhound out-runs the whole pack in a race,</l>
+            <l xml:id="swift-580-14H1-line-6" n="6">Yet would rather be hang'd than he'd leave a warm place.</l>
+            <l xml:id="swift-580-14H1-line-7" n="7">She gives you such plenty, it puts you in pain;</l>
+            <l xml:id="swift-580-14H1-line-8" n="8">But ever with prudence takes care of the main.</l>
+            <l xml:id="swift-580-14H1-line-9" n="9">To please you, she knows how to chuse a nice bit;</l>
+            <l xml:id="swift-580-14H1-line-10" n="10">For her taste is almost as refin'd as her wit.</l>
+            <l xml:id="swift-580-14H1-line-11" n="11">To oblige a good friend, she will trace ev'ry market,</l>
+            <l xml:id="swift-580-14H1-line-12" n="12">It would do your heart good, to see how she will cark it.</l>
+            <l xml:id="swift-580-14H1-line-13" n="13">Yet beware of her arts, for it plainly appears,</l>
+            <l xml:id="swift-580-14H1-line-14" n="14">She saves half her victuals, by feeding your ears.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

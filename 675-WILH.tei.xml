@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Verses spoken </hi>extempore<hi rend="italics"> by Dean</hi><lb/>  S<hi rend="small-caps">WIFT</hi> <hi rend="italics">on his Curate's Complaint<lb/>  of hard Duty</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="675-WILH">
+          <head type="note" n="1" xml:id="spp-675-WILH-headnote-1">
+            <lg n="1" xml:id="spp-675-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-WILH-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-675-WILH-headnote-2">
+            <lg n="1" xml:id="spp-675-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-WILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-675-WILH-headnote-3">
+            <lg n="1" xml:id="spp-675-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-675-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-675-WILH-line-1" n="1"><hi rend="display-initial">I</hi> March'd three miles thro' scorching sand,</l>
+            <l xml:id="swift-675-WILH-line-2" n="2">With zeal in heart, and notes in hand;</l>
+            <l xml:id="swift-675-WILH-line-3" n="3">I rode four more to great St. <hi rend="italics">Mary</hi>;</l>
+            <l xml:id="swift-675-WILH-line-4" n="4">Using four legs when two were weary.</l>
+            <l xml:id="swift-675-WILH-line-5" n="5">To three fair virgins I did tie men</l>
+            <l xml:id="swift-675-WILH-line-6" n="6">In the close bands of pleasing hymen.</l>
+            <l xml:id="swift-675-WILH-line-7" n="7">I dipp'd two babes in holy-water,</l>
+            <l xml:id="swift-675-WILH-line-8" n="8">And purify'd their mothers after.</l>
+            <l xml:id="swift-675-WILH-line-9" n="9">Within an hour, and eke a half,</l>
+            <l xml:id="swift-675-WILH-line-10" n="10">I preached three congregations deaf,</l>
+            <l xml:id="swift-675-WILH-line-11" n="11">om.</l>
+            <l xml:id="swift-675-WILH-line-12" n="12">om.</l>
+            <l xml:id="swift-675-WILH-line-13" n="13">Which, thundring out with lungs long-winded,</l>
+            <l xml:id="swift-675-WILH-line-14" n="14">I chopp'd so fast, that few there minded.</l>
+            <l xml:id="swift-675-WILH-line-15" n="15">My Emblem, the labourious sun, 3}</l>
+            <l xml:id="swift-675-WILH-line-16" n="16">Saw all these mighty labours done,</l>
+            <l xml:id="swift-675-WILH-line-17" n="17">Before one race of his was run;</l>
+            <l xml:id="swift-675-WILH-line-18" n="18">All this perform'd by <hi rend="italics">Robert Hewit</hi>,</l>
+            <l xml:id="swift-675-WILH-line-19" n="19">What mortal else cou'd e'er go through it!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

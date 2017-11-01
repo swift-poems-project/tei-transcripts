@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-715-07H1-title-1"><hi rend="italics">A </hi>REBUS<hi rend="italics"> written by a </hi><ref target="#spp-715-07H1-footnote-title-1">1</ref><note n="1" xml:id="spp-715-07H1-footnote-title-1" place="foot">Mrs. <hi rend="italics">Vanhomrigh</hi></note><hi rend="italics"> </hi>LADY<hi rend="italics"> on the Rev. Dean </hi>SWIFT<hi rend="italics">. With his</hi> ANSWER.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 8JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-715-07H1-footnote-title-1 #spp-715-07H1-title-1"/>
+        </linkGrp>
+        <div n="715-07H1">
+          <head type="note" n="1" xml:id="spp-715-07H1-headnote-1">
+            <lg n="1" xml:id="spp-715-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-07H1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-715-07H1-headnote-2">
+            <lg n="1" xml:id="spp-715-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-07H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-715-07H1-headnote-3">
+            <lg n="1" xml:id="spp-715-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-715-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-715-07H1-line-1" n="1"><hi rend="display-initial">C</hi>UT the name of the M<hi rend="small-caps">AN</hi> who his <hi rend="italics">Mistress</hi> deny'd, 3} <note place="foot">·<hi rend="italics">Jo-seph</hi>.</note></l>
+            <l xml:id="swift-715-07H1-line-2" n="2">And let the <hi rend="italics">first</hi> of it be only apply'd</l>
+            <l xml:id="swift-715-07H1-line-3" n="3">To join with the prophet who D<hi rend="small-caps">AVID</hi> did chide. <note place="foot">·<hi rend="italics">Nathan</hi>.</note></l>
+            <l xml:id="swift-715-07H1-line-4" n="4">Then say, what a <hi rend="italics">horse</hi> is that runs very <hi rend="italics">fast</hi>,</l>
+            <l xml:id="swift-715-07H1-line-5" n="5">And that which deserves to be <hi rend="italics">first</hi> put the <hi rend="italics">last</hi>;</l>
+            <l xml:id="swift-715-07H1-line-6" n="6">Spell all then, and put them together, to find</l>
+            <l xml:id="swift-715-07H1-line-7" n="7">The N<hi rend="small-caps">AME</hi> and the V<hi rend="small-caps">IRTUES</hi> of him I design'd.</l>
+            <l xml:id="swift-715-07H1-line-8" n="8">Like the <hi rend="italics">Patriarch</hi> in <hi rend="italics">Egypt</hi> he's vers'd in the <hi rend="italics">state</hi>;</l>
+            <l xml:id="swift-715-07H1-line-9" n="9">Like the <hi rend="italics">prophet</hi> in <hi rend="italics">Jewry</hi>, he's free with the <hi rend="italics">great</hi>;</l>
+            <l xml:id="swift-715-07H1-line-10" n="10">Like a <hi rend="italics">racer</hi> he flies to succour with speed,</l>
+            <l xml:id="swift-715-07H1-line-11" n="11">When his <hi rend="italics">friends</hi> want his aid, or <hi rend="italics">desert</hi> is in need,</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

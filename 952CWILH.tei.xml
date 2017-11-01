@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VERSES<lb/>  <hi rend="italics">made for Women who cry<lb/>  Apples, </hi>&amp;c.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="952CWILH">
+          <head type="note" n="1" xml:id="spp-952CWILH-headnote-1">
+            <lg n="1" xml:id="spp-952CWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952CWILH-headnote-1-line-group-1-line-1">OYSTERS.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-952CWILH-headnote-2">
+            <lg n="1" xml:id="spp-952CWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952CWILH-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-952CWILH-headnote-3">
+            <lg n="1" xml:id="spp-952CWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-952CWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-1" n="1"><hi rend="display-initial">C</hi>Harming Oysters I cry,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-2" n="2">My Masters come buy,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-3" n="3">So plump and so fresh,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-4" n="4">So sweet is their Flesh,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-5" n="5">No <hi rend="italics">Colchester</hi> Oyster,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-6" n="6">Is sweeter and moyster,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-7" n="7">Your Stomach they settle,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-8" n="8">And rouse up your Mettle,</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-9" n="9">They'll make you a Dad</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-10" n="10">Of a Lass or a Lad;</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-11" n="11">And, Madam your Wife</l>
+            <l rend="indent(1)" xml:id="swift-952CWILH-line-12" n="12">They'll please to the Life;</l>
+            <l xml:id="swift-952CWILH-line-13" n="13">Be she barren, be she old,</l>
+            <l xml:id="swift-952CWILH-line-14" n="14">Be she Slut, or be she Scold,</l>
+            <l xml:id="swift-952CWILH-line-15" n="15">Eat my Oysters, and lye near her,</l>
+            <l xml:id="swift-952CWILH-line-16" n="16">She'll be fruitful, never fear her.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

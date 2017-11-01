@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To his LandLord.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 8JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="402C570B">
+          <head type="note" n="1" xml:id="spp-402C570B-headnote-1">
+            <lg n="1" xml:id="spp-402C570B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-402C570B-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-402C570B-headnote-2">
+            <lg n="1" xml:id="spp-402C570B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-402C570B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-402C570B-headnote-3">
+            <lg n="1" xml:id="spp-402C570B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-402C570B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-402C570B-line-1" n="1">My Landlord is civil</l>
+            <l xml:id="swift-402C570B-line-2" n="2">But dear as the Devil</l>
+            <l xml:id="swift-402C570B-line-3" n="3">Your Pockets grow empty</l>
+            <l xml:id="swift-402C570B-line-4" n="4">But nothing to tempt you.</l>
+            <l xml:id="swift-402C570B-line-5" n="5">The Wine is so sour</l>
+            <l xml:id="swift-402C570B-line-6" n="6">'Twill give you the Scour.</l>
+            <l xml:id="swift-402C570B-line-7" n="7">The Beer and the Ale</l>
+            <l xml:id="swift-402C570B-line-8" n="8">Are mingled with stale</l>
+            <l xml:id="swift-402C570B-line-9" n="9">The Veal is such carrion</l>
+            <l xml:id="swift-402C570B-line-10" n="10">A Dog would be weary on</l>
+            <l xml:id="swift-402C570B-line-11" n="11">All this have I felt</l>
+            <l xml:id="swift-402C570B-line-12" n="12">And lived on a Smelt.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Via ad Episcopatum.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 2JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z717042L">
+          <head type="note" n="1" xml:id="spp-Z717042L-headnote-1">
+            <lg n="1" xml:id="spp-Z717042L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z717042L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z717042L-headnote-2">
+            <lg n="1" xml:id="spp-Z717042L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z717042L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z717042L-headnote-3">
+            <lg n="1" xml:id="spp-Z717042L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z717042L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z717042L-line-1" n="1">Si ad Præsulatum velles ascendere,</l>
+            <l xml:id="swift-Z717042L-line-2" n="2">Quâ ratione id fiat, paucis accipe,</l>
+            <l xml:id="swift-Z717042L-line-3" n="3">Studiis parum temporis insumas,</l>
+            <l xml:id="swift-Z717042L-line-4" n="4">Non doctus ut sis, sed speciosus,</l>
+            <l xml:id="swift-Z717042L-line-5" n="5">Nec ut disseras, sed interdum garrias.</l>
+            <l xml:id="swift-Z717042L-line-6" n="6">Libros paucos non lege, sed inspice.</l>
+            <l xml:id="swift-Z717042L-line-7" n="7">Veram pietatem ne sectare,</l>
+            <l xml:id="swift-Z717042L-line-8" n="8">Quam Aulici, rerum Domini, non curant.</l>
+            <l xml:id="swift-Z717042L-line-9" n="9">Sit (tibi ficta Gravitas, &amp; Vultus</l>
+            <l xml:id="swift-Z717042L-line-10" n="10">Semper ad Obsequium benè compositus.</l>
+            <l xml:id="swift-Z717042L-line-11" n="11">Curâ (si quam in·te suscepisti) Animarum</l>
+            <l xml:id="swift-Z717042L-line-12" n="12">Semper posthabitâ, totus in hoc sis,</l>
+            <l xml:id="swift-Z717042L-line-13" n="13">Ut viris magnis omni ratione placeas;</l>
+            <l xml:id="swift-Z717042L-line-14" n="14">Nec Fœminis te gratum præbere negligas.</l>
+            <l xml:id="swift-Z717042L-line-15" n="15">Huic te Regimini si conformem præbeas,</l>
+            <l xml:id="swift-Z717042L-line-16" n="16">De successou nullus dubita. Probatum est.<lb/>\<hi rend="italics">del</hi>·1722.\_Forte J. Swyft._Ex Hiberniâ enim_provenit A. 1722.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

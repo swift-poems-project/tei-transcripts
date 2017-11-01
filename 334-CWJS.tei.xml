@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A SERIOUS POEM UPON WILLIAM WOOD,<lb/>  <hi rend="italics">Brasier, Tinker, Hard-Ware-Man, Coiner,<lb/>  Counterfeiter, Founder </hi>and<hi rend="italics"> Esquire</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 1MR93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> deltas revised 28JE97; tochk item √'d JW 3JA02; tochk item added JW 3NO02; √'d JW 30AU03 agt 0471 and tochk item √'d using LVaF copy; ed. JW 27NO04, 11FE14; √'d JW 24SE08 agt WILH; ed. JW 28FE17; EMENDED JW 28FE17; retyped "##" line 9MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="334-CWJS">
+          <head type="note" n="1" xml:id="spp-334-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-334-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-334-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-334-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-334-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-334-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-334-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-334-CWJS-line-1" n="1">
+              <hi rend="display-initial">W<hi rend="small-caps">HEN</hi> Foes are o'ercome, we preserve them from Slaughter,</hi>
+            </l>
+            <l xml:id="swift-334-CWJS-line-2" n="2">To be <hi rend="italics">Hewers</hi> of <hi rend="italics">WOOD</hi> and <hi rend="italics">Drawers</hi> of <hi rend="italics">Water</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-3" n="3">Now, although to <hi rend="italics">Draw Water</hi> is not very good,</l>
+            <l xml:id="swift-334-CWJS-line-4" n="4">Yet we all should Rejoyce to be <hi rend="italics">Hewers</hi> of WOOD.</l>
+            <l xml:id="swift-334-CWJS-line-5" n="5">I own it hath often provok'd me to Mutter,</l>
+            <l xml:id="swift-334-CWJS-line-6" n="6">That, a Rogue so <hi rend="italics">Obscure</hi> should make such a Clutter,</l>
+            <l xml:id="swift-334-CWJS-line-7" n="7">But antient <hi rend="italics">Philosophers</hi> wisely Remark,</l>
+            <l xml:id="swift-334-CWJS-line-8" n="8">That old rotten WOOD will <hi rend="italics">Shine</hi> in the <hi rend="italics">Dark</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-9" n="9">The <hi rend="italics">Heathens</hi>, we Read, had <hi rend="italics">Gods</hi> made of WOOD,</l>
+            <l xml:id="swift-334-CWJS-line-10" n="10">Who could do them no Harm, if they did them no Good:</l>
+            <l xml:id="swift-334-CWJS-line-11" n="11">But this Idol WOOD may do us great Evil,</l>
+            <l xml:id="swift-334-CWJS-line-12" n="12">Their Gods were of WOOD, but our WOOD is the DEVIL.</l>
+            <l xml:id="swift-334-CWJS-line-13" n="13">To cut down fine WOOD is a very bad Thing,</l>
+            <l xml:id="swift-334-CWJS-line-14" n="14">And yet we all know, much <hi rend="italics">Gold</hi> it will bring;</l>
+            <l xml:id="swift-334-CWJS-line-15" n="15">Then if cutting down WOOD brings Money good Store,</l>
+            <l xml:id="swift-334-CWJS-line-16" n="16">Our Money to keep, let us <hi rend="italics">Cut down ONE more</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-17" n="17"><lb/>Now hear an old Tale. There antiently stood</l>
+            <l xml:id="swift-334-CWJS-line-18" n="18">(I forget in what Church) an Image of <hi rend="italics">Wood</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-19" n="19">Concerning this Image there went a Prediction,</l>
+            <l xml:id="swift-334-CWJS-line-20" n="20">It would Burn a whole <hi rend="italics">Forest</hi>; nor was it a Fiction;</l>
+            <l xml:id="swift-334-CWJS-line-21" n="21">'Twas cut into Faggots, and put to the Flame,</l>
+            <l xml:id="swift-334-CWJS-line-22" n="22">To Burn an old Fryer, one <hi rend="italics">Forrest</hi> by Name.</l>
+            <l xml:id="swift-334-CWJS-line-23" n="23">My Tale is a wise one if well understood,</l>
+            <l xml:id="swift-334-CWJS-line-24" n="24">Find you but the <hi rend="italics">Fryer</hi>, and I'll find the WOOD.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-25" n="25"><lb/>I hear among Scholars there is a great Doubt</l>
+            <l xml:id="swift-334-CWJS-line-26" n="26">From what Kind of Tree this WOOD was Hewn out.</l>
+            <l xml:id="swift-334-CWJS-line-27" n="27"><hi rend="italics">Teague</hi> made a good PUN by a <hi rend="italics">Brogue</hi> in his Speech,</l>
+            <l xml:id="swift-334-CWJS-line-28" n="28">And said: <hi rend="italics">By my Shoul he's the Son of a BEECH</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-29" n="29">Some call him a <hi rend="italics">Thorn</hi>, the Curse of a Nation,</l>
+            <l xml:id="swift-334-CWJS-line-30" n="30">As <hi rend="italics">Thorns</hi> were design'd to be from the Creation.</l>
+            <l xml:id="swift-334-CWJS-line-31" n="31">Some think him cut out from the Poisonous <hi rend="italics">Yew</hi>,</l>
+            <l xml:id="swift-334-CWJS-line-32" n="32">Beneath whose ill Shade no Plant ever grew.</l>
+            <l xml:id="swift-334-CWJS-line-33" n="33">Some say he's a <hi rend="italics">Birch</hi>, a Thought very odd,</l>
+            <l xml:id="swift-334-CWJS-line-34" n="34">For none but a <hi rend="italics">Dunce</hi> would come under his <hi rend="italics">Rod</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-35" n="35">But I'll tell you the Secret, and pray do not Blab,</l>
+            <l xml:id="swift-334-CWJS-line-36" n="36">He is an old <hi rend="italics">Stump</hi> cut out of a <hi rend="italics">Crab</hi>,</l>
+            <l xml:id="swift-334-CWJS-line-37" n="37">And <hi rend="italics">England</hi> has put this <hi rend="italics">Crab</hi> to a hard Use,</l>
+            <l xml:id="swift-334-CWJS-line-38" n="38">To Cudgel our Bones, and for Drink give us <hi rend="italics">Verjuice</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-39" n="39">And therefore his <hi rend="italics">Witnesses</hi> justly may boast,</l>
+            <l xml:id="swift-334-CWJS-line-40" n="40">That none are more properly Knights of the POST.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-41" n="41"><lb/>But here Mr. <hi rend="italics">Wood</hi> complains that we Mock,</l>
+            <l xml:id="swift-334-CWJS-line-42" n="42">Though he may be a <hi rend="italics">Block</hi>-head, he is no real <hi rend="italics">Block</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-43" n="43">He can Eat, Drink and Sleep; now and then for a Friend</l>
+            <l xml:id="swift-334-CWJS-line-44" n="44">He'll not be too proud an old Kettle to mend;</l>
+            <l xml:id="swift-334-CWJS-line-45" n="45">He can <hi rend="italics">Lye</hi> like a <hi rend="italics">Courtier</hi>, and think it no Scorn,</l>
+            <l xml:id="swift-334-CWJS-line-46" n="46">When <hi rend="italics">Gold</hi>'s to be got, to FORSWEAR and SUBORN.</l>
+            <l xml:id="swift-334-CWJS-line-47" n="47">He can RAP his own RAPS, and has the true Sapience</l>
+            <l xml:id="swift-334-CWJS-line-48" n="48">To turn a <hi rend="italics">Good</hi> Penny to Twenty <hi rend="italics">Bad</hi> Ha'pence.</l>
+            <l xml:id="swift-334-CWJS-line-49" n="49">Then in Spight of your Sophistry, Honest WILL. WOOD</l>
+            <l xml:id="swift-334-CWJS-line-50" n="50">Is a Man of this World, all true Flesh and Blood;</l>
+            <l xml:id="swift-334-CWJS-line-51" n="51">So you are but in Jest, and you will not I hope</l>
+            <l xml:id="swift-334-CWJS-line-52" n="52"><hi rend="italics">Un-man</hi> the poor Knave for sake of a <hi rend="italics">Trope</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-53" n="53">'Tis a <hi rend="italics">Metaphor</hi> known to ev'ry plain Thinker.</l>
+            <l xml:id="swift-334-CWJS-line-54" n="54">Just as when we say, <hi rend="italics">the Devil'</hi>s<hi rend="italics"> a Tinker</hi></l>
+            <l xml:id="swift-334-CWJS-line-55" n="55">Which cannot in Literal Sense be made Good,</l>
+            <l xml:id="swift-334-CWJS-line-56" n="56">Unless by the <hi rend="italics">Devil</hi> we mean Mr. WOOD.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-57" n="57"><lb/>But some will object, that the <hi rend="italics">Devil</hi> oft spoke</l>
+            <l xml:id="swift-334-CWJS-line-58" n="58">In <hi rend="italics">Heathenish</hi> Times from the <hi rend="italics">Trunk</hi> of an <hi rend="italics">Oak</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-59" n="59">And, since we must grant, there never were known</l>
+            <l xml:id="swift-334-CWJS-line-60" n="60">More <hi rend="italics">Heathenish</hi> Times than those of our own;</l>
+            <l xml:id="swift-334-CWJS-line-61" n="61">Perhaps you will say, 'tis the <hi rend="italics">Devil</hi> that puts</l>
+            <l xml:id="swift-334-CWJS-line-62" n="62">The Words in WOOD's Mouth, or speaks from his Guts:</l>
+            <l xml:id="swift-334-CWJS-line-63" n="63">And then your old Argument still will return:</l>
+            <l xml:id="swift-334-CWJS-line-64" n="64">Howe'er let us try him and see how he'll burn.</l>
+            <l xml:id="swift-334-CWJS-line-65" n="65">You'll pardon me Sir, your Cunning I smoak,</l>
+            <l xml:id="swift-334-CWJS-line-66" n="66">But WOOD I assure you is no <hi rend="italics">Heart of</hi> OAK;</l>
+            <l xml:id="swift-334-CWJS-line-67" n="67">And instead of the <hi rend="italics">Devil</hi>, this Son of Perdition</l>
+            <l xml:id="swift-334-CWJS-line-68" n="68">Hath joyn'd with himself two HAGS in Commission:</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-69" n="69"><lb/>I ne'er could endure my Talent to smother,</l>
+            <l xml:id="swift-334-CWJS-line-70" n="70">I told you one Tale, I will tell you another.</l>
+            <l xml:id="swift-334-CWJS-line-71" n="71">A <hi rend="italics">Joyner</hi> to fasten a <hi rend="italics">Saint</hi> in a <hi rend="italics">Nitch</hi>,</l>
+            <l xml:id="swift-334-CWJS-line-72" n="72">Bor'd a large <hi rend="italics">Augre-hole</hi> in the Image's Breech;</l>
+            <l xml:id="swift-334-CWJS-line-73" n="73">But finding the <hi rend="italics">Statue</hi> to make no Complaint,</l>
+            <l xml:id="swift-334-CWJS-line-74" n="74">He would ne'er be convinc'd it was a <hi rend="italics">True Saint</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-75" n="75">When the <hi rend="italics">True</hi> WOOD arrives, as he soon will no doubt,</l>
+            <l xml:id="swift-334-CWJS-line-76" n="76">(For that's but a Sham WOOD they carry about)</l>
+            <l xml:id="swift-334-CWJS-line-77" n="77">What <hi rend="italics">Stuff</hi> he is made on you quickly may find,</l>
+            <l xml:id="swift-334-CWJS-line-78" n="78">If you make the same Tryal, and <hi rend="italics">Bore</hi> him <hi rend="italics">Behind</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-79" n="79">I'll hold you a Groat, when you <hi rend="italics">wimble</hi> his Bumm,</l>
+            <l xml:id="swift-334-CWJS-line-80" n="80">He'll Bellow as loud as the <hi rend="italics">Dee'l in a Drum</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-81" n="81">From me I declare you shall have no Denial,</l>
+            <l xml:id="swift-334-CWJS-line-82" n="82">And there can be no Harm in making a Tryal;</l>
+            <l xml:id="swift-334-CWJS-line-83" n="83">And when to the Joy of your Hearts he has Roar'd,</l>
+            <l xml:id="swift-334-CWJS-line-84" n="84">You may shew him about for a new <hi rend="italics">Groaning Board</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-85" n="85"><lb/>Now ask me a Question. How came it to pass</l>
+            <l xml:id="swift-334-CWJS-line-86" n="86">WOOD got so much Copper? He got it by BRASS;</l>
+            <l xml:id="swift-334-CWJS-line-87" n="87">This BRASS was a Dragon (observe what I tell ye)</l>
+            <l xml:id="swift-334-CWJS-line-88" n="88">This <hi rend="italics">Dragon</hi> had gotten two <hi rend="italics">Sows</hi> in it's Belly;</l>
+            <l xml:id="swift-334-CWJS-line-89" n="89">I know you will say, this is all <hi rend="italics">Heathen Greek</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-90" n="90">I own it, and therefore I leave you to seek.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-91" n="91"><lb/>I often have seen two Plays very Good,</l>
+            <l xml:id="swift-334-CWJS-line-92" n="92">Call'd, LOVE IN A TUB, and LOVE IN A WOOD.</l>
+            <l xml:id="swift-334-CWJS-line-93" n="93">These Comedies twain Friend <hi rend="italics">Wood</hi> will contrive</l>
+            <l xml:id="swift-334-CWJS-line-94" n="94">On the <hi rend="italics">Scene</hi> of this <hi rend="italics">Land</hi> very soon to <hi rend="italics">revive</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-95" n="95">First, LOVE IN A TUB: 'Squire <hi rend="italics">Wood</hi> has in Store</l>
+            <l xml:id="swift-334-CWJS-line-96" n="96">Strong <hi rend="italics">Tubs</hi> for his <hi rend="italics">Raps</hi>, Two thousand and more;</l>
+            <l xml:id="swift-334-CWJS-line-97" n="97">These <hi rend="italics">Raps</hi> he will honestly dig out with Shovels,</l>
+            <l xml:id="swift-334-CWJS-line-98" n="98">And sell them for Gold, or he can't shew his Love else,</l>
+            <l xml:id="swift-334-CWJS-line-99" n="99">WOOD swears he will do it for <hi rend="italics">Ireland</hi>'s Good,</l>
+            <l xml:id="swift-334-CWJS-line-100" n="100">Then can you deny it is <hi rend="italics">Love in a</hi> WOOD?</l>
+            <l xml:id="swift-334-CWJS-line-101" n="101">However, if Criticks find Fault with the Phrase,</l>
+            <l xml:id="swift-334-CWJS-line-102" n="102">I hope you will own it is <hi rend="italics">Love in a Maze</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-103" n="103">For when to express a Friend's Love we are willing,</l>
+            <l xml:id="swift-334-CWJS-line-104" n="104">We never say more than, your <hi rend="italics">Love is a Million</hi>;</l>
+            <l xml:id="swift-334-CWJS-line-105" n="105">But with honest WOOD's <hi rend="italics">Love</hi> there is no contending,</l>
+            <l xml:id="swift-334-CWJS-line-106" n="106">'Tis Fifty round <hi rend="italics">Millions</hi> of <hi rend="italics">Love</hi>, and a <hi rend="italics">Mending</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-107" n="107">Then in his First <hi rend="italics">Love</hi> why should he be crost?</l>
+            <l xml:id="swift-334-CWJS-line-108" n="108">I hope he will find that <hi rend="italics">no Love is lost</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-334-CWJS-line-109" n="109"><lb/>Hear one Story more and then I will stop.</l>
+            <l xml:id="swift-334-CWJS-line-110" n="110">I dream't WOOD was told he should Dye by a <hi rend="italics">Drop</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-111" n="111">So methought, he resolv'd no Liquor to taste,</l>
+            <l xml:id="swift-334-CWJS-line-112" n="112">For fear the <hi rend="italics">First Drop</hi> might as well be his <hi rend="italics">Last</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-113" n="113">But <hi rend="italics">Dreams</hi> are like <hi rend="italics">Oracles</hi>, hard to explain 'em,</l>
+            <l xml:id="swift-334-CWJS-line-114" n="114">For it prov'd that he dy'd of a DROP at <hi rend="italics">Killmainham</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-115" n="115">I wak'd with Delight, and not without Hope,</l>
+            <l xml:id="swift-334-CWJS-line-116" n="116">Very soon to see WOOD <hi rend="italics">Drop</hi> down from <hi rend="italics">a Rope</hi>.</l>
+            <l xml:id="swift-334-CWJS-line-117" n="117">How he and how we at each other should grin!</l>
+            <l xml:id="swift-334-CWJS-line-118" n="118">'Tis Kindness to hold a Friend up by the Chin;</l>
+            <l xml:id="swift-334-CWJS-line-119" n="119">But soft says the Herald, I cannot agree;</l>
+            <l xml:id="swift-334-CWJS-line-120" n="120">For <hi rend="italics">Metal on Metal is false Heraldry</hi>:</l>
+            <l xml:id="swift-334-CWJS-line-121" n="121">Why that may be true, yet WOOD upon WOOD,</l>
+            <l xml:id="swift-334-CWJS-line-122" n="122">I'll maintain with my Life, is <hi rend="italics">Heraldry</hi> Good.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

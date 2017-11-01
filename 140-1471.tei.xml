@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 10NO10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="140-1471">
+          <head type="note" n="1" xml:id="spp-140-1471-headnote-1">
+            <lg n="1" xml:id="spp-140-1471-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-140-1471-headnote-1-line-group-1-line-1">19th, I dined with lord treasurer to day, and sat with him till ten in spight of my teeth, though my printer waited for me to correct a sheet. I told him of four lines I writ extempore with my pencil, on a bit of paper in his house, while he lay wounded. Some of the servants, I suppose, made waste paper of them. They were inscribed to Mr. <hi rend="italics">Harley</hi>'s physicians thus:</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-140-1471-headnote-2">
+            <lg n="1" xml:id="spp-140-1471-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-140-1471-headnote-2-line-group-1-line-1">I proposed that some company should dine with him on the eighth of <hi rend="italics">March</hi>, which was the day he was wounded; but he says he designs, that the lords of the cabinet, who then sat with him, should dine that day with him: however, he has invited me to dinner. I am not yet rid of my cold; it plagues me in the morning chiefly.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-140-1471-headnote-3">
+            <lg n="1" xml:id="spp-140-1471-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-140-1471-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-140-1471-line-1" n="1">On <hi rend="italics">Britain Europe</hi>'s safety lies;</l>
+            <l xml:id="swift-140-1471-line-2" n="2"><hi rend="italics">Britain</hi> is lost, if <hi rend="italics">Harley</hi> dies:</l>
+            <l xml:id="swift-140-1471-line-3" n="3"><hi rend="italics">Harley</hi> depends upon your skill:</l>
+            <l xml:id="swift-140-1471-line-4" n="4">Think what you save, and what you kill.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

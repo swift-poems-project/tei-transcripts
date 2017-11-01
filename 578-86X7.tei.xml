@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On the</hi> D<hi rend="small-caps">AY OF </hi>J<hi rend="small-caps">UDGMENT</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 4FE07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="578-86X7">
+          <head type="note" n="1" xml:id="spp-578-86X7-headnote-1">
+            <lg n="1" xml:id="spp-578-86X7-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-86X7-headnote-1-line-group-1-line-1"><hi rend="italics">By Dr</hi>. S<hi rend="small-caps">WIFT</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-578-86X7-headnote-2">
+            <lg n="1" xml:id="spp-578-86X7-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-86X7-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-578-86X7-headnote-3">
+            <lg n="1" xml:id="spp-578-86X7-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-578-86X7-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-578-86X7-line-1" n="1"><hi rend="display-initial">W</hi>ITH undigested thoughts opprest,</l>
+            <l xml:id="swift-578-86X7-line-2" n="2">I sunk from reverie to rest.</l>
+            <l xml:id="swift-578-86X7-line-3" n="3">An horrid vision seiz'd my head:</l>
+            <l xml:id="swift-578-86X7-line-4" n="4">I saw the graves yawn up their dead.</l>
+            <l xml:id="swift-578-86X7-line-5" n="5">Jove arm'd with terrors ope'd the skies,</l>
+            <l xml:id="swift-578-86X7-line-6" n="6">The thunder roars, and light'ning flies:</l>
+            <l xml:id="swift-578-86X7-line-7" n="7">om.</l>
+            <l xml:id="swift-578-86X7-line-8" n="8">om.</l>
+            <l xml:id="swift-578-86X7-line-9" n="9">While each pale spectre hangs its head,</l>
+            <l xml:id="swift-578-86X7-line-10" n="10">Jove nodded, burst the clouds, and said---</l>
+            <l xml:id="swift-578-86X7-line-11" n="11">om.</l>
+            <l xml:id="swift-578-86X7-line-12" n="12">om.</l>
+            <l xml:id="swift-578-86X7-line-13" n="13">om.</l>
+            <l xml:id="swift-578-86X7-line-14" n="14">om.</l>
+            <l xml:id="swift-578-86X7-line-15" n="15">“You whom the various sects have shamm'd,</l>
+            <l xml:id="swift-578-86X7-line-16" n="16">“And come to see each other damn'd,</l>
+            <l xml:id="swift-578-86X7-line-17" n="17">“As priests have threaten'd (tho' they knew</l>
+            <l xml:id="swift-578-86X7-line-18" n="18">“No more of my decrees than you)</l>
+            <l xml:id="swift-578-86X7-line-19" n="19">“The world's vain business now being o'er,</l>
+            <l xml:id="swift-578-86X7-line-20" n="20">“Such dogmas may prevail no more;</l>
+            <l xml:id="swift-578-86X7-line-21" n="21">“I 'gainst such blockheads set my wit:</l>
+            <l xml:id="swift-578-86X7-line-22" n="22">“<hi rend="italics">I damn'd you all</hi>!--- Go, go, you're bit.”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

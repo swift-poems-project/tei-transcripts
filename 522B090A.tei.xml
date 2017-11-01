@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Betty the Grizett</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 29JL11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="522B090A">
+          <head type="note" n="1" xml:id="spp-522B090A-headnote-1">
+            <lg n="1" xml:id="spp-522B090A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522B090A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-522B090A-headnote-2">
+            <lg n="1" xml:id="spp-522B090A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522B090A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-522B090A-headnote-3">
+            <lg n="1" xml:id="spp-522B090A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522B090A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-522B090A-line-1" n="1"><hi rend="display-initial">Q</hi>ueen of Wit and Beauty, Betty,</l>
+            <l xml:id="swift-522B090A-line-2" n="2">Never made the muse forget ye,</l>
+            <l xml:id="swift-522B090A-line-3" n="3">How thy face charmd ev'ry Shepherd,</l>
+            <l xml:id="swift-522B090A-line-4" n="4">Spotted over like a Leopard,</l>
+            <l xml:id="swift-522B090A-line-5" n="5">And thy freckled Neck displayd</l>
+            <l xml:id="swift-522B090A-line-6" n="6">Envy breed in ev'ry maid.</l>
+            <l xml:id="swift-522B090A-line-7" n="7">Like a fly blown Cake of Tallow,</l>
+            <l xml:id="swift-522B090A-line-8" n="8">Or on Parchment Ink turnd yellow:</l>
+            <l xml:id="swift-522B090A-line-9" n="9">Or a tawny spickled Pippin,</l>
+            <l xml:id="swift-522B090A-line-10" n="10">Shrivelld with a winters keeping.</l>
+            <l rend="indent(1)" xml:id="swift-522B090A-line-11" n="11">And thy Beauty thus dispatchd;</l>
+            <l xml:id="swift-522B090A-line-12" n="12">Let me praise thy wit unmatch'd.</l>
+            <l rend="indent(1)" xml:id="swift-522B090A-line-13" n="13">Sets of Phrases cut and dry,</l>
+            <l xml:id="swift-522B090A-line-14" n="14">Evermore thy Tongue supply.</l>
+            <l xml:id="swift-522B090A-line-15" n="15">And, thy Memory is loaded</l>
+            <l xml:id="swift-522B090A-line-16" n="16">With old Scraps from plays exploded.</l>
+            <l xml:id="swift-522B090A-line-17" n="17">Stockt with Repartees and Jokes,</l>
+            <l xml:id="swift-522B090A-line-18" n="18">Suited to all Christian Fokes;</l>
+            <l xml:id="swift-522B090A-line-19" n="19">Shreds of wit and senseless Rhymes,</l>
+            <l xml:id="swift-522B090A-line-20" n="20">Blunderd out a Thousand Times,</l>
+            <l xml:id="swift-522B090A-line-21" n="21">Nor wilt thou of Gifts be sparing,</l>
+            <l xml:id="swift-522B090A-line-22" n="22">Which can ne'er be worse for wearing,</l>
+            <l xml:id="swift-522B090A-line-23" n="23">Picking Wit among Collegions,</l>
+            <l xml:id="swift-522B090A-line-24" n="24">In the play House upper Regions;</l>
+            <l xml:id="swift-522B090A-line-25" n="25">Where in Eighteen penny Gall'ry,</l>
+            <l xml:id="swift-522B090A-line-26" n="26">Irish Nymphs learn Irish Raillery</l>
+            <l xml:id="swift-522B090A-line-27" n="27">But thy merit is thy failing,</l>
+            <l xml:id="swift-522B090A-line-28" n="28">And thy Raillery is Railing.</l>
+            <l rend="indent(1)" xml:id="swift-522B090A-line-29" n="29">Thus with Talents well endu'd,</l>
+            <l xml:id="swift-522B090A-line-30" n="30">To be scurrilous and rude;</l>
+            <l xml:id="swift-522B090A-line-31" n="31">When you pertly raise your Snout,</l>
+            <l xml:id="swift-522B090A-line-32" n="32">Fleer, and gibe, and laugh, and pout.</l>
+            <l xml:id="swift-522B090A-line-33" n="33">This among Hibernian Asses,</l>
+            <l xml:id="swift-522B090A-line-34" n="34">For sheer wit and Humour passes!</l>
+            <l xml:id="swift-522B090A-line-35" n="35">Thus indulgent Chloe bit,</l>
+            <l xml:id="swift-522B090A-line-36" n="36">Swears you have a World of wit.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

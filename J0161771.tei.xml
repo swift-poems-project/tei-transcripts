@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 10JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J0161771">
+          <head type="note" n="1" xml:id="spp-J0161771-headnote-1">
+            <lg n="1" xml:id="spp-J0161771-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0161771-headnote-1-line-group-1-line-1">So, now I am got into the way of prating again, there will be no quiet for me.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J0161771-headnote-2">
+            <lg n="1" xml:id="spp-J0161771-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0161771-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J0161771-headnote-3">
+            <lg n="1" xml:id="spp-J0161771-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0161771-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J0161771-line-1" n="1">When <hi rend="italics">Presto</hi> begins to prate,</l>
+            <l xml:id="swift-J0161771-line-2" n="2">Give him a rap upon the pate.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

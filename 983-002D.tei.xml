@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 2AU99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="983-002D">
+          <head type="note" n="1" xml:id="spp-983-002D-headnote-1">
+            <lg n="1" xml:id="spp-983-002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-983-002D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-983-002D-headnote-2">
+            <lg n="1" xml:id="spp-983-002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-983-002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-983-002D-headnote-3">
+            <lg n="1" xml:id="spp-983-002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-983-002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-983-002D-line-1" n="1">A highlander once fought a Frenchman at Margate,</l>
+            <l xml:id="swift-983-002D-line-2" n="2">The Weapons a Rapier, a Backsword and Targate.</l>
+            <l xml:id="swift-983-002D-line-3" n="3">Brisk Monsieur Advanc'd as fast as he coud</l>
+            <l xml:id="swift-983-002D-line-4" n="4">But all his fine Pushes were saught in the Wood.</l>
+            <l xml:id="swift-983-002D-line-5" n="5">While Sawny with Backsword did slash him and Nick him,</l>
+            <l xml:id="swift-983-002D-line-6" n="6">While t'other enrag'd that he cou'd not once Prick him;</l>
+            <l xml:id="swift-983-002D-line-7" n="7">Cry'd, sirrah, You Rascal, You son of a Whore,</l>
+            <l xml:id="swift-983-002D-line-8" n="8">Me'll fight You begar, if You'll come from Your door.</l>
+            <l xml:id="swift-983-002D-line-9" n="9">Our Case is the same if You'll fight like a Man</l>
+            <l xml:id="swift-983-002D-line-10" n="10">Don't fly from my Weapon, and sculk behind Dan;</l>
+            <l xml:id="swift-983-002D-line-11" n="11">For he's not to be pierc'd his Leather's so tuff</l>
+            <l xml:id="swift-983-002D-line-12" n="12">The Devil himself can't get thro' his Buff.</l>
+            <l xml:id="swift-983-002D-line-13" n="13">Besides I cannot but say that it is hard</l>
+            <l xml:id="swift-983-002D-line-14" n="14">Not only to make him Your Shield, but Y<hi rend="superscript">ṛ</hi> Vizard.</l>
+            <l xml:id="swift-983-002D-line-15" n="15">And like a Tragedian You Rant and You Roar</l>
+            <l xml:id="swift-983-002D-line-16" n="16">Thro' the horrible Grin of Y<hi rend="superscript">ṛ</hi> Larva's wide bore.</l>
+            <l xml:id="swift-983-002D-line-17" n="17">Naye further which makes me Complain much and Frump it,</l>
+            <l xml:id="swift-983-002D-line-18" n="18">You make his long Nose Y<hi rend="superscript">ṛ</hi> Loud speaking Trumpet.</l>
+            <l xml:id="swift-983-002D-line-19" n="19">With the Din of which Tube my head You so bother</l>
+            <l xml:id="swift-983-002D-line-20" n="20">That I scarce can distinguish my right Ear from t'other.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

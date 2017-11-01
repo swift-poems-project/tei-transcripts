@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DR. SWIFT TO HIMSELF,<lb/>  ON<lb/>  SAINT CECILIA'S DAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 10JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="522A79L2">
+          <head type="note" n="1" xml:id="spp-522A79L2-headnote-1">
+            <lg n="1" xml:id="spp-522A79L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522A79L2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-522A79L2-headnote-2">
+            <lg n="1" xml:id="spp-522A79L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522A79L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-522A79L2-headnote-3">
+            <lg n="1" xml:id="spp-522A79L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-522A79L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-522A79L2-line-1" n="1"><hi rend="display-initial">G</hi>RAVE Dean of St. Patrick's, how comes it to pass,</l>
+            <l xml:id="swift-522A79L2-line-2" n="2">That you, who know music no more than an ass,</l>
+            <l xml:id="swift-522A79L2-line-3" n="3">That you, who so lately were writing of Drapiers,</l>
+            <l xml:id="swift-522A79L2-line-4" n="4">Should lend your cathedral to players and scrapers?</l>
+            <l xml:id="swift-522A79L2-line-5" n="5">To act such an opera once in a year,</l>
+            <l xml:id="swift-522A79L2-line-6" n="6">So offensive to every true Protestant ear,</l>
+            <l xml:id="swift-522A79L2-line-7" n="7">With trumpets, and fiddles, and organs, and singing,</l>
+            <l xml:id="swift-522A79L2-line-8" n="8">Will sure the Pretender and Popery bring in.</l>
+            <l xml:id="swift-522A79L2-line-9" n="9">No Protestant Prelate, his Lordship or Grace,</l>
+            <l xml:id="swift-522A79L2-line-10" n="10">Durst there shew his Right or Most Reverend face:</l>
+            <l xml:id="swift-522A79L2-line-11" n="11">How would it pollute their crosiers and rochets</l>
+            <l xml:id="swift-522A79L2-line-12" n="12">To listen to minims, and quavers, and crotchets!</l>
+            <l rend="center" xml:id="swift-522A79L2-line-13" n="13"><lb/>[<hi rend="italics">The rest is wanting</hi>.]</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

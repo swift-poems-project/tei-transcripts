@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>APOLLO'S EDICT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 30JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="269-14W2">
+          <head type="note" n="1" xml:id="spp-269-14W2-headnote-1">
+            <lg n="1" xml:id="spp-269-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-269-14W2-headnote-1-line-group-1-line-1">OCCASIONED BY “NEWS FROM PARNASSUS.”&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-269-14W2-headnote-2">
+            <lg n="1" xml:id="spp-269-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-269-14W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-269-14W2-headnote-3">
+            <lg n="1" xml:id="spp-269-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-269-14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-269-14W2-line-1" n="1">I<hi rend="small-caps">RELAND</hi> is now our royal care,</l>
+            <l xml:id="swift-269-14W2-line-2" n="2">We lately fix'd our viceroy there:</l>
+            <l xml:id="swift-269-14W2-line-3" n="3">How near was she to be undone,</l>
+            <l xml:id="swift-269-14W2-line-4" n="4">Till pious love inspired her son!</l>
+            <l xml:id="swift-269-14W2-line-5" n="5">What cannot our viceregent do,</l>
+            <l xml:id="swift-269-14W2-line-6" n="6">As poet and as patriot too?</l>
+            <l xml:id="swift-269-14W2-line-7" n="7">Let his success our subjects sway,</l>
+            <l xml:id="swift-269-14W2-line-8" n="8">Our inspirations to obey,</l>
+            <l xml:id="swift-269-14W2-line-9" n="9">And follow where he leads the way:</l>
+            <l xml:id="swift-269-14W2-line-10" n="10">Then study to correct your taste;</l>
+            <l xml:id="swift-269-14W2-line-11" n="11">Nor beaten paths be longer traced.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-12" n="12">No simile shall be begun,</l>
+            <l xml:id="swift-269-14W2-line-13" n="13">With rising or with setting sun;</l>
+            <l xml:id="swift-269-14W2-line-14" n="14">And let the secret head of Nile</l>
+            <l xml:id="swift-269-14W2-line-15" n="15">Be ever banish'd from your isle.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-16" n="16">When wretched lovers live on air,</l>
+            <l xml:id="swift-269-14W2-line-17" n="17">I beg you'll the chameleon spare;</l>
+            <l xml:id="swift-269-14W2-line-18" n="18">And when you'd make a hero grander,</l>
+            <l xml:id="swift-269-14W2-line-19" n="19">Forget he's like a salamander.<note place="foot">·See the Verses to Lord Cutts.</note></l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-20" n="20">No son of mine shall dare to say,</l>
+            <l xml:id="swift-269-14W2-line-21" n="21">Aurora usher'd in the day,</l>
+            <l xml:id="swift-269-14W2-line-22" n="22">Or ever name the milky-way.</l>
+            <l xml:id="swift-269-14W2-line-23" n="23">You all agree, I make no doubt,</l>
+            <l xml:id="swift-269-14W2-line-24" n="24">Elijah's mantle is worn out.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-25" n="25">The bird of Jove shall toil no more</l>
+            <l xml:id="swift-269-14W2-line-26" n="26">To teach the humble wren to soar.</l>
+            <l xml:id="swift-269-14W2-line-27" n="27">Your tragic heroes shall not rant,</l>
+            <l xml:id="swift-269-14W2-line-28" n="28">Nor shepherds use poetic cant.</l>
+            <l xml:id="swift-269-14W2-line-29" n="29">Simplicity alone can grace</l>
+            <l xml:id="swift-269-14W2-line-30" n="30">The manners of the rural race.</l>
+            <l xml:id="swift-269-14W2-line-31" n="31">Theocritus and Philips be</l>
+            <l xml:id="swift-269-14W2-line-32" n="32">Your guides to true simplicity.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-33" n="33">When Damon's soul shall take its flight,</l>
+            <l xml:id="swift-269-14W2-line-34" n="34">Though poets have the second-sight,</l>
+            <l xml:id="swift-269-14W2-line-35" n="35">They shall not see a trail of light.</l>
+            <l xml:id="swift-269-14W2-line-36" n="36">Nor shall the vapours upwards rise,</l>
+            <l xml:id="swift-269-14W2-line-37" n="37">Nor a new star adorn the skies:</l>
+            <l xml:id="swift-269-14W2-line-38" n="38">For who can hope to place one there,</l>
+            <l xml:id="swift-269-14W2-line-39" n="39">As glorious as Belinda's hair?</l>
+            <l xml:id="swift-269-14W2-line-40" n="40">Yet, if his name you'd eternize,</l>
+            <l xml:id="swift-269-14W2-line-41" n="41">And must exalt him to the skies;</l>
+            <l xml:id="swift-269-14W2-line-42" n="42">Without a star this may be done:</l>
+            <l xml:id="swift-269-14W2-line-43" n="43">So Tickell mourn'd his Addison.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-44" n="44">If Anna's happy reign you praise,</l>
+            <l xml:id="swift-269-14W2-line-45" n="45">Pray, not a word of halcyon days:</l>
+            <l xml:id="swift-269-14W2-line-46" n="46">Nor let my votaries shew their skill</l>
+            <l xml:id="swift-269-14W2-line-47" n="47">In aping lines from Cooper's Hill;</l>
+            <l xml:id="swift-269-14W2-line-48" n="48">For know I cannot bear to hear</l>
+            <l xml:id="swift-269-14W2-line-49" n="49">The mimicry of deep, yet clear.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-50" n="50">Whene'er my viceroy is address'd,</l>
+            <l xml:id="swift-269-14W2-line-51" n="51">Against the phœnix I protest.</l>
+            <l xml:id="swift-269-14W2-line-52" n="52">om.</l>
+            <l xml:id="swift-269-14W2-line-53" n="53">om.</l>
+            <l xml:id="swift-269-14W2-line-54" n="54">When poets soar in youthful strains,</l>
+            <l xml:id="swift-269-14W2-line-55" n="55">No Phaeton to hold the reins.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-56" n="56">When you describe a lovely girl,</l>
+            <l xml:id="swift-269-14W2-line-57" n="57">No lips of coral, teeth of pearl.</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-58" n="58">Cupid shall ne'er mistake another,</l>
+            <l xml:id="swift-269-14W2-line-59" n="59">However beauteous, for his mother;</l>
+            <l xml:id="swift-269-14W2-line-60" n="60">Nor shall his darts at random fly</l>
+            <l xml:id="swift-269-14W2-line-61" n="61">From magazine in Celia's eye.</l>
+            <l xml:id="swift-269-14W2-line-62" n="62">om.</l>
+            <l xml:id="swift-269-14W2-line-63" n="63">om.</l>
+            <l xml:id="swift-269-14W2-line-64" n="64">om.</l>
+            <l xml:id="swift-269-14W2-line-65" n="65">om.</l>
+            <l xml:id="swift-269-14W2-line-66" n="66">om.</l>
+            <l xml:id="swift-269-14W2-line-67" n="67">om.</l>
+            <l xml:id="swift-269-14W2-line-68" n="68">With woman compounds I am cloy'd,</l>
+            <l xml:id="swift-269-14W2-line-69" n="69">Which only pleased in Biddy Floyd.</l>
+            <l xml:id="swift-269-14W2-line-70" n="70">For foreign aid what need they roam,</l>
+            <l xml:id="swift-269-14W2-line-71" n="71">Whom fate has amply blest at home?</l>
+            <l rend="indent(1)" xml:id="swift-269-14W2-line-72" n="72">Unerring Heaven, with bounteous hand,</l>
+            <l xml:id="swift-269-14W2-line-73" n="73">Has form'd a model for your land,</l>
+            <l xml:id="swift-269-14W2-line-74" n="74">Whom Jove endued with every grace;</l>
+            <l xml:id="swift-269-14W2-line-75" n="75">The glory of the Granard race;</l>
+            <l xml:id="swift-269-14W2-line-76" n="76">Now destined by the powers divine</l>
+            <l xml:id="swift-269-14W2-line-77" n="77">The blessing of another line.</l>
+            <l xml:id="swift-269-14W2-line-78" n="78">Then, would you paint a matchless dame,</l>
+            <l xml:id="swift-269-14W2-line-79" n="79">Whom you'd consign to endless fame?</l>
+            <l xml:id="swift-269-14W2-line-80" n="80">Invoke not Cytherea's aid,</l>
+            <l xml:id="swift-269-14W2-line-81" n="81">Nor borrow from the blue-eyed maid;</l>
+            <l xml:id="swift-269-14W2-line-82" n="82">Nor need you on the Graces call;</l>
+            <l xml:id="swift-269-14W2-line-83" n="83">Take qualities from Donegal.<note place="foot">·Lady Catherine Forbes, daughter of the first Earl of Granard, and second wife of Arthur third Earl of Donegal.</note></l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

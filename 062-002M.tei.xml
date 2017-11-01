@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Discovery.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 18JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="062-002M">
+          <head type="note" n="1" xml:id="spp-062-002M-headnote-1">
+            <lg n="1" xml:id="spp-062-002M-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-002M-headnote-1-line-group-1-line-1">By Dean Swift.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-062-002M-headnote-2">
+            <lg n="1" xml:id="spp-062-002M-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-002M-headnote-2-line-group-1-line-1">Written when he was Chaplain to L<hi rend="superscript">d</hi> Berkley, L<hi rend="superscript">d</hi> L<hi rend="superscript">t</hi> of Ireland.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-062-002M-headnote-3">
+            <lg n="1" xml:id="spp-062-002M-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-002M-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-062-002M-line-1" n="1">1.<lb/>When wise Lord Berkeley first came here,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-2" n="2">We Irish Fools expected Wonders;</l>
+            <l xml:id="swift-062-002M-line-3" n="3">Nor thought to find so great a Peer,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-4" n="4">Ere a Week past, committing Blunders.</l>
+            <l rend="center" xml:id="swift-062-002M-line-5" n="5">2.<lb/>'Till on a Day, cut out by Fate,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-6" n="6">When Folks came thick to make their Court,</l>
+            <l xml:id="swift-062-002M-line-7" n="7">Out slipp'd a Mystery of State,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-8" n="8">To give the Town, and Country Sport.</l>
+            <l rend="center" xml:id="swift-062-002M-line-9" n="9">3.<lb/>Now enter <note place="foot">·My Lord's wise Secretary.</note> Bush with new State Airs,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-10" n="10">His Lordship's Premier Minister,</l>
+            <l xml:id="swift-062-002M-line-11" n="11">And who, in all profound Affairs,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-12" n="12">Is held as needful as his <note place="foot">·always taken before my Lord went to Council.</note> Glyster.</l>
+            <l rend="center" xml:id="swift-062-002M-line-13" n="13">4.<lb/>With Head reclining on his Shoulder,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-14" n="14">He deals, and hears mysterious Chat;</l>
+            <l xml:id="swift-062-002M-line-15" n="15">While ev'ry ignorant Beholder</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-16" n="16">Asks of his Neighbour; who is that?</l>
+            <l rend="center" xml:id="swift-062-002M-line-17" n="17">5.<lb/>With this he put up to my Lord,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-18" n="18">The Courtiers kept their Distance due,</l>
+            <l xml:id="swift-062-002M-line-19" n="19">He twitch'd his Slieve, and stole a Word,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-20" n="20">Then to a Corner both withdrew.</l>
+            <l rend="center" xml:id="swift-062-002M-line-21" n="21">6.<lb/>Imagine now my Lord and Bush</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-22" n="22">Whisp'ring in Junto most profound,</l>
+            <l xml:id="swift-062-002M-line-23" n="23">Like good King Phys, and good King Ush,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-24" n="24">While all the rest stood gaping round.</l>
+            <l rend="center" xml:id="swift-062-002M-line-25" n="25">7.<lb/>At length a Spark, not too well bred,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-26" n="26">Of forward Face, and Ear acute,</l>
+            <l xml:id="swift-062-002M-line-27" n="27">Advanc'd on Tiptoe, lean'd his Head</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-28" n="28">To overhear the grand Dispute;</l>
+            <l rend="center" xml:id="swift-062-002M-line-29" n="29">8.<lb/>To learn what Northern Kings design,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-30" n="30">Or from Whitehall some new Express,</l>
+            <l xml:id="swift-062-002M-line-31" n="31">Papists disarm'd, or Fall of Coin,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-32" n="32">For sure (thought he) it can't be less.</l>
+            <l rend="center" xml:id="swift-062-002M-line-33" n="33">9.<lb/>My Lord, said Bush, a Friend and I,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-34" n="34">Disguis'd in two old thread-bare Coats,</l>
+            <l xml:id="swift-062-002M-line-35" n="35">E're Morning's Dawn stole out to spy,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-36" n="36">How Markets went for Hay and Oats.</l>
+            <l rend="center" xml:id="swift-062-002M-line-37" n="37">10<lb/>With that he draws two Handfuls out,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-38" n="38">The one was Oats, the other Hay,</l>
+            <l xml:id="swift-062-002M-line-39" n="39">Puts this to's Excellency's Snout,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-40" n="40">And begs he wou'd the other weigh.</l>
+            <l rend="center" xml:id="swift-062-002M-line-41" n="41">11.<lb/>My Lord seems pleas'd, but still directs,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-42" n="42">By all means to bring down the Rates;</l>
+            <l xml:id="swift-062-002M-line-43" n="43">Then, with a Congee Circumflex,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-44" n="44">Bush, smiling round on all, retreats.</l>
+            <l rend="center" xml:id="swift-062-002M-line-45" n="45">12.<lb/>Our Listner stood a while confus'd,</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-46" n="46">But gath'ring Spirits, wisely ran for't,</l>
+            <l xml:id="swift-062-002M-line-47" n="47">Enrag'd to see the World abus'd</l>
+            <l rend="indent(1)" xml:id="swift-062-002M-line-48" n="48">By two such whisp'ring Kings of Branford.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

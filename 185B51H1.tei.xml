@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER CXVII.<lb/>  Humourous Lines by Lord Treasurer<lb/>  OXFORD, sent to Dr. SWIFT, Dr.<lb/>  ARBUTHNOTT, Mr. POPE, and<lb/>  Mr. GAY.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 14JA11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="185B51H1">
+          <head type="note" n="1" xml:id="spp-185B51H1-headnote-1">
+            <lg n="1" xml:id="spp-185B51H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185B51H1-headnote-1-line-group-1-line-1">April 14, 1714. Back Stairs, past Eight.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-185B51H1-headnote-2">
+            <lg n="1" xml:id="spp-185B51H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185B51H1-headnote-2-line-group-1-line-1">Gay</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-185B51H1-headnote-3">
+            <lg n="1" xml:id="spp-185B51H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-185B51H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-185B51H1-line-1" n="1"><hi rend="display-initial">I</hi>N a summons so <hi rend="italics">large</hi>, which all clergy contains,</l>
+            <l xml:id="swift-185B51H1-line-2" n="2">I must turn <hi rend="italics">Dismal</hi>'s <note place="foot">·<hi rend="italics">Dismal</hi> was lord <hi rend="italics">Nottingham</hi>.</note> convert, or part with my brains,</l>
+            <l xml:id="swift-185B51H1-line-3" n="3">Should I scruple to quit the back stairs for your blind ones,</l>
+            <l xml:id="swift-185B51H1-line-4" n="4">Or refuse your true juncto <note place="foot">·Dr. <hi rend="italics">Swift</hi>, Dr. <hi rend="italics">Arbuthnott</hi>, Mr. <hi rend="italics">Pope</hi>, and Mr. <hi rend="italics">Gay</hi>, were writing the history of <hi rend="italics">Martinus Scribblerus</hi>; and these four wits, in conjunction, are stiled by lord treasurer a juncto.</note> for one of ──</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

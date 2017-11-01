@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stella\<hi rend="italics">del</hi>·s·<hi rend="italics">add</hi>·'\s Distress<lb/>  on the 3<hi rend="superscript">d</hi> fatal day of Octob<hi rend="superscript">r</hi> 1723</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 27AU97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW 22OC08 agt WILH; ed. JW 22MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="744-268R">
+          <head type="note" n="1" xml:id="spp-744-268R-headnote-1">
+            <lg n="1" xml:id="spp-744-268R-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-744-268R-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-744-268R-headnote-2">
+            <lg n="1" xml:id="spp-744-268R-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-744-268R-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-744-268R-headnote-3">
+            <lg n="1" xml:id="spp-744-268R-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-744-268R-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-744-268R-line-1" n="1">The Winter now begins to frown;</l>
+            <l xml:id="swift-744-268R-line-2" n="2">Poor Stella must pack off to Town.</l>
+            <l xml:id="swift-744-268R-line-3" n="3">From purling Streams &amp; Fountains bubbling</l>
+            <l xml:id="swift-744-268R-line-4" n="4">To Liffy's filthy side in Dublin;</l>
+            <l xml:id="swift-744-268R-line-5" n="5">From wholesom Exercise and Air</l>
+            <l xml:id="swift-744-268R-line-6" n="6">To sossing in an elbow chair:</l>
+            <l xml:id="swift-744-268R-line-7" n="7">From stomach sharp, and hearty feeding</l>
+            <l xml:id="swift-744-268R-line-8" n="8">To piddle like a Lady breeding.</l>
+            <l xml:id="swift-744-268R-line-9" n="9">From ruling there the Household singly</l>
+            <l xml:id="swift-744-268R-line-10" n="10">To be directed here by Dingley.</l>
+            <l xml:id="swift-744-268R-line-11" n="11">From ev'ry day a Lordly Banquet</l>
+            <l xml:id="swift-744-268R-line-12" n="12">To half a Ioynt, &amp; God be thanked:</l>
+            <l xml:id="swift-744-268R-line-13" n="13">From every Meal Ponta\c<hi rend="italics">·overwriting</hi>·n\k in plenty</l>
+            <l xml:id="swift-744-268R-line-14" n="14">To a sour Pint one day in twenty.</l>
+            <l xml:id="swift-744-268R-line-15" n="15">From growing richer with good Cheer,</l>
+            <l xml:id="swift-744-268R-line-16" n="16">And yet run out by starving here:</l>
+            <l xml:id="swift-744-268R-line-17" n="17">From Ford who thinks of nothing mean</l>
+            <l xml:id="swift-744-268R-line-18" n="18">To the poor Doings of the Dean:</l>
+            <l xml:id="swift-744-268R-line-19" n="19">From Ford attending at her Call</l>
+            <l xml:id="swift-744-268R-line-20" n="20">To Visits of Archdeacon Wall.</l>
+            <l xml:id="swift-744-268R-line-21" n="21">Say, Stella, which you most repent</l>
+            <l xml:id="swift-744-268R-line-22" n="22">You e're return'd, or ever went?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

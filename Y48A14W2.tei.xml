@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN ANSWER TO A FRIEND'S QUESTION.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 19SE05"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y48A14W2">
+          <head type="note" n="1" xml:id="spp-Y48A14W2-headnote-1">
+            <lg n="1" xml:id="spp-Y48A14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A14W2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y48A14W2-headnote-2">
+            <lg n="1" xml:id="spp-Y48A14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A14W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y48A14W2-headnote-3">
+            <lg n="1" xml:id="spp-Y48A14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y48A14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y48A14W2-line-1" n="1">T<hi rend="small-caps">HE</hi> furniture that best doth please</l>
+            <l xml:id="swift-Y48A14W2-line-2" n="2">St Patrick's Dean, good Sir, are these:</l>
+            <l xml:id="swift-Y48A14W2-line-3" n="3">The knife and fork with which I eat;</l>
+            <l xml:id="swift-Y48A14W2-line-4" n="4">And next the pot that boils the meat;</l>
+            <l xml:id="swift-Y48A14W2-line-5" n="5">The next to be preferr'd, I think,</l>
+            <l xml:id="swift-Y48A14W2-line-6" n="6">Is the glass in which I drink;</l>
+            <l xml:id="swift-Y48A14W2-line-7" n="7">The shelves on which my books I keep,</l>
+            <l xml:id="swift-Y48A14W2-line-8" n="8">And the bed on which I sleep;</l>
+            <l xml:id="swift-Y48A14W2-line-9" n="9">An antique elbow-chair between,</l>
+            <l xml:id="swift-Y48A14W2-line-10" n="10">Big enough to hold the Dean;</l>
+            <l xml:id="swift-Y48A14W2-line-11" n="11">And the stove that gives delight</l>
+            <l xml:id="swift-Y48A14W2-line-12" n="12">In the cold bleak wintry night:</l>
+            <l xml:id="swift-Y48A14W2-line-13" n="13">To these we add a thing below,</l>
+            <l xml:id="swift-Y48A14W2-line-14" n="14">More for use reserved than show:</l>
+            <l xml:id="swift-Y48A14W2-line-15" n="15">These are what the Dean do please;</l>
+            <l xml:id="swift-Y48A14W2-line-16" n="16">All superfluous are but these.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

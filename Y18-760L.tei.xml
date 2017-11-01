@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On Wisdom's Defeat<lb/>  In a learned debate.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 7JL98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y18-760L">
+          <head type="note" n="1" xml:id="spp-Y18-760L-headnote-1">
+            <lg n="1" xml:id="spp-Y18-760L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y18-760L-headnote-1-line-group-1-line-1">Quid est Sapientia? Semper idem velle, atque idem nolle.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y18-760L-headnote-2">
+            <lg n="1" xml:id="spp-Y18-760L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y18-760L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y18-760L-headnote-3">
+            <lg n="1" xml:id="spp-Y18-760L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y18-760L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y18-760L-line-1" n="1"><hi rend="large-writing">Minerva</hi> has vowed, since the <hi rend="large-writing">Bishops</hi> do slight her,</l>
+            <l xml:id="swift-Y18-760L-line-2" n="2">Should the <hi rend="large-writing">Reverend Peers</hi> by chance e'er invite her,</l>
+            <l xml:id="swift-Y18-760L-line-3" n="3">She's resolved never more to be known by the <hi rend="large-writing">Mitre</hi>.</l>
+            <l xml:id="swift-Y18-760L-line-4" n="4"><lb/>The <hi rend="large-writing">Temporal Lords</hi> who voted against her,</l>
+            <l xml:id="swift-Y18-760L-line-5" n="5">She frankly forgives, as not having incens'd her,</l>
+            <l xml:id="swift-Y18-760L-line-6" n="6">For securing their <hi rend="large-writing">Pensions</hi> is the best proof of their Sense, Sir.</l>
+            <l xml:id="swift-Y18-760L-line-7" n="7"><lb/>At first putting the Question their Lordships were for't</l>
+            <l xml:id="swift-Y18-760L-line-8" n="8">And his Grace's wise motion did bravely Support</l>
+            <l xml:id="swift-Y18-760L-line-9" n="9">Till positive orders were whispered from Court.</l>
+            <l xml:id="swift-Y18-760L-line-10" n="10"><lb/>So this they alledge in their Justification,</l>
+            <l xml:id="swift-Y18-760L-line-11" n="11">They vote for their bread in undoing the Nation</l>
+            <l xml:id="swift-Y18-760L-line-12" n="12">And the first Law of nature is self Preservation.</l>
+            <l xml:id="swift-Y18-760L-line-13" n="13">«LD»<hi rend="large-writing">Rose Common</hi></l>
+            <l xml:id="swift-Y18-760L-line-14" n="14"><space>Shameless Woman</space>/hi&gt;.</l>
+            <l xml:id="swift-Y18-760L-line-15" n="15">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

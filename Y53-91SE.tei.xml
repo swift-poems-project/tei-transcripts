@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A TRIO,<lb/>  Between Three</hi> M<hi rend="small-caps">ONOSYLLABLES</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 13AP11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y53-91SE">
+          <head type="note" n="1" xml:id="spp-Y53-91SE-headnote-1">
+            <lg n="1" xml:id="spp-Y53-91SE-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y53-91SE-headnote-1-line-group-1-line-1"><hi rend="italics">The following is supposed to be a genuine Relick of the</hi> D<hi rend="small-caps">EAN</hi> <hi rend="italics">of </hi>S<hi rend="small-caps">T. </hi>P<hi rend="small-caps">ATRICK</hi>'s, <hi rend="italics">of facetious memory; and as it has never yet been published, may justly claim a Corner in our</hi> Chronicle.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y53-91SE-headnote-2">
+            <lg n="1" xml:id="spp-Y53-91SE-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y53-91SE-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y53-91SE-headnote-3">
+            <lg n="1" xml:id="spp-Y53-91SE-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y53-91SE-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-1" n="1"><hi rend="display-initial">S</hi>AYS HILL to HULL,</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-2" n="2">So thick a scull</l>
+            <l xml:id="swift-Y53-91SE-line-3" n="3">Can leave no room for brains:</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-4" n="4">Quoth HULL to HILL,</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-5" n="5">Say what you will,</l>
+            <l xml:id="swift-Y53-91SE-line-6" n="6">Mine more than thine contains.</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-7" n="7"><lb/>Thy paper pate</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-8" n="8">Has little weight,</l>
+            <l xml:id="swift-Y53-91SE-line-9" n="9">So peace, thou dirty vermin!</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-10" n="10">Brains are a jest──</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-11" n="11">Whose head is best</l>
+            <l xml:id="swift-Y53-91SE-line-12" n="12">Our <hi rend="italics">Practice</hi> must determine.</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-13" n="13"><lb/>No, no, cries HELL,</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-14" n="14">I know you well;</l>
+            <l xml:id="swift-Y53-91SE-line-15" n="15">You're equal on my oath!</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-16" n="16">So e'en agree</l>
+            <l rend="indent(1)" xml:id="swift-Y53-91SE-line-17" n="17">To go with me,</l>
+            <l xml:id="swift-Y53-91SE-line-18" n="18">And I'll reward you both.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

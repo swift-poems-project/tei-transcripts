@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LETTER V.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 7JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X13-0852">
+          <head type="note" n="1" xml:id="spp-X13-0852-headnote-1">
+            <lg n="1" xml:id="spp-X13-0852-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X13-0852-headnote-1-line-group-1-line-1">From Dr. S<hi rend="small-caps">WIFT</hi> to Dr. S<hi rend="small-caps">HERIDAN</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X13-0852-headnote-2">
+            <lg n="1" xml:id="spp-X13-0852-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X13-0852-headnote-2-line-group-1-line-1"><hi rend="italics">Dec</hi>. 14, 1729, 9 at Night.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X13-0852-headnote-3">
+            <lg n="1" xml:id="spp-X13-0852-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X13-0852-headnote-3-line-group-1-line-1">S<hi rend="small-caps">IR</hi>,</l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-X13-0852-line-1" n="1"><hi rend="display-initial">I</hi>T is impossible to know by your Letter, whether the Wine is to be bottled To-morrow, or no.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-2" n="2">If it be, or be not, why did not you in plain <hi rend="italics">English</hi> tell us so?</l><l rend="indent(1)" xml:id="swift-X13-0852-line-3" n="3">For my part it was by meer Chance I came to sit with the Ladies this Night.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-4" n="4">And if they had not told me there was a Letter from you, and your Man <hi rend="italics">Alexander</hi> had not gone, and come back from the Deanry, and the Boy here had not been sent to let <hi rend="italics">Alexander</hi> know I was here, I should have missed the Letter outright.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-5" n="5">Truly, I don't know who's bound to be sending for Corks to stop your Bottles, with a Vengeance.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-6" n="6">Make a Page of your own Age, and send your Man <hi rend="italics">Alexander</hi> to buy Corks, for <hi rend="italics">Saunders</hi> already hath got above ten Jaunts.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-7" n="7">Mrs. <hi rend="italics">Dingley</hi> and Mrs. <hi rend="italics">Johnson</hi> say, truly they don't care for your Wife's Company, tho' they like your Wine; but they had rather have it at their own House to drink in quiet.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-8" n="8">However, they own it is very civil in Mr. <hi rend="italics">Sheridan</hi> to make the Offer; and they cannot deny it.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-9" n="9">I wish <hi rend="italics">Alexander</hi> safe at <hi rend="italics">St. Catherine</hi>'s to Night, with all my Heart and Soul, upon my Word and Honour.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-10" n="10">But I think it base in you to send a poor Fellow out so late at this time of Year, when one would not turn out a Dog that one valued; I appeal to your Friend Mr. <hi rend="italics">Conna</hi>.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-11" n="11">I would present my humble Service to my Lady <hi rend="italics">Mountcashell</hi>; but truly I thought she would have made Advances to have been acquainted with me, as she pretended.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-12" n="12">But now I can write no more, for you see plainly my Paper is ended.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-13" n="13"><lb/>P.S. <hi rend="italics">I wish when you prated,</hi></l><l rend="indent(2)" xml:id="swift-X13-0852-line-14" n="14">|Your Letter you'd dated,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-15" n="15">|Much plague it created,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-16" n="16">|I scolded and rated;</l><l rend="indent(2)" xml:id="swift-X13-0852-line-17" n="17">|My Soul is much grated,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-18" n="18">|For your Man I long waited;</l><l rend="indent(2)" xml:id="swift-X13-0852-line-19" n="19">|I think you are fated,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-20" n="20">|Like a Bear to be baited:</l><l rend="indent(2)" xml:id="swift-X13-0852-line-21" n="21">|Your Man is belated,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-22" n="22">|The Case I have stated,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-23" n="23">|And me you have cheated.</l><l rend="indent(2)" xml:id="swift-X13-0852-line-24" n="24">|My Stable's unslated,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-25" n="25">|Come back t'us well fraighted;</l><l rend="indent(2)" xml:id="swift-X13-0852-line-26" n="26">|I remember my late-head,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-27" n="27">|And wish you Translated,</l><l xml:id="swift-X13-0852-line-28" n="28"><space>For teazing me</space>/hi&gt;.</l><l rend="indent(1)" xml:id="swift-X13-0852-line-29" n="29"><lb/>2. P.S. <hi rend="italics">Mrs. </hi>Dingley<hi rend="italics">,</hi></l><l rend="indent(2)" xml:id="swift-X13-0852-line-30" n="30">|Desires me singly,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-31" n="31">|Her Service to present you,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-32" n="32">|Hopes that will content you;</l><l xml:id="swift-X13-0852-line-33" n="33">|Hopes that will content you;|But </l>Johnson<hi rend="italics"> Madam</hi><l rend="indent(2)" xml:id="swift-X13-0852-line-34" n="34">|Is grown a Sad Dame,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-35" n="35">|For want of your Converse,</l><l xml:id="swift-X13-0852-line-36" n="36">|For want of your Converse,|And cannot send one Verse</l>.<l rend="indent(1)" xml:id="swift-X13-0852-line-37" n="37"><lb/>3. P.S. <hi rend="italics">You keep such a twattling<space/>[V<hi rend="small-caps">IDA</hi>,</hi>hi rend="italics"&gt;</l><l xml:id="swift-X13-0852-line-38" n="38">hi rend="italics"&gt;|With you and your bottling,<space/>[Rule 34</l>hi rend="italics"&gt;<l rend="indent(2)" xml:id="swift-X13-0852-line-39" n="39">|But I see the Sum Total,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-40" n="40">|We shall ne'er have one Bottle;</l><l rend="indent(2)" xml:id="swift-X13-0852-line-41" n="41">|The long and the short,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-42" n="42">|We shall not have a Quart.</l><l rend="indent(2)" xml:id="swift-X13-0852-line-43" n="43">|I wish you would sign't,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-44" n="44">|That we may have a Pint.</l><l rend="indent(2)" xml:id="swift-X13-0852-line-45" n="45">|For all your colloguing,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-46" n="46">|I'd be glad of a Knogging:</l><l rend="indent(2)" xml:id="swift-X13-0852-line-47" n="47">|But I doubt 'tis a Sham,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-48" n="48">|You won't give us a Dram.</l><l rend="indent(2)" xml:id="swift-X13-0852-line-49" n="49">|'Tis of Shine, a Mouth Moon-full,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-50" n="50">|You won't part with a Spoon-full,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-51" n="51">|And I must be nimble,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-52" n="52">|If I can fill my Thimble.</l><l rend="indent(2)" xml:id="swift-X13-0852-line-53" n="53">|You see I won't stop,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-54" n="54">|Till I come to a Drop;</l><l rend="indent(2)" xml:id="swift-X13-0852-line-55" n="55">|But I doubt the Oraculum,</l><l rend="indent(2)" xml:id="swift-X13-0852-line-56" n="56">|Is a poor Supernaculum;</l><l rend="indent(2)" xml:id="swift-X13-0852-line-57" n="57">|Tho' perhaps you may tell it</l><l xml:id="swift-X13-0852-line-58" n="58">|Tho' perhaps you may tell it|For a Grace, if we smell it</l>.<l xml:id="swift-X13-0852-line-59" n="59"><space>S<hi rend="small-caps">TELLA</hi>/hi&gt;.</space></l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

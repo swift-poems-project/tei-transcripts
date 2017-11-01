@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-393-283L-title-1">Verses written 30 Years agoe<ref target="#spp-393-283L-footnote-title-1">1</ref><note n="1" xml:id="spp-393-283L-footnote-title-1" place="foot">By James Moore Smith Esq;. as I have since discovered</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-393-283L-footnote-title-1 #spp-393-283L-title-1"/>
+        </linkGrp>
+        <div n="393-283L">
+          <head type="note" n="1" xml:id="spp-393-283L-headnote-1">
+            <lg n="1" xml:id="spp-393-283L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-283L-headnote-1-line-group-1-line-1">\f.56r; transcribed line for line\&#13;But that this Cover might not be altogetherFilled with my own slight productions I haveinserted a little piece that must have beenwritten at least 30 Years ago; &amp; which has<hi rend="underlined">spirit</hi>, if not <hi rend="underlined">truth</hi>.──── It was found theother day in a drawer in my Lord Sussex'sLibrary, which had never been opened since\f.56v\ the death of his Father\<hi rend="italics">add</hi>·.·<hi rend="italics">del</hi>·which happened·<hi rend="italics">something·del</hi>·<hi rend="italics">?</hi>ago, as I have·<hi rend="italics">something del</hi>\.──── If it had fallen into the hands of some ill-natured persons, who would have altered the names in the last line to \<hi rend="italics">del</hi>·(<hi rend="underlined">Gray</hi>) and (<hi rend="underlined">Mason</hi>) and·<hi rend="italics">½ line scrawled out</hi>\·it·\<hi rend="italics">½ line scrawled out</hi>\ two the two odes on obscuri-ty and oblivion\:──The publick, \<hi rend="italics">1½ lines scrawled out</hi>\would possibly have swall'owed the piece downglibly, as a new production\<hi rend="italics">add</hi>·.·<hi rend="italics">del</hi> and possibly \<hi rend="italics">del</hi>·would·<hi rend="italics">add</hi>·might\not have thought the Satire too much over-charged·\<hi rend="italics">½ line scrawled out</hi>\·might havecontributed to·\<hi rend="italics">½ line scrawled out</hi>\ of the one of·\<hi rend="italics">½ line scrawled out</hi>\·, if the other·\<hi rend="italics">word deleted</hi>\·\<hi rend="italics">?</hi>be <hi rend="italics">?</hi>thought·<hi rend="italics">1½ lines scrawled out</hi>\ of beingraised].</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-393-283L-headnote-2">
+            <lg n="1" xml:id="spp-393-283L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-283L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-393-283L-headnote-3">
+            <lg n="1" xml:id="spp-393-283L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-283L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-393-283L-line-1" n="1">Behold the monarch Oaks, that rise</l>
+            <l xml:id="swift-393-283L-line-2" n="2">With lofty branches to the skies</l>
+            <l xml:id="swift-393-283L-line-3" n="3">Have huge proportion'd roots, which grow</l>
+            <l xml:id="swift-393-283L-line-4" n="4">With equal longitude below</l>
+            <l xml:id="swift-393-283L-line-5" n="5">om.</l>
+            <l xml:id="swift-393-283L-line-6" n="6">om.</l>
+            <l xml:id="swift-393-283L-line-7" n="7">Two bards, who now in fashion reign</l>
+            <l xml:id="swift-393-283L-line-8" n="8">Most aptly this device explain</l>
+            <l xml:id="swift-393-283L-line-9" n="9">If this with Clouds &amp; \<hi rend="italics">add</hi>·stars\ will venture</l>
+            <l xml:id="swift-393-283L-line-10" n="10">That creeps, as far beneath the Center.</l>
+            <l xml:id="swift-393-283L-line-11" n="11">More to explain the thing I mean</l>
+            <l xml:id="swift-393-283L-line-12" n="12">Have you not in a <hi rend="underlined">saw-pit</hi> seen</l>
+            <l xml:id="swift-393-283L-line-13" n="13">A skill'd Mechanic, who has stood</l>
+            <l xml:id="swift-393-283L-line-14" n="14">On a Faln pyramid of wood</l>
+            <l xml:id="swift-393-283L-line-15" n="15">And hir'd a subterrane\ous·<hi rend="italics">deleted</hi>\an friend</l>
+            <l xml:id="swift-393-283L-line-16" n="16">To take his Iron by the end</l>
+            <l xml:id="swift-393-283L-line-17" n="17">But which excelled was never found</l>
+            <l xml:id="swift-393-283L-line-18" n="18">The Man above or under ground.</l>
+            <l rend="indent(1)" xml:id="swift-393-283L-line-19" n="19">\f.57v\The Moral is so pat and Fit</l>
+            <l xml:id="swift-393-283L-line-20" n="20">That were I but the God of wit</l>
+            <l xml:id="swift-393-283L-line-21" n="21">Then in a <hi rend="underlined">saw-pit</hi> in wet weather</l>
+            <l xml:id="swift-393-283L-line-22" n="22">Should <hi rend="underlined">Young</hi> &amp; <hi rend="underlined">Phillips</hi> work together.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

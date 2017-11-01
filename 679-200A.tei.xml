@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>From Catullus</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 26AU00"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="679-200A">
+          <head type="note" n="1" xml:id="spp-679-200A-headnote-1">
+            <lg n="1" xml:id="spp-679-200A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-679-200A-headnote-1-line-group-1-line-1">Lesbia mi dicet semper malè &amp;c&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-679-200A-headnote-2">
+            <lg n="1" xml:id="spp-679-200A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-679-200A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-679-200A-headnote-3">
+            <lg n="1" xml:id="spp-679-200A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-679-200A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-679-200A-line-1" n="1">om.</l>
+            <l xml:id="swift-679-200A-line-2" n="2">om.</l>
+            <l xml:id="swift-679-200A-line-3" n="3">om.</l>
+            <l xml:id="swift-679-200A-line-4" n="4">om.</l>
+            <l rend="indent(1)" xml:id="swift-679-200A-line-5" n="5">Lesbia for ever on me rails;</l>
+            <l xml:id="swift-679-200A-line-6" n="6">To talk on me she never fails:</l>
+            <l xml:id="swift-679-200A-line-7" n="7">Yet, hang me, but for all her Art,</l>
+            <l xml:id="swift-679-200A-line-8" n="8">I find that I have gain'd her Heart.</l>
+            <l xml:id="swift-679-200A-line-9" n="9">\My proof is·<hi rend="italics">overwriting</hi>·I·prove·it\ thus: I plainly see</l>
+            <l xml:id="swift-679-200A-line-10" n="10">The Case is just the same with me:</l>
+            <l xml:id="swift-679-200A-line-11" n="11">I curse her ev'ry hour sincerely;</l>
+            <l xml:id="swift-679-200A-line-12" n="12">Yet, hang me, but I love her dearly.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

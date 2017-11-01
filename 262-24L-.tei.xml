@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ANOTHER</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 1SE96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="262-24L-">
+          <head type="note" n="1" xml:id="spp-262-24L--headnote-1">
+            <lg n="1" xml:id="spp-262-24L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-262-24L--headnote-1-line-group-1-line-1">By the S<hi rend="small-caps">AME</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-262-24L--headnote-2">
+            <lg n="1" xml:id="spp-262-24L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-262-24L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-262-24L--headnote-3">
+            <lg n="1" xml:id="spp-262-24L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-262-24L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-262-24L--line-1" n="1"><hi rend="display-initial">A</hi> Bard, on whom <hi rend="italics">Phœbus</hi> his Spirit bestow'd,</l>
+            <l xml:id="swift-262-24L--line-2" n="2">Resolv'd to acknowledge the Bounty he ow'd;</l>
+            <l xml:id="swift-262-24L--line-3" n="3">Found out a new Method at once of confessing,</l>
+            <l xml:id="swift-262-24L--line-4" n="4">And making the most of so mighty a Blessing:</l>
+            <l xml:id="swift-262-24L--line-5" n="5">To the God he'd be grateful, but Mortals he'd chouse.</l>
+            <l xml:id="swift-262-24L--line-6" n="6">By making his Patron preside in his House;</l>
+            <l xml:id="swift-262-24L--line-7" n="7">And wisely foresaw this Advantage from thence,</l>
+            <l xml:id="swift-262-24L--line-8" n="8">That the God must in Honour bear most of th' Expence:</l>
+            <l xml:id="swift-262-24L--line-9" n="9">So the Bard he finds Drink, and leaves <hi rend="italics">Phœbus</hi> to treat</l>
+            <l xml:id="swift-262-24L--line-10" n="10">With the Thoughts he inspires, regardless of Meat:</l>
+            <l xml:id="swift-262-24L--line-11" n="11">Hence they that come hither, expecting to dine,</l>
+            <l xml:id="swift-262-24L--line-12" n="12">Are always fob'd off, with Sheer-Wit, and Sheer-Wine.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

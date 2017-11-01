@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 13AP11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y51B88JC">
+          <head type="note" n="1" xml:id="spp-Y51B88JC-headnote-1">
+            <lg n="1" xml:id="spp-Y51B88JC-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y51B88JC-headnote-1-line-group-1-line-1">The Dean, shaking his head, said, “Let us see whether a man who is neither a fool nor a parasite cannot write four lines that will sound as well as those;” and taking Doctor Sheridan's pencil wrote the following:&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y51B88JC-headnote-2">
+            <lg n="1" xml:id="spp-Y51B88JC-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y51B88JC-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y51B88JC-headnote-3">
+            <lg n="1" xml:id="spp-Y51B88JC-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y51B88JC-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y51B88JC-line-1" n="1">Hold friend C<hi rend="small-caps">ONCANNON</hi>, by your leave,</l>
+            <l xml:id="swift-Y51B88JC-line-2" n="2">Your paraphrase is rather civil;</l>
+            <l xml:id="swift-Y51B88JC-line-3" n="3">B<hi rend="small-caps">OURBON</hi> and M<hi rend="small-caps">AT</hi> were sons of E<hi rend="small-caps">VE</hi>,</l>
+            <l xml:id="swift-Y51B88JC-line-4" n="4">N<hi rend="small-caps">ASSAU</hi> the offspring of a D<hi rend="small-caps">EVIL</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

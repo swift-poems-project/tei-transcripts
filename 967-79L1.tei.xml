@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-967-79L1-title-1">A LEFT-HANDED LETTER<lb/>  TO DR. SHERIDAN<ref target="#spp-967-79L1-footnote-title-1">1</ref><note n="1" xml:id="spp-967-79L1-footnote-title-1" place="foot">The humour of this poem is partly lost, by the impossibility of printing it left-handed as it was written</note>. 1718.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 21JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-967-79L1-footnote-title-1 #spp-967-79L1-title-1"/>
+        </linkGrp>
+        <div n="967-79L1">
+          <head type="note" n="1" xml:id="spp-967-79L1-headnote-1">
+            <lg n="1" xml:id="spp-967-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-967-79L1-headnote-1-line-group-1-line-1">S<hi rend="small-caps">IR</hi>,</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-967-79L1-headnote-2">
+            <lg n="1" xml:id="spp-967-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-967-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-967-79L1-headnote-3">
+            <lg n="1" xml:id="spp-967-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-967-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-967-79L1-line-1" n="1"><hi rend="display-initial">D</hi>ELANY reports it, and he has a shrewd tongue,</l>
+            <l xml:id="swift-967-79L1-line-2" n="2">That we both act the part of the clown and cow-dung;</l>
+            <l xml:id="swift-967-79L1-line-3" n="3">We lye cramming ourselves, and are ready to burst,</l>
+            <l xml:id="swift-967-79L1-line-4" n="4">Yet still are no wiser than we were at first.</l>
+            <l xml:id="swift-967-79L1-line-5" n="5"><hi rend="italics">Pudet hæc opprobria</hi>, I freely must tell ye,</l>
+            <l xml:id="swift-967-79L1-line-6" n="6"><hi rend="italics">Et dici potuisse, et non potuisse refelli</hi>.</l>
+            <l xml:id="swift-967-79L1-line-7" n="7">Though Delany advis'd you to plague me no longer,</l>
+            <l xml:id="swift-967-79L1-line-8" n="8">You reply and rejoin like Hoadly of Bangor.</l>
+            <l xml:id="swift-967-79L1-line-9" n="9">I must now, at one sitting, pay off my old score;</l>
+            <l xml:id="swift-967-79L1-line-10" n="10">How many to answer? One, two, three, four.</l>
+            <l xml:id="swift-967-79L1-line-11" n="11">But, because the three former are long ago past,</l>
+            <l xml:id="swift-967-79L1-line-12" n="12">I shall, for method sake, begin with the last.</l>
+            <l xml:id="swift-967-79L1-line-13" n="13">You treat me like a boy that knocks down his foe,</l>
+            <l xml:id="swift-967-79L1-line-14" n="14">Who, ere t'other gets up, demands the rising blow.</l>
+            <l xml:id="swift-967-79L1-line-15" n="15">Yet I know a young rogue, that, thrown flat on the field,</l>
+            <l xml:id="swift-967-79L1-line-16" n="16">Would, as he lay under, cry out, Sirrah! yield.</l>
+            <l xml:id="swift-967-79L1-line-17" n="17">So the French, when our Generals soundly did pay them:</l>
+            <l xml:id="swift-967-79L1-line-18" n="18">Went triumphant to church, and sang stoutly <hi rend="italics">Te Deum</hi>.</l>
+            <l xml:id="swift-967-79L1-line-19" n="19">So the famous Tom Leigh, when quite run aground,</l>
+            <l xml:id="swift-967-79L1-line-20" n="20">Comes off by out-laughing the company round.</l>
+            <l xml:id="swift-967-79L1-line-21" n="21">In every vile pamphlet you·'ll read the same fancies,</l>
+            <l xml:id="swift-967-79L1-line-22" n="22">Having thus overthrown all our further advances.</l>
+            <l xml:id="swift-967-79L1-line-23" n="23">My offers of peace you ill understood:</l>
+            <l xml:id="swift-967-79L1-line-24" n="24">Friend Sheridan, when will you know your own good?</l>
+            <l xml:id="swift-967-79L1-line-25" n="25">'Twas to teach you in modester language your duty;</l>
+            <l xml:id="swift-967-79L1-line-26" n="26">For, were you a dog, I could not be rude t'ye:</l>
+            <l xml:id="swift-967-79L1-line-27" n="27">As a good quiet soul, who no mischief intends</l>
+            <l xml:id="swift-967-79L1-line-28" n="28">To a quarrelsome fellow, cries, Let us be friends.</l>
+            <l xml:id="swift-967-79L1-line-29" n="29">But we like Antæus and Hercules fight,</l>
+            <l xml:id="swift-967-79L1-line-30" n="30">The oftener you fall, the oftener you write;</l>
+            <l xml:id="swift-967-79L1-line-31" n="31">And I·'ll use you as he did that overgrown clown,</l>
+            <l xml:id="swift-967-79L1-line-32" n="32">I·'ll first take you up, and then take you down:</l>
+            <l xml:id="swift-967-79L1-line-33" n="33">And, 'tis your own case, for you never can wound</l>
+            <l xml:id="swift-967-79L1-line-34" n="34">The worst dunce in your school, till he·'s heav'd from the ground.</l>
+            <l xml:id="swift-967-79L1-line-35" n="35">om.</l>
+            <l rend="indent(1)" xml:id="swift-967-79L1-line-36" n="36"><lb/>I beg your pardon for using my left-hand, but I was in great haste, and the other hand was employed at the same time in writing some letters of business.──</l>
+            <l xml:id="swift-967-79L1-line-37" n="37">om.</l>
+            <l xml:id="swift-967-79L1-line-38" n="38">I will send you the rest when I have leisure: but pray come to dinner with the company you met here last.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

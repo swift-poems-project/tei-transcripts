@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/> AGAINST<lb/>  CARTHY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="671AWILH">
+          <head type="note" n="1" xml:id="spp-671AWILH-headnote-1">
+            <lg n="1" xml:id="spp-671AWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-671AWILH-headnote-1-line-group-1-line-1"><hi rend="italics">By</hi> S<hi rend="small-caps">WIFT</hi> <hi rend="italics">and Others</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-671AWILH-headnote-2">
+            <lg n="1" xml:id="spp-671AWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-671AWILH-headnote-2-line-group-1-line-1"><hi rend="italics">Upon </hi>Dalacourt<hi rend="italics">'s giving out in Speeches, that </hi>Carthy<hi rend="italics"> had laid in an Hogshead of Wine to recruit his Spirits</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-671AWILH-headnote-3">
+            <lg n="1" xml:id="spp-671AWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-671AWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-671AWILH-line-1" n="1"><hi rend="display-initial">D</hi>Are you, vile Murderer of <hi rend="italics">Flaccus</hi>,</l>
+            <l xml:id="swift-671AWILH-line-2" n="2">Presume to borrow Wit from <hi rend="italics">Bacchus?</hi></l>
+            <l xml:id="swift-671AWILH-line-3" n="3">How soon thy vain Pretension drops;</l>
+            <l xml:id="swift-671AWILH-line-4" n="4"><hi rend="italics">Parnassus</hi>' Hill has but two Tops,</l>
+            <l xml:id="swift-671AWILH-line-5" n="5"><hi rend="italics">Phœbus</hi> forbids thee one, his Brother</l>
+            <l xml:id="swift-671AWILH-line-6" n="6">Will ne'er admit thee on the other.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

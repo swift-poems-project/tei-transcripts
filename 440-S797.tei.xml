@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>AN<lb/>  ANSWER to the <hi rend="italics">Ballyspellin</hi> BALLAD.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 12MR05"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="440-S797">
+          <head type="note" n="1" xml:id="spp-440-S797-headnote-1">
+            <lg n="1" xml:id="spp-440-S797-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-440-S797-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-440-S797-headnote-2">
+            <lg n="1" xml:id="spp-440-S797-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-440-S797-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-440-S797-headnote-3">
+            <lg n="1" xml:id="spp-440-S797-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-440-S797-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-1" n="1">I.<lb/><hi rend="display-initial">D</hi>ARE you dispute,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-2" n="2">You sawcy Brute,</l>
+            <l xml:id="swift-440-S797-line-3" n="3">And think there's no rebelling,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-4" n="4">Your scurvy Lays,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-5" n="5">And senseless Praise</l>
+            <l xml:id="swift-440-S797-line-6" n="6">You give to <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-7" n="7">II.<lb/>How e'er you bounce,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-8" n="8">I here pronounce</l>
+            <l xml:id="swift-440-S797-line-9" n="9">You Med'cine is repelling,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-10" n="10">Your Water's Mud,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-11" n="11">And sowrs the Blood,</l>
+            <l xml:id="swift-440-S797-line-12" n="12">When drank at <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-13" n="13">III.<lb/>Those pocky Drabs,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-14" n="14">To cure their Scabs,</l>
+            <l xml:id="swift-440-S797-line-15" n="15">You thither are compelling,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-16" n="16">Will back be sent,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-17" n="17">Worse than they went</l>
+            <l xml:id="swift-440-S797-line-18" n="18">From nasty <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-19" n="19">IV.<lb/><hi rend="italics">Lewellin</hi>! why?</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-20" n="20">As well, may I,</l>
+            <l xml:id="swift-440-S797-line-21" n="21">Name honest Doctor <hi rend="italics">Pelling</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-22" n="22">So hard sometimes</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-23" n="23">You tugg for Rhimes,</l>
+            <l xml:id="swift-440-S797-line-24" n="24">To bring in <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-25" n="25">V.<lb/>No subject fit</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-26" n="26">To try your Wit,</l>
+            <l xml:id="swift-440-S797-line-27" n="27">When you went Colonelling;</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-28" n="28">But dull Intrigues</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-29" n="29">'Twixt Jades and <hi rend="italics">Teagues</hi></l>
+            <l xml:id="swift-440-S797-line-30" n="30">That met at <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-31" n="31">VI.<lb/>Our Lasses fair,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-32" n="32">Say what you dare,</l>
+            <l xml:id="swift-440-S797-line-33" n="33">Who <hi rend="italics">Sowings</hi> make with <hi rend="italics">Shelling</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-34" n="34">At <hi rend="italics">Market-Hill</hi></l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-35" n="35">More Beaux can kill,</l>
+            <l xml:id="swift-440-S797-line-36" n="36">Than yours at <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-37" n="37">VII.<lb/>Wou'd I was whipt,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-38" n="38">When <hi rend="italics">Sheelah</hi> stript,</l>
+            <l xml:id="swift-440-S797-line-39" n="39">To wash herself our Well in,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-40" n="40">A Bum so white,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-41" n="41">Ne'er came in Sight,</l>
+            <l xml:id="swift-440-S797-line-42" n="42">At paultry <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-43" n="43">VIII.<lb/>Your Mawkins there,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-44" n="44">Smocks hempen wear</l>
+            <l xml:id="swift-440-S797-line-45" n="45">For Holland, not an Ell in,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-46" n="46">No, not a Rag,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-47" n="47">Whate'er you brag,</l>
+            <l xml:id="swift-440-S797-line-48" n="48">Is found at <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-49" n="49">IX.<lb/>But <hi rend="italics">Tom</hi> will prate</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-50" n="50">At any Rate,</l>
+            <l xml:id="swift-440-S797-line-51" n="51">All other Nymphs expelling;</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-52" n="52">Because he gets</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-53" n="53">A few Grisets</l>
+            <l xml:id="swift-440-S797-line-54" n="54">At lowsy <hi rend="italics">Ballyspellin</hi>?</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-55" n="55">X.<lb/>There's boney <hi rend="italics">Jane</hi></l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-56" n="56">In yonder Lane,</l>
+            <l xml:id="swift-440-S797-line-57" n="57">Just o'er against the <hi rend="italics">Bell-Inn</hi>;</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-58" n="58">Where can you meet,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-59" n="59">A Lass so sweet,</l>
+            <l xml:id="swift-440-S797-line-60" n="60">Round all your <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-61" n="61">XI.<lb/>We have a Girl,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-62" n="62">Deserves an Earl,</l>
+            <l xml:id="swift-440-S797-line-63" n="63">She came from <hi rend="italics">Enniskillen</hi>,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-64" n="64">So fair, so young,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-65" n="65">No such among</l>
+            <l xml:id="swift-440-S797-line-66" n="66">The Belles of <hi rend="italics">Ballyspellin</hi></l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-67" n="67">XII.<lb/>How wou'd you stare,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-68" n="68">To see her there</l>
+            <l xml:id="swift-440-S797-line-69" n="69">The foggy Mists dispelling?</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-70" n="70">That cloud the Brows</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-71" n="71">Of ev'ry Blowse,</l>
+            <l xml:id="swift-440-S797-line-72" n="72">Who lives at <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-73" n="73">XIII.<lb/>Now as I live,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-74" n="74">I wou'd not give</l>
+            <l xml:id="swift-440-S797-line-75" n="75">A Stiver or a Skellin,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-76" n="76">To towse and kiss</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-77" n="77">The fairest Miss,</l>
+            <l xml:id="swift-440-S797-line-78" n="78">That leaks at <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-79" n="79">XIV.<lb/>Whoe'er will raise</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-80" n="80">Such Lies as these,</l>
+            <l xml:id="swift-440-S797-line-81" n="81">Deserves a good Cud-gelling,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-82" n="82">Who falsely boasts</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-83" n="83">Of Belles and Toasts</l>
+            <l xml:id="swift-440-S797-line-84" n="84">At dirty <hi rend="italics">Ballyspellin</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-440-S797-line-85" n="85">XV.<lb/>My Rhimes are gone</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-86" n="86">To all but one,</l>
+            <l xml:id="swift-440-S797-line-87" n="87">Which if, our Trees are felling,</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-88" n="88">As proper quite</l>
+            <l rend="indent(1)" xml:id="swift-440-S797-line-89" n="89">As those you write,</l>
+            <l xml:id="swift-440-S797-line-90" n="90">To force in <hi rend="italics">Ballyspellin</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

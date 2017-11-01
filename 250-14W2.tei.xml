@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE SOUTH-SEA PROJECT. 1721.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 2AU04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="250-14W2">
+          <head type="note" n="1" xml:id="spp-250-14W2-headnote-1">
+            <lg n="1" xml:id="spp-250-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-250-14W2-headnote-1-line-group-1-line-1">Apparent rari nantes in gurgite vasto, <lb/> Arma virûm, tabulæque, et Troïa gaza per undas.── V<hi rend="small-caps">IRG</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-250-14W2-headnote-2">
+            <lg n="1" xml:id="spp-250-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-250-14W2-headnote-2-line-group-1-line-1">W<hi rend="small-caps">HEN</hi> the deluded people of England awoke from their golden dream of South-Sea wealth, their wrath rose to the brim against the directors by whom that ruinous project had been conducted. The parliamentary proceedings instituted against them were carried on with unusual violence. Gibbon, the historian, complains grievously of the injustice with which they were treated.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-250-14W2-headnote-3">
+            <lg n="1" xml:id="spp-250-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-250-14W2-headnote-3-line-group-1-line-1">“The legislature restrained the persons of the directors, imposed an exorbitant security for their appearance, and marked their characters with a previous note of ignominy. They were compelled to deliver, upon oath, the strictest value of their estates, and were disabled from making any transfer or alienation of any part of their property. Against a bill of pains and penalties, it is the common right of every subject to be heard by his counsel at the bar: they prayed to be heard; their prayer was refused; and their oppressors, who required no evidence, would listen to no defence. It had been at first proposed, that one-eighth of their respective estates should be allowed for the future support of the directors; but it was speciously urged, that, in the various shades of opulence and guilt, such a proportion would be too light for many, and for some might possibly be too heavy. All were condemned, absent and unheard, in arbitrary fines and forfeitures, which swept away the greater part of their substance.”── G<hi rend="small-caps">IBBON</hi>'s <hi rend="italics">Miscellaneous Works</hi>, vol. I. p. 11.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-250-14W2-line-1" n="1">Y<hi rend="small-caps">E</hi> wise philosophers, explain</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-2" n="2">What magic makes our money rise,</l>
+            <l xml:id="swift-250-14W2-line-3" n="3">When dropt into the Southern main;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-4" n="4">Or do these jugglers cheat our eyes?</l>
+            <l xml:id="swift-250-14W2-line-5" n="5"><lb/>Put in your money fairly told;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-6" n="6"><hi rend="italics">Presto!</hi> be gone── 'Tis here again:</l>
+            <l xml:id="swift-250-14W2-line-7" n="7">Ladies and gentlemen, behold,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-8" n="8">Here's every piece as big as ten.</l>
+            <l xml:id="swift-250-14W2-line-9" n="9"><lb/>Thus in a basin drop a shilling,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-10" n="10">Then fill the vessel to the brim,</l>
+            <l xml:id="swift-250-14W2-line-11" n="11">You shall observe, as you are filling,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-12" n="12">The pond'rous metal seems to swim:</l>
+            <l xml:id="swift-250-14W2-line-13" n="13"><lb/>It rises both in bulk and height,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-14" n="14">Behold it swelling like a sop;</l>
+            <l xml:id="swift-250-14W2-line-15" n="15">The liquid medium cheats your sight:</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-16" n="16">Behold it mounted to the top!</l>
+            <l xml:id="swift-250-14W2-line-17" n="17"><lb/>In stock three hundred thousand pounds,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-18" n="18">I have in view a lord's estate;</l>
+            <l xml:id="swift-250-14W2-line-19" n="19">My manors all contiguous round!</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-20" n="20">A coach-and-six, and served in plate!</l>
+            <l xml:id="swift-250-14W2-line-21" n="21"><lb/>Thus the deluded bankrupt raves,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-22" n="22">Puts all upon a desperate bet;</l>
+            <l xml:id="swift-250-14W2-line-23" n="23">Then plunges in the Southern waves,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-24" n="24">Dipt over head and ears── in debt.</l>
+            <l xml:id="swift-250-14W2-line-25" n="25"><lb/>So, by a calenture misled,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-26" n="26">The mariner with rapture sees,</l>
+            <l xml:id="swift-250-14W2-line-27" n="27">On the smooth ocean's azure bed,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-28" n="28">Enamell'd fields and verdant trees:</l>
+            <l xml:id="swift-250-14W2-line-29" n="29"><lb/>With eager haste he longs to rove</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-30" n="30">In that fantastic scene, and thinks</l>
+            <l xml:id="swift-250-14W2-line-31" n="31">It must be some enchanted grove;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-32" n="32">And in he leaps, and down he sinks.</l>
+            <l xml:id="swift-250-14W2-line-33" n="33"><lb/>Five hundred chariots just bespoke,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-34" n="34">Are sunk in these devouring waves,</l>
+            <l xml:id="swift-250-14W2-line-35" n="35">The horses drown'd, the harness broke,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-36" n="36">And here the owners find their graves.</l>
+            <l xml:id="swift-250-14W2-line-37" n="37"><lb/>Like Pharaoh, by directors led,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-38" n="38">They with their spoils went safe before;</l>
+            <l xml:id="swift-250-14W2-line-39" n="39">His chariots, tumbling out the dead,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-40" n="40">Lay shatter'd on the Red-Sea shore.</l>
+            <l xml:id="swift-250-14W2-line-41" n="41"><lb/>Raised up on Hope's aspiring plumes,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-42" n="42">The young adventurer o'er the deep</l>
+            <l xml:id="swift-250-14W2-line-43" n="43">An eagle's flight and state assumes,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-44" n="44">And scorns the middle way to keep.</l>
+            <l xml:id="swift-250-14W2-line-45" n="45"><lb/>On paper wings he takes his flight,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-46" n="46">With wax the father bound them fast;</l>
+            <l xml:id="swift-250-14W2-line-47" n="47">The wax is melted by the height,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-48" n="48">And down the towering boy is cast.</l>
+            <l xml:id="swift-250-14W2-line-49" n="49"><lb/>A moralist might here explain</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-50" n="50">The rashness of the Cretan youth;</l>
+            <l xml:id="swift-250-14W2-line-51" n="51">Describe his fall into the main,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-52" n="52">And from a fable form a truth.</l>
+            <l xml:id="swift-250-14W2-line-53" n="53"><lb/>His wings are his paternal rent,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-54" n="54">He melts the wax at every flame;</l>
+            <l xml:id="swift-250-14W2-line-55" n="55">His credit sunk, his money spent,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-56" n="56">In Southern Seas he leaves his name.</l>
+            <l xml:id="swift-250-14W2-line-57" n="57"><lb/>Inform us, you that best can tell,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-58" n="58">Why in that dangerous gulf profound,</l>
+            <l xml:id="swift-250-14W2-line-59" n="59">Where hundreds and where thousands fell,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-60" n="60">Fools chiefly float, the wise are drown'd?</l>
+            <l xml:id="swift-250-14W2-line-61" n="61"><lb/>So have I seen from Severn's brink</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-62" n="62">A flock of geese jump down together;</l>
+            <l xml:id="swift-250-14W2-line-63" n="63">Swim where the bird of Jove would sink,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-64" n="64">And, swimming, never wet a feather.</l>
+            <l xml:id="swift-250-14W2-line-65" n="65"><lb/>But, I affirm, 'tis false in fact,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-66" n="66">Directors better knew their tools;</l>
+            <l xml:id="swift-250-14W2-line-67" n="67">We see the nation's credit crack'd,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-68" n="68">Each knave has made a thousand fools.</l>
+            <l xml:id="swift-250-14W2-line-69" n="69"><lb/>One fool may from another win,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-70" n="70">And then get off with money stored;</l>
+            <l xml:id="swift-250-14W2-line-71" n="71">But, if a sharper once comes in,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-72" n="72">He throws it all, and sweeps the board.</l>
+            <l xml:id="swift-250-14W2-line-73" n="73"><lb/>As fishes on each other prey,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-74" n="74">The great ones swallowing up the small,</l>
+            <l xml:id="swift-250-14W2-line-75" n="75">So fares it in the Southern Sea;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-76" n="76">The whale directors eat up all.</l>
+            <l xml:id="swift-250-14W2-line-77" n="77"><lb/>When stock is high, they come between,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-78" n="78">Making by second-hand their offers;</l>
+            <l xml:id="swift-250-14W2-line-79" n="79">Then cunningly retire unseen,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-80" n="80">With each a million in his coffers.</l>
+            <l xml:id="swift-250-14W2-line-81" n="81"><lb/>So, when upon a moonshine night,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-82" n="82">An ass was drinking at a stream,</l>
+            <l xml:id="swift-250-14W2-line-83" n="83">A cloud arose, and stopt the light,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-84" n="84">By intercepting every beam:</l>
+            <l xml:id="swift-250-14W2-line-85" n="85"><lb/>The day of judgment will be soon,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-86" n="86">Cries out a sage among the crowd;</l>
+            <l xml:id="swift-250-14W2-line-87" n="87">An ass has swallow'd up the moon!</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-88" n="88">The moon lay safe behind the cloud.</l>
+            <l xml:id="swift-250-14W2-line-89" n="89"><lb/>Each poor subscriber to the sea</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-90" n="90">Sinks down at once, and there he lies;</l>
+            <l xml:id="swift-250-14W2-line-91" n="91">Directors fall as well as they,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-92" n="92">Their fall is but a trick to rise.</l>
+            <l xml:id="swift-250-14W2-line-93" n="93"><lb/>So fishes, rising from the main,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-94" n="94">Can soar with moisten'd wings on high;</l>
+            <l xml:id="swift-250-14W2-line-95" n="95">The moisture dried, they sink again,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-96" n="96">And dip their fins again to fly.</l>
+            <l xml:id="swift-250-14W2-line-97" n="97"><lb/>Undone at play, the female troops</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-98" n="98">Come here their losses to retrieve;</l>
+            <l xml:id="swift-250-14W2-line-99" n="99">Ride o'er the waves in spacious hoops,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-100" n="100">Like Lapland witches in a sieve.</l>
+            <l xml:id="swift-250-14W2-line-101" n="101"><lb/>Thus Venus to the sea descends,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-102" n="102">As poets feign; but where's the moral?</l>
+            <l xml:id="swift-250-14W2-line-103" n="103">It shews the Queen of Love intends</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-104" n="104">To search the deep for pearl and coral.</l>
+            <l xml:id="swift-250-14W2-line-105" n="105"><lb/>The sea is richer than the land,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-106" n="106">I heard it from my grannam's mouth,</l>
+            <l xml:id="swift-250-14W2-line-107" n="107">Which now I clearly understand;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-108" n="108">For by the sea she meant the South.</l>
+            <l xml:id="swift-250-14W2-line-109" n="109"><lb/>Thus, by directors we are told,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-110" n="110">“Pray, gentlemen, believe your eyes;</l>
+            <l xml:id="swift-250-14W2-line-111" n="111">Our ocean's cover'd o'er with gold,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-112" n="112">Look round, and see how thick it lies:</l>
+            <l xml:id="swift-250-14W2-line-113" n="113"><lb/>“We, gentlemen, are your assisters,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-114" n="114">We'll come, and hold you by the chin.”──</l>
+            <l xml:id="swift-250-14W2-line-115" n="115">Alas! all is not gold that glisters.</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-116" n="116">Ten thousand sink by leaping in.</l>
+            <l xml:id="swift-250-14W2-line-117" n="117"><lb/>O! would those patriots be so kind,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-118" n="118">Here in the deep to wash their hands,</l>
+            <l xml:id="swift-250-14W2-line-119" n="119">Then, like Pactolus, we should find</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-120" n="120">The sea indeed had golden sands.</l>
+            <l xml:id="swift-250-14W2-line-121" n="121"><lb/>A shilling in the bath you fling,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-122" n="122">The silver takes a nobler hue,</l>
+            <l xml:id="swift-250-14W2-line-123" n="123">By magic virtue in the spring,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-124" n="124">And seems a guinea to your view.</l>
+            <l xml:id="swift-250-14W2-line-125" n="125"><lb/>But, as a guinea will not pass</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-126" n="126">At market for a farthing more,</l>
+            <l xml:id="swift-250-14W2-line-127" n="127">Shewn through a multiplying glass,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-128" n="128">Than what it always did before:</l>
+            <l xml:id="swift-250-14W2-line-129" n="129"><lb/>So cast it in the Southern seas,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-130" n="130">Or view it through a jobber's bill;</l>
+            <l xml:id="swift-250-14W2-line-131" n="131">Put on what spectacles you please,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-132" n="132">Your guinea's but a guinea still.</l>
+            <l xml:id="swift-250-14W2-line-133" n="133"><lb/>One night a fool into a brook</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-134" n="134">Thus from a hillock looking down,</l>
+            <l xml:id="swift-250-14W2-line-135" n="135">The golden stars for guineas took,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-136" n="136">And silver Cynthia for a crown.</l>
+            <l xml:id="swift-250-14W2-line-137" n="137"><lb/>The point he could no longer doubt;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-138" n="138">He ran, he leapt into the flood;</l>
+            <l xml:id="swift-250-14W2-line-139" n="139">There sprawl'd a while, and scarce got out,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-140" n="140">All cover'd o'er with slime and mud.</l>
+            <l xml:id="swift-250-14W2-line-141" n="141"><lb/>“Upon the water cast thy bread,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-142" n="142">And after many days thou'lt find it;”</l>
+            <l xml:id="swift-250-14W2-line-143" n="143">But gold, upon this ocean spread,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-144" n="144">Shall sink, and leave no mark behind it:</l>
+            <l xml:id="swift-250-14W2-line-145" n="145"><lb/>There is a gulf, where thousands fell,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-146" n="146">Here all the bold adventurers came,</l>
+            <l xml:id="swift-250-14W2-line-147" n="147">A narrow sound, though deep as Hell──</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-148" n="148">'Change Alley is the dreadful name.</l>
+            <l xml:id="swift-250-14W2-line-149" n="149"><lb/>Nine times a-day it ebbs and flows,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-150" n="150">Yet he that on the surface lies,</l>
+            <l xml:id="swift-250-14W2-line-151" n="151">Without a pilot seldom knows</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-152" n="152">The time it falls, or when 'twill rise.</l>
+            <l xml:id="swift-250-14W2-line-153" n="153"><lb/>Subscribers here by thousands float,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-154" n="154">And jostle one another down;</l>
+            <l xml:id="swift-250-14W2-line-155" n="155">Each paddling in his leaky boat,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-156" n="156">And here they fish for gold, and drown.</l>
+            <l xml:id="swift-250-14W2-line-157" n="157"><lb/>“<note place="foot">·Psalm cvii.</note>Now buried in the depth below,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-158" n="158">Now mounted up to Heaven again,</l>
+            <l xml:id="swift-250-14W2-line-159" n="159">They reel and stagger to and fro,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-160" n="160">At their wits' end, like drunken men.”</l>
+            <l xml:id="swift-250-14W2-line-161" n="161"><lb/>Meantime, secure on Garraway <note place="foot">·A coffeehouse in 'Change Alley.── H.</note> cliffs,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-162" n="162">A savage race, by shipwrecks fed,</l>
+            <l xml:id="swift-250-14W2-line-163" n="163">Lie waiting for the founder'd skiffs,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-164" n="164">And strip the bodies of the dead.</l>
+            <l xml:id="swift-250-14W2-line-165" n="165"><lb/>But these, you say, are factious lies,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-166" n="166">From some malicious Tory's brain;</l>
+            <l xml:id="swift-250-14W2-line-167" n="167">For, where directors get a prize,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-168" n="168">The Swiss and Dutch whole millions drain.</l>
+            <l xml:id="swift-250-14W2-line-169" n="169"><lb/>Thus, when by rooks a lord is plied,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-170" n="170">Some cully often wins a bet,</l>
+            <l xml:id="swift-250-14W2-line-171" n="171">By venturing on the cheating side,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-172" n="172">Though not into the secret let.</l>
+            <l xml:id="swift-250-14W2-line-173" n="173"><lb/>While some build castles in the air,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-174" n="174">Directors build them in the seas;</l>
+            <l xml:id="swift-250-14W2-line-175" n="175">Subscribers plainly see them there,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-176" n="176">For fools will see as wise men please.</l>
+            <l xml:id="swift-250-14W2-line-177" n="177"><lb/>Thus oft by mariners are shewn</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-178" n="178">(Unless the men of Kent are liars)</l>
+            <l xml:id="swift-250-14W2-line-179" n="179">Earl Godwin's castles overflown,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-180" n="180">And palace roofs, and steeple spires.</l>
+            <l xml:id="swift-250-14W2-line-181" n="181"><lb/>Mark where the sly directors creep,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-182" n="182">Nor to the shore approach too nigh!</l>
+            <l xml:id="swift-250-14W2-line-183" n="183">The monsters nestle in the deep,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-184" n="184">To seize you in your passing by.</l>
+            <l xml:id="swift-250-14W2-line-185" n="185"><lb/>Then, like the dogs of Nile, be wise,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-186" n="186">Who, taught by instinct how to shun</l>
+            <l xml:id="swift-250-14W2-line-187" n="187">The crocodile, that lurking lies,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-188" n="188">Run as they drink, and drink and run.</l>
+            <l xml:id="swift-250-14W2-line-189" n="189"><lb/>Antæus could, by magic charms,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-190" n="190">Recover strength whene'er he fell;</l>
+            <l xml:id="swift-250-14W2-line-191" n="191">Alcides held him in his arms,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-192" n="192">And sent him up in air to Hell.</l>
+            <l xml:id="swift-250-14W2-line-193" n="193"><lb/>Directors, thrown into the sea,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-194" n="194">Recover strength and vigour there;</l>
+            <l xml:id="swift-250-14W2-line-195" n="195">But may be tamed another way,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-196" n="196">Suspended for a while in air.</l>
+            <l xml:id="swift-250-14W2-line-197" n="197"><lb/>Directors! for 'tis you I warn,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-198" n="198">By long experience we have found</l>
+            <l xml:id="swift-250-14W2-line-199" n="199">What planet ruled when you were born;</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-200" n="200">We see you never can be drown'd.</l>
+            <l xml:id="swift-250-14W2-line-201" n="201"><lb/>Beware, nor overbulky grow,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-202" n="202">Nor come within your cully's reach;</l>
+            <l xml:id="swift-250-14W2-line-203" n="203">For, if the sea should sink so low</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-204" n="204">To leave you dry upon the beach,</l>
+            <l xml:id="swift-250-14W2-line-205" n="205"><lb/>You'll owe your ruin to your bulk:</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-206" n="206">Your foes already waiting stand,</l>
+            <l xml:id="swift-250-14W2-line-207" n="207">To tear you like a founder'd hulk,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-208" n="208">While you lie helpless on the sand.</l>
+            <l xml:id="swift-250-14W2-line-209" n="209"><lb/>Thus, when a whale has lost the tide,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-210" n="210">The coasters crowd to seize the spoil;</l>
+            <l xml:id="swift-250-14W2-line-211" n="211">The monster into parts divide,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-212" n="212">And strip the bones, and melt the oil.</l>
+            <l xml:id="swift-250-14W2-line-213" n="213"><lb/>Oh! may some western tempest sweep</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-214" n="214">These locusts whom our fruits have fed,</l>
+            <l xml:id="swift-250-14W2-line-215" n="215">That plague, directors, to the deep,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-216" n="216">Driven from the South Sea to the Red!</l>
+            <l xml:id="swift-250-14W2-line-217" n="217"><lb/>May he, whom Nature's laws obey,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-218" n="218">Who lifts the poor, and sinks the proud,</l>
+            <l xml:id="swift-250-14W2-line-219" n="219">“Quiet the raging of the sea,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-220" n="220">And still the madness of the crowd!”</l>
+            <l xml:id="swift-250-14W2-line-221" n="221"><lb/>But never shall our isle have rest,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-222" n="222">Till those devouring swine run down,</l>
+            <l xml:id="swift-250-14W2-line-223" n="223">(The devils leaving the possest)</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-224" n="224">And headlong in the waters drown.</l>
+            <l xml:id="swift-250-14W2-line-225" n="225"><lb/>The nation then too late will find,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-226" n="226">Computing all their cost and trouble,</l>
+            <l xml:id="swift-250-14W2-line-227" n="227">Directors' promises but wind,</l>
+            <l rend="indent(1)" xml:id="swift-250-14W2-line-228" n="228">South Sea, at best, a mighty bubble.</l>
+            <l xml:id="swift-250-14W2-line-229" n="229">om.</l>
+            <l xml:id="swift-250-14W2-line-230" n="230">om.</l>
+            <l xml:id="swift-250-14W2-line-231" n="231">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

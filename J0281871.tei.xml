@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 28JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="J0281871">
+          <head type="note" n="1" xml:id="spp-J0281871-headnote-1">
+            <lg n="1" xml:id="spp-J0281871-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0281871-headnote-1-line-group-1-line-1">He tells me 'tis very windy, and begins to look dark; woe be to my shillings: an old saying and a true;&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-J0281871-headnote-2">
+            <lg n="1" xml:id="spp-J0281871-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0281871-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-J0281871-headnote-3">
+            <lg n="1" xml:id="spp-J0281871-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-J0281871-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-J0281871-line-1" n="1">Few fillings,</l>
+            <l xml:id="swift-J0281871-line-2" n="2">many shillings.</l>
+            <l xml:id="swift-J0281871-line-3" n="3">If the day be dark,</l>
+            <l xml:id="swift-J0281871-line-4" n="4">my purse will be light.</l>
+            <l xml:id="swift-J0281871-line-5" n="5">To my enemies be this curse;</l>
+            <l xml:id="swift-J0281871-line-6" n="6">a dark day and a light purse.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

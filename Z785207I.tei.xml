@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verses on Dean Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 7JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z785207I">
+          <head type="note" n="1" xml:id="spp-Z785207I-headnote-1">
+            <lg n="1" xml:id="spp-Z785207I-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z785207I-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z785207I-headnote-2">
+            <lg n="1" xml:id="spp-Z785207I-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z785207I-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z785207I-headnote-3">
+            <lg n="1" xml:id="spp-Z785207I-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z785207I-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z785207I-line-1" n="1">Deaf to all Ties of Obligation</l>
+            <l rend="indent(1)" xml:id="swift-Z785207I-line-2" n="2">Ungratefull ever to his Friends</l>
+            <l xml:id="swift-Z785207I-line-3" n="3">A Foe in private to the Nation</l>
+            <l rend="indent(1)" xml:id="swift-Z785207I-line-4" n="4">A Hypocrite to serve his Ends</l>
+            <l xml:id="swift-Z785207I-line-5" n="5">His Pen pretending to give Praise</l>
+            <l rend="indent(1)" xml:id="swift-Z785207I-line-6" n="6">Discovers a malicious Heart</l>
+            <l xml:id="swift-Z785207I-line-7" n="7">Tho Secret Sting his Mind Betrays</l>
+            <l rend="indent(1)" xml:id="swift-Z785207I-line-8" n="8">And Wounds like an Envenom'd Dart</l>
+            <l xml:id="swift-Z785207I-line-9" n="9">Thus Indians near the Cape destroy</l>
+            <l xml:id="swift-Z785207I-line-10" n="10">With Poison'd Arrows Friend or Foe</l>
+            <l xml:id="swift-Z785207I-line-11" n="11">And in the Mischief feel a Ioy</l>
+            <l xml:id="swift-Z785207I-line-12" n="12">Arising from the Wretches Woe</l>
+            <l xml:id="swift-Z785207I-line-13" n="13">No fabled Character He drew</l>
+            <l xml:id="swift-Z785207I-line-14" n="14">But from his Own Corruption Stole</l>
+            <l xml:id="swift-Z785207I-line-15" n="15">\<hi rend="italics">hole</hi>\he Likeness of his hiss'd Yahoo</l>
+            <l xml:id="swift-Z785207I-line-16" n="16">And there describ'd his Very Soul</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

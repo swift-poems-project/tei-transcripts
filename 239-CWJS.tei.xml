@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The <hi rend="italics">Run</hi> upon the <hi rend="italics">Bankers</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 6JE91"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d JW agt 239-0201 23JL91; ed. JW 26DE08, 11AU14, 22FE17; EMENDED JW 22FE17, 27FE17, 9MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="239-CWJS">
+          <head type="note" n="1" xml:id="spp-239-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-239-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-CWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-239-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-239-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-CWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-239-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-239-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-239-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-239-CWJS-line-1" n="1">
+              <hi rend="display-initial">T<hi rend="small-caps">HE</hi> bold Encroachers on the Deep,</hi>
+            </l>
+            <l xml:id="swift-239-CWJS-line-2" n="2">Gain by Degrees huge Tracts of Land,</l>
+            <l xml:id="swift-239-CWJS-line-3" n="3">'Till <hi rend="italics">Neptune</hi> with a Gen'ral Sweep</l>
+            <l xml:id="swift-239-CWJS-line-4" n="4">Turns all again to barren Strand.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-5" n="5"><lb/>II.__The Multitude's Capricious Pranks</l>
+            <l xml:id="swift-239-CWJS-line-6" n="6">Are said to represent the Seas,</l>
+            <l xml:id="swift-239-CWJS-line-7" n="7">Breaking the <hi rend="italics">Bankers</hi> and the <hi rend="italics">Banks</hi>,</l>
+            <l xml:id="swift-239-CWJS-line-8" n="8">Resume <hi rend="italics">their own</hi> when e'er they please.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-9" n="9"><lb/>III.__Money, the <hi rend="italics">Life-blood</hi> of the Nation</l>
+            <l xml:id="swift-239-CWJS-line-10" n="10">Corrupts and Stagnates in the Veins,</l>
+            <l xml:id="swift-239-CWJS-line-11" n="11">Unless a proper <hi rend="italics">Circulation</hi></l>
+            <l xml:id="swift-239-CWJS-line-12" n="12">Its Motion and its Heat maintains.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-13" n="13"><lb/>IV.__Because 'tis <hi rend="italics">Lordly</hi> not to pay,</l>
+            <l xml:id="swift-239-CWJS-line-14" n="14">Quakers, and <hi rend="italics">Aldermen</hi>, in State,</l>
+            <l xml:id="swift-239-CWJS-line-15" n="15">Like <hi rend="italics">Peers</hi>, have <hi rend="italics">Levees</hi> ev'ry Day</l>
+            <l xml:id="swift-239-CWJS-line-16" n="16">Of Duns, attending at their Gate.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-17" n="17"><lb/>V.__We want our Money on the Nail;</l>
+            <l xml:id="swift-239-CWJS-line-18" n="18">The Banker's ruin'd if he pays;</l>
+            <l xml:id="swift-239-CWJS-line-19" n="19">They seem to act an Ancient Tale,</l>
+            <l xml:id="swift-239-CWJS-line-20" n="20">The <hi rend="italics">Birds</hi> are met to strip the <hi rend="italics">Jays</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-21" n="21"><lb/>VI.__Riches, the Wisest Monarch sings,</l>
+            <l xml:id="swift-239-CWJS-line-22" n="22">Make Pinions for themselves to fly,</l>
+            <l xml:id="swift-239-CWJS-line-23" n="23">They fly like Bats, on <hi rend="italics">Parchment</hi> Wings,</l>
+            <l xml:id="swift-239-CWJS-line-24" n="24">And <hi rend="italics">Geese</hi> their <hi rend="italics">Silver</hi> Plumes supply.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-25" n="25"><lb/>VII.__No Money left for Squandring Heirs!</l>
+            <l xml:id="swift-239-CWJS-line-26" n="26">Bills turn the Lenders into Debters,</l>
+            <l xml:id="swift-239-CWJS-line-27" n="27">The Wish of <hi rend="italics">Nero</hi> now is Theirs,</l>
+            <l xml:id="swift-239-CWJS-line-28" n="28">That, they <hi rend="italics">had never known their Letters</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-29" n="29"><lb/>VIII.__Conceive the Works of Midnight Hags,</l>
+            <l xml:id="swift-239-CWJS-line-30" n="30">Tormenting Fools behind their Backs;</l>
+            <l xml:id="swift-239-CWJS-line-31" n="31">Thus Bankers o'er their Bills and Bags</l>
+            <l xml:id="swift-239-CWJS-line-32" n="32">Sit squeezing <hi rend="italics">Images of Wax</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-33" n="33"><lb/>IX.__Conceive the whole Enchantment broke,</l>
+            <l xml:id="swift-239-CWJS-line-34" n="34">The Witches left in open Air,</l>
+            <l xml:id="swift-239-CWJS-line-35" n="35">With Pow'r no more than other Folk,</l>
+            <l xml:id="swift-239-CWJS-line-36" n="36">Expos'd with all their <hi rend="italics">Magick</hi> Ware.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-37" n="37"><lb/>X.__So Pow'rful are a Banker's Bills</l>
+            <l xml:id="swift-239-CWJS-line-38" n="38">When Creditors demand their Due;</l>
+            <l xml:id="swift-239-CWJS-line-39" n="39">They break up Counters, Doors, and Tills,</l>
+            <l xml:id="swift-239-CWJS-line-40" n="40">And leave his empty Chests in View.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-41" n="41"><lb/>XI.__Thus when an Earthquake lets in Light</l>
+            <l xml:id="swift-239-CWJS-line-42" n="42">Upon the god of <hi rend="italics">Gold</hi> and <hi rend="italics">Hell</hi>,</l>
+            <l xml:id="swift-239-CWJS-line-43" n="43">Unable to endure the sight,</l>
+            <l xml:id="swift-239-CWJS-line-44" n="44">He hides within his darkest Cell.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-45" n="45"><lb/>XII.__As when a Conj'rer takes a Lease</l>
+            <l xml:id="swift-239-CWJS-line-46" n="46">From <hi rend="italics">Satan</hi> for a Term of Years,</l>
+            <l xml:id="swift-239-CWJS-line-47" n="47">The <hi rend="italics">Tenant's</hi> in a Dismal Case</l>
+            <l xml:id="swift-239-CWJS-line-48" n="48">When e'er the <hi rend="italics">bloody Bond</hi> appears.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-49" n="49"><lb/>XIII.__A <hi rend="italics">baited</hi> Banker thus desponds,</l>
+            <l xml:id="swift-239-CWJS-line-50" n="50">From his own Hand foresees his Fall;</l>
+            <l xml:id="swift-239-CWJS-line-51" n="51">They have his <hi rend="italics">Soul</hi> who have his <hi rend="italics">Bonds</hi>,</l>
+            <l xml:id="swift-239-CWJS-line-52" n="52">'Tis like the <hi rend="italics">Writing on the Wall</hi>.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-53" n="53"><lb/>XIV.__How will the Caitiff Wretch be scar'd</l>
+            <l xml:id="swift-239-CWJS-line-54" n="54">When first he finds himself awake</l>
+            <l xml:id="swift-239-CWJS-line-55" n="55">At the last Trumpet, unprepar'd,</l>
+            <l xml:id="swift-239-CWJS-line-56" n="56">And all his <hi rend="italics">Grand Account</hi> to make?</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-57" n="57"><lb/>XV.__For in that Universal <hi rend="italics">Call</hi></l>
+            <l xml:id="swift-239-CWJS-line-58" n="58">Few Bankers will to Heav'n be Mounters;</l>
+            <l xml:id="swift-239-CWJS-line-59" n="59">They'll cry, <hi rend="italics">Ye</hi> Shops, <hi rend="italics">upon us fall</hi></l>
+            <l xml:id="swift-239-CWJS-line-60" n="60">Conceal, and <hi rend="italics">cover us, Ye</hi> Counters.</l>
+            <l rend="center indent(1)" xml:id="swift-239-CWJS-line-61" n="61"><lb/>XVI.__When <hi rend="italics">Other</hi> Hands the <hi rend="italics">Scales</hi> shall hold,</l>
+            <l xml:id="swift-239-CWJS-line-62" n="62">And They in <hi rend="italics">Men and Angels sight</hi></l>
+            <l xml:id="swift-239-CWJS-line-63" n="63">Produc'd with all their Bills and Gold,</l>
+            <l xml:id="swift-239-CWJS-line-64" n="64"><hi rend="italics">Weigh'd in the Ballance, and found Light</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

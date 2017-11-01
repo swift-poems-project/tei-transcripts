@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A P<hi rend="small-caps">ORTRAIT</hi> from the L<hi rend="small-caps">IFE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 13AP11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="955-64JD">
+          <head type="note" n="1" xml:id="spp-955-64JD-headnote-1">
+            <lg n="1" xml:id="spp-955-64JD-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-955-64JD-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-955-64JD-headnote-2">
+            <lg n="1" xml:id="spp-955-64JD-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-955-64JD-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-955-64JD-headnote-3">
+            <lg n="1" xml:id="spp-955-64JD-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-955-64JD-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-955-64JD-line-1" n="1"><hi rend="display-initial">C</hi>OME sit by my side, while this picture I draw,</l>
+            <l xml:id="swift-955-64JD-line-2" n="2">In chatt'ring a magpye, in pride a jackdaw;</l>
+            <l xml:id="swift-955-64JD-line-3" n="3">A temper the devil himself could not bridle,</l>
+            <l xml:id="swift-955-64JD-line-4" n="4">Impertinent mixture of busy and idle.</l>
+            <l xml:id="swift-955-64JD-line-5" n="5">As rude as a bear, no mule half so crabbed,</l>
+            <l xml:id="swift-955-64JD-line-6" n="6">She swills like a sow, and she breeds like a rabbit.</l>
+            <l xml:id="swift-955-64JD-line-7" n="7">An huswife in bed, at table a slattern,</l>
+            <l xml:id="swift-955-64JD-line-8" n="8">For all an example, for no one a pattern.</l>
+            <l xml:id="swift-955-64JD-line-9" n="9">Now tell me friend Thomas<note place="foot">·Doctor Sheridan.</note>, Ford, Gratten <note place="foot">·The Dean's friends.</note> and merry Dan<note place="foot">·Mr. Dan Jackson.</note></l>
+            <l xml:id="swift-955-64JD-line-10" n="10">Has this any likeness to good Madam Sherridan?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

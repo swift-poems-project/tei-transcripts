@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LINES WRITTEN ON A WINDOW IN<lb/>  THE EPISCOPAL PALACE AT KILMORE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 1DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y00A04B1">
+          <head type="note" n="1" xml:id="spp-Y00A04B1-headnote-1">
+            <lg n="1" xml:id="spp-Y00A04B1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y00A04B1-headnote-1-line-group-1-line-1">Dr. Sheridan wrote underneath the following lines:&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y00A04B1-headnote-2">
+            <lg n="1" xml:id="spp-Y00A04B1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y00A04B1-headnote-2-line-group-1-line-1">In the year 1780, the late Archdeacon Caulfield wrote some lines in answer to both. The pane was taken down by Dr. Jones, Bishop of Kilmore, but it has been since restored.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y00A04B1-headnote-3">
+            <lg n="1" xml:id="spp-Y00A04B1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y00A04B1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y00A04B1-line-1" n="1">Thus spoke great Bedel <note place="foot">·Bishop Bedel's tomb lies within view of the window.</note> from his tomb;</l>
+            <l xml:id="swift-Y00A04B1-line-2" n="2">──`Mortal, I would not change my doom,</l>
+            <l xml:id="swift-Y00A04B1-line-3" n="3">To live in such a restless state,</l>
+            <l xml:id="swift-Y00A04B1-line-4" n="4">To be unfortunately great,</l>
+            <l xml:id="swift-Y00A04B1-line-5" n="5">To flatter fools and spurn at knaves,</l>
+            <l xml:id="swift-Y00A04B1-line-6" n="6">To shine amidst a race of slaves;</l>
+            <l xml:id="swift-Y00A04B1-line-7" n="7">To learn from wise men to complain,</l>
+            <l xml:id="swift-Y00A04B1-line-8" n="8">And only rise to fall again:</l>
+            <l xml:id="swift-Y00A04B1-line-9" n="9">── No! let my dusty relics rest,</l>
+            <l xml:id="swift-Y00A04B1-line-10" n="10">Until I rise among the blest.'</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

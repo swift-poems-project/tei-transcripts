@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To STELLA.<lb/>  Who collected and transcribed his Poems.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SGough 17MR08"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="727-06H1">
+          <head type="note" n="1" xml:id="spp-727-06H1-headnote-1">
+            <lg n="1" xml:id="spp-727-06H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-727-06H1-headnote-1-line-group-1-line-1">1720.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-727-06H1-headnote-2">
+            <lg n="1" xml:id="spp-727-06H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-727-06H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-727-06H1-headnote-3">
+            <lg n="1" xml:id="spp-727-06H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-727-06H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-727-06H1-line-1" n="1"><hi rend="display-initial">A</hi>S, when a lofty pile is rais'd,</l>
+            <l xml:id="swift-727-06H1-line-2" n="2">We never hear the workmen prais'd,</l>
+            <l xml:id="swift-727-06H1-line-3" n="3">Who bring the lime, or place the stones;</l>
+            <l xml:id="swift-727-06H1-line-4" n="4">But all admire <hi rend="italics">Inigo Jones</hi>:</l>
+            <l xml:id="swift-727-06H1-line-5" n="5">So, if this pile of scatter'd rhymes</l>
+            <l xml:id="swift-727-06H1-line-6" n="6">Shou'd be approv'd in after-times,</l>
+            <l xml:id="swift-727-06H1-line-7" n="7">If it both pleases and endures,</l>
+            <l xml:id="swift-727-06H1-line-8" n="8">The merit and the praise are yours.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-9" n="9">Thou, <hi rend="italics">Stella</hi>, wer't no longer young,</l>
+            <l xml:id="swift-727-06H1-line-10" n="10">When first for thee my harp I strung,</l>
+            <l xml:id="swift-727-06H1-line-11" n="11">Without one word of <hi rend="italics">Cupid's</hi> darts,</l>
+            <l xml:id="swift-727-06H1-line-12" n="12">Of killing eyes, or bleeding hearts:</l>
+            <l xml:id="swift-727-06H1-line-13" n="13">With friendship and esteem possest,</l>
+            <l xml:id="swift-727-06H1-line-14" n="14">I ne'er admitted love a guest.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-15" n="15">In all the habitudes of life,</l>
+            <l xml:id="swift-727-06H1-line-16" n="16">The friend, the mistress, and the wife,</l>
+            <l xml:id="swift-727-06H1-line-17" n="17">Variety we still pursue,</l>
+            <l xml:id="swift-727-06H1-line-18" n="18">In pleasure seek for something new;</l>
+            <l xml:id="swift-727-06H1-line-19" n="19">Or else, comparing with the rest,</l>
+            <l xml:id="swift-727-06H1-line-20" n="20">Take comfort, that our own is best;</l>
+            <l xml:id="swift-727-06H1-line-21" n="21">The best we value by the worst,</l>
+            <l xml:id="swift-727-06H1-line-22" n="22">(As tradesmen shew their trash at first:)</l>
+            <l xml:id="swift-727-06H1-line-23" n="23">But his pursuits are at end,</l>
+            <l xml:id="swift-727-06H1-line-24" n="24">Whom <hi rend="italics">Stella</hi> chuses for a <hi rend="italics">friend</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-25" n="25">A poet starving in a garret,</l>
+            <l xml:id="swift-727-06H1-line-26" n="26">Conning old topicks like a parrot,</l>
+            <l xml:id="swift-727-06H1-line-27" n="27">Invokes his mistress and his muse,</l>
+            <l xml:id="swift-727-06H1-line-28" n="28">And stays at home for want of shoes:</l>
+            <l xml:id="swift-727-06H1-line-29" n="29">Shou'd but his muse descending drop</l>
+            <l xml:id="swift-727-06H1-line-30" n="30">A slice of bread and mutton-chop;</l>
+            <l xml:id="swift-727-06H1-line-31" n="31">Or kindly, when his credit's out,</l>
+            <l xml:id="swift-727-06H1-line-32" n="32">Surprize him with a pint of stout<note place="foot">·A cant word for strong beer.</note>;</l>
+            <l xml:id="swift-727-06H1-line-33" n="33">Or patch his broken stocking soals,</l>
+            <l xml:id="swift-727-06H1-line-34" n="34">Or send him in a peck of coals;</l>
+            <l xml:id="swift-727-06H1-line-35" n="35">Exalted in his mighty mind,</l>
+            <l xml:id="swift-727-06H1-line-36" n="36">He flies, and leaves the stars behind;</l>
+            <l xml:id="swift-727-06H1-line-37" n="37">Counts all his labours amply paid,</l>
+            <l xml:id="swift-727-06H1-line-38" n="38">Adores her for the timely aid.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-39" n="39">Or, shou'd a porter make enquiries</l>
+            <l xml:id="swift-727-06H1-line-40" n="40">For <hi rend="italics">Chloe, Sylvia, Phillis, Iris</hi>,</l>
+            <l xml:id="swift-727-06H1-line-41" n="41">Be told the lodging, lane, and sign,</l>
+            <l xml:id="swift-727-06H1-line-42" n="42">The bow'rs that hold those nymphs divine;</l>
+            <l xml:id="swift-727-06H1-line-43" n="43">Fair <hi rend="italics">Chloe</hi> would perhaps be found</l>
+            <l xml:id="swift-727-06H1-line-44" n="44">With footmen tippling under ground;</l>
+            <l xml:id="swift-727-06H1-line-45" n="45">The charming <hi rend="italics">Sylvia</hi> beating flax,</l>
+            <l xml:id="swift-727-06H1-line-46" n="46">Her shoulders mark'd with bloody tracks;</l>
+            <l xml:id="swift-727-06H1-line-47" n="47">Bright <hi rend="italics">Phillis</hi> mending ragged smocks;</l>
+            <l xml:id="swift-727-06H1-line-48" n="48">And radiant <hi rend="italics">Iris</hi> in the pox.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-49" n="49">These are the goddesses enroll'd</l>
+            <l xml:id="swift-727-06H1-line-50" n="50">In <hi rend="italics">Curll's</hi> <note place="foot">·See an account of <hi rend="italics">Curll</hi>, Vol. IV.</note> collection, new and old,</l>
+            <l xml:id="swift-727-06H1-line-51" n="51">Whose scoundrel fathers wou'd not know 'em;</l>
+            <l xml:id="swift-727-06H1-line-52" n="52">If they shou'd meet them in a poem.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-53" n="53">True poets can depress and raise,</l>
+            <l xml:id="swift-727-06H1-line-54" n="54">Are lords of infamy and praise;</l>
+            <l xml:id="swift-727-06H1-line-55" n="55">They are not scurrilous in satire,</l>
+            <l xml:id="swift-727-06H1-line-56" n="56">Nor will in panegyrick flatter.</l>
+            <l xml:id="swift-727-06H1-line-57" n="57">Unjustly poets we asperse;</l>
+            <l xml:id="swift-727-06H1-line-58" n="58">Truth shines the brighter clad in verse;</l>
+            <l xml:id="swift-727-06H1-line-59" n="59">And all the fictions they pursue,</l>
+            <l xml:id="swift-727-06H1-line-60" n="60">Do but insinuate what is true.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-61" n="61">Now, should my praises owe their truth</l>
+            <l xml:id="swift-727-06H1-line-62" n="62">To beauty, dress, or paint, or youth,</l>
+            <l xml:id="swift-727-06H1-line-63" n="63">What Stoicks call <hi rend="italics">without our pow'r</hi>,</l>
+            <l xml:id="swift-727-06H1-line-64" n="64">They could not be insur'd an hour:</l>
+            <l xml:id="swift-727-06H1-line-65" n="65">'Twere grafting on an annual stock,</l>
+            <l xml:id="swift-727-06H1-line-66" n="66">That must our expectation mock,</l>
+            <l xml:id="swift-727-06H1-line-67" n="67">And, making one luxuriant shoot,</l>
+            <l xml:id="swift-727-06H1-line-68" n="68">Die the next year for want of root:</l>
+            <l xml:id="swift-727-06H1-line-69" n="69">Before I cou'd my verses bring,</l>
+            <l xml:id="swift-727-06H1-line-70" n="70">Perhaps you're quite another thing.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-71" n="71">So <hi rend="italics">Mævius</hi>, when he drain'd his skull</l>
+            <l xml:id="swift-727-06H1-line-72" n="72">To celebrate some suburb trull,</l>
+            <l xml:id="swift-727-06H1-line-73" n="73">His similies in order set,</l>
+            <l xml:id="swift-727-06H1-line-74" n="74">And ev'ry crambo he cou'd get;</l>
+            <l xml:id="swift-727-06H1-line-75" n="75">Had gone through all the common-places</l>
+            <l xml:id="swift-727-06H1-line-76" n="76">Worn out by wits, who rhyme on faces:</l>
+            <l xml:id="swift-727-06H1-line-77" n="77">Before he could his poem close,</l>
+            <l xml:id="swift-727-06H1-line-78" n="78">The lovely nymph had lost her nose.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-79" n="79">Your virtues safely I commend;</l>
+            <l xml:id="swift-727-06H1-line-80" n="80">They on no accidents depend:</l>
+            <l xml:id="swift-727-06H1-line-81" n="81">Let malice look with all her eyes,</l>
+            <l xml:id="swift-727-06H1-line-82" n="82">She dares not say the poet lyes.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-83" n="83"><hi rend="italics">Stella</hi>, when you these lines transcribe,</l>
+            <l xml:id="swift-727-06H1-line-84" n="84">Lest you should take them for a bribe,</l>
+            <l xml:id="swift-727-06H1-line-85" n="85">Resolv'd to mortify your pride,</l>
+            <l xml:id="swift-727-06H1-line-86" n="86">I'll here expose your weaker side.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-87" n="87">Your spirits kindle to a flame,</l>
+            <l xml:id="swift-727-06H1-line-88" n="88">Mov'd with the lightest touch of blame;</l>
+            <l xml:id="swift-727-06H1-line-89" n="89">And, when a friend in kindness tries</l>
+            <l xml:id="swift-727-06H1-line-90" n="90">To shew you where your error lies,</l>
+            <l xml:id="swift-727-06H1-line-91" n="91">Conviction does but more incense;</l>
+            <l xml:id="swift-727-06H1-line-92" n="92">Perverseness is your whole defence;</l>
+            <l xml:id="swift-727-06H1-line-93" n="93">Truth, judgment, wit, give place to spight,</l>
+            <l xml:id="swift-727-06H1-line-94" n="94">Regardless both of wrong and right;</l>
+            <l xml:id="swift-727-06H1-line-95" n="95">Your virtues all suspended wait</l>
+            <l xml:id="swift-727-06H1-line-96" n="96">Till time hath open'd reason's gate;</l>
+            <l xml:id="swift-727-06H1-line-97" n="97">And, what is worse, your passion bends</l>
+            <l xml:id="swift-727-06H1-line-98" n="98">Its force against your nearest friends;</l>
+            <l xml:id="swift-727-06H1-line-99" n="99">Which manners, decency, and pride</l>
+            <l xml:id="swift-727-06H1-line-100" n="100">Have taught you from the world to hide:</l>
+            <l xml:id="swift-727-06H1-line-101" n="101">In vain; for see, your friend hath brought</l>
+            <l xml:id="swift-727-06H1-line-102" n="102">To publick light your only fault;</l>
+            <l xml:id="swift-727-06H1-line-103" n="103">And yet a fault we often find</l>
+            <l xml:id="swift-727-06H1-line-104" n="104">Mix'd in a noble gen'rous mind;</l>
+            <l xml:id="swift-727-06H1-line-105" n="105">And may compare to <hi rend="italics">Ætna's</hi> fire,</l>
+            <l xml:id="swift-727-06H1-line-106" n="106">Which, though with trembling, all admire;</l>
+            <l xml:id="swift-727-06H1-line-107" n="107">The heat, that makes the summit glow,</l>
+            <l xml:id="swift-727-06H1-line-108" n="108">Enriching all the vales below.</l>
+            <l xml:id="swift-727-06H1-line-109" n="109">Those who in warmer climes complain</l>
+            <l xml:id="swift-727-06H1-line-110" n="110">From <hi rend="italics">Phœbus</hi>' rays they suffer pain,</l>
+            <l xml:id="swift-727-06H1-line-111" n="111">Must own, that pain is largely paid</l>
+            <l xml:id="swift-727-06H1-line-112" n="112">By gen'rous wines beneath a shade.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-113" n="113">Yet, when I find your passions rise,</l>
+            <l xml:id="swift-727-06H1-line-114" n="114">And anger sparkling in your eyes,</l>
+            <l xml:id="swift-727-06H1-line-115" n="115">I grieve those spirits should be spent,</l>
+            <l xml:id="swift-727-06H1-line-116" n="116">For nobler ends by nature meant.</l>
+            <l xml:id="swift-727-06H1-line-117" n="117">One passion with a diff'rent turn</l>
+            <l xml:id="swift-727-06H1-line-118" n="118">Makes wit inflame, or anger burn:</l>
+            <l xml:id="swift-727-06H1-line-119" n="119">So the sun's heat with diff'rent pow'rs</l>
+            <l xml:id="swift-727-06H1-line-120" n="120">Ripens the grape, the liquors sours:</l>
+            <l xml:id="swift-727-06H1-line-121" n="121">Thus <hi rend="italics">Ajax</hi>, when with rage possest</l>
+            <l xml:id="swift-727-06H1-line-122" n="122">By <hi rend="italics">Pallas</hi> breath'd into his breast,</l>
+            <l xml:id="swift-727-06H1-line-123" n="123">His valour wou'd no more employ,</l>
+            <l xml:id="swift-727-06H1-line-124" n="124">Which might alone have conquer'd <hi rend="italics">Troy</hi>;</l>
+            <l xml:id="swift-727-06H1-line-125" n="125">But blinded by resentment seeks</l>
+            <l xml:id="swift-727-06H1-line-126" n="126">For vengeance on his friends the <hi rend="italics">Greeks</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-127" n="127">You think this turbulence of blood</l>
+            <l xml:id="swift-727-06H1-line-128" n="128">From stagnating preserves the flood,</l>
+            <l xml:id="swift-727-06H1-line-129" n="129">Which thus fermenting by degrees</l>
+            <l xml:id="swift-727-06H1-line-130" n="130">Exalts the spirits, sinks the lees.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-131" n="131"><hi rend="italics">Stella</hi>, for once you reason wrong;</l>
+            <l xml:id="swift-727-06H1-line-132" n="132">For, shou'd this ferment last too long,</l>
+            <l xml:id="swift-727-06H1-line-133" n="133">By time subsiding, you may find</l>
+            <l xml:id="swift-727-06H1-line-134" n="134">Nothing but acid left behind:</l>
+            <l xml:id="swift-727-06H1-line-135" n="135">From passion you may then be freed,</l>
+            <l xml:id="swift-727-06H1-line-136" n="136">When peevishness and spleen succeed.</l>
+            <l rend="indent(1)" xml:id="swift-727-06H1-line-137" n="137">Say, <hi rend="italics">Stella</hi>, when you copy next,</l>
+            <l xml:id="swift-727-06H1-line-138" n="138">Will you keep strictly to the text?</l>
+            <l xml:id="swift-727-06H1-line-139" n="139">Dare you let these reproaches stand,</l>
+            <l xml:id="swift-727-06H1-line-140" n="140">And to your failing set your hand?</l>
+            <l xml:id="swift-727-06H1-line-141" n="141">Or, if these lines your anger fire,</l>
+            <l xml:id="swift-727-06H1-line-142" n="142">Shall they in baser flames expire?</l>
+            <l xml:id="swift-727-06H1-line-143" n="143">Whene'er they burn, if burn they must,</l>
+            <l xml:id="swift-727-06H1-line-144" n="144">They'll prove my accusation just.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

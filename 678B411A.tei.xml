@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Dean &amp; the Duke</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 15MY01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="678B411A">
+          <head type="note" n="1" xml:id="spp-678B411A-headnote-1">
+            <lg n="1" xml:id="spp-678B411A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-678B411A-headnote-1-line-group-1-line-1">by Dean Swift&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-678B411A-headnote-2">
+            <lg n="1" xml:id="spp-678B411A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-678B411A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-678B411A-headnote-3">
+            <lg n="1" xml:id="spp-678B411A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-678B411A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-678B411A-line-1" n="1">James Brydges &amp; the Dean had long been friends</l>
+            <l xml:id="swift-678B411A-line-2" n="2">James is beduked ·of course their friendship ends</l>
+            <l xml:id="swift-678B411A-line-3" n="3">But sure the Dean deserves a sharp rebuke</l>
+            <l xml:id="swift-678B411A-line-4" n="4">From knowing James to boast he knows a Duke</l>
+            <l xml:id="swift-678B411A-line-5" n="5">Yet since just Heaven the Duke's ambition mocks</l>
+            <l xml:id="swift-678B411A-line-6" n="6">Since all he got by fraud is lost by stocks</l>
+            <l xml:id="swift-678B411A-line-7" n="7">His wings are clipped he tries no more in vain</l>
+            <l xml:id="swift-678B411A-line-8" n="8">With band of fidlers to extend his train</l>
+            <l xml:id="swift-678B411A-line-9" n="9">Since he no more can build or plant or revel</l>
+            <l xml:id="swift-678B411A-line-10" n="10">The Duke &amp; Dean seem near upon a level</l>
+            <l xml:id="swift-678B411A-line-11" n="11">Oh wert thou not a Duke my good Duke Humphrey</l>
+            <l xml:id="swift-678B411A-line-12" n="12">From bailiff's claws thou scarce could keep thy bum free</l>
+            <l xml:id="swift-678B411A-line-13" n="13">A Duke to know a Dean Go smooth thy crown</l>
+            <l xml:id="swift-678B411A-line-14" n="14">Thy brother far thy betters wore a gown</l>
+            <l xml:id="swift-678B411A-line-15" n="15">Well but a Duke thou art so pleased the king</l>
+            <l xml:id="swift-678B411A-line-16" n="16">Oh would his Majesty add but a string.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The</hi> DOG <hi rend="italics">and</hi> THIEF.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 24NO01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> √'d EWyble 10FE02 agt 395-0203; ed. JW 14FE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="395-0252">
+          <head type="note" n="1" xml:id="spp-395-0252-headnote-1">
+            <lg n="1" xml:id="spp-395-0252-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-395-0252-headnote-1-line-group-1-line-1">Written in the Year 1726.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-395-0252-headnote-2">
+            <lg n="1" xml:id="spp-395-0252-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-395-0252-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-395-0252-headnote-3">
+            <lg n="1" xml:id="spp-395-0252-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-395-0252-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-395-0252-line-1" n="1"><hi rend="display-initial">Q</hi>UOTH the Thief to the Dog; let me into your Door,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-2" n="2">And I'll give you these delicate Bits:</l>
+            <l xml:id="swift-395-0252-line-3" n="3">Quoth the Dog, I should then be more Villain than you're,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-4" n="4">And besides must be out of my Wits:</l>
+            <l xml:id="swift-395-0252-line-5" n="5">Your delicate Bits will not serve me a Meal,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-6" n="6">But my Master each Day gives me Bread;</l>
+            <l xml:id="swift-395-0252-line-7" n="7">You'll fly when you get what you come here to steal,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-8" n="8">And I must be hang'd in your Stead.</l>
+            <l xml:id="swift-395-0252-line-9" n="9"><lb/>The Stcok-jobber thus, from <hi rend="italics">Change-Alley</hi> goes down,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-10" n="10">And tips you the Freeman a Wink;</l>
+            <l xml:id="swift-395-0252-line-11" n="11">Let me have but your Vote to serve for the Town,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-12" n="12">And here is a Guinea to drink.</l>
+            <l xml:id="swift-395-0252-line-13" n="13">Said the Freeman, your Guinea To-night would be spent,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-14" n="14">Your Offers of Bribery cease;</l>
+            <l xml:id="swift-395-0252-line-15" n="15">I'll vote for my Landlord to whom I pay Rent,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-16" n="16">Or else I may forfeit my Lease</l>
+            <l xml:id="swift-395-0252-line-17" n="17">From <hi rend="italics">London</hi> they come, silly People to chouse,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-18" n="18">Their Lands and their Faces unknown;</l>
+            <l xml:id="swift-395-0252-line-19" n="19">Who'd vote a Rogue into the Parliament-house,</l>
+            <l rend="indent(1)" xml:id="swift-395-0252-line-20" n="20">That would turn a Man out of his own?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

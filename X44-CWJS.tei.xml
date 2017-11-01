@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A True and Faithful </hi>INVENTORY<hi rend="italics"><lb/>  of the Goods belonging to Dr</hi>. S<hi rend="small-caps">W──T</hi>,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 14JA97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> om. lines added JIF 10JA02; EMENDED JW 5MR17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X44-CWJS">
+          <head type="note" n="1" xml:id="spp-X44-CWJS-headnote-1">
+            <lg n="1" xml:id="spp-X44-CWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-CWJS-headnote-1-line-group-1-line-1"><hi rend="italics">Vicar of </hi>Lara Cor<hi rend="italics">; upon lending his House</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X44-CWJS-headnote-2">
+            <lg n="1" xml:id="spp-X44-CWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-CWJS-headnote-2-line-group-1-line-1"><hi rend="italics">to the Bishop of ────── till his own was built</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X44-CWJS-headnote-3">
+            <lg n="1" xml:id="spp-X44-CWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X44-CWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X44-CWJS-line-1" n="1">
+              <hi rend="display-initial">A<hi rend="small-caps">N</hi> Oaken broken Elbow-Chair;</hi>
+            </l>
+            <l xml:id="swift-X44-CWJS-line-2" n="2">A Cawdle-Cup without an Ear;</l>
+            <l xml:id="swift-X44-CWJS-line-3" n="3">A batter'd, shatter'd Ash Bedstead;</l>
+            <l xml:id="swift-X44-CWJS-line-4" n="4">A Box of Deal, without a Lid,</l>
+            <l xml:id="swift-X44-CWJS-line-5" n="5">A Pair of Tongs, but out of joint;</l>
+            <l xml:id="swift-X44-CWJS-line-6" n="6">A Back-sword Poker without Point;</l>
+            <l xml:id="swift-X44-CWJS-line-7" n="7">A Pot that's crack'd across, around</l>
+            <l xml:id="swift-X44-CWJS-line-8" n="8">With an old knotted Garter bound;</l>
+            <l xml:id="swift-X44-CWJS-line-9" n="9">An Iron Lock without a Key;</l>
+            <l xml:id="swift-X44-CWJS-line-10" n="10">A Wig, with hanging, quite grown grey;</l>
+            <l xml:id="swift-X44-CWJS-line-11" n="11">A Curtain worn to half a Stripe;</l>
+            <l xml:id="swift-X44-CWJS-line-12" n="12">A Pair of Bellows without Pipe;</l>
+            <l xml:id="swift-X44-CWJS-line-13" n="13">A Dish, which might good Meat afford once;</l>
+            <l xml:id="swift-X44-CWJS-line-14" n="14">An <hi rend="italics">Ovid</hi>, and an old <hi rend="italics">Concordance</hi>;</l>
+            <l xml:id="swift-X44-CWJS-line-15" n="15">A Bottle-bottom, Wooden Platter,</l>
+            <l xml:id="swift-X44-CWJS-line-16" n="16">One is for Meal, and one for Water;</l>
+            <l xml:id="swift-X44-CWJS-line-17" n="17">There likewise is a Copper Skillet,</l>
+            <l xml:id="swift-X44-CWJS-line-18" n="18">Which runs as fast out as you fill it;</l>
+            <l xml:id="swift-X44-CWJS-line-19" n="19">A Candlestick, Snuff-dish, and Save-all:</l>
+            <l xml:id="swift-X44-CWJS-line-20" n="20">And thus his Houshold Goods you have all.</l>
+            <l xml:id="swift-X44-CWJS-line-21" n="21">These to your Lordship, as a Friend,</l>
+            <l xml:id="swift-X44-CWJS-line-22" n="22">'Till you have built, I freely lend:</l>
+            <l xml:id="swift-X44-CWJS-line-23" n="23">They'll serve your Lordship for a Shift;</l>
+            <l xml:id="swift-X44-CWJS-line-24" n="24">Why not as well as Doctor <hi rend="italics">Sw──t</hi>?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  LETTER<lb/>  TO<lb/>  Mr. <hi rend="italics">A──── P────s</hi>, on his Landing in<lb/>  <hi rend="italics">Ireland</hi>, and being abused for his<lb/>  Poems, on Lord <hi rend="italics">Carteret</hi>'s Family,<lb/>  by many <hi rend="italics">Irish</hi> Bards, especially Doctor<lb/>  <hi rend="italics">Gulliver</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="CK 29AP93"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M12635D-">
+          <head type="note" n="1" xml:id="spp-M12635D--headnote-1">
+            <lg n="1" xml:id="spp-M12635D--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M12635D--headnote-1-line-group-1-line-1"><hi rend="italics">By an</hi> Irish Clergyman, <hi rend="italics">living privately</hi>, in <hi rend="italics">London</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M12635D--headnote-2">
+            <lg n="1" xml:id="spp-M12635D--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M12635D--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M12635D--headnote-3">
+            <lg n="1" xml:id="spp-M12635D--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M12635D--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M12635D--line-1" n="1"><hi rend="display-initial">F</hi>ROM Noise retir'd, and busy Life;</l>
+            <l xml:id="swift-M12635D--line-2" n="2">Estrang'd from Care, and freed from Strife.</l>
+            <l xml:id="swift-M12635D--line-3" n="3">Forgetful of the, once-lov'd, Town;</l>
+            <l xml:id="swift-M12635D--line-4" n="4">From <hi rend="italics">Court</hi> to <hi rend="italics">Change</hi>, my Name, unknown;</l>
+            <l xml:id="swift-M12635D--line-5" n="5">Careless, which <hi rend="italics">Miss</hi> or <hi rend="italics">Madam</hi> boasts</l>
+            <l xml:id="swift-M12635D--line-6" n="6">Herself, amongst the <hi rend="italics">First-rate Toasts</hi>;</l>
+            <l xml:id="swift-M12635D--line-7" n="7">Careless, who <hi rend="italics">Chief</hi>, thro' powerful Tongue,</l>
+            <l xml:id="swift-M12635D--line-8" n="8">At <hi rend="italics">Bar</hi>, directs <hi rend="italics">The Right and Wrong</hi>;</l>
+            <l xml:id="swift-M12635D--line-9" n="9">Or who, from <hi rend="italics">Pulpit</hi>, painting <hi rend="italics">Evil</hi>,</l>
+            <l xml:id="swift-M12635D--line-10" n="10">In blackest Colours <hi rend="italics">shades the Devil</hi>;</l>
+            <l xml:id="swift-M12635D--line-11" n="11">Who smoaks at <hi rend="italics">Jo</hi>'s, the <hi rend="italics">sagest Cit</hi>;</l>
+            <l xml:id="swift-M12635D--line-12" n="12">Whom <hi rend="italics">Button</hi> dubbs the <hi rend="italics">Tip-top Wit</hi>;</l>
+            <l xml:id="swift-M12635D--line-13" n="13">To thee, my lov'd, and much fam'd Friend,</l>
+            <l xml:id="swift-M12635D--line-14" n="14">Obscure, these silent Lines I send.</l>
+            <l xml:id="swift-M12635D--line-15" n="15">I send, to greet the Man, ere while,</l>
+            <l xml:id="swift-M12635D--line-16" n="16">Own'd, <hi rend="italics">First in Wit</hi>, thro' <hi rend="italics">Britain</hi>'s <hi rend="italics">Isle</hi>;</l>
+            <l xml:id="swift-M12635D--line-17" n="17">To greet, That <hi rend="italics">Phœbus</hi> gives to boast,</l>
+            <l xml:id="swift-M12635D--line-18" n="18">He's not so averse, to th' <hi rend="italics">Irish Coast</hi>:</l>
+            <l xml:id="swift-M12635D--line-19" n="19">Since, when <hi rend="italics">he sets</hi> and <hi rend="italics">quits</hi> our Skies,</l>
+            <l xml:id="swift-M12635D--line-20" n="20">He bids his Favourite <hi rend="italics">Philips rise</hi>.</l>
+            <l xml:id="swift-M12635D--line-21" n="21">But, hark! my Friend, whene'er you <hi rend="italics">Land</hi>,</l>
+            <l xml:id="swift-M12635D--line-22" n="22">And print your Foot on <hi rend="italics">Irish</hi> Sand;</l>
+            <l xml:id="swift-M12635D--line-23" n="23">Unless of <hi rend="italics">Temper</hi> you have store,</l>
+            <l xml:id="swift-M12635D--line-24" n="24">You'll meet <hi rend="italics">th' inhospitable Shore</hi>;</l>
+            <l xml:id="swift-M12635D--line-25" n="25">Where Swarms of <hi rend="italics">Witlings</hi> buz, and prey</l>
+            <l xml:id="swift-M12635D--line-26" n="26">On every thing, brought new from Sea;</l>
+            <l xml:id="swift-M12635D--line-27" n="27">Where, <hi rend="italics">Eastern Winds</hi>, with foreign News,</l>
+            <l xml:id="swift-M12635D--line-28" n="28">Some <hi rend="italics">Home-spun Nonsense</hi>, still, produce.</l>
+            <l rend="indent(1)" xml:id="swift-M12635D--line-29" n="29">Regret not, that thy <hi rend="italics">Virgin Muse</hi>,</l>
+            <l xml:id="swift-M12635D--line-30" n="30">To sing of <hi rend="italics">Virgin Charms</hi>, did chuse;</l>
+            <l xml:id="swift-M12635D--line-31" n="31">Regret not, thy well-worded Praise;</l>
+            <l xml:id="swift-M12635D--line-32" n="32"><hi rend="italics">The sweetest Subject, softest Lays</hi>:</l>
+            <l xml:id="swift-M12635D--line-33" n="33">Tho' puny Rhimers have thought fit</l>
+            <l xml:id="swift-M12635D--line-34" n="34">To shew, from thence, their want of Wit;</l>
+            <l xml:id="swift-M12635D--line-35" n="35">Tho' want of Manners they have shewn,</l>
+            <l xml:id="swift-M12635D--line-36" n="36">With Ribaldry, to teize the Town.</l>
+            <l rend="indent(1)" xml:id="swift-M12635D--line-37" n="37">Thus, in <hi rend="italics">A Country-Village</hi>, bawl</l>
+            <l xml:id="swift-M12635D--line-38" n="38">Crowds of that Animal, we call</l>
+            <l xml:id="swift-M12635D--line-39" n="39">A <hi rend="italics">Cabbin-Cur</hi>; whene'er they spy</l>
+            <l xml:id="swift-M12635D--line-40" n="40">A true <hi rend="italics">Molossian-bred</hi>, pass by.</l>
+            <l xml:id="swift-M12635D--line-41" n="41"><hi rend="italics">They Run; they Bark; they Rage; they Foam</hi>:</l>
+            <l xml:id="swift-M12635D--line-42" n="42">Scarce looking back, he trudges home.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Paraphrase of six Verses of Horace.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 3MY12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="825-418B">
+          <head type="note" n="1" xml:id="spp-825-418B-headnote-1">
+            <lg n="1" xml:id="spp-825-418B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-418B-headnote-1-line-group-1-line-1">On a contraverted Election between S<hi rend="superscript">r</hi> Thomas Prendergast &amp; M<hi rend="superscript">r</hi> Moore.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-825-418B-headnote-2">
+            <lg n="1" xml:id="spp-825-418B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-418B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-825-418B-headnote-3">
+            <lg n="1" xml:id="spp-825-418B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-825-418B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-825-418B-line-1" n="1">If noisy Tom should in the Senate prate</l>
+            <l xml:id="swift-825-418B-line-2" n="2">That he would answer both for church &amp; state</l>
+            <l xml:id="swift-825-418B-line-3" n="3">And farther to demonstrate his affection</l>
+            <l xml:id="swift-825-418B-line-4" n="4">Would take the Kingdom into his Protection</l>
+            <l xml:id="swift-825-418B-line-5" n="5">All Mortals must be curious to enquire</l>
+            <l xml:id="swift-825-418B-line-6" n="6">Who could this Coxcomb be &amp; who his sire</l>
+            <l xml:id="swift-825-418B-line-7" n="7">What! Thou the spawn of him who sham'd our Isle</l>
+            <l xml:id="swift-825-418B-line-8" n="8">That Traytor, assassin Informer vile?</l>
+            <l xml:id="swift-825-418B-line-9" n="9">Tho by the Female side you proudly bring</l>
+            <l xml:id="swift-825-418B-line-10" n="10">To mend your Breed the Murd'rer of a King</l>
+            <l xml:id="swift-825-418B-line-11" n="11">What was thy Grandsire but a Mountaineer</l>
+            <l xml:id="swift-825-418B-line-12" n="12">Who held a Cabbin for ten Groats a Year</l>
+            <l xml:id="swift-825-418B-line-13" n="13">Whose Master Moore preserv'd him from a Halter</l>
+            <l xml:id="swift-825-418B-line-14" n="14">For stealing Cows, nor could he read the Psalter.</l>
+            <l xml:id="swift-825-418B-line-15" n="15">Durst, thou ungrateful! from the Senate Chase</l>
+            <l xml:id="swift-825-418B-line-16" n="16">Thy Founders Grandson &amp; usurp his Place?</l>
+            <l xml:id="swift-825-418B-line-17" n="17">Just Heaven! to see thy Dunghill Dastard Brood</l>
+            <l xml:id="swift-825-418B-line-18" n="18">Survive in thee and make the Proverb <note place="foot">·Save a Thief &amp;c.</note> good</l>
+            <l xml:id="swift-825-418B-line-19" n="19">Thou vote \<hi rend="italics">del</hi>·a·worthy\a worthy Citizen to Iail──</l>
+            <l xml:id="swift-825-418B-line-20" n="20">In spite of Iustice &amp; refuse his Bail!</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

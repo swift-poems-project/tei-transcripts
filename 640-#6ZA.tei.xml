@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="black-letter">Minor Notes</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 27SE06"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="640-00236ZA">
+          <head type="note" n="1" xml:id="spp-640-00236ZA-headnote-1">
+            <lg n="1" xml:id="spp-640-00236ZA-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-640-00236ZA-headnote-1-line-group-1-line-1">“P<hi rend="small-caps">OETRY, A </hi>R<hi rend="small-caps">HAPSODY</hi>.”── Swift, we are told, received the thanks of the royal family for this poem. This can only be explained, as Dr. King explained it, by the assumption that “irony is not a figure in German rhetoric.” It is probable, however, that the royal family had seen only the London edition, from which Swift had struck out the more offensive passages. Sir W. Scott has professedly given these in notes on the poem; but two which escaped his observation I shall here quote for the information of the curious, marking the lines in italic:──</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-640-00236ZA-headnote-2">
+            <lg n="1" xml:id="spp-640-00236ZA-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-640-00236ZA-headnote-2-line-group-1-line-1"><lb/>From the description of Britain's Monarch the following were also omitted:──</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-640-00236ZA-headnote-3">
+            <lg n="1" xml:id="spp-640-00236ZA-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-640-00236ZA-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

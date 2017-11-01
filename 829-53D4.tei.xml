@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A<lb/>  DESCRIPTION<lb/>  OF THE<lb/>  <hi rend="italics">COLLEGE-GREEN</hi> CLUB.<lb/>  A<lb/>  SATIRE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 30JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="829-53D4">
+          <head type="note" n="1" xml:id="spp-829-53D4-headnote-1">
+            <lg n="1" xml:id="spp-829-53D4-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-53D4-headnote-1-line-group-1-line-1">By the FARMER.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-829-53D4-headnote-2">
+            <lg n="1" xml:id="spp-829-53D4-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-53D4-headnote-2-line-group-1-line-1">With the S<hi rend="small-caps">TATE</hi> and C<hi rend="small-caps">ASE</hi>, Of <hi rend="italics">Roebuck O Shaghnessy</hi>, Esq; Inscrib'd to the People of I<hi rend="small-caps">RELAND</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-829-53D4-headnote-3">
+            <lg n="1" xml:id="spp-829-53D4-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-53D4-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-829-53D4-line-1" n="1"><hi rend="display-initial">A</hi>S I strol'd the city oft,</l>
+            <l xml:id="swift-829-53D4-line-2" n="2">I saw a building large and loft,</l>
+            <l xml:id="swift-829-53D4-line-3" n="3">Not a bow-shot from the college,</l>
+            <l xml:id="swift-829-53D4-line-4" n="4">Yet half the globe for sense and knowledge;</l>
+            <l xml:id="swift-829-53D4-line-5" n="5">By the prudent architect,</l>
+            <l xml:id="swift-829-53D4-line-6" n="6">Plac'd against the church direct,</l>
+            <l xml:id="swift-829-53D4-line-7" n="7">Making good my grand-dame's jest,</l>
+            <l xml:id="swift-829-53D4-line-8" n="8">'Near the church' you know the rest;</l>
+            <l xml:id="swift-829-53D4-line-9" n="9">Tell us what the place contains,</l>
+            <l xml:id="swift-829-53D4-line-10" n="10">Many a head that holds no brains,</l>
+            <l xml:id="swift-829-53D4-line-11" n="11">These dominiac let me dubb,</l>
+            <l xml:id="swift-829-53D4-line-12" n="12">With the name of calf's-head club,</l>
+            <l xml:id="swift-829-53D4-line-13" n="13">Such assemblies you might swear,</l>
+            <l xml:id="swift-829-53D4-line-14" n="14">Meet where butchers beat a bear,</l>
+            <l xml:id="swift-829-53D4-line-15" n="15">Such a noise and such harangueing,</l>
+            <l xml:id="swift-829-53D4-line-16" n="16">When a brother thief is hanging,</l>
+            <l xml:id="swift-829-53D4-line-17" n="17">Such a rout and such a rabble,</l>
+            <l xml:id="swift-829-53D4-line-18" n="18">Run to hear Jack-pudding babble,</l>
+            <l xml:id="swift-829-53D4-line-19" n="19">Such a crowd their ordure throws,</l>
+            <l xml:id="swift-829-53D4-line-20" n="20">On a fearless villain's nose;</l>
+            <l xml:id="swift-829-53D4-line-21" n="21">Could I from the building top,</l>
+            <l xml:id="swift-829-53D4-line-22" n="22">Hear the rattling thunder drop,</l>
+            <l xml:id="swift-829-53D4-line-23" n="23">While the Devil upon the roof,</l>
+            <l xml:id="swift-829-53D4-line-24" n="24">If the Devil be thunder-proof,</l>
+            <l xml:id="swift-829-53D4-line-25" n="25">Should with poker fiery red,</l>
+            <l xml:id="swift-829-53D4-line-26" n="26">Crack the stones and melt the lead,</l>
+            <l xml:id="swift-829-53D4-line-27" n="27">Drive them down on every skull,</l>
+            <l xml:id="swift-829-53D4-line-28" n="28">While the den of thieves is full,</l>
+            <l xml:id="swift-829-53D4-line-29" n="29">Quite destroy that harpey's nest,</l>
+            <l xml:id="swift-829-53D4-line-30" n="30">How might our isle then be blest.</l>
+            <l xml:id="swift-829-53D4-line-31" n="31">For divines allow that God</l>
+            <l xml:id="swift-829-53D4-line-32" n="32">Sometimes makes the Devil his rod,</l>
+            <l xml:id="swift-829-53D4-line-33" n="33">And the gospel will inform us,</l>
+            <l xml:id="swift-829-53D4-line-34" n="34">He can punish sins enormous,</l>
+            <l xml:id="swift-829-53D4-line-35" n="35">Yet should we endow the schools,</l>
+            <l xml:id="swift-829-53D4-line-36" n="36">For his lunaticks and fools,</l>
+            <l xml:id="swift-829-53D4-line-37" n="37">With a rood or two of land,</l>
+            <l xml:id="swift-829-53D4-line-38" n="38">I allow the bill must stand;</l>
+            <l xml:id="swift-829-53D4-line-39" n="39">You, perhaps will ask me why so?</l>
+            <l xml:id="swift-829-53D4-line-40" n="40">But it's still with this proviso,</l>
+            <l xml:id="swift-829-53D4-line-41" n="41">Since the house is took to last,</l>
+            <l xml:id="swift-829-53D4-line-42" n="42">Let a royal grant be past,</l>
+            <l xml:id="swift-829-53D4-line-43" n="43">That the club have right to dwell,</l>
+            <l xml:id="swift-829-53D4-line-44" n="44">Each within his proper cell,</l>
+            <l xml:id="swift-829-53D4-line-45" n="45">With a passage left to creep in,</l>
+            <l xml:id="swift-829-53D4-line-46" n="46">And a hole above for peeping,</l>
+            <l xml:id="swift-829-53D4-line-47" n="47">Let them when they once get in,</l>
+            <l xml:id="swift-829-53D4-line-48" n="48">Sell the nation for a pin,</l>
+            <l xml:id="swift-829-53D4-line-49" n="49">While they sit a picking straws,</l>
+            <l xml:id="swift-829-53D4-line-50" n="50">Let them dream of making laws,</l>
+            <l xml:id="swift-829-53D4-line-51" n="51">While they even hold their tongue,</l>
+            <l xml:id="swift-829-53D4-line-52" n="52">Let them dabble in their dung,</l>
+            <l xml:id="swift-829-53D4-line-53" n="53">Let them form a grand committee,</l>
+            <l xml:id="swift-829-53D4-line-54" n="54">How to plague and starve the city,</l>
+            <l xml:id="swift-829-53D4-line-55" n="55">Let them stare and storm and frown,</l>
+            <l xml:id="swift-829-53D4-line-56" n="56">When they see a clergy's gown,</l>
+            <l xml:id="swift-829-53D4-line-57" n="57">Let them e'er they crack a louse,</l>
+            <l xml:id="swift-829-53D4-line-58" n="58">Call for th' order of the house,</l>
+            <l xml:id="swift-829-53D4-line-59" n="59">Let them with their ganzling quills,</l>
+            <l xml:id="swift-829-53D4-line-60" n="60">Scribble senseless heads of bills,</l>
+            <l xml:id="swift-829-53D4-line-61" n="61">We may while they strain their throats,</l>
+            <l xml:id="swift-829-53D4-line-62" n="62">Wipe our a──s with their votes.</l>
+            <l xml:id="swift-829-53D4-line-63" n="63">Let his ──────, that rampant ass,</l>
+            <l xml:id="swift-829-53D4-line-64" n="64">Stuff his guts with hay and grass,</l>
+            <l xml:id="swift-829-53D4-line-65" n="65">For before the town he fleeces,</l>
+            <l xml:id="swift-829-53D4-line-66" n="66">Roger will tare him to pieces.</l>
+            <l xml:id="swift-829-53D4-line-67" n="67">At the P────── hollow boy,</l>
+            <l xml:id="swift-829-53D4-line-68" n="68">Worthy off-spring of shoe-boy,</l>
+            <l xml:id="swift-829-53D4-line-69" n="69">Tutor, traytor, vile seducer,</l>
+            <l xml:id="swift-829-53D4-line-70" n="70">Perjur'd rebel, vile accuser,</l>
+            <l xml:id="swift-829-53D4-line-71" n="71">Lay thy paultry state aside,</l>
+            <l xml:id="swift-829-53D4-line-72" n="72">Sprung from durt, you regicide,</l>
+            <l xml:id="swift-829-53D4-line-73" n="73">Fall a working like a mole,</l>
+            <l xml:id="swift-829-53D4-line-74" n="74">Raise the durt about your hole.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-75" n="75"><lb/>Come assist me muse obedient,</l>
+            <l xml:id="swift-829-53D4-line-76" n="76">Let us try some new expedient,</l>
+            <l xml:id="swift-829-53D4-line-77" n="77">Shift the scene for half an hour,</l>
+            <l xml:id="swift-829-53D4-line-78" n="78">Time and place are in thy pow'r;</l>
+            <l xml:id="swift-829-53D4-line-79" n="79">Thither gentle muse conduct me,</l>
+            <l xml:id="swift-829-53D4-line-80" n="80">I shall ask, and you instruct me.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-81" n="81">See──── the muse unbars the gate,</l>
+            <l xml:id="swift-829-53D4-line-82" n="82">Twigg the monkeys how they prate:────</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-83" n="83">Let me be allow'd to tell,</l>
+            <l xml:id="swift-829-53D4-line-84" n="84">What I heard in yonder cell:</l>
+            <l xml:id="swift-829-53D4-line-85" n="85">Near the door an entrance gape,</l>
+            <l xml:id="swift-829-53D4-line-86" n="86">Crouded round with antique shape,</l>
+            <l xml:id="swift-829-53D4-line-87" n="87">Poverty, grief, and endless care,</l>
+            <l xml:id="swift-829-53D4-line-88" n="88">Causeless joy, and true dispair,</l>
+            <l xml:id="swift-829-53D4-line-89" n="89">Discord perriwig'd with snakes,</l>
+            <l xml:id="swift-829-53D4-line-90" n="90">See the dreadful stride he takes;</l>
+            <l xml:id="swift-829-53D4-line-91" n="91">By this odious crew beset,</l>
+            <l xml:id="swift-829-53D4-line-92" n="92">I began to rage and fret,</l>
+            <l xml:id="swift-829-53D4-line-93" n="93">And resolv'd to break their pates,</l>
+            <l xml:id="swift-829-53D4-line-94" n="94">Or I'd enter at their gates;</l>
+            <l xml:id="swift-829-53D4-line-95" n="95">Had not one, just i'the nick,</l>
+            <l xml:id="swift-829-53D4-line-96" n="96">Whisper'd me, let down your stick,</l>
+            <l xml:id="swift-829-53D4-line-97" n="97">What said I, is this the mad-house,</l>
+            <l xml:id="swift-829-53D4-line-98" n="98">A friend made answer they're but shadows,</l>
+            <l xml:id="swift-829-53D4-line-99" n="99">Phantoms, bodiless and vain,</l>
+            <l xml:id="swift-829-53D4-line-100" n="100">Empty visions of the brain;</l>
+            <l xml:id="swift-829-53D4-line-101" n="101">At the porch Briarius stands,</l>
+            <l xml:id="swift-829-53D4-line-102" n="102">Shews a bribe in all his hands,</l>
+            <l xml:id="swift-829-53D4-line-103" n="103">When the rogues their country fleece,</l>
+            <l xml:id="swift-829-53D4-line-104" n="104">They may hope for pence a piece.</l>
+            <l xml:id="swift-829-53D4-line-105" n="105">When I enter'd, two hundred brutes,</l>
+            <l xml:id="swift-829-53D4-line-106" n="106">I saw involv'd in wild disputes,</l>
+            <l xml:id="swift-829-53D4-line-107" n="107">Roaring till their lungs were spent,</l>
+            <l xml:id="swift-829-53D4-line-108" n="108">For priviledge of parliament;</l>
+            <l xml:id="swift-829-53D4-line-109" n="109">Now a new misfortune feels,</l>
+            <l xml:id="swift-829-53D4-line-110" n="110">Dreading to be laid by th' heels,</l>
+            <l xml:id="swift-829-53D4-line-111" n="111">Never durst a muse before,</l>
+            <l xml:id="swift-829-53D4-line-112" n="112">Enter that infernal door;</l>
+            <l xml:id="swift-829-53D4-line-113" n="113">Sp────r stifled with the smell,</l>
+            <l xml:id="swift-829-53D4-line-114" n="114">Into spleen and vapours fell,</l>
+            <l xml:id="swift-829-53D4-line-115" n="115">By the stygian flames that flew,</l>
+            <l xml:id="swift-829-53D4-line-116" n="116">From the dire infectious crew,</l>
+            <l xml:id="swift-829-53D4-line-117" n="117">Not the stink o' the snake of Vernus,</l>
+            <l xml:id="swift-829-53D4-line-118" n="118">Could have more offended our nose,</l>
+            <l xml:id="swift-829-53D4-line-119" n="119">Had she flown but o'er the top,</l>
+            <l xml:id="swift-829-53D4-line-120" n="120">She must feel her pinions drop,</l>
+            <l xml:id="swift-829-53D4-line-121" n="121">And by exhallation dire,</l>
+            <l xml:id="swift-829-53D4-line-122" n="122">Tho' a goddess, must retire</l>
+            <l xml:id="swift-829-53D4-line-123" n="123">In a fright, and make her way,</l>
+            <l xml:id="swift-829-53D4-line-124" n="124">But resolv'd were I to stay.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-125" n="125"><lb/>When I saw the keeper frown,</l>
+            <l xml:id="swift-829-53D4-line-126" n="126">Tipping him with half a crown,</l>
+            <l xml:id="swift-829-53D4-line-127" n="127">Now said I, we are alone,</l>
+            <l xml:id="swift-829-53D4-line-128" n="128">Name your heroes one by one.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-129" n="129"><lb/>Who is that ill-featur'd fellow,</l>
+            <l xml:id="swift-829-53D4-line-130" n="130">That doth madly grin and bellow,</l>
+            <l xml:id="swift-829-53D4-line-131" n="131">'Gainst our isle and liberty,</l>
+            <l xml:id="swift-829-53D4-line-132" n="132">Is it satan that I see,</l>
+            <l xml:id="swift-829-53D4-line-133" n="133">Honest keeper drive him further,</l>
+            <l xml:id="swift-829-53D4-line-134" n="134">In his looks are hell and murder,</l>
+            <l xml:id="swift-829-53D4-line-135" n="135">See his scolding visage dop,</l>
+            <l xml:id="swift-829-53D4-line-136" n="136">While the load-S<hi rend="small-caps">TONE</hi> does him prop,</l>
+            <l xml:id="swift-829-53D4-line-137" n="137">Keeper shew me where to fix,</l>
+            <l xml:id="swift-829-53D4-line-138" n="138">On these pupps a pair of Dicks,</l>
+            <l xml:id="swift-829-53D4-line-139" n="139">By their lanthorn jaws and leathern,</l>
+            <l xml:id="swift-829-53D4-line-140" n="140">You may swear they both are brethern.</l>
+            <l xml:id="swift-829-53D4-line-141" n="141">Dear companions hug and kiss,</l>
+            <l xml:id="swift-829-53D4-line-142" n="142">Ask old glub is he a p────st;</l>
+            <l xml:id="swift-829-53D4-line-143" n="143">Tye them keeper in a fetter,</l>
+            <l xml:id="swift-829-53D4-line-144" n="144">Let them storm and stink together,</l>
+            <l xml:id="swift-829-53D4-line-145" n="145">Both are apt to be unruly,</l>
+            <l xml:id="swift-829-53D4-line-146" n="146">Lash them bravely, lash them duly,</l>
+            <l xml:id="swift-829-53D4-line-147" n="147">Tho' tis hopeless to reclaim them,</l>
+            <l xml:id="swift-829-53D4-line-148" n="148">Scorpion rods perhaps may tame them.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-149" n="149"><lb/>Keeper, yon old dotard smoak,</l>
+            <l xml:id="swift-829-53D4-line-150" n="150">Sweetly snoring in his cloak,</l>
+            <l xml:id="swift-829-53D4-line-151" n="151">Who is he? why tis his G──,</l>
+            <l xml:id="swift-829-53D4-line-152" n="152">Mark his ill-meant solemn f──e,</l>
+            <l xml:id="swift-829-53D4-line-153" n="153">See he wakes, and now does grin,</l>
+            <l xml:id="swift-829-53D4-line-154" n="154">Half encompas'd with his kin.</l>
+            <l xml:id="swift-829-53D4-line-155" n="155">There observe the tribe of B────m,</l>
+            <l xml:id="swift-829-53D4-line-156" n="156">For he never fails to bring them,</l>
+            <l xml:id="swift-829-53D4-line-157" n="157">While he sleeps the whole debate,</l>
+            <l xml:id="swift-829-53D4-line-158" n="158">They submissive round him wait,</l>
+            <l xml:id="swift-829-53D4-line-159" n="159">Yet would gladly see the hunks,</l>
+            <l xml:id="swift-829-53D4-line-160" n="160">In his grave, and search his trunks;</l>
+            <l xml:id="swift-829-53D4-line-161" n="161">See, they gently touch his coat,</l>
+            <l xml:id="swift-829-53D4-line-162" n="162">But to yawn will give his vote,</l>
+            <l xml:id="swift-829-53D4-line-163" n="163">Always true to his vocation,</l>
+            <l xml:id="swift-829-53D4-line-164" n="164">For the court against the nation.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-165" n="165"><lb/>Bless us Jack,── art thou there man!</l>
+            <l xml:id="swift-829-53D4-line-166" n="166">What, M──g──l near to the chairman!</l>
+            <l xml:id="swift-829-53D4-line-167" n="167">You're too one of the committee,</l>
+            <l xml:id="swift-829-53D4-line-168" n="168">Yet I look on thee with pity,</l>
+            <l xml:id="swift-829-53D4-line-169" n="169">You are now a noble 'Squire,</l>
+            <l xml:id="swift-829-53D4-line-170" n="170">Sell thy country well for hire,</l>
+            <l xml:id="swift-829-53D4-line-171" n="171">Let them have from you no quarter,</l>
+            <l xml:id="swift-829-53D4-line-172" n="172">For your ancestors trod mortar,</l>
+            <l xml:id="swift-829-53D4-line-173" n="173">And at Howth to crown your fame,</l>
+            <l xml:id="swift-829-53D4-line-174" n="174">On a chimney cut your name,</l>
+            <l xml:id="swift-829-53D4-line-175" n="175">To shew the world you'd be a tarter,</l>
+            <l xml:id="swift-829-53D4-line-176" n="176">Now for hell dye a true martyr.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-177" n="177"><lb/>Here comes a triplet could you tell,</l>
+            <l xml:id="swift-829-53D4-line-178" n="178">Where to find such on this side hell,</l>
+            <l xml:id="swift-829-53D4-line-179" n="179">Gallows J──s, G──r, and Cl──ts,</l>
+            <l xml:id="swift-829-53D4-line-180" n="180">Souse them in their own excrements,</l>
+            <l xml:id="swift-829-53D4-line-181" n="181">Ever mischief in their hearts,</l>
+            <l xml:id="swift-829-53D4-line-182" n="182">If they fail tis want of parts.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-183" n="183"><lb/>Dreadful sight! what learned M──n,</l>
+            <l xml:id="swift-829-53D4-line-184" n="184">Metamorphos'd to a gorgan,</l>
+            <l xml:id="swift-829-53D4-line-185" n="185">For thy horned looks I own,</l>
+            <l xml:id="swift-829-53D4-line-186" n="186">Half converts you into stone;</l>
+            <l xml:id="swift-829-53D4-line-187" n="187">Hast thou been so long at school,</l>
+            <l xml:id="swift-829-53D4-line-188" n="188">Now to turn a factious fool;</l>
+            <l xml:id="swift-829-53D4-line-189" n="189">Alma mater was thy mother,</l>
+            <l xml:id="swift-829-53D4-line-190" n="190">Every young divine thy brother,</l>
+            <l xml:id="swift-829-53D4-line-191" n="191">Thou a disobedient varlet,</l>
+            <l xml:id="swift-829-53D4-line-192" n="192">To treat thy mother like a harlot,</l>
+            <l xml:id="swift-829-53D4-line-193" n="193">Thou ungrateful to thy teachers,</l>
+            <l xml:id="swift-829-53D4-line-194" n="194">Who are all grown learned preachers;</l>
+            <l xml:id="swift-829-53D4-line-195" n="195">M──n would it not surprize one,</l>
+            <l xml:id="swift-829-53D4-line-196" n="196">To turn thy nourishment to poison;</l>
+            <l xml:id="swift-829-53D4-line-197" n="197">When you look over your books,</l>
+            <l xml:id="swift-829-53D4-line-198" n="198">They'll reproach you with their looks;</l>
+            <l xml:id="swift-829-53D4-line-199" n="199">Bind them fast, or from their shelves,</l>
+            <l xml:id="swift-829-53D4-line-200" n="200">They'll come down to right themselves,</l>
+            <l xml:id="swift-829-53D4-line-201" n="201">Homer, Plutarch, Virgil, Flaccus,</l>
+            <l xml:id="swift-829-53D4-line-202" n="202">All in arms prepare to back us,</l>
+            <l xml:id="swift-829-53D4-line-203" n="203">Soon repent, and put to slaughter,</l>
+            <l xml:id="swift-829-53D4-line-204" n="204">Every Greek and Roman author.</l>
+            <l xml:id="swift-829-53D4-line-205" n="205">Will you in your factious phrase,</l>
+            <l xml:id="swift-829-53D4-line-206" n="206">Send the subjects all to graze,</l>
+            <l xml:id="swift-829-53D4-line-207" n="207">And to make your project pass,</l>
+            <l xml:id="swift-829-53D4-line-208" n="208">Leave them not a blade of grass.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-209" n="209"><lb/>How I want thee, hum'rous Hogart,</l>
+            <l xml:id="swift-829-53D4-line-210" n="210">Thou a hearty pleasant rogue art,</l>
+            <l xml:id="swift-829-53D4-line-211" n="211">Were but you and I acquainted,</l>
+            <l xml:id="swift-829-53D4-line-212" n="212">Here ev'ry monster should be painted.</l>
+            <l rend="center indent(1)" xml:id="swift-829-53D4-line-213" n="213"><lb/>Q<hi rend="small-caps">UERY</hi>._Why is B──le polite, and the brutes severe?</l>
+            <l xml:id="swift-829-53D4-line-214" n="214">Why is D──t muddy, and M──e clear?</l>
+            <l rend="center" xml:id="swift-829-53D4-line-215" n="215"><lb/>\<hi rend="italics">new·page</hi>\THE__A<hi rend="small-caps">UTHOR</hi>'s CONCLUSION.___<hi rend="display-initial">S</hi>Ometimes among the caspian cliffs I creep,</l>
+            <l xml:id="swift-829-53D4-line-216" n="216">Where solitary bats and swallows sleep,</l>
+            <l xml:id="swift-829-53D4-line-217" n="217">Or if some cloyster's refuge I implore,</l>
+            <l xml:id="swift-829-53D4-line-218" n="218">Where cursed drones o'er dying papers snore;</l>
+            <l xml:id="swift-829-53D4-line-219" n="219">Still Nassau's arms a soft repose deny,</l>
+            <l xml:id="swift-829-53D4-line-220" n="220">Keep me awake, and follow where I fly;</l>
+            <l xml:id="swift-829-53D4-line-221" n="221">Since he has blest the wearied world with peace,</l>
+            <l xml:id="swift-829-53D4-line-222" n="222">And with a nod has bid Bellona cease.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-223" n="223"><lb/>I sought the covert of some peaceful cell,</l>
+            <l xml:id="swift-829-53D4-line-224" n="224">Where silent shades in harmless raptures dwell,</l>
+            <l xml:id="swift-829-53D4-line-225" n="225">That rest might past tranquility restore,</l>
+            <l xml:id="swift-829-53D4-line-226" n="226">And mortal heroes interrupt no more.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-227" n="227"><lb/>But then alas! how long in vain have I,</l>
+            <l xml:id="swift-829-53D4-line-228" n="228">Aimed at those noble ills the fates deny,</l>
+            <l xml:id="swift-829-53D4-line-229" n="229">Within this Isle for ever must I find,</l>
+            <l xml:id="swift-829-53D4-line-230" n="230">Disasters to distract my restless mind;</l>
+            <l xml:id="swift-829-53D4-line-231" n="231">Dissentions like small streams are first begun,</l>
+            <l xml:id="swift-829-53D4-line-232" n="232">Scarce seen they rise, but gather as they run.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-233" n="233"><lb/>What D────t offer'd was by most approv'd,</l>
+            <l xml:id="swift-829-53D4-line-234" n="234">But several Voices several methods mov'd,</l>
+            <l xml:id="swift-829-53D4-line-235" n="235">At length the advent'rous heroes all agree,</l>
+            <l xml:id="swift-829-53D4-line-236" n="236">Gives way to foe, and act offensively;</l>
+            <l xml:id="swift-829-53D4-line-237" n="237">Into the house their bold ballations move,</l>
+            <l xml:id="swift-829-53D4-line-238" n="238">And what the D── commands the rest approve,</l>
+            <l xml:id="swift-829-53D4-line-239" n="239">But stand unmov'd dear B──le, our best defence,</l>
+            <l xml:id="swift-829-53D4-line-240" n="240">And bring these villains into better sense.</l>
+            <l rend="indent(1)" xml:id="swift-829-53D4-line-241" n="241"><lb/>So I conclude,── by looking round them,</l>
+            <l xml:id="swift-829-53D4-line-242" n="242">May their God the D──l confound them;</l>
+            <l xml:id="swift-829-53D4-line-243" n="243">All their club, except a few,</l>
+            <l xml:id="swift-829-53D4-line-244" n="244">Take grim Satan as your due.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

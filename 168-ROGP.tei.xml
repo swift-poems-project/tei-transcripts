@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Peace and Dunkirk</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="168-ROGP">
+          <head type="note" n="1" xml:id="spp-168-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-168-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-168-ROGP-headnote-1-line-group-1-line-1">BEING AN EXCELLENT NEW SONG UPON THE SURRENDER OF DUNKIRK TO GENERAL HILL&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-168-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-168-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-168-ROGP-headnote-2-line-group-1-line-1">To the tune of 'The king shall enjoy his own again'</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-168-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-168-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-168-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-168-ROGP-line-1" n="1">I<lb/>Spite of Dutch friends and English foes,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-2" n="2">Poor Britain shall have peace at last;</l>
+            <l xml:id="swift-168-ROGP-line-3" n="3">Holland got towns, and we got blows,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-4" n="4">But Dunkirk's ours, we'll hold it fast:</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-5" n="5">|We have got it in a string,</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-6" n="6">|And the Whigs may all go swing,</l>
+            <l xml:id="swift-168-ROGP-line-7" n="7">For among good friends, I love to be plain;</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-8" n="8">|All their false deluded hopes,</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-9" n="9">|Will, or ought to end in ropes;</l>
+            <l xml:id="swift-168-ROGP-line-10" n="10">But the Queen shall enjoy her own again.</l>
+            <l xml:id="swift-168-ROGP-line-11" n="11"><lb/>II_Sunderland's run out of his wits,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-12" n="12">And Dismal double-dismal looks;</l>
+            <l xml:id="swift-168-ROGP-line-13" n="13">Wharton can only swear by fits,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-14" n="14">And strutting Hal is off the hooks;</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-15" n="15">|Old Godolphin full of spleen,</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-16" n="16">|Made false moves, and lost his Queen;</l>
+            <l xml:id="swift-168-ROGP-line-17" n="17">Harry looked fierce, and shook his ragged mane:</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-18" n="18">|But a prince of high renown,</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-19" n="19">|Swore he'd rather lose a crown,</l>
+            <l xml:id="swift-168-ROGP-line-20" n="20">Than the Queen shall enjoy her own again.</l>
+            <l xml:id="swift-168-ROGP-line-21" n="21"><lb/>III_Our merchant ships may cut the line,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-22" n="22">And not be snapped by privateers,</l>
+            <l xml:id="swift-168-ROGP-line-23" n="23">And commoners who love good wine,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-24" n="24">Will drink it now as well as peers:</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-25" n="25">|Landed men shall have their rent,</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-26" n="26">|Yet our stocks rise cent per cent,</l>
+            <l xml:id="swift-168-ROGP-line-27" n="27">The Dutch from hence shall no more millions drain;</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-28" n="28">We'll bring on us no more debts,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-29" n="29">Nor with bankrupts fill gazettes,</l>
+            <l xml:id="swift-168-ROGP-line-30" n="30">And the Queen shall enjoy her own again.</l>
+            <l xml:id="swift-168-ROGP-line-31" n="31"><lb/>IV_The towns we took ne'er did us good,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-32" n="32">What signified the French to beat?</l>
+            <l xml:id="swift-168-ROGP-line-33" n="33">We spent our money and our blood,</l>
+            <l rend="indent(1)" xml:id="swift-168-ROGP-line-34" n="34">To make the Dutchmen proud and great:</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-35" n="35">|But the Lord of Oxford swears,</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-36" n="36">|Dunkirk never shall be theirs,</l>
+            <l xml:id="swift-168-ROGP-line-37" n="37">The Dutch-hearted Whigs may rail and complain;</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-38" n="38">|But true Englishmen will fill</l>
+            <l rend="indent(2)" xml:id="swift-168-ROGP-line-39" n="39">|A good health to General Hill,</l>
+            <l xml:id="swift-168-ROGP-line-40" n="40">For the Queen now enjoys her own again.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

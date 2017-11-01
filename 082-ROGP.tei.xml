@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">The Description of a Salamander</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="082-ROGP">
+          <head type="note" n="1" xml:id="spp-082-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-082-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-ROGP-headnote-1-line-group-1-line-1">OUT OF PLINY'S NAT. HIST. LIB.10 C.67 AND LIB.29 C.4&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-082-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-082-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-082-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-082-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-082-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-082-ROGP-line-1" n="1">As mastiff dogs in modern phrase are</l>
+            <l xml:id="swift-082-ROGP-line-2" n="2">Called Pompey, Scipio, and Caesar;</l>
+            <l xml:id="swift-082-ROGP-line-3" n="3">As pies and daws are often styled</l>
+            <l xml:id="swift-082-ROGP-line-4" n="4">With Christian nicknames like a child;</l>
+            <l xml:id="swift-082-ROGP-line-5" n="5">As we say '<hi rend="italics">Monsieur</hi>' to an ape</l>
+            <l xml:id="swift-082-ROGP-line-6" n="6">Without offence to human shape:</l>
+            <l xml:id="swift-082-ROGP-line-7" n="7">So men have got from bird and brute</l>
+            <l xml:id="swift-082-ROGP-line-8" n="8">Names that would best their natures suit:</l>
+            <l xml:id="swift-082-ROGP-line-9" n="9">The lion, eagle, fox and boar</l>
+            <l xml:id="swift-082-ROGP-line-10" n="10">Were heroes' titles heretofore,</l>
+            <l xml:id="swift-082-ROGP-line-11" n="11">Bestowed as hieroglyphics fit</l>
+            <l xml:id="swift-082-ROGP-line-12" n="12">To show their valour, strength or wit.</l>
+            <l xml:id="swift-082-ROGP-line-13" n="13">For what is understood by fame</l>
+            <l xml:id="swift-082-ROGP-line-14" n="14">Besides the getting of a name?</l>
+            <l xml:id="swift-082-ROGP-line-15" n="15">But e'er since men invented guns,</l>
+            <l xml:id="swift-082-ROGP-line-16" n="16">A different way their fancy runs:</l>
+            <l xml:id="swift-082-ROGP-line-17" n="17">To paint a hero, we inquire</l>
+            <l xml:id="swift-082-ROGP-line-18" n="18">For something that will conquer fire.</l>
+            <l xml:id="swift-082-ROGP-line-19" n="19">Would you describe Turenne or Trump,</l>
+            <l xml:id="swift-082-ROGP-line-20" n="20">Think of a bucket or a pump.</l>
+            <l xml:id="swift-082-ROGP-line-21" n="21">Are these too low? Then find out grander,</l>
+            <l xml:id="swift-082-ROGP-line-22" n="22">Call my Lord Cutts a salamander.</l>
+            <l xml:id="swift-082-ROGP-line-23" n="23">'Tis well: but since we live among</l>
+            <l xml:id="swift-082-ROGP-line-24" n="24">Detractors with an evil tongue,</l>
+            <l xml:id="swift-082-ROGP-line-25" n="25">Who may object against the term,</l>
+            <l xml:id="swift-082-ROGP-line-26" n="26">Pliny shall prove what we affirm:</l>
+            <l xml:id="swift-082-ROGP-line-27" n="27">Pliny shall prove, and we'll apply,</l>
+            <l xml:id="swift-082-ROGP-line-28" n="28">And I'll be judged by standers-by.</l>
+            <l rend="indent(1)" xml:id="swift-082-ROGP-line-29" n="29"><lb/>First then, our author has defined</l>
+            <l xml:id="swift-082-ROGP-line-30" n="30">This reptile, of the serpent kind,</l>
+            <l xml:id="swift-082-ROGP-line-31" n="31">With gaudy coat, and shining train,</l>
+            <l xml:id="swift-082-ROGP-line-32" n="32">But loathsome spots his body stain:</l>
+            <l xml:id="swift-082-ROGP-line-33" n="33">Out from some hole obscure he flies</l>
+            <l xml:id="swift-082-ROGP-line-34" n="34">When rains descend, and tempests rise,</l>
+            <l xml:id="swift-082-ROGP-line-35" n="35">Till the sun clears the air; and then</l>
+            <l xml:id="swift-082-ROGP-line-36" n="36">Crawls back, neglected, to his den.</l>
+            <l rend="indent(1)" xml:id="swift-082-ROGP-line-37" n="37"><lb/>So when the war has raised a storm</l>
+            <l xml:id="swift-082-ROGP-line-38" n="38">I've seen a snake in human form,</l>
+            <l xml:id="swift-082-ROGP-line-39" n="39">All stained with infamy and vice,</l>
+            <l xml:id="swift-082-ROGP-line-40" n="40">Leap from the dunghill in a trice;</l>
+            <l xml:id="swift-082-ROGP-line-41" n="41">Burnish and make a gaudy show,</l>
+            <l xml:id="swift-082-ROGP-line-42" n="42">Become a general, peer and beau,</l>
+            <l xml:id="swift-082-ROGP-line-43" n="43">Till peace hath made the sky serene,</l>
+            <l xml:id="swift-082-ROGP-line-44" n="44">Then shrink into its hole again.</l>
+            <l rend="indent(2)" xml:id="swift-082-ROGP-line-45" n="45"><lb/>|All this we grant── why, then look yonder,</l>
+            <l rend="indent(2)" xml:id="swift-082-ROGP-line-46" n="46">|Sure that must be a salamander!</l>
+            <l rend="indent(1)" xml:id="swift-082-ROGP-line-47" n="47"><lb/>Farther we are by Pliny told,</l>
+            <l xml:id="swift-082-ROGP-line-48" n="48">This serpent is extremely cold;</l>
+            <l xml:id="swift-082-ROGP-line-49" n="49">So cold, that put it in the fire,</l>
+            <l xml:id="swift-082-ROGP-line-50" n="50">'Twill make the very flames expire:</l>
+            <l xml:id="swift-082-ROGP-line-51" n="51">Besides, it spews a filthy froth,</l>
+            <l xml:id="swift-082-ROGP-line-52" n="52">(Whether through rage, or lust, or both)</l>
+            <l xml:id="swift-082-ROGP-line-53" n="53">Of matter purulent and white,</l>
+            <l xml:id="swift-082-ROGP-line-54" n="54">Which happening on the skin to light,</l>
+            <l xml:id="swift-082-ROGP-line-55" n="55">And there corrupting to a wound,</l>
+            <l xml:id="swift-082-ROGP-line-56" n="56">Spreads leprosy and baldness round.</l>
+            <l rend="indent(1)" xml:id="swift-082-ROGP-line-57" n="57"><lb/>So have I seen a battered beau</l>
+            <l xml:id="swift-082-ROGP-line-58" n="58">By age and claps grown cold as snow,</l>
+            <l xml:id="swift-082-ROGP-line-59" n="59">Whose breath or touch, where'er he came,</l>
+            <l xml:id="swift-082-ROGP-line-60" n="60">Blew out love's torch, or chilled the flame:</l>
+            <l xml:id="swift-082-ROGP-line-61" n="61">And should some nymph who ne'er was cruel,</l>
+            <l xml:id="swift-082-ROGP-line-62" n="62">Like Carleton cheap, or famed Du Ruel,</l>
+            <l xml:id="swift-082-ROGP-line-63" n="63">Receive the filth which he ejects;</l>
+            <l xml:id="swift-082-ROGP-line-64" n="64">She soon would find the same effects,</l>
+            <l xml:id="swift-082-ROGP-line-65" n="65">Her tainted carcass to pursue,</l>
+            <l xml:id="swift-082-ROGP-line-66" n="66">As from the salamander's spew:</l>
+            <l xml:id="swift-082-ROGP-line-67" n="67">A dismal shedding of her locks</l>
+            <l xml:id="swift-082-ROGP-line-68" n="68">And, if no leprosy, a pox.</l>
+            <l rend="indent(2)" xml:id="swift-082-ROGP-line-69" n="69"><lb/>|Then I'll appeal to each bystander,</l>
+            <l rend="indent(2)" xml:id="swift-082-ROGP-line-70" n="70">|If this be not a salamander?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

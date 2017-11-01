@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 3AU13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-411B">
+          <head type="note" n="1" xml:id="spp-540-411B-headnote-1">
+            <lg n="1" xml:id="spp-540-411B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-411B-headnote-1-line-group-1-line-1">1731.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-411B-headnote-2">
+            <lg n="1" xml:id="spp-540-411B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-411B-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-411B-headnote-3">
+            <lg n="1" xml:id="spp-540-411B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-411B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-411B-line-1" n="1">Confondant du passé le leger souvenir</l>
+            <l xml:id="swift-540-411B-line-2" n="2">Ebloui du present, sans percer l'avenir,</l>
+            <l xml:id="swift-540-411B-line-3" n="3">Dans l'Art de gouverner decrepite et Novice,</l>
+            <l xml:id="swift-540-411B-line-4" n="4">Punissant la Vertu, recompensant la Vice,</l>
+            <l xml:id="swift-540-411B-line-5" n="5">Malgrê sa tête altiere, accablé de son Rang,</l>
+            <l xml:id="swift-540-411B-line-6" n="6">Fourbe dans le petit, et dupe dans le grand,</l>
+            <l xml:id="swift-540-411B-line-7" n="7">L'on connoit à ces traits, sans même qu'on le nommé,</l>
+            <l xml:id="swift-540-411B-line-8" n="8">Le Maître de la France, et le Valet de Rome.</l>
+            <l xml:id="swift-540-411B-line-9" n="9">om.</l>
+            <l xml:id="swift-540-411B-line-10" n="10">om.</l>
+            <l xml:id="swift-540-411B-line-11" n="11">om.</l>
+            <l xml:id="swift-540-411B-line-12" n="12">om.</l>
+            <l xml:id="swift-540-411B-line-13" n="13">om.</l>
+            <l xml:id="swift-540-411B-line-14" n="14">om.</l>
+            <l xml:id="swift-540-411B-line-15" n="15">om.</l>
+            <l xml:id="swift-540-411B-line-16" n="16">om.</l>
+            <l xml:id="swift-540-411B-line-17" n="17">om.</l>
+            <l xml:id="swift-540-411B-line-18" n="18">om.</l>
+            <l xml:id="swift-540-411B-line-19" n="19">om.</l>
+            <l xml:id="swift-540-411B-line-20" n="20">om.</l>
+            <l xml:id="swift-540-411B-line-21" n="21">om.</l>
+            <l xml:id="swift-540-411B-line-22" n="22">om.</l>
+            <l xml:id="swift-540-411B-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

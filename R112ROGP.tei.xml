@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">A Dialogue between Captain Tom<lb/>  and Sir Henry Dutton Colt</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="R112ROGP">
+          <head type="note" n="1" xml:id="spp-R112ROGP-headnote-1">
+            <lg n="1" xml:id="spp-R112ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R112ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-R112ROGP-headnote-2">
+            <lg n="1" xml:id="spp-R112ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R112ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-R112ROGP-headnote-3">
+            <lg n="1" xml:id="spp-R112ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-R112ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-R112ROGP-line-1" n="1">Come, fair muse of Grub Street,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-2" n="2">the dialogue write,</l>
+            <l xml:id="swift-R112ROGP-line-3" n="3">Betwixt Captain Tom<lb/></l>
+            <l xml:id="swift-R112ROGP-line-4" n="4">and a goodly old knight.</l>
+            <l xml:id="swift-R112ROGP-line-5" n="5">Quoth ancient Sir Harry,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-6" n="6">'My dear Captain Thomas,</l>
+            <l xml:id="swift-R112ROGP-line-7" n="7">Sure you and your subjects<lb/></l>
+            <l xml:id="swift-R112ROGP-line-8" n="8">will not depart from us.</l>
+            <l xml:id="swift-R112ROGP-line-9" n="9">Then hold hat and heart,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-10" n="10">and right hand every man up,</l>
+            <l xml:id="swift-R112ROGP-line-11" n="11">And bawl out old Colt,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-12" n="12">and brave General Stanhope.</l>
+            <l xml:id="swift-R112ROGP-line-13" n="13">Let the General's merits<lb/></l>
+            <l xml:id="swift-R112ROGP-line-14" n="14">and mine be maintained:</l>
+            <l xml:id="swift-R112ROGP-line-15" n="15">Turn off the old brewer,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-16" n="16">and be not cross-grained.</l>
+            <l xml:id="swift-R112ROGP-line-17" n="17">In a protestant country,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-18" n="18">why are you for crosses?</l>
+            <l xml:id="swift-R112ROGP-line-19" n="19">And brewers will poison you<lb/></l>
+            <l xml:id="swift-R112ROGP-line-20" n="20">all with molosses.</l>
+            <l xml:id="swift-R112ROGP-line-21" n="21">Besides, are not all<lb/></l>
+            <l xml:id="swift-R112ROGP-line-22" n="22">the damned Jacobite brewers,</l>
+            <l xml:id="swift-R112ROGP-line-23" n="23">Still brewing of mischief,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-24" n="24">and so may be yours?</l>
+            <l xml:id="swift-R112ROGP-line-25" n="25">And papists are brewers,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-26" n="26">with faggots to burn us;</l>
+            <l xml:id="swift-R112ROGP-line-27" n="27">But if you love brewing,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-28" n="28">you may have a Furnese.</l>
+            <l xml:id="swift-R112ROGP-line-29" n="29">Then Stanhope shall send you<lb/></l>
+            <l xml:id="swift-R112ROGP-line-30" n="30">each laurel he crops;</l>
+            <l xml:id="swift-R112ROGP-line-31" n="31">And laurels are sometimes<lb/></l>
+            <l xml:id="swift-R112ROGP-line-32" n="32">as bitter as hops.'</l>
+            <l rend="indent(1)" xml:id="swift-R112ROGP-line-33" n="33"><lb/>When comely Sir Harry_</l>
+            <l xml:id="swift-R112ROGP-line-34" n="34">had thus shot his bolt,</l>
+            <l xml:id="swift-R112ROGP-line-35" n="35">Then replied Captain Tom,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-36" n="36">'God-a-mercy, old Colt,</l>
+            <l xml:id="swift-R112ROGP-line-37" n="37">You had better have been<lb/></l>
+            <l xml:id="swift-R112ROGP-line-38" n="38">at your spade and your club,</l>
+            <l xml:id="swift-R112ROGP-line-39" n="39">Than take up our time<lb/></l>
+            <l xml:id="swift-R112ROGP-line-40" n="40">with a tale of a tub.</l>
+            <l xml:id="swift-R112ROGP-line-41" n="41">You shall be discarded,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-42" n="42">I say't to your face;</l>
+            <l xml:id="swift-R112ROGP-line-43" n="43">We'll all play the game,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-44" n="44">and not bate you an ace.</l>
+            <l xml:id="swift-R112ROGP-line-45" n="45">Then let me advise you<lb/></l>
+            <l xml:id="swift-R112ROGP-line-46" n="46">no longer to stay;</l>
+            <l xml:id="swift-R112ROGP-line-47" n="47">But pack up and shuffle,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-48" n="48">and cut it away.</l>
+            <l xml:id="swift-R112ROGP-line-49" n="49">And though you have wit,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-50" n="50">youth, beauty, and parts,</l>
+            <l xml:id="swift-R112ROGP-line-51" n="51">While we keep our clubs,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-52" n="52">you shall ne'er win our hearts.</l>
+            <l xml:id="swift-R112ROGP-line-53" n="53">Brave Stanhope for fighting<lb/></l>
+            <l xml:id="swift-R112ROGP-line-54" n="54">will have his reward,</l>
+            <l xml:id="swift-R112ROGP-line-55" n="55">And the Queen, when she pleases,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-56" n="56">can make him a lord.</l>
+            <l xml:id="swift-R112ROGP-line-57" n="57">But we are true friends<lb/></l>
+            <l xml:id="swift-R112ROGP-line-58" n="58">of the church and Sacheverell;</l>
+            <l xml:id="swift-R112ROGP-line-59" n="59">And vote for a manager<lb/></l>
+            <l xml:id="swift-R112ROGP-line-60" n="60">surely we never will!</l>
+            <l xml:id="swift-R112ROGP-line-61" n="61">Besides, we have found<lb/></l>
+            <l xml:id="swift-R112ROGP-line-62" n="62">too much heat in some rulers,</l>
+            <l xml:id="swift-R112ROGP-line-63" n="63">And will give them a brewer,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-64" n="64">because they want coolers.</l>
+            <l xml:id="swift-R112ROGP-line-65" n="65">If Christians love crosses,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-66" n="66">why should they be blamed?</l>
+            <l xml:id="swift-R112ROGP-line-67" n="67">You shall see us bear ours,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-68" n="68">and not be ashamed.</l>
+            <l xml:id="swift-R112ROGP-line-69" n="69">But we know what you aim at;<lb/></l>
+            <l xml:id="swift-R112ROGP-line-70" n="70">you all would engross,</l>
+            <l xml:id="swift-R112ROGP-line-71" n="71">And not leave the church<lb/></l>
+            <l xml:id="swift-R112ROGP-line-72" n="72">or the nation a cross.'</l>
+            <l rend="indent(1)" xml:id="swift-R112ROGP-line-73" n="73"><lb/>When the Captain had finished,_</l>
+            <l xml:id="swift-R112ROGP-line-74" n="74">away went old Numps;</l>
+            <l xml:id="swift-R112ROGP-line-75" n="75">He had got a bad game,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-76" n="76">and could not turn up trumps.</l>
+            <l xml:id="swift-R112ROGP-line-77" n="77">His eggs they are addled,<lb/></l>
+            <l xml:id="swift-R112ROGP-line-78" n="78">and dough was his cake;</l>
+            <l xml:id="swift-R112ROGP-line-79" n="79">So fairly he left them<lb/></l>
+            <l xml:id="swift-R112ROGP-line-80" n="80">to brew as they bake.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

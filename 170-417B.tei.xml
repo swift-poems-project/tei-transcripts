@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Horat. L. 1. Epist. 7.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 5AU97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>tochk items √'d JW 1OC02 agt film; ed. JW 18NO02, 14JL07, 19DE12, 29MY16, 17NO16; tochk item JW 9JL09 and resolved JW 8AU12</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="170-417B">
+          <head type="note" n="1" xml:id="spp-170-417B-headnote-1">
+            <lg n="1" xml:id="spp-170-417B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-170-417B-headnote-1-line-group-1-line-1">Strennus et fortis causisq; Philippus, agendis, &amp;\<hi rend="italics">?</hi>c.\</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-170-417B-headnote-2">
+            <lg n="1" xml:id="spp-170-417B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-170-417B-headnote-2-line-group-1-line-1">By Dean Swift.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-170-417B-headnote-3">
+            <lg n="1" xml:id="spp-170-417B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-170-417B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-170-417B-line-1" n="1"><hi rend="large-writing">Harley</hi>, the Nation's great Support,</l>
+            <l xml:id="swift-170-417B-line-2" n="2">Returning home one Day from Court,</l>
+            <l xml:id="swift-170-417B-line-3" n="3">His Mind with publick Care possest,</l>
+            <l xml:id="swift-170-417B-line-4" n="4">All Europes Business in his Breast;</l>
+            <l xml:id="swift-170-417B-line-5" n="5">Observ'd a Parson near White-Hall</l>
+            <l xml:id="swift-170-417B-line-6" n="6">Cheap'ning old Authors on a Stall:</l>
+            <l xml:id="swift-170-417B-line-7" n="7">The Priest was pretty well in case,</l>
+            <l xml:id="swift-170-417B-line-8" n="8">And shew'd some Humor in his face,</l>
+            <l xml:id="swift-170-417B-line-9" n="9">Look'd with an easy careless mien,</l>
+            <l xml:id="swift-170-417B-line-10" n="10">A perfect Stranger to the Spleen:</l>
+            <l xml:id="swift-170-417B-line-11" n="11">Of Size that might a Pulpit fill,</l>
+            <l xml:id="swift-170-417B-line-12" n="12">But more inclining to sitt Still.</l>
+            <l xml:id="swift-170-417B-line-13" n="13">My Lord, who, if a Man may say't,</l>
+            <l xml:id="swift-170-417B-line-14" n="14">Loves mischief better than his meat,</l>
+            <l xml:id="swift-170-417B-line-15" n="15">Was now dispos'd to crack a jest,</l>
+            <l xml:id="swift-170-417B-line-16" n="16">And bid Freind Lewis go in quest,</l>
+            <l xml:id="swift-170-417B-line-17" n="17">(This Lewis is a cunning Shaver</l>
+            <l xml:id="swift-170-417B-line-18" n="18">And very much in <hi rend="large-writing">Harleys</hi> Favour.)</l>
+            <l xml:id="swift-170-417B-line-19" n="19">In quest who might this Parson be,</l>
+            <l xml:id="swift-170-417B-line-20" n="20">What was his Name of what Degree,</l>
+            <l xml:id="swift-170-417B-line-21" n="21">If possible to learn his Story</l>
+            <l xml:id="swift-170-417B-line-22" n="22">And whether he were Whig or Tory.</l>
+            <l xml:id="swift-170-417B-line-23" n="23">Lewis his Patron's humor knows,</l>
+            <l xml:id="swift-170-417B-line-24" n="24">Away upon his Errand goes,</l>
+            <l xml:id="swift-170-417B-line-25" n="25">And quickly did the matter Sift,</l>
+            <l xml:id="swift-170-417B-line-26" n="26">Found out that this was Doctor S──────</l>
+            <l xml:id="swift-170-417B-line-27" n="27">A Clergy Man of Special Note,</l>
+            <l xml:id="swift-170-417B-line-28" n="28">For shunning those of his own Coate.</l>
+            <l xml:id="swift-170-417B-line-29" n="29">Which made his Brethren of the Gown,</l>
+            <l xml:id="swift-170-417B-line-30" n="30">Take care betimes to run him Down:</l>
+            <l xml:id="swift-170-417B-line-31" n="31">No Libertine, nor over nice,</l>
+            <l xml:id="swift-170-417B-line-32" n="32">Adicted to no sort of Vice;</l>
+            <l xml:id="swift-170-417B-line-33" n="33">Went where he pleas'd, said what he thought,</l>
+            <l xml:id="swift-170-417B-line-34" n="34">Nor rich, but ow'd no man a Groat.</l>
+            <l xml:id="swift-170-417B-line-35" n="35">In State Opinions à la Mode,</l>
+            <l xml:id="swift-170-417B-line-36" n="36">He hated Wharton like a Toad,</l>
+            <l xml:id="swift-170-417B-line-37" n="37">Had given the Faction many a Wound,</l>
+            <l xml:id="swift-170-417B-line-38" n="38">And libell'd all the Iunta round,</l>
+            <l xml:id="swift-170-417B-line-39" n="39">Kept Company with men of Wit,</l>
+            <l xml:id="swift-170-417B-line-40" n="40">Who often father'd what he writ,</l>
+            <l xml:id="swift-170-417B-line-41" n="41">His Works were hawk'd in every Street,</l>
+            <l xml:id="swift-170-417B-line-42" n="42">But seldom rose above a Sheet:</l>
+            <l xml:id="swift-170-417B-line-43" n="43">Of late indeed the paper Stamp,</l>
+            <l xml:id="swift-170-417B-line-44" n="44">Did very much his Genious Cramp,</l>
+            <l xml:id="swift-170-417B-line-45" n="45">And since he could not spend his fire,</l>
+            <l xml:id="swift-170-417B-line-46" n="46">He now intended to retire,</l>
+            <l xml:id="swift-170-417B-line-47" n="47">Said <hi rend="large-writing">Harley</hi> I desire to know,</l>
+            <l xml:id="swift-170-417B-line-48" n="48">From his own Mouth if this be so,</l>
+            <l xml:id="swift-170-417B-line-49" n="49">Step to the Doctor straight and say,</l>
+            <l xml:id="swift-170-417B-line-50" n="50">I'd have him dine with me to Day,</l>
+            <l xml:id="swift-170-417B-line-51" n="51">S────── seem'd to wonder what he meant,</l>
+            <l xml:id="swift-170-417B-line-52" n="52">Nor would beleive My Lord had sent,</l>
+            <l xml:id="swift-170-417B-line-53" n="53">So never offer'd once to Stir</l>
+            <l xml:id="swift-170-417B-line-54" n="54">But coldly said your Servant Sir</l>
+            <l xml:id="swift-170-417B-line-55" n="55">Does he refuse me? <hi rend="large-writing">Harley</hi> cry'd,</l>
+            <l xml:id="swift-170-417B-line-56" n="56">He does, with Jnsolence and Pride.</l>
+            <l rend="indent(1)" xml:id="swift-170-417B-line-57" n="57">Some few Days after, <hi rend="large-writing">Harley</hi> Spyes,</l>
+            <l xml:id="swift-170-417B-line-58" n="58">The Doctor fastned by the Eyes,</l>
+            <l xml:id="swift-170-417B-line-59" n="59">At Charing Cross among the Rout,</l>
+            <l xml:id="swift-170-417B-line-60" n="60">Where painted Monsters are hung out:</l>
+            <l xml:id="swift-170-417B-line-61" n="61">He pull'd the String and Stopt his Coach</l>
+            <l xml:id="swift-170-417B-line-62" n="62">Beckning the Doctor to approach:</l>
+            <l xml:id="swift-170-417B-line-63" n="63">S────── who could neither fly nor hide,</l>
+            <l xml:id="swift-170-417B-line-64" n="64">Came sneaking to the Chariot Side,</l>
+            <l xml:id="swift-170-417B-line-65" n="65">And offer'd many a lame Excuse,</l>
+            <l xml:id="swift-170-417B-line-66" n="66">He never meant the least Abuse──────</l>
+            <l xml:id="swift-170-417B-line-67" n="67">My Lord──── the Honour you design'd──────</l>
+            <l xml:id="swift-170-417B-line-68" n="68">Extreamly proud·.·.·. but I had Din'd──────</l>
+            <l xml:id="swift-170-417B-line-69" n="69">I'm sure I never should neglect────────</l>
+            <l xml:id="swift-170-417B-line-70" n="70">No Man Alive has more Respect────────</l>
+            <l xml:id="swift-170-417B-line-71" n="71">Well; I shall think of that no more,</l>
+            <l xml:id="swift-170-417B-line-72" n="72">If you'll be sure to come at four,</l>
+            <l xml:id="swift-170-417B-line-73" n="73">The Doctor now Obeys the Summons,</l>
+            <l xml:id="swift-170-417B-line-74" n="74">Likes both his Company and Commons.</l>
+            <l xml:id="swift-170-417B-line-75" n="75">Displays his Talent sitts till Tenn,</l>
+            <l xml:id="swift-170-417B-line-76" n="76">Next Day invited comes again:</l>
+            <l xml:id="swift-170-417B-line-77" n="77">Soon grows Domestick seldom fails,</l>
+            <l xml:id="swift-170-417B-line-78" n="78">Either at Morning or at Meals,</l>
+            <l xml:id="swift-170-417B-line-79" n="79">Came early and departed late,</l>
+            <l xml:id="swift-170-417B-line-80" n="80">In short the Gudgeon took the Bait,</l>
+            <l xml:id="swift-170-417B-line-81" n="81">My Lord wou'd carry on the Iest,</l>
+            <l xml:id="swift-170-417B-line-82" n="82">And down to Windsor takes his Guest,</l>
+            <l xml:id="swift-170-417B-line-83" n="83">S────── much admires the Place and Air,</l>
+            <l xml:id="swift-170-417B-line-84" n="84">And longs to be a Canon there.</l>
+            <l xml:id="swift-170-417B-line-85" n="85">In Summer round the park to ride,</l>
+            <l xml:id="swift-170-417B-line-86" n="86">In Winter never to reside,</l>
+            <l xml:id="swift-170-417B-line-87" n="87">A Cannon thats a Place too mean,</l>
+            <l xml:id="swift-170-417B-line-88" n="88">No, Doctor, you Shall be a Dean,</l>
+            <l xml:id="swift-170-417B-line-89" n="89">Two Dozen Canons round your Stall,</l>
+            <l xml:id="swift-170-417B-line-90" n="90">And You the Tyrant o'er 'em all,</l>
+            <l xml:id="swift-170-417B-line-91" n="91">You need but cross the Irish Seas,</l>
+            <l xml:id="swift-170-417B-line-92" n="92">To live in Plenty Power and Ease,</l>
+            <l xml:id="swift-170-417B-line-93" n="93">Poor S────── departs, and what is worse,</l>
+            <l xml:id="swift-170-417B-line-94" n="94">With borrow'd Money in his Purse.</l>
+            <l xml:id="swift-170-417B-line-95" n="95">Travells at least an Hundred Leagues,</l>
+            <l xml:id="swift-170-417B-line-96" n="96">And suffer's Numberless Fatigues.</l>
+            <l rend="indent(1)" xml:id="swift-170-417B-line-97" n="97">Suppose him now a Dean compleat,</l>
+            <l xml:id="swift-170-417B-line-98" n="98">Devoutly lolling in his Seat,</l>
+            <l xml:id="swift-170-417B-line-99" n="99">The Silver Verge with decent Pride,</l>
+            <l xml:id="swift-170-417B-line-100" n="100">Stuck underneath his Cushion Side,</l>
+            <l xml:id="swift-170-417B-line-101" n="101">Suppose him gone through all Vexations,</l>
+            <l xml:id="swift-170-417B-line-102" n="102">Patents, Installments, Abjurations,</l>
+            <l xml:id="swift-170-417B-line-103" n="103">First-fruits and Tenths and Chapter Treats,</l>
+            <l xml:id="swift-170-417B-line-104" n="104">Dues, Payments, Fees, Demands, and Cheats,</l>
+            <l xml:id="swift-170-417B-line-105" n="105">The Wicked Layetys contriving</l>
+            <l xml:id="swift-170-417B-line-106" n="106">To hinder Clergymen from thriving.</l>
+            <l rend="indent(1)" xml:id="swift-170-417B-line-107" n="107">Now all the Doctors money spent,</l>
+            <l xml:id="swift-170-417B-line-108" n="108">His Tenants wrong him in his Rent,</l>
+            <l xml:id="swift-170-417B-line-109" n="109">The Farmers spightfully combin'd</l>
+            <l xml:id="swift-170-417B-line-110" n="110">Force Him to take his Tyths in kind;</l>
+            <l xml:id="swift-170-417B-line-111" n="111">And <note place="foot">·The Deans Agent a French Man.</note> Parvisol discounts Arrears,</l>
+            <l xml:id="swift-170-417B-line-112" n="112">By Bills for Taxes and Repairs,</l>
+            <l xml:id="swift-170-417B-line-113" n="113">Poor S──── with all his Losses Vext,</l>
+            <l xml:id="swift-170-417B-line-114" n="114">Not knowing where to turn him Next,</l>
+            <l xml:id="swift-170-417B-line-115" n="115">Above a Thousands Pounds in Debt,</l>
+            <l xml:id="swift-170-417B-line-116" n="116">Takes Horse and in a mighty fret,</l>
+            <l xml:id="swift-170-417B-line-117" n="117">Rides Day and Night at such a Rate.</l>
+            <l xml:id="swift-170-417B-line-118" n="118">He soon arriv'd at <hi rend="large-writing">Harley's</hi> Gate,</l>
+            <l xml:id="swift-170-417B-line-119" n="119">But was so Dirty, Pale and Thin,</l>
+            <l xml:id="swift-170-417B-line-120" n="120">Old Read would hardly let him in.</l>
+            <l rend="indent(1)" xml:id="swift-170-417B-line-121" n="121">Said <hi rend="large-writing">Harley</hi>, welcome Reverend Dean,</l>
+            <l xml:id="swift-170-417B-line-122" n="122">What makes your Worship look so Lean,</l>
+            <l xml:id="swift-170-417B-line-123" n="123">Why sure, you won't appear in Town,</l>
+            <l xml:id="swift-170-417B-line-124" n="124">With that Old Wig and Dirty Gown,</l>
+            <l xml:id="swift-170-417B-line-125" n="125">I doubt your Heart is set on Pelfe,</l>
+            <l xml:id="swift-170-417B-line-126" n="126">So much that You neglect your Self:</l>
+            <l xml:id="swift-170-417B-line-127" n="127">What J suppose now Stocks are high</l>
+            <l xml:id="swift-170-417B-line-128" n="128">You've some good Purchase in your Eye,</l>
+            <l xml:id="swift-170-417B-line-129" n="129">Or is your Money out at Use?</l>
+            <l xml:id="swift-170-417B-line-130" n="130">Truce, good my Lord, I beg a Truce;</l>
+            <l xml:id="swift-170-417B-line-131" n="131">The Doctor in a Passion cry'd,</l>
+            <l xml:id="swift-170-417B-line-132" n="132">Your Raiilery is misapply'd,</l>
+            <l xml:id="swift-170-417B-line-133" n="133">I have Experience dearly bought,</l>
+            <l xml:id="swift-170-417B-line-134" n="134">You know I am not worth a Groat,</l>
+            <l xml:id="swift-170-417B-line-135" n="135">But you resolv'd to have your Jest,</l>
+            <l xml:id="swift-170-417B-line-136" n="136">And 'twas a folly to Contest,</l>
+            <l xml:id="swift-170-417B-line-137" n="137">Then since you now have done your <hi rend="large-writing">Worst</hi>,</l>
+            <l xml:id="swift-170-417B-line-138" n="138">Pray leave me where you found me first.</l>
+            <l xml:id="swift-170-417B-line-139" n="139">om.</l>
+            <l xml:id="swift-170-417B-line-140" n="140">om.</l>
+            <l xml:id="swift-170-417B-line-141" n="141">om.</l>
+            <l xml:id="swift-170-417B-line-142" n="142">om.</l>
+            <l xml:id="swift-170-417B-line-143" n="143">om.</l>
+            <l xml:id="swift-170-417B-line-144" n="144">om.</l>
+            <l xml:id="swift-170-417B-line-145" n="145">om.</l>
+            <l xml:id="swift-170-417B-line-146" n="146">om.</l>
+            <l xml:id="swift-170-417B-line-147" n="147">om.</l>
+            <l xml:id="swift-170-417B-line-148" n="148">om.</l>
+            <l xml:id="swift-170-417B-line-149" n="149">om.</l>
+            <l xml:id="swift-170-417B-line-150" n="150">om.</l>
+            <l xml:id="swift-170-417B-line-151" n="151">om.</l>
+            <l xml:id="swift-170-417B-line-152" n="152">om.</l>
+            <l xml:id="swift-170-417B-line-153" n="153">om.</l>
+            <l xml:id="swift-170-417B-line-154" n="154">om.</l>
+            <l xml:id="swift-170-417B-line-155" n="155">om.</l>
+            <l xml:id="swift-170-417B-line-156" n="156">om.</l>
+            <l xml:id="swift-170-417B-line-157" n="157">om.</l>
+            <l xml:id="swift-170-417B-line-158" n="158">om.</l>
+            <l xml:id="swift-170-417B-line-159" n="159">om.</l>
+            <l xml:id="swift-170-417B-line-160" n="160">om.</l>
+            <l xml:id="swift-170-417B-line-161" n="161">om.</l>
+            <l xml:id="swift-170-417B-line-162" n="162">om.</l>
+            <l xml:id="swift-170-417B-line-163" n="163">om.</l>
+            <l xml:id="swift-170-417B-line-164" n="164">om.</l>
+            <l xml:id="swift-170-417B-line-165" n="165">om.</l>
+            <l xml:id="swift-170-417B-line-166" n="166">om.</l>
+            <l xml:id="swift-170-417B-line-167" n="167">om.</l>
+            <l xml:id="swift-170-417B-line-168" n="168">om.</l>
+            <l xml:id="swift-170-417B-line-169" n="169">om.</l>
+            <l xml:id="swift-170-417B-line-170" n="170">om.</l>
+            <l xml:id="swift-170-417B-line-171" n="171">om.</l>
+            <l xml:id="swift-170-417B-line-172" n="172">om.</l>
+            <l xml:id="swift-170-417B-line-173" n="173">om.</l>
+            <l xml:id="swift-170-417B-line-174" n="174">om.</l>
+            <l xml:id="swift-170-417B-line-175" n="175">om.</l>
+            <l xml:id="swift-170-417B-line-176" n="176">om.</l>
+            <l xml:id="swift-170-417B-line-177" n="177">om.</l>
+            <l xml:id="swift-170-417B-line-178" n="178">om.</l>
+            <l xml:id="swift-170-417B-line-179" n="179">om.</l>
+            <l xml:id="swift-170-417B-line-180" n="180">om.</l>
+            <l xml:id="swift-170-417B-line-181" n="181">om.</l>
+            <l xml:id="swift-170-417B-line-182" n="182">om.</l>
+            <l xml:id="swift-170-417B-line-183" n="183">om.</l>
+            <l xml:id="swift-170-417B-line-184" n="184">om.</l>
+            <l xml:id="swift-170-417B-line-185" n="185">om.</l>
+            <l xml:id="swift-170-417B-line-186" n="186">om.</l>
+            <l xml:id="swift-170-417B-line-187" n="187">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

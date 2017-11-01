@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To a Friend who had been much abused<lb/>  in many different Libels.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 24JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="506-0871">
+          <head type="note" n="1" xml:id="spp-506-0871-headnote-1">
+            <lg n="1" xml:id="spp-506-0871-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-506-0871-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-506-0871-headnote-2">
+            <lg n="1" xml:id="spp-506-0871-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-506-0871-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-506-0871-headnote-3">
+            <lg n="1" xml:id="spp-506-0871-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-506-0871-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-506-0871-line-1" n="1"><hi rend="display-initial">T</hi>HE greatest Monarch may be stabb'd by Night,</l>
+            <l xml:id="swift-506-0871-line-2" n="2">And Fortune help the Murd'rer in his Flight;</l>
+            <l xml:id="swift-506-0871-line-3" n="3">The vilest Ruffian may commit a Rape,</l>
+            <l xml:id="swift-506-0871-line-4" n="4">Yet safe from injur'd Innocence escape;</l>
+            <l xml:id="swift-506-0871-line-5" n="5">And Calumny, by working under Ground,</l>
+            <l xml:id="swift-506-0871-line-6" n="6">Can, unreveng'd, the greatest Merit wound:</l>
+            <l rend="indent(1)" xml:id="swift-506-0871-line-7" n="7">What's to be done? Shall Wit and Learning chuse</l>
+            <l xml:id="swift-506-0871-line-8" n="8">To live obscure, and have no Fame to lose?</l>
+            <l xml:id="swift-506-0871-line-9" n="9">By Censure frighted out of Honour's Road,</l>
+            <l xml:id="swift-506-0871-line-10" n="10">Nor dare to use the Gifts by Heav'n bestow'd;</l>
+            <l xml:id="swift-506-0871-line-11" n="11">Or fearless enter in thro' Virtue's Gate,</l>
+            <l xml:id="swift-506-0871-line-12" n="12">And buy Distinction at the dearest Rate.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

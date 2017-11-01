@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">Dean</hi> S<hi rend="small-caps">WIFT</hi> <hi rend="italics">being sent for by the Lord</hi> C<hi rend="small-caps">AR-<lb/>  TERET</hi>, <hi rend="italics">then Lord Lieutenant of </hi>Ireland<hi rend="italics">, and<lb/>  being made to wait in the Council Chamber alone,<lb/>  wrote with a Diamond on the Window</hi>,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 6MY09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="368A50XE">
+          <head type="note" n="1" xml:id="spp-368A50XE-headnote-1">
+            <lg n="1" xml:id="spp-368A50XE-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A50XE-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-368A50XE-headnote-2">
+            <lg n="1" xml:id="spp-368A50XE-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A50XE-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-368A50XE-headnote-3">
+            <lg n="1" xml:id="spp-368A50XE-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-368A50XE-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-368A50XE-line-1" n="1"><hi rend="display-initial">M</hi>Y very good Lord, 'tis a very hard Task,</l>
+            <l xml:id="swift-368A50XE-line-2" n="2">For a Man to wait here who has nothing to ask.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

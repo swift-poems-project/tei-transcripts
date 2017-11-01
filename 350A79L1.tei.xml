@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON THE SAME.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 30JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="350A79L1">
+          <head type="note" n="1" xml:id="spp-350A79L1-headnote-1">
+            <lg n="1" xml:id="spp-350A79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-350A79L1-headnote-1-line-group-1-line-1">(The J<hi rend="small-caps">UDGE</hi> speaks.)</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-350A79L1-headnote-2">
+            <lg n="1" xml:id="spp-350A79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-350A79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-350A79L1-headnote-3">
+            <lg n="1" xml:id="spp-350A79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-350A79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-350A79L1-line-1" n="1"><hi rend="display-initial">I</hi>'M not the grandson of that ass <note place="foot">·An alderman.</note> Quin;</l>
+            <l xml:id="swift-350A79L1-line-2" n="2">Nor can you prove it, Mr. Pasquin.</l>
+            <l xml:id="swift-350A79L1-line-3" n="3">My grand-dame had gallants by twenties,</l>
+            <l xml:id="swift-350A79L1-line-4" n="4">And bore my mother by a 'prentice.</l>
+            <l xml:id="swift-350A79L1-line-5" n="5">This when my grandsire knew, they tell us he</l>
+            <l xml:id="swift-350A79L1-line-6" n="6">In Christ-church cut his throat for jealousy.</l>
+            <l xml:id="swift-350A79L1-line-7" n="7">And, since the alderman was mad you say,</l>
+            <l xml:id="swift-350A79L1-line-8" n="8">Then I must be so too, <hi rend="italics">ex traduce</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

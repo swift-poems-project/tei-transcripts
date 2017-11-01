@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Paraphrase on the Seven<lb/>  Penitential PSALMS, by the<lb/>  Reverend Mr. <hi rend="italics">R---d D---l</hi>, D. of <hi rend="italics">A</hi>.<lb/>  Or <hi rend="italics">Strephon</hi> to <hi rend="italics">Belinda</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 6OC09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> tochk items resolved JW 16OC13; ed. JW 16MY15. 26SE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Z799P60-">
+          <head type="note" n="1" xml:id="spp-Z799P60--headnote-1">
+            <lg n="1" xml:id="spp-Z799P60--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z799P60--headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Z799P60--headnote-2">
+            <lg n="1" xml:id="spp-Z799P60--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z799P60--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Z799P60--headnote-3">
+            <lg n="1" xml:id="spp-Z799P60--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Z799P60--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Z799P60--line-1" n="1"><hi rend="display-initial">H</hi>EAR, fair <hi rend="italics">Belinda</hi>, hear thy Suppliant's cry,</l>
+            <l xml:id="swift-Z799P60--line-2" n="2">I faint──── oh! hear and pardon e're I die;</l>
+            <l xml:id="swift-Z799P60--line-3" n="3">Wild and Distracted with thy Love I flee</l>
+            <l xml:id="swift-Z799P60--line-4" n="4">Thou Lovely Charmer of my Soul to thee,</l>
+            <l xml:id="swift-Z799P60--line-5" n="5">I know my follies must thy anger move</l>
+            <l xml:id="swift-Z799P60--line-6" n="6">Chastise me────── but Chastise me in thy Love,</l>
+            <l xml:id="swift-Z799P60--line-7" n="7">Oh! let thy wonted softness take my part</l>
+            <l xml:id="swift-Z799P60--line-8" n="8">Vex'd are my Bones and broken────── is my Heart,</l>
+            <l xml:id="swift-Z799P60--line-9" n="9">My Rivals, See, exulting in their Pride</l>
+            <l xml:id="swift-Z799P60--line-10" n="10">Watch for my ruin, and my fate deride,</l>
+            <l xml:id="swift-Z799P60--line-11" n="11">Must they in human cruel Triumph have</l>
+            <l xml:id="swift-Z799P60--line-12" n="12">Is there no Hope, no Refuge, but the Grave.</l>
+            <l xml:id="swift-Z799P60--line-13" n="13">Why heaves my swelling Heart with sorrows prest</l>
+            <l xml:id="swift-Z799P60--line-14" n="14">Why do's it pant, and flutter in my Breast,</l>
+            <l xml:id="swift-Z799P60--line-15" n="15">What would'st thou say my Heart, or how express</l>
+            <l xml:id="swift-Z799P60--line-16" n="16">How tell the piteous Tale of thy Distress,</l>
+            <l xml:id="swift-Z799P60--line-17" n="17">Be hush't fond thing, and let thy Sighs alone</l>
+            <l xml:id="swift-Z799P60--line-18" n="18">Too well thy Follies, and thy Griefs are known,</l>
+            <l xml:id="swift-Z799P60--line-19" n="19">She knows, she knows thee all, she sees thee through,</l>
+            <l xml:id="swift-Z799P60--line-20" n="20">Ah! as she sees, wou'd she but pity too.</l>
+            <l xml:id="swift-Z799P60--line-21" n="21">Oh! hear me, kind <hi rend="italics">Belinda</hi>, and forgive</l>
+            <l xml:id="swift-Z799P60--line-22" n="22">Heal, heal a broken Heart and bid me rise and live;</l>
+            <l xml:id="swift-Z799P60--line-23" n="23">Alass how chang'd────── all Comeliness is fled</l>
+            <l xml:id="swift-Z799P60--line-24" n="24">No Sprightly Ardour plays around my Head,</l>
+            <l xml:id="swift-Z799P60--line-25" n="25">Deep Eating Care has Furrow'd up my Face</l>
+            <l xml:id="swift-Z799P60--line-26" n="26">Unhappy <hi rend="italics">Strephon</hi> is not──── what he was,</l>
+            <l xml:id="swift-Z799P60--line-27" n="27">Ah endless source of woe; ah fatal smart</l>
+            <l xml:id="swift-Z799P60--line-28" n="28">Which inward Burns and preys upon my Heart,</l>
+            <l xml:id="swift-Z799P60--line-29" n="29">What should I do; my easy Couch I prest</l>
+            <l xml:id="swift-Z799P60--line-30" n="30">And thought that gentle Sleep would give me rest,</l>
+            <l xml:id="swift-Z799P60--line-31" n="31">Sleep would not, could not come, the silent Night</l>
+            <l xml:id="swift-Z799P60--line-32" n="32">Enlarg'd my woes, and gave them all to sight,</l>
+            <l xml:id="swift-Z799P60--line-33" n="33">From side to side I turn'd, I rav'd I tost</l>
+            <l xml:id="swift-Z799P60--line-34" n="34">And wish'd my very sense of being lost;</l>
+            <l xml:id="swift-Z799P60--line-35" n="35">Thus pierc'd with grief, and wilder'd with despair</l>
+            <l xml:id="swift-Z799P60--line-36" n="36">The Nightingale laments her tender care,</l>
+            <l xml:id="swift-Z799P60--line-37" n="37">To every wind her sorrow is addrest</l>
+            <l xml:id="swift-Z799P60--line-38" n="38">When some rude hand has robb'd her downy Nest,</l>
+            <l xml:id="swift-Z799P60--line-39" n="39">She trys the brake, she Searches all the plain</l>
+            <l xml:id="swift-Z799P60--line-40" n="40">Often she's heard to call but call in vain,</l>
+            <l xml:id="swift-Z799P60--line-41" n="41">She hangs her Wings, she hates the tedious Day</l>
+            <l xml:id="swift-Z799P60--line-42" n="42">And pensive mourns the live long Night away;</l>
+            <l xml:id="swift-Z799P60--line-43" n="43">Oh hear me, save me, pity and forgive</l>
+            <l xml:id="swift-Z799P60--line-44" n="44">Nor is it yet too late to bid me live,</l>
+            <l xml:id="swift-Z799P60--line-45" n="45">One kind reviving Word will set me free</l>
+            <l xml:id="swift-Z799P60--line-46" n="46"><hi rend="italics">Belinda</hi> let me live, that I may live for thee;</l>
+            <l xml:id="swift-Z799P60--line-47" n="47">Come, fair <hi rend="italics">Belinda</hi>, take thy Servants part</l>
+            <l xml:id="swift-Z799P60--line-48" n="48">Come fair <hi rend="italics">Belinda</hi>, Triumph o're my Heart,</l>
+            <l xml:id="swift-Z799P60--line-49" n="49">Seise, take it all, and let the wand'rer be</l>
+            <l xml:id="swift-Z799P60--line-50" n="50">Close knit in sweetest bonds to Love and Thee,</l>
+            <l xml:id="swift-Z799P60--line-51" n="51">Come, fair <hi rend="italics">Belinda</hi>, take my injur'd part</l>
+            <l xml:id="swift-Z799P60--line-52" n="52">Oh come, and reign for ever in my Heart;</l>
+            <l xml:id="swift-Z799P60--line-53" n="53">The Boy, th' ambitious Boy comes thund'ring on</l>
+            <l xml:id="swift-Z799P60--line-54" n="54">And with his powerful Darts do's hunt me down,</l>
+            <l xml:id="swift-Z799P60--line-55" n="55">Come quickly to my aid, thou welcome Guest</l>
+            <l xml:id="swift-Z799P60--line-56" n="56">And gently lull my fainting Soul to rest,</l>
+            <l xml:id="swift-Z799P60--line-57" n="57">Oh haste thee, do not stop, make no delay</l>
+            <l xml:id="swift-Z799P60--line-58" n="58">How pressing is my danger, haste away;</l>
+            <l xml:id="swift-Z799P60--line-59" n="59">She hears, she hears, go bear the Tidings round</l>
+            <l xml:id="swift-Z799P60--line-60" n="60">My joyful Heart springs forward to the Sound;</l>
+            <l xml:id="swift-Z799P60--line-61" n="61">She heard, she saw, and willing to forgive</l>
+            <l xml:id="swift-Z799P60--line-62" n="62">She pitied, nay she kindly bid me live,</l>
+            <l xml:id="swift-Z799P60--line-63" n="63">Then, then I felt a sudden transport rise</l>
+            <l xml:id="swift-Z799P60--line-64" n="64">Spring in my Heart, and lighten in my Eyes,</l>
+            <l xml:id="swift-Z799P60--line-65" n="65">From my Charm'd Soul I banish'd every care,</l>
+            <l xml:id="swift-Z799P60--line-66" n="66">All Heaven rush'd in, and took possession there.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

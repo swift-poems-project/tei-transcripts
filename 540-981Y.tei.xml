@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 5DE02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-981Y">
+          <head type="note" n="1" xml:id="spp-540-981Y-headnote-1">
+            <lg n="1" xml:id="spp-540-981Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-981Y-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-981Y-headnote-2">
+            <lg n="1" xml:id="spp-540-981Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-981Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-981Y-headnote-3">
+            <lg n="1" xml:id="spp-540-981Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-981Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-981Y-line-1" n="1">om.</l>
+            <l xml:id="swift-540-981Y-line-2" n="2">om.</l>
+            <l xml:id="swift-540-981Y-line-3" n="3">om.</l>
+            <l xml:id="swift-540-981Y-line-4" n="4">om.</l>
+            <l xml:id="swift-540-981Y-line-5" n="5">om.</l>
+            <l xml:id="swift-540-981Y-line-6" n="6">om.</l>
+            <l xml:id="swift-540-981Y-line-7" n="7">om.</l>
+            <l xml:id="swift-540-981Y-line-8" n="8">om.</l>
+            <l xml:id="swift-540-981Y-line-9" n="9">om.</l>
+            <l xml:id="swift-540-981Y-line-10" n="10">om.</l>
+            <l xml:id="swift-540-981Y-line-11" n="11">om.</l>
+            <l xml:id="swift-540-981Y-line-12" n="12">om.</l>
+            <l xml:id="swift-540-981Y-line-13" n="13">Atcheiving of nothing, but promising wonders.</l>
+            <l xml:id="swift-540-981Y-line-14" n="14">By Dint of experience improving in blunders.</l>
+            <l xml:id="swift-540-981Y-line-15" n="15">oppressing true merit, exalting ye base</l>
+            <l xml:id="swift-540-981Y-line-16" n="16">&amp; selling his country to purchase a peace,</l>
+            <l xml:id="swift-540-981Y-line-17" n="17">A Jobber of stocks by retailing false news</l>
+            <l xml:id="swift-540-981Y-line-18" n="18">A prater at court in ye style of ye stews</l>
+            <l xml:id="swift-540-981Y-line-19" n="19">To cheats Pimps &amp; pandars a constant subscriber,</l>
+            <l xml:id="swift-540-981Y-line-20" n="20">of Juries &amp; senates ye bully &amp; briber.</l>
+            <l xml:id="swift-540-981Y-line-21" n="21">Tho J name not ye wretch you know who J mean</l>
+            <l xml:id="swift-540-981Y-line-22" n="22">The cur-dog of Britaine &amp; ye spaniel of Spaine.</l>
+            <l xml:id="swift-540-981Y-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

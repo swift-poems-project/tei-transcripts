@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A LOVE POEM<lb/>  from a PHYSICIAN to his MISTRESS.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KRiley 20SE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p> query JIF 11AU99 √'d JW 11AU99; √'d JW 20JE01 agt 0853; EMENDED JW 6SE17, 7SE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y52CCWJS">
+          <head type="note" n="1" xml:id="spp-Y52CCWJS-headnote-1">
+            <lg n="1" xml:id="spp-Y52CCWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y52CCWJS-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y52CCWJS-headnote-2">
+            <lg n="1" xml:id="spp-Y52CCWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y52CCWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y52CCWJS-headnote-3">
+            <lg n="1" xml:id="spp-Y52CCWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y52CCWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y52CCWJS-line-1" n="1">
+              <hi rend="display-initial">B<hi rend="small-caps">Y</hi> P<hi rend="small-caps">OETS</hi> we are well assur'd</hi>
+            </l>
+            <l xml:id="swift-Y52CCWJS-line-2" n="2">That Love, alas! can ne'er be <hi rend="italics">cur'd</hi>;</l>
+            <l xml:id="swift-Y52CCWJS-line-3" n="3">A complicated Heap of <hi rend="italics">Ills</hi>,</l>
+            <l xml:id="swift-Y52CCWJS-line-4" n="4">Despising <hi rend="italics">Boluses</hi> and <hi rend="italics">Pills</hi>.</l>
+            <l xml:id="swift-Y52CCWJS-line-5" n="5">Ah! <hi rend="italics">Chloe</hi>, this I find is true,</l>
+            <l xml:id="swift-Y52CCWJS-line-6" n="6">Since first I gave my Heart to you.</l>
+            <l xml:id="swift-Y52CCWJS-line-7" n="7">Now, by your Cruelty <hi rend="italics">hard-bound</hi></l>
+            <l xml:id="swift-Y52CCWJS-line-8" n="8">I strain my <hi rend="italics">Guts</hi>, my <hi rend="italics">Colon</hi> wound:</l>
+            <l xml:id="swift-Y52CCWJS-line-9" n="9">Now Jealousy my <hi rend="italics">grumpling Tripes</hi></l>
+            <l xml:id="swift-Y52CCWJS-line-10" n="10">Assaults with grating, grinding <hi rend="italics">Gripes</hi>:</l>
+            <l xml:id="swift-Y52CCWJS-line-11" n="11">When Pity in those Eyes I view,</l>
+            <l xml:id="swift-Y52CCWJS-line-12" n="12">My <hi rend="italics">Bowels</hi> wambling make me <hi rend="italics">spew</hi>.</l>
+            <l xml:id="swift-Y52CCWJS-line-13" n="13">When I an am'rous Kiss design'd,</l>
+            <l xml:id="swift-Y52CCWJS-line-14" n="14">I <hi rend="italics">belch'd</hi> a Hurricane of <hi rend="italics">Wind</hi>.</l>
+            <l xml:id="swift-Y52CCWJS-line-15" n="15">Once, you a gentle Sigh let fall,</l>
+            <l xml:id="swift-Y52CCWJS-line-16" n="16">Remember how I <hi rend="italics">suck'd</hi> it all;</l>
+            <l xml:id="swift-Y52CCWJS-line-17" n="17">What <hi rend="italics">Cholick Pangs</hi> from thence I felt,</l>
+            <l xml:id="swift-Y52CCWJS-line-18" n="18">Had you but known, your <hi rend="italics">Heart</hi> would melt,</l>
+            <l xml:id="swift-Y52CCWJS-line-19" n="19">Like ruffling Winds in Caverns pent,</l>
+            <l xml:id="swift-Y52CCWJS-line-20" n="20">Till Nature pointed out a Vent.</l>
+            <l xml:id="swift-Y52CCWJS-line-21" n="21">How have you torn my Heart to Pieces,</l>
+            <l xml:id="swift-Y52CCWJS-line-22" n="22">With Maggots, Humours, and Caprices!</l>
+            <l xml:id="swift-Y52CCWJS-line-23" n="23">By which I got the <hi rend="italics">Hemorrhoyds</hi>,</l>
+            <l xml:id="swift-Y52CCWJS-line-24" n="24">And loathsome <hi rend="italics">Worms</hi> my <hi rend="italics">Anus</hi> voids.</l>
+            <l xml:id="swift-Y52CCWJS-line-25" n="25">Whene'er I hear a Rival nam'd,</l>
+            <l xml:id="swift-Y52CCWJS-line-26" n="26">I feel my Body all inflam'd;</l>
+            <l xml:id="swift-Y52CCWJS-line-27" n="27">Which breaking out in <hi rend="italics">Boyls</hi> and <hi rend="italics">Blanes</hi>,</l>
+            <l xml:id="swift-Y52CCWJS-line-28" n="28">With <hi rend="italics">yellow Filth</hi> my Linen stains.</l>
+            <l xml:id="swift-Y52CCWJS-line-29" n="29">Or, parch'd with unextinguish'd <hi rend="italics">Thirst</hi>,</l>
+            <l xml:id="swift-Y52CCWJS-line-30" n="30">Small Beer I <hi rend="italics">guzzle</hi> till I <hi rend="italics">burst</hi>:</l>
+            <l xml:id="swift-Y52CCWJS-line-31" n="31">And then I drag a bloated <hi rend="italics">Corpus</hi></l>
+            <l xml:id="swift-Y52CCWJS-line-32" n="32">Swell'd with a <hi rend="italics">Dropsy</hi>, like a Porpus;</l>
+            <l xml:id="swift-Y52CCWJS-line-33" n="33">When, if I cannot <hi rend="italics">purge</hi> or <hi rend="italics">stale</hi>,</l>
+            <l xml:id="swift-Y52CCWJS-line-34" n="34">I must be tapp'd to fill a <hi rend="italics">Pail</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

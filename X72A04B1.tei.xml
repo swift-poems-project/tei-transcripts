@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="TNiese 1DE10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X72A04B1">
+          <head type="note" n="1" xml:id="spp-X72A04B1-headnote-1">
+            <lg n="1" xml:id="spp-X72A04B1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X72A04B1-headnote-1-line-group-1-line-1">After his arrival, he wrote the following characteristic and humorous description of the towns through which he passed:&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X72A04B1-headnote-2">
+            <lg n="1" xml:id="spp-X72A04B1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X72A04B1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X72A04B1-headnote-3">
+            <lg n="1" xml:id="spp-X72A04B1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X72A04B1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X72A04B1-line-1" n="1"><hi rend="italics">Dublin</hi>, a city, <hi rend="italics">Dunshaughlin</hi> <note place="foot">·<hi rend="italics">Dunshauglin</hi> is 13 miles north-west from Dublin, situated in <hi rend="italics">a rich arable soil</hi>.</note> for a plow,</l>
+            <l xml:id="swift-X72A04B1-line-2" n="2"><hi rend="italics">Navan</hi> <note place="foot">·<hi rend="italics">Navan</hi> is 22½ miles north-west of Dublin, famous for its corn market.</note> for a market, <hi rend="italics">Ardbracken</hi> <note place="foot">·<hi rend="italics">Ardbracken</hi> is surrounded with fine grazing land. The episcopal palace of the Bishop of Meath is situated here.</note> for a cow,</l>
+            <l xml:id="swift-X72A04B1-line-3" n="3"><hi rend="italics">Kells</hi> <note place="foot">·<hi rend="italics">Kells</hi> or <hi rend="italics">Kenlis</hi>, 31 miles north-west of Dublin. A provincial council was held in this town in the <hi rend="italics">fifth century</hi>, where the Pope's legate presided.</note> for an old town, <hi rend="italics">Virginia</hi> <note place="foot">·<hi rend="italics">Virginia</hi>, a poor village, 46 miles north-west of Dublin. In the parish church of this village, the celebrated comic actress, then only known by the name of Peg <hi rend="italics">Woffington</hi>, read her recantation to the Rev. Mr. Sterling.</note> poor,</l>
+            <l xml:id="swift-X72A04B1-line-4" n="4"><hi rend="italics">Cavan</hi> <note place="foot">·<hi rend="italics">Cavan</hi> is the chief town of the county, seated in a hollow, and extremely dirty in wet weather.</note> for dirt, and <hi rend="italics">Belturbet</hi> <note place="foot">·<hi rend="italics">Belturbet</hi>. A barrack for a troop of horse is erected here, which is always filled with soldier's trulls.</note> for a whore.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

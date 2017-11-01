@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Written in a Lady's Ivory Table-book, 1699.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 4JE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="060-79L1">
+          <head type="note" n="1" xml:id="spp-060-79L1-headnote-1">
+            <lg n="1" xml:id="spp-060-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-060-79L1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-060-79L1-headnote-2">
+            <lg n="1" xml:id="spp-060-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-060-79L1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-060-79L1-headnote-3">
+            <lg n="1" xml:id="spp-060-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-060-79L1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-060-79L1-line-1" n="1"><hi rend="display-initial">P</hi>ERUSE my leaves through every part,</l>
+            <l xml:id="swift-060-79L1-line-2" n="2">And think thou seest my owner's heart,</l>
+            <l xml:id="swift-060-79L1-line-3" n="3">Scrawl'd o'er with trifles thus, and quite</l>
+            <l xml:id="swift-060-79L1-line-4" n="4">As hard, as senseless, and as light;</l>
+            <l xml:id="swift-060-79L1-line-5" n="5">Expos'd to every coxcomb's eyes,</l>
+            <l xml:id="swift-060-79L1-line-6" n="6">But hid with caution from the wise.</l>
+            <l xml:id="swift-060-79L1-line-7" n="7">Here you may read, “Dear charming saint!”</l>
+            <l xml:id="swift-060-79L1-line-8" n="8">Beneath, “A new receipt for paint:”</l>
+            <l xml:id="swift-060-79L1-line-9" n="9">Here, in beau-spelling, “Tru tel deth;”</l>
+            <l xml:id="swift-060-79L1-line-10" n="10">There, in her own, “For an el breth:”</l>
+            <l xml:id="swift-060-79L1-line-11" n="11">Here, “Lovely nymph, pronounce my doom!”</l>
+            <l xml:id="swift-060-79L1-line-12" n="12">There, “A safe way to use perfume:”</l>
+            <l xml:id="swift-060-79L1-line-13" n="13">Here, a page fill'd with billets-doux:</l>
+            <l xml:id="swift-060-79L1-line-14" n="14">On t'other side “Laid out for shoes”──</l>
+            <l xml:id="swift-060-79L1-line-15" n="15">“Madam, I die without your grace”──</l>
+            <l xml:id="swift-060-79L1-line-16" n="16">“Item, for half a yard of lace.”</l>
+            <l xml:id="swift-060-79L1-line-17" n="17">Who that had wit would place it here,</l>
+            <l xml:id="swift-060-79L1-line-18" n="18">For every peeping fop to jeer?</l>
+            <l xml:id="swift-060-79L1-line-19" n="19">om.</l>
+            <l xml:id="swift-060-79L1-line-20" n="20">om.</l>
+            <l xml:id="swift-060-79L1-line-21" n="21">In power of spittle and a clout,</l>
+            <l xml:id="swift-060-79L1-line-22" n="22">Whene'er he please, to blot it out;</l>
+            <l xml:id="swift-060-79L1-line-23" n="23">And then, to heighten the disgrace,</l>
+            <l xml:id="swift-060-79L1-line-24" n="24">Clap his own nonsense in the place.</l>
+            <l xml:id="swift-060-79L1-line-25" n="25">Whoe'er expects to hold his part</l>
+            <l xml:id="swift-060-79L1-line-26" n="26">In such a book, and such a heart,</l>
+            <l xml:id="swift-060-79L1-line-27" n="27">If he be wealthy, and a fool,</l>
+            <l xml:id="swift-060-79L1-line-28" n="28">Is in all points the fittest tool;</l>
+            <l xml:id="swift-060-79L1-line-29" n="29">Of whom it may be justly said,</l>
+            <l xml:id="swift-060-79L1-line-30" n="30">He's a gold pencil tipp'd with lead.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

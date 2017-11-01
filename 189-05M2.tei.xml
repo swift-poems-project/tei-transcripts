@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The FAGGOT.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="KEnoch 10AP04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-189-05M2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="189-05M2">
+          <head type="note" n="1" xml:id="spp-189-05M2-headnote-1">
+            <lg n="1" xml:id="spp-189-05M2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-189-05M2-headnote-1-line-group-1-line-1"><hi rend="italics">Written in the Year </hi>1713<hi rend="italics">, when the Queen's Ministers were quarrelling among themselves</hi> <ref target="#spp-189-05M2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-189-05M2-footnote-headnote-1" place="foot">See more of the Author's Endeavours to procure a Reconcilement among them, in Mr. <hi rend="italics">Pope</hi>'s Prose Works, V<hi rend="small-caps">OL</hi>. II. Letter II, V. &amp;<hi rend="italics">c</hi></note>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-189-05M2-headnote-2">
+            <lg n="1" xml:id="spp-189-05M2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-189-05M2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-189-05M2-headnote-3">
+            <lg n="1" xml:id="spp-189-05M2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-189-05M2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-189-05M2-line-1" n="1"><hi rend="display-initial">O</hi>BSERVE the dying Father speak:</l>
+            <l xml:id="swift-189-05M2-line-2" n="2">Try, Lads, can you this Bundle break;</l>
+            <l xml:id="swift-189-05M2-line-3" n="3">Then bids the youngest of the Six,</l>
+            <l xml:id="swift-189-05M2-line-4" n="4">Take up a well-bound Heap of Sticks.</l>
+            <l xml:id="swift-189-05M2-line-5" n="5">They thought it was an old Man's Maggot;</l>
+            <l xml:id="swift-189-05M2-line-6" n="6">And strove by turns to break the Faggot:</l>
+            <l xml:id="swift-189-05M2-line-7" n="7">In vain: The complicated Wands</l>
+            <l xml:id="swift-189-05M2-line-8" n="8">Were much too strong for all their Hands.</l>
+            <l xml:id="swift-189-05M2-line-9" n="9">See, said the Sire, how soon 'tis done:</l>
+            <l xml:id="swift-189-05M2-line-10" n="10">Then took and broke them one by one.</l>
+            <l xml:id="swift-189-05M2-line-11" n="11">So strong you'll be in Friendship ty'd;</l>
+            <l xml:id="swift-189-05M2-line-12" n="12">So quickly broke, if you divide.</l>
+            <l xml:id="swift-189-05M2-line-13" n="13">Keep close then Boys, and never quarrel,</l>
+            <l xml:id="swift-189-05M2-line-14" n="14">Here ends the Fable and the Moral.</l>
+            <l rend="indent(1)" xml:id="swift-189-05M2-line-15" n="15"><lb/>T<hi rend="small-caps">HIS</hi> Tale may be apply'd in few Words</l>
+            <l xml:id="swift-189-05M2-line-16" n="16">To Treasurers, Comptrollers, Stewards,</l>
+            <l xml:id="swift-189-05M2-line-17" n="17">And others, who in solemn Sort</l>
+            <l xml:id="swift-189-05M2-line-18" n="18">Appear with slender Wands at Court:</l>
+            <l xml:id="swift-189-05M2-line-19" n="19">Not firmly join'd to keep their Ground,</l>
+            <l xml:id="swift-189-05M2-line-20" n="20">But lashing one another round:</l>
+            <l xml:id="swift-189-05M2-line-21" n="21">While wise Men think they ought to fight</l>
+            <l xml:id="swift-189-05M2-line-22" n="22">With <hi rend="italics">Quarter</hi>-staves, instead of <hi rend="italics">White</hi>;</l>
+            <l xml:id="swift-189-05M2-line-23" n="23">Or Constable with <hi rend="italics">Staff</hi> of Peace,</l>
+            <l xml:id="swift-189-05M2-line-24" n="24">Should come and make the Clatt'ring cease;</l>
+            <l xml:id="swift-189-05M2-line-25" n="25">Which now disturbs the Queen and Court,</l>
+            <l xml:id="swift-189-05M2-line-26" n="26">And gives the <hi rend="italics">Whigs</hi> and Rabble Sport.</l>
+            <l rend="indent(1)" xml:id="swift-189-05M2-line-27" n="27"><lb/>I<hi rend="small-caps">N</hi> History we never found,</l>
+            <l xml:id="swift-189-05M2-line-28" n="28">The Consul's <hi rend="italics">Fasces</hi> were unbound;</l>
+            <l xml:id="swift-189-05M2-line-29" n="29">Those <hi rend="italics">Romans</hi> were too wise to think on't,</l>
+            <l xml:id="swift-189-05M2-line-30" n="30">Except to lash some grand Delinquent.</l>
+            <l xml:id="swift-189-05M2-line-31" n="31">How would they blush to hear it said,</l>
+            <l xml:id="swift-189-05M2-line-32" n="32">The Prætor broke the Consul's Head;</l>
+            <l xml:id="swift-189-05M2-line-33" n="33">Or, Consul in his Purple Gown,</l>
+            <l xml:id="swift-189-05M2-line-34" n="34">Came up and knock'd the Prætor down?</l>
+            <l rend="indent(1)" xml:id="swift-189-05M2-line-35" n="35"><lb/>C<hi rend="small-caps">OME</hi>, Courtiers: Every Man his Stick:</l>
+            <l xml:id="swift-189-05M2-line-36" n="36">Lord-Treasurer, for once be quick;</l>
+            <l xml:id="swift-189-05M2-line-37" n="37">And, that they may the closer cling,</l>
+            <l xml:id="swift-189-05M2-line-38" n="38">Take your blue Ribbon for a String.</l>
+            <l xml:id="swift-189-05M2-line-39" n="39">Come, trimming <hi rend="italics">Harcourt</hi>, bring your Mace;</l>
+            <l xml:id="swift-189-05M2-line-40" n="40">And squeeze it in, or quit your Place:</l>
+            <l xml:id="swift-189-05M2-line-41" n="41">Dispatch; or else that R────l <hi rend="italics">Northey</hi> <note place="foot">·Sir <hi rend="italics">Edw. N.</hi> Attor. Gen. brought in by Lord <hi rend="italics">H.</hi> yet very desirous of the Great Seal.</note></l>
+            <l xml:id="swift-189-05M2-line-42" n="42">Will undertake to do it for thee:</l>
+            <l xml:id="swift-189-05M2-line-43" n="43">And, be assur'd, the Court will find him</l>
+            <l xml:id="swift-189-05M2-line-44" n="44">Prepar'd to <hi rend="italics">leap o'er Sticks</hi>, or bind 'em.</l>
+            <l rend="indent(1)" xml:id="swift-189-05M2-line-45" n="45"><lb/>T<hi rend="small-caps">O</hi> make the Bundle strong and safe,</l>
+            <l xml:id="swift-189-05M2-line-46" n="46">Great <hi rend="italics">Ormond</hi> lend thy Gen'ral's Staff:</l>
+            <l xml:id="swift-189-05M2-line-47" n="47">And, if the <hi rend="italics">Crosier</hi> could be cramm'd in,</l>
+            <l xml:id="swift-189-05M2-line-48" n="48">A Fig for <hi rend="italics">Lechmere, King, </hi>and<hi rend="italics"> Hambden</hi>.</l>
+            <l xml:id="swift-189-05M2-line-49" n="49">You'll then defy the strongest <hi rend="italics">Whig</hi>,</l>
+            <l xml:id="swift-189-05M2-line-50" n="50">With both his Hands to bend a Twig.</l>
+            <l xml:id="swift-189-05M2-line-51" n="51">Though with united Strength they all pull,</l>
+            <l xml:id="swift-189-05M2-line-52" n="52">From <hi rend="italics">Somers</hi> down to <hi rend="italics">Craiggs</hi> and <hi rend="italics">W</hi>────</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

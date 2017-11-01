@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>THE<lb/>  Merchant's Vindication of<lb/>  <hi rend="italics">CALLICOEs</hi>. Or, A Modest Answer to a<lb/>  late <hi rend="italics">PROLOGUE</hi> and <hi rend="italics">EPILOGUE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 2AU12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M40121D5">
+          <head type="note" n="1" xml:id="spp-M40121D5-headnote-1">
+            <lg n="1" xml:id="spp-M40121D5-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40121D5-headnote-1-line-group-1-line-1"><hi rend="italics">Fæmineo Generi tribuantur</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M40121D5-headnote-2">
+            <lg n="1" xml:id="spp-M40121D5-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40121D5-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M40121D5-headnote-3">
+            <lg n="1" xml:id="spp-M40121D5-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M40121D5-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M40121D5-line-1" n="1"><hi rend="display-initial">T</hi>HE <hi rend="italics">Muses</hi> whom the richest Silks array,</l>
+            <l xml:id="swift-M40121D5-line-2" n="2">Refuse to fling their shining Gowns away;</l>
+            <l xml:id="swift-M40121D5-line-3" n="3">The <hi rend="italics">Pencil</hi> cloaths the <hi rend="italics">Nine</hi> in bright <hi rend="italics">Brocades</hi>,</l>
+            <l xml:id="swift-M40121D5-line-4" n="4">And gives each Colour to the Pictur'd Maids,</l>
+            <l xml:id="swift-M40121D5-line-5" n="5">Far above Mortal Dress the <hi rend="italics">Sisters</hi> shine,</l>
+            <l xml:id="swift-M40121D5-line-6" n="6">Pride in their <hi rend="italics">Indian-Robes</hi>──── and must be fine.</l>
+            <l xml:id="swift-M40121D5-line-7" n="7">And must Two <hi rend="italics">Bards</hi> in Consort Rhyme and Huff,</l>
+            <l xml:id="swift-M40121D5-line-8" n="8">And fret these <hi rend="italics">Muses</hi> with their Play-House <hi rend="italics">Stuff</hi>?</l>
+            <l rend="indent(1)" xml:id="swift-M40121D5-line-9" n="9">The <hi rend="italics">Play'r</hi> in Mimick Piety may storm,</l>
+            <l xml:id="swift-M40121D5-line-10" n="10">Deplore the <hi rend="italics">Combe</hi>, and bid her Heroes arm,</l>
+            <l xml:id="swift-M40121D5-line-11" n="11">The Arbitrary M────b in Paultry Rage</l>
+            <l xml:id="swift-M40121D5-line-12" n="12">May curse the <hi rend="italics">Belles</hi> and <hi rend="italics">Chinces</hi> of the Age,</l>
+            <l xml:id="swift-M40121D5-line-13" n="13">Yet still the <hi rend="italics">Artist-Worm</hi> her <hi rend="italics">Silk</hi> shall share,</l>
+            <l xml:id="swift-M40121D5-line-14" n="14">And spin her Thread of Life in Service of the Fair.</l>
+            <l rend="indent(1)" xml:id="swift-M40121D5-line-15" n="15">The <hi rend="italics">Cotten-Plant</hi> whom <hi rend="italics">Satyr</hi> cannot blast,</l>
+            <l xml:id="swift-M40121D5-line-16" n="16">Shall bloom the Favourite of these Realms and last,</l>
+            <l xml:id="swift-M40121D5-line-17" n="17">Like Yours, ye Fair, her Fame from Censure grows</l>
+            <l xml:id="swift-M40121D5-line-18" n="18">Prevails in Charms, and glares above her Foes,</l>
+            <l xml:id="swift-M40121D5-line-19" n="19">Your injur'd <hi rend="italics">Plant</hi> shall meet a loud Defence</l>
+            <l xml:id="swift-M40121D5-line-20" n="20">And be the Emblem of your Innocence.</l>
+            <l rend="indent(1)" xml:id="swift-M40121D5-line-21" n="21">Some Bard perhaps whose Landlord was a <hi rend="italics">Weaver</hi></l>
+            <l xml:id="swift-M40121D5-line-22" n="22">Pen'd the low <hi rend="italics">Prologue</hi> to return a Favour,</l>
+            <l xml:id="swift-M40121D5-line-23" n="23">Some Neighbour Wit that wou'd be in the Vogue</l>
+            <l xml:id="swift-M40121D5-line-24" n="24">Work'd with his Friend, and wove the <hi rend="italics">Epilogue</hi>.</l>
+            <l xml:id="swift-M40121D5-line-25" n="25">Who Weavs the Chaplet, or provides the Bays,</l>
+            <l xml:id="swift-M40121D5-line-26" n="26">For such <hi rend="italics">Wool-gathering</hi> Soneteers as these?</l>
+            <l rend="indent(1)" xml:id="swift-M40121D5-line-27" n="27">Hence then ye <hi rend="italics">Home-spun Witlings</hi>, that persuade</l>
+            <l xml:id="swift-M40121D5-line-28" n="28">Miss <hi rend="italics">Chloe</hi> to the Fashion of her Maid,</l>
+            <l xml:id="swift-M40121D5-line-29" n="29">Shall the <hi rend="italics">Wide Hoop</hi>, that STANDARD of the <hi rend="italics">Town</hi>,</l>
+            <l xml:id="swift-M40121D5-line-30" n="30">Thus act subservient to a <hi rend="italics">Poplin Gown</hi>?</l>
+            <l xml:id="swift-M40121D5-line-31" n="31">Who'd smell of <hi rend="italics">Wool</hi> all over? 'Tis enough</l>
+            <l xml:id="swift-M40121D5-line-32" n="32">The <hi rend="italics">Under-Petticoat</hi> be made of <hi rend="italics">Stuff</hi>.</l>
+            <l xml:id="swift-M40121D5-line-33" n="33">Lord! to be wrapt in <hi rend="italics">Flannin</hi> just in <hi rend="italics">May</hi>, 3}</l>
+            <l xml:id="swift-M40121D5-line-34" n="34">When the Fields dress'd in <hi rend="italics">Flow'rs</hi> appear so gay────</l>
+            <l xml:id="swift-M40121D5-line-35" n="35">──Shan't <hi rend="italics">Miss</hi> be <hi rend="italics">Flower'd</hi> as well as they?</l>
+            <l rend="indent(1)" xml:id="swift-M40121D5-line-36" n="36">In what weak Colours wou'd the <hi rend="italics">PLAD</hi> appear</l>
+            <l xml:id="swift-M40121D5-line-37" n="37">Work'd to a <hi rend="italics">Quilt</hi>, or study'd in a Chair?</l>
+            <l xml:id="swift-M40121D5-line-38" n="38">The Skin that vies with <hi rend="italics">Silk</hi>, who'd fret with <hi rend="italics">Stuff</hi>?</l>
+            <l xml:id="swift-M40121D5-line-39" n="39">Or who cou'd bear in Red a Thing so rough,</l>
+            <l xml:id="swift-M40121D5-line-40" n="40">Ye knowing Fair how eminent that Bed</l>
+            <l xml:id="swift-M40121D5-line-41" n="41">Where the <hi rend="italics">Chince-Diamonds</hi> with the <hi rend="italics">Silken-Thread</hi>!</l>
+            <l xml:id="swift-M40121D5-line-42" n="42">Where Rustling Curtains call the Curious Eye</l>
+            <l xml:id="swift-M40121D5-line-43" n="43">And boast the Streaks and Paintings of the Sky,</l>
+            <l xml:id="swift-M40121D5-line-44" n="44">Of <hi rend="italics">Flocks</hi> they'd have your Milky <hi rend="italics">Ticking</hi> full</l>
+            <l xml:id="swift-M40121D5-line-45" n="45">And all this for the Benefit of <hi rend="italics">Wooll</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-M40121D5-line-46" n="46">But where, say they, shall we bestow these <hi rend="italics">Weavers</hi></l>
+            <l xml:id="swift-M40121D5-line-47" n="47">That spread our Streets, and are such Piteous <hi rend="italics">Cravers</hi>.</l>
+            <l xml:id="swift-M40121D5-line-48" n="48">The <hi rend="italics">Silk-Worms</hi> (brittle Beings) prone to Fate</l>
+            <l xml:id="swift-M40121D5-line-49" n="49">Demands their Care to make their <hi rend="italics">Webbs</hi> complete;</l>
+            <l xml:id="swift-M40121D5-line-50" n="50">These may they tend, their Promises receive,</l>
+            <l xml:id="swift-M40121D5-line-51" n="51">We cannot pay too much for what they give.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

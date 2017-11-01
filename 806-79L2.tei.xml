@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>JUDAS. 1731.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 30SE09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="806-79L2">
+          <head type="note" n="1" xml:id="spp-806-79L2-headnote-1">
+            <lg n="1" xml:id="spp-806-79L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-806-79L2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-806-79L2-headnote-2">
+            <lg n="1" xml:id="spp-806-79L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-806-79L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-806-79L2-headnote-3">
+            <lg n="1" xml:id="spp-806-79L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-806-79L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-806-79L2-line-1" n="1"><hi rend="display-initial">B</hi>Y the just vengeance of incensed skies,</l>
+            <l xml:id="swift-806-79L2-line-2" n="2">Poor Bishop Judas late repenting dies.</l>
+            <l xml:id="swift-806-79L2-line-3" n="3">The Jews engag'd him with a paltry bribe,</l>
+            <l xml:id="swift-806-79L2-line-4" n="4">Amounting hardly to a crown a tribe;</l>
+            <l xml:id="swift-806-79L2-line-5" n="5">Which though his conscience forc'd him to restore</l>
+            <l xml:id="swift-806-79L2-line-6" n="6">(And, parsons tell us, no man can do more);</l>
+            <l xml:id="swift-806-79L2-line-7" n="7">Yet, through despair, of God and man accurst,</l>
+            <l xml:id="swift-806-79L2-line-8" n="8">He lost his bishoprick, and hang'd or burst.</l>
+            <l xml:id="swift-806-79L2-line-9" n="9">Those former ages differ'd much from this;</l>
+            <l xml:id="swift-806-79L2-line-10" n="10">Judas betray'd his master with a kiss:</l>
+            <l xml:id="swift-806-79L2-line-11" n="11">But some have kiss'd the gospel fifty times,</l>
+            <l xml:id="swift-806-79L2-line-12" n="12">Whose perjury·'s the least of all their crimes;</l>
+            <l xml:id="swift-806-79L2-line-13" n="13">Some who can perjure through a two-inch board,</l>
+            <l xml:id="swift-806-79L2-line-14" n="14">Yet keep their bishopricks, and 'scape the cord:</l>
+            <l xml:id="swift-806-79L2-line-15" n="15">Like hemp, which, by a skilful spinster drawn</l>
+            <l xml:id="swift-806-79L2-line-16" n="16">To slender threads, may sometimes pass for lawn.</l>
+            <l rend="indent(1)" xml:id="swift-806-79L2-line-17" n="17">As ancient Judas <hi rend="italics">by transgression fell</hi>,</l>
+            <l xml:id="swift-806-79L2-line-18" n="18">And <hi rend="italics">burst asunder</hi> ere he went to hell;</l>
+            <l xml:id="swift-806-79L2-line-19" n="19">So could we see a set of new Iscariots</l>
+            <l xml:id="swift-806-79L2-line-20" n="20">Come headlong tumbling from their mitred chariots;</l>
+            <l xml:id="swift-806-79L2-line-21" n="21">Each modern Judas perish like the first;</l>
+            <l xml:id="swift-806-79L2-line-22" n="22">Drop from the tree, with all his bowels burst;</l>
+            <l xml:id="swift-806-79L2-line-23" n="23">Who could forbear, that view'd each guilty face,</l>
+            <l xml:id="swift-806-79L2-line-24" n="24">To cry, “Lo! Judas gone to his own place,</l>
+            <l xml:id="swift-806-79L2-line-25" n="25">“His habitation let all men forsake,</l>
+            <l xml:id="swift-806-79L2-line-26" n="26">“And let his bishoprick another take!”</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">On </hi>WOOD<hi rend="italics"> the iron-monger</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 29JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="352-07H1">
+          <head type="note" n="1" xml:id="spp-352-07H1-headnote-1">
+            <lg n="1" xml:id="spp-352-07H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-352-07H1-headnote-1-line-group-1-line-1">Writen in the Year 1725.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-352-07H1-headnote-2">
+            <lg n="1" xml:id="spp-352-07H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-352-07H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-352-07H1-headnote-3">
+            <lg n="1" xml:id="spp-352-07H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-352-07H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-352-07H1-line-1" n="1">
+              <hi rend="display-initial">S<hi rend="italics">ALMONEUS</hi>, as the <hi rend="italics">Grecian</hi> tale is,</hi>
+            </l>
+            <l xml:id="swift-352-07H1-line-2" n="2">Was a mad copper-smith of <hi rend="italics">Elis</hi>;</l>
+            <l xml:id="swift-352-07H1-line-3" n="3">Up at his forge by morning peep,</l>
+            <l xml:id="swift-352-07H1-line-4" n="4">No creature in the lane could sleep.</l>
+            <l xml:id="swift-352-07H1-line-5" n="5">Among a crew of royst'ring fellows</l>
+            <l xml:id="swift-352-07H1-line-6" n="6">Would sit whole ev'nings at the alehouse:</l>
+            <l xml:id="swift-352-07H1-line-7" n="7">His wife and children wanted bread,</l>
+            <l xml:id="swift-352-07H1-line-8" n="8">While he went always drunk to bed.</l>
+            <l xml:id="swift-352-07H1-line-9" n="9">This vap'ring scab must needs devise</l>
+            <l xml:id="swift-352-07H1-line-10" n="10">To ape the thunder of the skies:</l>
+            <l xml:id="swift-352-07H1-line-11" n="11">With <hi rend="italics">brass</hi> two fiery steeds he shod,</l>
+            <l xml:id="swift-352-07H1-line-12" n="12">To make a clatt'ring as they trod.</l>
+            <l xml:id="swift-352-07H1-line-13" n="13">Of polish'd <hi rend="italics">brass</hi> his flaming car</l>
+            <l xml:id="swift-352-07H1-line-14" n="14">Like lightning dazzled from afar,</l>
+            <l xml:id="swift-352-07H1-line-15" n="15">And up he mounts into the box,</l>
+            <l xml:id="swift-352-07H1-line-16" n="16">And he must thunder, with a pox.</l>
+            <l xml:id="swift-352-07H1-line-17" n="17">Then, furious he begins his march,</l>
+            <l xml:id="swift-352-07H1-line-18" n="18">Drives rattling o'er a brazen arch:</l>
+            <l xml:id="swift-352-07H1-line-19" n="19">With squibs and crackers arm'd to throw</l>
+            <l xml:id="swift-352-07H1-line-20" n="20">Among the trembling crowd below.</l>
+            <l xml:id="swift-352-07H1-line-21" n="21">All ran to pray'rs, both priests and laity,</l>
+            <l xml:id="swift-352-07H1-line-22" n="22">To pacify this angry deity;</l>
+            <l xml:id="swift-352-07H1-line-23" n="23">When <hi rend="italics">Jove</hi>, in pity to the town,</l>
+            <l xml:id="swift-352-07H1-line-24" n="24">With real thunder knock'd him down.</l>
+            <l xml:id="swift-352-07H1-line-25" n="25">Then what a huge delight were all in,</l>
+            <l xml:id="swift-352-07H1-line-26" n="26">To see the wicked varlet sprawling;</l>
+            <l xml:id="swift-352-07H1-line-27" n="27">They search'd his pockets on the place,</l>
+            <l xml:id="swift-352-07H1-line-28" n="28">And found his copper all was  base;</l>
+            <l xml:id="swift-352-07H1-line-29" n="29">They laugh'd at such an <hi rend="italics">irish</hi> blunder,</l>
+            <l xml:id="swift-352-07H1-line-30" n="30">To take the noise of brass for thunder.</l>
+            <l rend="indent(1)" xml:id="swift-352-07H1-line-31" n="31"><lb/>The moral of this tale is proper,</l>
+            <l xml:id="swift-352-07H1-line-32" n="32">Apply'd to <hi rend="italics">Wood's</hi> adult'rate copper:</l>
+            <l xml:id="swift-352-07H1-line-33" n="33">Which, as he scatter'd, we like dolts</l>
+            <l xml:id="swift-352-07H1-line-34" n="34">Mistook at first for thunder-bolts;</l>
+            <l xml:id="swift-352-07H1-line-35" n="35">Before the <hi rend="italics">Drapier</hi> shot a letter,</l>
+            <l xml:id="swift-352-07H1-line-36" n="36">(Nor <hi rend="italics">Jove</hi> himself could do it better)</l>
+            <l xml:id="swift-352-07H1-line-37" n="37">Which lighting on th' impostor's crown,</l>
+            <l xml:id="swift-352-07H1-line-38" n="38">Like real thunder knock'd him down.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

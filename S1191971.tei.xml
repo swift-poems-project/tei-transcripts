@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dr. SHERIDAN to DR. Swift.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 15JE11"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S1191971">
+          <head type="note" n="1" xml:id="spp-S1191971-headnote-1">
+            <lg n="1" xml:id="spp-S1191971-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1191971-headnote-1-line-group-1-line-1"><hi rend="italics">June</hi> 23d, 1736.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S1191971-headnote-2">
+            <lg n="1" xml:id="spp-S1191971-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1191971-headnote-2-line-group-1-line-1">I would rather indeed my wife had lost her one tongue <hi rend="italics">totaliter, quoniam equidem nullus dubito nisi radicitus evelleretur tonitrui superaret</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S1191971-headnote-3">
+            <lg n="1" xml:id="spp-S1191971-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S1191971-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S1191971-line-1" n="1">I wish your reverence were <hi rend="italics">here</hi> to <hi rend="italics">hear</hi> the trumpets;</l>
+            <l xml:id="swift-S1191971-line-2" n="2">Mistake me not, for I mean not the strumpets.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

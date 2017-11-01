@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RIDDLES,<lb/>  BY DR. SWIFT AND HIS FRIENDS,</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 1JL09"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="911-79L1">
+          <head type="note" n="1" xml:id="spp-911-79L1-headnote-1">
+            <lg n="1" xml:id="spp-911-79L1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-911-79L1-headnote-1-line-group-1-line-1">Written in or about the Year 1724.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-911-79L1-headnote-2">
+            <lg n="1" xml:id="spp-911-79L1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-911-79L1-headnote-2-line-group-1-line-1">XXVI. TO LADY CARTERET.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-911-79L1-headnote-3">
+            <lg n="1" xml:id="spp-911-79L1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-911-79L1-headnote-3-line-group-1-line-1">BY DR. SWIFT.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-911-79L1-line-1" n="1"><hi rend="display-initial">F</hi>ROM India's burning clime I·'m brought,</l>
+            <l xml:id="swift-911-79L1-line-2" n="2">With cooling gales like Zephyrs fraught.</l>
+            <l xml:id="swift-911-79L1-line-3" n="3">Not Iris, when she paints the sky,</l>
+            <l xml:id="swift-911-79L1-line-4" n="4">Can shew more different hue than I;</l>
+            <l xml:id="swift-911-79L1-line-5" n="5">Nor can she change her form so fast,</l>
+            <l xml:id="swift-911-79L1-line-6" n="6">I·'m now a sail, and now a mast.</l>
+            <l xml:id="swift-911-79L1-line-7" n="7">I here am red, and there am green,</l>
+            <l xml:id="swift-911-79L1-line-8" n="8">A beggar there, and here a queen.</l>
+            <l xml:id="swift-911-79L1-line-9" n="9">I sometimes live in house of hair,</l>
+            <l xml:id="swift-911-79L1-line-10" n="10">And oft' in hand of lady fair.</l>
+            <l xml:id="swift-911-79L1-line-11" n="11">I please the young, I grace the old,</l>
+            <l xml:id="swift-911-79L1-line-12" n="12">And am at once both hot and cold.</l>
+            <l xml:id="swift-911-79L1-line-13" n="13">Say what I am then, if you can,</l>
+            <l xml:id="swift-911-79L1-line-14" n="14">And find the rhyme, and you·'re the man.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

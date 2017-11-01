@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>On D<hi rend="small-caps">EAFNESS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 13JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673A34DJ">
+          <head type="note" n="1" xml:id="spp-673A34DJ-headnote-1">
+            <lg n="1" xml:id="spp-673A34DJ-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A34DJ-headnote-1-line-group-1-line-1">The following Poems in English and Latin, are said to be written by the Rev. Dr. S. D. S. P. D. which we have procured from some of his Friends.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-673A34DJ-headnote-2">
+            <lg n="1" xml:id="spp-673A34DJ-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A34DJ-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-673A34DJ-headnote-3">
+            <lg n="1" xml:id="spp-673A34DJ-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A34DJ-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-673A34DJ-line-1" n="1"><hi rend="display-initial">V</hi>Ertiginosus, inops, surdus, malè gratus amicis:</l><l xml:id="swift-673A34DJ-line-2" n="2">Non campana sonans, tonitru non ab Jove missum;</l><l xml:id="swift-673A34DJ-line-3" n="3">Quod marè mirandum, saltem si credere fas est,</l><l xml:id="swift-673A34DJ-line-4" n="4"><hi rend="italics">Vix</hi> clamosa meas mulier jam percutit aures.</l><l xml:id="swift-673A34DJ-line-5" n="5"><lb/>In English._<hi rend="display-initial">D<hi rend="italics">EAF, giddy, helpless, left alone,</hi></hi></l><l xml:id="swift-673A34DJ-line-6" n="6">To all my Friends a Burthen grown:</l><l xml:id="swift-673A34DJ-line-7" n="7">No more I hear my Church's Bell</l><l xml:id="swift-673A34DJ-line-8" n="8">Than if it rang out for my Knell:</l><l xml:id="swift-673A34DJ-line-9" n="9">At Thunder now no more I start,</l><l xml:id="swift-673A34DJ-line-10" n="10">Than at the Rumbling of a Cart;</l><l xml:id="swift-673A34DJ-line-11" n="11">Nay, what's incredible, alack!</l><l xml:id="swift-673A34DJ-line-12" n="12">Nay, what's incredible, alack!I hardly hear a Woman's Clack</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

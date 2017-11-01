@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Thanksgiving.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 1AP03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X84A313A">
+          <head type="note" n="1" xml:id="spp-X84A313A-headnote-1">
+            <lg n="1" xml:id="spp-X84A313A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A313A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X84A313A-headnote-2">
+            <lg n="1" xml:id="spp-X84A313A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A313A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X84A313A-headnote-3">
+            <lg n="1" xml:id="spp-X84A313A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X84A313A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X84A313A-line-1" n="1"><hi rend="display-initial">I</hi>n sounds of Ioy your tunefull Voices raise</l>
+            <l xml:id="swift-X84A313A-line-2" n="2">And teach the People whom to thank &amp; praise.</l>
+            <l xml:id="swift-X84A313A-line-3" n="3">Thank prudent Annas providential reign</l>
+            <l xml:id="swift-X84A313A-line-4" n="4">For peace, and plenty of all sorts of grain.</l>
+            <l xml:id="swift-X84A313A-line-5" n="5">Thank the Scots peers for their firm unbought Vnion</l>
+            <l xml:id="swift-X84A313A-line-6" n="6">But thank the Bishops for 'Casional communion.</l>
+            <l xml:id="swift-X84A313A-line-7" n="7">Thank the Stock-Iobbers for your thriveing trade;</l>
+            <l xml:id="swift-X84A313A-line-8" n="8">Thank just Godolphin that all debts are paid.</l>
+            <l xml:id="swift-X84A313A-line-9" n="9">Thank Marlbro”s Zeal y<hi rend="superscript">t</hi> scorn'd the proffered treaty.</l>
+            <l xml:id="swift-X84A313A-line-10" n="10">But thank Eugene, y<hi rend="superscript">t</hi> Frenchmen did not beat ye.</l>
+            <l xml:id="swift-X84A313A-line-11" n="11">om.</l>
+            <l xml:id="swift-X84A313A-line-12" n="12">om.</l>
+            <l xml:id="swift-X84A313A-line-13" n="13">Thank your own selves y<hi rend="superscript">t</hi> you are tax'd &amp; shamm'd,</l>
+            <l xml:id="swift-X84A313A-line-14" n="14">And thank th' Almighty if you are not damn'd.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

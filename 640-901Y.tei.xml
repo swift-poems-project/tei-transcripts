@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 31JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="640-901Y">
+          <head type="note" n="1" xml:id="spp-640-901Y-headnote-1">
+            <lg n="1" xml:id="spp-640-901Y-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-640-901Y-headnote-1-line-group-1-line-1">as you are a great admirer of poetry especially the politer sort, and whereas I here have a piece supposed to be done by dean Swift a greater genius than \<hi rend="italics">del</hi>·whose\ which perhaps never appeard on the Stage of action, which is one of the most \<hi rend="italics">del</hi>·pieces\ witty pieces you seldom \<hi rend="italics">del</hi>·met·<hi rend="italics">add</hi>·meet\ with, &amp; because its so rare a Book that but two of them ever Came to this province, being in great measure prevented by Wallpole against whom the plan of the poem is levell'd, mine also being in manuscript, I shall take the trouble I should say pleasure to give you the whole piece in this Letter<lb/>I am Sir with profound Esteem &amp; humble Prostration──<lb/><hi rend="large-writing">Your most faithfull friend<lb/>&amp;<lb/>Humble Serv<hi rend="superscript">t<hi rend="large-writing"><lb/><lb/>Will Livingston</hi>.</hi></hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-640-901Y-headnote-2">
+            <lg n="1" xml:id="spp-640-901Y-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-640-901Y-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-640-901Y-headnote-3">
+            <lg n="1" xml:id="spp-640-901Y-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-640-901Y-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-640-901Y-line-1" n="1">All human Race would fain be witts</l>
+            <l xml:id="swift-640-901Y-line-2" n="2">and Millions miss, for one that hitts,</l>
+            <l xml:id="swift-640-901Y-line-3" n="3">Youngs universal passion, <hi rend="large-writing">Pride</hi></l>
+            <l xml:id="swift-640-901Y-line-4" n="4">Was never known to spread so wide,</l>
+            <l xml:id="swift-640-901Y-line-5" n="5">Say Britain could you ever boast;</l>
+            <l xml:id="swift-640-901Y-line-6" n="6">Three Poets in an Age at most,</l>
+            <l xml:id="swift-640-901Y-line-7" n="7">Our chilling Climate hardly bears</l>
+            <l xml:id="swift-640-901Y-line-8" n="8">A Sprig of bays in fifty years</l>
+            <l xml:id="swift-640-901Y-line-9" n="9">while Eve'ry fool his Claim alledges</l>
+            <l xml:id="swift-640-901Y-line-10" n="10">As if it grew in Common hedges.</l>
+            <l xml:id="swift-640-901Y-line-11" n="11">what reason can there be assign'd</l>
+            <l xml:id="swift-640-901Y-line-12" n="12">For this perversness in the mind?</l>
+            <l xml:id="swift-640-901Y-line-13" n="13">Brutes find out where their Talents lie</l>
+            <l xml:id="swift-640-901Y-line-14" n="14">A Bear will not attempt to fly.</l>
+            <l xml:id="swift-640-901Y-line-15" n="15">A founderd horse will oft debate</l>
+            <l xml:id="swift-640-901Y-line-16" n="16">Before he tryes a five barr'd Gate.</l>
+            <l xml:id="swift-640-901Y-line-17" n="17">A dog by Instinct turns aside</l>
+            <l xml:id="swift-640-901Y-line-18" n="18">Who sees the ditch too deep &amp; wide.</l>
+            <l xml:id="swift-640-901Y-line-19" n="19">But Man we find the only Creature</l>
+            <l xml:id="swift-640-901Y-line-20" n="20">Who led by folly fights with nature</l>
+            <l xml:id="swift-640-901Y-line-21" n="21">Who when she loudly cryes forbare</l>
+            <l xml:id="swift-640-901Y-line-22" n="22">With Obstinacy fixes there,</l>
+            <l xml:id="swift-640-901Y-line-23" n="23">&amp; where his Genius least inclines,</l>
+            <l xml:id="swift-640-901Y-line-24" n="24">Absurdly bends his whole designs,</l>
+            <l xml:id="swift-640-901Y-line-25" n="25"><lb/>Not Empire, to the rising Sun,</l>
+            <l xml:id="swift-640-901Y-line-26" n="26">By valour, Conduct, fortune, won,</l>
+            <l xml:id="swift-640-901Y-line-27" n="27">Nor highest wisdom in debates</l>
+            <l xml:id="swift-640-901Y-line-28" n="28">For framing Laws to Govern States</l>
+            <l xml:id="swift-640-901Y-line-29" n="29">Nor Skill in Sciences profound</l>
+            <l xml:id="swift-640-901Y-line-30" n="30">So large to grasp the Circle round</l>
+            <l xml:id="swift-640-901Y-line-31" n="31">Such heavenly Influence require</l>
+            <l xml:id="swift-640-901Y-line-32" n="32">As how to strike the Muses Lyre.</l>
+            <l xml:id="swift-640-901Y-line-33" n="33">Not Beggars bred on bulk begot</l>
+            <l xml:id="swift-640-901Y-line-34" n="34">Nor Bastard of a Pedlar Schot</l>
+            <l xml:id="swift-640-901Y-line-35" n="35">Nor Boy brought up to Cleaning Shoes</l>
+            <l xml:id="swift-640-901Y-line-36" n="36">The Spawn of Bridewell or the Stewes,</l>
+            <l xml:id="swift-640-901Y-line-37" n="37">Nor Infants dropt the Spurious pledges</l>
+            <l xml:id="swift-640-901Y-line-38" n="38">of Gypsies littring under hedges</l>
+            <l xml:id="swift-640-901Y-line-39" n="39">Are so disqualify'd by Fate</l>
+            <l xml:id="swift-640-901Y-line-40" n="40">To rise in Church or law or State</l>
+            <l xml:id="swift-640-901Y-line-41" n="41">As he whom Phœbus in his ire</l>
+            <l xml:id="swift-640-901Y-line-42" n="42">Hath blasted with Poetick Fire</l>
+            <l xml:id="swift-640-901Y-line-43" n="43">what hope of Custom in the Fair</l>
+            <l xml:id="swift-640-901Y-line-44" n="44">While not a Soul demands your ware,</l>
+            <l xml:id="swift-640-901Y-line-45" n="45">Where you have nothing to produce</l>
+            <l xml:id="swift-640-901Y-line-46" n="46">For private or for publick use,</l>
+            <l xml:id="swift-640-901Y-line-47" n="47">Court City Country want you not</l>
+            <l xml:id="swift-640-901Y-line-48" n="48">You cannot bribe betray or plot</l>
+            <l xml:id="swift-640-901Y-line-49" n="49">For Poets law makes no provision</l>
+            <l xml:id="swift-640-901Y-line-50" n="50">The wealthy have you in derision</l>
+            <l xml:id="swift-640-901Y-line-51" n="51">Of State affairs you Cannot Smatter</l>
+            <l xml:id="swift-640-901Y-line-52" n="52">Are awkard when you try to flatter</l>
+            <l xml:id="swift-640-901Y-line-53" n="53">Your Portion taking Britain round</l>
+            <l xml:id="swift-640-901Y-line-54" n="54">Was just one annual hundred pound</l>
+            <l xml:id="swift-640-901Y-line-55" n="55">Now not so much as in remainder</l>
+            <l xml:id="swift-640-901Y-line-56" n="56">Since Cibber brought in an Attainder</l>
+            <l xml:id="swift-640-901Y-line-57" n="57">For ever fixt by right divine</l>
+            <l xml:id="swift-640-901Y-line-58" n="58">(A monarchs right) on Grubstreet Line</l>
+            <l xml:id="swift-640-901Y-line-59" n="59">Poor Starving bard how Small thy gains</l>
+            <l xml:id="swift-640-901Y-line-60" n="60">How unproportiond to thy pains,</l>
+            <l xml:id="swift-640-901Y-line-61" n="61">And here a Simile comes pat in</l>
+            <l xml:id="swift-640-901Y-line-62" n="62">Tho' Chickens take a month to fatten</l>
+            <l xml:id="swift-640-901Y-line-63" n="63">The Guests in less than half an hour</l>
+            <l xml:id="swift-640-901Y-line-64" n="64">Will more than half a schore devour,</l>
+            <l xml:id="swift-640-901Y-line-65" n="65">So after toiling twenty days</l>
+            <l xml:id="swift-640-901Y-line-66" n="66">To earn a Stock of pence &amp; praise</l>
+            <l xml:id="swift-640-901Y-line-67" n="67">Thy Labours grown to Criticks prey</l>
+            <l xml:id="swift-640-901Y-line-68" n="68">Are Swallow'd ore a dish of tea,</l>
+            <l xml:id="swift-640-901Y-line-69" n="69">Gone to be never heard of more</l>
+            <l xml:id="swift-640-901Y-line-70" n="70">Gone where the Chickens went before.</l>
+            <l xml:id="swift-640-901Y-line-71" n="71"><lb/>How shall a new attempter learn</l>
+            <l xml:id="swift-640-901Y-line-72" n="72">Of different Spirits to disern,</l>
+            <l xml:id="swift-640-901Y-line-73" n="73">And how distinguish which is which</l>
+            <l xml:id="swift-640-901Y-line-74" n="74">The Poets vein or Scribbling itch,</l>
+            <l xml:id="swift-640-901Y-line-75" n="75">Then hear an old Experienc'd Sinner</l>
+            <l xml:id="swift-640-901Y-line-76" n="76">Instructing thus a young beginner.</l>
+            <l xml:id="swift-640-901Y-line-77" n="77">Consult yourself &amp; if you find</l>
+            <l xml:id="swift-640-901Y-line-78" n="78">A powerfull Impulse urge your mind</l>
+            <l xml:id="swift-640-901Y-line-79" n="79">Impartial Judge within your breast</l>
+            <l xml:id="swift-640-901Y-line-80" n="80">What Subject you Can manage best,</l>
+            <l xml:id="swift-640-901Y-line-81" n="81">Whether your Genious most inclines,</l>
+            <l xml:id="swift-640-901Y-line-82" n="82">To Satyr, praise, or hum'rous lines,</l>
+            <l xml:id="swift-640-901Y-line-83" n="83">To Elegies in mourfull Tone</l>
+            <l xml:id="swift-640-901Y-line-84" n="84">Or prologue sent from hand unknown,</l>
+            <l xml:id="swift-640-901Y-line-85" n="85">Then rising with Aurora's light</l>
+            <l xml:id="swift-640-901Y-line-86" n="86">The Muse invok'd── sitt down to write,</l>
+            <l xml:id="swift-640-901Y-line-87" n="87">Blot out insert, Correct, refine,</l>
+            <l xml:id="swift-640-901Y-line-88" n="88">\E·<hi rend="italics">over</hi>·I\nlarge, diminish, interline</l>
+            <l xml:id="swift-640-901Y-line-89" n="89">Be mindfull when Invention fails</l>
+            <l xml:id="swift-640-901Y-line-90" n="90">To scrath your head, &amp; bite your nails,</l>
+            <l xml:id="swift-640-901Y-line-91" n="91">Your Poem finish next your Care</l>
+            <l xml:id="swift-640-901Y-line-92" n="92">Is needfull to transcribe it fair</l>
+            <l xml:id="swift-640-901Y-line-93" n="93">In Modern wit all printed Thrash is</l>
+            <l xml:id="swift-640-901Y-line-94" n="94">Set off with numrous breaks &amp; dashes.</l>
+            <l xml:id="swift-640-901Y-line-95" n="95">To States·men would you give a wipe</l>
+            <l xml:id="swift-640-901Y-line-96" n="96">You print (<hi rend="italics">inserted</hi>·it) in Italick type</l>
+            <l xml:id="swift-640-901Y-line-97" n="97">When Letters are in Vulgar Shapes</l>
+            <l xml:id="swift-640-901Y-line-98" n="98">Its ten to one the witt Eschapes,</l>
+            <l xml:id="swift-640-901Y-line-99" n="99">But when in Capitals Exprest,</l>
+            <l xml:id="swift-640-901Y-line-100" n="100">the dullest reader smokes the jest</l>
+            <l xml:id="swift-640-901Y-line-101" n="101">Or else perhaps he may invent</l>
+            <l xml:id="swift-640-901Y-line-102" n="102">A better than the poet meant</l>
+            <l xml:id="swift-640-901Y-line-103" n="103">As learn'd Commentators veiw</l>
+            <l xml:id="swift-640-901Y-line-104" n="104">In Homer more than homer knew.</l>
+            <l xml:id="swift-640-901Y-line-105" n="105">Your Poem in your modish dress</l>
+            <l xml:id="swift-640-901Y-line-106" n="106">Correctly fitted for the press,</l>
+            <l xml:id="swift-640-901Y-line-107" n="107">Convey by penny Post to Lintot,</l>
+            <l xml:id="swift-640-901Y-line-108" n="108">But let no friend alive look int'ot</l>
+            <l xml:id="swift-640-901Y-line-109" n="109">If Lintot thinks twill quit the cost</l>
+            <l xml:id="swift-640-901Y-line-110" n="110">You need not fear your labour lost</l>
+            <l xml:id="swift-640-901Y-line-111" n="111">And how agreably Surprized</l>
+            <l xml:id="swift-640-901Y-line-112" n="112">Are you to see it advertized.</l>
+            <l xml:id="swift-640-901Y-line-113" n="113">The Hawker shews you one in print</l>
+            <l xml:id="swift-640-901Y-line-114" n="114">As fresh as farthings from the mint</l>
+            <l xml:id="swift-640-901Y-line-115" n="115">The product of your toil &amp; sweathing</l>
+            <l xml:id="swift-640-901Y-line-116" n="116">A Bastard of your own begetting.</l>
+            <l xml:id="swift-640-901Y-line-117" n="117">Be sure at Wills the following day</l>
+            <l xml:id="swift-640-901Y-line-118" n="118">Lie snug &amp; hear what Criticks say</l>
+            <l xml:id="swift-640-901Y-line-119" n="119">And if you find the general vouge</l>
+            <l xml:id="swift-640-901Y-line-120" n="120">Pronounces you a Stupid rouge</l>
+            <l xml:id="swift-640-901Y-line-121" n="121">Damns all your thoughts as low &amp; little</l>
+            <l xml:id="swift-640-901Y-line-122" n="122">Sitt still &amp; swallow down your spittle</l>
+            <l xml:id="swift-640-901Y-line-123" n="123">Be Silent as a Polititian</l>
+            <l xml:id="swift-640-901Y-line-124" n="124">For talking may begat Suspicion</l>
+            <l xml:id="swift-640-901Y-line-125" n="125">Or praise the Judgement of y<hi rend="superscript">ẹ</hi> town</l>
+            <l xml:id="swift-640-901Y-line-126" n="126">And help your·self to run it down</l>
+            <l xml:id="swift-640-901Y-line-127" n="127">Give up your fond paternal pride.</l>
+            <l xml:id="swift-640-901Y-line-128" n="128">Nor argue on the weaker Side</l>
+            <l xml:id="swift-640-901Y-line-129" n="129">For poems read without a Name</l>
+            <l xml:id="swift-640-901Y-line-130" n="130">We justly praise or justly blame</l>
+            <l xml:id="swift-640-901Y-line-131" n="131">And Criticks have no partial vews</l>
+            <l xml:id="swift-640-901Y-line-132" n="132">Except they know whom they abuse</l>
+            <l xml:id="swift-640-901Y-line-133" n="133">And since you ne'er provok'd the Spite,</l>
+            <l xml:id="swift-640-901Y-line-134" n="134">Depend upon't their Judgements right</l>
+            <l xml:id="swift-640-901Y-line-135" n="135">But if you blab, you are undone</l>
+            <l xml:id="swift-640-901Y-line-136" n="136">Consider what a risque you run</l>
+            <l xml:id="swift-640-901Y-line-137" n="137">You loose your Credit all at once</l>
+            <l xml:id="swift-640-901Y-line-138" n="138">The Town will mark you for a dunce</l>
+            <l xml:id="swift-640-901Y-line-139" n="139">The vilest doggrel Grubstreet Sends</l>
+            <l xml:id="swift-640-901Y-line-140" n="140">will pass for yours with foes &amp; friends</l>
+            <l xml:id="swift-640-901Y-line-141" n="141">and you must bear the whole disgrace</l>
+            <l xml:id="swift-640-901Y-line-142" n="142">Till some fresh blockhead takes your place.</l>
+            <l xml:id="swift-640-901Y-line-143" n="143"><lb/>Your Secrets kept, your poems Sunk</l>
+            <l xml:id="swift-640-901Y-line-144" n="144">and Sent in quires to line a trunk</l>
+            <l xml:id="swift-640-901Y-line-145" n="145">If Still you be disposd to Rhime</l>
+            <l xml:id="swift-640-901Y-line-146" n="146">Go try your hand a Second time</l>
+            <l xml:id="swift-640-901Y-line-147" n="147">Again you fail, yet safe's the word</l>
+            <l xml:id="swift-640-901Y-line-148" n="148">Take Courage &amp; attempt a third,</l>
+            <l xml:id="swift-640-901Y-line-149" n="149">But first with care employ your thoughs</l>
+            <l xml:id="swift-640-901Y-line-150" n="150">where Criticks mark'd your former faults</l>
+            <l xml:id="swift-640-901Y-line-151" n="151">The trivial turns, the borrow'd witt</l>
+            <l xml:id="swift-640-901Y-line-152" n="152">The Similes that nothing fitt,</l>
+            <l xml:id="swift-640-901Y-line-153" n="153">The Cant which evr'y fool repeats</l>
+            <l xml:id="swift-640-901Y-line-154" n="154">Town-Jests and Coffee house Conceits</l>
+            <l xml:id="swift-640-901Y-line-155" n="155">Descriptions, tedious, flat and dry</l>
+            <l xml:id="swift-640-901Y-line-156" n="156">And introduc'd the Lord knows why</l>
+            <l xml:id="swift-640-901Y-line-157" n="157">Or where we find the fury Set</l>
+            <l xml:id="swift-640-901Y-line-158" n="158">Against the harmless Alphabet</l>
+            <l xml:id="swift-640-901Y-line-159" n="159">On A<hi rend="superscript">ṣ</hi> &amp; B<hi rend="superscript">ṣ</hi> your malice vent</l>
+            <l xml:id="swift-640-901Y-line-160" n="160">while readers wonder whom you meant.</l>
+            <l xml:id="swift-640-901Y-line-161" n="161">A Publick or a private Robber</l>
+            <l xml:id="swift-640-901Y-line-162" n="162">A statesman or a South Sea Jobber</l>
+            <l xml:id="swift-640-901Y-line-163" n="163">A prelate who no god believes</l>
+            <l xml:id="swift-640-901Y-line-164" n="164">A ──── or Den of Thieves</l>
+            <l xml:id="swift-640-901Y-line-165" n="165">om.</l>
+            <l xml:id="swift-640-901Y-line-166" n="166">om.</l>
+            <l xml:id="swift-640-901Y-line-167" n="167">A pick purse on the bar or bench</l>
+            <l xml:id="swift-640-901Y-line-168" n="168">A duchess or a Suburb wench</l>
+            <l xml:id="swift-640-901Y-line-169" n="169">Or oft when Epithets you link</l>
+            <l xml:id="swift-640-901Y-line-170" n="170">In gaping lines to fill a Chink</l>
+            <l xml:id="swift-640-901Y-line-171" n="171">like Stepping Stones to save a Stride</l>
+            <l xml:id="swift-640-901Y-line-172" n="172">In streets where kennels are too wide</l>
+            <l xml:id="swift-640-901Y-line-173" n="173">Or like a heel piece to support</l>
+            <l xml:id="swift-640-901Y-line-174" n="174">A Cripple with one foot too Short</l>
+            <l xml:id="swift-640-901Y-line-175" n="175">Or like a Bridge that joyns a marish</l>
+            <l xml:id="swift-640-901Y-line-176" n="176">To moor-land of a diffrent parish</l>
+            <l xml:id="swift-640-901Y-line-177" n="177">so have I seen ill Coupled hounds</l>
+            <l xml:id="swift-640-901Y-line-178" n="178">drag diffrent ways in miry grounds</l>
+            <l xml:id="swift-640-901Y-line-179" n="179">So Geographers in Afric maps</l>
+            <l xml:id="swift-640-901Y-line-180" n="180">With Savage pictures fill their Gaps</l>
+            <l xml:id="swift-640-901Y-line-181" n="181">And o'er Inhabitable downs</l>
+            <l xml:id="swift-640-901Y-line-182" n="182">Place Elephants Instead of Towns.</l>
+            <l xml:id="swift-640-901Y-line-183" n="183"><lb/>But 'tho' you miss your third Essay</l>
+            <l xml:id="swift-640-901Y-line-184" n="184">you need not throw your pen away</l>
+            <l xml:id="swift-640-901Y-line-185" n="185">Lay now aside all thoughs of Fame</l>
+            <l xml:id="swift-640-901Y-line-186" n="186">To spring more profitable game</l>
+            <l xml:id="swift-640-901Y-line-187" n="187">From party Merit seek Support</l>
+            <l xml:id="swift-640-901Y-line-188" n="188">The vilest verse thrives best at Court</l>
+            <l xml:id="swift-640-901Y-line-189" n="189">om.</l>
+            <l xml:id="swift-640-901Y-line-190" n="190">om.</l>
+            <l xml:id="swift-640-901Y-line-191" n="191">om.</l>
+            <l xml:id="swift-640-901Y-line-192" n="192">om.</l>
+            <l xml:id="swift-640-901Y-line-193" n="193">A pamphlet in S<hi rend="superscript">ṛ</hi> Rob's Defence</l>
+            <l xml:id="swift-640-901Y-line-194" n="194">will never fail to bring in pence</l>
+            <l xml:id="swift-640-901Y-line-195" n="195">Nor be Concernd about the Sale</l>
+            <l xml:id="swift-640-901Y-line-196" n="196">He pays his workman on the nail</l>
+            <l xml:id="swift-640-901Y-line-197" n="197">om.</l>
+            <l xml:id="swift-640-901Y-line-198" n="198">om.</l>
+            <l xml:id="swift-640-901Y-line-199" n="199">om.</l>
+            <l xml:id="swift-640-901Y-line-200" n="200">om.</l>
+            <l xml:id="swift-640-901Y-line-201" n="201">om.</l>
+            <l xml:id="swift-640-901Y-line-202" n="202">om.</l>
+            <l xml:id="swift-640-901Y-line-203" n="203">om.</l>
+            <l xml:id="swift-640-901Y-line-204" n="204">om.</l>
+            <l xml:id="swift-640-901Y-line-205" n="205"><lb/>A prince the moment he is crownd</l>
+            <l xml:id="swift-640-901Y-line-206" n="206">Inherits evr'y virtue round</l>
+            <l xml:id="swift-640-901Y-line-207" n="207">As Emblems of the Sovreign power</l>
+            <l xml:id="swift-640-901Y-line-208" n="208">Like other bawbles of the Tower</l>
+            <l xml:id="swift-640-901Y-line-209" n="209">Is genr'ous, valiant, just &amp; wise</l>
+            <l xml:id="swift-640-901Y-line-210" n="210">And so Continues till he dies</l>
+            <l xml:id="swift-640-901Y-line-211" n="211">His humble Senate this professes</l>
+            <l xml:id="swift-640-901Y-line-212" n="212">In all their Speeches, Votes, addresses</l>
+            <l xml:id="swift-640-901Y-line-213" n="213">But once you fix him in a Tomb</l>
+            <l xml:id="swift-640-901Y-line-214" n="214">His virtues fade his vices bloom</l>
+            <l xml:id="swift-640-901Y-line-215" n="215">And each Perfection wrong Imputed</l>
+            <l xml:id="swift-640-901Y-line-216" n="216">Is folly at his death Confuted,</l>
+            <l xml:id="swift-640-901Y-line-217" n="217">om.</l>
+            <l xml:id="swift-640-901Y-line-218" n="218">om.</l>
+            <l xml:id="swift-640-901Y-line-219" n="219">The load of poems in his praise</l>
+            <l xml:id="swift-640-901Y-line-220" n="220">Ascending make an fun'ral blaze</l>
+            <l xml:id="swift-640-901Y-line-221" n="221">As soon as you can hear his Knell</l>
+            <l xml:id="swift-640-901Y-line-222" n="222">This god on Earth turns devil in Hell</l>
+            <l xml:id="swift-640-901Y-line-223" n="223">And lo his Ministers of State</l>
+            <l xml:id="swift-640-901Y-line-224" n="224">Transform'd to Imps his Levee wait</l>
+            <l xml:id="swift-640-901Y-line-225" n="225">Where in this Scene of endless woe</l>
+            <l xml:id="swift-640-901Y-line-226" n="226">They ply their former arts below</l>
+            <l xml:id="swift-640-901Y-line-227" n="227">And as they Sail in Charons boat</l>
+            <l xml:id="swift-640-901Y-line-228" n="228">Contrive to bribe the Judges Vote</l>
+            <l xml:id="swift-640-901Y-line-229" n="229">To Cerberus they give a Sop</l>
+            <l xml:id="swift-640-901Y-line-230" n="230">His triple barking mouth to Stop</l>
+            <l xml:id="swift-640-901Y-line-231" n="231">Or In the Ivr'y gate of Dreams</l>
+            <l xml:id="swift-640-901Y-line-232" n="232">Project -·-·-·- and -·-·-·-</l>
+            <l xml:id="swift-640-901Y-line-233" n="233">Or hire their party Pamplyteers</l>
+            <l xml:id="swift-640-901Y-line-234" n="234">To set Elysium by the Ears.</l>
+            <l rend="indent(1)" xml:id="swift-640-901Y-line-235" n="235"><lb/>Then Poet if you mean to thrive</l>
+            <l xml:id="swift-640-901Y-line-236" n="236">Employ your Muse on kings alive</l>
+            <l xml:id="swift-640-901Y-line-237" n="237">With prudence gathring up a Cluster</l>
+            <l xml:id="swift-640-901Y-line-238" n="238">Of all the virtues you Can muster</l>
+            <l xml:id="swift-640-901Y-line-239" n="239">Which form'd into a Garland Sweet</l>
+            <l xml:id="swift-640-901Y-line-240" n="240">Lay humbly at your Monarch's feet</l>
+            <l xml:id="swift-640-901Y-line-241" n="241">Who as the Odours reach his Throne</l>
+            <l xml:id="swift-640-901Y-line-242" n="242">Will smile &amp; think them all his own</l>
+            <l xml:id="swift-640-901Y-line-243" n="243">For Law &amp; Gosple both determine</l>
+            <l xml:id="swift-640-901Y-line-244" n="244">All virtues lodge in Royall Ermine</l>
+            <l xml:id="swift-640-901Y-line-245" n="245">(I mean the Oracles of both)</l>
+            <l xml:id="swift-640-901Y-line-246" n="246">(Who shall depose it upon Oath)</l>
+            <l xml:id="swift-640-901Y-line-247" n="247">Your Garland in the following Reign,</l>
+            <l xml:id="swift-640-901Y-line-248" n="248">Change but their Names will do again.</l>
+            <l xml:id="swift-640-901Y-line-249" n="249"><lb/>But if you think this trade too base</l>
+            <l xml:id="swift-640-901Y-line-250" n="250">(which seldom is the Dunce's Case)</l>
+            <l xml:id="swift-640-901Y-line-251" n="251">Put on the Criticks brow &amp; sitt</l>
+            <l xml:id="swift-640-901Y-line-252" n="252">A Will's the puny Judge of witt</l>
+            <l xml:id="swift-640-901Y-line-253" n="253">A nod, a Shrug, a Scornful smile</l>
+            <l xml:id="swift-640-901Y-line-254" n="254">With Caution usd may serve a while</l>
+            <l xml:id="swift-640-901Y-line-255" n="255">Proceed no farther in your part</l>
+            <l xml:id="swift-640-901Y-line-256" n="256">Before you learn the terms of art</l>
+            <l xml:id="swift-640-901Y-line-257" n="257">(For you may easy be too far gone</l>
+            <l xml:id="swift-640-901Y-line-258" n="258">In all our modern Criticks Jargon</l>
+            <l xml:id="swift-640-901Y-line-259" n="259">Then talk with more authentick face</l>
+            <l xml:id="swift-640-901Y-line-260" n="260">Of Unities in time and Place,</l>
+            <l xml:id="swift-640-901Y-line-261" n="261">Get Scraps of Horace from your friends</l>
+            <l xml:id="swift-640-901Y-line-262" n="262">And have them at your fingers ends</l>
+            <l xml:id="swift-640-901Y-line-263" n="263">Learn Aristotles Rules by Rote</l>
+            <l xml:id="swift-640-901Y-line-264" n="264">And at all Hazards boldly Quote</l>
+            <l xml:id="swift-640-901Y-line-265" n="265">Judicious Rhimer oft Reveiw</l>
+            <l xml:id="swift-640-901Y-line-266" n="266">Wise Dennis, &amp; profound Bossu</l>
+            <l xml:id="swift-640-901Y-line-267" n="267">Read all the prefaces of Dryden</l>
+            <l xml:id="swift-640-901Y-line-268" n="268">For these our Criticks much Confide in</l>
+            <l xml:id="swift-640-901Y-line-269" n="269">(Tho' merely writt at first for filling</l>
+            <l xml:id="swift-640-901Y-line-270" n="270">To raise the volumes price one Shilling)</l>
+            <l xml:id="swift-640-901Y-line-271" n="271"><lb/>A forward Critick often dupes us</l>
+            <l xml:id="swift-640-901Y-line-272" n="272">With sham Quotations Peri Hupsous</l>
+            <l xml:id="swift-640-901Y-line-273" n="273">And if we have not read Longinus</l>
+            <l xml:id="swift-640-901Y-line-274" n="274">Will magisterially outshine us</l>
+            <l xml:id="swift-640-901Y-line-275" n="275">That lest with greek he overrun ye</l>
+            <l xml:id="swift-640-901Y-line-276" n="276">Procure the Book for love or mone\<hi rend="italics">hole</hi>\</l>
+            <l xml:id="swift-640-901Y-line-277" n="277">Translated from Boileau's Trasl\<hi rend="italics">hole</hi>\</l>
+            <l xml:id="swift-640-901Y-line-278" n="278">And quote quotation on Quotation</l>
+            <l xml:id="swift-640-901Y-line-279" n="279"><lb/>At Wills you hear a poem read</l>
+            <l xml:id="swift-640-901Y-line-280" n="280">Where Battles from the Table head</l>
+            <l xml:id="swift-640-901Y-line-281" n="281">Reclining on his Elbow Chair</l>
+            <l xml:id="swift-640-901Y-line-282" n="282">Gives Judgement with decisesi\<hi rend="italics">hole</hi>\ ai\<hi rend="italics">hole</hi>\</l>
+            <l xml:id="swift-640-901Y-line-283" n="283">To whom the tribe of Circling wits</l>
+            <l xml:id="swift-640-901Y-line-284" n="284">As to an Oracle Submitts</l>
+            <l xml:id="swift-640-901Y-line-285" n="285">He gives direction to the Town</l>
+            <l xml:id="swift-640-901Y-line-286" n="286">To cry it up or run it down</l>
+            <l xml:id="swift-640-901Y-line-287" n="287">(Like Courtiers when they send a note</l>
+            <l xml:id="swift-640-901Y-line-288" n="288">Instructing members how to vote)</l>
+            <l xml:id="swift-640-901Y-line-289" n="289">He sitts the stamp of bad &amp; good</l>
+            <l xml:id="swift-640-901Y-line-290" n="290">Tho' not a word be understood.</l>
+            <l xml:id="swift-640-901Y-line-291" n="291">Your lesson learn yowill be secure</l>
+            <l xml:id="swift-640-901Y-line-292" n="292">To gett the Name of Connessure</l>
+            <l xml:id="swift-640-901Y-line-293" n="293">And when your merits one be known</l>
+            <l xml:id="swift-640-901Y-line-294" n="294">Procure Deciples of your own.</l>
+            <l xml:id="swift-640-901Y-line-295" n="295">Our Poets you can never want them</l>
+            <l xml:id="swift-640-901Y-line-296" n="296">Spread thro Augusta Trinobantum</l>
+            <l xml:id="swift-640-901Y-line-297" n="297">Computing by their pecks of Coals</l>
+            <l xml:id="swift-640-901Y-line-298" n="298">Amount to just Nine thousand Souls</l>
+            <l xml:id="swift-640-901Y-line-299" n="299">These or'e their proper districts govern</l>
+            <l xml:id="swift-640-901Y-line-300" n="300">Of witt &amp; humour Judges Sovereign,</l>
+            <l xml:id="swift-640-901Y-line-301" n="301">In evry street a City Bard</l>
+            <l xml:id="swift-640-901Y-line-302" n="302">Rules like an Alderman his ward</l>
+            <l xml:id="swift-640-901Y-line-303" n="303">His indisputed rights Contend</l>
+            <l xml:id="swift-640-901Y-line-304" n="304">Thro all the Lane from end to end</l>
+            <l xml:id="swift-640-901Y-line-305" n="305">The neighbours round admire his Shrewdness</l>
+            <l xml:id="swift-640-901Y-line-306" n="306">for songs of Loyalty &amp; Lewdness.</l>
+            <l xml:id="swift-640-901Y-line-307" n="307">Outdone by none in Rhyming well</l>
+            <l xml:id="swift-640-901Y-line-308" n="308">Altho' he never learnt to spell.</l>
+            <l xml:id="swift-640-901Y-line-309" n="309"><lb/>Two bordring witts Contend for Glory</l>
+            <l xml:id="swift-640-901Y-line-310" n="310">and one is Wigg &amp; one is Tory</l>
+            <l xml:id="swift-640-901Y-line-311" n="311">And this for Epicks Claims the Bays</l>
+            <l xml:id="swift-640-901Y-line-312" n="312">And that for Eligiak Lays,</l>
+            <l xml:id="swift-640-901Y-line-313" n="313">So fam'd for Numbers soft &amp; Smooth</l>
+            <l xml:id="swift-640-901Y-line-314" n="314">By lovers Spoke in Punche's Booth</l>
+            <l xml:id="swift-640-901Y-line-315" n="315">For lofty lines in Smithfield drolls</l>
+            <l xml:id="swift-640-901Y-line-316" n="316">As justly fame Some men extolls</l>
+            <l xml:id="swift-640-901Y-line-317" n="317">Bavius in wapping gains renown</l>
+            <l xml:id="swift-640-901Y-line-318" n="318">And Mævius Reigns o're Kentish Town</l>
+            <l xml:id="swift-640-901Y-line-319" n="319">Tigellus plac'd in Phœbus car</l>
+            <l xml:id="swift-640-901Y-line-320" n="320">From Ludgate shines to Temple bar</l>
+            <l xml:id="swift-640-901Y-line-321" n="321">Harmonious Cibber entertains</l>
+            <l xml:id="swift-640-901Y-line-322" n="322">The Court with annual birth day Strains</l>
+            <l xml:id="swift-640-901Y-line-323" n="323">Whence Gay was banishd in discrage</l>
+            <l xml:id="swift-640-901Y-line-324" n="324">Where pope will never Show his face</l>
+            <l xml:id="swift-640-901Y-line-325" n="325">Where Y---- Must torture his invention</l>
+            <l xml:id="swift-640-901Y-line-326" n="326">To flatter knaves or lose his pension</l>
+            <l xml:id="swift-640-901Y-line-327" n="327">But these are not a thousandst part</l>
+            <l xml:id="swift-640-901Y-line-328" n="328">of Jobbers in the poet's art</l>
+            <l xml:id="swift-640-901Y-line-329" n="329">Attending each his proper Station</l>
+            <l xml:id="swift-640-901Y-line-330" n="330">And all in due Subordination</l>
+            <l xml:id="swift-640-901Y-line-331" n="331">Thro' evry ally to be found</l>
+            <l xml:id="swift-640-901Y-line-332" n="332">In Garrit high or under ground</l>
+            <l xml:id="swift-640-901Y-line-333" n="333">And when the joyn their Pericranis</l>
+            <l xml:id="swift-640-901Y-line-334" n="334">Out skips a Book of Miscellanies</l>
+            <l xml:id="swift-640-901Y-line-335" n="335">Hobbs Clearly proves that evry Creature</l>
+            <l xml:id="swift-640-901Y-line-336" n="336">Lies in a state of war by nature.</l>
+            <l xml:id="swift-640-901Y-line-337" n="337">The greater from the smallest wath</l>
+            <l xml:id="swift-640-901Y-line-338" n="338">But meddle seldom with their match.</l>
+            <l xml:id="swift-640-901Y-line-339" n="339">A whale of moderate size will draw</l>
+            <l xml:id="swift-640-901Y-line-340" n="340">A shole of Herrings down his maw</l>
+            <l xml:id="swift-640-901Y-line-341" n="341">A fox with geese his belly crams</l>
+            <l xml:id="swift-640-901Y-line-342" n="342">A wolf distroys a thousand Lambs</l>
+            <l xml:id="swift-640-901Y-line-343" n="343">But search among the Rhyming race</l>
+            <l xml:id="swift-640-901Y-line-344" n="344">The brave are worried by the base</l>
+            <l xml:id="swift-640-901Y-line-345" n="345">If on parnassus top you sitt</l>
+            <l xml:id="swift-640-901Y-line-346" n="346">You rarely bite, are always bitt</l>
+            <l xml:id="swift-640-901Y-line-347" n="347">Each poet of Inferiour Size</l>
+            <l xml:id="swift-640-901Y-line-348" n="348">on you shall rail &amp; Criticize</l>
+            <l xml:id="swift-640-901Y-line-349" n="349">And strive to tear you limb from Limb</l>
+            <l xml:id="swift-640-901Y-line-350" n="350">While others do as much for him</l>
+            <l xml:id="swift-640-901Y-line-351" n="351"><lb/>The Vermin only teaze &amp; pinch</l>
+            <l xml:id="swift-640-901Y-line-352" n="352">Their foes superiour by an Inch</l>
+            <l xml:id="swift-640-901Y-line-353" n="353">So Nuturallists observe a flea</l>
+            <l xml:id="swift-640-901Y-line-354" n="354">Hath Smaller fleas that on him prey</l>
+            <l xml:id="swift-640-901Y-line-355" n="355">And these have smaller fleas to bite them</l>
+            <l xml:id="swift-640-901Y-line-356" n="356">And so proceeds ad Infinitum</l>
+            <l xml:id="swift-640-901Y-line-357" n="357">Thus evry poet in his kind</l>
+            <l xml:id="swift-640-901Y-line-358" n="358">Is bit by him that Comes behind</l>
+            <l xml:id="swift-640-901Y-line-359" n="359">Who tho too little to be seen</l>
+            <l xml:id="swift-640-901Y-line-360" n="360">Can teaze &amp; gall &amp; give the Spleen</l>
+            <l xml:id="swift-640-901Y-line-361" n="361">Call dunces fools &amp; Sons of whores</l>
+            <l xml:id="swift-640-901Y-line-362" n="362">Lay Grubstreet on each others doors</l>
+            <l xml:id="swift-640-901Y-line-363" n="363">Extoll his greek &amp; Roman masters</l>
+            <l xml:id="swift-640-901Y-line-364" n="364">And Curse our modern Poetasters</l>
+            <l xml:id="swift-640-901Y-line-365" n="365">Complain as many an \<hi rend="italics">del</hi>·An\Antient bard did</l>
+            <l xml:id="swift-640-901Y-line-366" n="366">How Genius is no more rewarded</l>
+            <l xml:id="swift-640-901Y-line-367" n="367">How wrong a taste remains amongus</l>
+            <l xml:id="swift-640-901Y-line-368" n="368">How much our ancestors outsung us</l>
+            <l xml:id="swift-640-901Y-line-369" n="369">Can personate an awkard Scorn</l>
+            <l xml:id="swift-640-901Y-line-370" n="370">for those who are not poets born</l>
+            <l xml:id="swift-640-901Y-line-371" n="371">And all their brother dunces lash</l>
+            <l xml:id="swift-640-901Y-line-372" n="372">Who croud the press with hourly thrah.</l>
+            <l xml:id="swift-640-901Y-line-373" n="373"><lb/>O Grubstreet how do I bemoan thee</l>
+            <l xml:id="swift-640-901Y-line-374" n="374">Whose graceless Children scorn to own thee</l>
+            <l xml:id="swift-640-901Y-line-375" n="375">Their filial piety forgott</l>
+            <l xml:id="swift-640-901Y-line-376" n="376">Deny their Country like a Shot</l>
+            <l xml:id="swift-640-901Y-line-377" n="377">Tho by their Idiom &amp; grimace</l>
+            <l xml:id="swift-640-901Y-line-378" n="378">they soon betray their native place</l>
+            <l xml:id="swift-640-901Y-line-379" n="379">Yet thou hast greater cause to be</l>
+            <l xml:id="swift-640-901Y-line-380" n="380">Asham'd of them than they of thee</l>
+            <l xml:id="swift-640-901Y-line-381" n="381">Degenerate from their antient brood</l>
+            <l xml:id="swift-640-901Y-line-382" n="382">Since first the Court allow'd them food</l>
+            <l xml:id="swift-640-901Y-line-383" n="383"><lb/>Remainds a Difficulty still</l>
+            <l xml:id="swift-640-901Y-line-384" n="384">To purchase fame by writing ill</l>
+            <l xml:id="swift-640-901Y-line-385" n="385">From Fleknoe down to Howards time</l>
+            <l xml:id="swift-640-901Y-line-386" n="386">How few have reachd the low Sublime</l>
+            <l xml:id="swift-640-901Y-line-387" n="387">For when our high-born Howard dy'd</l>
+            <l xml:id="swift-640-901Y-line-388" n="388">Blackmore alone his place Supply'd</l>
+            <l xml:id="swift-640-901Y-line-389" n="389">And least a Chasm should interveen</l>
+            <l xml:id="swift-640-901Y-line-390" n="390">When death had finish'd Blackmores Reign</l>
+            <l xml:id="swift-640-901Y-line-391" n="391">The leaden crown devol'd to thee</l>
+            <l xml:id="swift-640-901Y-line-392" n="392">Great poet of the hollow Tree</l>
+            <l xml:id="swift-640-901Y-line-393" n="393">But oh how unsecure thy Throne</l>
+            <l xml:id="swift-640-901Y-line-394" n="394">A Thousand Bards thy Rights disown</l>
+            <l xml:id="swift-640-901Y-line-395" n="395">They plot to turn in factious Zeal</l>
+            <l xml:id="swift-640-901Y-line-396" n="396">Duncenia to a Common weal</l>
+            <l xml:id="swift-640-901Y-line-397" n="397">And with rebellious arms pretend</l>
+            <l xml:id="swift-640-901Y-line-398" n="398">An Equall priveledge to discend.</l>
+            <l xml:id="swift-640-901Y-line-399" n="399">In Bulk there are not more degrees</l>
+            <l xml:id="swift-640-901Y-line-400" n="400">from Elephants to mite in Cheese</l>
+            <l xml:id="swift-640-901Y-line-401" n="401">Than what a Curious eye may trace</l>
+            <l xml:id="swift-640-901Y-line-402" n="402">In Creatures of the Rhyming race</l>
+            <l xml:id="swift-640-901Y-line-403" n="403">from bad to worse &amp; worse they fall</l>
+            <l xml:id="swift-640-901Y-line-404" n="404">But who can reach the worst of all</l>
+            <l xml:id="swift-640-901Y-line-405" n="405">For tho' in Nature Depth &amp; Height</l>
+            <l xml:id="swift-640-901Y-line-406" n="406">Are equally held Infinite</l>
+            <l xml:id="swift-640-901Y-line-407" n="407">In poetry the Height we know</l>
+            <l xml:id="swift-640-901Y-line-408" n="408">Is only held Infinite below</l>
+            <l xml:id="swift-640-901Y-line-409" n="409">For Jnstance when you rashly think</l>
+            <l xml:id="swift-640-901Y-line-410" n="410">No Rhymer can like Welsted sink</l>
+            <l xml:id="swift-640-901Y-line-411" n="411">His merits balanc'd you shall find</l>
+            <l xml:id="swift-640-901Y-line-412" n="412">That Fielding leaves him far behind</l>
+            <l xml:id="swift-640-901Y-line-413" n="413">Concennen more Aspiring bard,</l>
+            <l xml:id="swift-640-901Y-line-414" n="414">Climbs downward deeper by a yard</l>
+            <l xml:id="swift-640-901Y-line-415" n="415">Smart Jemmy More with vigour drops</l>
+            <l xml:id="swift-640-901Y-line-416" n="416">The rest pursue as thick as hops</l>
+            <l xml:id="swift-640-901Y-line-417" n="417">With heads to point the Gulf they enter</l>
+            <l xml:id="swift-640-901Y-line-418" n="418">linkt perpendicular to the Center</l>
+            <l xml:id="swift-640-901Y-line-419" n="419">And as their heels elated rise</l>
+            <l xml:id="swift-640-901Y-line-420" n="420">Their Heads attempt the nether Skies.</l>
+            <l xml:id="swift-640-901Y-line-421" n="421"><lb/>O What Indignity for Shame</l>
+            <l xml:id="swift-640-901Y-line-422" n="422">To prostitute the Muses Name</l>
+            <l xml:id="swift-640-901Y-line-423" n="423">By flattring -·-·- whom Heaven designd</l>
+            <l xml:id="swift-640-901Y-line-424" n="424">The plagues &amp; Scourges of mankind</l>
+            <l xml:id="swift-640-901Y-line-425" n="425">Bred up in Ignorance &amp; Sloth</l>
+            <l xml:id="swift-640-901Y-line-426" n="426">and evr'y vice that nurses both.</l>
+            <l xml:id="swift-640-901Y-line-427" n="427">om.</l>
+            <l xml:id="swift-640-901Y-line-428" n="428">om.</l>
+            <l xml:id="swift-640-901Y-line-429" n="429">om.</l>
+            <l xml:id="swift-640-901Y-line-430" n="430">om.</l>
+            <l xml:id="swift-640-901Y-line-431" n="431">om.</l>
+            <l xml:id="swift-640-901Y-line-432" n="432">om.</l>
+            <l xml:id="swift-640-901Y-line-433" n="433">om.</l>
+            <l xml:id="swift-640-901Y-line-434" n="434">om.</l>
+            <l xml:id="swift-640-901Y-line-435" n="435">om.</l>
+            <l xml:id="swift-640-901Y-line-436" n="436">om.</l>
+            <l xml:id="swift-640-901Y-line-437" n="437">om.</l>
+            <l xml:id="swift-640-901Y-line-438" n="438">om.</l>
+            <l xml:id="swift-640-901Y-line-439" n="439">om.</l>
+            <l xml:id="swift-640-901Y-line-440" n="440">om.</l>
+            <l xml:id="swift-640-901Y-line-441" n="441">om.</l>
+            <l xml:id="swift-640-901Y-line-442" n="442">om.</l>
+            <l xml:id="swift-640-901Y-line-443" n="443">om.</l>
+            <l xml:id="swift-640-901Y-line-444" n="444">om.</l>
+            <l xml:id="swift-640-901Y-line-445" n="445">om.</l>
+            <l xml:id="swift-640-901Y-line-446" n="446">om.</l>
+            <l xml:id="swift-640-901Y-line-447" n="447">om.</l>
+            <l xml:id="swift-640-901Y-line-448" n="448">om.</l>
+            <l xml:id="swift-640-901Y-line-449" n="449">om.</l>
+            <l xml:id="swift-640-901Y-line-450" n="450">om.</l>
+            <l xml:id="swift-640-901Y-line-451" n="451">om.</l>
+            <l xml:id="swift-640-901Y-line-452" n="452">om.</l>
+            <l xml:id="swift-640-901Y-line-453" n="453">om.</l>
+            <l xml:id="swift-640-901Y-line-454" n="454">om.</l>
+            <l xml:id="swift-640-901Y-line-455" n="455">om.</l>
+            <l xml:id="swift-640-901Y-line-456" n="456">om.</l>
+            <l xml:id="swift-640-901Y-line-457" n="457">om.</l>
+            <l xml:id="swift-640-901Y-line-458" n="458">om.</l>
+            <l xml:id="swift-640-901Y-line-459" n="459">om.</l>
+            <l xml:id="swift-640-901Y-line-460" n="460">om.</l>
+            <l xml:id="swift-640-901Y-line-461" n="461">om.</l>
+            <l xml:id="swift-640-901Y-line-462" n="462">om.</l>
+            <l xml:id="swift-640-901Y-line-463" n="463"><lb/>Fair Brittain, In thy Monarch blest</l>
+            <l xml:id="swift-640-901Y-line-464" n="464">Whose virtues bear the strictest test</l>
+            <l xml:id="swift-640-901Y-line-465" n="465">Whom never faction could bespatter</l>
+            <l xml:id="swift-640-901Y-line-466" n="466">Nor minister nor poet flatter</l>
+            <l xml:id="swift-640-901Y-line-467" n="467">What Justice in rewarding merit</l>
+            <l xml:id="swift-640-901Y-line-468" n="468">What magnanimity of Spirit</l>
+            <l xml:id="swift-640-901Y-line-469" n="469">om.</l>
+            <l xml:id="swift-640-901Y-line-470" n="470">om.</l>
+            <l xml:id="swift-640-901Y-line-471" n="471">What Lineaments divine we trace</l>
+            <l xml:id="swift-640-901Y-line-472" n="472">Thro all the features of his face</l>
+            <l xml:id="swift-640-901Y-line-473" n="473">Tho peace &amp; olive bind his hands</l>
+            <l xml:id="swift-640-901Y-line-474" n="474">Confest the Conquering Hero stands</l>
+            <l xml:id="swift-640-901Y-line-475" n="475">Hydaspes Indus &amp; the Ganges</l>
+            <l xml:id="swift-640-901Y-line-476" n="476">Dread from his hand impending Changes</l>
+            <l xml:id="swift-640-901Y-line-477" n="477">From him the Tartar &amp; Chinese</l>
+            <l xml:id="swift-640-901Y-line-478" n="478">Short by the knees intreat for peace.</l>
+            <l xml:id="swift-640-901Y-line-479" n="479">The Consort of his Royal bed</l>
+            <l xml:id="swift-640-901Y-line-480" n="480">A perfect goddess born &amp; bred</l>
+            <l xml:id="swift-640-901Y-line-481" n="481">Appointed Sovereign Judge to sitt</l>
+            <l xml:id="swift-640-901Y-line-482" n="482">On learning Eloquence &amp; witt</l>
+            <l xml:id="swift-640-901Y-line-483" n="483">Our Eldest hope divine Iulus</l>
+            <l xml:id="swift-640-901Y-line-484" n="484">(Late very late ô may he Rule us)</l>
+            <l xml:id="swift-640-901Y-line-485" n="485">what early manhood hath he shown</l>
+            <l xml:id="swift-640-901Y-line-486" n="486">Before his downy beard be grown</l>
+            <l xml:id="swift-640-901Y-line-487" n="487">Think then what wonders will be done</l>
+            <l xml:id="swift-640-901Y-line-488" n="488">By going on as he begun</l>
+            <l xml:id="swift-640-901Y-line-489" n="489">An Heir for Brittain to secure</l>
+            <l xml:id="swift-640-901Y-line-490" n="490">As long as Sun an moon endure,</l>
+            <l xml:id="swift-640-901Y-line-491" n="491"><lb/>The Remnant of the Royall blood</l>
+            <l xml:id="swift-640-901Y-line-492" n="492">Comes pouring on me like a flood</l>
+            <l xml:id="swift-640-901Y-line-493" n="493">Bright goddesses in Number five</l>
+            <l xml:id="swift-640-901Y-line-494" n="494">Duke William Sweetest Prince alive.</l>
+            <l xml:id="swift-640-901Y-line-495" n="495"><lb/>Now sing the Minister of State</l>
+            <l xml:id="swift-640-901Y-line-496" n="496">Who shines alone without a mate</l>
+            <l xml:id="swift-640-901Y-line-497" n="497">Observe with what Majestick port</l>
+            <l xml:id="swift-640-901Y-line-498" n="498">\<hi rend="italics">faded</hi>\his Atlas stands to prop the Court</l>
+            <l xml:id="swift-640-901Y-line-499" n="499">Intent the Publick debts to pay</l>
+            <l xml:id="swift-640-901Y-line-500" n="500">\<hi rend="italics">faded</hi>\ike prudent Fabius by delay,</l>
+            <l xml:id="swift-640-901Y-line-501" n="501">Thou great Vicegerent of the King</l>
+            <l xml:id="swift-640-901Y-line-502" n="502">Thy praises evry muse Shall Sing</l>
+            <l xml:id="swift-640-901Y-line-503" n="503">In all affairs thou sole director</l>
+            <l xml:id="swift-640-901Y-line-504" n="504">of witt and Learning Cheif protector</l>
+            <l xml:id="swift-640-901Y-line-505" n="505">Thô small the time thou hast to spare</l>
+            <l xml:id="swift-640-901Y-line-506" n="506">The Church is thy peculiar Care</l>
+            <l xml:id="swift-640-901Y-line-507" n="507">Of pious Prelates what a Stock</l>
+            <l xml:id="swift-640-901Y-line-508" n="508">You Chuse to rule the Sable flock</l>
+            <l xml:id="swift-640-901Y-line-509" n="509">You raise the Honour of the Peerage</l>
+            <l xml:id="swift-640-901Y-line-510" n="510">Proud to attend you at the Steerage</l>
+            <l xml:id="swift-640-901Y-line-511" n="511">You dignify the noble race</l>
+            <l xml:id="swift-640-901Y-line-512" n="512">Content your self with humbler place,</l>
+            <l xml:id="swift-640-901Y-line-513" n="513">Now Learning valour virtue Sense</l>
+            <l xml:id="swift-640-901Y-line-514" n="514">To titles have the Sole pretence</l>
+            <l xml:id="swift-640-901Y-line-515" n="515">S<hi rend="superscript">ṭ</hi> George beheld the with delight</l>
+            <l xml:id="swift-640-901Y-line-516" n="516">Vouchsafe to be an azure knight</l>
+            <l xml:id="swift-640-901Y-line-517" n="517">when on thy breast &amp; Sides Herculean</l>
+            <l xml:id="swift-640-901Y-line-518" n="518">He fixt the Star &amp; String Cerulean.</l>
+            <l xml:id="swift-640-901Y-line-519" n="519"><lb/>Say poet in what other Nation</l>
+            <l xml:id="swift-640-901Y-line-520" n="520">Shone ever such a Constellation</l>
+            <l xml:id="swift-640-901Y-line-521" n="521">Attend ye Popes &amp; youngs &amp; Gays</l>
+            <l xml:id="swift-640-901Y-line-522" n="522">And tune your harps &amp; strow your bays</l>
+            <l xml:id="swift-640-901Y-line-523" n="523">Your Panegyricks here provide</l>
+            <l xml:id="swift-640-901Y-line-524" n="524">You Cannot err on flattry's Side</l>
+            <l xml:id="swift-640-901Y-line-525" n="525">Above the Stars exalt your Style</l>
+            <l xml:id="swift-640-901Y-line-526" n="526">You still are low Ten Thousand mile,</l>
+            <l xml:id="swift-640-901Y-line-527" n="527">On Lewis all his bards bestowd</l>
+            <l xml:id="swift-640-901Y-line-528" n="528">of Incense many a Thousand Load</l>
+            <l xml:id="swift-640-901Y-line-529" n="529">But Europe mortifyd his pride</l>
+            <l xml:id="swift-640-901Y-line-530" n="530">And Swore the fawning Rascals ly'd</l>
+            <l xml:id="swift-640-901Y-line-531" n="531">Yet what the world refus'd to Lewis</l>
+            <l xml:id="swift-640-901Y-line-532" n="532">Apply'd to -·-·-·-·- exactly true is</l>
+            <l xml:id="swift-640-901Y-line-533" n="533">Exactly true? Invidious poet</l>
+            <l xml:id="swift-640-901Y-line-534" n="534">It's fifty thousand times below it.</l>
+            <l xml:id="swift-640-901Y-line-535" n="535">Translate me now some lines if you can</l>
+            <l xml:id="swift-640-901Y-line-536" n="536">From Virgil martial ovid Lucan</l>
+            <l xml:id="swift-640-901Y-line-537" n="537">om.</l>
+            <l xml:id="swift-640-901Y-line-538" n="538">om.</l>
+            <l xml:id="swift-640-901Y-line-539" n="539">They could all pow'r in Heaven divide</l>
+            <l xml:id="swift-640-901Y-line-540" n="540">And do no wrong on either Side</l>
+            <l xml:id="swift-640-901Y-line-541" n="541">They'ill teach you how to split a hair</l>
+            <l xml:id="swift-640-901Y-line-542" n="542">Give -------- &amp; Jove an equall Share</l>
+            <l xml:id="swift-640-901Y-line-543" n="543">Yet why should we be laid so streight</l>
+            <l xml:id="swift-640-901Y-line-544" n="544">Pu give my ────── butter weight</l>
+            <l xml:id="swift-640-901Y-line-545" n="545">And reason good, for many a year</l>
+            <l xml:id="swift-640-901Y-line-546" n="546">── Never intermeddled here</l>
+            <l xml:id="swift-640-901Y-line-547" n="547">Nor tho his Priests be duly paid</l>
+            <l xml:id="swift-640-901Y-line-548" n="548">Did ever we desire his aid</l>
+            <l xml:id="swift-640-901Y-line-549" n="549">We now can better do without him</l>
+            <l xml:id="swift-640-901Y-line-550" n="550">Since Woolston gave us arms to rout him.</l>
+            <l xml:id="swift-640-901Y-line-551" n="551">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

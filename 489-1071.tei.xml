@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Dialogue between an eminent <«FN1·><hi rend="italics">Mr. </hi>L<«MDSD»>INDSAY<hi rend="italics">, who was afterwards a Judge of the</hi> Common-Pleas.» Law-<lb/>  yer, and Dr. S<hi rend="small-caps">WIFT</hi>, D. S. P. D.  Be-<lb/>  ing an Allusion to the First Satyr of the<lb/>  Second Book of <hi rend="italics">Horace,──Sunt quibus<lb/>  in Satyra</hi> &amp;c.</«MDSD»></«FN1·></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JGranier 21NO96"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="489-1071">
+          <head type="note" n="1" xml:id="spp-489-1071-headnote-1">
+            <lg n="1" xml:id="spp-489-1071-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-489-1071-headnote-1-line-group-1-line-1">Written <hi rend="italics">Feb</hi>. 1728.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-489-1071-headnote-2">
+            <lg n="1" xml:id="spp-489-1071-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-489-1071-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-489-1071-headnote-3">
+            <lg n="1" xml:id="spp-489-1071-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-489-1071-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-489-1071-line-1" n="1"><hi rend="display-initial">S</hi>INCE there are Persons who complain</l>
+            <l xml:id="swift-489-1071-line-2" n="2">There's too much Satyr in my Vein,</l>
+            <l xml:id="swift-489-1071-line-3" n="3">That I am often found exceeding</l>
+            <l xml:id="swift-489-1071-line-4" n="4">The Rules of Raillery and Breeding,</l>
+            <l xml:id="swift-489-1071-line-5" n="5">With too much Freedom treat my Betters,</l>
+            <l xml:id="swift-489-1071-line-6" n="6">Not sparing even Men of Letters:</l>
+            <l xml:id="swift-489-1071-line-7" n="7">You, who are skill'd in Lawyers Lore,</l>
+            <l xml:id="swift-489-1071-line-8" n="8">What's your Advice? Shall I give o'er,</l>
+            <l xml:id="swift-489-1071-line-9" n="9">Nor ever Fools or Knaves expose</l>
+            <l xml:id="swift-489-1071-line-10" n="10">Either in Verse or hum'rous Prose,</l>
+            <l xml:id="swift-489-1071-line-11" n="11">And to avoid all future ill,</l>
+            <l xml:id="swift-489-1071-line-12" n="12">In my 'Scrutore lock up my Quil?</l>
+            <l rend="indent(1)" xml:id="swift-489-1071-line-13" n="13"><lb/>S<hi rend="small-caps">INCE</hi> you are pleas'd to condescend</l>
+            <l xml:id="swift-489-1071-line-14" n="14">To ask the Judgement of a Friend,</l>
+            <l xml:id="swift-489-1071-line-15" n="15">Your Case consider'd, I must think</l>
+            <l xml:id="swift-489-1071-line-16" n="16">You should withdraw from Pen and Ink,</l>
+            <l xml:id="swift-489-1071-line-17" n="17">Forbear your Poetry and Jokes,</l>
+            <l xml:id="swift-489-1071-line-18" n="18">And live like other Christian Folks;</l>
+            <l xml:id="swift-489-1071-line-19" n="19">Or, if the Muses must inspire</l>
+            <l xml:id="swift-489-1071-line-20" n="20">Your Fancy with their pleasing Fire,</l>
+            <l xml:id="swift-489-1071-line-21" n="21">Take Subjects safer for your Wit,</l>
+            <l xml:id="swift-489-1071-line-22" n="22">Than those on which you lately writ,</l>
+            <l xml:id="swift-489-1071-line-23" n="23">Commend the Times, your Thoughts correct,</l>
+            <l xml:id="swift-489-1071-line-24" n="24">And follow the prevailing Sect;</l>
+            <l xml:id="swift-489-1071-line-25" n="25">Assert that <note place="foot">·<hi rend="italics">Earl of </hi>Clarendon<hi rend="italics">, who wrote of the Civil Wars, begun in the Year </hi>1641.</note> <hi rend="italics">Hyde</hi>, in writing Story,</l>
+            <l xml:id="swift-489-1071-line-26" n="26">Shews all the Malice of a Tory,</l>
+            <l xml:id="swift-489-1071-line-27" n="27">While <note place="foot">·<hi rend="italics">Bishop of </hi>Salisbury<hi rend="italics">, who wrote the History of his own Times, </hi>&amp;c.</note> <hi rend="italics">Burnet</hi> in his deathless Page,</l>
+            <l xml:id="swift-489-1071-line-28" n="28">Discovers Freedom without Rage;</l>
+            <l xml:id="swift-489-1071-line-29" n="29">To <note place="foot">·<hi rend="italics">A degraded Clergyman of the Church of </hi>England<hi rend="italics">, who wrote against the Miracles of our Saviour</hi>.</note> <hi rend="italics">Woolston</hi> recommend our Youth</l>
+            <l xml:id="swift-489-1071-line-30" n="30">For Learning, Probity, and Truth,</l>
+            <l xml:id="swift-489-1071-line-31" n="31">That noble Genius who unbinds</l>
+            <l xml:id="swift-489-1071-line-32" n="32">The Chains which fetter free-born Minds,</l>
+            <l xml:id="swift-489-1071-line-33" n="33">Redeems us from the slavish Fears</l>
+            <l xml:id="swift-489-1071-line-34" n="34">Which lasted near two thousand Years;</l>
+            <l xml:id="swift-489-1071-line-35" n="35">He can alone the Priesthood humble,</l>
+            <l xml:id="swift-489-1071-line-36" n="36">Make gilded Spires and Altars tumble.</l>
+            <l rend="indent(1)" xml:id="swift-489-1071-line-37" n="37"><lb/>M<hi rend="small-caps">UST</hi> I commend against my Conscience</l>
+            <l xml:id="swift-489-1071-line-38" n="38">Such stupid Blasphemy and Nonsense?</l>
+            <l xml:id="swift-489-1071-line-39" n="39">To such a Subject tune my Lyre,</l>
+            <l xml:id="swift-489-1071-line-40" n="40">And sing like one of <hi rend="italics">Milton</hi>'s Choir,</l>
+            <l xml:id="swift-489-1071-line-41" n="41">Where Devils to a Vale retreat,</l>
+            <l xml:id="swift-489-1071-line-42" n="42">And call the Laws of Wisdom Fate,</l>
+            <l xml:id="swift-489-1071-line-43" n="43">Lament upon their hapless Fall,</l>
+            <l xml:id="swift-489-1071-line-44" n="44">That Force free Virtue should enthral?</l>
+            <l xml:id="swift-489-1071-line-45" n="45">Or, shall the Charms of Wealth and Pow'r</l>
+            <l xml:id="swift-489-1071-line-46" n="46">Make me pollute the Muses Bower?</l>
+            <l rend="indent(1)" xml:id="swift-489-1071-line-47" n="47"><lb/>A<hi rend="small-caps">S</hi> from the Tripod of <hi rend="italics">Apollo</hi>,</l>
+            <l xml:id="swift-489-1071-line-48" n="48">Hear from my Desk the Words that follow:</l>
+            <l xml:id="swift-489-1071-line-49" n="49">Some by Philosophers misled,</l>
+            <l xml:id="swift-489-1071-line-50" n="50">Must honour you alive and dead;</l>
+            <l xml:id="swift-489-1071-line-51" n="51">And such as know what <hi rend="italics">Greece</hi> hath writ;</l>
+            <l xml:id="swift-489-1071-line-52" n="52">Must taste your Irony and Wit.</l>
+            <l xml:id="swift-489-1071-line-53" n="53">While most that are, or would be great,</l>
+            <l xml:id="swift-489-1071-line-54" n="54">Must dread your Pen, your Person hate,</l>
+            <l xml:id="swift-489-1071-line-55" n="55">And you on <note place="foot">·<hi rend="italics">In the Country of </hi>Armagh.</note> <hi rend="italics">Drapier</hi>'s Hill must lye,</l>
+            <l xml:id="swift-489-1071-line-56" n="56">And there without a Mitre dye.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

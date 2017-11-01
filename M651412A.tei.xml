@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-M651412A-title-1">On D<hi rend="superscript">r</hi> 08: Swift asserting the Superiority of<lb/>  the Antients over the Moderns<ref target="#spp-M651412A-footnote-title-1">1</ref><note n="1" xml:id="spp-M651412A-footnote-title-1" place="foot">Vide Battle of the Books, in the Tale of a Tub</note>, by the<lb/>  late M<hi rend="superscript">r</hi> 08: Arbuckel, [called by the Dean<lb/>  Wit upon Crutches.] \brackets in original\</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 31JY97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-M651412A-footnote-title-1 #spp-M651412A-title-1"/>
+        </linkGrp>
+        <div n="M651412A">
+          <head type="note" n="1" xml:id="spp-M651412A-headnote-1">
+            <lg n="1" xml:id="spp-M651412A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M651412A-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M651412A-headnote-2">
+            <lg n="1" xml:id="spp-M651412A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M651412A-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M651412A-headnote-3">
+            <lg n="1" xml:id="spp-M651412A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M651412A-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M651412A-line-1" n="1">While the Dean with more Wit than man ever wanted,</l>
+            <l xml:id="swift-M651412A-line-2" n="2">Or at least more than Heaven to man ever granted,</l>
+            <l xml:id="swift-M651412A-line-3" n="3">Endeavours to prove how the Antients in Knowledge,</l>
+            <l xml:id="swift-M651412A-line-4" n="4">Have excell'd our Adepts of each modern College;</l>
+            <l xml:id="swift-M651412A-line-5" n="5">How by Heroes of old our Chiefs are surpass'd</l>
+            <l xml:id="swift-M651412A-line-6" n="6">In each useful Science, true Learning and Taste:</l>
+            <l xml:id="swift-M651412A-line-7" n="7">While thus he behaves with more Courage than Manners,</l>
+            <l xml:id="swift-M651412A-line-8" n="8">And fights for the Foe, deserting their Banners:</l>
+            <l xml:id="swift-M651412A-line-9" n="9">While <hi rend="underlined">Bentley</hi>, and <hi rend="underlined">Wotton</hi>, our Champion he foils,</l>
+            <l xml:id="swift-M651412A-line-10" n="10">And wants neither Temples Assistance nor Boyles,</l>
+            <l xml:id="swift-M651412A-line-11" n="11">In spite of his Learning, fine Reasons and Stile,</l>
+            <l xml:id="swift-M651412A-line-12" n="12">(Wou'd ye think it?) He favours our Cause all the While;</l>
+            <l xml:id="swift-M651412A-line-13" n="13">We raise by his Conquest our Glory the higher,</l>
+            <l xml:id="swift-M651412A-line-14" n="14">And from a Defeat to a Triumph aspire!</l>
+            <l xml:id="swift-M651412A-line-15" n="15">Our great Brother Modern, the Boast of our Days,</l>
+            <l xml:id="swift-M651412A-line-16" n="16">Unconscious, has gain'd for our party the Bays:</l>
+            <l xml:id="swift-M651412A-line-17" n="17">
+              <hi rend="underlined">S<hi rend="superscript">t</hi><hi rend="underlined">: James's</hi> old Authors, so fam'd on each shelf,</hi>
+            </l>
+            <l xml:id="swift-M651412A-line-18" n="18">Are vanquish'd by what he has written himself.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

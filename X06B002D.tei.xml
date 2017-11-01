@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Pardon.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 16JL99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X06B002D">
+          <head type="note" n="1" xml:id="spp-X06B002D-headnote-1">
+            <lg n="1" xml:id="spp-X06B002D-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X06B002D-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X06B002D-headnote-2">
+            <lg n="1" xml:id="spp-X06B002D-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X06B002D-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X06B002D-headnote-3">
+            <lg n="1" xml:id="spp-X06B002D-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X06B002D-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-X06B002D-line-1" n="1">The Suit which humbly You have made</l>
+            <l xml:id="swift-X06B002D-line-2" n="2">Is fully and Maturely weigh'd;</l>
+            <l xml:id="swift-X06B002D-line-3" n="3">«LD»And as 'tis Your Petition:</l>
+            <l xml:id="swift-X06B002D-line-4" n="4">I do Forgive for well I know</l>
+            <l xml:id="swift-X06B002D-line-5" n="5">Since You're so Bruis'd another Blow</l>
+            <l xml:id="swift-X06B002D-line-6" n="6">«LD»Wou'd Break the Head of Priscian.</l>
+            <l xml:id="swift-X06B002D-line-7" n="7">'Tis not my Purpose or Intent</l>
+            <l xml:id="swift-X06B002D-line-8" n="8">That You shou'd suffer Banishment,</l>
+            <l xml:id="swift-X06B002D-line-9" n="9">«LD»I Pardon, now You've Courted</l>
+            <l xml:id="swift-X06B002D-line-10" n="10">And Yet I fear this Clemency</l>
+            <l xml:id="swift-X06B002D-line-11" n="11">Will come too late to profit thee</l>
+            <l xml:id="swift-X06B002D-line-12" n="12">«LD»For You're with Grief Transported.</l>
+            <l xml:id="swift-X06B002D-line-13" n="13">However this I do Command</l>
+            <l xml:id="swift-X06B002D-line-14" n="14">That You Your Birch do take in hand</l>
+            <l xml:id="swift-X06B002D-line-15" n="15">«LD»Read Concord and Syntax-on;</l>
+            <l xml:id="swift-X06B002D-line-16" n="16">The Bays You own are onely Mine</l>
+            <l xml:id="swift-X06B002D-line-17" n="17">Do You then still Your Nouns Decline</l>
+            <l xml:id="swift-X06B002D-line-18" n="18">«LD»Since You've declin'd────</l>
+            <l xml:id="swift-X06B002D-line-19" n="19">«LD»Dan: Jackson.</l>
+            <l xml:id="swift-X06B002D-line-20" n="20">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

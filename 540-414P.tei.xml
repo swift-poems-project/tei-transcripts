@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A translation of a French Lampoon on Cardinal Fleury</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RCoin 18AU97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-414P">
+          <head type="note" n="1" xml:id="spp-540-414P-headnote-1">
+            <lg n="1" xml:id="spp-540-414P-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-414P-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-414P-headnote-2">
+            <lg n="1" xml:id="spp-540-414P-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-414P-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-414P-headnote-3">
+            <lg n="1" xml:id="spp-540-414P-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-414P-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-414P-line-1" n="1">om.</l>
+            <l xml:id="swift-540-414P-line-2" n="2">om.</l>
+            <l xml:id="swift-540-414P-line-3" n="3">om.</l>
+            <l xml:id="swift-540-414P-line-4" n="4">om.</l>
+            <l xml:id="swift-540-414P-line-5" n="5">om.</l>
+            <l xml:id="swift-540-414P-line-6" n="6">om.</l>
+            <l xml:id="swift-540-414P-line-7" n="7">om.</l>
+            <l xml:id="swift-540-414P-line-8" n="8">om.</l>
+            <l xml:id="swift-540-414P-line-9" n="9">With favour and fortune fastidiously blest,</l>
+            <l xml:id="swift-540-414P-line-10" n="10">He's loud in his lough, and Coarse in his jest,</l>
+            <l xml:id="swift-540-414P-line-11" n="11">Of favour and fortune unmerited vain,</l>
+            <l xml:id="swift-540-414P-line-12" n="12">A Sharper in triffles, a Dupe in the main,</l>
+            <l xml:id="swift-540-414P-line-13" n="13">Atcheiving of nothing, still promising wonders.</l>
+            <l xml:id="swift-540-414P-line-14" n="14">By dint of experience, improveing in Blunders;</l>
+            <l xml:id="swift-540-414P-line-15" n="15">Oppressing true merit, exalting the base,</l>
+            <l xml:id="swift-540-414P-line-16" n="16">And selling his Country to purchase a Peace.</l>
+            <l xml:id="swift-540-414P-line-17" n="17">A Jober of Stock, by retailing false News,</l>
+            <l xml:id="swift-540-414P-line-18" n="18">A Prater at Court in the stile of the News;</l>
+            <l xml:id="swift-540-414P-line-19" n="19">Of Virtue and worth, by Profession a Giber</l>
+            <l xml:id="swift-540-414P-line-20" n="20">Of Juries and Senates the Bully and Briber;</l>
+            <l xml:id="swift-540-414P-line-21" n="21">Tho' I name not tho wretch, you know who I mean,</l>
+            <l xml:id="swift-540-414P-line-22" n="22">The Cur-dog of Britain, and the Spaniell of Spain</l>
+            <l xml:id="swift-540-414P-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">The</hi> PARSON'<hi rend="italics">s</hi> C<hi rend="small-caps">ASE</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 23NO02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="676-34KL">
+          <head type="note" n="1" xml:id="spp-676-34KL-headnote-1">
+            <lg n="1" xml:id="spp-676-34KL-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-34KL-headnote-1-line-group-1-line-1"><hi rend="italics">In Imitation of</hi> M<hi rend="small-caps">ARTIAL</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-676-34KL-headnote-2">
+            <lg n="1" xml:id="spp-676-34KL-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-34KL-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-676-34KL-headnote-3">
+            <lg n="1" xml:id="spp-676-34KL-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-676-34KL-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-676-34KL-line-1" n="1"><hi rend="display-initial">T</hi>HAT you, Friend <hi rend="italics">Marcus</hi>, like a Stoick,</l>
+            <l xml:id="swift-676-34KL-line-2" n="2">Can wish to die, in Strain Heroick,</l>
+            <l xml:id="swift-676-34KL-line-3" n="3">No real Fortitude implies:</l>
+            <l xml:id="swift-676-34KL-line-4" n="4">Yet, all must own, thy <hi rend="italics">Wish</hi> is wise.</l>
+            <l xml:id="swift-676-34KL-line-5" n="5">Thy <hi rend="italics">Curate'</hi>s<hi rend="italics"> Place</hi>, thy fruitful <hi rend="italics">Wife</hi>,</l>
+            <l xml:id="swift-676-34KL-line-6" n="6">Thy busy drudging Scene of Life;</l>
+            <l xml:id="swift-676-34KL-line-7" n="7">Thy insolent, illit'rate <hi rend="italics">Vicar</hi>,</l>
+            <l xml:id="swift-676-34KL-line-8" n="8">Thy Want of all-consoling Liquor;</l>
+            <l xml:id="swift-676-34KL-line-9" n="9">Thy Thread-bare Gown, thy Cassock rent,</l>
+            <l xml:id="swift-676-34KL-line-10" n="10">Thy Credit sunk, thy Money spent;</l>
+            <l xml:id="swift-676-34KL-line-11" n="11">Thy Week made up of Fasting Days,</l>
+            <l xml:id="swift-676-34KL-line-12" n="12">Thy <hi rend="italics">Grate</hi>, unconscious of a Blaze;</l>
+            <l xml:id="swift-676-34KL-line-13" n="13">om.</l>
+            <l xml:id="swift-676-34KL-line-14" n="14">om.</l>
+            <l xml:id="swift-676-34KL-line-15" n="15">om.</l>
+            <l xml:id="swift-676-34KL-line-16" n="16">om.</l>
+            <l xml:id="swift-676-34KL-line-17" n="17">And, to complete thy other Curses,</l>
+            <l xml:id="swift-676-34KL-line-18" n="18">The quarterly Demands of Nurses,</l>
+            <l xml:id="swift-676-34KL-line-19" n="19">Are <hi rend="italics">Ills</hi> you wisely wish to leave,</l>
+            <l xml:id="swift-676-34KL-line-20" n="20">And fly for Refuge to the <hi rend="italics">Grave</hi>;</l>
+            <l xml:id="swift-676-34KL-line-21" n="21">And, O! what Virtue you express</l>
+            <l xml:id="swift-676-34KL-line-22" n="22">In wishing such Afflictions less!</l>
+            <l xml:id="swift-676-34KL-line-23" n="23">But, now should <hi rend="italics">Fortune</hi> shift the Scene,</l>
+            <l xml:id="swift-676-34KL-line-24" n="24">And make thy <hi rend="italics">Curate-ship</hi> a <hi rend="italics">Dean</hi>;</l>
+            <l xml:id="swift-676-34KL-line-25" n="25">Or, some rich Benefice provide,</l>
+            <l xml:id="swift-676-34KL-line-26" n="26">To pamper Luxury and Pride;</l>
+            <l xml:id="swift-676-34KL-line-27" n="27">With Labour small, and Income great,</l>
+            <l xml:id="swift-676-34KL-line-28" n="28">With Chariot, less for Use than State;</l>
+            <l xml:id="swift-676-34KL-line-29" n="29">With swelling Scarf, and glossy Gown,</l>
+            <l xml:id="swift-676-34KL-line-30" n="30">And, License to reside in Town;</l>
+            <l xml:id="swift-676-34KL-line-31" n="31">To shine, where all the Gay resort,</l>
+            <l xml:id="swift-676-34KL-line-32" n="32">At Concert, Coffee-house, or Court;</l>
+            <l xml:id="swift-676-34KL-line-33" n="33">And, weekly persecute his Grace,</l>
+            <l xml:id="swift-676-34KL-line-34" n="34">With Visits, or to beg a Place;</l>
+            <l xml:id="swift-676-34KL-line-35" n="35">With Underlings thy Flock to teach,</l>
+            <l xml:id="swift-676-34KL-line-36" n="36">With no Desire to pray or preach;</l>
+            <l xml:id="swift-676-34KL-line-37" n="37">With haughty Spouse, in Vesture fine,</l>
+            <l xml:id="swift-676-34KL-line-38" n="38">With plenteous Meals, and gen'rous Wine;</l>
+            <l xml:id="swift-676-34KL-line-39" n="39">Would thou not wish, in so much Ease,</l>
+            <l xml:id="swift-676-34KL-line-40" n="40">Thy Years as num'rous as thy Days?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

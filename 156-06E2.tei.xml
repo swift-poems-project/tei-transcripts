@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The F<hi rend="small-caps">ABLE</hi> of M<hi rend="small-caps">IDAS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 8JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 9JE09, 28MY16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="156-06E2">
+          <head type="note" n="1" xml:id="spp-156-06E2-headnote-1">
+            <lg n="1" xml:id="spp-156-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-156-06E2-headnote-1-line-group-1-line-1">Written in the year 1712.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-156-06E2-headnote-2">
+            <lg n="1" xml:id="spp-156-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-156-06E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-156-06E2-headnote-3">
+            <lg n="1" xml:id="spp-156-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-156-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-1" n="1"><note place="foot">·The Dean, though he did not much change the natural order of words, was yet very exact in his versification. But it may be remarked, that verses of eight syllables are never harmonious, if the accent be placed on the <hi rend="italics">first</hi>, and not repeated till the <hi rend="italics">third</hi> or <hi rend="italics">fourth</hi>. The first, fourth, and eighth verses are, among others, examples of this rule; which will be illustrated by changing the structure, so as to remove the accent from the <hi rend="italics">first</hi> syllable to the <hi rend="italics">second</hi>. If instead of,<lb/><hi rend="italics">Glitter'd, like spangles on the ground</hi>,_the fourth verse be read,_|<hi rend="italics">Like spangles glitter'd on the ground</hi>;_the ear will easily determine which should be preferred. It is however true, that when the accent is placed on the <hi rend="italics">first</hi> syllable, and repeated at the <hi rend="italics">second</hi>, the measure is not only harmonious, but acquires a peculiar force. The eleventh verse is of this kind,_|<hi rend="italics">Untouch'd it pass'd between his grinders</hi>;_which would be greatly enfeebled, by changing it to_|<hi rend="italics">It pass'd untouch'd between his grinders</hi>;_though the cadence would still be poetical, as the first accent would fall on the second syllable. <hi rend="italics">Hawkes</hi>.</note><hi rend="display-initial">M</hi>Idas, we are in story told,</l>
+            <l xml:id="swift-156-06E2-line-2" n="2">Turn'd ev'ry thing he touch'd to <hi rend="italics">gold</hi>:</l>
+            <l xml:id="swift-156-06E2-line-3" n="3">He <hi rend="italics">chip'd</hi> his <hi rend="italics">bread</hi>; the pieces round</l>
+            <l xml:id="swift-156-06E2-line-4" n="4">Glitter'd, like spangles on the ground:</l>
+            <l xml:id="swift-156-06E2-line-5" n="5">A codling ere it went his lip in,</l>
+            <l xml:id="swift-156-06E2-line-6" n="6">Would strait become a <hi rend="italics">golden</hi> pippin:</l>
+            <l xml:id="swift-156-06E2-line-7" n="7">He call'd for drink; you saw him sup</l>
+            <l xml:id="swift-156-06E2-line-8" n="8"><hi rend="italics">Potable gold</hi> in <hi rend="italics">golden cup</hi>:</l>
+            <l xml:id="swift-156-06E2-line-9" n="9">His empty paunch that he might fill,</l>
+            <l xml:id="swift-156-06E2-line-10" n="10">He suck'd his victuals through a quill;</l>
+            <l xml:id="swift-156-06E2-line-11" n="11">Untouch'd it pass'd between his grinders,</l>
+            <l xml:id="swift-156-06E2-line-12" n="12">Or't had been happy for <hi rend="italics">gold-finders</hi>:</l>
+            <l xml:id="swift-156-06E2-line-13" n="13">He cock'd his hat, you would have said</l>
+            <l xml:id="swift-156-06E2-line-14" n="14">Mambrino's helm adorn'd his head:</l>
+            <l xml:id="swift-156-06E2-line-15" n="15">Whene'er he chanc'd his hands to lay</l>
+            <l xml:id="swift-156-06E2-line-16" n="16">On <hi rend="italics">magazines</hi> of <hi rend="italics">corn</hi> or <hi rend="italics">hay,</hi></l>
+            <l xml:id="swift-156-06E2-line-17" n="17"><hi rend="italics">Gold</hi> ready coin'd appear'd, instead</l>
+            <l xml:id="swift-156-06E2-line-18" n="18">Of paltry <hi rend="italics">provender</hi> and <hi rend="italics">bread</hi>;</l>
+            <l xml:id="swift-156-06E2-line-19" n="19">Hence by wise farmers we are told,</l>
+            <l xml:id="swift-156-06E2-line-20" n="20"><hi rend="italics">Old</hi> hay is <hi rend="italics">equal to old</hi> gold;</l>
+            <l xml:id="swift-156-06E2-line-21" n="21">And hence a critic deep maintains,</l>
+            <l xml:id="swift-156-06E2-line-22" n="22">We learn'd to weigh our <hi rend="italics">gold</hi> by <hi rend="italics">grains</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-23" n="23"><lb/>This <hi rend="italics">fool</hi> had got a <hi rend="italics">lucky hit</hi>;</l>
+            <l xml:id="swift-156-06E2-line-24" n="24">And people fancy'd he had <hi rend="italics">wit</hi>.</l>
+            <l xml:id="swift-156-06E2-line-25" n="25">Two gods their skill in music try'd,</l>
+            <l xml:id="swift-156-06E2-line-26" n="26">And both chose Midas to decide;</l>
+            <l xml:id="swift-156-06E2-line-27" n="27">He against Phœbus' harp decreed,</l>
+            <l xml:id="swift-156-06E2-line-28" n="28">And gave it for Pan's oaten reed:</l>
+            <l xml:id="swift-156-06E2-line-29" n="29">The god of wit, to shew his grudge,</l>
+            <l xml:id="swift-156-06E2-line-30" n="30">Clapt <hi rend="italics">asses</hi>' ears upon the judge;</l>
+            <l xml:id="swift-156-06E2-line-31" n="31">A goodly pair erect and wide,</l>
+            <l xml:id="swift-156-06E2-line-32" n="32">Which he could neither <hi rend="italics">gild</hi> nor hide.</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-33" n="33"><lb/>And now the virtue of his <hi rend="italics">hands</hi></l>
+            <l xml:id="swift-156-06E2-line-34" n="34">Was lost among Pactolus' sands,</l>
+            <l xml:id="swift-156-06E2-line-35" n="35">Against whose torrent while he swims,</l>
+            <l xml:id="swift-156-06E2-line-36" n="36">The <hi rend="italics">golden</hi> scurf peels off his limbs:</l>
+            <l xml:id="swift-156-06E2-line-37" n="37">Fame spreads the news, and people travel</l>
+            <l xml:id="swift-156-06E2-line-38" n="38">From far to gather <hi rend="italics">golden</hi> gravel;</l>
+            <l xml:id="swift-156-06E2-line-39" n="39">Midas, expos'd to all their jeers,</l>
+            <l xml:id="swift-156-06E2-line-40" n="40">Had lost his <hi rend="italics">art</hi>, and kept his <hi rend="italics">ears</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-41" n="41"><lb/>This tale inclines the gentle reader</l>
+            <l xml:id="swift-156-06E2-line-42" n="42">To think upon a certain <hi rend="italics">leader</hi>;</l>
+            <l xml:id="swift-156-06E2-line-43" n="43">To whom from Midas down descends</l>
+            <l xml:id="swift-156-06E2-line-44" n="44">That virtue in the fingers ends.</l>
+            <l xml:id="swift-156-06E2-line-45" n="45">What else by <hi rend="italics">perquisites</hi> are meant,</l>
+            <l xml:id="swift-156-06E2-line-46" n="46">By <hi rend="italics">pensions, bribes,</hi> and <hi rend="italics">three per cent</hi>,</l>
+            <l xml:id="swift-156-06E2-line-47" n="47">By <hi rend="italics">places</hi> and <hi rend="italics">commissions</hi> sold,</l>
+            <l xml:id="swift-156-06E2-line-48" n="48">And turning <hi rend="italics">dung</hi> itself to <hi rend="italics">gold</hi>?</l>
+            <l xml:id="swift-156-06E2-line-49" n="49">By starving in the midst of store,</l>
+            <l xml:id="swift-156-06E2-line-50" n="50">As t'other Midas did before?</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-51" n="51"><lb/>None e'er did modern Midas chuse</l>
+            <l xml:id="swift-156-06E2-line-52" n="52">Subject or patron of his muse,</l>
+            <l xml:id="swift-156-06E2-line-53" n="53">But found him thus their merit scan,</l>
+            <l xml:id="swift-156-06E2-line-54" n="54">That Phœbus must give place to Pan:</l>
+            <l xml:id="swift-156-06E2-line-55" n="55">He values not the poet's praise,</l>
+            <l xml:id="swift-156-06E2-line-56" n="56">Nor will exchange his <hi rend="italics">plumbs</hi> <note place="foot">·A cant word for 100,000l. <hi rend="italics">Dub. edit</hi>.</note> for <hi rend="italics">bays</hi>:</l>
+            <l xml:id="swift-156-06E2-line-57" n="57">To Pan alone rich misers call;</l>
+            <l xml:id="swift-156-06E2-line-58" n="58">And there's the jest, for Pan is <hi rend="small-caps">ALL</hi>.</l>
+            <l xml:id="swift-156-06E2-line-59" n="59">Here English wits will be to seek,</l>
+            <l xml:id="swift-156-06E2-line-60" n="60">Howe'er, '<hi rend="italics">tis all one in the Greek</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-61" n="61"><lb/>Besides, it plainly now appears</l>
+            <l xml:id="swift-156-06E2-line-62" n="62">Our Midas too hath <hi rend="italics">asses</hi>' ears;</l>
+            <l xml:id="swift-156-06E2-line-63" n="63">Where ev'ry fool his mouth applies,</l>
+            <l xml:id="swift-156-06E2-line-64" n="64">And whispers in a thousand lies;</l>
+            <l xml:id="swift-156-06E2-line-65" n="65">Such gross delusions could not pass</l>
+            <l xml:id="swift-156-06E2-line-66" n="66">Through any ears but of an <hi rend="italics">ass</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-67" n="67"><lb/>But <hi rend="italics">gold</hi> defiles with frequent touch;</l>
+            <l xml:id="swift-156-06E2-line-68" n="68">There's nothing <hi rend="italics">fouls</hi> the hand so much:</l>
+            <l xml:id="swift-156-06E2-line-69" n="69">And scholars give it for the cause</l>
+            <l xml:id="swift-156-06E2-line-70" n="70">Of British Midas' dirty paws;</l>
+            <l xml:id="swift-156-06E2-line-71" n="71">Which while the <hi rend="italics">Senate</hi> strove to scour,</l>
+            <l xml:id="swift-156-06E2-line-72" n="72">They wash'd away the <hi rend="italics">chymic</hi> power.</l>
+            <l rend="indent(1)" xml:id="swift-156-06E2-line-73" n="73"><lb/>While he his utmost strength apply'd,</l>
+            <l xml:id="swift-156-06E2-line-74" n="74">To swim against this <hi rend="italics">pop'lar tide</hi>,</l>
+            <l xml:id="swift-156-06E2-line-75" n="75">The <hi rend="italics">golden</hi> spoils flew off apace;</l>
+            <l xml:id="swift-156-06E2-line-76" n="76">Here fell a <hi rend="italics">pension</hi>, there a <hi rend="italics">place</hi>:</l>
+            <l xml:id="swift-156-06E2-line-77" n="77">The <hi rend="italics">torrent</hi> merciless imbibes</l>
+            <l xml:id="swift-156-06E2-line-78" n="78"><hi rend="italics">Commissions, perquisites</hi>, and <hi rend="italics">bribes</hi>;</l>
+            <l xml:id="swift-156-06E2-line-79" n="79">By their own weight sunk to the bottom;</l>
+            <l xml:id="swift-156-06E2-line-80" n="80"><hi rend="italics">Much good may't do 'em that have caught 'em</hi>.</l>
+            <l xml:id="swift-156-06E2-line-81" n="81">And Midas now neglected stands</l>
+            <l xml:id="swift-156-06E2-line-82" n="82">With <hi rend="italics">asses' ears</hi> and <hi rend="italics">dirty hands</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A D<hi rend="small-caps">ESCRIPTION</hi> of a C<hi rend="small-caps">ITY-</hi>S<hi rend="small-caps">HOWER</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="PWingert 22JA01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="136-06E2">
+          <head type="note" n="1" xml:id="spp-136-06E2-headnote-1">
+            <lg n="1" xml:id="spp-136-06E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-136-06E2-headnote-1-line-group-1-line-1">In imitation of Virgil's georgics.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-136-06E2-headnote-2">
+            <lg n="1" xml:id="spp-136-06E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-136-06E2-headnote-2-line-group-1-line-1">Written in the year 1712.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-136-06E2-headnote-3">
+            <lg n="1" xml:id="spp-136-06E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-136-06E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-136-06E2-line-1" n="1"><hi rend="display-initial">C</hi>Areful observers may foretel the hour</l>
+            <l xml:id="swift-136-06E2-line-2" n="2">(By sure prognostics) when to dread a show'r.</l>
+            <l xml:id="swift-136-06E2-line-3" n="3">While rain depends, the pensive cat gives o'er</l>
+            <l xml:id="swift-136-06E2-line-4" n="4">Her frolics, and pursues her tail no more.</l>
+            <l xml:id="swift-136-06E2-line-5" n="5">Returning home at night, you'll find the sink</l>
+            <l xml:id="swift-136-06E2-line-6" n="6">Strike your offended sense with double stink.</l>
+            <l xml:id="swift-136-06E2-line-7" n="7">If you be wise, then go not far to dine;</l>
+            <l xml:id="swift-136-06E2-line-8" n="8">You'll spend in coach-hire more than save in wine.</l>
+            <l xml:id="swift-136-06E2-line-9" n="9">A coming show'r your shooting corns presage,</l>
+            <l xml:id="swift-136-06E2-line-10" n="10">Old aches throb, your hollow tooth will rage:</l>
+            <l xml:id="swift-136-06E2-line-11" n="11">Saunt'ring in coffeehouse is Dulman seen;</l>
+            <l xml:id="swift-136-06E2-line-12" n="12">He damns the climate, and complains of <hi rend="italics">spleen</hi>.</l>
+            <l rend="indent(1)" xml:id="swift-136-06E2-line-13" n="13">Mean while the south, rising with dabbled wings,</l>
+            <l xml:id="swift-136-06E2-line-14" n="14">A sable cloud athwart the welkin flings,</l>
+            <l xml:id="swift-136-06E2-line-15" n="15">That swill'd more liquor than it could contain,</l>
+            <l xml:id="swift-136-06E2-line-16" n="16">And, like a drunkard, gives it up again.</l>
+            <l xml:id="swift-136-06E2-line-17" n="17">Brisk Susan whips her linen from the rope,</l>
+            <l xml:id="swift-136-06E2-line-18" n="18">While the first drizzling show'r is borne aslope:</l>
+            <l xml:id="swift-136-06E2-line-19" n="19">Such is that sprinkling, which some careless quean</l>
+            <l xml:id="swift-136-06E2-line-20" n="20">Flirts on you from her mop, but not so clean:</l>
+            <l xml:id="swift-136-06E2-line-21" n="21">You fly, invoke the gods; then turning, stop</l>
+            <l xml:id="swift-136-06E2-line-22" n="22">To rail; she singing, still whirls on her mop.</l>
+            <l xml:id="swift-136-06E2-line-23" n="23">Not yet the dust had shunn'd th' unequal strife,</l>
+            <l xml:id="swift-136-06E2-line-24" n="24">But, aided by the wind, fought still for life,</l>
+            <l xml:id="swift-136-06E2-line-25" n="25">And wafted with its foe by vi'lent gust,</l>
+            <l xml:id="swift-136-06E2-line-26" n="26"><note place="foot">·'Twas doubtful which was sea, and which was sky.<lb/>«FR</note><hi rend="italics">Garth's disp</hi>.»«FL» 'Twas doubtful which was rain, and which was dust.</l>
+            <l xml:id="swift-136-06E2-line-27" n="27">Ah! where must needy poet seek for aid,</l>
+            <l xml:id="swift-136-06E2-line-28" n="28">When dust and rain at once his coat invade?</l>
+            <l xml:id="swift-136-06E2-line-29" n="29">Sole coat, where dust cemented by the rain</l>
+            <l xml:id="swift-136-06E2-line-30" n="30">Erects the nap, and leaves a cloudy stain.</l>
+            <l rend="indent(1)" xml:id="swift-136-06E2-line-31" n="31">Now in contiguous drops the flood comes down,</l>
+            <l xml:id="swift-136-06E2-line-32" n="32">Threat'ning with deluge this devoted town.</l>
+            <l xml:id="swift-136-06E2-line-33" n="33">To shops in crouds the daggled females fly,</l>
+            <l xml:id="swift-136-06E2-line-34" n="34">Pretend to cheapen goods, but nothing buy.</l>
+            <l xml:id="swift-136-06E2-line-35" n="35">The templar spruce, while ev'ry spout's abroach,</l>
+            <l xml:id="swift-136-06E2-line-36" n="36">Stays till 'tis fair, yet seems to call a coach.</l>
+            <l xml:id="swift-136-06E2-line-37" n="37">The tuck'd up semstress walks with hasty strides,</l>
+            <l xml:id="swift-136-06E2-line-38" n="38">While streams run down her oil'd umbrella's sides.</l>
+            <l xml:id="swift-136-06E2-line-39" n="39">Here various kinds, by various fortunes led,</l>
+            <l xml:id="swift-136-06E2-line-40" n="40">Commence acquaintance underneath a shed.</l>
+            <l rend="indent(1)" xml:id="swift-136-06E2-line-41" n="41"><note place="foot">·This was written in the first year of the Earl of Oxford's ministry.</note> Triumphant <hi rend="italics">Tories</hi>, and desponding <hi rend="italics">Whigs</hi> <note place="foot">·As <hi rend="italics">Whig</hi> and <hi rend="italics">Wig</hi> only differ by an aspiration, which is scarce to be distinguished, it may be thought an exception to the Dean's remarkable exactness, that he has made made them rhyme: but the same thing was afterwards done by Mr Pope, either upon the Dean's authority, or because he did not think it liable to objection:<lb/>_<hi rend="italics">A joke on Jekyll or some odd old </hi>Whig<hi rend="italics">,_|Who never chang'd his principles or</hi> Wig._«FR</note>Hawkes.»«FL»,</l>
+            <l xml:id="swift-136-06E2-line-42" n="42">Forget their feuds, and join to save their wigs.</l>
+            <l xml:id="swift-136-06E2-line-43" n="43">Box'd in a chair the beau impatient sits,</l>
+            <l xml:id="swift-136-06E2-line-44" n="44">While spouts run clatt'ring o'er the roof by fits;</l>
+            <l xml:id="swift-136-06E2-line-45" n="45">And ever and anon with frightful din</l>
+            <l xml:id="swift-136-06E2-line-46" n="46">The leather sounds; he trembles from within.</l>
+            <l xml:id="swift-136-06E2-line-47" n="47">So when Troy chairmen bore the wooden steed,</l>
+            <l xml:id="swift-136-06E2-line-48" n="48">Pregnant with Greeks impatient to be freed,</l>
+            <l xml:id="swift-136-06E2-line-49" n="49">(Those bully Greeks, who, as the moderns do,</l>
+            <l xml:id="swift-136-06E2-line-50" n="50">Instead of paying chairmen, run them through),</l>
+            <l xml:id="swift-136-06E2-line-51" n="51">Laocoon struck the outside with his spear,</l>
+            <l xml:id="swift-136-06E2-line-52" n="52">And each imprison'd hero quak'd for fear.</l>
+            <l rend="indent(1)" xml:id="swift-136-06E2-line-53" n="53">Now from all parts the swelling kennels flow,</l>
+            <l xml:id="swift-136-06E2-line-54" n="54">And bear their trophies with them as they go:</l>
+            <l xml:id="swift-136-06E2-line-55" n="55">Filths of all hues and odours seem to tell</l>
+            <l xml:id="swift-136-06E2-line-56" n="56">What street they sail'd from by their sight and smell.</l>
+            <l xml:id="swift-136-06E2-line-57" n="57">They, as each torrent drives, with rapid force,</l>
+            <l xml:id="swift-136-06E2-line-58" n="58">From Smithfield or St 'Pulchre's shape their course,</l>
+            <l xml:id="swift-136-06E2-line-59" n="59">And in huge confluence join'd at Snowhill ridge,</l>
+            <l xml:id="swift-136-06E2-line-60" n="60">Fall from the <hi rend="italics">conduit</hi> prone to Holborn bridge.</l>
+            <l xml:id="swift-136-06E2-line-61" n="61"><note place="foot">·These three last lines were intended to ridicule the practice of modern poets, who make three lines rhyme together, which they call <hi rend="italics">triplets</hi>; and the last line two or more syllables longer than the rest, which they call an <hi rend="italics">alexandrine</hi>. These triplets and alexandrines were brought in by Dryden and other poets in the reign of Charles II. They were merely the effects of haste, idleness, and want of money; and have been wholly avoided by the best poets since these verses were written.</note> Sweepings from butchers stalls, dung, guts and blood, 3}</l>
+            <l xml:id="swift-136-06E2-line-62" n="62">Drown'd puppies, stinking sprats, all drench'd in mud,</l>
+            <l xml:id="swift-136-06E2-line-63" n="63">Dead cats, and turnip-tops, come tumbling down the flood.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

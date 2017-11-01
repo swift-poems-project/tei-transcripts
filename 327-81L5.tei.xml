@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VII.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 26JE98"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="327-81L5">
+          <head type="note" n="1" xml:id="spp-327-81L5-headnote-1">
+            <lg n="1" xml:id="spp-327-81L5-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-327-81L5-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-327-81L5-headnote-2">
+            <lg n="1" xml:id="spp-327-81L5-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-327-81L5-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-327-81L5-headnote-3">
+            <lg n="1" xml:id="spp-327-81L5-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-327-81L5-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-327-81L5-line-1" n="1"><hi rend="display-initial">G</hi>RAVE Peter was often in company told,</l>
+            <l xml:id="swift-327-81L5-line-2" n="2">That his wife was an ignorant fool and a scold;</l>
+            <l xml:id="swift-327-81L5-line-3" n="3">Her part Peter took, for 'twas taking his own;</l>
+            <l xml:id="swift-327-81L5-line-4" n="4">His choice was arraign'd, and his choice was well known:</l>
+            <l xml:id="swift-327-81L5-line-5" n="5">He quarrell'd with all that durst speak of his state;</l>
+            <l xml:id="swift-327-81L5-line-6" n="6">Tho' well it was known his wife cudgell'd his pate:</l>
+            <l xml:id="swift-327-81L5-line-7" n="7">om.</l>
+            <l xml:id="swift-327-81L5-line-8" n="8">om.</l>
+            <l xml:id="swift-327-81L5-line-9" n="9">Yet three duels he fought── thrice he ventur'd his life,</l>
+            <l xml:id="swift-327-81L5-line-10" n="10">Went home, and── <hi rend="italics">was cudgell'd again by his wife</hi>.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Mr. ARBUCKLE.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 10JL01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="M120W537">
+          <head type="note" n="1" xml:id="spp-M120W537-headnote-1">
+            <lg n="1" xml:id="spp-M120W537-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M120W537-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-M120W537-headnote-2">
+            <lg n="1" xml:id="spp-M120W537-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M120W537-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-M120W537-headnote-3">
+            <lg n="1" xml:id="spp-M120W537-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-M120W537-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-M120W537-line-1" n="1">SIR,<lb/><hi rend="display-initial">F</hi>Inding your Noddle Exhausted and Muddy,</l>
+            <l xml:id="swift-M120W537-line-2" n="2">And but little humour the Fruit of much Studdy,</l>
+            <l xml:id="swift-M120W537-line-3" n="3">I've sent you thro' meer Compassion and Pitty</l>
+            <l xml:id="swift-M120W537-line-4" n="4">To fill up your Paper this Comical Ditty;</l>
+            <l xml:id="swift-M120W537-line-5" n="5">But pray when it falls within your Dominion,</l>
+            <l xml:id="swift-M120W537-line-6" n="6">Don't damn it, e're others shall give their Opinion;</l>
+            <l xml:id="swift-M120W537-line-7" n="7">Then shall I be satisfy'd if they should burn all,</l>
+            <l xml:id="swift-M120W537-line-8" n="8">My dull Compositions, along with your Journal.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-673B65D1-title-1">AN<lb/>  ANSWER,<lb/>  TO A CERTAIN<lb/>  DOCTOR's COMPLAINT. <ref target="#spp-673B65D1-footnote-title-1">1</ref><note n="1" xml:id="spp-673B65D1-footnote-title-1" place="foot">This Poem is printed in Vol. IV. Part I. Page 318, but without the Answers</note></title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SNichols 7AU15"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-673B65D1-footnote-title-1 #spp-673B65D1-title-1"/>
+        </linkGrp>
+        <div n="673B65D1">
+          <head type="note" n="1" xml:id="spp-673B65D1-headnote-1">
+            <lg n="1" xml:id="spp-673B65D1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673B65D1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-673B65D1-headnote-2">
+            <lg n="1" xml:id="spp-673B65D1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673B65D1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-673B65D1-headnote-3">
+            <lg n="1" xml:id="spp-673B65D1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673B65D1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="center" xml:id="swift-673B65D1-line-1" n="1">DOCTOR.<lb/><hi rend="display-initial-italic">D<hi rend="italics">EAF, giddy, helpless, left alone</hi>;</hi></l>
+            <l rend="center" xml:id="swift-673B65D1-line-2" n="2"><lb/>ANSWER:_Except the first, the Fault's your own.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-3" n="3"><lb/>DOCTOR._<hi rend="italics">To all my Friends a Burthen grown</hi>.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-4" n="4"><lb/>ANSWER._Because to Few you will be shown.</l>
+            <l xml:id="swift-673B65D1-line-5" n="5">Give them good Wine, and Meat to stuff,</l>
+            <l xml:id="swift-673B65D1-line-6" n="6">You may have Company enough.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-7" n="7"><lb/>DOCTOR._<hi rend="italics">No more I hear my Church's Bell</hi>,</l>
+            <l xml:id="swift-673B65D1-line-8" n="8"><hi rend="italics">Than if it rang out for my Knell</hi>.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-9" n="9"><lb/>ANSWER._Then write and read, 'twill do as well.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-10" n="10"><lb/>DOCTOR._<hi rend="italics">At Thunder now, no more I start</hi>,</l>
+            <l xml:id="swift-673B65D1-line-11" n="11"><hi rend="italics">Than at the rumbling of a Cart</hi>.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-12" n="12"><lb/>ANSWER._Then think of Thunder when you f──t.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-13" n="13"><lb/>DOCTOR._<hi rend="italics">And what's incredible, alack!</hi></l>
+            <l xml:id="swift-673B65D1-line-14" n="14"><hi rend="italics">No more I hear a Woman's Clack</hi>.</l>
+            <l rend="center" xml:id="swift-673B65D1-line-15" n="15"><lb/>ANSWER._A Woman's Clack, if I have Skill,</l>
+            <l xml:id="swift-673B65D1-line-16" n="16">Sounds somewhat like a Throwster's Mill;</l>
+            <l xml:id="swift-673B65D1-line-17" n="17">But louder than a Bell, or Thunder:</l>
+            <l xml:id="swift-673B65D1-line-18" n="18">That does, I own, encrease my Wonder.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

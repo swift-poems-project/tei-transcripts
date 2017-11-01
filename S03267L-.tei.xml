@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>PALINODIA.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EBurnor 12JE12"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="S03267L-">
+          <head type="note" n="1" xml:id="spp-S03267L--headnote-1">
+            <lg n="1" xml:id="spp-S03267L--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S03267L--headnote-1-line-group-1-line-1">H<hi rend="small-caps">OR</hi>. Od. xvi. lib. 1.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-S03267L--headnote-2">
+            <lg n="1" xml:id="spp-S03267L--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S03267L--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-S03267L--headnote-3">
+            <lg n="1" xml:id="spp-S03267L--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-S03267L--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-S03267L--line-1" n="1"><hi rend="display-initial">G</hi>REAT Sir, than <hi rend="italics">Phœbus</hi> more divine,</l>
+            <l xml:id="swift-S03267L--line-2" n="2">Whose verses far his rays out-shine;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-3" n="3">Look down upon your quondam foe,</l>
+            <l xml:id="swift-S03267L--line-4" n="4">Oh! let me never write again,</l>
+            <l xml:id="swift-S03267L--line-5" n="5">If e'er I disoblige you, Dean,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-6" n="6">Should you compassion shew.</l>
+            <l xml:id="swift-S03267L--line-7" n="7"><lb/>Take those Iambicks which I wrote,</l>
+            <l xml:id="swift-S03267L--line-8" n="8">When anger made me piping hot,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-9" n="9">And give them to your cook,</l>
+            <l xml:id="swift-S03267L--line-10" n="10">To singe your fowl, or save your paste,</l>
+            <l xml:id="swift-S03267L--line-11" n="11">The next time when you have a feast;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-12" n="12">They'll save you many a book.</l>
+            <l xml:id="swift-S03267L--line-13" n="13"><lb/>To burn them you are not content,</l>
+            <l xml:id="swift-S03267L--line-14" n="14">I give you then my free consent,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-15" n="15">To sink them in the harbour;</l>
+            <l xml:id="swift-S03267L--line-16" n="16">If not, they'll serve to set off blocks,</l>
+            <l xml:id="swift-S03267L--line-17" n="17">To roul on pipes, and twist in locks;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-18" n="18">So give them to your barber.</l>
+            <l xml:id="swift-S03267L--line-19" n="19"><lb/>Or, when you next your physick take,</l>
+            <l xml:id="swift-S03267L--line-20" n="20">I must entreat you then to make</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-21" n="21">A proper application:</l>
+            <l xml:id="swift-S03267L--line-22" n="22">'Tis what I've done myself before,</l>
+            <l xml:id="swift-S03267L--line-23" n="23">With <hi rend="italics">Dan</hi>'s fine thoughts, and many more,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-24" n="24">Who gave me provocation.</l>
+            <l xml:id="swift-S03267L--line-25" n="25"><lb/>What cannot mighty anger do?</l>
+            <l xml:id="swift-S03267L--line-26" n="26">It makes the weak the strong pursue,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-27" n="27">A goose attack a swan;</l>
+            <l xml:id="swift-S03267L--line-28" n="28">It makes a woman, tooth and nail,</l>
+            <l xml:id="swift-S03267L--line-29" n="29">Her husband's hands and face assail,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-30" n="30">While he's no longer man.</l>
+            <l xml:id="swift-S03267L--line-31" n="31"><lb/>Tho' some we find are more discreet,</l>
+            <l xml:id="swift-S03267L--line-32" n="32">Before the world are wond'rous sweet,</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-33" n="33">And let their husbands hector:</l>
+            <l xml:id="swift-S03267L--line-34" n="34">But, when the world's asleep, they wake,</l>
+            <l xml:id="swift-S03267L--line-35" n="35">That is the time they chuse to speak;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-36" n="36">Witness the curtain lecture.</l>
+            <l xml:id="swift-S03267L--line-37" n="37"><lb/>Such was the case with you, I find,</l>
+            <l xml:id="swift-S03267L--line-38" n="38">All day you could conceal your mind;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-39" n="39">But when St. <hi rend="italics">Patrick</hi>'s chymes</l>
+            <l xml:id="swift-S03267L--line-40" n="40">Awak'd your Muse (my midnight curse,</l>
+            <l xml:id="swift-S03267L--line-41" n="41">When I engag'd for better for worse)</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-42" n="42">You scolded with your rhymes.</l>
+            <l xml:id="swift-S03267L--line-43" n="43"><lb/>Have done, have done, I quit the field,</l>
+            <l xml:id="swift-S03267L--line-44" n="44">To you, as to my wife, I yield;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-45" n="45">As she must wear the breeches,</l>
+            <l xml:id="swift-S03267L--line-46" n="46">So shall you wear the laurel crown,</l>
+            <l xml:id="swift-S03267L--line-47" n="47">Win it, and wear it, 'tis your own;</l>
+            <l rend="indent(1)" xml:id="swift-S03267L--line-48" n="48">The poet's only riches.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

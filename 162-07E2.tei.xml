@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="spp-162-07E2-title-1">T<hi rend="small-caps">OLAND</hi>'s invitation to D<hi rend="small-caps">ISMAL</hi>, to dine<lb/>  with the C<hi rend="small-caps">ALVES-HEAD </hi>C<hi rend="small-caps">LUB</hi> <ref target="#spp-162-07E2-footnote-title-1">1</ref><note n="1" xml:id="spp-162-07E2-footnote-title-1" place="foot">The members of the Calves-head club were about sixteen of the greatest men in England. They dined once a-week at each others houses, or at taverns, if more convenient, by rotation. Swift wrote this invitation in December 1711, occasioned by his friend the Lord Treasurer Oxford's hinting to him one evening, that he wished a ballad were made on the Earl of * * *. The ballad, which, according to Swift's observation, is two degrees above Grubstreet, was written and sent to the press the next morning; and when it was brought by the printer to that famous and grand society, whereof Swift was a member, and read by one of the company, it made them all laugh a dozen times; as we are told in a letter from Swift to Stella. It has abundance of wit and humour, strangely adapted to the proceedings and outrage of the Whigs at that particular juncture; and will gratify the men of taste and spirit, who are all of them admirers of the Doctor. <hi rend="italics">Swift</hi></note>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="EWyble 22JE01"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="#spp-162-07E2-footnote-title-1 #spp-162-07E2-title-1"/>
+        </linkGrp>
+        <div n="162-07E2">
+          <head type="note" n="1" xml:id="spp-162-07E2-headnote-1">
+            <lg n="1" xml:id="spp-162-07E2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-07E2-headnote-1-line-group-1-line-1">Imitated from H<hi rend="small-caps">ORACE</hi>, epist. 5. lib. 1.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-162-07E2-headnote-2">
+            <lg n="1" xml:id="spp-162-07E2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-07E2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-162-07E2-headnote-3">
+            <lg n="1" xml:id="spp-162-07E2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-162-07E2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l xml:id="swift-162-07E2-line-1" n="1"><hi rend="display-initial">I</hi>F dearest Dismal, you for once can dine</l><l xml:id="swift-162-07E2-line-2" n="2">Upon a single dish, and tavern-wine,</l><l xml:id="swift-162-07E2-line-3" n="3">T──l──nd to you this invitation sends,</l><l xml:id="swift-162-07E2-line-4" n="4">To eat the calves head with your trusty friends.</l><l xml:id="swift-162-07E2-line-5" n="5">Suspend a while your vain ambitious hopes,</l><l xml:id="swift-162-07E2-line-6" n="6">Leave hunting after bribes, forget your tropes.</l><l xml:id="swift-162-07E2-line-7" n="7">To-morrow we our <hi rend="italics">mystic feast</hi> prepare,</l><l xml:id="swift-162-07E2-line-8" n="8">Where thou, our latest <hi rend="italics">proselyte</hi>, shalt share:</l><l xml:id="swift-162-07E2-line-9" n="9">When we, by proper signs and symbols, tell,</l><l xml:id="swift-162-07E2-line-10" n="10">How, by <hi rend="italics">brave hands</hi>, the <hi rend="italics">royal traitor</hi> fell;</l><l xml:id="swift-162-07E2-line-11" n="11">The meat shall represent the <hi rend="italics">tyrant</hi>'s head,</l><l xml:id="swift-162-07E2-line-12" n="12">The wine, his blood, <hi rend="italics">our predecessors</hi> shed;</l><l xml:id="swift-162-07E2-line-13" n="13">Whilst an <hi rend="italics">alluding</hi> hymn some artist sings,</l><l xml:id="swift-162-07E2-line-14" n="14">We toast confusion to the race of kings:</l><l xml:id="swift-162-07E2-line-15" n="15">At monarchy we nobly shew our spight,</l><l xml:id="swift-162-07E2-line-16" n="16">And talk <hi rend="italics">what fools call treason</hi> all the night.</l><l rend="indent(1)" xml:id="swift-162-07E2-line-17" n="17">Who, by disgraces or ill fortune sunk,</l><l xml:id="swift-162-07E2-line-18" n="18">Feels not his soul enliven'd when he's drunk?</l><l xml:id="swift-162-07E2-line-19" n="19">Wine can clear up G──d──lp──n's cloudy face,</l><l xml:id="swift-162-07E2-line-20" n="20">And fill J──ck Sm──th with hopes to keep his place;</l><l xml:id="swift-162-07E2-line-21" n="21">By force of wine ev'n Sc──rb──r──gh is brave,</l><l xml:id="swift-162-07E2-line-22" n="22">Hal grows more pert, and S──mm──rs not so grave:</l><l xml:id="swift-162-07E2-line-23" n="23">Wine can give P──rt──d wit, and Cl──v──nd sense,</l><l xml:id="swift-162-07E2-line-24" n="24">M──t──g──e learning, B──lt──n eloquence:</l><l xml:id="swift-162-07E2-line-25" n="25">Ch──ly, when drunk, can never lose his wand,</l><l xml:id="swift-162-07E2-line-26" n="26">And L──nc──n then imagines he has land.</l><l rend="indent(1)" xml:id="swift-162-07E2-line-27" n="27">My province is, to see that all be right,</l><l xml:id="swift-162-07E2-line-28" n="28">Glasses and linen clean, and pewter bright;</l><l xml:id="swift-162-07E2-line-29" n="29">From our <hi rend="italics">mysterious club</hi> to keep out spies,</l><l xml:id="swift-162-07E2-line-30" n="30">And Tories (dress'd like waiters) in disguise.</l><l xml:id="swift-162-07E2-line-31" n="31">You shall be coupled as you best approve,</l><l xml:id="swift-162-07E2-line-32" n="32">Seated at table next the men you love.</l><l xml:id="swift-162-07E2-line-33" n="33">S──nd──nd, Or──rd, B──le, and R──ch──d's Grace</l><l xml:id="swift-162-07E2-line-34" n="34">Will come; and H──mp──n shall have W──p──le's place.</l><l xml:id="swift-162-07E2-line-35" n="35">W──rt──n, unless prevented by a whore,</l><l xml:id="swift-162-07E2-line-36" n="36">Will hardly fail, and there is room for more;</l><l xml:id="swift-162-07E2-line-37" n="37">But I love elbow-room whene'er I drink,</l><l xml:id="swift-162-07E2-line-38" n="38">And honest Harry is too apt to st──k.</l><l rend="indent(1)" xml:id="swift-162-07E2-line-39" n="39">Let no pretence of bus'ness make you stay;</l><l xml:id="swift-162-07E2-line-40" n="40">Yet take one word of counsel by the way.</l><l xml:id="swift-162-07E2-line-41" n="41">If Gu──rn──y call, send word you're gone abroad,</l><l xml:id="swift-162-07E2-line-42" n="42">He'll tease you with King Charles, and Bishop Laud,</l><l xml:id="swift-162-07E2-line-43" n="43">Or make you fast, and carry you to pray'rs:</l><l xml:id="swift-162-07E2-line-44" n="44">But if he will break in, and walk up stairs,</l><l xml:id="swift-162-07E2-line-45" n="45">Steal by the back-door out, and leave him there;</l><l xml:id="swift-162-07E2-line-46" n="46">Then order Squash to call a hackney-chair.</l><l xml:id="swift-162-07E2-line-47" n="47">\NOTES\</l><l rend="indent(1)" xml:id="swift-162-07E2-line-48" n="48"><lb/><hi rend="italics">Si potes archaicis conviva recumbere lectis,</hi></l><l xml:id="swift-162-07E2-line-49" n="49">Nec modica cœnare times olus omne patella;</l><l xml:id="swift-162-07E2-line-50" n="50">Supremo te sole domi, Torquate, manebo.</l><l xml:id="swift-162-07E2-line-51" n="51">*···*···*···*···*···*···*···*···*···*···*···*···*<lb/>Mitte leves spes, et certamina divitiarum,</l><l xml:id="swift-162-07E2-line-52" n="52">Et Moschi causam. Cras nato Cæsare festus</l><l xml:id="swift-162-07E2-line-53" n="53">Dat veniam somnunque dies: impune licebit</l><l xml:id="swift-162-07E2-line-54" n="54">Æstivam sermone benigno tendere noctem.</l><l xml:id="swift-162-07E2-line-55" n="55">*···*···*···*···*···*···*···*···*···*···*··*···*<lb/>Quid non ebrietas designat? Operta recludit;</l><l xml:id="swift-162-07E2-line-56" n="56">Spes jubet esse ratas; in prælia trudit inermem:</l><l xml:id="swift-162-07E2-line-57" n="57">Sollicitis animis onus eximit; addocet artes.</l><l xml:id="swift-162-07E2-line-58" n="58">Fœcundi calices quem non fecere disertum?</l><l xml:id="swift-162-07E2-line-59" n="59">Contracta quem non in paupertate solutum?</l><l xml:id="swift-162-07E2-line-60" n="60">Hæc ego procurare et idoneus imperor, et non</l><l xml:id="swift-162-07E2-line-61" n="61">Invitus; ne turpe toral, ne sordida mappa</l><l xml:id="swift-162-07E2-line-62" n="62">Corruget nares, ne non et cantharus, et lanx,</l><l xml:id="swift-162-07E2-line-63" n="63">Ostendat tibi te; ne fidos inter amicos</l><l xml:id="swift-162-07E2-line-64" n="64">Sit, qui dicta foras eliminet: ut coeat par,</l><l xml:id="swift-162-07E2-line-65" n="65">Jungaturque pari. Brutum tibi, Septimiumque,</l><l xml:id="swift-162-07E2-line-66" n="66">Et, nisi cœna prior, potiorque puella Sabinum</l><l xml:id="swift-162-07E2-line-67" n="67">Detinet, assumam; locus est et pluribus umbris:</l><l xml:id="swift-162-07E2-line-68" n="68">Sed nimis arcta premunt olidæ convivia capræ.</l><l xml:id="swift-162-07E2-line-69" n="69">Tu, quotus esse velis, rescribe; et, rebus omissis,</l><l xml:id="swift-162-07E2-line-70" n="70">Tu, quotus esse velis, rescribe; et, rebus omissis,Atria servantem postico falle clientem</l>.</lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

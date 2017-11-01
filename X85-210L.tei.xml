@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Tale of a Nettle</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 17JA03"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X85-210L">
+          <head type="note" n="1" xml:id="spp-X85-210L-headnote-1">
+            <lg n="1" xml:id="spp-X85-210L-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X85-210L-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X85-210L-headnote-2">
+            <lg n="1" xml:id="spp-X85-210L-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X85-210L-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X85-210L-headnote-3">
+            <lg n="1" xml:id="spp-X85-210L-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X85-210L-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-X85-210L-line-1" n="1">A man with expence and Infinite Toyll,</l>
+            <l xml:id="swift-X85-210L-line-2" n="2">By planting and Dunging enobled his Soyle,</l>
+            <l xml:id="swift-X85-210L-line-3" n="3">There fruits of y<hi rend="superscript">e</hi> best y<hi rend="superscript">e</hi> tast did invite</l>
+            <l xml:id="swift-X85-210L-line-4" n="4">And uniform order still courted the sight</l>
+            <l xml:id="swift-X85-210L-line-5" n="5">No degenerate weed this rich ground did produce</l>
+            <l xml:id="swift-X85-210L-line-6" n="6">But all things produc'd both beauty and use</l>
+            <l xml:id="swift-X85-210L-line-7" n="7">T'ill from Dunghill transplanted while yet but a Seed</l>
+            <l xml:id="swift-X85-210L-line-8" n="8">A Nettle rear'd up his inglorious head</l>
+            <l rend="indent(1)" xml:id="swift-X85-210L-line-9" n="9"><lb/>The Gardiner wou'd wisely rooted him up</l>
+            <l xml:id="swift-X85-210L-line-10" n="10">To stop y<hi rend="superscript">e</hi> increase of a Barbarous cropp</l>
+            <l xml:id="swift-X85-210L-line-11" n="11">But y<hi rend="superscript">e</hi> master forbad him── and after y<hi rend="superscript">e</hi> fashion</l>
+            <l xml:id="swift-X85-210L-line-12" n="12">Of foolish good name and mild Moderation</l>
+            <l xml:id="swift-X85-210L-line-13" n="13">Forbore him through pity, and chose as much rather</l>
+            <l xml:id="swift-X85-210L-line-14" n="14">To ask him some questions first; how he came thither</l>
+            <l rend="indent(1)" xml:id="swift-X85-210L-line-15" n="15"><lb/>Kind S<hi rend="superscript">r</hi> quoth y<hi rend="superscript">e</hi> Nettle a Stranger I come</l>
+            <l xml:id="swift-X85-210L-line-16" n="16">om.</l>
+            <l xml:id="swift-X85-210L-line-17" n="17">Cause I would not subscribe to a mistery dark</l>
+            <l xml:id="swift-X85-210L-line-18" n="18">That the Prince of all Trees was y<hi rend="superscript">e</hi> Iesuits Bark</l>
+            <l xml:id="swift-X85-210L-line-19" n="19">An Erroneous Tenet; I know S<hi rend="superscript">r</hi> that you</l>
+            <l xml:id="swift-X85-210L-line-20" n="20">No more then myself will allow to be true</l>
+            <l xml:id="swift-X85-210L-line-21" n="21">To you I for refuge &amp; Sanctuary sue</l>
+            <l xml:id="swift-X85-210L-line-22" n="22">There's none so renowned for Compassion as you</l>
+            <l xml:id="swift-X85-210L-line-23" n="23">And thô in somethings I may differ from these</l>
+            <l xml:id="swift-X85-210L-line-24" n="24">The rest of you Faithfull &amp; beautifull Trees</l>
+            <l xml:id="swift-X85-210L-line-25" n="25">Though yo<hi rend="superscript">r</hi> Digging my Nature much harms</l>
+            <l xml:id="swift-X85-210L-line-26" n="26">And I Can not Comply w<hi rend="superscript">th</hi> your Gardiner in Formes</l>
+            <l xml:id="swift-X85-210L-line-27" n="27">Yet I and my family after one fashion</l>
+            <l xml:id="swift-X85-210L-line-28" n="28">Will peacably stick to our own Education</l>
+            <l xml:id="swift-X85-210L-line-29" n="29">Be pleas'd to allow us a place for to rest in</l>
+            <l xml:id="swift-X85-210L-line-30" n="30">For y<hi rend="superscript">e</hi> rest of your trees we'll never molest e'm</l>
+            <l xml:id="swift-X85-210L-line-31" n="31">A kind shelter to us and protection afford</l>
+            <l xml:id="swift-X85-210L-line-32" n="32">we'l do you no harme S<hi rend="superscript">r</hi> Il'e give you my word</l>
+            <l rend="indent(1)" xml:id="swift-X85-210L-line-33" n="33"><lb/>The good man was soon won w<hi rend="superscript">th</hi> this plausible Tale</l>
+            <l xml:id="swift-X85-210L-line-34" n="34">So fraud and good nature do'es often prevaile</l>
+            <l xml:id="swift-X85-210L-line-35" n="35">He welcomes his Guest gives him free Toleration</l>
+            <l xml:id="swift-X85-210L-line-36" n="36">In the midst of his Garden to take up his Station,</l>
+            <l xml:id="swift-X85-210L-line-37" n="37">And into his bosom do'es his Enemy bring</l>
+            <l xml:id="swift-X85-210L-line-38" n="38">He never Suspected the Nettle coul'd Sting</l>
+            <l xml:id="swift-X85-210L-line-39" n="39">Till flush'd with Success, of Strength to be fear'd</l>
+            <l xml:id="swift-X85-210L-line-40" n="40">Around him a numerous offspring he rear'd</l>
+            <l xml:id="swift-X85-210L-line-41" n="41"><lb/>Then y<hi rend="superscript">e</hi> master grew sensible what he had done,</l>
+            <l xml:id="swift-X85-210L-line-42" n="42">and faine wou'd have had his new Guest to be gone</l>
+            <l xml:id="swift-X85-210L-line-43" n="43">But now t'was to late to bid him turn out.</l>
+            <l xml:id="swift-X85-210L-line-44" n="44">A well rooted possession already was got.</l>
+            <l xml:id="swift-X85-210L-line-45" n="45">The old Trees decay'd &amp; in their room Grew</l>
+            <l xml:id="swift-X85-210L-line-46" n="46">A stubborn wrank pestilent poisonous crew.</l>
+            <l rend="indent(1)" xml:id="swift-X85-210L-line-47" n="47"><lb/>The master who first y<hi rend="superscript">e</hi> young brood had admitted</l>
+            <l xml:id="swift-X85-210L-line-48" n="48">They stung like Ingrates &amp; left him unpitty'd</l>
+            <l xml:id="swift-X85-210L-line-49" n="49">No help from Manuring or Planting was found</l>
+            <l xml:id="swift-X85-210L-line-50" n="50">The weeds had eat out the heart of y<hi rend="superscript">e</hi> Grownd</l>
+            <l xml:id="swift-X85-210L-line-51" n="51">om.</l>
+            <l xml:id="swift-X85-210L-line-52" n="52">om.</l>
+            <l xml:id="swift-X85-210L-line-53" n="53">Thus one Nettle Uncrop't increas'd to Such Store</l>
+            <l xml:id="swift-X85-210L-line-54" n="54">That was nothing but weeds what was Garden before</l>
+            <l xml:id="swift-X85-210L-line-55" n="55">om.</l>
+            <l xml:id="swift-X85-210L-line-56" n="56">om.</l>
+            <l xml:id="swift-X85-210L-line-57" n="57">om.</l>
+            <l xml:id="swift-X85-210L-line-58" n="58">om.</l>
+            <l xml:id="swift-X85-210L-line-59" n="59">om.</l>
+            <l xml:id="swift-X85-210L-line-60" n="60">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

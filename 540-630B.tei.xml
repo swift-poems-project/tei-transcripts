@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 16MR05"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-630B">
+          <head type="note" n="1" xml:id="spp-540-630B-headnote-1">
+            <lg n="1" xml:id="spp-540-630B-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-630B-headnote-1-line-group-1-line-1">\<hi rend="italics">1731</hi>\ I am half dead to Day with a Headach, the Consequence of dancing, supping, &amp; sitting up last Night at the D. of Newcastles; &amp; supose I shall from the Prince's Ball to night, be carry'd off in a Herse. the Entertainment last Night was the most magnificent, the easyest, the best understood &amp; the best order'd Thing I ever saw in my Life. the Duke of Lorrain is as great a Romp as you or me. I write this from the Council-Board, &amp; hear so much of the Indies, Plantations, Ships Troops &amp;c──that I am quite confounded in what I write however I must try to recollect a French Epigram I heard last night repeated on the Cardinal Fleuri, the bitterest the cleannest &amp; the strongest Satyr I ever saw in my Life.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-630B-headnote-2">
+            <lg n="1" xml:id="spp-540-630B-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-630B-headnote-2-line-group-1-line-1">\<hi rend="italics">1732</hi>\ I have sent you inclosed a Paraphrastical Translation of the Epigram on Card<hi rend="superscript">ll</hi> 08 08──  Fleury; a bad Imitation &amp; a very unjust Application of a very good Original. L<hi rend="superscript">d</hi> 08- &amp; Lady Albemarle are to dine here &amp; it is near three a Clock &amp; I in my Nightgown therefore I must bid you Adieu, when you say so to Redlynch I shall be happy. the Town is as empty as at Midsummer, which can be no great Inducement to any Body to visit it I own.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-630B-headnote-3">
+            <lg n="1" xml:id="spp-540-630B-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-630B-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-630B-line-1" n="1">\<hi rend="italics">1731·lines</hi>\Confondant du Passè le leger souvenir,</l>
+            <l xml:id="swift-540-630B-line-2" n="2">Ebloui du Present, sans percer l'Avenir;</l>
+            <l xml:id="swift-540-630B-line-3" n="3">Dans l'·Art de gouvener, decrepit &amp; Novice</l>
+            <l xml:id="swift-540-630B-line-4" n="4">Punissant la Vertu, recompensant le Vice:</l>
+            <l xml:id="swift-540-630B-line-5" n="5">Malgrè sa tète altiere, accablè de son Rang,</l>
+            <l xml:id="swift-540-630B-line-6" n="6">Fourbe dans le Petit, &amp; Dupe dans le Grand:</l>
+            <l xml:id="swift-540-630B-line-7" n="7">On connoit dans ces Traits, sans meme gu'on le nomme</l>
+            <l xml:id="swift-540-630B-line-8" n="8">Le Maitre de la France, &amp; le Valet de Rome.</l>
+            <l xml:id="swift-540-630B-line-9" n="9">om.</l>
+            <l xml:id="swift-540-630B-line-10" n="10">om.</l>
+            <l xml:id="swift-540-630B-line-11" n="11">\<hi rend="italics">1732·lines</hi>\Of Favour &amp; Fortune unmerited, vain,</l>
+            <l xml:id="swift-540-630B-line-12" n="12">A Sharper in Trifles, a Dupe in the Main;</l>
+            <l xml:id="swift-540-630B-line-13" n="13">Atchieving of Nothing, still promissing Wonders,</l>
+            <l xml:id="swift-540-630B-line-14" n="14">By Dint of Experience improving in Blunders:</l>
+            <l xml:id="swift-540-630B-line-15" n="15">Opressing true Merit, exalting the Base,</l>
+            <l xml:id="swift-540-630B-line-16" n="16">And selling his Country, to purchase a Peace.</l>
+            <l xml:id="swift-540-630B-line-17" n="17">A Iobber of Stock by relating false News,</l>
+            <l xml:id="swift-540-630B-line-18" n="18">A Prater at Court, in the Style of the Stews.</l>
+            <l xml:id="swift-540-630B-line-19" n="19">Of Virtue &amp; Worth by Profession a Giber,</l>
+            <l xml:id="swift-540-630B-line-20" n="20">Of Iuries &amp; Senates the Bully &amp; Briber.</l>
+            <l xml:id="swift-540-630B-line-21" n="21">Tho I name not the Wretch, you know who I mean,</l>
+            <l rend="center" xml:id="swift-540-630B-line-22" n="22">'Tis the Cur-Dog of Britain, &amp; the Spaniel of Spain.<lb/>(Don't give a Copy of this)</l>
+            <l xml:id="swift-540-630B-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

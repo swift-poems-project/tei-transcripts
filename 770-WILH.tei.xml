@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">HORACE</hi>.<lb/>  BOOK I. ODE XIV.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="770-WILH">
+          <head type="note" n="1" xml:id="spp-770-WILH-headnote-1">
+            <lg n="1" xml:id="spp-770-WILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-WILH-headnote-1-line-group-1-line-1"><hi rend="italics">O navis, referent</hi>, &amp;c.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-770-WILH-headnote-2">
+            <lg n="1" xml:id="spp-770-WILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-WILH-headnote-2-line-group-1-line-1">Paraphrased and inscribed to <hi rend="italics">Ir──d</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-770-WILH-headnote-3">
+            <lg n="1" xml:id="spp-770-WILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-770-WILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1"><l rend="indent(1)" xml:id="swift-770-WILH-line-1" n="1">The INSCRIPTION.<lb/><hi rend="italics">Poor floating Isle, tost on ill Fortune's Waves,</hi></l><l xml:id="swift-770-WILH-line-2" n="2"><hi rend="italics">Ordain'd by </hi>Fate<hi rend="italics"> to be the Land of Slaves:</hi></l><l xml:id="swift-770-WILH-line-3" n="3"><hi rend="italics">Shall moving </hi>Delos<hi rend="italics"> now deep-rooted stand,</hi></l><l rend="indent(1)" xml:id="swift-770-WILH-line-4" n="4">Thou, fixt of old, be now the moving Land?</l><l rend="indent(1)" xml:id="swift-770-WILH-line-5" n="5">Altho' the Metaphor be worn and stale</l><l rend="indent(1)" xml:id="swift-770-WILH-line-6" n="6">Betwixt a State, and Vessel under Sail;</l><l rend="indent(1)" xml:id="swift-770-WILH-line-7" n="7">Let me suppose thee for a Ship a-while,</l><l xml:id="swift-770-WILH-line-8" n="8">Let me suppose thee for a Ship a-while,And thus address thee in the Sailor Stile</l>.<l xml:id="swift-770-WILH-line-9" n="9"><lb/><hi rend="display-initial">U</hi>NHAPPY Ship, thou art return'd in Vain:</l><l xml:id="swift-770-WILH-line-10" n="10">New Waves shall drive thee to the Deep again.</l><l xml:id="swift-770-WILH-line-11" n="11">Look to thy Self, and be no more the Sport</l><l xml:id="swift-770-WILH-line-12" n="12">Of giddy Winds, but make some friendly Port.</l><l xml:id="swift-770-WILH-line-13" n="13">Lost are thy Oars that us'd thy Course to guide,</l><l xml:id="swift-770-WILH-line-14" n="14">Like faithful Counsellors on either Side.</l><l xml:id="swift-770-WILH-line-15" n="15">Thy Mast, which like some aged Patriot stood</l><l xml:id="swift-770-WILH-line-16" n="16">The single Pillar for his Country's Good,</l><l xml:id="swift-770-WILH-line-17" n="17">To lead thee, as a Staff directs the Blind,</l><l xml:id="swift-770-WILH-line-18" n="18">Behold, it cracks by yon rough <hi rend="italics">Eastern</hi> Wind.</l><l xml:id="swift-770-WILH-line-19" n="19">Your Cable's burst, and you must quickly feel</l><l xml:id="swift-770-WILH-line-20" n="20">The Waves impetuous entring at your Keel.</l><l xml:id="swift-770-WILH-line-21" n="21">Thus, Commonwealths receive a foreign Yoke,</l><l xml:id="swift-770-WILH-line-22" n="22">When the strong Cords of Union once are Broke.</l><l xml:id="swift-770-WILH-line-23" n="23">Torn by a sudden Tempest is thy Sail,</l><l xml:id="swift-770-WILH-line-24" n="24">Expanded to invite a milder Gale.</l><l rend="indent(1)" xml:id="swift-770-WILH-line-25" n="25">As when some Writer in a public Cause,</l><l xml:id="swift-770-WILH-line-26" n="26">His Pen to save a sinking Nation draws,</l><l xml:id="swift-770-WILH-line-27" n="27">While all is Calm, his Arguments prevail,</l><l xml:id="swift-770-WILH-line-28" n="28">The People's Voice expand[s] his Paper Sail;</l><l xml:id="swift-770-WILH-line-29" n="29">'Till Pow'r, discharging all her stormy Bags,</l><l xml:id="swift-770-WILH-line-30" n="30">Flutters the feeble Pamphlet into Rags.</l><l xml:id="swift-770-WILH-line-31" n="31">The Nation scar'd, the Author doom'd to Death,</l><l xml:id="swift-770-WILH-line-32" n="32">Who fondly put his Trust in pop'lar Breath.</l><l rend="indent(1)" xml:id="swift-770-WILH-line-33" n="33"><lb/>A larger Sacrifice in Vain you vow;</l><l xml:id="swift-770-WILH-line-34" n="34">There's not a Pow'r above will help you now:</l><l xml:id="swift-770-WILH-line-35" n="35">A Nation thus, who oft Heav'ns Call neglects,</l><l xml:id="swift-770-WILH-line-36" n="36">In Vain from injur'd Heav'n Relief expects.</l><l xml:id="swift-770-WILH-line-37" n="37">'Twill not avail, when thy strong Sides are broke,</l><l xml:id="swift-770-WILH-line-38" n="38">That thy Descent is from the <hi rend="italics">British</hi> Oak:</l><l xml:id="swift-770-WILH-line-39" n="39">Or when your Name and Family you boast,</l><l xml:id="swift-770-WILH-line-40" n="40">From Fleets triumphant o'er the <hi rend="italics">Gallick</hi> Coast.</l><l xml:id="swift-770-WILH-line-41" n="41">Such was <hi rend="italics">Ierne</hi>'s Claim, as just as thine,</l><l xml:id="swift-770-WILH-line-42" n="42">Her Sons descended from the <hi rend="italics">British</hi> Line;</l><l xml:id="swift-770-WILH-line-43" n="43">Her matchless Sons; whose Valour still remains</l><l xml:id="swift-770-WILH-line-44" n="44">On <hi rend="italics">French</hi> Records for twenty long Campains;</l><l xml:id="swift-770-WILH-line-45" n="45">Yet from an Empress, now a Captive grown,</l><l xml:id="swift-770-WILH-line-46" n="46">She saved <hi rend="italics">Britannia</hi>'s Right, and lost her own.</l><l rend="indent(1)" xml:id="swift-770-WILH-line-47" n="47"><lb/>In Ships decay'd no Mariner confides,</l><l xml:id="swift-770-WILH-line-48" n="48">Lur'd by the gilded Stern, and painted Sides.</l><l xml:id="swift-770-WILH-line-49" n="49">So, at a Ball, unthinking Fools delight</l><l xml:id="swift-770-WILH-line-50" n="50">In the gay Trappings of a Birth-Day Night:</l><l xml:id="swift-770-WILH-line-51" n="51">They on the Gold Brocades and Satins rav'd,</l><l xml:id="swift-770-WILH-line-52" n="52">And quite forgot their Country was enslav'd.</l><l rend="indent(1)" xml:id="swift-770-WILH-line-53" n="53"><lb/>Dear Vessel, still be to thy Steerage just,</l><l xml:id="swift-770-WILH-line-54" n="54">Nor, change thy Course with ev'ry sudden Gust:</l><l xml:id="swift-770-WILH-line-55" n="55">Like supple Patriots of the modern Sort,</l><l xml:id="swift-770-WILH-line-56" n="56">Who turn with ev'ry Gale that blows from Court.</l><l rend="indent(1)" xml:id="swift-770-WILH-line-57" n="57"><lb/>Weary and Sea-sick when in thee confin'd,</l><l xml:id="swift-770-WILH-line-58" n="58">Now, for thy Safety Cares distract my Mind,</l><l xml:id="swift-770-WILH-line-59" n="59">As those who long have stood the Storms of State,</l><l xml:id="swift-770-WILH-line-60" n="60">Retire, yet still bemoan their Country's Fate.</l><l xml:id="swift-770-WILH-line-61" n="61">Beware, and when you hear the Surges roar,</l><l xml:id="swift-770-WILH-line-62" n="62">Avoid the Rocks on <hi rend="italics">Britain</hi>'s angry Shore:</l><l xml:id="swift-770-WILH-line-63" n="63">They lye, alas, too easy to be found,</l><l xml:id="swift-770-WILH-line-64" n="64">For thee alone they lye the Island round.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

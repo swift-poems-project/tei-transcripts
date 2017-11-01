@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>SIMILE</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JR 23JA97"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="393-27L7">
+          <head type="note" n="1" xml:id="spp-393-27L7-headnote-1">
+            <lg n="1" xml:id="spp-393-27L7-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-27L7-headnote-1-line-group-1-line-1">The inclosed <hi rend="italics">Simile</hi> I this instant received by the Post.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-393-27L7-headnote-2">
+            <lg n="1" xml:id="spp-393-27L7-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-27L7-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-393-27L7-headnote-3">
+            <lg n="1" xml:id="spp-393-27L7-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-393-27L7-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-393-27L7-line-1" n="1"><hi rend="display-initial">B</hi>Ehold these <hi rend="italics">Monarch</hi> O<hi rend="small-caps">AKS</hi>, that rise</l>
+            <l xml:id="swift-393-27L7-line-2" n="2">With lofty <hi rend="italics">Branches</hi> to the Skies,</l>
+            <l xml:id="swift-393-27L7-line-3" n="3">Have huge proportioned <hi rend="italics">Roots</hi>, that grow</l>
+            <l xml:id="swift-393-27L7-line-4" n="4">In equal <hi rend="italics">Longitude</hi> below:</l>
+            <l xml:id="swift-393-27L7-line-5" n="5">om.</l>
+            <l xml:id="swift-393-27L7-line-6" n="6">om.</l>
+            <l xml:id="swift-393-27L7-line-7" n="7"><hi rend="italics">Two</hi> B<hi rend="small-caps">ARDS</hi> that now in <hi rend="italics">Fashion</hi> reign,</l>
+            <l xml:id="swift-393-27L7-line-8" n="8">Most aptly this <hi rend="italics">Device</hi> explain;</l>
+            <l xml:id="swift-393-27L7-line-9" n="9">If <hi rend="italics">this</hi> on <hi rend="italics">Clouds</hi> and <hi rend="italics">Stars</hi> will venture,</l>
+            <l xml:id="swift-393-27L7-line-10" n="10"><hi rend="italics">That</hi> will creep downwards to the <hi rend="italics">Center</hi>.</l>
+            <l xml:id="swift-393-27L7-line-11" n="11">Or more to shew the Thing I mean,</l>
+            <l xml:id="swift-393-27L7-line-12" n="12">Have we not o'er a S<hi rend="small-caps">AWPIT</hi> seen</l>
+            <l xml:id="swift-393-27L7-line-13" n="13">A skill'd <hi rend="italics">Mechanick</hi>, that has stood</l>
+            <l xml:id="swift-393-27L7-line-14" n="14">On a strong Plank of stubborn Wood,</l>
+            <l xml:id="swift-393-27L7-line-15" n="15">Who hir'd a <hi rend="italics">subterraneous</hi> Friend</l>
+            <l xml:id="swift-393-27L7-line-16" n="16">To take his <hi rend="italics">Iron</hi> by the <hi rend="italics">End</hi>;</l>
+            <l xml:id="swift-393-27L7-line-17" n="17">Yet which <hi rend="italics">excell'd</hi>, was never found,</l>
+            <l xml:id="swift-393-27L7-line-18" n="18">The Man <hi rend="italics">above</hi> or <hi rend="italics">under</hi> Ground.</l>
+            <l xml:id="swift-393-27L7-line-19" n="19">This M<hi rend="small-caps">ORAL</hi> is so plain to hit,</l>
+            <l xml:id="swift-393-27L7-line-20" n="20">That, had I been the G<hi rend="small-caps">OD</hi> of <hi rend="italics">Wit</hi>,</l>
+            <l xml:id="swift-393-27L7-line-21" n="21">Then in a S<hi rend="small-caps">AWPIT</hi> and wet Weather</l>
+            <l xml:id="swift-393-27L7-line-22" n="22">Shou'd Y<hi rend="small-caps">OUNG</hi> and P<hi rend="small-caps">HILIPS</hi> work together.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

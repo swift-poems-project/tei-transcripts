@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>`When Mrs Welch's chimny smoks'</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 12JA10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 14JL13, 2AU16; EMENDED JW 6SE17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="419ACWJS">
+          <head type="note" n="1" xml:id="spp-419ACWJS-headnote-1">
+            <lg n="1" xml:id="spp-419ACWJS-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419ACWJS-headnote-1-line-group-1-line-1">My Room smoaks into the bargain, and the wther is too cold and moist to be without a fire. There is or should be a Proverbe here. When M<hi rend="superscript">rs</hi> Welch's Chimny smoks, Tis a Sign she'll keep her folks. But, when of smoak the room is clear, It is a sign we sha'nt stay here. All this is to divert thinking. Tell me, am not I in a comfortable way.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-419ACWJS-headnote-2">
+            <lg n="1" xml:id="spp-419ACWJS-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419ACWJS-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-419ACWJS-headnote-3">
+            <lg n="1" xml:id="spp-419ACWJS-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-419ACWJS-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-419ACWJS-line-1" n="1"/>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

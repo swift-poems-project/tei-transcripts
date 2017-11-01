@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A RIDDLE. By Dr. S<hi rend="small-caps">WIFT</hi> to my<lb/>  Lady C<hi rend="small-caps">ARTERET</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SRyder 18JL02"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="911-0871">
+          <head type="note" n="1" xml:id="spp-911-0871-headnote-1">
+            <lg n="1" xml:id="spp-911-0871-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-911-0871-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-911-0871-headnote-2">
+            <lg n="1" xml:id="spp-911-0871-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-911-0871-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-911-0871-headnote-3">
+            <lg n="1" xml:id="spp-911-0871-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-911-0871-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-911-0871-line-1" n="1"><hi rend="display-initial">F</hi>ROM <hi rend="italics">India</hi>'s burning Clime I'm brought,</l>
+            <l xml:id="swift-911-0871-line-2" n="2">With cooling Gales like Zephyrs fraught.</l>
+            <l xml:id="swift-911-0871-line-3" n="3">Not <hi rend="italics">Iris</hi> when she paints the Sky,</l>
+            <l xml:id="swift-911-0871-line-4" n="4">Can shew more different Hues than I;</l>
+            <l xml:id="swift-911-0871-line-5" n="5">Nor can she change her Form so fast,</l>
+            <l xml:id="swift-911-0871-line-6" n="6">I'm now a Sail, and now a Mast.</l>
+            <l xml:id="swift-911-0871-line-7" n="7">I here am red, and there am green,</l>
+            <l xml:id="swift-911-0871-line-8" n="8">A Beggar there, and here a Queen.</l>
+            <l xml:id="swift-911-0871-line-9" n="9">I sometimes live in House of Hair,</l>
+            <l xml:id="swift-911-0871-line-10" n="10">And oft in Hand of Lady fair.</l>
+            <l xml:id="swift-911-0871-line-11" n="11">I please the Young, I grace the Old,</l>
+            <l xml:id="swift-911-0871-line-12" n="12">And am at once both hot and cold.</l>
+            <l xml:id="swift-911-0871-line-13" n="13">Say what I am then, if you can,</l>
+            <l xml:id="swift-911-0871-line-14" n="14">And find the Rhime, and you're the Man.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

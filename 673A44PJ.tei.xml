@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="italics">A Rev. D---r's Lamentation for the<lb/>  Loss of his Hearing</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JWagerle 15JE99"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="673A44PJ">
+          <head type="note" n="1" xml:id="spp-673A44PJ-headnote-1">
+            <lg n="1" xml:id="spp-673A44PJ-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A44PJ-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-673A44PJ-headnote-2">
+            <lg n="1" xml:id="spp-673A44PJ-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A44PJ-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-673A44PJ-headnote-3">
+            <lg n="1" xml:id="spp-673A44PJ-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-673A44PJ-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-673A44PJ-line-1" n="1">om.</l>
+            <l xml:id="swift-673A44PJ-line-2" n="2">om.</l>
+            <l xml:id="swift-673A44PJ-line-3" n="3">om.</l>
+            <l xml:id="swift-673A44PJ-line-4" n="4">om.</l>
+            <l xml:id="swift-673A44PJ-line-5" n="5"><hi rend="display-initial">D</hi>Eaf, giddy, helpless, left alone,</l>
+            <l xml:id="swift-673A44PJ-line-6" n="6">To all my friends a burden grown;</l>
+            <l xml:id="swift-673A44PJ-line-7" n="7">No more I hear my church's bell,</l>
+            <l xml:id="swift-673A44PJ-line-8" n="8">Than if it rung for my own knell:</l>
+            <l xml:id="swift-673A44PJ-line-9" n="9">At thunder now no more I start,</l>
+            <l xml:id="swift-673A44PJ-line-10" n="10">Than at the rumbling of a cart;</l>
+            <l xml:id="swift-673A44PJ-line-11" n="11">And what's incredible, alack!</l>
+            <l xml:id="swift-673A44PJ-line-12" n="12">No more I hear a woman's clack.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

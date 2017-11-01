@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PASTORAL DIALOGUE;</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 2AU04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes">
+          <link target="# #spp-408-14W2-footnote-headnote-1"/>
+        </linkGrp>
+        <div n="408-14W2">
+          <head type="note" n="1" xml:id="spp-408-14W2-headnote-1">
+            <lg n="1" xml:id="spp-408-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-14W2-headnote-1-line-group-1-line-1">WRITTEN AFTER THE NEWS OF THE KING'S DEATH.<ref target="#spp-408-14W2-footnote-headnote-1">1</ref><note n="1" xml:id="spp-408-14W2-footnote-headnote-1" place="foot">George I., who died after a short sickness, by eating a melon, at Osnaburg, in his way to Hanover, June 11, 1727. The poem was carried to court, and read to King George II. and Queen Caroline.── H</note></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-408-14W2-headnote-2">
+            <lg n="1" xml:id="spp-408-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-14W2-headnote-2-line-group-1-line-1">T<hi rend="small-caps">HIS</hi> poem was written when George II. succeeded his father, and bore the following explanatory introduction:──</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-408-14W2-headnote-3">
+            <lg n="1" xml:id="spp-408-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-14W2-headnote-3-line-group-1-line-1">“Richmond Lodge is a house with a small park belonging to the crown. It was usually granted by the crown for a lease of years. The Duke of Ormond was the last who had it. After his exile, it was given to the prince of Wales by the king. The prince and princess usually passed their summer there. It is within a mile of Richmond.</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-408-14W2-headnote-4">
+            <lg n="1" xml:id="spp-408-14W2-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-14W2-headnote-4-line-group-1-line-1">“Marble Hill is a house built by Mrs Howard, then of the bedchamber, afterwards Countess of Suffolk, and groom of the stole to the Queen. It is on the Middlesex side, near Twickenham, where Mr Pope lived, and about two miles from Richmond Lodge. Mr Pope was the contriver of the gardens, Lord Herbert the architect, the Dean of St Patrick's chief butler, and keeper of the ice-house. Upon King George's death, these two houses met, and had the following dialogue.”</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-408-14W2-headnote-5">
+            <lg n="1" xml:id="spp-408-14W2-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-408-14W2-headnote-5-line-group-1-line-1">These verses were part of the flattery with which Swift and Pope were wont to assail Mrs Howard, whose influence with George II. when prince of Wales, they deemed omnipotent. How sadly they missed their aim in paying court to the favourite, instead of the Princess of Wales, has been of late completely developed in Coxe's Life of Sir Robert Walpole, and in the works of the late Horace Earl of Orford. It is, however, but justice to the memory of these distinguished men to say, that their adulation was not used for selfish ends, but for the benefit of their friend Gay; and end which may, in a certain degree, excuse the means. The opportunity of serving him through Mrs Howard's influence, seemed to be now opened by the king's death, for who could have guessed that the obnoxious favourite of the deceased monarch was only obscured for a few days, to shine forth with double lustre. These verses, therefore, were written with the purpose of keeping awake the recollection of the prince, now king, and Mrs Howard, to the connections they had formed in their comparative state of privacy, with the little band of literary and poetical friends.</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-408-14W2-line-1" n="1">I<hi rend="small-caps">N</hi> spite of Pope, in spite of Gay,</l>
+            <l xml:id="swift-408-14W2-line-2" n="2">And all that he or they can say;</l>
+            <l xml:id="swift-408-14W2-line-3" n="3">Sing on I must, and sing I will,</l>
+            <l xml:id="swift-408-14W2-line-4" n="4">Of Richmond·Lodge and Marble·Hill.</l>
+            <l rend="indent(1)" xml:id="swift-408-14W2-line-5" n="5">Last Friday night, as neighbours use,</l>
+            <l xml:id="swift-408-14W2-line-6" n="6">This couple met to talk of news:</l>
+            <l xml:id="swift-408-14W2-line-7" n="7">For, by old proverbs, it appears,</l>
+            <l xml:id="swift-408-14W2-line-8" n="8">That walls have tongues, and hedges ears.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-9" n="9"><lb/>MARBLE·HILL._Quoth Marble·Hill, right well I ween,</l>
+            <l xml:id="swift-408-14W2-line-10" n="10">Your mistress now is grown a queen;</l>
+            <l xml:id="swift-408-14W2-line-11" n="11">You'll find it soon by woful proof,</l>
+            <l xml:id="swift-408-14W2-line-12" n="12">She'll come no more beneath your roof.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-13" n="13"><lb/>RICHMOND·LODGE._The kingly prophet well evinces,</l>
+            <l xml:id="swift-408-14W2-line-14" n="14">That we should put no trust in princes:</l>
+            <l xml:id="swift-408-14W2-line-15" n="15">My royal master promised me</l>
+            <l xml:id="swift-408-14W2-line-16" n="16">To raise me to a high degree;</l>
+            <l xml:id="swift-408-14W2-line-17" n="17">But now he's grown a king, God wot,</l>
+            <l xml:id="swift-408-14W2-line-18" n="18">I fear I shall be soon forgot.</l>
+            <l xml:id="swift-408-14W2-line-19" n="19">You see, when folks have got their ends,</l>
+            <l xml:id="swift-408-14W2-line-20" n="20">How quickly they neglect their friends;</l>
+            <l xml:id="swift-408-14W2-line-21" n="21">Yet I may say, 'twixt me and you,</l>
+            <l xml:id="swift-408-14W2-line-22" n="22">Pray God, they now may find us true!</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-23" n="23"><lb/>MARBLE·HILL._My house was built but for a show,</l>
+            <l xml:id="swift-408-14W2-line-24" n="24">My lady's empty pockets know;</l>
+            <l xml:id="swift-408-14W2-line-25" n="25">And now she will not have a shilling,</l>
+            <l xml:id="swift-408-14W2-line-26" n="26">To raise the stairs, or build the ceiling;</l>
+            <l xml:id="swift-408-14W2-line-27" n="27">For all the courtly madams round</l>
+            <l xml:id="swift-408-14W2-line-28" n="28">Now pay four shillings in the pound;</l>
+            <l xml:id="swift-408-14W2-line-29" n="29">'Tis come to what I always thought:</l>
+            <l xml:id="swift-408-14W2-line-30" n="30">My dame is hardly worth a groat.<note place="foot">·Many a true word, according to an ancient proverb, is spoken in jest. Swift was not aware how nearly he described the narrowed situation of Mrs Howard's finances. Lord Orford, in a letter written shortly after her death, describers her affairs as so far from being easy, that the utmost economy could by no means prevent her exceeding her income considerably; and elsehwere informs us, in his Reminiscences, that, besides Marble Hill, which cost the king ten or twelve thousand pounds, she did not leave above 20,000<hi rend="italics">l</hi>. to her family.── Lord Orford's Works, vol. IV. p. 304. V. p. 456.</note></l>
+            <l xml:id="swift-408-14W2-line-31" n="31">Had you and I been courtiers born,</l>
+            <l xml:id="swift-408-14W2-line-32" n="32">We should not thus have lain forlorn;</l>
+            <l xml:id="swift-408-14W2-line-33" n="33">For those we dext'rous courtiers call,</l>
+            <l xml:id="swift-408-14W2-line-34" n="34">Can rise upon their masters' fall:</l>
+            <l xml:id="swift-408-14W2-line-35" n="35">But we, unlucky and unwise,</l>
+            <l xml:id="swift-408-14W2-line-36" n="36">Must fall because our masters rise.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-37" n="37"><lb/>RICHMOND·LODGE._My master, scarce a fortnight since,</l>
+            <l xml:id="swift-408-14W2-line-38" n="38">Was grown as wealthy as a prince;</l>
+            <l xml:id="swift-408-14W2-line-39" n="39">But now it will be no such thing,</l>
+            <l xml:id="swift-408-14W2-line-40" n="40">For he'll be poor as any king;</l>
+            <l xml:id="swift-408-14W2-line-41" n="41">And by his crown will nothing get,</l>
+            <l xml:id="swift-408-14W2-line-42" n="42">But like a king to run in debt.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-43" n="43"><lb/>MARBLE·HILL._No more the Dean, that grave divine,</l>
+            <l xml:id="swift-408-14W2-line-44" n="44">Shall keep the key of my no──wine;</l>
+            <l xml:id="swift-408-14W2-line-45" n="45">My ice-house rob, as heretofore,</l>
+            <l xml:id="swift-408-14W2-line-46" n="46">And steal my artichokes no more;</l>
+            <l xml:id="swift-408-14W2-line-47" n="47">Poor Patty Blount no more be seen</l>
+            <l xml:id="swift-408-14W2-line-48" n="48">Bedraggled in my walks so green:</l>
+            <l xml:id="swift-408-14W2-line-49" n="49">Plump Johnny Gay will now elope;</l>
+            <l xml:id="swift-408-14W2-line-50" n="50">And here no more will dangle Pope.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-51" n="51"><lb/>RICHMOND·LODGE._Here wont the Dean, when he's to seek,</l>
+            <l xml:id="swift-408-14W2-line-52" n="52">To spunge a breakfast once a-week;</l>
+            <l xml:id="swift-408-14W2-line-53" n="53">To cry the bread was stale, and mutter</l>
+            <l xml:id="swift-408-14W2-line-54" n="54">Complaints against the royal butter.</l>
+            <l xml:id="swift-408-14W2-line-55" n="55">But now I fear it will be said,</l>
+            <l xml:id="swift-408-14W2-line-56" n="56">No butter sticks upon his bread.<note place="foot">·This also proved a prophecy more true than the Dean suspected.</note></l>
+            <l xml:id="swift-408-14W2-line-57" n="57">We soon shall find him full of spleen,</l>
+            <l xml:id="swift-408-14W2-line-58" n="58">For want of tattling to the queen;</l>
+            <l xml:id="swift-408-14W2-line-59" n="59">Stunning her royal ears with talking;</l>
+            <l xml:id="swift-408-14W2-line-60" n="60">His reverence and her highness walking:</l>
+            <l xml:id="swift-408-14W2-line-61" n="61">While Lady Charlotte, <note place="foot">·Lady Charlotte de Roussy, a French lady.── H.</note> like a stroller,</l>
+            <l xml:id="swift-408-14W2-line-62" n="62">Sits mounted on the garden-roller.</l>
+            <l xml:id="swift-408-14W2-line-63" n="63">A goodly sight to see her ride,</l>
+            <l xml:id="swift-408-14W2-line-64" n="64">With ancient Mirmont <note place="foot">·Marquis de Mirmont, a Frenchman of quality, who had emigrated from his country, in consequence of the revocation of the Edict of Nantz.</note> at her side.</l>
+            <l xml:id="swift-408-14W2-line-65" n="65">In velvet cap his head lies warm,</l>
+            <l xml:id="swift-408-14W2-line-66" n="66">His hat, for show, beneath his arm.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-67" n="67"><lb/>MARBLE·HILL._Some South-Sea broker from the city</l>
+            <l xml:id="swift-408-14W2-line-68" n="68">Will purchase me, the more's the pity;</l>
+            <l xml:id="swift-408-14W2-line-69" n="69">Lay all my fine plantations waste,</l>
+            <l xml:id="swift-408-14W2-line-70" n="70">To fit them to his vulgar taste;</l>
+            <l xml:id="swift-408-14W2-line-71" n="71">Changed for the worse in every part,</l>
+            <l xml:id="swift-408-14W2-line-72" n="72">My master Pope will break his heart.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-73" n="73"><lb/>RICHMOND·LODGE._In my own Thames may I be drownded,</l>
+            <l xml:id="swift-408-14W2-line-74" n="74">If e'er I stoop beneath a crown'd head:</l>
+            <l xml:id="swift-408-14W2-line-75" n="75">Except her majesty prevails</l>
+            <l xml:id="swift-408-14W2-line-76" n="76">To place me with the Prince of Wales;</l>
+            <l xml:id="swift-408-14W2-line-77" n="77">And then I shall be free from fears,</l>
+            <l xml:id="swift-408-14W2-line-78" n="78">For he'll be prince these fifty years.</l>
+            <l xml:id="swift-408-14W2-line-79" n="79">I then will turn a courtier too,</l>
+            <l xml:id="swift-408-14W2-line-80" n="80">And serve the times as others do.</l>
+            <l xml:id="swift-408-14W2-line-81" n="81">Plain loyalty, not built on hope,</l>
+            <l xml:id="swift-408-14W2-line-82" n="82">I leave to your contriver, Pope;</l>
+            <l xml:id="swift-408-14W2-line-83" n="83">None loves his king and country better,</l>
+            <l xml:id="swift-408-14W2-line-84" n="84">Yet none was ever less their debtor.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-85" n="85"><lb/>MARBLE·HILL._Then let him come and take a nap</l>
+            <l xml:id="swift-408-14W2-line-86" n="86">In summer on my verdant lap;</l>
+            <l xml:id="swift-408-14W2-line-87" n="87">Prefer our villas, where the Thames is,</l>
+            <l xml:id="swift-408-14W2-line-88" n="88">To Kensington, or hot St James's;</l>
+            <l xml:id="swift-408-14W2-line-89" n="89">Nor shall I dull in silence sit;</l>
+            <l xml:id="swift-408-14W2-line-90" n="90">For 'tis to me he owes his wit;</l>
+            <l xml:id="swift-408-14W2-line-91" n="91">My groves, my echoes, and my birds,</l>
+            <l xml:id="swift-408-14W2-line-92" n="92">Have taught him his poetic words.</l>
+            <l xml:id="swift-408-14W2-line-93" n="93">We gardens, and you wildernesses,</l>
+            <l xml:id="swift-408-14W2-line-94" n="94">Assist all poets in distresses.</l>
+            <l xml:id="swift-408-14W2-line-95" n="95">Him twice a-week I here expect,</l>
+            <l xml:id="swift-408-14W2-line-96" n="96">To rattle Moody <note place="foot">·The gardener.── H.</note> for neglect;</l>
+            <l xml:id="swift-408-14W2-line-97" n="97">An idle rogue, who spends his quartridge</l>
+            <l xml:id="swift-408-14W2-line-98" n="98">In tippling at the Dog and Partridge;</l>
+            <l xml:id="swift-408-14W2-line-99" n="99">And I can hardly get him down</l>
+            <l xml:id="swift-408-14W2-line-100" n="100">Three times a-week to brush my gown.</l>
+            <l rend="center indent(1)" xml:id="swift-408-14W2-line-101" n="101"><lb/>RICHMOND·LODGE._I pity you, dear Marble·Hill;</l>
+            <l xml:id="swift-408-14W2-line-102" n="102">But hope to see you flourish still.</l>
+            <l xml:id="swift-408-14W2-line-103" n="103">All happiness── and so adieu.</l>
+            <l rend="center" xml:id="swift-408-14W2-line-104" n="104"><lb/>MARBLE·HILL._Kind Richmond·Lodge, the same to you.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

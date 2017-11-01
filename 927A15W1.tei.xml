@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON THE MOON.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="ATotoreanu 20JE13"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="927A15W1">
+          <head type="note" n="1" xml:id="spp-927A15W1-headnote-1">
+            <lg n="1" xml:id="spp-927A15W1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A15W1-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-927A15W1-headnote-2">
+            <lg n="1" xml:id="spp-927A15W1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A15W1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-927A15W1-headnote-3">
+            <lg n="1" xml:id="spp-927A15W1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-927A15W1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-927A15W1-line-1" n="1">I <hi rend="small-caps">WITH</hi> borrow'd silver shine,</l>
+            <l xml:id="swift-927A15W1-line-2" n="2">What you see is none of mine.</l>
+            <l xml:id="swift-927A15W1-line-3" n="3">First I show you but a quarter,</l>
+            <l xml:id="swift-927A15W1-line-4" n="4">Like the bow that guards the Tartar;</l>
+            <l xml:id="swift-927A15W1-line-5" n="5">Then the half, and then the whole,</l>
+            <l xml:id="swift-927A15W1-line-6" n="6">Ever dancing round the pole.</l>
+            <l xml:id="swift-927A15W1-line-7" n="7">om.</l>
+            <l xml:id="swift-927A15W1-line-8" n="8">om.</l>
+            <l xml:id="swift-927A15W1-line-9" n="9">om.</l>
+            <l xml:id="swift-927A15W1-line-10" n="10">om.</l>
+            <l xml:id="swift-927A15W1-line-11" n="11">om.</l>
+            <l xml:id="swift-927A15W1-line-12" n="12">om.</l>
+            <l xml:id="swift-927A15W1-line-13" n="13">om.</l>
+            <l xml:id="swift-927A15W1-line-14" n="14">om.</l>
+            <l xml:id="swift-927A15W1-line-15" n="15">om.</l>
+            <l xml:id="swift-927A15W1-line-16" n="16">om.</l>
+            <l xml:id="swift-927A15W1-line-17" n="17">om.</l>
+            <l xml:id="swift-927A15W1-line-18" n="18">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Discovery.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="JW 9OC06"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>√'d JW 10OC06 in situ (except for scrawled out 2nd line); ed. JW 11OC06, 14AU10, 21AP12, 11JE12, 27AU15, 8OC16 (and remark revised); HW variants noted JW 29JE07; SK tochk items examined 11JE12 in situ; remark JW 1JE16</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="062-457J">
+          <head type="note" n="1" xml:id="spp-062-457J-headnote-1">
+            <lg n="1" xml:id="spp-062-457J-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-457J-headnote-1-line-group-1-line-1">An. 1699.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-062-457J-headnote-2">
+            <lg n="1" xml:id="spp-062-457J-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-457J-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-062-457J-headnote-3">
+            <lg n="1" xml:id="spp-062-457J-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-062-457J-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-062-457J-line-1" n="1">When wise L<hi rend="superscript">d</hi> B── first came here,</l>
+            <l xml:id="swift-062-457J-line-2" n="2">\<hi rend="italics">del</hi>·Statesmen·and·Mob·expected·Wonders,·<hi rend="italics">overwritten·by</hi>·But·of·that·more·hereafter·when·I·begin·to·be<hi rend="italics">????</hi><lb/><hi rend="italics">add·beneath</hi>·We Irish Folks expected Wonders\</l>
+            <l xml:id="swift-062-457J-line-3" n="3">Nor thought to find so great a Peer</l>
+            <l xml:id="swift-062-457J-line-4" n="4">\<hi rend="italics">del</hi>·E'er·a\<lb/>E'er a week pas't committing Blunders:</l>
+            <l xml:id="swift-062-457J-line-5" n="5"><lb/>Till on a \<hi rend="italics">del</hi>·d·<hi rend="italics">add</hi>·D\ay cut out by Fate,·\<hi rend="italics">del</hi>·When\</l>
+            <l xml:id="swift-062-457J-line-6" n="6">When Folks came thick to make their Court</l>
+            <l xml:id="swift-062-457J-line-7" n="7">Out slipp't a Mystery of State</l>
+            <l xml:id="swift-062-457J-line-8" n="8">To give the Town and Country Sport.</l>
+            <l xml:id="swift-062-457J-line-9" n="9"><lb/>Now Enter <note place="foot">·my L<hi rend="superscript">d</hi>s wise_Secretary.</note> Bush with new State-Airs,</l>
+            <l xml:id="swift-062-457J-line-10" n="10">His Lordship's premier \<hi rend="italics">del</hi>·Minister\·Ministre,</l>
+            <l xml:id="swift-062-457J-line-11" n="11">And who in all profound Affairs</l>
+            <l xml:id="swift-062-457J-line-12" n="12">Is held as needfull as His Glyster<note place="foot">·\<hi rend="italics">uncued note</hi>·always taken<lb/>before my L<hi rend="superscript">d</hi>_went to Council.</note></l>
+            <l xml:id="swift-062-457J-line-13" n="13"><lb/>With Head reclining on his Shoulder,</l>
+            <l xml:id="swift-062-457J-line-14" n="14">He deals, and Hears mysterious Chat;</l>
+            <l xml:id="swift-062-457J-line-15" n="15">While every ignorant Beholder</l>
+            <l xml:id="swift-062-457J-line-16" n="16">Asks of his \<hi rend="italics">del</hi>·Neighbour\·Neighbor; Who is that?</l>
+            <l xml:id="swift-062-457J-line-17" n="17"><lb/>With this He putt up to My L────d</l>
+            <l xml:id="swift-062-457J-line-18" n="18">The Courtiers kept their Distance due,</l>
+            <l xml:id="swift-062-457J-line-19" n="19">He twitcht his sleeve, and stole a word,</l>
+            <l xml:id="swift-062-457J-line-20" n="20">Then to a Corner both withdrew.</l>
+            <l xml:id="swift-062-457J-line-21" n="21"><lb/>Imagine now My L────d and B\u·<hi rend="italics">lined·through</hi>\────sh</l>
+            <l xml:id="swift-062-457J-line-22" n="22">Whisp'ring in Iunto most profound,</l>
+            <l xml:id="swift-062-457J-line-23" n="23">Like good King Phys: and good King Ush:</l>
+            <l xml:id="swift-062-457J-line-24" n="24">\<hi rend="italics">del</hi>·At·leng\<lb/>While all the rest stood gaping round</l>
+            <l xml:id="swift-062-457J-line-25" n="25"><lb/>At length, a spark not too well bred</l>
+            <l xml:id="swift-062-457J-line-26" n="26">Of forward Face, and Ear acute,</l>
+            <l xml:id="swift-062-457J-line-27" n="27">Aduanc't on tiptoe, lean'd his Head</l>
+            <l xml:id="swift-062-457J-line-28" n="28">To overheare the grand Dispute.</l>
+            <l xml:id="swift-062-457J-line-29" n="29"><lb/>To learn what Northern Kings design,</l>
+            <l xml:id="swift-062-457J-line-30" n="30">Or from Whitehall some new Express,</l>
+            <l xml:id="swift-062-457J-line-31" n="31">Papists disarm'd, or Fall of Coin,</l>
+            <l xml:id="swift-062-457J-line-32" n="32">For sure (thought He) it can't be less.</l>
+            <l xml:id="swift-062-457J-line-33" n="33"><lb/>\<hi rend="italics">del</hi>·With·that·he·draws·two·Handfulls·out\_My L<hi rend="superscript">d</hi>, s<hi rend="superscript">d</hi> Bush, a Friend and I</l>
+            <l xml:id="swift-062-457J-line-34" n="34">Disguis'd in two old thredbare Coats</l>
+            <l xml:id="swift-062-457J-line-35" n="35">Ere Mornings dawn stole out to spy</l>
+            <l xml:id="swift-062-457J-line-36" n="36">How Markets went for Hey and Oats.</l>
+            <l xml:id="swift-062-457J-line-37" n="37"><lb/>With that he draws two Handfulls out,</l>
+            <l xml:id="swift-062-457J-line-38" n="38">The one was Oats, the other Hay,</l>
+            <l xml:id="swift-062-457J-line-39" n="39">Putts This to's Excellency's Snout,</l>
+            <l xml:id="swift-062-457J-line-40" n="40">And begs, He would the other weigh.</l>
+            <l xml:id="swift-062-457J-line-41" n="41"><lb/>My Lord seems pleas'd, but still directs</l>
+            <l xml:id="swift-062-457J-line-42" n="42">By all means to bring down the Rates,</l>
+            <l xml:id="swift-062-457J-line-43" n="43">Then with a Congee circumflex</l>
+            <l xml:id="swift-062-457J-line-44" n="44">Bush smiling round on all, retreats</l>
+            <l xml:id="swift-062-457J-line-45" n="45"><lb/>Our Listner stood a while confus'd,</l>
+            <l xml:id="swift-062-457J-line-46" n="46">\<hi rend="italics">del</hi>·B·gath'ring·Spirits,·wisely·ran·for't\<lb/>But gath'ring Spirits, wisely ran for't,</l>
+            <l xml:id="swift-062-457J-line-47" n="47">Enrag'd to see the World abus'd</l>
+            <l xml:id="swift-062-457J-line-48" n="48">By two such whisp'ring Kings of Branford.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

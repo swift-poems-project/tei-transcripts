@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A BALLAD ON THE GAME OF TRAFFIC.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 28JL04"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="074-14W2">
+          <head type="note" n="1" xml:id="spp-074-14W2-headnote-1">
+            <lg n="1" xml:id="spp-074-14W2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-14W2-headnote-1-line-group-1-line-1">WRITTEN AT THE CASTLE OF DUBLIN, 1699.&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-074-14W2-headnote-2">
+            <lg n="1" xml:id="spp-074-14W2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-14W2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-074-14W2-headnote-3">
+            <lg n="1" xml:id="spp-074-14W2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-074-14W2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-074-14W2-line-1" n="1">My Lord, <note place="foot">·The Earl of Berkeley.── H.</note> to find out who must deal,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-2" n="2">Delivers cards about,</l>
+            <l xml:id="swift-074-14W2-line-3" n="3">But the first knave does seldom fail</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-4" n="4">To find the doctor out.</l>
+            <l xml:id="swift-074-14W2-line-5" n="5"><lb/>But then his honour cried, gadzooks!</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-6" n="6">And seem'd to knit his brow:</l>
+            <l xml:id="swift-074-14W2-line-7" n="7">For on a knave he never looks</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-8" n="8">But h' thinks upon Jack How.<note place="foot">·Paymaster to the army.── H.</note></l>
+            <l xml:id="swift-074-14W2-line-9" n="9"><lb/>My lady, though she is no player,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-10" n="10">Some bungling partner takes,</l>
+            <l xml:id="swift-074-14W2-line-11" n="11">And, wedged in corner of a chair,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-12" n="12">Takes snuff, and holds the stakes.</l>
+            <l xml:id="swift-074-14W2-line-13" n="13"><lb/>Dame Floyd looks out in grave suspense</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-14" n="14">For pair royals and sequents;</l>
+            <l xml:id="swift-074-14W2-line-15" n="15">But, wisely cautious of her pence,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-16" n="16">The castle seldom frequents.</l>
+            <l xml:id="swift-074-14W2-line-17" n="17"><lb/>Quoth Herries, <note place="foot">·Mrs Frances Harris, the heroine of the preceding poem.</note> fairly putting cases,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-18" n="18">I'd won it, on my word,</l>
+            <l xml:id="swift-074-14W2-line-19" n="19">If I had but a pair of aces,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-20" n="20">And could pick up a third.</l>
+            <l xml:id="swift-074-14W2-line-21" n="21"><lb/>But Weston has a new-cast gown</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-22" n="22">On Sundays to be fine in,</l>
+            <l xml:id="swift-074-14W2-line-23" n="23">And, if she can but win a crown,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-24" n="24">'Twill just new dye the lining.</l>
+            <l xml:id="swift-074-14W2-line-25" n="25"><lb/>“With these is Parson Swift,<note place="foot">·Written by Lady Betty Berkeley, afterwards Lady Betty Germain. See the next poem.</note></l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-26" n="26">Not knowing how to spend his time,</l>
+            <l xml:id="swift-074-14W2-line-27" n="27">Does make a wretched shift,</l>
+            <l rend="indent(1)" xml:id="swift-074-14W2-line-28" n="28">To deafen them with puns and rhyme.”</l>
+            <l xml:id="swift-074-14W2-line-29" n="29">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

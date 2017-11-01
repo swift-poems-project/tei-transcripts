@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ON<lb/>  DREAMS.<lb/>  AN<lb/>  Imitation of P<hi rend="small-caps">ETRONIUS</hi>.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="RPeres 29JE94"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="363-28D-">
+          <head type="note" n="1" xml:id="spp-363-28D--headnote-1">
+            <lg n="1" xml:id="spp-363-28D--headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-363-28D--headnote-1-line-group-1-line-1"><hi rend="italics">Somnia quæ mentes ludunt volitantibus umbris</hi>, &amp;c.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-363-28D--headnote-2">
+            <lg n="1" xml:id="spp-363-28D--headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-363-28D--headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-363-28D--headnote-3">
+            <lg n="1" xml:id="spp-363-28D--headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-363-28D--headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-363-28D--line-1" n="1"><hi rend="display-initial">T</hi>HOSE Dreams that on the silent Night intrude,</l>
+            <l xml:id="swift-363-28D--line-2" n="2">And with false flitting Shades our Minds delude,</l>
+            <l xml:id="swift-363-28D--line-3" n="3"><hi rend="italics">Jove</hi> never sends us downward from the Skies,</l>
+            <l xml:id="swift-363-28D--line-4" n="4">Nor can they from infernal Mansions rise;</l>
+            <l xml:id="swift-363-28D--line-5" n="5">But all are meer Productions of the Brain,</l>
+            <l xml:id="swift-363-28D--line-6" n="6">And Fools consult Interpreters in vain.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-7" n="7">For, when in Bed we rest our weary Limbs,</l>
+            <l xml:id="swift-363-28D--line-8" n="8">The Mind unburthen'd sports in various Whims,</l>
+            <l xml:id="swift-363-28D--line-9" n="9">The busy Head with mimick Art runs o'er</l>
+            <l xml:id="swift-363-28D--line-10" n="10">The Scenes and Actions of the Day before.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-11" n="11">The drowsy Tyrant, by his Minions led,</l>
+            <l xml:id="swift-363-28D--line-12" n="12">To regal Rage devotes some Patriot's Head.</l>
+            <l xml:id="swift-363-28D--line-13" n="13">With equal Terrors, not with equal Guilt,</l>
+            <l xml:id="swift-363-28D--line-14" n="14">The Murd'rer dreams of all the Blood he spilt.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-15" n="15">The Soldier smiling hears the Widows Cries,</l>
+            <l xml:id="swift-363-28D--line-16" n="16">And stabs the Son before the Mother's Eyes.</l>
+            <l xml:id="swift-363-28D--line-17" n="17">With like Remorse his Brother of the Trade,</l>
+            <l xml:id="swift-363-28D--line-18" n="18">The Butcher, feels the Lamb beneath his blade.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-19" n="19">The Statesman rakes the Town to find a Plot,</l>
+            <l xml:id="swift-363-28D--line-20" n="20">And dreams of Forfeitures by Treason got.</l>
+            <l xml:id="swift-363-28D--line-21" n="21">Nor less Tom-T──d-Man of true Statesman mold,</l>
+            <l xml:id="swift-363-28D--line-22" n="22">Collects the City Filth in search of Gold.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-23" n="23">Orphans around his Bed the Lawyer sees,</l>
+            <l xml:id="swift-363-28D--line-24" n="24">And takes the Plaintiff's and Defendant's Fees.</l>
+            <l xml:id="swift-363-28D--line-25" n="25">His Fellow Pick-Purse, watching for a Job,</l>
+            <l xml:id="swift-363-28D--line-26" n="26">Fancies his Fingers in the Cully's Fob.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-27" n="27">The kind Physician grants the Husband's Prayers,</l>
+            <l xml:id="swift-363-28D--line-28" n="28">Or gives Relief to long-expecting Heirs.</l>
+            <l xml:id="swift-363-28D--line-29" n="29">The sleeping Hangman ties the fatal Noose,</l>
+            <l xml:id="swift-363-28D--line-30" n="30">Nor unsuccessful waits for dead Mens Shoes.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-31" n="31">The grave Divine with knotty Points perplext,</l>
+            <l xml:id="swift-363-28D--line-32" n="32">As if he was awake, nods o'or his Text:</l>
+            <l xml:id="swift-363-28D--line-33" n="33">While the sly Mountebank attends his Trade,</l>
+            <l xml:id="swift-363-28D--line-34" n="34">Harangues the Rabble, and is better paid.</l>
+            <l rend="indent(1)" xml:id="swift-363-28D--line-35" n="35">The hireling Senator of modern Days,</l>
+            <l xml:id="swift-363-28D--line-36" n="36">Bedaubs the guilty Great with nauseous Praise:</l>
+            <l xml:id="swift-363-28D--line-37" n="37">And <hi rend="italics">Dick</hi> the Scavenger with equal Grace,</l>
+            <l xml:id="swift-363-28D--line-38" n="38">Flirts from his Cart the Mud in ────'s Face.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

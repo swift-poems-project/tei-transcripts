@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">Drapier's Hill</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="875-ROGP">
+          <head type="note" n="1" xml:id="spp-875-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-875-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-875-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-875-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-875-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-875-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-875-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-875-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-875-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-875-ROGP-line-1" n="1">We give the world to understand,</l>
+            <l xml:id="swift-875-ROGP-line-2" n="2">Our thriving Dean has purchased land;</l>
+            <l xml:id="swift-875-ROGP-line-3" n="3">A purchase which will bring him clear,</l>
+            <l xml:id="swift-875-ROGP-line-4" n="4">Above his rent four pounds a year;</l>
+            <l xml:id="swift-875-ROGP-line-5" n="5">Provided, to improve the ground,</l>
+            <l xml:id="swift-875-ROGP-line-6" n="6">He will but add two hundred pound,</l>
+            <l xml:id="swift-875-ROGP-line-7" n="7">And from his endless hoarded store,</l>
+            <l xml:id="swift-875-ROGP-line-8" n="8">To build a house five hundred more.</l>
+            <l xml:id="swift-875-ROGP-line-9" n="9">Sir Arthur too shall have his will,</l>
+            <l xml:id="swift-875-ROGP-line-10" n="10">And call the mansion Drapier's Hill;</l>
+            <l xml:id="swift-875-ROGP-line-11" n="11">That when the nation long enslaved,</l>
+            <l xml:id="swift-875-ROGP-line-12" n="12">Forgets by whom it once was saved;</l>
+            <l xml:id="swift-875-ROGP-line-13" n="13">When none the Drapier's praise shall sing;</l>
+            <l xml:id="swift-875-ROGP-line-14" n="14">His signs aloft no longer swing;</l>
+            <l xml:id="swift-875-ROGP-line-15" n="15">om.</l>
+            <l xml:id="swift-875-ROGP-line-16" n="16">om.</l>
+            <l xml:id="swift-875-ROGP-line-17" n="17">His medals and his prints forgotten,</l>
+            <l xml:id="swift-875-ROGP-line-18" n="18">And all his handkerchiefs are rotten;</l>
+            <l xml:id="swift-875-ROGP-line-19" n="19">His famous <hi rend="italics">Letters</hi> made waste paper;</l>
+            <l xml:id="swift-875-ROGP-line-20" n="20">This hill may keep the name of Drapier:</l>
+            <l xml:id="swift-875-ROGP-line-21" n="21">In spite of envy flourish still,</l>
+            <l xml:id="swift-875-ROGP-line-22" n="22">And Drapier's vie with Cooper's Hill.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

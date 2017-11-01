@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A PANEGYRICK, 1731 <«FN1·>It is not quite certain whether this severe character (originally printed in these Miscellanies) was by Atterbury, or his friend Wesley; but it is more probably our Bishop's. Since the former edition it has been also printed as Swift's. It is the communication of a correspondent; as are the following lines, which Atterbury is said to have repeated with great emotion on a noble Lord's quitting his apartment, after proposing and improperly pressing some terms which the Bishop had rejected with disdain:</«FN1·></title>
+        <title>
+          <«FN1·>“Unmov'd by pity, and by shame unaw'd,</«FN1·>
+        </title>
+        <title>
+          <«FN1·>The genuine spawn of bully and of bawd;</«FN1·>
+        </title>
+        <title>
+          <«FN1·>Ungrateful to th' ungrateful wretch he grew by,</«FN1·>
+        </title>
+        <title>
+          <«FN1·>A baseborn, blundering, blustering, bloody, booby!”».</«FN1·>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="AGendler 13MR05"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="540-89L2">
+          <head type="note" n="1" xml:id="spp-540-89L2-headnote-1">
+            <lg n="1" xml:id="spp-540-89L2-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-89L2-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-540-89L2-headnote-2">
+            <lg n="1" xml:id="spp-540-89L2-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-89L2-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-540-89L2-headnote-3">
+            <lg n="1" xml:id="spp-540-89L2-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-540-89L2-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-540-89L2-line-1" n="1">om.</l>
+            <l xml:id="swift-540-89L2-line-2" n="2">om.</l>
+            <l xml:id="swift-540-89L2-line-3" n="3">om.</l>
+            <l xml:id="swift-540-89L2-line-4" n="4">om.</l>
+            <l xml:id="swift-540-89L2-line-5" n="5">om.</l>
+            <l xml:id="swift-540-89L2-line-6" n="6">om.</l>
+            <l xml:id="swift-540-89L2-line-7" n="7">om.</l>
+            <l xml:id="swift-540-89L2-line-8" n="8">om.</l>
+            <l xml:id="swift-540-89L2-line-9" n="9"><hi rend="display-initial">W</hi>ITH Favour and Fortune fastidiously blest,</l>
+            <l xml:id="swift-540-89L2-line-10" n="10">He's loud in his laugh, and coarse in his jest;</l>
+            <l xml:id="swift-540-89L2-line-11" n="11">Of Favour and Fortune unmerited vain,</l>
+            <l xml:id="swift-540-89L2-line-12" n="12">A Sharper in trifles, a Dupe in the main,</l>
+            <l xml:id="swift-540-89L2-line-13" n="13">Atchieving of Nothing, still promising Wonders,</l>
+            <l xml:id="swift-540-89L2-line-14" n="14">By dint of Experience improving in Blunders;</l>
+            <l xml:id="swift-540-89L2-line-15" n="15">Oppressing true Merit, exalting the Base;</l>
+            <l xml:id="swift-540-89L2-line-16" n="16">And selling his Country to purchase a Place;</l>
+            <l xml:id="swift-540-89L2-line-17" n="17">A Jobber of Stocks by retailing false news,</l>
+            <l xml:id="swift-540-89L2-line-18" n="18">A Prater at court in the style of the Mews;</l>
+            <l xml:id="swift-540-89L2-line-19" n="19">Of Virtue and Worth by profession a Giber;</l>
+            <l xml:id="swift-540-89L2-line-20" n="20">Of Juries and Senates the Bully and Briber.</l>
+            <l xml:id="swift-540-89L2-line-21" n="21">Though I name not the Wretch, you know whom I mean,</l>
+            <l xml:id="swift-540-89L2-line-22" n="22">'Tis the Cur-dog of Britain, and Spaniel of Spain.</l>
+            <l xml:id="swift-540-89L2-line-23" n="23">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

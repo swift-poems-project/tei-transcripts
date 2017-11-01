@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="SK 26JA07"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>ed. JW 6AP17</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="829-600A">
+          <head type="note" n="1" xml:id="spp-829-600A-headnote-1">
+            <lg n="1" xml:id="spp-829-600A-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-1-line-group-1-line-1">── An Explanation of the several <hi rend="black-letter">P</hi>sons Names mentioned in this Narrative &amp; in the Notes thereto──</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-829-600A-headnote-2">
+            <lg n="1" xml:id="spp-829-600A-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-2-line-group-1-line-1">J──n W──r is John Waller</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-829-600A-headnote-3">
+            <lg n="1" xml:id="spp-829-600A-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-3-line-group-1-line-1">── L──e's ── Loyde</l>
+            </lg>
+          </head>
+          <head type="note" n="4" xml:id="spp-829-600A-headnote-4">
+            <lg n="1" xml:id="spp-829-600A-headnote-4-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-4-line-group-1-line-1">── G──d ── Garland an Attorney</l>
+            </lg>
+          </head>
+          <head type="note" n="5" xml:id="spp-829-600A-headnote-5">
+            <lg n="1" xml:id="spp-829-600A-headnote-5-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-5-line-group-1-line-1">── K──y ── Kennedy a Bleeder</l>
+            </lg>
+          </head>
+          <head type="note" n="6" xml:id="spp-829-600A-headnote-6">
+            <lg n="1" xml:id="spp-829-600A-headnote-6-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-6-line-group-1-line-1">── P──l ── Pur\<hi rend="italics">?</hi>ce\ll a Proctor</l>
+            </lg>
+          </head>
+          <head type="note" n="7" xml:id="spp-829-600A-headnote-7">
+            <lg n="1" xml:id="spp-829-600A-headnote-7-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-7-line-group-1-line-1">── P──n ── Purdon a Justice of Peace</l>
+            </lg>
+          </head>
+          <head type="note" n="8" xml:id="spp-829-600A-headnote-8">
+            <lg n="1" xml:id="spp-829-600A-headnote-8-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-8-line-group-1-line-1">Geo: M\<hi rend="italics">del</hi> asse\──y ── Geo: Massey a Clergyman</l>
+            </lg>
+          </head>
+          <head type="note" n="9" xml:id="spp-829-600A-headnote-9">
+            <lg n="1" xml:id="spp-829-600A-headnote-9-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-9-line-group-1-line-1">── G──d ── Garland father of y<hi rend="superscript">e</hi> Attorney</l>
+            </lg>
+          </head>
+          <head type="note" n="10" xml:id="spp-829-600A-headnote-10">
+            <lg n="1" xml:id="spp-829-600A-headnote-10-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-10-line-group-1-line-1">W── B──y ── W<hi rend="superscript">m</hi> Bury Esq<hi rend="superscript">r</hi> a Justice of Peace</l>
+            </lg>
+          </head>
+          <head type="note" n="11" xml:id="spp-829-600A-headnote-11">
+            <lg n="1" xml:id="spp-829-600A-headnote-11-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-11-line-group-1-line-1">── W──p ── Westropp</l>
+            </lg>
+          </head>
+          <head type="note" n="12" xml:id="spp-829-600A-headnote-12">
+            <lg n="1" xml:id="spp-829-600A-headnote-12-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-12-line-group-1-line-1">J──n H──ys ── John Hays</l>
+            </lg>
+          </head>
+          <head type="note" n="13" xml:id="spp-829-600A-headnote-13">
+            <lg n="1" xml:id="spp-829-600A-headnote-13-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-13-line-group-1-line-1">Colonel T──r ── Colonel Taylor</l>
+            </lg>
+          </head>
+          <head type="note" n="14" xml:id="spp-829-600A-headnote-14">
+            <lg n="1" xml:id="spp-829-600A-headnote-14-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-14-line-group-1-line-1">── M──y ── Mahony</l>
+            </lg>
+          </head>
+          <head type="note" n="15" xml:id="spp-829-600A-headnote-15">
+            <lg n="1" xml:id="spp-829-600A-headnote-15-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-15-line-group-1-line-1">M<hi rend="superscript">r</hi> M──n ── M<hi rend="superscript">r</hi> Mahon</l>
+            </lg>
+          </head>
+          <head type="note" n="16" xml:id="spp-829-600A-headnote-16">
+            <lg n="1" xml:id="spp-829-600A-headnote-16-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-16-line-group-1-line-1">J──s M──l ── Jam<hi rend="superscript">s</hi> Mitchel</l>
+            </lg>
+          </head>
+          <head type="note" n="17" xml:id="spp-829-600A-headnote-17">
+            <lg n="1" xml:id="spp-829-600A-headnote-17-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-17-line-group-1-line-1">D──d. S──y ── David Shaughnessy</l>
+            </lg>
+          </head>
+          <head type="note" n="18" xml:id="spp-829-600A-headnote-18">
+            <lg n="1" xml:id="spp-829-600A-headnote-18-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-18-line-group-1-line-1">── M<hi rend="superscript">c</hi>K──g ── M<hi rend="superscript">c</hi>Keogh</l>
+            </lg>
+          </head>
+          <head type="note" n="19" xml:id="spp-829-600A-headnote-19">
+            <lg n="1" xml:id="spp-829-600A-headnote-19-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-19-line-group-1-line-1">── C──e ── Carrole</l>
+            </lg>
+          </head>
+          <head type="note" n="20" xml:id="spp-829-600A-headnote-20">
+            <lg n="1" xml:id="spp-829-600A-headnote-20-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-20-line-group-1-line-1">G──g. E──s ── Geo: Evans</l>
+            </lg>
+          </head>
+          <head type="note" n="21" xml:id="spp-829-600A-headnote-21">
+            <lg n="1" xml:id="spp-829-600A-headnote-21-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-21-line-group-1-line-1">Doct<hi rend="superscript">r</hi> D──y. D<hi rend="superscript">r</hi> Delany</l>
+            </lg>
+          </head>
+          <head type="note" n="22" xml:id="spp-829-600A-headnote-22">
+            <lg n="1" xml:id="spp-829-600A-headnote-22-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-22-line-group-1-line-1">── R──e ── Royse</l>
+            </lg>
+          </head>
+          <head type="note" n="23" xml:id="spp-829-600A-headnote-23">
+            <lg n="1" xml:id="spp-829-600A-headnote-23-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-23-line-group-1-line-1">by Doct<hi rend="superscript">r</hi> Ionathan Swift.</l>
+            </lg>
+          </head>
+          <head type="note" n="24" xml:id="spp-829-600A-headnote-24">
+            <lg n="1" xml:id="spp-829-600A-headnote-24-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-829-600A-headnote-24-line-group-1-line-1">Swift</l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-829-600A-line-1" n="1">om.</l>
+            <l xml:id="swift-829-600A-line-2" n="2">om.</l>
+            <l xml:id="swift-829-600A-line-3" n="3">om.</l>
+            <l xml:id="swift-829-600A-line-4" n="4">om.</l>
+            <l xml:id="swift-829-600A-line-5" n="5">om.</l>
+            <l xml:id="swift-829-600A-line-6" n="6">om.</l>
+            <l xml:id="swift-829-600A-line-7" n="7">om.</l>
+            <l xml:id="swift-829-600A-line-8" n="8">om.</l>
+            <l xml:id="swift-829-600A-line-9" n="9">om.</l>
+            <l xml:id="swift-829-600A-line-10" n="10">om.</l>
+            <l xml:id="swift-829-600A-line-11" n="11">om.</l>
+            <l xml:id="swift-829-600A-line-12" n="12">om.</l>
+            <l xml:id="swift-829-600A-line-13" n="13">om.</l>
+            <l xml:id="swift-829-600A-line-14" n="14">om.</l>
+            <l xml:id="swift-829-600A-line-15" n="15">om.</l>
+            <l xml:id="swift-829-600A-line-16" n="16">om.</l>
+            <l xml:id="swift-829-600A-line-17" n="17">om.</l>
+            <l xml:id="swift-829-600A-line-18" n="18">om.</l>
+            <l xml:id="swift-829-600A-line-19" n="19">om.</l>
+            <l xml:id="swift-829-600A-line-20" n="20">om.</l>
+            <l xml:id="swift-829-600A-line-21" n="21">om.</l>
+            <l xml:id="swift-829-600A-line-22" n="22">om.</l>
+            <l xml:id="swift-829-600A-line-23" n="23">om.</l>
+            <l xml:id="swift-829-600A-line-24" n="24">om.</l>
+            <l xml:id="swift-829-600A-line-25" n="25">om.</l>
+            <l xml:id="swift-829-600A-line-26" n="26">om.</l>
+            <l xml:id="swift-829-600A-line-27" n="27">om.</l>
+            <l xml:id="swift-829-600A-line-28" n="28">om.</l>
+            <l xml:id="swift-829-600A-line-29" n="29">om.</l>
+            <l xml:id="swift-829-600A-line-30" n="30">om.</l>
+            <l xml:id="swift-829-600A-line-31" n="31">om.</l>
+            <l xml:id="swift-829-600A-line-32" n="32">om.</l>
+            <l xml:id="swift-829-600A-line-33" n="33">om.</l>
+            <l xml:id="swift-829-600A-line-34" n="34">om.</l>
+            <l xml:id="swift-829-600A-line-35" n="35">om.</l>
+            <l xml:id="swift-829-600A-line-36" n="36">om.</l>
+            <l xml:id="swift-829-600A-line-37" n="37">om.</l>
+            <l xml:id="swift-829-600A-line-38" n="38">om.</l>
+            <l xml:id="swift-829-600A-line-39" n="39">om.</l>
+            <l xml:id="swift-829-600A-line-40" n="40">om.</l>
+            <l xml:id="swift-829-600A-line-41" n="41">om.</l>
+            <l xml:id="swift-829-600A-line-42" n="42">om.</l>
+            <l xml:id="swift-829-600A-line-43" n="43">om.</l>
+            <l xml:id="swift-829-600A-line-44" n="44">om.</l>
+            <l xml:id="swift-829-600A-line-45" n="45">om.</l>
+            <l xml:id="swift-829-600A-line-46" n="46">om.</l>
+            <l xml:id="swift-829-600A-line-47" n="47">om.</l>
+            <l xml:id="swift-829-600A-line-48" n="48">om.</l>
+            <l xml:id="swift-829-600A-line-49" n="49">om.</l>
+            <l xml:id="swift-829-600A-line-50" n="50">om.</l>
+            <l xml:id="swift-829-600A-line-51" n="51">om.</l>
+            <l xml:id="swift-829-600A-line-52" n="52">om.</l>
+            <l xml:id="swift-829-600A-line-53" n="53">om.</l>
+            <l xml:id="swift-829-600A-line-54" n="54">om.</l>
+            <l xml:id="swift-829-600A-line-55" n="55">om.</l>
+            <l xml:id="swift-829-600A-line-56" n="56">om.</l>
+            <l xml:id="swift-829-600A-line-57" n="57">om.</l>
+            <l xml:id="swift-829-600A-line-58" n="58">om.</l>
+            <l xml:id="swift-829-600A-line-59" n="59">om.</l>
+            <l xml:id="swift-829-600A-line-60" n="60">om.</l>
+            <l xml:id="swift-829-600A-line-61" n="61">om.</l>
+            <l xml:id="swift-829-600A-line-62" n="62">om.</l>
+            <l xml:id="swift-829-600A-line-63" n="63">om.</l>
+            <l xml:id="swift-829-600A-line-64" n="64">om.</l>
+            <l xml:id="swift-829-600A-line-65" n="65">om.</l>
+            <l xml:id="swift-829-600A-line-66" n="66">om.</l>
+            <l xml:id="swift-829-600A-line-67" n="67">om.</l>
+            <l xml:id="swift-829-600A-line-68" n="68">om.</l>
+            <l xml:id="swift-829-600A-line-69" n="69">om.</l>
+            <l xml:id="swift-829-600A-line-70" n="70">om.</l>
+            <l xml:id="swift-829-600A-line-71" n="71">om.</l>
+            <l xml:id="swift-829-600A-line-72" n="72">om.</l>
+            <l xml:id="swift-829-600A-line-73" n="73">om.</l>
+            <l xml:id="swift-829-600A-line-74" n="74">om.</l>
+            <l xml:id="swift-829-600A-line-75" n="75">om.</l>
+            <l xml:id="swift-829-600A-line-76" n="76">om.</l>
+            <l xml:id="swift-829-600A-line-77" n="77">om.</l>
+            <l xml:id="swift-829-600A-line-78" n="78">om.</l>
+            <l xml:id="swift-829-600A-line-79" n="79">om.</l>
+            <l xml:id="swift-829-600A-line-80" n="80">om.</l>
+            <l xml:id="swift-829-600A-line-81" n="81">om.</l>
+            <l xml:id="swift-829-600A-line-82" n="82">om.</l>
+            <l xml:id="swift-829-600A-line-83" n="83">om.</l>
+            <l xml:id="swift-829-600A-line-84" n="84">om.</l>
+            <l xml:id="swift-829-600A-line-85" n="85">om.</l>
+            <l xml:id="swift-829-600A-line-86" n="86">om.</l>
+            <l xml:id="swift-829-600A-line-87" n="87">om.</l>
+            <l xml:id="swift-829-600A-line-88" n="88">om.</l>
+            <l xml:id="swift-829-600A-line-89" n="89">om.</l>
+            <l xml:id="swift-829-600A-line-90" n="90">om.</l>
+            <l xml:id="swift-829-600A-line-91" n="91">om.</l>
+            <l xml:id="swift-829-600A-line-92" n="92">om.</l>
+            <l xml:id="swift-829-600A-line-93" n="93">om.</l>
+            <l xml:id="swift-829-600A-line-94" n="94">om.</l>
+            <l xml:id="swift-829-600A-line-95" n="95">om.</l>
+            <l xml:id="swift-829-600A-line-96" n="96">om.</l>
+            <l xml:id="swift-829-600A-line-97" n="97">om.</l>
+            <l xml:id="swift-829-600A-line-98" n="98">om.</l>
+            <l xml:id="swift-829-600A-line-99" n="99">om.</l>
+            <l xml:id="swift-829-600A-line-100" n="100">om.</l>
+            <l xml:id="swift-829-600A-line-101" n="101">om.</l>
+            <l xml:id="swift-829-600A-line-102" n="102">om.</l>
+            <l xml:id="swift-829-600A-line-103" n="103">om.</l>
+            <l xml:id="swift-829-600A-line-104" n="104">om.</l>
+            <l xml:id="swift-829-600A-line-105" n="105">om.</l>
+            <l xml:id="swift-829-600A-line-106" n="106">om.</l>
+            <l xml:id="swift-829-600A-line-107" n="107">om.</l>
+            <l xml:id="swift-829-600A-line-108" n="108">om.</l>
+            <l xml:id="swift-829-600A-line-109" n="109">om.</l>
+            <l xml:id="swift-829-600A-line-110" n="110">om.</l>
+            <l xml:id="swift-829-600A-line-111" n="111">om.</l>
+            <l xml:id="swift-829-600A-line-112" n="112">om.</l>
+            <l xml:id="swift-829-600A-line-113" n="113">om.</l>
+            <l xml:id="swift-829-600A-line-114" n="114">om.</l>
+            <l xml:id="swift-829-600A-line-115" n="115">om.</l>
+            <l xml:id="swift-829-600A-line-116" n="116">om.</l>
+            <l xml:id="swift-829-600A-line-117" n="117">om.</l>
+            <l xml:id="swift-829-600A-line-118" n="118">om.</l>
+            <l xml:id="swift-829-600A-line-119" n="119">om.</l>
+            <l xml:id="swift-829-600A-line-120" n="120">om.</l>
+            <l xml:id="swift-829-600A-line-121" n="121">om.</l>
+            <l xml:id="swift-829-600A-line-122" n="122">om.</l>
+            <l xml:id="swift-829-600A-line-123" n="123">om.</l>
+            <l xml:id="swift-829-600A-line-124" n="124">om.</l>
+            <l xml:id="swift-829-600A-line-125" n="125">om.</l>
+            <l xml:id="swift-829-600A-line-126" n="126">om.</l>
+            <l xml:id="swift-829-600A-line-127" n="127">om.</l>
+            <l xml:id="swift-829-600A-line-128" n="128">om.</l>
+            <l xml:id="swift-829-600A-line-129" n="129">om.</l>
+            <l xml:id="swift-829-600A-line-130" n="130">om.</l>
+            <l xml:id="swift-829-600A-line-131" n="131">om.</l>
+            <l xml:id="swift-829-600A-line-132" n="132">om.</l>
+            <l xml:id="swift-829-600A-line-133" n="133">om.</l>
+            <l xml:id="swift-829-600A-line-134" n="134">om.</l>
+            <l xml:id="swift-829-600A-line-135" n="135">om.</l>
+            <l xml:id="swift-829-600A-line-136" n="136">om.</l>
+            <l xml:id="swift-829-600A-line-137" n="137">Who is that Hell featured Brawler,</l>
+            <l xml:id="swift-829-600A-line-138" n="138">Is it Satan? no' its Waller;</l>
+            <l xml:id="swift-829-600A-line-139" n="139">In what figure shall a bard dress,</l>
+            <l xml:id="swift-829-600A-line-140" n="140">Jack the Grandson of Sir Hardress,</l>
+            <l xml:id="swift-829-600A-line-141" n="141">Honest Keeper drive him further,</l>
+            <l xml:id="swift-829-600A-line-142" n="142">In his Looks are Hell, &amp; Murther,</l>
+            <l xml:id="swift-829-600A-line-143" n="143">See his Scolding Visage drop,</l>
+            <l xml:id="swift-829-600A-line-144" n="144">just as when he Murther'd Throp.</l>
+            <l xml:id="swift-829-600A-line-145" n="145">om.</l>
+            <l xml:id="swift-829-600A-line-146" n="146">om.</l>
+            <l xml:id="swift-829-600A-line-147" n="147">om.</l>
+            <l xml:id="swift-829-600A-line-148" n="148">om.</l>
+            <l xml:id="swift-829-600A-line-149" n="149">om.</l>
+            <l xml:id="swift-829-600A-line-150" n="150">om.</l>
+            <l xml:id="swift-829-600A-line-151" n="151">om.</l>
+            <l xml:id="swift-829-600A-line-152" n="152">om.</l>
+            <l xml:id="swift-829-600A-line-153" n="153">om.</l>
+            <l xml:id="swift-829-600A-line-154" n="154">om.</l>
+            <l xml:id="swift-829-600A-line-155" n="155">om.</l>
+            <l xml:id="swift-829-600A-line-156" n="156">om.</l>
+            <l xml:id="swift-829-600A-line-157" n="157">om.</l>
+            <l xml:id="swift-829-600A-line-158" n="158">om.</l>
+            <l xml:id="swift-829-600A-line-159" n="159">om.</l>
+            <l xml:id="swift-829-600A-line-160" n="160">om.</l>
+            <l xml:id="swift-829-600A-line-161" n="161">om.</l>
+            <l xml:id="swift-829-600A-line-162" n="162">om.</l>
+            <l xml:id="swift-829-600A-line-163" n="163">om.</l>
+            <l xml:id="swift-829-600A-line-164" n="164">om.</l>
+            <l xml:id="swift-829-600A-line-165" n="165">om.</l>
+            <l xml:id="swift-829-600A-line-166" n="166">om.</l>
+            <l xml:id="swift-829-600A-line-167" n="167">om.</l>
+            <l xml:id="swift-829-600A-line-168" n="168">om.</l>
+            <l xml:id="swift-829-600A-line-169" n="169">om.</l>
+            <l xml:id="swift-829-600A-line-170" n="170">om.</l>
+            <l xml:id="swift-829-600A-line-171" n="171">om.</l>
+            <l xml:id="swift-829-600A-line-172" n="172">om.</l>
+            <l xml:id="swift-829-600A-line-173" n="173">om.</l>
+            <l xml:id="swift-829-600A-line-174" n="174">om.</l>
+            <l xml:id="swift-829-600A-line-175" n="175">om.</l>
+            <l xml:id="swift-829-600A-line-176" n="176">om.</l>
+            <l xml:id="swift-829-600A-line-177" n="177">om.</l>
+            <l xml:id="swift-829-600A-line-178" n="178">om.</l>
+            <l xml:id="swift-829-600A-line-179" n="179">om.</l>
+            <l xml:id="swift-829-600A-line-180" n="180">om.</l>
+            <l xml:id="swift-829-600A-line-181" n="181">om.</l>
+            <l xml:id="swift-829-600A-line-182" n="182">om.</l>
+            <l xml:id="swift-829-600A-line-183" n="183">om.</l>
+            <l xml:id="swift-829-600A-line-184" n="184">om.</l>
+            <l xml:id="swift-829-600A-line-185" n="185">om.</l>
+            <l xml:id="swift-829-600A-line-186" n="186">om.</l>
+            <l xml:id="swift-829-600A-line-187" n="187">om.</l>
+            <l xml:id="swift-829-600A-line-188" n="188">om.</l>
+            <l xml:id="swift-829-600A-line-189" n="189">om.</l>
+            <l xml:id="swift-829-600A-line-190" n="190">om.</l>
+            <l xml:id="swift-829-600A-line-191" n="191">om.</l>
+            <l xml:id="swift-829-600A-line-192" n="192">om.</l>
+            <l xml:id="swift-829-600A-line-193" n="193">om.</l>
+            <l xml:id="swift-829-600A-line-194" n="194">om.</l>
+            <l xml:id="swift-829-600A-line-195" n="195">om.</l>
+            <l xml:id="swift-829-600A-line-196" n="196">om.</l>
+            <l xml:id="swift-829-600A-line-197" n="197">om.</l>
+            <l xml:id="swift-829-600A-line-198" n="198">om.</l>
+            <l xml:id="swift-829-600A-line-199" n="199">om.</l>
+            <l xml:id="swift-829-600A-line-200" n="200">om.</l>
+            <l xml:id="swift-829-600A-line-201" n="201">om.</l>
+            <l xml:id="swift-829-600A-line-202" n="202">om.</l>
+            <l xml:id="swift-829-600A-line-203" n="203">om.</l>
+            <l xml:id="swift-829-600A-line-204" n="204">om.</l>
+            <l xml:id="swift-829-600A-line-205" n="205">om.</l>
+            <l xml:id="swift-829-600A-line-206" n="206">om.</l>
+            <l xml:id="swift-829-600A-line-207" n="207">om.</l>
+            <l xml:id="swift-829-600A-line-208" n="208">om.</l>
+            <l xml:id="swift-829-600A-line-209" n="209">om.</l>
+            <l xml:id="swift-829-600A-line-210" n="210">om.</l>
+            <l xml:id="swift-829-600A-line-211" n="211">om.</l>
+            <l xml:id="swift-829-600A-line-212" n="212">om.</l>
+            <l xml:id="swift-829-600A-line-213" n="213">om.</l>
+            <l xml:id="swift-829-600A-line-214" n="214">om.</l>
+            <l xml:id="swift-829-600A-line-215" n="215">om.</l>
+            <l xml:id="swift-829-600A-line-216" n="216">om.</l>
+            <l xml:id="swift-829-600A-line-217" n="217">om.</l>
+            <l xml:id="swift-829-600A-line-218" n="218">om.</l>
+            <l xml:id="swift-829-600A-line-219" n="219">om.</l>
+            <l xml:id="swift-829-600A-line-220" n="220">om.</l>
+            <l xml:id="swift-829-600A-line-221" n="221">om.</l>
+            <l xml:id="swift-829-600A-line-222" n="222">om.</l>
+            <l xml:id="swift-829-600A-line-223" n="223">om.</l>
+            <l xml:id="swift-829-600A-line-224" n="224">om.</l>
+            <l xml:id="swift-829-600A-line-225" n="225">om.</l>
+            <l xml:id="swift-829-600A-line-226" n="226">om.</l>
+            <l xml:id="swift-829-600A-line-227" n="227">om.</l>
+            <l xml:id="swift-829-600A-line-228" n="228">om.</l>
+            <l xml:id="swift-829-600A-line-229" n="229">om.</l>
+            <l xml:id="swift-829-600A-line-230" n="230">om.</l>
+            <l xml:id="swift-829-600A-line-231" n="231">om.</l>
+            <l xml:id="swift-829-600A-line-232" n="232">om.</l>
+            <l xml:id="swift-829-600A-line-233" n="233">om.</l>
+            <l xml:id="swift-829-600A-line-234" n="234">om.</l>
+            <l xml:id="swift-829-600A-line-235" n="235">om.</l>
+            <l xml:id="swift-829-600A-line-236" n="236">om.</l>
+            <l xml:id="swift-829-600A-line-237" n="237">om.</l>
+            <l xml:id="swift-829-600A-line-238" n="238">om.</l>
+            <l xml:id="swift-829-600A-line-239" n="239">om.</l>
+            <l xml:id="swift-829-600A-line-240" n="240">om.</l>
+            <l xml:id="swift-829-600A-line-241" n="241">om.</l>
+            <l xml:id="swift-829-600A-line-242" n="242">om.</l>
+            <l xml:id="swift-829-600A-line-243" n="243">om.</l>
+            <l xml:id="swift-829-600A-line-244" n="244">om.</l>
+            <l xml:id="swift-829-600A-line-245" n="245">om.</l>
+            <l xml:id="swift-829-600A-line-246" n="246">om.</l>
+            <l xml:id="swift-829-600A-line-247" n="247">om.</l>
+            <l xml:id="swift-829-600A-line-248" n="248">om.</l>
+            <l xml:id="swift-829-600A-line-249" n="249">om.</l>
+            <l xml:id="swift-829-600A-line-250" n="250">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

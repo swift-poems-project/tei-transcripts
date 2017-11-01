@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A VINDICATION OF THE LIBEL:<lb/>  Or, a New Ballad, written by a Shoe-boy, on an At-<lb/>  torney who was formerly a Shoe-boy.</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <name key="NSweeney 14MY10"/>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="Y33B71H1">
+          <head type="note" n="1" xml:id="spp-Y33B71H1-headnote-1">
+            <lg n="1" xml:id="spp-Y33B71H1-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y33B71H1-headnote-1-line-group-1-line-1"><hi rend="italics">Qui color ater erat, nunc est contrarius atro</hi>.</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-Y33B71H1-headnote-2">
+            <lg n="1" xml:id="spp-Y33B71H1-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y33B71H1-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-Y33B71H1-headnote-3">
+            <lg n="1" xml:id="spp-Y33B71H1-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-Y33B71H1-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-Y33B71H1-line-1" n="1"><hi rend="display-initial">W</hi>ITH singing of ballads, and crying of news,</l>
+            <l xml:id="swift-Y33B71H1-line-2" n="2">With whitening of buckles, and blacking of shoes,</l>
+            <l xml:id="swift-Y33B71H1-line-3" n="3">Did <hi rend="italics">H──y</hi> set out, both shoeless and shirtless,</l>
+            <l xml:id="swift-Y33B71H1-line-4" n="4">And moneyless too, but not very dirtless;</l>
+            <l xml:id="swift-Y33B71H1-line-5" n="5">Two pence he had gotten by begging, that's all;</l>
+            <l xml:id="swift-Y33B71H1-line-6" n="6">One bought him a <hi rend="italics">brush</hi>, and one a <hi rend="italics">black ball</hi>;</l>
+            <l xml:id="swift-Y33B71H1-line-7" n="7">For clouts at a loss he could not be much,</l>
+            <l xml:id="swift-Y33B71H1-line-8" n="8">The cloaths on his back being all of them such;</l>
+            <l xml:id="swift-Y33B71H1-line-9" n="9">Thus vamp'd and accouter'd, with <hi rend="italics">clouts, ball</hi>, and <hi rend="italics">brush</hi>,</l>
+            <l xml:id="swift-Y33B71H1-line-10" n="10">He gallantly ventur'd his fortune to push:</l>
+            <l xml:id="swift-Y33B71H1-line-11" n="11">Vespasian <hi rend="italics">thus, being bespatter'd with dirt,</hi></l>
+            <l xml:id="swift-Y33B71H1-line-12" n="12"><hi rend="italics">Was omen'd to be</hi> Rome's <hi rend="italics">emperor for't</hi>.</l>
+            <l xml:id="swift-Y33B71H1-line-13" n="13">But as a wise fiddler is noted, you know,</l>
+            <l xml:id="swift-Y33B71H1-line-14" n="14">To have a good couple of strings to one bow;</l>
+            <l xml:id="swift-Y33B71H1-line-15" n="15">So <hi rend="italics">H──y</hi> judiciously thought it too little,</l>
+            <l xml:id="swift-Y33B71H1-line-16" n="16">To live by the sweat of his hands and his spittle:</l>
+            <l xml:id="swift-Y33B71H1-line-17" n="17">He finds out another profession as fit,</l>
+            <l xml:id="swift-Y33B71H1-line-18" n="18">And straight he becomes a retailer of wit;</l>
+            <l xml:id="swift-Y33B71H1-line-19" n="19">One day he cried── <hi rend="italics">Murders, and songs, and great news</hi>!</l>
+            <l xml:id="swift-Y33B71H1-line-20" n="20">Another as loudly── <hi rend="italics">Here blacken your shoes</hi>!</l>
+            <l xml:id="swift-Y33B71H1-line-21" n="21">At <hi rend="italics">D──l's</hi> full often he fed upon bits,</l>
+            <l xml:id="swift-Y33B71H1-line-22" n="22">For winding of jacks up, and turning of spits;</l>
+            <l xml:id="swift-Y33B71H1-line-23" n="23">Lick'd all the plates round, had many a grubbing,</l>
+            <l xml:id="swift-Y33B71H1-line-24" n="24">And now and then got from the cook-maid a drubbing:</l>
+            <l xml:id="swift-Y33B71H1-line-25" n="25">Such bastings effect upon<hi rend="black-letter"> <hi rend="italics">him</hi> could have none;</hi></l>
+            <l xml:id="swift-Y33B71H1-line-26" n="26">The dog will be patient, that's struck with a bone.</l>
+            <l xml:id="swift-Y33B71H1-line-27" n="27">Sir <hi rend="italics">Thomas</hi>, observing this <hi rend="italics">H──y</hi> withal</l>
+            <l xml:id="swift-Y33B71H1-line-28" n="28">So expert and so active at <hi rend="italics">brushes</hi> and <hi rend="italics">ball</hi>,</l>
+            <l xml:id="swift-Y33B71H1-line-29" n="29">Was mov'd with compassion, and thought it a pity</l>
+            <l xml:id="swift-Y33B71H1-line-30" n="30">A youth should be lost, that had been so witty:</l>
+            <l xml:id="swift-Y33B71H1-line-31" n="31">Without more ado, he vamps up my spark,</l>
+            <l xml:id="swift-Y33B71H1-line-32" n="32">And now we'll suppose him an eminent clerk;</l>
+            <l xml:id="swift-Y33B71H1-line-33" n="33">Suppose him an adept in all the degrees</l>
+            <l xml:id="swift-Y33B71H1-line-34" n="34">Of scribbling <hi rend="italics">cum dasho</hi>, and hooking of fees,</l>
+            <l xml:id="swift-Y33B71H1-line-35" n="35">Suppose him a miser, attorney <hi rend="italics">per</hi> bill,</l>
+            <l xml:id="swift-Y33B71H1-line-36" n="36">Suppose him a courtier── suppose what you will──</l>
+            <l xml:id="swift-Y33B71H1-line-37" n="37">Yet would you believe, though I swore by the Bible,</l>
+            <l xml:id="swift-Y33B71H1-line-38" n="38">That he took up two <hi rend="italics">news-boys</hi> for crying the <hi rend="italics">libel</hi>?</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

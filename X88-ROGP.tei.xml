@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <hi rend="italics">A Town Eclogue</hi>
+        </title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="X88-ROGP">
+          <head type="note" n="1" xml:id="spp-X88-ROGP-headnote-1">
+            <lg n="1" xml:id="spp-X88-ROGP-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X88-ROGP-headnote-1-line-group-1-line-1">&#13;</l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-X88-ROGP-headnote-2">
+            <lg n="1" xml:id="spp-X88-ROGP-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X88-ROGP-headnote-2-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-X88-ROGP-headnote-3">
+            <lg n="1" xml:id="spp-X88-ROGP-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-X88-ROGP-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-1" n="1">CORYDONNow the keen rigour of the winter's o'er,</l>
+            <l xml:id="swift-X88-ROGP-line-2" n="2">No hail descends, and frosts can pinch no more,</l>
+            <l xml:id="swift-X88-ROGP-line-3" n="3">Whilst other girls confess the genial spring,</l>
+            <l xml:id="swift-X88-ROGP-line-4" n="4">And laugh aloud, or amorous ditties sing,</l>
+            <l xml:id="swift-X88-ROGP-line-5" n="5">Secure from cold their lovely necks display,</l>
+            <l xml:id="swift-X88-ROGP-line-6" n="6">And throw each useless chafing-dish away,</l>
+            <l xml:id="swift-X88-ROGP-line-7" n="7">Why sits my Phyllis discontented here,</l>
+            <l xml:id="swift-X88-ROGP-line-8" n="8">Nor feels the turn of the revolving year?</l>
+            <l xml:id="swift-X88-ROGP-line-9" n="9">Why on that brow dwells sorrow and dismay,</l>
+            <l xml:id="swift-X88-ROGP-line-10" n="10">Where loves were wont to sport, and smiles to play?</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-11" n="11"><lb/>PHYLLISAh Corydon! Survey the 'Change around,</l>
+            <l xml:id="swift-X88-ROGP-line-12" n="12">Through all the 'Change no wretch like me is found:</l>
+            <l xml:id="swift-X88-ROGP-line-13" n="13">Alas! the day, when I, poor heedless maid, 3}</l>
+            <l xml:id="swift-X88-ROGP-line-14" n="14">Was to your rooms in Lincoln's Inn betrayed,</l>
+            <l xml:id="swift-X88-ROGP-line-15" n="15">Then how you swore, how many vows you made?</l>
+            <l xml:id="swift-X88-ROGP-line-16" n="16">Ye listening zephyrs, that o'erheard his love,</l>
+            <l xml:id="swift-X88-ROGP-line-17" n="17">Waft the soft accents to the gods above.</l>
+            <l xml:id="swift-X88-ROGP-line-18" n="18">Alas! the day; for oh eternal shame!</l>
+            <l xml:id="swift-X88-ROGP-line-19" n="19">I sold you handkerchiefs, and lost my fame.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-20" n="20"><lb/>CORYDONWhen I forget the favour you bestowed,</l>
+            <l xml:id="swift-X88-ROGP-line-21" n="21">Red herrings shall be spawned in Tyburn Road,</l>
+            <l xml:id="swift-X88-ROGP-line-22" n="22">Fleet Street transformed become a flowery green,</l>
+            <l xml:id="swift-X88-ROGP-line-23" n="23">And mass be sung where operas are seen.</l>
+            <l xml:id="swift-X88-ROGP-line-24" n="24">The wealthy cit, and the St James's beau,</l>
+            <l xml:id="swift-X88-ROGP-line-25" n="25">Shall change their quarters, and their joys forego;</l>
+            <l xml:id="swift-X88-ROGP-line-26" n="26">Stockjobbing this to Jonathan's shall come,</l>
+            <l xml:id="swift-X88-ROGP-line-27" n="27">At the Groom Porter's that play off his plum.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-28" n="28"><lb/>PHYLLISBut what to me does all that love avail, 3}</l>
+            <l xml:id="swift-X88-ROGP-line-29" n="29">If whilst I doze at home o'er porter's ale,</l>
+            <l xml:id="swift-X88-ROGP-line-30" n="30">Each night with wine and wenches you regale?</l>
+            <l xml:id="swift-X88-ROGP-line-31" n="31">My livelong hours in anxious cares are past,</l>
+            <l xml:id="swift-X88-ROGP-line-32" n="32">And raging hunger lays my beauty waste.</l>
+            <l xml:id="swift-X88-ROGP-line-33" n="33">On templars spruce in vain I glances throw,</l>
+            <l xml:id="swift-X88-ROGP-line-34" n="34">And with shrill voice invite them as they go.</l>
+            <l xml:id="swift-X88-ROGP-line-35" n="35">Exposed in vain my glossy ribbons shine,</l>
+            <l xml:id="swift-X88-ROGP-line-36" n="36">And unregarded wave upon the twine.</l>
+            <l xml:id="swift-X88-ROGP-line-37" n="37">The week flies round, and when my profit's known,</l>
+            <l xml:id="swift-X88-ROGP-line-38" n="38">I hardly clear enough to change a crown.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-39" n="39"><lb/>CORYDONHard fate of virtue thus to be distressed,</l>
+            <l xml:id="swift-X88-ROGP-line-40" n="40">Thou fairest of thy trade, and far the best!</l>
+            <l xml:id="swift-X88-ROGP-line-41" n="41">As fruitmen's stalls the summer market grace,</l>
+            <l xml:id="swift-X88-ROGP-line-42" n="42">And ruddy peaches them; as first in place</l>
+            <l xml:id="swift-X88-ROGP-line-43" n="43">Plum-cake is seen o'er smaller pastryware,</l>
+            <l xml:id="swift-X88-ROGP-line-44" n="44">And ice on that; so Phyllis does appear</l>
+            <l xml:id="swift-X88-ROGP-line-45" n="45">In playhouse and in park, above the rest</l>
+            <l xml:id="swift-X88-ROGP-line-46" n="46">Of belles mechanic, elegantly dressed.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-47" n="47"><lb/>PHYLLISAnd yet Crepundia, that conceited fair,</l>
+            <l xml:id="swift-X88-ROGP-line-48" n="48">Amidst her toys, affects a saucy air,</l>
+            <l xml:id="swift-X88-ROGP-line-49" n="49">And views me hourly with a scornful eye.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-50" n="50"><lb/>CORYDONShe might as well with bright Cleora vie.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-51" n="51"><lb/>PHYLLISWith this large petticoat I strive in vain</l>
+            <l xml:id="swift-X88-ROGP-line-52" n="52">To hide my folly past, and coming pain;</l>
+            <l xml:id="swift-X88-ROGP-line-53" n="53">'Tis now no secret; she, and fifty more,</l>
+            <l xml:id="swift-X88-ROGP-line-54" n="54">Observe the symptoms I had once before.</l>
+            <l xml:id="swift-X88-ROGP-line-55" n="55">A second babe at Wapping must be placed,</l>
+            <l xml:id="swift-X88-ROGP-line-56" n="56">When I scarce bear the charges of the last.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-57" n="57"><lb/>CORYDONWhat I could raise I sent; a pound of plums,</l>
+            <l xml:id="swift-X88-ROGP-line-58" n="58">Five shillings, and a coral for his gums:</l>
+            <l xml:id="swift-X88-ROGP-line-59" n="59">Tomorrow I intend him something more.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-60" n="60"><lb/>PHYLLISI sent a frock and pair of shoes before.</l>
+            <l rend="indent(1)" xml:id="swift-X88-ROGP-line-61" n="61"><lb/>CORYDONHowever, you shall home with me tonight,</l>
+            <l xml:id="swift-X88-ROGP-line-62" n="62">Forget your cares, and revel in delight.</l>
+            <l xml:id="swift-X88-ROGP-line-63" n="63">I have in store a pint or two of wine,</l>
+            <l xml:id="swift-X88-ROGP-line-64" n="64">Some cracknels, and the remnant of a chine.</l>
+            <l xml:id="swift-X88-ROGP-line-65" n="65">And now on either side, and all around,</l>
+            <l xml:id="swift-X88-ROGP-line-66" n="66">The weighty shop-boards fall, and bars resound;</l>
+            <l xml:id="swift-X88-ROGP-line-67" n="67">Each ready seamstress slips her pattens on,</l>
+            <l xml:id="swift-X88-ROGP-line-68" n="68">And ties her hood, preparing to be gone.</l>
+            <l xml:id="swift-X88-ROGP-line-69" n="69">om.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

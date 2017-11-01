@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><lb/> AGAINST<lb/>  CARTHY</title>
+        <sponsor>Lafayette College</sponsor>
+        <principal>James Woolley</principal>
+        <respStmt>
+          <resp>proof corrected</resp>
+          <resp>proof corrected</resp>
+          <name key="TNiese 25JA11"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Distributed by Digital Scholarship Services at Lafayette College</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <additional/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="book">
+        <linkGrp type="notes"/>
+        <div n="671CWILH">
+          <head type="note" n="1" xml:id="spp-671CWILH-headnote-1">
+            <lg n="1" xml:id="spp-671CWILH-headnote-1-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-671CWILH-headnote-1-line-group-1-line-1"><hi rend="italics">By</hi> S<hi rend="small-caps">WIFT</hi> <hi rend="italics">and Others</hi></l>
+            </lg>
+          </head>
+          <head type="note" n="2" xml:id="spp-671CWILH-headnote-2">
+            <lg n="1" xml:id="spp-671CWILH-headnote-2-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-671CWILH-headnote-2-line-group-1-line-1"><hi rend="italics">Upon his being complimented by</hi> Dalacourt.</l>
+            </lg>
+          </head>
+          <head type="note" n="3" xml:id="spp-671CWILH-headnote-3">
+            <lg n="1" xml:id="spp-671CWILH-headnote-3-line-group-1" type="headnote">
+              <l n="1" xml:id="spp-671CWILH-headnote-3-line-group-1-line-1"></l>
+            </lg>
+          </head>
+          <lg n="1">
+            <l xml:id="swift-671CWILH-line-1" n="1"><hi rend="display-initial">C</hi>ARTHY ambitious to retrieve his name,</l>
+            <l xml:id="swift-671CWILH-line-2" n="2">(For Satire had destroy'd his little fame,)</l>
+            <l xml:id="swift-671CWILH-line-3" n="3">Amidst a croud of hungry Bards cries out,</l>
+            <l xml:id="swift-671CWILH-line-4" n="4">Who'll write my Panegyrick?--- come, be stout:</l>
+            <l xml:id="swift-671CWILH-line-5" n="5">With ale and chops I'll treat who writes the best,</l>
+            <l xml:id="swift-671CWILH-line-6" n="6">But all the rest shall club it I protest:---</l>
+            <l xml:id="swift-671CWILH-line-7" n="7">Each strait his service offers, pays his court,</l>
+            <l xml:id="swift-671CWILH-line-8" n="8">From sloven <hi rend="italics">Bernard</hi> to beau <hi rend="italics">Dalacourt</hi>.</l>
+            <l xml:id="swift-671CWILH-line-9" n="9">Smit with the glorious prize next struts in <hi rend="italics">Sewel</hi>,</l>
+            <l xml:id="swift-671CWILH-line-10" n="10">Whose <hi rend="italics">Phiz</hi> bespeaks his diet water-gruel.</l>
+            <l xml:id="swift-671CWILH-line-11" n="11">So a poor wretch upon the brink of death,</l>
+            <l xml:id="swift-671CWILH-line-12" n="12">When now the flood invades his strugling breath,</l>
+            <l xml:id="swift-671CWILH-line-13" n="13">If haply on the liquid surface float,</l>
+            <l xml:id="swift-671CWILH-line-14" n="14">Chaff, straws, or fragments of some rotten boat,</l>
+            <l xml:id="swift-671CWILH-line-15" n="15">With eager hand he grasps the treacherous prey,</l>
+            <l xml:id="swift-671CWILH-line-16" n="16">In vain, --- for soon the slender prop gives way;</l>
+            <l xml:id="swift-671CWILH-line-17" n="17">Beneath the vast abyss he plunges quick,</l>
+            <l xml:id="swift-671CWILH-line-18" n="18">And ten to one drags down his feeble stick.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
